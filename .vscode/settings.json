@@ -1,0 +1,9 @@
+{
+    "editor.tabSize": 4,
+    "editor.renderWhitespace": "trailing",
+    "editor.minimap.enabled": false,
+    "files.autoSave": "onFocusChange",
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "npm.packageManager": "yarn"
+}

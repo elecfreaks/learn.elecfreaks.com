@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "LEARN",
+    "description": "The title in the navbar"
+  },
+  "item.label.Store": {
+    "message": "Store",
+    "description": "Navbar item with label Store"
+  }
+}

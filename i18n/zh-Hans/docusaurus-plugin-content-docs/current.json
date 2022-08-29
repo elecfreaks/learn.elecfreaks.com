@@ -2,5 +2,25 @@
   "version.label": {
     "message": "下一版本",
     "description": "The label for version current"
+  },
+  "sidebar.learnSidebar.category.Micro:bit Kits": {
+    "message": "Micro:bit套件",
+    "description": "The label for category Micro:bit Kits in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Micro:bit Kits.link.generated-index.description": {
+    "message": "micro:bit套件介绍。",
+    "description": "The generated-index page description for category Micro:bit Kits in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Micro:bit Starter Kit": {
+    "message": "Micro:bit入门套件",
+    "description": "The label for category Micro:bit Starter Kit in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Pico:ed Kits": {
+    "message": "Pico:ed套件",
+    "description": "The label for category Pico:ed Kits in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Pico:ed Kits.link.generated-index.description": {
+    "message": "Pico:ed套件介绍。",
+    "description": "The generated-index page description for category Pico:ed Kits in sidebar learnSidebar"
   }
 }

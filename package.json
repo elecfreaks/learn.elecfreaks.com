@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": false,
   "license": "MIT",
+  "repository": "https://github.com/elecfreaks/learn.elecfreaks.com.git",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",

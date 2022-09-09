@@ -9,11 +9,11 @@ const config = {
   title: 'LEARN',
   tagline: 'Focus on micro:bit accessories!',
   url: 'https://www.elecfreaks.com/',
-  baseUrl: '/',
+  baseUrl: '/learn/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'elecfreaks',
+  organizationName: 'ELECFREAKS',
   projectName: 'learn.elecfreaks.com',
   i18n: {
     defaultLocale: 'en',
@@ -45,7 +45,7 @@ const config = {
       navbar: {
         title: 'LEARN',
         logo: {
-          alt: 'elecfreaks Logo',
+          alt: 'ELECFREAKS Logo',
           src: 'img/logo.svg',
         },
         style: 'primary',

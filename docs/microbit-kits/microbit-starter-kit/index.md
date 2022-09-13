@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+sidebar_label: Micro:bit入门套件
+---
+
 # 简介
 ---
 

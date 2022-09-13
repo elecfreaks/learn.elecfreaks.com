@@ -2,8 +2,8 @@
 sidebar_position: 2
 ---
 
-# 酷比特小车
+# Cutebot Car
 
-Pico:ed酷比特小车。
+Cutebot car for Pico:ed.
 
 ![Cutebot for Pico:ed](./images/picoed-cutebot.jpeg)

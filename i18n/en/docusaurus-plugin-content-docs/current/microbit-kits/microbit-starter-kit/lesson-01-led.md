@@ -1,16 +1,13 @@
-# 课程01 LED灯
+# Lesson 01 LED
 
-## 介绍:
----
-
-LED具有广泛的应用。我们在日常生活中看到的大多数信号灯都使用LED作为其主要光源。
+LED has wide applications. Most signal lights we saw in our daily life use LED as its major light source.
 
 ## Reference
 ---
 
 Links: [makecode project](https://makecode.microbit.org/_KTyao707M9ew)
 
-您也可以直接下载链接：
+You can also download the links directly:
 
 <div
     style={{

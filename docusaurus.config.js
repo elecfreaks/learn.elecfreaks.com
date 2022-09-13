@@ -16,7 +16,7 @@ const config = {
   organizationName: 'ELECFREAKS',
   projectName: 'learn.elecfreaks.com',
   i18n: {
-    defaultLocale: 'en',
+    defaultLocale: 'zh-Hans',
     locales: ['en', 'zh-Hans'],
   },
 
@@ -29,7 +29,12 @@ const config = {
           disableVersioning: false,
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/elecfreaks/learn.elecfreaks.com/',
+          editUrl: ({ locale, docPath }) => {
+            if (locale === 'zh-Hans') {
+              return `https://github.com/elecfreaks/learn.elecfreaks.com/edit/main/docs/${docPath}`;
+            }
+            return `https://github.com/elecfreaks/learn.elecfreaks.com/edit/main/i18n/${locale}/docusaurus-plugin-content-docs/current/${docPath}`;
+          },
         },
         blog: false,
         theme: {

@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.learnSidebar.category.Micro:bit Kits": {
+    "message": "Micro:bit Kits",
+    "description": "The label for category Micro:bit Kits in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Micro:bit Starter Kit": {
+    "message": "Micro:bit Starter Kit",
+    "description": "The label for category Micro:bit Starter Kit in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Pico:ed Kits": {
+    "message": "Pico:ed Kits",
+    "description": "The label for category Pico:ed Kits in sidebar learnSidebar"
+  }
+}

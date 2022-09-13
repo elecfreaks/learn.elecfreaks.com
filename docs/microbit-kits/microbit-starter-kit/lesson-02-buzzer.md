@@ -1,3 +1,3 @@
-# Lesson 02 Buzzer
+# 课程02 蜂鸣器
 
-Buzzer.
+蜂鸣器。

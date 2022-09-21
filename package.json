@@ -6,9 +6,9 @@
   "repository": "https://github.com/elecfreaks/learn.elecfreaks.com.git",
   "scripts": {
     "docusaurus": "docusaurus",
-    "start": "docusaurus start",
-    "start:en": "docusaurus start '--locale' 'en'",
-    "start:zh-hans": "docusaurus start '--locale' 'zh-Hans'",
+    "start": "docusaurus start --host 0.0.0.0",
+    "start:en": "docusaurus start --host 0.0.0.0 --locale en",
+    "start:zh-hans": "docusaurus start --host 0.0.0.0 --locale zh-Hans",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",

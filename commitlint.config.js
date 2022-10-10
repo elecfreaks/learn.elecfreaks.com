@@ -28,6 +28,8 @@ module.exports = {
                 'Liu666',
                 'Kevin',
                 'Tiger',
+                'Mark',
+                'Luka',
             ],
         ],
     },

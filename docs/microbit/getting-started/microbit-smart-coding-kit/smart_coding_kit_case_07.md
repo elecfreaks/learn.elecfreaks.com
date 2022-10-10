@@ -44,13 +44,47 @@
 - 请参考程序连接：[https://makecode.microbit.org/_ix81uXcAULqW](https://makecode.microbit.org/_ix81uXcAULqW)
 - 你也可以通过以下网页直接下载程序。
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_ix81uXcAULqW" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_hiRiC6PPT4Pd"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
 
 - 接收端
 - 请参考程序连接：[https://makecode.microbit.org/_WpqdARYUXWMj](https://makecode.microbit.org/_WpqdARYUXWMj)
 - 你也可以通过以下网页直接下载程序。
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_WpqdARYUXWMj" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_hiRiC6PPT4Pd"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
 ---
 
 
@@ -70,6 +104,5 @@
 ## 常见问题
 
 
-## 相关阅读  
+## 相关阅读
 ---
-

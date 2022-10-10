@@ -18,7 +18,7 @@ wear:bit纽扣电池板Pro是一种小尺寸的微型扩展板。
 ---
 [手表套件Pro（wear:bit）](https://item.taobao.com/item.htm?ft=t&id=582042009614)
 
-## 特性 
+## 特性
 ---
 
 - 由两个3V的CR2025锂电池供电。
@@ -39,10 +39,10 @@ wear:bit纽扣电池板Pro是一种小尺寸的微型扩展板。
 - 尺寸：49.1x51.6mm
 - 净重：12.7g
 
-## 主要功能模块介绍  
----  
+## 主要功能模块介绍
+---
 
-### 电源开关  
+### 电源开关
 
 左档打开电源，右档关闭电源。
 
@@ -62,10 +62,10 @@ wear:bit纽扣电池板Pro是一种小尺寸的微型扩展板。
 ![](./images/wear_bit_03.png)
 
 
-## 快速上手  
----  
+## 快速上手
+---
 
-### 硬件连接  
+### 硬件连接
 
 并将两个3V的2025电池装入wear:bit扩展板上电池座中。
 
@@ -78,7 +78,7 @@ wear:bit纽扣电池板Pro是一种小尺寸的微型扩展板。
 拨动到开档，2025电池给micro：bit主板和wear:bit主板供电。
 
 
-### 软件编程  
+### 软件编程
 
 打开makecode，编写程序micro：bit主板点阵屏显示爱心闪烁图案。
 
@@ -86,9 +86,26 @@ wear:bit纽扣电池板Pro是一种小尺寸的微型扩展板。
 
 你也能通过下列窗口直接下载代码
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_MP28fbDmUMfz" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_hiRiC6PPT4Pd"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
 
-### 结果  
+### 结果
 
 micro：bit主板点阵显示爱心闪烁图案。
 

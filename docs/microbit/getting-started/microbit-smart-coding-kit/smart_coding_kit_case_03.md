@@ -56,7 +56,24 @@
 
 - 你也可以通过以下网页直接下载程序。
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_hR9djPETmd38" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_hiRiC6PPT4Pd"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
 ---
 
 
@@ -76,6 +93,5 @@
 
 答：micro:bit获取的温度为主板芯片温度，并不是环境温度。当主板运行时间过久等芯片会明显发热。
 
-## 相关阅读  
+## 相关阅读
 ---
-

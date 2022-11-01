@@ -1,3 +1,8 @@
+---
+sidebar_position: 10
+sidebar_label: Halberd Dragon
+---
+
 # Case 06: Halberd Dragon
 ## Introduction
 
@@ -36,6 +41,3 @@ Note: This case takes a 2.8mm basswood board as an example. If you need to use d
 ![](./images/tooca-laser-1-case-06-03.png)
 
 ![](./images/tooca-laser-1-case-06-04.png)
-
-
-

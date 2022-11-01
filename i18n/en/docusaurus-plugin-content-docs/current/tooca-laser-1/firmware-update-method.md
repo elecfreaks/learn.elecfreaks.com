@@ -1,4 +1,9 @@
-# ELECFREAKS TOOCA Laser 1 Firmware Update Method
+---
+sidebar_position: 3
+sidebar_label: TOOCA Laser 1 Firmware Update Method
+---
+
+# TOOCA Laser 1 Firmware Update Method
 
 ## Firmware update method
 1. Prepare a TF card with a capacity larger than the firmware size, e.g. 8G TF card.
@@ -11,6 +16,3 @@
 - **Do not operate the device during the firmware update process and do not turn off the power to the device, otherwise, it will cause serious consequences of product damage.**
 
 Link: [TOOCA_Laser_1_20220802_Release](https://github.com/elecfreaks/learn-en/raw/master/tooca-laser-1/file/TOOCA_Laser_1_20220802_Release.bin)
-
-
-

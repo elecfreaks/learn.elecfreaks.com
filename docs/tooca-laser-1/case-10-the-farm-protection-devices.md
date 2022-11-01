@@ -1,3 +1,8 @@
+---
+sidebar_position: 14
+sidebar_label: The Farm Protection Devices
+---
+
 # Case 10: The Farm Protection Devices
 
 ## Introduction

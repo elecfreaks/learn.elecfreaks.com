@@ -1,3 +1,8 @@
+---
+sidebar_position: 8
+sidebar_label: Balancing Birds
+---
+
 # Case 04: Balancing Birds
 
 ## Introduction
@@ -33,6 +38,3 @@ Note: This case takes a 2.8mm basswood board as an example. If you need to use d
 ## Effect show
 
 ![](./images/tooca-laser-1-case-04-01.png)
-
-
-

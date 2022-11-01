@@ -1,3 +1,8 @@
+---
+sidebar_position: 6
+sidebar_label: The World Map
+---
+
 # Case 02: The World Map
 ## Introduction
 

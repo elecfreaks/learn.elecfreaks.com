@@ -1,4 +1,9 @@
-# ELECFREAKS TOOCA Laser 1 User Manuals
+---
+sidebar_position: 2
+sidebar_label: TOOCA Laser 1 User Manuals
+---
+
+# TOOCA Laser 1 User Manuals
 
 ## Product Information
 
@@ -19,5 +24,4 @@
 
 ### LaserGRBL Operation Video Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OQ1hJLAnwVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OQ1hJLAnwVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

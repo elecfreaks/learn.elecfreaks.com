@@ -1,3 +1,8 @@
+---
+sidebar_position: 11
+sidebar_label: Tyrannosaurus Rex
+---
+
 # Case 07: Tyrannosaurus Rex
 
 ## Introduction
@@ -40,5 +45,3 @@ Note: This case takes a 2.8mm basswood board as an example. If you need to use d
 ![](./images/tooca-laser-1-case-07-05.png)
 
 ![](./images/tooca-laser-1-case-07-06.png)
-
-

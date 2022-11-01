@@ -1,3 +1,8 @@
+---
+sidebar_position: 7
+sidebar_label: The Elk
+---
+
 # Case 03: The Elk
 
 ## Introduction
@@ -32,6 +37,3 @@ Note: This case takes a 2.8mm basswood board as an example. If you need to use d
 ## Effect show
 
 ![](./images/tooca-laser-1-case-03-01.png)
-
-
-

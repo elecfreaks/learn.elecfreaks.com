@@ -1,3 +1,8 @@
+---
+sidebar_position: 12
+sidebar_label: The Pencil Holder of the Minions
+---
+
 # Case 08: The Pencil Holder of the Minions
 
 ## Introduction
@@ -37,6 +42,3 @@ Note: This case takes a 2.8mm basswood board as an example. If you need to use d
 ![](./images/tooca-laser-1-case-08-02.png)
 
 ![](./images/tooca-laser-1-case-08-03.png)
-
-
-

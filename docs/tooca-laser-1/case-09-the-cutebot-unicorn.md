@@ -1,3 +1,8 @@
+---
+sidebar_position: 13
+sidebar_label: The Cutebot Unicorn
+---
+
 # Case 09: The Cutebot Unicorn
 
 ## Introduction

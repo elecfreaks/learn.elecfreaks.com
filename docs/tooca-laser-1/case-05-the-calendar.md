@@ -1,3 +1,9 @@
+---
+sidebar_position: 9
+sidebar_label: The Calendar
+---
+
+
 # Case 05: The Calendar
 
 ## Introduction

@@ -1,3 +1,9 @@
+---
+sidebar_position: 1
+sidebar_label: ELECFREAKS TOOAC Laser 1
+---
+
+
 # ELECFREAKS TOOCA Laser 1
 
 ## Introduction
@@ -33,4 +39,3 @@ The TOOCA Laser 1 with groundbreaking technologies, is capable of carving metal 
 ## Product List
 
 ![](./images/tooca-laser-1-02.png)
-

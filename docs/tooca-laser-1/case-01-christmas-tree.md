@@ -1,3 +1,8 @@
+---
+sidebar_position: 5
+sidebar_label: The Christmas Tree
+---
+
 # Case 01: The Christmas Tree
 
 ## Introduction
@@ -34,6 +39,3 @@ Note: This case takes a 2.8mm basswood board as an example. If you need to use d
 ## Effect Show
 
 ![](./images/tooca-laser-1-case-01-01.png)
-
-
-

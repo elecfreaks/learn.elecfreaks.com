@@ -1,11 +1,11 @@
 ---
-sidebar_position: 7
+sidebar_position: 10
 sidebar_label: The Elk
 ---
 
 # Case 03: The Elk
 
-## Introduction
+
 
 The elk is a large herbivore with a black longitudinal stripe on the back of the neck and a brownish-white belly and rump, and after September the body fur is replaced by a longer, thicker gray winter coat.
 

@@ -7,16 +7,25 @@ sidebar_label: TOOAC Laser 1
 
 ![](./images/tooca-laser-1-icon.png)
 
-import christmas_tree_Icon from './images/tooca-laser-1-case-01-01.png';
-import the_world_map_Icon from './images/tooca-laser-1-case-02-01.png';
-import the_elk_Icon from './images/tooca-laser-1-case-03-01.png';
-import balancing_birds_Icon from './images/tooca-laser-1-case-04-01.png';
-import the_calendar_Icon from './images/tooca-laser-1-case-05-01.png';
-import the_halberd_dragon_Icon from './images/tooca-laser-1-case-06-01.png';
-import the_tyrannosaurus_rex_Icon from './images/tooca-laser-1-case-07-01.png';
-import the_pencil_holder_of_the_minions_Icon from './images/tooca-laser-1-case-08-01.png';
-import the_cutebot_unicorn_Icon from './images/tooca-laser-1-case-09-01.png';
-import the_farm_protection_devices_Icon from './images/tooca-laser-1-case-10-01.png';
+import christmas_tree_Icon from './images/christmas-tree-icon.png';
+import the_world_map_Icon from './images/the-world-map-icon.png';
+import the_elk_Icon from './images/the-elk-icon.png';
+import balancing_birds_Icon from './images/balancing-birds-icon.png';
+import the_calendar_Icon from './images/the-calendar-icon.png';
+import the_halberd_dragon_Icon from './images/the-halberd-dragon-icon.png';
+import the_tyrannosaurus_rex_Icon from './images/the-tyrannosaurus-rex-icon.png';
+import the_pencil_holder_of_the_minions_Icon from './images/the-pencil-holder-of-the-minions-icon.png';
+import the_cutebot_unicorn_Icon from './images/the-cutebot-unicorn-icon.png';
+import the_farm_protection_devices_Icon from './images/the-farm-protection-devices-icon.png';
+
+## Directory
+
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
+```
+
 
 ## Case Library
 ---

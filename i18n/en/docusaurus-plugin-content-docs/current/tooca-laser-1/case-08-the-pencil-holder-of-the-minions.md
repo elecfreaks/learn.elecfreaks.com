@@ -1,11 +1,11 @@
 ---
-sidebar_position: 12
+sidebar_position: 15
 sidebar_label: The Pencil Holder of the Minions
 ---
 
 # Case 08: The Pencil Holder of the Minions
 
-## Introduction
+
 
 A pen holder is a columnar container for holding pens or other long stationery, and comes in a variety of shapes and materials. Traditional penholders are made of wood, stone, pottery, bamboo, and other materials.
 

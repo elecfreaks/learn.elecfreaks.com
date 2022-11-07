@@ -1,12 +1,12 @@
 ---
-sidebar_position: 12
+sidebar_position: 14
 sidebar_label: The Calendar
 ---
 
 
 # Case 05: The Calendar
 
-## Introduction
+
 
 The calendar is a publication for daily use, recording dates and other relevant information.
 The creative combination of calendar and pen holder is not only practical but also saves space on the desktop.

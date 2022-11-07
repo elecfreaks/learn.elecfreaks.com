@@ -1,11 +1,11 @@
 ---
-sidebar_position: 14
+sidebar_position: 16
 sidebar_label: Tyrannosaurus Rex
 ---
 
 # Case 07: Tyrannosaurus Rex
 
-## Introduction
+
 
 The tyrannosaurus rex, or Rex Tyrannosaurus, survived in the Maastrichtian (MAA) period at the end of the Cretaceous about 68.5 to 65 million years ago at the very end of the Cretaceous and was one of the last non-avian species of the dinosaur before the Cretaceous-Tertiary extinction event. Fossils are found in the United States and Canada in North America, and it is one of the most recently extinct dinosaurs. Make a Tyrannosaurus Rex assembled model with a laser cutter.
 

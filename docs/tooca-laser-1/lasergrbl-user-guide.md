@@ -6,13 +6,15 @@ sidebar_label: LaserGRBL User Guide
 
 # LaserGRBL User Guide
 
-## Preparation
+
 
 Use a dust-free cloth with alcohol to wipe the protective lens of the laser module before engraving to ensure the best engraving effect.
 
 Place the wooden board in the working area of TOOCA Laser 1, put down the fixing strip and loosen the screw on the side of the laser module for focusing.
 
 The fixed focus bar should be in contact with the surface of the engraving material when it is naturally vertically downward. Use the screw on the right side to fasten it, and turn the fixed focus bar clockwise until it is attracted by the magnet. Finally plug in the laser module line.
+
+![](./images/assembly-tutorials-05.png)
 
 **Attention: In order to protect the table or floor from being burned or smoked, please protect the worktable well(use materials such as padding steel plates and other materials that are not easily penetrated by lasers). When doing the laser cutting, the bottom surface of the cutting place should be suspended to ensure the cutting effect.
 **
@@ -60,11 +62,11 @@ Set the Laser Mode to M4. Set the appropriate power %, speed, size and position 
 
 Notes: For more details of power rate, speed and times, please can visit: [Recommended parameters](http://www.elecfreaks.com/learn-en/tooca-laser-1/recommended-parameters.html).
 
-6. Click "Frame" to enter previewing mode. At this time, the laser module will emit weak light and move around the maximum X and Y edges of the processed image. At this time, the material can be adjusted to the appropriate position.
+Click "Frame" to enter previewing mode. At this time, the laser module will emit weak light and move around the maximum X and Y edges of the processed image. At this time, the material can be adjusted to the appropriate position.
 
 ![](./images/lasergrbl-08.png)
 
-7. Finally click "Run Program" to start engraving. For more details please refer to: https://lasergr bl.com/usage/
+Finally click "Run Program" to start engraving. For more details please refer to: https://lasergr bl.com/usage/
 
 
 ![](./images/lasergrbl-09.png)

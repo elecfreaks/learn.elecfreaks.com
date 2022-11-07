@@ -8,6 +8,15 @@ sidebar_label: Recognize TOOCA Laser 1
 
 ##  Illustration to all parts
 
+### TOOCA Laser 1 (5W)
+![](./images/tooca-laser-1-03.png)
+### TOOCA Laser 1 (10W)
+![](./images/tooca-laser-1-04.png)
+### Laser module
+![](./images/tooca-laser-1-05.png)
+### Control box
+![](./images/tooca-laser-1-06.png)
+![](./images/tooca-laser-1-07.png)
 
 ## Status of the indicators
 

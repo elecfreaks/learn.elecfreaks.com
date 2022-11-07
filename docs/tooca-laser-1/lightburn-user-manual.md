@@ -5,13 +5,15 @@ sidebar_label: LightBurn User Guide
 
 # LightBurn User Guide
 
-## Preparation
+
 
 Use a dust-free cloth with alcohol to wipe the protective lens of the laser module before engraving to ensure the best engraving effect.
 
 Place the wooden board in the working area of TOOCA Laser 1, put down the fixing strip and loosen the screw on the side of the laser module for focusing.
 
 The fixed focus bar should be in contact with the surface of the engraving material when it is naturally vertically downward. Use the screw on the right side to fasten it, and turn the fixed focus bar clockwise until it is attracted by the magnet. Finally plug in the laser module line.
+
+![](./images/assembly-tutorials-05.png)
 
 **Attention: In order to protect the table or floor from being burned or smoked, please protect the worktable well(use materials such as padding steel plates and other materials that are not easily penetrated by lasers). When doing the laser cutting, the bottom surface of the cutting place should be suspended to ensure the cutting effect.
 **
@@ -79,20 +81,12 @@ Attention: Make sure the exported format of the file be .gcode, other formats su
 
 Place the TF Card to the card slot on Tooca Laser 1.
 
-
+![](./images/tooca-laser-1-06.png)
 
 Power on the device and turn on the switch, wait for the initialization of the machine to complete, press the micro switch to enter the preview mode.
-
-
-
-
-
 Press the micro switch again to start engraving.
 
-
-
-
-
+![](./images/tooca-laser-1-07.png)
 
 
 Besides these references, you can also connect the machine with Type-C to do real-time engrave, for more details please can visit:

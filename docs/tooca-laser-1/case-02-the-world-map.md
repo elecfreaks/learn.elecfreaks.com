@@ -1,10 +1,10 @@
 ---
-sidebar_position: 9
+sidebar_position: 11
 sidebar_label: The World Map
 ---
 
 # Case 02: The World Map
-## Introduction
+
 
 The World Map (The World Map) is a map depicting the entire surface of the earth, usually with topography, latitude and longitude lines, and other data such as place names, etc. Users can use the latitude and longitude lines to find out the specific location of each place on the world map, so as to understand the whole world. There are various ways to project the earth's surface onto a flat surface. Make a world map puzzle by yourself with TOOCA Laser 1.
 

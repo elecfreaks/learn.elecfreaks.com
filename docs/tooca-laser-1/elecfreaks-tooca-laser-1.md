@@ -6,7 +6,7 @@ sidebar_label: ELECFREAKS TOOAC Laser 1
 
 # ELECFREAKS TOOCA Laser 1
 
-## Introduction
+
 
 The TOOCA Laser 1 with groundbreaking technologies, is capable of carving metal and almost all types of materials in large areas, bringing all your projects, including school projects, to life. Press the glowing button to control working status, including preview, engrave/cut, pause, and restart.
 

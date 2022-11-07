@@ -1,11 +1,11 @@
 ---
-sidebar_position: 17
+sidebar_position: 19
 sidebar_label: The Farm Protection Devices
 ---
 
 # Case 10: The Farm Protection Devices
 
-## Introduction
+
 
 In order to protect the farmlands from people to get in, we can set a farmland protection device.
 

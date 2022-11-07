@@ -1,11 +1,11 @@
 ---
-sidebar_position: 11
+sidebar_position: 13
 sidebar_label: Balancing Birds
 ---
 
 # Case 04: Balancing Birds
 
-## Introduction
+
 
 A toy that uses the beak of the bird to stop on your finger. No matter where you put the bird (where you can place it or on your finger), it can balance and stabilize without falling. Like a real bird to fly.
 The reason why the bird canl balance is that the actual center of gravity of the whole bird is on the beak tip point. Although it looks like the bird's whole body is in the air and the bird's point of force is on its fingers, the actual weight of the bird's wings is heavier and the whole bird's center of gravity is directly below the tip of its beak.

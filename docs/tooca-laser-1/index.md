@@ -18,6 +18,10 @@ import the_pencil_holder_of_the_minions_Icon from './images/the-pencil-holder-of
 import the_cutebot_unicorn_Icon from './images/the-cutebot-unicorn-icon.png';
 import the_farm_protection_devices_Icon from './images/the-farm-protection-devices-icon.png';
 
+import elk_pattern_Icon from './images/elk-pattern-icon.png';
+import santa_pattern_Icon from './images/santa-pattern-icon.png';
+import forever_love_pattern_Icon from './images/forever-love-pattern-icon.png';
+
 ## Directory
 
 ```mdx-code-block
@@ -93,5 +97,26 @@ The creative combination of calendar and pen holder is not only practical but al
     title="The Farm Protection Devices"
     description="In order to protect the farmlands from people to get in, we can set a farmland protection device."
     img={the_farm_protection_devices_Icon}
+  />
+
+  <card
+    href="./case-10-the-farm-protection-devices/"
+    title="Elk pattern"
+    description="In order to protect the farmlands from people to get in, we can set a farmland protection device."
+    img={elk_pattern_Icon}
+  />
+
+  <card
+    href="./case-10-the-farm-protection-devices/"
+    title="Santa pattern"
+    description="In order to protect the farmlands from people to get in, we can set a farmland protection device."
+    img={santa_pattern_Icon}
+  />
+
+  <card
+    href="./case-10-the-farm-protection-devices/"
+    title="Forever love"
+    description="In order to protect the farmlands from people to get in, we can set a farmland protection device."
+    img={forever_love_pattern_Icon}
   />
 </cardbox>

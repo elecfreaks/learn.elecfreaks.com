@@ -102,21 +102,21 @@ The creative combination of calendar and pen holder is not only practical but al
   <card
     href="./case-10-the-farm-protection-devices/"
     title="Elk pattern"
-    description="In order to protect the farmlands from people to get in, we can set a farmland protection device."
+    description=""
     img={elk_pattern_Icon}
   />
 
   <card
     href="./case-10-the-farm-protection-devices/"
     title="Santa pattern"
-    description="In order to protect the farmlands from people to get in, we can set a farmland protection device."
+    description=""
     img={santa_pattern_Icon}
   />
 
   <card
     href="./case-10-the-farm-protection-devices/"
     title="Forever love"
-    description="In order to protect the farmlands from people to get in, we can set a farmland protection device."
+    description=""
     img={forever_love_pattern_Icon}
   />
 </cardbox>

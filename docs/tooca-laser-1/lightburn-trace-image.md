@@ -31,6 +31,8 @@ Right-click the image, select Trace Image to set the image effect, and then clic
 
 ![](./images/lightburn-trace-image-05.png)
 
+** The Cutoff slider controls the lower end of the range of values that LightBurn will outline with vectors, and the Threshold slider sets the upper end. The default is 0 to 128, which traces around all values in the range of 0 to 128 brightness, excluding lighter values in the range of 129 to 255 brightness. **
+
 Set the appropriate power%, speed and number of times.
 Note: The larger the power% is, or the slower the speed is, the deeper the engraving effect will be; the smaller the power% is, or the faster the speed is, the shallower the engraving effect will be. Power% is generally adjusted to Power
 Max can be adjusted. Recommended parameters for the matching linden wood board carving: Minimum power-5.00 Maximum power-70.00 Speed (mm/m)-6000.

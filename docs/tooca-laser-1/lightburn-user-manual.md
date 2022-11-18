@@ -23,7 +23,7 @@ The fixed focus bar should be in contact with the surface of the engraving mater
 Double-click the .exe to install LightBurn (the installer in the TF card is only
 compatible with Windows 64-bit systems. Please visit the official website
 https://lightburnsoftware.com/ for other versions.
-Notes: The free trial period of the software is 1 month. Visit https://lightburnsoftware.com/collections/frontpage/products/lightburn-gcode
+Notes: The free trial period of the software is 1 month. Visit https://lightburnsoftware.com/collections/frontpage/products/lightburn-gcode
 for permanent serial number.
 
 ![](./images/lightburn-01.png)
@@ -49,6 +49,8 @@ Click “Edit-Settings”.
 Select “mm/min”and click OK.
 
 ![](./images/lightburn-06.png)
+
+** In this window, increasing the value of DPI can make the image more detailed; the higher the Gamma adjustment, the lower the brightness of the picture; the higher the value of Enhance Amount, the higher the contrast **
 
 Click “File-Import” to import the pictures.
 

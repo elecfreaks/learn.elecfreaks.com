@@ -1,95 +1,93 @@
 ---
-sidebar_position: 4
-sidebar_label: LightBurn User Guide
+sidebar_position: 5
+sidebar_label: LaserGRBL用户指南
 ---
 
-# LightBurn User Guide
+# LightBurn用户使用指南
 
+## 准备工作
 
+雕刻前使用无尘布搭配酒精擦拭激光模组的保护镜片，保证最佳雕刻效果。
 
-Use a dust-free cloth with alcohol to wipe the protective lens of the laser module before engraving to ensure the best engraving effect.
+在TOOCA Laser 1的工作区域放下木板，放下定焦条，拧松激光模组侧面的手拧螺丝，进行调焦。
 
-Place the wooden board in the working area of TOOCA Laser 1, put down the fixing strip and loosen the screw on the side of the laser module for focusing.
+定焦条自然垂直向下时应与雕刻材料表面互相接触，使用右侧的手拧螺丝将其锁紧 , 并顺时针拨动定焦条直至被磁铁吸住。最后插上激光模组线。
 
-The fixed focus bar should be in contact with the surface of the engraving material when it is naturally vertically downward. Use the screw on the right side to fasten it, and turn the fixed focus bar clockwise until it is attracted by the magnet. Finally plug in the laser module line.
-
-![](./images/assembly-tutorials-05.png)
-
-**Attention: In order to protect the table or floor from being burned or smoked, please protect the worktable well(use materials such as padding steel plates and other materials that are not easily penetrated by lasers). When doing the laser cutting, the bottom surface of the cutting place should be suspended to ensure the cutting effect.
+**注意:为了保护桌子或者地板不被烧坏或烟熏，对工作台做好防护（如垫上钢板等激光不易穿透的材料），进行激光切割时，切割处的底面应悬空，以保证切割效果。
 **
 
-## LightBurn Software Manual
+## LightBurn软件使用教程
 
-Double-click the .exe to install LightBurn (the installer in the TF card is only
-compatible with Windows 64-bit systems. Please visit the official website
-https://lightburnsoftware.com/ for other versions.
-Notes: The free trial period of the software is 1 month. Visit https://lightburnsoftware.com/collections/frontpage/products/lightburn-gcode
-for permanent serial number.
+双击.exe文件安装LightBurn软件（TF卡内的安装程序仅兼容Windows 64位系统，其它版本请访问官网[https://lightburnsoftware.com/](https://lightburnsoftware.com/)下载。
+备注：该软件免费试用期为1个月，购买序列号详情请访问[https://lightburnsoft-ware.com/collections/frontpage/products/lightburn-gcode](https://lightburnsoft-ware.com/collections/frontpage/products/lightburn-gcode)
 
 ![](./images/lightburn-01.png)
 
- Open LightBurn by double-clicking after installation. Click “Devices”.
+安装成功后，双击打开LightBurn软件，点击“设备”。
 
 ![](./images/lightburn-02.png)
 
-Import the .lbdev configuration file in the TF card by clicking "Import". There is a corresponding
-machine in your device list after importing the configuration file. Select the
-machine and click OK to complete the configuration.
+点击“导入”导入TF卡中的.lbdev配置文件，导入后在设备列表中既有对应机器，选中机器，点击OK即配置成功。
 
-Configuration file:[TOOCA-Laser-1.7z](https://github.com/elecfreaks/learn-en/raw/master/tooca-laser-1/file/TOOCA%20Laser%201.7z)
+配置文件:[TOOCA-Laser-1.7z](https://github.com/elecfreaks/learn-en/raw/master/tooca-laser-1/file/TOOCA%20Laser%201.7z)
 
 ![](./images/lightburn-03.png)
 
 ![](./images/lightburn-04.png)
 
-Click “Edit-Settings”.
+点击“编辑-设置”。
 
 ![](./images/lightburn-05.png)
 
-Select “mm/min”and click OK.
+选择“毫米/分钟”，点击OK。
 
 ![](./images/lightburn-06.png)
 
-** In this window, increasing the value of DPI can make the image more detailed; the higher the Gamma adjustment, the lower the brightness of the picture; the higher the value of Enhance Amount, the higher the contrast **
-
-Click “File-Import” to import the pictures.
+点击“文件-导入”导入图片。
 
 ![](./images/lightburn-07.png)
 
-Set the position, size and rotation angle of the pictures.
+设置图片的位置、尺寸以及旋转角度。
 
 ![](./images/lightburn-08.png)
 
-Right click on the image and select "Adjust Image".
+右键单击图像，选择Adjust Image。
 
 ![](./images/lightburn-09.png)
 
-Set the effect of the image and click OK.
+设置图像效果，然后点击OK.
 
 ![](./images/lightburn-10.png)
 
-Reference [Recommended parameters](http://www.elecfreaks.com/learn-en/tooca-laser-1/recommended-parameters.html)Set the appropriate Power %, speed and pass count.
+参考[Recommended parameters](http://www.elecfreaks.com/learn-en/tooca-laser-1/recommended-parameters.html)设置功率、速度以及次数。
 
 ![](./images/lightburn-11.png)
 
-Notes: Higher power % or slower speed makes deeper effect; lower power % or faster speed
-makes shallower effect. Generally we can just adjust “Power Max”. Recommended parameters for matching basswood: Power Min - 5.00; Power Max - 70.00; Speed(mm/m) - 6000.
+备注：功率越大，或速度越慢，雕刻效果越深；功率越小，或速度越快，雕刻效果越浅。功率一般调节Power Max即可。配套的椴木板雕刻推荐参数：最小功率-5.00 最大功率-70.00 速度（mm/m）-6000.
 
-Click “File-Save GCode” to save the engraving ﬁle to the TF card.
+点击保存GCode将雕刻文件保存至TF卡的根目录。
 
 ![](./images/lightburn-12.png)
 
-Attention: Make sure the exported format of the file be .gcode, other formats such as .gc/.nc cannot be identified.
+备注：请确保导出来的文件格式为.gcode，其它格式例如.gc/.nc将不能被雕刻机识别。
 
-Place the TF Card to the card slot on Tooca Laser 1.
-
-![](./images/tooca-laser-1-06.png)
-
-Power on the device and turn on the switch, wait for the initialization of the machine to complete, press the micro switch to enter the preview mode.
-Press the micro switch again to start engraving.
-
-![](./images/tooca-laser-1-07.png)
+将TF卡放入TOOCA Laser 1的卡槽中。
 
 
-Besides these references, you can also connect the machine with Type-C to do real-time engrave, for more details please can visit:
+
+接通电源并打开开关，等待机器初始化完成，按下微动开关进入预览模式。
+
+
+
+
+
+再次按下微动开关开始雕刻。
+
+
+
+
+
+
+
+此外，您也可以通过Type-C连接雕刻机，实时雕刻。更多详细的软件使用教程请参考
 https://lightburnsoftware.github.io/NewDocs/

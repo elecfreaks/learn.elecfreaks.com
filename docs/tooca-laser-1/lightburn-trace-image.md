@@ -1,49 +1,47 @@
 ---
 sidebar_position: 6
-sidebar_label: LightBurn-Trace Image
+sidebar_label: LightBurn-图像追踪
 ---
 
-# LightBurn-Trace Image
+# LightBurn-图像追踪
 
-Double-click the .exe file to install the LightBurn software (the installer inside the TF card is only compatible with Windows 64-bit systems, other versions)
-Please visit the official website at https://lightburnsoftware.com/ to download.
+1.双击.exe文件安装LightBurn软件（TF卡内的安装程序仅兼容Windows 64位系统，其它版
+本请访问官网https://lightburnsoftware.com/下载。
 
-Note: The free trial period for this software is 1 month, for details on purchasing the serial number, please visit https://lightburnsoft-
+备注：该软件免费试用期为1个月，购买序列号详情请访问https://lightburnsoft-
 ware.com/collections/frontpage/products/lightburn-gcode
 
-After successful installation, double click to open the LightBurn software and click "Import" to import the .lbdev configuration file from the TF card.
+2. 安装成功后，双击打开LightBurn软件，点击“Import”导入TF卡中的.lbdev配置文件。
 
 ![](./images/lightburn-trace-image-01.png)
 
-After importing, there is a corresponding machine in the device list, select the machine and click OK to configure successfully.
+3. 导入后在设备列表中既有对应机器，选中机器，点击OK即配置成功。
 
 ![](./images/lightburn-trace-image-02.png)
 
-Click "Edit-Setting", select "mm/min", and click OK.
+4. 点击“Edit-Setting”，选择“mm/min”，点击OK。
 
 ![](./images/lightburn-trace-image-03.png)
 
-Click "File-Import" to import the image, and then set the position, size and rotation angle of the image.
+5. 点击“File-Import”导入图片，然后设置图片的位置、尺寸以及旋转角度。
 
 ![](./images/lightburn-trace-image-04.png)
 
-Right-click the image, select Trace Image to set the image effect, and then click OK.
+6. 右键单击图像，选择Trace Image设置图像效果，然后点击OK。
 
 ![](./images/lightburn-trace-image-05.png)
 
-** The Cutoff slider controls the lower end of the range of values that LightBurn will outline with vectors, and the Threshold slider sets the upper end. The default is 0 to 128, which traces around all values in the range of 0 to 128 brightness, excluding lighter values in the range of 129 to 255 brightness. **
-
-Set the appropriate power%, speed and number of times.
-Note: The larger the power% is, or the slower the speed is, the deeper the engraving effect will be; the smaller the power% is, or the faster the speed is, the shallower the engraving effect will be. Power% is generally adjusted to Power
-Max can be adjusted. Recommended parameters for the matching linden wood board carving: Minimum power-5.00 Maximum power-70.00 Speed (mm/m)-6000.
+7. 设置合适的功率%、速度以及次数。
+备注：功率%越大，或速度越慢，雕刻效果越深；功率%越小，或速度越快，雕刻效果越浅。功率%一般调节Power
+Max即可。配套的椴木板雕刻推荐参数：最小功率-5.00 最大功率-70.00 速度（mm/m）-6000.
 
 ![](./images/lightburn-trace-image-06.png)
 
-Finally, click Save GCode to save the engraving file to TF card.
+8. 最后点击保存GCode将雕刻文件保存至TF卡。
 
 ![](./images/lightburn-trace-image-07.png)
 
-Note: Please make sure the file format is .gcode, other formats such as .gc/.nc will not be recognized by the plotter.
+备注：请确保导出来的文件格式为.gcode，其它格式例如.gc/.nc将不能被雕刻机识别。
 
-In addition, you can also connect your engraving machine via Type-C for real-time engraving. For more detailed tutorials on how to use the software, please refer to
+9. 此外，您也可以通过Type-C连接雕刻机，实时雕刻。更多详细的软件使用教程请参考
 https://lightburnsoftware.github.io/NewDocs/

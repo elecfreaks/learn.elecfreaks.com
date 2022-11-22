@@ -1,26 +1,26 @@
 ---
 sidebar_position: 3
-sidebar_label: Recognize TOOCA Laser 1
+sidebar_label: 认识TOOCA L1 Laser Engraver
 ---
 
 
-# Recognize TOOCA Laser 1
+# 认识TOOCA L1 Laser Engraver
 
-##  Illustration to all parts
+##  各部件说明
 
 ### TOOCA Laser 1 (5W)
 ![](./images/tooca-laser-1-03.png)
 ### TOOCA Laser 1 (10W)
 ![](./images/tooca-laser-1-04.png)
-### Laser module
+### 激光模组
 ![](./images/tooca-laser-1-05.png)
-### Control box
+### 控制盒
 ![](./images/tooca-laser-1-06.png)
 ![](./images/tooca-laser-1-07.png)
 
-## Status of the indicators
+## 指示灯状态说明
 
-1. The indicator light is off: the machine is in a power-off state, or the power-on is abnormal.
-2. Breathing light effect: the machine is in standby mode, you can press the micro switch to enter preview mode or engraving mode.
-3. The indicator light is flashing: the machine is in the upgrade mode or abnormal mode, and the buzzer makes a rapid sound, and it will automatically enter the standby mode after the upgrade is completed or the abnormality is cleared.
-4. The indicator light is always on: the machine is in preview mode or engraving mode, and the laser head is in the light-emitting state at this time, special attention should be paid to safety.
+1. 指示灯灭：机器处于断电状态，或上电异常。
+2. 呼吸灯效果：机器处于待机模式，可按下微动开关进入预览模式或雕刻模式。
+3. 指示灯闪烁：机器处于升级模式或异常模式，同时蜂鸣器发出急促的响声，等待升级完成或清除异常后自动进入待机模式。
+4. 指示灯常亮：机器处于预览模式或雕刻模式，此时激光头处于出光状态，需格外注意安全。

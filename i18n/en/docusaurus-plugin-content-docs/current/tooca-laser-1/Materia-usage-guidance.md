@@ -3,10 +3,8 @@ sidebar_position: 7
 sidebar_label: Material usage guidance
 ---
 
-
-
 # Material usage guidance
-## Be cautiion with those materials
+# Be cautiion with those materials
 **Warning: Since many materials are very dangerous when processed by laser, you need to be vigilant about processing them. Understand the hazards and please take precautions if necessary. **
 
 | **Materials** | **Hazards** |

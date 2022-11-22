@@ -16,14 +16,14 @@ sidebar_label: 圣诞树
 ## 使用材料
 
 
-[TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
 2.8mm Plywood
 
 
 ## 相关参数
 
-|Model|TOOCA Laser 1|
+|Model|TOOCA L1 Laser Engraver|
 |:-------:|:-------:|
 |耗材材质|椴木板|
 |厚度|2.8mm|

@@ -1,22 +1,22 @@
 ---
 sidebar_position: 1
-sidebar_label: ELECFREAKS TOOAC L1
+sidebar_label: ELECFREAKS TOOCA L1 Laser Engraver
 ---
 
 
-# ELECFREAKS TOOCA L1
+# ELECFREAKS TOOCA L1 Laser Engraver
 
-TOOCA Laser 1 采用突破性技术，能够大面积雕刻金属和几乎所有类型的材料，让您的所有项目（包括学校项目）栩栩如生。 按下发光按钮可控制工作状态，包括预览、雕刻/切割、暂停和重启。
+TOOCA L1 Laser Engraver 采用突破性技术，能够大面积雕刻金属和几乎所有类型的材料，让您的所有项目（包括学校项目）栩栩如生。 按下发光按钮可控制工作状态，包括预览、雕刻/切割、暂停和重启。
 
 ![](./images/tooca-laser-1-01.png)
 
 ## 购买链接
 
-[TOOCA L1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
 ## 产品参数
 
-|Model|TOOCA Laser 1|
+|Model|TOOCA L1 Laser Engraver|
 |:-------:|:-------:|
 |Machine size|568×632×198mm|
 |Net weight|3.2kg|

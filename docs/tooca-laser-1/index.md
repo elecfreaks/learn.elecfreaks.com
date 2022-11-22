@@ -1,9 +1,9 @@
 ---
 sidebar_position: 4
-sidebar_label: TOOAC Laser 1
+sidebar_label: TOOCA L1 Laser Engraver
 ---
 
-# TOOCA Laser 1
+# TOOCA L1 Laser Engraver
 
 ![](./images/tooca-laser-1-icon.png)
 

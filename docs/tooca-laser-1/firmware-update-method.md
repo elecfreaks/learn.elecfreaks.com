@@ -1,9 +1,9 @@
 ---
 sidebar_position: 10
-sidebar_label: ELECFREAKS TOOCA Laser 1 固件更新方式
+sidebar_label: ELECFREAKS TOOCA L1 Laser Engraver 固件更新方式
 ---
 
-# ELECFREAKS TOOCA Laser 1 固件更新方式
+# ELECFREAKS TOOCA L1 Laser Engraver 固件更新方式
 
 ## 固件更新方式
 1. 准备⼀张TF卡，TF卡容量⼤于固件⼤⼩，⽐如8G TF卡。

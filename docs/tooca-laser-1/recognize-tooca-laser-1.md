@@ -8,9 +8,9 @@ sidebar_label: 认识TOOCA L1 Laser Engraver
 
 ##  各部件说明
 
-### TOOCA Laser 1 (5W)
+### TOOCA L1 Laser Engraver (5W)
 ![](./images/tooca-laser-1-03.png)
-### TOOCA Laser 1 (10W)
+### TOOCA L1 Laser Engraver (10W)
 ![](./images/tooca-laser-1-04.png)
 ### 激光模组
 ![](./images/tooca-laser-1-05.png)

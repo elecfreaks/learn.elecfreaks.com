@@ -10,7 +10,7 @@ sidebar_label: LaserGRBL User Guide
 
 Use a dust-free cloth with alcohol to wipe the protective lens of the laser module before engraving to ensure the best engraving effect.
 
-Place the wooden board in the working area of TOOCA Laser 1, put down the fixing strip and loosen the screw on the side of the laser module for focusing.
+Place the wooden board in the working area of TOOCA L1 Laser Engraver, put down the fixing strip and loosen the screw on the side of the laser module for focusing.
 
 The fixed focus bar should be in contact with the surface of the engraving material when it is naturally vertically downward. Use the screw on the right side to fasten it, and turn the fixed focus bar clockwise until it is attracted by the magnet. Finally plug in the laser module line.
 

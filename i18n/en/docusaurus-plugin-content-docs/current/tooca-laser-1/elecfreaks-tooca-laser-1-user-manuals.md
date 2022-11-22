@@ -1,13 +1,13 @@
 ---
 sidebar_position: 9
-sidebar_label: TOOCA Laser 1 User Manuals
+sidebar_label: TOOCA L1 Laser Engraver User Manuals
 ---
 
-# TOOCA Laser 1 User Manuals
+# TOOCA L1 Laser Engraver User Manuals
 
 ## Product Information
 
-[TOOCA Laser 1_User Manual (v1.0)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/TOOCA%20Laser%201_User%20Manual%20(v1.0).pdf)
+[TOOCA L1 Laser Engraver_User Manual (v1.0)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/TOOCA%20Laser%201_User%20Manual%20(v1.0).pdf)
 
 [LaserGRBL-User Guide_EN](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/LaserGRBL-User%20Guide_EN.pdf)
 

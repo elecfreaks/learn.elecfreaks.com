@@ -3,7 +3,7 @@ sidebar_position: 4
 sidebar_label: TOOAC Laser 1
 ---
 
-# TOOCA Laser 1
+# TOOCA L1 Laser Engraver
 
 ![](./images/tooca-laser-1-icon.png)
 
@@ -45,7 +45,7 @@ It is said that the Christmas tree first appeared in ancient Rome in mid-Decembe
   <card
     href="./case-02-the-world-map/"
     title="The World Map"
-    description="The World Map (The World Map) is a map depicting the entire surface of the earth, usually with topography, latitude and longitude lines, and other data such as place names, etc. Users can use the latitude and longitude lines to find out the specific location of each place on the world map, so as to understand the whole world. There are various ways to project the earth's surface onto a flat surface. Make a world map puzzle by yourself with TOOCA Laser 1."
+    description="The World Map (The World Map) is a map depicting the entire surface of the earth, usually with topography, latitude and longitude lines, and other data such as place names, etc. Users can use the latitude and longitude lines to find out the specific location of each place on the world map, so as to understand the whole world. There are various ways to project the earth's surface onto a flat surface. Make a world map puzzle by yourself with TOOCA L1 Laser Engraver."
     img={the_world_map_Icon}
   />
   <card

@@ -13,14 +13,14 @@ The tyrannosaurus rex, or Rex Tyrannosaurus, survived in the Maastrichtian (MAA)
 
 ## Materials Requested
 
-[TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
 3mm Plywood
 
 
 ## Relevant Parameters
 
-|Model|TOOCA Laser 1|
+|Model|TOOCA L1 Laser Engraver|
 |:-------:|:-------:|
 |Material of consumables|Basswood board|
 |Thickness|2.8mm|

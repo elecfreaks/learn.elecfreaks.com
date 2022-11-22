@@ -1,24 +1,24 @@
 ---
 sidebar_position: 1
-sidebar_label: ELECFREAKS TOOAC Laser 1
+sidebar_label: ELECFREAKS TOOCA L1 Laser Engraver
 ---
 
 
-# ELECFREAKS TOOCA Laser 1
+# ELECFREAKS TOOCA L1 Laser Engraver
 
 
 
-The TOOCA Laser 1 with groundbreaking technologies, is capable of carving metal and almost all types of materials in large areas, bringing all your projects, including school projects, to life. Press the glowing button to control working status, including preview, engrave/cut, pause, and restart.
+The TOOCA L1 Laser Engraver with groundbreaking technologies, is capable of carving metal and almost all types of materials in large areas, bringing all your projects, including school projects, to life. Press the glowing button to control working status, including preview, engrave/cut, pause, and restart.
 
 ![](./images/tooca-laser-1-01.png)
 
 ## Purchase Link
 
-[TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
 ## Product parameters
 
-|Model|TOOCA Laser 1|
+|Model|TOOCA L1 Laser Engraver|
 |:-------:|:-------:|
 |Machine size|568×632×198mm|
 |Net weight|3.2kg|

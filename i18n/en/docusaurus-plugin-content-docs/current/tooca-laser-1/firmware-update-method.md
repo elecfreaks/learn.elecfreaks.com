@@ -1,9 +1,9 @@
 ---
 sidebar_position: 10
-sidebar_label: TOOCA Laser 1 Firmware Update Method
+sidebar_label: TOOCA L1 Laser Engraver Firmware Update Method
 ---
 
-# TOOCA Laser 1 Firmware Update Method
+# TOOCA L1 Laser Engraver Firmware Update Method
 
 ## Firmware update method
 1. Prepare a TF card with a capacity larger than the firmware size, e.g. 8G TF card.

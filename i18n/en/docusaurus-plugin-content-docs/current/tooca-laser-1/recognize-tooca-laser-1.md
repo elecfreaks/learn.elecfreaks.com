@@ -1,16 +1,16 @@
 ---
 sidebar_position: 3
-sidebar_label: Recognize TOOCA Laser 1
+sidebar_label: Recognize TOOCA L1 Laser Engraver
 ---
 
 
-# Recognize TOOCA Laser 1
+# Recognize TOOCA L1 Laser Engraver
 
 ##  Illustration to all parts
 
-### TOOCA Laser 1 (5W)
+### TOOCA L1 Laser Engraver (5W)
 ![](./images/tooca-laser-1-03.png)
-### TOOCA Laser 1 (10W)
+### TOOCA L1 Laser Engraver (10W)
 ![](./images/tooca-laser-1-04.png)
 ### Laser module
 ![](./images/tooca-laser-1-05.png)

@@ -6,20 +6,20 @@ sidebar_label: The World Map
 # Case 02: The World Map
 
 
-The World Map (The World Map) is a map depicting the entire surface of the earth, usually with topography, latitude and longitude lines, and other data such as place names, etc. Users can use the latitude and longitude lines to find out the specific location of each place on the world map, so as to understand the whole world. There are various ways to project the earth's surface onto a flat surface. Make a world map puzzle by yourself with TOOCA Laser 1.
+The World Map (The World Map) is a map depicting the entire surface of the earth, usually with topography, latitude and longitude lines, and other data such as place names, etc. Users can use the latitude and longitude lines to find out the specific location of each place on the world map, so as to understand the whole world. There are various ways to project the earth's surface onto a flat surface. Make a world map puzzle by yourself with TOOCA L1 Laser Engraver.
 
 ![](./images/tooca-laser-1-case-02-01.png)
 
 ## Materials used
 
-[TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
 3mm Plywood
 
 
 ## Relevant parameters
 
-|Model|TOOCA Laser 1|
+|Model|TOOCA L1 Laser Engraver|
 |:-------:|:-------:|
 |Material of consumables|Basswood board|
 |Thickness|2.8mm|

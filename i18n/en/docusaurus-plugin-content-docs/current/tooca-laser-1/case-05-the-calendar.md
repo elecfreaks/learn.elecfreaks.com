@@ -15,14 +15,14 @@ The creative combination of calendar and pen holder is not only practical but al
 
 ## Materials Required
 
-[TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
 3mm Plywood
 
 
 ## Relevant parameters
 
-|Model|TOOCA Laser 1|
+|Model|TOOCA L1 Laser Engraver|
 |:-------:|:-------:|
 |Material of consumables|Basswood board|
 |Thickness|2.8mm|

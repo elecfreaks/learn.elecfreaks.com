@@ -13,7 +13,7 @@ In order to protect the farmlands from people to get in, we can set a farmland p
 
 ## Materials Requested
 
-[TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
 [Smart Agriculture Kit](https://www.elecfreaks.com/micro-bit-smart-agriculture-kit-without-micro-bit-board.html)
 
@@ -21,7 +21,7 @@ In order to protect the farmlands from people to get in, we can set a farmland p
 
 ## Relevant Parameters
 
-|Model|TOOCA Laser 1|
+|Model|TOOCA L1 Laser Engraver|
 |:-------:|:-------:|
 |Material of consumables|Basswood board|
 |Thickness|2.8mm|

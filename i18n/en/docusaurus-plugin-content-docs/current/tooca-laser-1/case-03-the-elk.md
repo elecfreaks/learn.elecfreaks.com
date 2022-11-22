@@ -13,14 +13,14 @@ The elk is a large herbivore with a black longitudinal stripe on the back of the
 
 ## Materials used
 
-[TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
 3mm plywood
 
 
 ## Relevant parameters
 
-|Model|TOOCA Laser 1|
+|Model|TOOCA L1 Laser Engraver|
 |:-------:|:-------:|
 |Material of consumables|Basswood board|
 |Thickness|2.8mm|

@@ -13,7 +13,7 @@ The unicorn appears in large numbers in June to August, with a tendency to light
 
 ## Materials Requested
 
-[TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
 [Smart Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
 
@@ -21,7 +21,7 @@ The unicorn appears in large numbers in June to August, with a tendency to light
 
 ## Relevant parameters
 
-|Model|TOOCA Laser 1|
+|Model|TOOCA L1 Laser Engraver|
 |:-------:|:-------:|
 |Material of consumables|Basswood board|
 |Thickness|2.8mm|

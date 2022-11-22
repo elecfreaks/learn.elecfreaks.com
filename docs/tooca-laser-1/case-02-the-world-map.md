@@ -1,38 +1,40 @@
 ---
 sidebar_position: 12
-sidebar_label: The World Map
+sidebar_label: 世界地图拼图
 ---
 
-# Case 02: The World Map
+# 世界地图拼图
 
 
-The World Map (The World Map) is a map depicting the entire surface of the earth, usually with topography, latitude and longitude lines, and other data such as place names, etc. Users can use the latitude and longitude lines to find out the specific location of each place on the world map, so as to understand the whole world. There are various ways to project the earth's surface onto a flat surface. Make a world map puzzle by yourself with TOOCA Laser 1.
+
+
+世界地图（The World Map）是指描绘整个地球表面的地图，一般画有地形、经纬线等，并标注有地名等数据，使用者可以利用经纬线在世界地图上找出各个地方的具体位置，从而了解世界的全貌。有多种方法把地球表面投影到平面上。自己动手用TOOCA Laser 1制作一个世界地图拼图吧。
 
 ![](./images/tooca-laser-1-case-02-01.png)
 
-## Materials used
+## 使用材料
 
 [TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
-3mm Plywood
+2.8mm椴木板
 
 
-## Relevant parameters
+## 相关参数
 
 |Model|TOOCA Laser 1|
 |:-------:|:-------:|
-|Material of consumables|Basswood board|
-|Thickness|2.8mm|
-|Power|100%|
-|Speed|240mm/min|
-|Times required to be engraved/cut|3|
+|耗材材质|椴木板|
+|厚度|2.8mm|
+|功率|100%|
+|速度|240mm/min|
+|通过次数|3|
 
-Note: This case takes a 2.8mm basswood board as an example. If you need to use different thicknesses or use different materials, please modify the drawing by yourself and refer to the `Recommended parameter` modify the parameters of the software.
+注意：本案例以2.8mm的椴木板为例，如果需要使用不同厚度或者使用不同的材料，请自行修改图纸并参考TF卡中的`Recommended parameter`修改软件的参数。
 
-## Drawings download link
+## 图纸下载链接
 
-[The World Map.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/world-map-puzzle/world-map-puzzle.dxf)
+[世界地图拼图.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/world-map-puzzle/world-map-puzzle.dxf)
 
-## Effect show
+## 效果展示
 
 ![](./images/tooca-laser-1-case-02-01.png)

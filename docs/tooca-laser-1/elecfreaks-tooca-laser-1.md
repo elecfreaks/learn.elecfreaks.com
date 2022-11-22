@@ -1,22 +1,20 @@
 ---
 sidebar_position: 1
-sidebar_label: ELECFREAKS TOOAC Laser 1
+sidebar_label: ELECFREAKS TOOAC L1
 ---
 
 
-# ELECFREAKS TOOCA Laser 1
+# ELECFREAKS TOOCA L1
 
-
-
-The TOOCA Laser 1 with groundbreaking technologies, is capable of carving metal and almost all types of materials in large areas, bringing all your projects, including school projects, to life. Press the glowing button to control working status, including preview, engrave/cut, pause, and restart.
+TOOCA Laser 1 采用突破性技术，能够大面积雕刻金属和几乎所有类型的材料，让您的所有项目（包括学校项目）栩栩如生。 按下发光按钮可控制工作状态，包括预览、雕刻/切割、暂停和重启。
 
 ![](./images/tooca-laser-1-01.png)
 
-## Purchase Link
+## 购买链接
 
-[TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
-## Product parameters
+## 产品参数
 
 |Model|TOOCA Laser 1|
 |:-------:|:-------:|
@@ -36,6 +34,6 @@ The TOOCA Laser 1 with groundbreaking technologies, is capable of carving metal 
 |Format files|jpeg, jpg, png, pmp, svg and dxf|
 |Type of supporting materials|Cardboard, wood, bamboo, rubber, leather, fabric, acrylic, plastic, etc|
 
-## Product List
+## 产品清单
 
 ![](./images/tooca-laser-1-02.png)

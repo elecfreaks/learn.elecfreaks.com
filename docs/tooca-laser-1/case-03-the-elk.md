@@ -1,39 +1,41 @@
 ---
 sidebar_position: 13
-sidebar_label: The Elk
+sidebar_label: 麋鹿
 ---
 
-# Case 03: The Elk
+# 麋鹿
 
 
 
-The elk is a large herbivore with a black longitudinal stripe on the back of the neck and a brownish-white belly and rump, and after September the body fur is replaced by a longer, thicker gray winter coat.
+麋鹿是一种大型食草动物，颈背上有一条黑色的纵纹，腹部和臀部为棕白色。9月以后体毛被较长而厚的灰色冬毛所取代。
+
 
 ![](./images/tooca-laser-1-case-03-01.png)
 
-## Materials used
+## 使用材料
 
 [TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
-3mm plywood
+3mm椴木板
 
 
-## Relevant parameters
+## 相关参数
 
 |Model|TOOCA Laser 1|
 |:-------:|:-------:|
-|Material of consumables|Basswood board|
-|Thickness|2.8mm|
-|Power|100%|
-|Speed|240mm/min|
-|Times required to be engraved/cut|3|
+|耗材材质|椴木板|
+|厚度|2.8mm|
+|功率|100%|
+|速度|240mm/min|
+|通过次数|3|
 
-Note: This case takes a 2.8mm basswood board as an example. If you need to use different thicknesses or use different materials, please modify the drawing by yourself and refer to the `Recommended parameter` modify the parameters of the software.
+注意：本案例以2.8mm的椴木板为例，如果需要使用不同厚度或者使用不同的材料，请自行修改图纸并参考TF卡中的`Recommended parameter`修改软件的参数。
 
-## Drawings download link
+## 图纸下载链接
 
-[Elk.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/Elk/Elk.dxf)
 
-## Effect show
+[麋鹿.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/Elk/Elk.dxf)
+
+## 效果展示
 
 ![](./images/tooca-laser-1-case-03-01.png)

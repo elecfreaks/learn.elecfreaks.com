@@ -1,11 +1,11 @@
 ---
 sidebar_position: 9
-sidebar_label: TOOCA Laser 1 User Manuals
+sidebar_label: ELECFREAKS TOOCA L1 用户手册
 ---
 
-# TOOCA Laser 1 User Manuals
+# ELECFREAKS TOOCA L1 用户手册
 
-## Product Information
+## 产品资料
 
 [TOOCA Laser 1_User Manual (v1.0)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/TOOCA%20Laser%201_User%20Manual%20(v1.0).pdf)
 
@@ -13,15 +13,15 @@ sidebar_label: TOOCA Laser 1 User Manuals
 
 [LightBurn User Guide-EN](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/LightBurn%20User%20Guide-EN.pdf)
 
-## Video Tutorials
-### Installation Video Tutorial
+## 视频教程
+### 安装视频教程
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YL5jEP84VuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### LightBurn Operation Video Tutorial
+### LightBurn操作视频教程
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/UJONwvzjWlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### LaserGRBL Operation Video Tutorial
+### LaserGRBL操作视频教程
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OQ1hJLAnwVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

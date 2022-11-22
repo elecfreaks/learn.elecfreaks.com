@@ -1,40 +1,40 @@
 ---
 sidebar_position: 17
-sidebar_label: Tyrannosaurus Rex
+sidebar_label: 霸王龙
 ---
 
-# Case 07: Tyrannosaurus Rex
+# 霸王龙
 
 
 
-The tyrannosaurus rex, or Rex Tyrannosaurus, survived in the Maastrichtian (MAA) period at the end of the Cretaceous about 68.5 to 65 million years ago at the very end of the Cretaceous and was one of the last non-avian species of the dinosaur before the Cretaceous-Tertiary extinction event. Fossils are found in the United States and Canada in North America, and it is one of the most recently extinct dinosaurs. Make a Tyrannosaurus Rex assembled model with a laser cutter.
+霸王龙即雷克斯暴龙，生存于白垩纪末期的马斯特里赫特期(MAA)距今约6850万年到6500万年前的白垩纪最末期，是白垩纪-第三纪灭绝事件前最后的非鸟类的恐龙种类之一。化石分布于北美洲的美国与加拿大，是最晚灭绝的恐龙之一。用激光切割机做一个霸王龙拼装模型。
 
 ![](./images/tooca-laser-1-case-07-01.png)
 
-## Materials Requested
+## 使用材料
 
 [TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
-3mm Plywood
+2.8mm椴木板
 
 
-## Relevant Parameters
+## 相关参数
 
 |Model|TOOCA Laser 1|
 |:-------:|:-------:|
-|Material of consumables|Basswood board|
-|Thickness|2.8mm|
-|Power|100%|
-|Speed|240mm/min|
-|Times required to be engraved/cut|3|
+|耗材材质|椴木板|
+|厚度|2.8mm|
+|功率|100%|
+|速度|240mm/min|
+|通过次数|3|
 
-Note: This case takes a 2.8mm basswood board as an example. If you need to use different thicknesses or use different materials, please modify the drawing by yourself and refer to the `Recommended parameter` modify the parameters of the software.
+注意：本案例以2.8mm的椴木板为例，如果需要使用不同厚度或者使用不同的材料，请自行修改图纸并参考TF卡中的`Recommended parameter`修改软件的参数。
 
-## Drawings Download Link
+## 图纸下载链接
 
-[Tyrannosaurus rex.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/Tyrannosaurus-Rex/Tyrannosaurus-Rex.dxf)
+[霸王龙.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/Tyrannosaurus-Rex/Tyrannosaurus-Rex.dxf)
 
-## Effect Show
+## 效果展示
 
 ![](./images/tooca-laser-1-case-07-02.png)
 

@@ -1,38 +1,38 @@
 ---
 sidebar_position: 16
-sidebar_label: Halberd Dragon
+sidebar_label: 戟龙
 ---
+# 戟龙
 
-# Case 06: Halberd Dragon
+戟龙又叫刺盾角龙，生活在白垩纪晚期，是植食性角龙类恐龙的一种，颈盾戟龙的头颅硕大，颈部长有美丽的盾状环形的装饰物。在盾状饰物周围长着6个大小不一的长角，这些构成了戟龙那大的吓人的颈盾，这个颈盾不但能吓住敌人。这个颈盾一般在强壮威武的雄性身上长得壮观美丽，而在雌性的身上并不发达，因此专家推测其作用主要是为了展示，以吸引异性的注意。因为这个颈盾看起来很像中国古代兵器中的戟，所以便形象地给它取名为戟龙。戟龙强健的四肢支撑起庞大的身体。戟龙的角和颈盾的骨刺像一把把利剑，是反守为攻的可怕武器。像鹦鹉一样弯曲的喙嘴，可以切割采食低矮植物的叶子。戟龙长约60厘米的鼻角，是进攻时的主要武器。
 
-
-The halberd dragon, also called spiny shield horned dinosaur, lived in the late Cretaceous period, is a kind of phytophagous horned dinosaur, the neck shield Halberd dragon's head is large, and the neck has a beautiful shield-shaped ring-shaped ornament. The shield ornaments around the long horn of six different sizes, constitute the Halberd dragon that big scary neck shield, this neck shield can not only scare the enemy. This neck shield generally grows spectacularly beautiful in strong and powerful males but is not developed in females, so experts speculate that its role is mainly for a display to attract the attention of the opposite sex. Because this neck shield looks very much like the ancient Chinese weapon in the halberd, it was figuratively named the halberd dragon. The strong limbs of the halberd dragon support the huge body. The horns of the halberd dragon and the bone spikes of the neck shield are like a sharp sword, which is a terrible weapon to turn defense into attack. The beak like a parrot's curved beak can cut to feed on the leaves of low plants. The halberd dragon's snout horn, about 60 cm long, is the main weapon when attacking.
 
 ![](./images/tooca-laser-1-case-06-01.png)
-## Materials Requested
+## 使用材料
 
 [TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
-3mm Plywood
+2.8mm椴木板
 
 
-## Relevant Parameters
+## 相关参数
 
 |Model|TOOCA Laser 1|
 |:-------:|:-------:|
-|Material of consumables|Basswood board|
-|Thickness|2.8mm|
-|Power|100%|
-|Speed|240mm/min|
-|Times required to be engraved/cut|3|
+|耗材材质|椴木板|
+|厚度|2.8mm|
+|功率|100%|
+|速度|240mm/min|
+|通过次数|3|
 
-Note: This case takes a 2.8mm basswood board as an example. If you need to use different thicknesses or use different materials, please modify the drawing by yourself and refer to the `Recommended parameter` modify the parameters of the software.
+注意：本案例以2.8mm的椴木板为例，如果需要使用不同厚度或者使用不同的材料，请自行修改图纸并参考TF卡中的`Recommended parameter`修改软件的参数。
 
-## Drawings download link
+## 图纸下载链接
 
-[Halberd dragon.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/Halberd-Dragon/Halberd%20Dragon.dxf)
 
-## Effect Show
+[戟龙.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/Halberd-Dragon/Halberd%20Dragon.dxf)
+
+## 效果展示
 
 ![](./images/tooca-laser-1-case-06-01.png)
 

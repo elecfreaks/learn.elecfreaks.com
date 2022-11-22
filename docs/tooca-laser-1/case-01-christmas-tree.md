@@ -1,40 +1,42 @@
 ---
 sidebar_position: 11
-sidebar_label: The Christmas Tree
+sidebar_label: 圣诞树
 ---
 
-# Case 01: The Christmas Tree
+# Case 01: 圣诞树
 
 
-A Christmas tree is an evergreen tree decorated with lighted candles and decorations of firs or cedars. As one of the important components of Christmas, the modern Christmas tree originated in Germany and gradually became popular worldwide, becoming one of the most famous traditions in Christmas celebrations.
-It is said that the Christmas tree first appeared in ancient Rome in mid-December during the so-called Festival of the Gods of Agriculture. Nowadays it is common to get an evergreen plant such as a pine tree inside or outdoors around Christmas time and decorate it with Christmas lights and colorful decorations. An angel or star is placed at the top of the tree.
+
+圣诞树，是指用灯烛和装饰品把枞树或洋松装点起来的常青树。作为是圣诞节重要的组成元素之一，近代圣诞树起源于德国，后来逐步在世界范围内流行起来，成为圣诞节庆祝中最有名的传统之一。
+据说圣诞树最早出现在古罗马12月中旬的所谓农神节。现在通常人们在圣诞前后把一棵常绿植物如松树弄进屋里或者在户外，并用圣诞灯和彩色的装饰物装饰。并把一个天使或星星放在树的顶上。
 
 ![](./images/tooca-laser-1-case-01-01.png)
 
 
-## Materials Required
+## 使用材料
+
 
 [TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
-3mm Plywood
+2.8mm Plywood
 
 
-## Relevant parameters
+## 相关参数
 
 |Model|TOOCA Laser 1|
 |:-------:|:-------:|
-|Material of consumables|Basswood board|
-|Thickness|2.8mm|
-|Power|100%|
-|Speed|240mm/min|
-|Times required to be engraved/cut|3|
+|耗材材质|椴木板|
+|厚度|2.8mm|
+|功率|100%|
+|速度|240mm/min|
+|通过次数|3|
 
-Note: This case takes a 2.8mm basswood board as an example. If you need to use different thicknesses or use different materials, please modify the drawing by yourself and refer to the `recommended parameter` modify the parameters of the software.
+注意：本案例以2.8mm的椴木板为例，如果需要使用不同厚度或者使用不同的材料，请自行修改图纸并参考TF卡中的`Recommended parameter`修改软件的参数。
 
-## Drawings download link
+## 图纸下载链接
 
-[ Christmas tree.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/christmas-tree-2/christmas-tree-2.dxf)
+[ 圣诞树.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/christmas-tree-2/christmas-tree-2.dxf)
 
-## Effect Show
+## 效果展示
 
 ![](./images/tooca-laser-1-case-01-01.png)

@@ -1,42 +1,44 @@
 ---
 sidebar_position: 15
-sidebar_label: The Calendar
+sidebar_label: 日历
 ---
 
 
-# Case 05: The Calendar
+# Case 05: 日历
 
 
 
-The calendar is a publication for daily use, recording dates and other relevant information.
-The creative combination of calendar and pen holder is not only practical but also saves space on the desktop.
+日历，一种日常使用的出版物，记载着日期等相关信息。
+日历与笔筒的创意结合，不仅实用，又节省桌面空间。
+
 
 ![](./images/tooca-laser-1-case-05-01.png)
 
-## Materials Required
+## 使用材料
 
 [TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
-3mm Plywood
+2.8mm椴木板
 
 
-## Relevant parameters
+## 相关参数
 
 |Model|TOOCA Laser 1|
 |:-------:|:-------:|
-|Material of consumables|Basswood board|
-|Thickness|2.8mm|
-|Power|100%|
-|Speed|240mm/min|
-|Times required to be engraved/cut|3|
+|耗材材质|椴木板|
+|厚度|2.8mm|
+|功率|100%|
+|速度|240mm/min|
+|通过次数|3|
 
-Note: This case takes a 2.8mm basswood board as an example. If you need to use different thicknesses or use different materials, please modify the drawing by yourself and refer to the `Recommended parameter` modify the parameters of the software.
+注意：本案例以2.8mm的椴木板为例，如果需要使用不同厚度或者使用不同的材料，请自行修改图纸并参考TF卡中的`Recommended parameter`修改软件的参数。
 
-## Drawings download link
+## 图纸下载链接
 
-[Calendar.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/calendar/calendar.dxf)
 
-## Effect Show
+[日历.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/calendar/calendar.dxf)
+
+## 效果展示
 
 ![](./images/tooca-laser-1-case-05-01.png)
 

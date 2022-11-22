@@ -1,74 +1,73 @@
 ---
 sidebar_position: 20
-sidebar_label: The Farm Protection Devices
+sidebar_label: 农田防护装置
 ---
-
-# Case 10: The Farm Protection Devices
-
+# 农田防护装置
 
 
-In order to protect the farmlands from people to get in, we can set a farmland protection device.
+制作一个农田防护装置。
 
-![](./images/tooca-laser-1-case-10-01.png)
-
-## Materials Requested
+## 使用材料
 
 [TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
 [Smart Agriculture Kit](https://www.elecfreaks.com/micro-bit-smart-agriculture-kit-without-micro-bit-board.html)
 
-3mm Plywood
+2.8mm椴木板
 
-## Relevant Parameters
+## 相关参数
 
 |Model|TOOCA Laser 1|
 |:-------:|:-------:|
-|Material of consumables|Basswood board|
-|Thickness|2.8mm|
-|Power|100%|
-|Speed|240mm/min|
-|Times required to be engraved/cut|3|
+|耗材材质|椴木板|
+|厚度|2.8mm|
+|功率|100%|
+|速度|240mm/min|
+|通过次数|3|
 
-Note: This case takes a 2.8mm basswood board as an example. If you need to use different thicknesses or use different materials, please modify the drawing by yourself and refer to the `Recommended parameter` modify the parameters of the software.
+注意：本案例以2.8mm的椴木板为例，如果需要使用不同厚度或者使用不同的材料，请自行修改图纸并参考TF卡中的`Recommended parameter`修改软件的参数。
 
-## Drawings Download Link
-
-[Farm protection devices.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/farmland-protection-device/farmland-protection-device.dxf)
+## 图纸下载链接
 
 
-## Hardware Connection
+[农田防护装置.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/farmland-protection-device/farmland-protection-device.dxf)
 
 
-Connect the Sonar:bit to P1, the PIR sensor to P2 on IoT:bit.
+## 硬件连接方式
+
+
+将超声波传感器连接到IOT:bit的P1端口，将人体红外传感器连接到IOT:bit的P2端口。
 
 ![](./images/tooca-laser-1-case-10-02.png)
 
-## Software Programming
+## 软件编程
 
 
 
-Click "Advanced" in the MakeCode to see more choices.
+点击扩展，
 
 ![](./images/tooca-laser-1-case-10-03.png)
 
-For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "iot-environment-kit" in the dialogue box to download it.
+在弹出页面输入“iot-environment-kit”，点击搜索。
 
 ![](./images/tooca-laser-1-case-10-04.png)
 
-***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
-
-## Program
 
 
-Set the ultrasonic sensor to connect to P1, measure the distance in cm, and save the return value to the variable "ultrasonic_distance", set the PIR sensor to connect to P2, and save the return value to the variable "IR".
+
+## 编程
+
+
+设置超声波传感器连接到P1端口，测距单位为cm，并保存返回值到变量“ultrasonic_distance”中，设置人体红外传感器连接到P2端口，并保存返回值到变量“IR”中。
+
 
 ![](./images/tooca-laser-1-case-10-05.png)
 
-Judge whether the value of variable "ultrasonic_distance" is within the threshold, if so, judge whether the return value of variable "IR" is 1, if the return value of variable "IR" is 1, then set the LED matrix to display the icon and the buzzer to sound the alarm otherwise turn off the light.
+判断变量“ultrasonic_distance”的值是否在阈值内，如果是，则判断变量“IR”的返回值是否为1，如果变量“IR”的返回值为1，则设置LED矩阵显示图标，并且蜂鸣器发出警报声否则关闭灯光。
 
 ![](./images/tooca-laser-1-case-10-06.png)
 
-If the value of the variable "ultrasonic_distance" is not within the threshold, set to display the icon as we progrommed.
+如果变量“ultrasonic_distance”的值不在阈值内，则切换显示的图标。
 
 ![](./images/tooca-laser-1-case-10-07.png)
 
@@ -93,11 +92,10 @@ Link: [https://makecode.microbit.org/_5PbACb8kLcqr](https://makecode.microbit.or
     />
 </div>
 
-## Results
+## 结果
+当有人靠近农田时，农田保护装置将会切换显示的图标，并且发出警报声提醒他人不要靠近。
 
-When someone approaches the farmland, the farmland protection device will display the icon and sound an alarm to warn others to stay away.
-
-## Effect Show
+## 效果展示
 
 ![](./images/tooca-laser-1-case-10-01.png)
 

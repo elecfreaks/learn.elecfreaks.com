@@ -1,40 +1,41 @@
 ---
 sidebar_position: 14
-sidebar_label: Balancing Birds
+sidebar_label: 平衡鸟
 ---
 
-# Case 04: Balancing Birds
+# Case 04: 平衡鸟
 
 
 
-A toy that uses the beak of the bird to stop on your finger. No matter where you put the bird (where you can place it or on your finger), it can balance and stabilize without falling. Like a real bird to fly.
-The reason why the bird canl balance is that the actual center of gravity of the whole bird is on the beak tip point. Although it looks like the bird's whole body is in the air and the bird's point of force is on its fingers, the actual weight of the bird's wings is heavier and the whole bird's center of gravity is directly below the tip of its beak.
+利用鸟嘴停在手指上的一种玩具。无论您把鸟放在哪里（可以放置的地方或者是手指上），它都能平衡稳定而不掉落。如真鸟一样飞翔。
+平衡鸟之所以会平衡,那是因为整只鸟实际的重心在嘴尖这点的下方。虽然看起来鸟全身在空中，鸟的着力点在手指上，但是实际鸟的翅膀重量比较重，整只鸟重心却在嘴尖的正下方。
+
 
 ![](./images/tooca-laser-1-case-04-01.png)
 
-## Materials used
+## 使用材料
 
 [TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
-3mm Plywood
+2.8mm Plywood
 
 
-## Relevant parameters
+## 相关参数
 
 |Model|TOOCA Laser 1|
 |:-------:|:-------:|
-|Material of consumables|Basswood board|
-|Thickness|2.8mm|
-|Power|100%|
-|Speed|240mm/min|
-|Times required to be engraved/cut|3|
+|耗材材质|椴木板|
+|厚度|2.8mm|
+|功率|100%|
+|速度|240mm/min|
+|通过次数|3|
 
-Note: This case takes a 2.8mm basswood board as an example. If you need to use different thicknesses or use different materials, please modify the drawing by yourself and refer to the `Recommended parameter` modify the parameters of the software.
+注意：本案例以2.8mm的椴木板为例，如果需要使用不同厚度或者使用不同的材料，请自行修改图纸并参考TF卡中的`Recommended parameter`修改软件的参数。
 
-## Drawings download link
+## 图纸下载链接
 
-[Balancing birds.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/balance-bird/balance-bird.dxf)
+[平衡鸟.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/balance-bird/balance-bird.dxf)
 
-## Effect show
+## 效果展示
 
 ![](./images/tooca-laser-1-case-04-01.png)

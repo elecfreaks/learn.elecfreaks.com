@@ -1,43 +1,43 @@
 ---
 sidebar_position: 19
-sidebar_label: The Cutebot Unicorn
+sidebar_label: 独角仙
 ---
 
-# Case 09: The Cutebot Unicorn
+# 独角仙
 
 
+独角仙大量出现于6~8月，具有趋光性，多为昼出夜伏，白天常常聚集在青刚栎流出树液处，或是在光腊树上也常出现聚集上百只独角仙的盛况，到了晚上，在山区有路灯处，也往往可以发现他们的踪迹。他们主要以树木伤口处的汁液，或熟透的水果为食，对作物林木基本不造成危害。
 
-The unicorn appears in large numbers in June to August, with a tendency to light, mostly day and night, often gathered in the daytime at the sap flow of green oak, or in the light wax trees also often appear to gather hundreds of unicorns, at night, in mountainous areas with street lights, can often find their traces. They mainly feed on the sap of tree wounds, or ripe fruit, and basically do not cause harm to crops and trees.
 
 ![](./images/tooca-laser-1-case-09-01.png)
 
-## Materials Requested
+## 使用材料
 
-[TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
 
 [Smart Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
 
-3mm Plywood
+2.8mm椴木板
 
-## Relevant parameters
+## 相关参数
 
 |Model|TOOCA Laser 1|
 |:-------:|:-------:|
-|Material of consumables|Basswood board|
-|Thickness|2.8mm|
-|Power|100%|
-|Speed|240mm/min|
-|Times required to be engraved/cut|3|
+|耗材材质|椴木板|
+|厚度|2.8mm|
+|功率|100%|
+|速度|240mm/min|
+|通过次数|3|
 
-Note: This case takes a 2.8mm basswood board as an example. If you need to use different thicknesses or use different materials, please modify the drawing by yourself and refer to the `Recommended parameter` modify the parameters of the software.
+注意：本案例以2.8mm的椴木板为例，如果需要使用不同厚度或者使用不同的材料，请自行修改图纸并参考TF卡中的`Recommended parameter`修改软件的参数。
 
-## Drawings Download Link
+## 图纸下载链接
 
-[Cutebot Unicorn.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/Cutebot-Unicorn/Cutebot-Unicorn.dxf)
+[Cutebot独角仙..dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/Cutebot-Unicorn/Cutebot-Unicorn.dxf)
 
 Please refer to the software operation method: [Get Started Quickly](http://)
 
-## Effect Show
+## 效果展示
 
 ![](./images/tooca-laser-1-case-09-02.png)
 

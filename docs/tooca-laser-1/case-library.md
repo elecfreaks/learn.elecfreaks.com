@@ -23,10 +23,10 @@ import santa_pattern_Icon from './images/santa-pattern-icon.png';
 import forever_love_pattern_Icon from './images/forever-love-pattern-icon.png';
 
 ## 案例库
----
+
 
 ### 动物世界
----
+
 <cardbox>
     <card
     href="./case-03-the-elk/"
@@ -44,7 +44,7 @@ The reason why the bird canl balance is that the actual center of gravity of the
 </cardbox>
 
 ### 趣味拼图
----
+
 <cardbox>
     <card
     href="./case-02-the-world-map/"
@@ -55,7 +55,7 @@ The reason why the bird canl balance is that the actual center of gravity of the
 </cardbox>
 
 ### 节日装饰
----
+
 
 <cardbox>
     <card
@@ -81,7 +81,7 @@ It is said that the Christmas tree first appeared in ancient Rome in mid-Decembe
 </cardbox>
 
 ### 恐龙乐园
----
+
 <cardbox>
     <card
     href="./case-07-the-tyrannosaurus-rex/"
@@ -101,13 +101,18 @@ It is said that the Christmas tree first appeared in ancient Rome in mid-Decembe
 
 
 ### 装饰物品
----
-<cardbox>
 
+<cardbox>
+  <card
+    href="./case-10-the-farm-protection-devices/"
+    title="Forever love"
+    description=""
+    img={forever_love_pattern_Icon}
+  />
 </cardbox>
 
 ### 机械结构
----
+
 
 <cardbox>
 
@@ -115,7 +120,7 @@ It is said that the Christmas tree first appeared in ancient Rome in mid-Decembe
 
 
 ### 交通运输
----
+
 
 <cardbox>
 
@@ -123,7 +128,7 @@ It is said that the Christmas tree first appeared in ancient Rome in mid-Decembe
 
 
 ### 文具用品
----
+
 
 <cardbox>
     <card
@@ -143,7 +148,7 @@ The creative combination of calendar and pen holder is not only practical but al
 
 
 ### 智能设备
----
+
 
 <cardbox>
     <card
@@ -157,26 +162,5 @@ The creative combination of calendar and pen holder is not only practical but al
     title="The Farm Protection Devices"
     description="In order to protect the farmlands from people to get in, we can set a farmland protection device."
     img={the_farm_protection_devices_Icon}
-  />
-</cardbox>
-
-
-
-<cardbox>
-
-
-
-
-
-
-
-
-
-
-  <card
-    href="./case-10-the-farm-protection-devices/"
-    title="Forever love"
-    description=""
-    img={forever_love_pattern_Icon}
   />
 </cardbox>

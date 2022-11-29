@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-sidebar_label: LaserGRBL用户指南
+sidebar_label: Lightburn用户指南
 ---
 
 # LightBurn用户使用指南

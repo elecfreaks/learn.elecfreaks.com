@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: 悟空32合1搭建套装
+sidebar_label: XGO机械狗
 ---
 
 # 简介

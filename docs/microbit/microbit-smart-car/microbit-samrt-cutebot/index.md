@@ -3,9 +3,19 @@ sidebar_position: 1
 sidebar_label: 酷比特小车套件
 ---
 
-# 简介
+# Cutebot智能赛车简介
+
+## 简介
 ---
 
-**发挥创意，建立联系，编程！**
+ELECFREAKS Cutebot是一款带有双高速电机马达的后驱智能赛车。
 
-*袖珍电脑改变世界。*
+Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器，两颗RGBLED车大灯，两颗Rainbow LED车底示廓灯，两个车道辅助巡线探头，和更多智能配件！驱动你的第一个智能赛车吧！
+
+## Directory
+
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
+```

@@ -114,7 +114,7 @@ sidebar_position: 4
   ` =NUMBERVALUE(LEFT(E2,F2-1))` : 取字符串的左侧，直到逗号位置，并将其转换为数字值。这给了我们一个代表光传感器值的数字。
 micro:bit中的亮度值范围为0到255.
 
-   `=NUMBERVALUE(RIGHT(E2,LEN(E2)-F2))` : 与上一个公式类似，只取右边数，即加速度值。值可以在X，Y或Z轴上，也可以组合在一起，并 [在此处进行](https://pxt.microbit.org/reference/input/acceleration)说明.
+   `=NUMBERVALUE(RIGHT(E2,LEN(E2)-F2))` : 与上一个公式类似，只取右边数，即加速度值。值可以在X，Y或Z轴上，也可以组合在一起.
 
 我还添加了一个编号为1-30的固定“行”列，这样我们的图表就会有一个X轴。
 

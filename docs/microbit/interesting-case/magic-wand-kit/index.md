@@ -1,11 +1,13 @@
 ---
 sidebar_position: 1
-sidebar_label: 哪吒科学套装
+sidebar_label: 魔棒套件
 ---
 
-# 简介
----
 
-**发挥创意，建立联系，编程！**
+## 目录
 
-*袖珍电脑改变世界。*
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
+```

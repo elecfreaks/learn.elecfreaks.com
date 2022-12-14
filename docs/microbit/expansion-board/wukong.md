@@ -134,7 +134,7 @@
 
 ### 软件编程平台（makecode）
 
-- [微软makecode积木块式在线编程:makecode.microbit.org](makecode.microbit.org)
+- [微软makecode积木块式在线编程:makecode.microbit.org](https://makecode.microbit.org)
 
 
 

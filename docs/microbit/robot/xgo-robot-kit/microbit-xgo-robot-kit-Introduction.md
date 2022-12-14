@@ -105,6 +105,6 @@ XGO 是一款专为青少年人工智能教育而设计的仿生四足机器狗�
 ---
 
 
-关于micro:bit的学习文档请参考其[官方网站]((https://www.microbit.org/))
+关于micro:bit的学习文档请参考其[官方网站](https://www.microbit.org/)
 
 关于Ring:bit的学习文档请参考其[使用文档](https://www.elecfreaks.net/learn-cn/microbitKit/ring_bit_v2/ring_bit_v2.html),以及其扩展库相关说明[文档](https://www.elecfreaks.net/learn-cn/microbitKit/ring_bit_v2/ring_bit_car_v2_extensions.html)

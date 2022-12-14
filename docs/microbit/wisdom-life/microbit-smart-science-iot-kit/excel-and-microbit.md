@@ -22,7 +22,7 @@ sidebar_position: 4
 
 编程micro:bit是你做过的最简单的事情。Microsoft实际上已经为您准备了基于Web的开发环境（Microsoft是micro:bit的创始合作伙伴之一）。
 
-您所要做的就是，访问[makecode.microbit.org](makecode.microbit.org),使用可视化的“积木块”编程语言编写一个小程序。
+您所要做的就是，访问[makecode.microbit.org](https://makecode.microbit.org),使用可视化的“积木块”编程语言编写一个小程序。
 
 我们为这个实验编写的程序相当简单，收集两个传感器的数据 - 加速度值和光照值，并且每隔100ms通过将数据发送到串行通信端口。
 

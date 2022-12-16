@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
-sidebar_label: LaserGRBL用户指南
+sidebar_label: LaserGRBL-用户指南
 ---
 
-# LaserGRBL用户指南
+# LaserGRBL-用户指南
 
 ## 准备工作
 

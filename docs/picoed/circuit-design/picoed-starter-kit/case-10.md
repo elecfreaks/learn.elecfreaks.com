@@ -70,7 +70,7 @@ Pico:ed的IO口的驱动电流非常微弱的，不足以直接驱动电机。�
 编程环境准备请参考：[编程环境介绍](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
 
 ### 代码示例：
-```
+```python
 # 导入程序所需要的模块
 import board
 import digitalio
@@ -95,20 +95,20 @@ while True:
 ### 代码详解
 
 1. 导入程序所需要的支持模块。`board`模块是引脚名称的通用容器，可以通过`board`库指定要使用的引脚，`digitalio`模块包含提供对基本数字IO的访问的类。
-```
+```python
 import board
 import digitalio
 ```
 
 2. 设置电机和自锁开关连接的引脚以及引脚方向，设置电机初始值为 True、自锁开关上拉。
-```
+```python
 motor = digitalio.DigitalInOut(board.P0_A0)
 locking = digitalio.DigitalInOut(board.P1_A1)
 motor.direction = digitalio.Direction.OUTPUT
 locking.direction = digitalio.Direction.INPUT
 ```
 如果你所使用的引脚不是 P0_A0 和 P1_A1，那么可以在 Thonny 编辑器下方的 shell 窗口中输入以下代码并回车查看其他引脚的编号。
-```
+```python
 >>> import board
 >>> help(board)
 object <module 'board'> is of type module
@@ -125,12 +125,12 @@ object <module 'board'> is of type module
 ```
 
 3. 设置自锁开关上拉。
-```
+```python
 locking.pull = digitalio.Pull.UP
 ```
 
 3. 循环判断自锁开关的状态来改变电机的状态。
-```
+```python
 while True:
     if locking.value == False:
         motor.value = True

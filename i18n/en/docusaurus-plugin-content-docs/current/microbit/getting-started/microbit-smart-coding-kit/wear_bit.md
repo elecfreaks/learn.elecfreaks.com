@@ -76,11 +76,11 @@ Fix the micro:bit to the button cell extension board Pro with screws.
 
 When switching on, the cells give power to the micro:bit and the Wear:bit, or the cells do not give power.
 
-![](./images/wear_bit_06.png)
+
 
 If slide the buzzer switch to the left side, the buzzer begins working; while to the right side, the buzzer stops working.
 
-![](./images/wear_bit_07.png)
+
 
 
 ### Software Programming

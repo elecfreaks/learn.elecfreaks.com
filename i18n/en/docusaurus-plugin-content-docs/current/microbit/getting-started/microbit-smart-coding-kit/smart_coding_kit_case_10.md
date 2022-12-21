@@ -1,44 +1,48 @@
-# 案例10：石头剪刀布
+# Case 10: Finger-guessing game
 
-## 目的
----
-- 使用smart coding kit手表套件完成石头剪刀布。
+## Purpose
 
-## 使用材料
----
+ Use the Smart Coding Kit to create a finger-guessing game
 
-- 1 x [手表套件Pro（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=582042009614)
+## Products Link
+
+ 1 x [ELECFREAKS micro:bit Smart Coding Watch Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-coding-watch-kit-without-micro-bit-board?_pos=2&_sid=ce4e7cb69&_ss=r)
+
 
 ![](./images/smart_coding_kit_case_10_01.png)
 
 
-## 软件
----
-[微软makecode](https://makecode.microbit.org/#)
+## Software
 
-## 编程
----
-### 步骤 1
-- 当开机时将变量‘i’和变量‘k’设置为0，显示开机图案
-- 设置无线设置组
-- 当按键‘A’、‘B’或者‘A+B’被按下时，将变量‘k’设置为相应数字，无线发送变量‘k’的值，并显示相应图案
-- 当无线接收到数据时，将数据存入变量`i`
-![](./images/smart_coding_kit_case_10_02.png)
+[MicroSoftmakecode](https://makecode.microbit.org/#)
 
-### 步骤 2
-- 在无限循环中，判断‘i’和‘k’的值，如果都不等于0，则两名玩家都已经出拳
-- 通过对比变量‘i’和变量‘k’的值来判断胜负
-- 将变量‘i’和变量‘k’的值设为0，为下次游戏做好准备
+## Programming
+
+### Step 1
+ Set both the variables "i" and "k" as 0 and show the on start icon
+
+ Set the wireless group
+
+ While pressing button A or/and B,  set the variable "k" as the equivalent number and send it to show the icon accordingly
+
+ After receiving the data, save the data as variable "i"
+
+  ![](./images/smart_coding_kit_case_10_02.png)
+
+### Step 2
+ In the Forever block, judge the value of "i" and "k", if they are not 0, it means both the players give a “fist"
+ The winner will be judged by the comparasion of "i" and "k"
+ Set both the varibles "i" and "k" as 0 and be prepared for the next round
 
 ![](./images/smart_coding_kit_case_10_03.png)
 
 
 
 
-### 程序
-- 请参考程序连接：[https://makecode.microbit.org/_0HpEjy3Dj8vY](https://makecode.microbit.org/_0HpEjy3Dj8vY)
+### Link
+ Link：[https://makecode.microbit.org/_0HpEjy3Dj8vY](https://makecode.microbit.org/_0HpEjy3Dj8vY)
 
-- 你也可以通过以下网页直接下载程序。
+ You can also download it direcly below:
 
 <div
     style={{
@@ -58,24 +62,25 @@
         }}
     />
 </div>
----
 
 
-## 结论
----
-
-通过按钮`A`和`B`选择出拳，在双方出拳后，自动显示两边胜负，赢家显示笑脸，输家显示哭脸。
+## Result
 
 
+Choose to give a "fist" through button A or/and B,  the results will be given accordingly, the winner has a smile face and the loser has a cry face on the micro:bit.
 
 
 
-## 思考
----
 
 
-## 常见问题
+## Exploration
 
 
-## 相关阅读
----
+
+
+## FAQ
+
+
+
+
+## Relevant File

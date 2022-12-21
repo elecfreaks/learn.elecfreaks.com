@@ -1,13 +1,12 @@
-# 案例04：计数器
+# Case 04: Counter
 
-## 目的
----
-- 使用smart coding kit手表套件完成可穿戴便携式计数器。
+## Purpose
 
-## 使用材料
----
+ Use the Smart Coding Kit to create a wearable counter.
 
-- 1 x [手表套件Pro（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=582042009614)
+## Products Link
+
+ 1 x [ELECFREAKS micro:bit Smart Coding Watch Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-coding-watch-kit-without-micro-bit-board?_pos=2&_sid=ce4e7cb69&_ss=r)
 
 
 
@@ -15,26 +14,26 @@
 
 
 
-## 软件
----
+## Software
 
-[微软makecode](https://makecode.microbit.org/#)
 
-## 编程
----
-### 步骤 1
+[MakeCodemakecode](https://makecode.microbit.org/#)
 
-- 当开机时显示爱心图标，并将变量`i`设为0；设置当按钮`A`被按下时使i=i+1，当按钮`B`被按下时使i=i-1，在无限循环中使用显示数字积木块显示变量`i`的值。
+## Programming
+
+
+
+ Programme to show icon while on start and set the variable `i` as 0; Set i=i+1 while button A being pressed, Set i=i-1 while button B being pressed. Drag the show digital block to the Forever block and choose to display `i` of the value of the variable.
 
 
 ![](./images/smart_coding_kit_case_04_02.png)
 
 
 
-### 程序
-- 请参考程序连接：[https://makecode.microbit.org/_foxcuohURfzb](https://makecode.microbit.org/_foxcuohURfzb)
+### Link
+ Link：[https://makecode.microbit.org/_foxcuohURfzb](https://makecode.microbit.org/_foxcuohURfzb)
 
-- 你也可以通过以下网页直接下载程序。
+ You may also download it directly below:
 
 <div
     style={{
@@ -54,21 +53,19 @@
         }}
     />
 </div>
----
 
 
-## 结论
----
-
-- 通过按钮`A`或者`B`进行计数并显示。
-
-## 思考
----
+## Result
 
 
-## 常见问题
----
+ Start counting and displaying the results through button A or B.
+
+## Exploration
 
 
-## 相关阅读
----
+
+## FAQ
+
+
+
+## Relevant File

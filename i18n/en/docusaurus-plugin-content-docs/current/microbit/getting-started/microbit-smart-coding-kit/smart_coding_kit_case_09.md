@@ -1,38 +1,41 @@
-# 案例09：倒计时
+# SCase 09: Countdown
 
-## 目的
----
-- 使用smart coding kit手表套件实现倒计时功能。
+## Purpose
 
-## 使用材料
----
+ Use the Smart Coding Kit to create a countdown machine.
 
-- 1 x [手表套件Pro（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=582042009614)
+## Products Link
+
+ 1 x [ELECFREAKS micro:bit Smart Coding Watch Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-coding-watch-kit-without-micro-bit-board?_pos=2&_sid=ce4e7cb69&_ss=r)
+
 
 ![](./images/smart_coding_kit_case_09_01.png)
 
 
-## 软件
----
-[微软makecode](https://makecode.microbit.org/#)
+## Software
 
-## 编程
----
+[MicroSoftmakecode](https://makecode.microbit.org/#)
 
-- 当开机时显示设定图标，并设置变量`i`等于9。
-- 当`A`键被按下时，设置变量`i`等于9。
-- 当`B`键被按下时，则开始倒计时，当倒计时到0时，则显示设定图标
-![](./images/smart_coding_kit_case_09_02.png)
+## Programming
 
 
+ Show the icon while on start and set the variable `i` as 9.
+
+ While button A being pressed, set the variable `i` as 9.
+
+ While button B being pressed, start the countdown and display the icon when it comes to 0.
+
+  ![](./images/smart_coding_kit_case_09_02.png)
 
 
 
 
-### 程序
-- 请参考程序连接：[https://makecode.microbit.org/_e5CWK5DbUaqY](https://makecode.microbit.org/_e5CWK5DbUaqY)
 
-- 你也可以通过以下网页直接下载程序。
+
+### Link
+ Link：[https://makecode.microbit.org/_e5CWK5DbUaqY](https://makecode.microbit.org/_e5CWK5DbUaqY)
+
+ You can also download it direcly below:
 
 <div
     style={{
@@ -52,24 +55,24 @@
         }}
     />
 </div>
----
 
 
-## 结论
----
-- 当开机时显示设定图标
-- 当`A`键被按下时，LED矩阵显示数值9
-- 当`B`键被按下时，开始倒计时，当显示到0时，则显示设定图标
+## Result
 
+ Show the icon while on start
+ While button A being pressed, the number 9 displays on the micro:bit
+ While button B being pressed, the countdown starts and number 0 displays on the micro:bit
 
 
 
-## 思考
----
+## Exploration
 
 
-## 常见问题
 
 
-## 相关阅读
----
+## FAQ
+
+
+
+
+## Relevant File

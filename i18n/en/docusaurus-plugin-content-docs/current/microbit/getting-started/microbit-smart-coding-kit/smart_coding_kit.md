@@ -1,72 +1,48 @@
-# 手表套件Pro介绍
+# Introduction to Smart Coding Kit
 
-![](./images/smart_coding_kit_00.jpg)
+## Introduction
 
-## 简介
----
-micro:bit手表套件Pro(smart coding kit)是一套基于micro:bit纽扣电池扩展板Pro的可穿戴装备，仅需简单的装配步骤，就可DIY一款micro:bit手表。
+Elecfreaks Smart Coding Kit is a wearable device based on micro:bit button cell extension baord Pro, a DIY micro:bit watch can be easily made with a simple installing method. 
 
-micro:bit手表套件Pro基于一代手表套件进行了升级，
+Smart Coding Kit is the updated version for the first generation Power Bit Watch Kit, the breakthroughs are: 
 
-取消了亚克力后盖板，装配更加简单。
+Simplify the installation without using the acrylic back shroud.
 
-取消了3Pin端口，保持极简风格。
+Maintain a simple style with 3-pin ports canceled. 
 
-增加了蜂鸣器开关，功能再升级。
+Upgrade the function by adding a switch for the buzzer.
 
-## 购买链接
-[手表套件Pro（wear:bit）](https://item.taobao.com/item.htm?ft=t&id=582042009614)
+## Products Link
 
+[ELECFREAKS micro:bit Smart Coding Watch Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-coding-watch-kit-without-micro-bit-board?_pos=2&_sid=ce4e7cb69&_ss=r)
 
-## 产品参数
----
-控制器： micro:bit开发板（选配） 
+## Assembling Diagram
 
-编程方式： makecode图形编程 / Python 
-
-主要功能： 编程模式 
-
-包装尺寸： 68mm×30mm×91mm
-
-工作电压：2.7~3.3V
-
-蜂鸣器：支持
-
-净重：12.7g
-
-供电：2025纽扣电池
-
-
-## 组装图示
----
-将两节3V的2025电池插入电池插座
+ Install two 3V 2025 cells to the battery holder.
 
 ![](./images/smart_coding_kit_01.png)
 
-使用螺丝将你的micro:bit和纽扣电池扩展板Pro固定在一起
+Fix the micro:bit to the button cell extension board Pro with screws.
 
 ![](./images/smart_coding_kit_02.png)
 
-将较长的表带穿过纽扣电池板Pro上的孔，安装表带
+ Pass the longer watch strap through the hole in the button panel Pro to install the watch strap.
 
 ![](./images/smart_coding_kit_03.png)
 ![](./images/smart_coding_kit_04.png)
 
 
 
-## 清单
----
-- 1 x micro:bit
-- 1 x wear:bit
-- 1 x 尼龙表带
-- 1 x micro usb数据线
-- 5 x M3x5内十字螺丝
-- 1 x MINI螺丝刀
-- 1 x micro:bit说明书
+## List
+
+ 1 x micro:bit
+ 1 xPower:bit
+ 1 x Nylon watch strap
+ 1 x micro USB wire 
+ 5 x M3x5 Inner cross screws 
+ 1 x MINI Screwdriver 
+ 1 x micro:bit guidebook 
 
 
-![](./images/smart_coding_kit_05.png)
+## FAQ
 
-
-## 常见问题
----

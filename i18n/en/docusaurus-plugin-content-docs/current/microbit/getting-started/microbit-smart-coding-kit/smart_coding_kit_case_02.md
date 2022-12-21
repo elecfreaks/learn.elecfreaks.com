@@ -1,13 +1,14 @@
-# 案例02：骰子
+# Case 02: Dice
 
-## 目的
----
-- 使用smart coding kit手表套件（含主板）完成可穿戴便携式骰子玩具。
+## Purpose
 
-## 使用材料
----
+ Use the Smart Coding Kit to make a wearable dice.
 
-- 1 x [手表套件Pro（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=582042009614)
+## Products Link
+
+ 1 x [ELECFREAKS micro:bit Smart Coding Watch Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-coding-watch-kit-without-micro-bit-board?_pos=2&_sid=ce4e7cb69&_ss=r)
+
+
 
 
 
@@ -15,17 +16,17 @@
 
 
 
-## 软件
----
-[微软makecode](https://makecode.microbit.org/#)
+## Software
+
+[MicroSoftmakecode](https://makecode.microbit.org/#)
 
 
-## 编程
----
-### 步骤 1
+## Programming
 
-- 在输入模块中拖出一个 振动积木块，在其中插入随机选取1-6之间的数赋值给`num`变量，用于随机投掷骰子。
-- 之后插入判断积木块`如果...否则...`当随机数为`1`时，显示一个点，以此类推。
+
+
+ Drag out an `on shake` block from `input`. Create a variable `num` and assign value to this variable with a random number among 1-6.
+ Insert a `if` block. If the picked random number is 0, then display one point. If the random number is 2, then display two points. And so on.
 
 ![](./images/smart_coding_kit_case_02_02.png)
 
@@ -33,10 +34,10 @@
 
 
 
-### 程序
-- 请参考程序连接：[https://makecode.microbit.org/_hiRiC6PPT4Pd](https://makecode.microbit.org/_hiRiC6PPT4Pd)
+### Link
+ Link：[https://makecode.microbit.org/_hiRiC6PPT4Pd](https://makecode.microbit.org/_hiRiC6PPT4Pd)
 
-- 你也可以通过以下网页直接下载程序。
+ You can also download it directly below:
 
 <div
     style={{
@@ -57,22 +58,20 @@
     />
 </div>
 
----
 
 
-## 结论
----
-
-- 每次摇动，产生一个随机骰子数字。
+## Result
 
 
-## 思考
----
+ A random number will be created each time when we shake our micro:bit.
 
 
-## 常见问题
----
+## Exploration
 
 
-## 相关阅读
----
+
+## FAQ
+
+
+
+## Relevant File

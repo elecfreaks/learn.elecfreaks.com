@@ -1,90 +1,95 @@
-# 钮扣电池扩展板Pro（wear:bit）
+# Wear:bit
 
-## 简介
----
-wear:bit纽扣电池板Pro是一种小尺寸的微型扩展板。
+## Introduction
 
-它能够给micro:bit主板供电，并且板载蜂鸣器，可以与我们的表带和主板搭配使用。
+Wear:bit button panel Pro is a mini extension board in small size.
 
-与一代相比取消了亚克力后盖板，装配更加简单。
+It can give power to the micro:bit and is loaded with buzzer which can be used with our watch strap and the micro:bit. The breakthroughs are:
 
-取消了3Pin端口，保持极简风格。
+Simplify the installation without using the acrylic back shroud.
 
-增加了蜂鸣器开关，功能再升级。
+Maintain a simple style with 3-pin ports canceled.
+
+Upgrade the function by adding a switch for the buzzer.
+
+## Characteristic
 
 
+ Powered by two 3V CR2025 lithium batteries.
+ Loaded with a buzzer that is controlled through P0 port.
+ Loaded with a buzzer switch.
+ It can be used with the watch strap and the micro:bit.
 
-## 淘宝购买链接
----
-[手表套件Pro（wear:bit）](https://item.taobao.com/item.htm?ft=t&id=582042009614)
+## Products Link
 
-## 特性
----
+[ELECFREAKS micro:bit Smart Coding Watch Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-coding-watch-kit-without-micro-bit-board?_pos=2&_sid=ce4e7cb69&_ss=r)
 
-- 由两个3V的CR2025锂电池供电。
-- 板载蜂鸣器，蜂鸣器由P0口控制。
-- 板载蜂鸣器开关。
-- 可以搭配表带和micro:bit主板使用。
 
-## 外型与定位尺寸
----
+## Outlook and Dimension
+
 ![](./images/wear_bit_00.jpg)
 
-## 参数
----
-- 品名：wear:bit
-- 版本号：V1.0
-- 工作电压：2.7~3.3V
-- 蜂鸣器：支持
-- 尺寸：49.1x51.6mm
-- 净重：12.7g
+## Parameter
 
-## 主要功能模块介绍
----
+ Name: Wear:bit
+ Version: V1.0
+ Working Voltage: 2.7~3.3V
+ Buzzer: Support
+ Size: 49.1x51.6mm
+ Net Weight:12.7g
 
-### 电源开关
+## Introduction to Main Modules
 
-左档打开电源，右档关闭电源。
+
+### Power Switch
+
+"I" to switch on, "O" to switch off.
 
 ![](./images/wear_bit_01.png)
 
-### 两个CR2025电池座
+### Two CR2025 Battery Holders
 
-可以便捷插入2025电池（3V锂锰扣式电池）供电
+It is powered by 2025 button cells(3V Li-Mn button cells) with a simple installation method.
 
 ![](./images/wear_bit_02.png)
 
-### 蜂鸣器及开关
+### Buzzer and Switch
 
 
-蜂鸣器由P0口控制，能够播放音乐。拨动开关可以控制蜂鸣器的工作或禁用。
+The buzzer is controlled through P0 port that can play music. The switch powers the buzzer on or off.
 
 ![](./images/wear_bit_03.png)
 
 
-## 快速上手
----
+## Quick to Start
 
-### 硬件连接
 
-并将两个3V的2025电池装入wear:bit扩展板上电池座中。
+### Hardware Connection
+
+Install two 3V 2025 button cells to the battery holder of the Wear:bit extension board.
 
 ![](./images/smart_coding_kit_01.png)
 
-使用螺丝将你的micro:bit和纽扣电池扩展板Pro固定在一起。
+Fix the micro:bit to the button cell extension board Pro with screws.
 
 ![](./images/smart_coding_kit_02.png)
 
-拨动到开档，2025电池给micro：bit主板和wear:bit主板供电。
+When switching on, the cells give power to the micro:bit and the Wear:bit, or the cells do not give power.
+
+![](./images/wear_bit_06.png)
+
+If slide the buzzer switch to the left side, the buzzer begins working; while to the right side, the buzzer stops working.
+
+![](./images/wear_bit_07.png)
 
 
-### 软件编程
+### Software Programming
 
-打开makecode，编写程序micro：bit主板点阵屏显示爱心闪烁图案。
+Open Makecode, programme to make micro:bit show heart in a flash way.
 
-程序代码链接：[https://makecode.microbit.org/_MP28fbDmUMfz](https://makecode.microbit.org/_MP28fbDmUMfz)
+Link: [https://makecode.microbit.org/_MP28fbDmUMfz](https://makecode.microbit.org/_MP28fbDmUMfz)
 
-你也能通过下列窗口直接下载代码
+You can also download it below:
 
 <div
     style={{
@@ -94,7 +99,7 @@ wear:bit纽扣电池板Pro是一种小尺寸的微型扩展板。
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_MP28fbDmUMfz"
+        src="https://makecode.microbit.org/_3JrVPeeDVY2r"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -105,9 +110,8 @@ wear:bit纽扣电池板Pro是一种小尺寸的微型扩展板。
     />
 </div>
 
-### 结果
+### Result
 
-micro：bit主板点阵显示爱心闪烁图案。
+A flash heart pattern is showing on the micro:bit.
 
-## 常见问题
----
+## FAQ

@@ -1,25 +1,25 @@
-# 案例06：指南针
+# Case 06: Compass
 
-## 目的
----
-- 使用smart coding kit手表套件完成可穿戴便携式指南针。
+## Purpose
 
-## 使用材料
----
+ Use the Smart Coding Kit to create a wearable compass.
 
-- 1 x [手表套件Pro（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=582042009614)
+## Products Link
+
+ 1 x [ELECFREAKS micro:bit Smart Coding Watch Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-coding-watch-kit-without-micro-bit-board?_pos=2&_sid=ce4e7cb69&_ss=r)
+
 
 ![](./images/smart_coding_kit_case_06_01.png)
 
 
-## 软件
----
-[微软makecode](https://makecode.microbit.org/#)
+## Software
 
-## 编程
----
-### 步骤 1
-- 指南针朝向的返回值存入变量“i”，判断“i”的值，当i<45或者i>315时，显示字符串“N”，当i<135时，显示字符串“E”，当i<225时，显示字符串“S”，否则显示字符串“W”。
+[ MakeCodemakecode](https://makecode.microbit.org/#)
+
+## Programming
+
+
+ Save the returned value of the compass direction as varible i and judge it, if i<45 or i>315, display “N”; if i<135, display “E”; if i<225, display “S”, or display “W”.
 
 
 
@@ -28,10 +28,10 @@
 
 
 
-### 程序
-- 请参考程序连接：[https://makecode.microbit.org/_H0DEUV74dKg0](https://makecode.microbit.org/_H0DEUV74dKg0)
+### Link
+ Link：[https://makecode.microbit.org/_H0DEUV74dKg0](https://makecode.microbit.org/_H0DEUV74dKg0)
 
-- 你也可以通过以下网页直接下载程序。
+ You can also download it direcly below:
 
 <div
     style={{
@@ -51,24 +51,25 @@
         }}
     />
 </div>
----
 
 
-## 结论
----
-
-micro:bit的LED矩阵显示当前朝向。
+## Result
 
 
+The current direction displays on the micro:bit.
 
 
 
-## 思考
----
 
 
-## 常见问题
+## Exploration
 
 
-## 相关阅读
----
+
+
+## FAQ
+
+
+
+
+## Relevant File

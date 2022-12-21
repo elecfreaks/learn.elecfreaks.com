@@ -1,48 +1,56 @@
-# 案例07：无线通信
+# Case 07: Wireless Communication
 
-## 目的
----
-- 使用smart coding kit手表套件实现发送信号功能。
+## Purpose
 
-## 使用材料
----
+ Use the Smart Coding Kit to send signals.
 
-- 2 x [手表套件Pro（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=582042009614)
+## Products Link
+
+2 x [ELECFREAKS micro:bit Smart Coding Watch Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-coding-watch-kit-without-micro-bit-board?_pos=2&_sid=ce4e7cb69&_ss=r)
+
 
 ![](./images/smart_coding_kit_case_07_01.png)
 
 
-## 软件
----
-[微软makecode](https://makecode.microbit.org/#)
+## Software
 
-## 编程
----
-### 步骤 1
-- 发送端
-- 当开机时显示开机图案
-- 设置无线设置组
-- 当按钮`A`被按下时无线发送数字1
-- 当按钮`B`被按下时无线发送数字2
+[MicroSoftmakecode](https://makecode.microbit.org/#)
 
-![](./images/smart_coding_kit_case_07_02.png)
+## Programming
 
-### 步骤 2
-- 接收端
-- 当开机时显示开机图案
-- 设置无线设置组
-- 将接收到的数字存入变量`i`
-- 判断变量`i`的值，并显示相应图标
+### Step 1
+ Sending end
 
-![](./images/smart_coding_kit_case_07_03.png)
+ Show icon
+
+ Set the wireless group
+
+ Send number 1 when button A being pressed
+
+ Send number 2 when button B being pressed
+
+  ![](./images/smart_coding_kit_case_07_02.png)
+
+### Step 2
+ Receiving end
+
+ Show icon
+
+ Set the wireless group
+
+ Save the received number as variable i
+
+ Judge the received number and display the icon accordingly.
+
+  ![](./images/smart_coding_kit_case_07_03.png)
 
 
 
 
-### 程序
-- 发送端
-- 请参考程序连接：[https://makecode.microbit.org/_ix81uXcAULqW](https://makecode.microbit.org/_ix81uXcAULqW)
-- 你也可以通过以下网页直接下载程序。
+### Link
+ Sending end
+ Link：[https://makecode.microbit.org/_ix81uXcAULqW](https://makecode.microbit.org/_ix81uXcAULqW)
+ You can also download it direcly below:
 
 <div
     style={{
@@ -63,9 +71,11 @@
     />
 </div>
 
-- 接收端
-- 请参考程序连接：[https://makecode.microbit.org/_WpqdARYUXWMj](https://makecode.microbit.org/_WpqdARYUXWMj)
-- 你也可以通过以下网页直接下载程序。
+ Receiving end
+
+ Link：[https://makecode.microbit.org/_WpqdARYUXWMj](https://makecode.microbit.org/_WpqdARYUXWMj)
+
+ You can also download it direcly below:
 
 <div
     style={{
@@ -75,7 +85,7 @@
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_hiRiC6PPT4Pd"
+        src="https://makecode.microbit.org/_WpqdARYUXWMj"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -85,24 +95,24 @@
         }}
     />
 </div>
----
+
+## Result
 
 
-## 结论
----
-
-- 当发送端按下按钮`A`或者`B`时，接收端显示`√`或者`×`的图案。
+ While button A or B in the sending end being pressed, an icon of `√` or `×` displays on the receiving end.
 
 
 
 
 
-## 思考
----
+## Exploration
 
 
-## 常见问题
 
 
-## 相关阅读
----
+## FAQ
+
+
+
+
+## Relevant File

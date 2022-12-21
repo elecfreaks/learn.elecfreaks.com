@@ -1,13 +1,13 @@
-# 案例03：便携温度计
+# Case 03: Thermometer
 
-## 目的
----
-- 使用smart coding kit手表套件完成可穿戴便携式温度计。
+## Purpose
 
-## 使用材料
----
+ Use the Smart Coding Kit to create a wearable thermometer.
 
-- 1 x [手表套件Pro（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=582042009614)
+## Products Link
+
+ 1 x [ELECFREAKS micro:bit Smart Coding Watch Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-coding-watch-kit-without-micro-bit-board?_pos=2&_sid=ce4e7cb69&_ss=r)
+
 
 
 
@@ -16,25 +16,25 @@
 
 
 
-## 软件
----
+## Software
 
-[微软makecode](https://makecode.microbit.org/#)
 
-## 编程
----
-### 步骤 1
+[MakeCodemakecode](https://makecode.microbit.org/#)
 
-- 当开机时显示置顶图标并设置变量`i`为0。
+## Programming
+
+### Step 1
+
+ Create a variable `flag`. Initialize this variable to 0 when we startup our micro:bit.
 
 
 ![](./images/smart_coding_kit_case_03_02.png)
 
 
 
-### 步骤 2
+### Step 2
 
-- 无限循环显示变量`i`的值，如果变量`i`的值大于设定值，则发出警报声，如果变量`i`的值小于设定值，则不发出警报声。
+ Create a `forever` loop to show the variable `i`. If it is over the default value, it alarms; Or it does not alram.
 
 
 
@@ -42,19 +42,19 @@
 ![](./images/smart_coding_kit_case_03_03.png)
 
 
-### 步骤3
+### Step 3
 
-- 当按钮`A`被按下时则将变量`i`设置为micro:bit主板的温度返回值。
+ When button A being pressed, set the returned value as `i` displaying on the micro:bit.
 
 
 ![](./images/smart_coding_kit_case_03_04.png)
 
 
 
-### 程序
-- 请参考程序连接：[https://makecode.microbit.org/_hR9djPETmd38](https://makecode.microbit.org/_hR9djPETmd38)
+### Link
+ Link：[https://makecode.microbit.org/_hR9djPETmd38](https://makecode.microbit.org/_hR9djPETmd38)
 
-- 你也可以通过以下网页直接下载程序。
+ You can also download it below:
 
 <div
     style={{
@@ -74,24 +74,22 @@
         }}
     />
 </div>
----
 
 
-## 结论
----
-
-- 按下按钮`A`获取当前温度并显示。
+## Result
 
 
-## 思考
----
+ The current value will be detected and displayed on the micro:bit when button A being pressed.
 
 
-## 常见问题
----
-问：有时候温度明显低于20度，显示的数值更高？
+## Exploration
 
-答：micro:bit获取的温度为主板芯片温度，并不是环境温度。当主板运行时间过久等芯片会明显发热。
 
-## 相关阅读
----
+
+## FAQ
+
+Q: Sometimes the temperature is below 20 degrees, but the value detected is even higher?
+
+A: The temperature detected is the micro:bit chips but not the environment, the chips will get hot obviously when powering on for a long time.
+
+## Relevant File

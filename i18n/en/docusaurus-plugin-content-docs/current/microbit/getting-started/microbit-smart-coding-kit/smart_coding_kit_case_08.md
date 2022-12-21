@@ -1,28 +1,27 @@
-# 案例08：播放音乐
+# Case 08: Play the Music
 
-## 目的
----
-- 使用smart coding kit手表套件播放音乐。
+## Purpose
 
-## 使用材料
----
+ Use the Smart Coding Kit to play a music.
 
-- 1 x [手表套件Pro（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=582042009614)
+## Products Link
+
+ 1 x [ELECFREAKS micro:bit Smart Coding Watch Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-coding-watch-kit-without-micro-bit-board?_pos=2&_sid=ce4e7cb69&_ss=r)
+
 
 ![](./images/smart_coding_kit_case_08_01.png)
 
 
-## 软件
----
-[微软makecode](https://makecode.microbit.org/#)
+## Software
 
-## 编程
----
+[MicroSoftmakecode](https://makecode.microbit.org/#)
 
-- 当开机时显示设定图标
-- 当`A`键被按下时，播放生日歌
-- 当`B`键被按下时，播放设定音调
+## Programming
 
+
+ Show the icon when on start
+ While button A being pressed, it plays the music of "Happy Birthday".
+ While button B being pressed, it plays the music that you set.
 ![](./images/smart_coding_kit_case_08_02.png)
 
 
@@ -30,10 +29,10 @@
 
 
 
-### 程序
-- 请参考程序连接：[https://makecode.microbit.org/_D2JPv158u5o8](https://makecode.microbit.org/_D2JPv158u5o8)
+### Link
+ Link：[https://makecode.microbit.org/_D2JPv158u5o8](https://makecode.microbit.org/_D2JPv158u5o8)
 
-- 你也可以通过以下网页直接下载程序。
+ You can also download it direcly below:
 
 <div
     style={{
@@ -53,24 +52,24 @@
         }}
     />
 </div>
----
 
 
-## 结论
----
-- 当开机时显示设定图标
-- 当`A`键被按下时，播放生日歌
-- 当`B`键被按下时，播放设定音调
+## Result
 
+ Show the icon when on start
+ While button A being pressed, it plays the music of "Happy Birthday".
+ While button B being pressed, it plays the music that you set.
 
 
 
-## 思考
----
+## Exploration
 
 
-## 常见问题
 
 
-## 相关阅读
----
+## FAQ
+
+
+
+
+## Relevant File

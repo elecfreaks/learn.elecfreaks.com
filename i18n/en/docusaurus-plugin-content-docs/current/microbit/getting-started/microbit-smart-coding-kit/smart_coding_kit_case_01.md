@@ -1,93 +1,88 @@
-# 案例01：连接Scratch-Windows
+# Case 01: Connect Scratch-Windows
 
-## 目的
----
-- 使用smart coding kit手表套件Pro（含主板）完成Scratch的连接。
+## Goal
 
-## 使用材料
----
+ Connect Scratch with Smart Coding Kit.
 
-- 1 x [手表套件Pro（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=582042009614)
-- 1 x 带有蓝牙的电脑
-> 系统版本（Windows 10 version 1709+）（macOS 10.13+）
+## Products Link
 
-> 
-> 蓝牙版本（Bluetooth 4.0）
-
-## 背景知识
----
-
-### 什么是Scratch
-
-- [Scratch](https://baike.baidu.com/item/Scratch/15493636?fr=aladdin)是麻省理工学院的“终身幼儿园团队”（Lifelong Kindergarten Group）开发的图形化编程工具，主要面对青少年开放。
-![](https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=df7338639f8fa0ec6bca6c5f47fe328b/2cf5e0fe9925bc31e1c3fbc850df8db1ca1370c0.jpg)
+ 1 x [ELECFREAKS micro:bit Smart Coding Watch Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-coding-watch-kit-without-micro-bit-board?_pos=2&_sid=ce4e7cb69&_ss=r)
 
 
-## 软件准备
----
+ 1 x computer(support Bluetooth)
 
-- Scratch网页在线编程：[https://scratch.mit.edu/projects/editor](https://scratch.mit.edu/projects/editor)
+## Background
 
-- Scratch本地编程软件：[https://scratch.mit.edu/download](https://scratch.mit.edu/download)
 
-- 以上二选一即可，软件或者网页都可以。
+### What is Scratch ? 
 
-- Scratch Link连接软件(Windows)：[https://downloads.scratch.mit.edu/link/windows.zip](https://downloads.scratch.mit.edu/link/windows.zip)
+ [Scratch](https://en.wikipedia.org/wiki/Scratch) is a graphical programming tool developed by Lifelong Kindergarten Group from MIT, it suits for teenagers. 
 
-- Scratch Link连接软件(macOS)：[https://downloads.scratch.mit.edu/link/mac.zip](https://downloads.scratch.mit.edu/link/mac.zip)
+## Software
 
-- micro:bit固件：[https://downloads.scratch.mit.edu/microbit/scratch-microbit-1.1.0.hex.zip](https://downloads.scratch.mit.edu/microbit/scratch-microbit-1.1.0.hex.zip)
 
-## 连接步骤
----
-### 步骤 1
+ Scratch online programming link: [https://scratch.mit.edu/projects/editor](https://scratch.mit.edu/projects/editor)
 
-- 将micro:bit连接到你的电脑，将上一步准备的micro:bit固件直接发送到micro:bit盘。
+ Scratch software download: https://scratch.mit.edu/download](https://scratch.mit.edu/download)
+
+ Both the software and the online version are acceptable, you can choose one. 
+
+ Scratch Link (Windows)：[https://downloads.scratch.mit.edu/link/windows.zip](https://downloads.scratch.mit.edu/link/windows.zip)
+
+ Scratch Link (macOS)：[https://downloads.scratch.mit.edu/link/mac.zip](https://downloads.scratch.mit.edu/link/mac.zip)
+
+ micro:bit firmware：[https://downloads.scratch.mit.edu/microbit/scratch-microbit-1.1.0.hex.zip](https://downloads.scratch.mit.edu/microbit/scratch-microbit-1.1.0.hex.zip)
+
+## Connection Steps
+
+### Step 1
+
+ Connect the micro:bit to your computer and send the prepared micro:bit firmware to the micro:bit.
 
 ![](./images/case_01_01.gif)
 
-- 然后为micro:bit单独供电，micro:bit上会显示一串字符，为蓝牙识别码。
+ Give power to micro:bit solely and the displaying characters on the micro:bit is the identification code for Bluetooth.
 
 ![](./images/case_01_02.gif)
 
 
-### 步骤 2
+### Step 2
 
-- 打开Scratch Link软件，你的状态栏显示一个Scratch Link图标。
+ Open Scratch Link and you will see an icon of it on the status bar. 
 
 ![](./images/case_01_03.png)
 
-- 然后打开Scratch编程软件，在左下角点击`+`号，选择micro:bit扩展。
+ Open the Scratch coding software, choose micro:bit expansion after clicking `+`  on the left bottom.
 
 ![](./images/case_01_04.png)
 
 ![](./images/case_01_07.png)
 
-- 在弹出的搜索框中选择你的micro:bit。
+ Choose your micro:bit in the pop-up dialogue box. 
 
 ![](./images/case_01_05.png)
 
 ![](./images/case_01_06.png)
 
-## 结束
----
-- 连接成功黄色感叹号变成绿色的对勾。
-- 就可以使用micro:bit和Scratch配合编程啦。
+## Complete
+
+ If connection is completed, the yellow exclamation mark changes to a green check mark.
+ Now you can code the micro:bit with Scratch! 
 
 ![](./images/case_01_08.png)
 
-## 常见问题
----
-**无法连接Scratch**
+## FAQ
 
-1. 本页顶部列出了最低操作系统版本。
-2. 一次只能有一个scratch副本与micro:bit连接。如果在其他浏览器选项卡中打开了Scratch，请将其关闭，然后重试。
-3. 如果有另一台计算机连接到您的micro:bit，请断开micro:bit或关闭该计算机上的连接，然后重试。
-4. 有时在使用micro:bit时，您可能会意外地在USB和电源端口之间按下背面的“重置”按钮。确保手指（和脚趾）远离它！
+**Fail to connect Scratch**
 
-## 相关阅读  
----
-Scratch官方连接教程文档：[https://scratch.mit.edu/microbit](https://scratch.mit.edu/microbit)
+1. The lowest operation system version is listed at the top of this page.
+2. Only one copy of the scratch can be connected to the micro:bit. If you have open the Scratch in other browsers, please close all of them and re-try. 
+3. If there is another computer connecting to your micro:bit, please cut off the connection with another computer or yours, and re-try.
+4. You might press the "reset" button between the USB connector and power supply connector on the back of the micro:bit while operating it, make sure your hands or feet be away from it!
 
-Scratch官方网站：[https://scratch.mit.edu](https://scratch.mit.edu)
+## Relevant Files
+
+Scratch official connection files: [https://scratch.mit.edu/microbit](https://scratch.mit.edu/microbit)
+
+Scratch official website: [https://scratch.mit.edu](https://scratch.mit.edu)
 

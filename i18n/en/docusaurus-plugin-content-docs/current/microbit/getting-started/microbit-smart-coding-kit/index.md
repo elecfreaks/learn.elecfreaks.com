@@ -1,14 +1,19 @@
 ---
 sidebar_position: 1
-sidebar_label: 手表套件
+sidebar_label: smart_coding_kit
 ---
 
-# 简介
----
+## Introduction
 
-**发挥创意，建立联系，编程！**
+Elecfreaks Smart Coding Kit is a wearable device based on micro:bit button cell extension baord Pro, a DIY micro:bit watch can be easily made with a simple installing method.
 
-*袖珍电脑改变世界。*
+Smart Coding Kit is the updated version for the first generation Power Bit Watch Kit, the breakthroughs are:
+
+Simplify the installation without using the acrylic back shroud.
+
+Maintain a simple style with 3-pin ports canceled.
+
+Upgrade the function by adding a switch for the buzzer.
 
 
 ```mdx-code-block

@@ -94,7 +94,7 @@ wear:bit纽扣电池板Pro是一种小尺寸的微型扩展板。
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_hiRiC6PPT4Pd"
+        src="https://makecode.microbit.org/_MP28fbDmUMfz"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

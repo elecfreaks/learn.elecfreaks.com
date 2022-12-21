@@ -1,14 +1,13 @@
 ---
 sidebar_position: 2
-sidebar_label: 基础套件
+sidebar_label: basic kit
 ---
 
-# 简介
----
+# Introduction
 
-**发挥创意，建立联系，编程！**
+[ELECFREAKS micro:bit basic kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-beginner-basic-kit-without-micro-bit-board?_pos=1&_sid=b2a4954fa&_ss=r) is an entry-level kit. We carefully select 5 most common electric bricks, which can be easily connected to micro:bit via basic:bit. This kit can help students learn how to build their micro:bit projects quickly. And these electric bricks can be driven by Makecode defaulted blocks directly. You don't have to add any extra package. It is helpful for students to understand the usage of electric bricks from its principle.
 
-*袖珍电脑改变世界。*
+![](./images/oOrgZO3.jpg)
 
 
 

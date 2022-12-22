@@ -1,0 +1,97 @@
+# Case 19: The Crawler
+
+## Purpose
+---
+To make a crawler. 
+ 
+![](./images/case-19-01.png)
+
+## Link: 
+---
+[micro:bit Wonder Building Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-32-in-1-wonder-building-kit-without-micro-bit-board?_pos=5&_sid=2094afd2f&_ss=r)
+
+## Materials Required
+---
+![](./images/case-19-02.png)
+
+Video link:
+[https://youtu.be/s7h1DxN7FxI](https://youtu.be/s7h1DxN7FxI)
+
+## Bricks build-up
+---
+
+
+![](./images/step-case-19-01.png)
+
+![](./images/step-case-19-02.png)
+
+![](./images/step-case-19-03.png)
+
+![](./images/step-case-19-04.png)
+
+![](./images/step-case-19-05.png)
+
+![](./images/step-case-19-06.png)
+
+![](./images/step-case-19-07.png)
+
+![](./images/step-case-19-08.png)
+
+![](./images/step-case-19-09.png)
+
+![](./images/step-case-19-10.png)
+
+![](./images/step-case-19-11.png)
+
+![](./images/step-case-19-12.png)
+
+![](./images/step-case-19-13.png)
+
+![](./images/step-case-19-14.png)
+
+![](./images/step-case-19-15.png)
+
+![](./images/step-case-19-16.png)
+
+![](./images/step-case-19-17.png)
+
+![](./images/step-case-19-18.png)
+
+![](./images/step-case-19-19.png)
+
+![](./images/step-case-19-20.png)
+
+## Hardware Connection
+
+Connect a [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html).
+
+![](./images/Wonder-Building-Kit-case-19-06.png)
+
+## Software Platform
+---
+[MakeCode](https://makecode.microbit.org/)
+
+## Coding
+---
+### Add extensions
+Click "Advanced" in the MakeCode to see more choices.
+ 
+![](./images/case-01-03.png)
+
+Search with Wukong in the dialogue box to download it. 
+
+![](./images/case-01-04.png)
+
+
+
+
+
+### Program
+ 
+![](./images/case-11-03.png)
+
+Link:[https://makecode.microbit.org/_289eegA6E7jP](https://makecode.microbit.org/_289eegA6E7jP)
+
+### Result
+
+The crawler moves forward when button A is pressed, and stops moving when button B is pressed.

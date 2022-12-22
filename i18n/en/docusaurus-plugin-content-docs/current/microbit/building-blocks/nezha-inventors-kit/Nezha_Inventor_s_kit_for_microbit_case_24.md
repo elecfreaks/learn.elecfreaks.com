@@ -1,0 +1,59 @@
+# case 24 The Climbing LEDs
+
+## Introduction
+
+To make a climbing LEDs effect with the built-in sound sensor on the micro:bit.
+
+
+## Quick Start
+
+
+### Materials Required
+
+Nezha expansion board × 1
+
+micro:bit V2 × 1
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r) if you want all the above compoents.***
+
+## MakeCode Programming
+
+
+
+
+### Step 1
+
+Click "Advanced" in the MakeCode to see more choices.
+
+
+
+![](./images/case_23_10.png)
+
+
+
+### Reference
+Link: [https://makecode.microbit.org/_edDbuTF37eix](https://makecode.microbit.org/_edDbuTF37eix)
+
+You may also download it directly below:
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_edDbuTF37eix"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+
+### Result
+The numbers of the light-up LEDs change with the sound level surrounding the micro:bit.

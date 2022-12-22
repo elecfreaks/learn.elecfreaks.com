@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: smart_coding_kit
+sidebar_label: Smart Coding Kit
 ---
 
 ## Introduction

@@ -14,9 +14,9 @@
 ## Background
 
 
-### What is Scratch ? 
+### What is Scratch ?
 
- [Scratch](https://en.wikipedia.org/wiki/Scratch) is a graphical programming tool developed by Lifelong Kindergarten Group from MIT, it suits for teenagers. 
+ [Scratch](https://en.wikipedia.org/wiki/Scratch) is a graphical programming tool developed by Lifelong Kindergarten Group from MIT, it suits for teenagers.
 
 ## Software
 
@@ -25,7 +25,7 @@
 
  Scratch software download: https://scratch.mit.edu/download](https://scratch.mit.edu/download)
 
- Both the software and the online version are acceptable, you can choose one. 
+ Both the software and the online version are acceptable, you can choose one.
 
  Scratch Link (Windows)：[https://downloads.scratch.mit.edu/link/windows.zip](https://downloads.scratch.mit.edu/link/windows.zip)
 
@@ -48,7 +48,7 @@
 
 ### Step 2
 
- Open Scratch Link and you will see an icon of it on the status bar. 
+ Open Scratch Link and you will see an icon of it on the status bar.
 
 ![](./images/case_01_03.png)
 
@@ -58,7 +58,7 @@
 
 ![](./images/case_01_07.png)
 
- Choose your micro:bit in the pop-up dialogue box. 
+ Choose your micro:bit in the pop-up dialogue box.
 
 ![](./images/case_01_05.png)
 
@@ -67,7 +67,7 @@
 ## Complete
 
  If connection is completed, the yellow exclamation mark changes to a green check mark.
- Now you can code the micro:bit with Scratch! 
+ Now you can code the micro:bit with Scratch!
 
 ![](./images/case_01_08.png)
 
@@ -76,7 +76,7 @@
 **Fail to connect Scratch**
 
 1. The lowest operation system version is listed at the top of this page.
-2. Only one copy of the scratch can be connected to the micro:bit. If you have open the Scratch in other browsers, please close all of them and re-try. 
+2. Only one copy of the scratch can be connected to the micro:bit. If you have open the Scratch in other browsers, please close all of them and re-try.
 3. If there is another computer connecting to your micro:bit, please cut off the connection with another computer or yours, and re-try.
 4. You might press the "reset" button between the USB connector and power supply connector on the back of the micro:bit while operating it, make sure your hands or feet be away from it!
 
@@ -85,4 +85,3 @@
 Scratch official connection files: [https://scratch.mit.edu/microbit](https://scratch.mit.edu/microbit)
 
 Scratch official website: [https://scratch.mit.edu](https://scratch.mit.edu)
-

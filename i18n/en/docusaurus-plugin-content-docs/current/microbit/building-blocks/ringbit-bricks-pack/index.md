@@ -1,11 +1,21 @@
 ---
 sidebar_position: 3
-sidebar_label: 6合1积木搭建套装
+sidebar_label: Ring:bit Bricks Pack
 ---
 
-# 简介
----
+# Ring:bit Bricks Pack
 
-**发挥创意，建立联系，编程！**
+![](./images/ringbit_bricks_pack_01.jpg)
 
-*袖珍电脑改变世界。*
+## Introduction
+
+
+Based on the Ring:bit V2 from Elecfreaks, the micro:bit Ring:bit Bricks Pack contains 360 degrees servos, the LED strips and almost 200 pieces bricks. Together with the well-designed assembly instructions and courses, it makes the kids learn the coding easily as well as how to build blocks in an interesting way. Let's start building our kits with the tips!
+
+## Directory
+
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
+```

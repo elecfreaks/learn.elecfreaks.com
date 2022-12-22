@@ -1,11 +1,13 @@
 ---
 sidebar_position: 2
-sidebar_label: 悟空32合1搭建套装
+sidebar_label: Wonder Building Kit
 ---
 
-# 简介
----
 
-**发挥创意，建立联系，编程！**
+# Directory
 
-*袖珍电脑改变世界。*
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
+```

@@ -189,7 +189,24 @@ link: [https://makecode.microbit.org/_51MbzXhRTDvq](https://makecode.microbit.or
 
 You may also download it directly:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_51MbzXhRTDvq" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_51MbzXhRTDvq"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
 
 ### Result
 The two potentiometers can respectively remote control the left and right wheels of the cart, through the rainbow light ring on the handle shows the speed difference between the two wheels of the cart, when the speed of the right wheel of the cart is higher, the left side of the rainbow light ring on the handle lights up, then the cart turns left; when the speed of the left wheel of the cart is higher, the right side of the rainbow light ring on the handle lights up, then the cart turns right; when the speed of the wheels on both sides of the cart does not differ much, the three lights in the middle of the rainbow ring light up, and then the car moves forward.

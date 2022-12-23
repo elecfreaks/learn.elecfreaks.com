@@ -1,11 +1,12 @@
 ---
 sidebar_position: 1
-sidebar_label: 哪吒科学套装
+sidebar_label: Magic Wand Kit
 ---
 
-# 简介
----
+# Directory
 
-**发挥创意，建立联系，编程！**
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
 
-*袖珍电脑改变世界。*
+<DocCardList />
+```

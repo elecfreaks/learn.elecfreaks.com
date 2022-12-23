@@ -1,11 +1,12 @@
 ---
 sidebar_position: 3
-sidebar_label: 6合1积木搭建套装
+sidebar_label: Straw Manipulator
 ---
 
-# 简介
----
+# Directory
 
-**发挥创意，建立联系，编程！**
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
 
-*袖珍电脑改变世界。*
+<DocCardList />
+```

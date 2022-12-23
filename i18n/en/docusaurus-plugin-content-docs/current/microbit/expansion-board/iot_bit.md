@@ -112,7 +112,7 @@
 #### Coding Platform ####
 
 
-- makecode：https://makecode.microbit.org
+- makecode：[https://makecode.microbit.org](https://makecode.microbit.org)
 
 
 #### Add codebase ####
@@ -164,7 +164,9 @@
 
 
 - The most important function of IOT:bit is WIKI. The onboard `ESP-12F`WIFI module can connect WIFI and send information. To use port for communication with the micro:bit and the pin `RX-P8`，`TX-P12` is special for IoT.
-- Using thingspeak as cloud to coding and data uploding.[thingspeak平台使用指南]()
+- Using thingspeak as cloud to coding and data uploding.
+
+
 
  ![](./images/CbzmpB1.jpg) ![](./images/fLnI2rl.png)
 

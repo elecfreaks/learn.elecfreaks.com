@@ -1,11 +1,19 @@
 ---
 sidebar_position: 1
-sidebar_label: 小小科学家套件
+sidebar_label: Microbit Starter Kit
 ---
 
-# 简介
----
+# Introduction
 
-**发挥创意，建立联系，编程！**
+[ElecFreaks Micro:bit Starter Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-starter-kit?_pos=2&_sid=fc5b895f2&_ss=r) is designed for people who is at the door step of learning electric circuit and programming knowledge.
+The kit has provided some basic electronic components like LED, button, buzzer, temperature sensor, steering engine and motor etc.
+[Micro:bit Starter Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-starter-kit?_pos=2&_sid=fc5b895f2&_ss=r)  can help you enter a wonderful of electronic world.
 
-*袖珍电脑改变世界。*
+
+## Directory
+
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
+```

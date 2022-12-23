@@ -14,3 +14,12 @@ Use makecode - micro:bit’s graphic programming language, to control these comp
 Programming or designing circuits, the choice is up to you!
 
 ![](./images/yg4f3xe.jpg)
+
+
+## Directory
+
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
+```

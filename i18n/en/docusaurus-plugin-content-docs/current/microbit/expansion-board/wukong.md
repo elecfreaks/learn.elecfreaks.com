@@ -150,7 +150,7 @@ Connect the USB cable to the on-board connection. The normal lighting-on LEDs in
 
 There are 8 blue breathing LEDs whose power on/off status and brightness can be controlled on the baseboard.
 
-Links: https://makecode.microbit.org/_4ub57g5FuJ1v
+Links: [https://makecode.microbit.org/_4ub57g5FuJ1v](https://makecode.microbit.org/_4ub57g5FuJ1v)
 
 You can also download it below:
 
@@ -179,7 +179,7 @@ There are two kinds of motor driving connections named M1 and M2 that can connec
 
 ![](./images/wukong_03.jpg)
 
-Links:https://makecode.microbit.org/_78keCLdmU1Ez
+Links:[https://makecode.microbit.org/_78keCLdmU1Ez](https://makecode.microbit.org/_78keCLdmU1Ez)
 
 You can also download it below:
 
@@ -269,7 +269,7 @@ Set 0° as the maximum speed of positive rotation, 180° as the maximum speed of
 
 ![](./images/wukong_04.jpg)
 
-Links: https://makecode.microbit.org/_6Pw63w49u5qq
+Links: [https://makecode.microbit.org/_6Pw63w49u5qq](https://makecode.microbit.org/_6Pw63w49u5qq)
 
 You can also download it below:
 

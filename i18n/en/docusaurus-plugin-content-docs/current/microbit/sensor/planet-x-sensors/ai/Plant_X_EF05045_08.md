@@ -1,0 +1,75 @@
+# Case 08: Balls Recognition
+
+## Purpose
+
+Recognize the balls with the AI lens.
+
+![](./images/05035_01.png)
+
+## Products Link
+
+[ELECFREAKS Smart AI Lens Kit](https://shop.elecfreaks.com/products/elecfreaks-smart-ai-lens-kit?_pos=1&_sid=d572dc26c&_ss=r)
+
+[ELECFREAKS Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=327dd9f18&_ss=r)
+
+
+### Materials Required and Connection Diagram
+
+
+ Connect the AI Lens to the IIC port on the Nezha expansion board as the picture shows.
+
+![](./images/05035_01_03.png)
+
+
+
+## MakeCode Programming
+
+
+### Step 1
+
+Click "Advanced" in the MakeCode drawer to see more choices.
+
+![](./images/05001_04.png)
+
+We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "PlanetX" in the dialogue box to download it.
+
+![](./images/05001_05.png)
+
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
+
+### Step 2
+
+### Code as below:
+
+![](./images/05035-08-06.png)
+
+
+
+### Link
+Link：[https://makecode.microbit.org/_2bxYTEbFU1H8](https://makecode.microbit.org/_2bxYTEbFU1H8)
+
+You may also download it directly below:
+
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_DdAU5d4kMJDh"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+
+### Result
+ A smile face displays on the micro:bit if the the blue ball is recognized by the AI lens and a sad face displays on the micro:bit if it recognizes a red ball.

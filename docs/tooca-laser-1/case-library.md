@@ -1,6 +1,6 @@
 ---
 sidebar_position: 11
-sidebar_label:  案例库
+sidebar_label: Case-library
 ---
 
 # TOOCA L1 案例库

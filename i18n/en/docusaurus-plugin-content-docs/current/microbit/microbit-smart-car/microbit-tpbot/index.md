@@ -1,11 +1,21 @@
 ---
 sidebar_position: 2
-sidebar_label: 天蓬智能车套件
+sidebar_label: TPBot
 ---
 
-# 简介
+# TPBot Introduction
+
+## Introduction
 ---
 
-**发挥创意，建立联系，编程！**
+- TP Bot is a smart coding car for micro:bit. It can be regarded as a toy for its preset functions that do not need a micro:bit; it can also be used as a teaching aid at the same time, you can code it via the micro:bit or make extensions for the other modules and the Lego bricks to develop children’s imagination and creativity.
 
-*袖珍电脑改变世界。*
+
+
+## Directory
+
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
+```

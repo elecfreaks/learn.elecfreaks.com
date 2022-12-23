@@ -1,11 +1,18 @@
 ---
 sidebar_position: 5
-sidebar_label: 摩比特小车套件
+sidebar_label: Motorbit Smart Car
 ---
 
-# 简介
----
+# Introduction
 
-**发挥创意，建立联系，编程！**
 
-*袖珍电脑改变世界。*
+motor:bit smart car kit is a tailor-made smart car for micro:bit and motor:bit. This kit includes a micro:bit, motor:bit, sonar:bit and 2 line tracking modules. You can use this kit to DIY a micro:bit two-wheel smart car.
+
+
+## Directory
+
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
+```

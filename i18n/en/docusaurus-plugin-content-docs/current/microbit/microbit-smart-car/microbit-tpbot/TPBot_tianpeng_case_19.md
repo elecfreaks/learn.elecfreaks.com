@@ -1,0 +1,82 @@
+# Case 19: Sweeper
+
+## Purpose
+---
+- Build a TPBot sweeper.
+
+## Material
+---
+
+- 1 x [TPBot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tpbot-car-kit-without-micro-bit-board?_pos=1&_sid=f32828112&_ss=r)
+
+![](./images/TPBot_tianpeng_case_01_01.png)
+
+## Hardware Connection
+---
+Connect the 360 degrees servo to servo 1 port on TPBot. (Servos are not included in our TPBot kit)
+
+![](./images/TPBot_tianpeng_case_19_03.png)
+
+## Software
+---
+[MicroSoft makecode](https://makecode.microbit.org/#)
+
+
+## Programming
+---
+
+- Click "Advanced" in the MakeCode drawer to see more choices.
+
+![](./images/TPBot_tianpeng_case_01_02.png)
+
+- We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "tpbot" to download it.
+
+![](./images/TPBot_tianpeng_case_01_03.png)
+
+### Sample
+
+- Drag the show icon brick in the on start and set the car to move forward at the speed of 30%; in forever brick, set the servo connecting to S1 rotate to 180 degrees and pause for 1000ms, and set it rotate to 0 degree and pause for 1000ms.
+
+![](./images/TPBot_tianpeng_case_19_04.png)
+
+
+### Link
+- Link：[https://makecode.microbit.org/_664VpuAVMcCa](https://makecode.microbit.org/_664VpuAVMcCa)
+
+- You may also download it directly below:
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_664VpuAVMcCa"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+### Conclusion
+
+The car move forward with the servo rotating.
+
+
+## Exploration
+---
+
+
+## FAQ
+---
+Q: The car cannot move with the code in this case?
+A: It might be a lack power of the battery, please add the value of the parameter for the speed of the car and test it.
+
+##  Revelant File
+---

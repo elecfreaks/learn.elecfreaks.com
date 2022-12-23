@@ -69,7 +69,7 @@ You may also download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_DdAU5d4kMJDh"
+        src="https://makecode.microbit.org/_19ePfj3idL1h"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -100,7 +100,7 @@ You may also download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_DdAU5d4kMJDh"
+        src="https://makecode.microbit.org/_fXU8hWYc9Lhu"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

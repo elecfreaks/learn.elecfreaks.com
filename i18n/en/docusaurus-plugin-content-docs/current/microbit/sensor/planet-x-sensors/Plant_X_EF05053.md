@@ -102,7 +102,7 @@ You may also download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_DdAU5d4kMJDh"
+        src="https://makecode.microbit.org/_URyg36djehfc"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -132,7 +132,24 @@ Link: [https://makecode.microbit.org/_8zu3d4VW5c7t](https://makecode.microbit.or
 
 You may also download it directly below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_8zu3d4VW5c7t" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_8zu3d4VW5c7t"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
 
 
 ### Result

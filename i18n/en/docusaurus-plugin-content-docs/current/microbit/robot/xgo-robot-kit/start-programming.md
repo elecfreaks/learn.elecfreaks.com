@@ -138,11 +138,27 @@ Link：[XGO](https://makecode.microbit.org/_Rs2MPv5uebYd)
 
 At the same time, you can directly download the program below;
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Rs2MPv5uebYd" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div> 
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_Rs2MPv5uebYd"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
 
 ##  FAQ
 
 *Note: If you want to run the numbered code program, you need to turn on the switch of Ring:bit, and also pay attention to whether the power of XGO is sufficient*
 
 ## Related Documentation
-

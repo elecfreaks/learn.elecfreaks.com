@@ -25,6 +25,3 @@ sidebar_label: 圣诞相框
 注意：本案例以2.8mm的椴木板为例，如果需要使用不同厚度或者使用不同的材料，请自行修改图纸并参考TF卡中的[Recommended parameter](http://www.elecfreaks.com/learn/tooca-laser-1/recommended-parameters)修改软件的参数。
 
 ## 图纸下载链接
-
-
-[10W]()

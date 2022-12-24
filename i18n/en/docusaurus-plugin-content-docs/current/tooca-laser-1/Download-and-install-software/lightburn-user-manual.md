@@ -77,16 +77,6 @@ Click “File-Save GCode” to save the engraving ﬁle to the TF card.
 
 ![](./images/lightburn-12.png)
 
-Attention: Make sure the exported format of the file be .gcode, other formats such as .gc/.nc cannot be identified.
-
-Place the TF Card to the card slot on Tooca Laser 1.
-
-![](./images/tooca-laser-1-06.png)
-
-Power on the device and turn on the switch, wait for the initialization of the machine to complete, press the micro switch to enter the preview mode.
-Press the micro switch again to start engraving.
-
-![](./images/tooca-laser-1-07.png)
 
 
 Besides these references, you can also connect the machine with Type-C to do real-time engrave, for more details please can visit:

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: 悟空2040扩展板
+sidebar_label: 悟空2040
 ---
 
 

@@ -4,7 +4,7 @@ sidebar_label: 圣诞相框
 ---
 # 圣诞相框
 
-![](./tooca-laser-1-case-11-01.png)
+![](./images/tooca-laser-1-case-11-01.png)
 
 ## 展示视频
 

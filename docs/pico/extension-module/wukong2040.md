@@ -1,3 +1,11 @@
+---
+sidebar_position: 1
+sidebar_label: 悟空2040扩展板
+---
+
+
+
+
 # 悟空2040
 
 ## 介绍

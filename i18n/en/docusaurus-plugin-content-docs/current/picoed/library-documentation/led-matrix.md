@@ -1,33 +1,38 @@
-Picoe:ed包含一个17x7的LED点阵屏。
-## 属性
+
+# LED dot-matrix screen
+
+Picoe:ed contains a 17x7 LED dot matrix screen.
+
+## Attributes
+
 ### `display`
-类[Display](#okDdW)的实例，表示Pico:ed板载的LED点阵屏。
-## 类
+The instance of class [Display](#okDdW) represents the LED dot screen on board Pico:ed.
+## Classes
 ### `class Display`
-用来表示一个由IS31FL3731驱动的点阵屏，在Pico:ed内部使用，用来生成display实例。
+It is to represent a dot matrix screen driven by IS31FL3731 which is used internally in Pico:ed to generate display instances.
 > `**clear()**`
 
-清除屏幕
+Clear the screen
 
 > `**pixel(self, x, y, color=None, blink=None, frame=None)**`
 
-设置x、y 像素闪烁或亮度
+Set x, y pixel blink or brightness
 
-- **x - **水平像素位置
-- **y - **垂直像素位置
-- **color - **像素亮度(0~255)
-- **blink - **设置为True，则闪烁该像素
-- **frame - **设置像素的帧数
+- **x - **horizontal pixel position
+- **y - **vertical pixel position
+- **color - **pixel brightness (0~255)
+- **blink - **Set to "True", then blink the pixel
+- **frame - **sets the number of frames of the pixel
 
 > `**scroll(value, brightness=30)**`
 
-滚动显示字符串或数字
+Scroll to show strings or numbers
 
-- **value - **要显示的字符串或数字
-- **brghtness - **显示屏的亮度(0~255)，默认值30
+- **value - **the string or number to display
+- **brghtness - ** brightness of the display (0~255), default value 30
 ### `class Image`
-用来描述一帧点阵图像，并包含一系列内置图像。
-> - **value - **图像文本描述，用0～9指定对应位置LED的亮度。格式如下：
+It is to describe a frame of dot matrix images, and contains a series of built-in images.
+> - **value - **Image text description, it uses 0 to 9 to specify the brightness of the LED at the corresponding position. The format is as follows:
 > 
 '12345678908765432:'
 >         '12345678908765432:'
@@ -38,7 +43,7 @@ Picoe:ed包含一个17x7的LED点阵屏。
 >         '12345678908765432:'
 
 
-内置图像列表如下：
+The list of built-in images is as follows:
 
 - NO
 - SQUARE
@@ -66,41 +71,44 @@ Picoe:ed包含一个17x7的LED点阵屏。
 - SNEER_RIGHT
 - SUPERCILIOUS_LOOK
 - EXCITED
-## 示例
-1.显示字符串和数字
+## Example
+1. Display strings and numbers
+
 ```python
 import time
 from picoed import display
 
-# 静态显示3个字母
+# Display statically of 3 letters
 display.scroll("ABC")
 time.sleep(1)
 
-# 滚动显示数字
+# Scroll to display the numbers
 display.scroll(1234567890)
 
-# 滚动显示字符串
+# Scroll to display the strings
 display.scroll("Hello, world!")
 
 ```
 
-2.显示方框
+2. Display boxes
+
 ```python
 from picoed import display
 
-# 在屏幕上画一个方框
-# 首先绘制顶部和底部边缘
+# Draw a box on the screen
+# Firstly, draw the top and bottom edges
 for x in range(display.width):
     display.pixel(x, 0, 50)
     display.pixel(x, display.height - 1, 50)
-# 现在绘制左右边缘
+# Now draw the left and right edges
 for y in range(display.height):
     display.pixel(0, y, 50)
     display.pixel(display.width - 1, y, 50)
 
 ```
 
-3.显示内置图像
+3. Display the built-in image
+
 ```python
 from picoed import display, Image
 
@@ -108,7 +116,8 @@ display.show(Image.HAPPY)
 
 ```
 
-4.显示自定义图像
+4. Display self-defined images
+
 ```python
 from picoed import display, Image
 

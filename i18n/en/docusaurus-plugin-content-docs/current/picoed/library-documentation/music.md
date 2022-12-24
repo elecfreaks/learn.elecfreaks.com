@@ -1,69 +1,71 @@
-# 音乐
-## 属性
-### `music`
-类[Music](#NNZvx)的实例，用来控制Pico:ed板载蜂鸣器播放旋律。
-## 类
-### `class Music(pin, ticks=4, bpm=120)`
-可以使用 Music 类通过Pico:ed板载的蜂鸣器播放旋律。
+# Music
 
-- **pin -** 蜂鸣器引脚
-- **ticks -** 许多刻度构成一个节拍。默认值为 4。
-- **bpm -** 每分钟节拍次数。默认值为 120。
+## Attributes
+### `music`
+The instance of class [Music](#NNZvx) is used to control the on-board buzzer to play melodies.
+## Classes
+### `class Music(pin, ticks=4, bpm=120)`
+The Music class can be used to play melodies through the Pico:ed on-board buzzer.
+
+- **pin -** buzzer pin
+- **ticks -** Many ticks to form a beat. The default value is 4.
+- **bpm -** The number of beats per minute. The default value is 120.
 
 > `**set_tempo(ticks=4, bpm=120)**`
 
-设置播放的近似速度。
+Sets the approximate speed of play.
 
-- **ticks -** 许多刻度构成一个节拍。默认值为 4。
-- **bpm -** 每分钟节拍次数。默认值为 120。
+- **ticks -** Many ticks form a beat. The default value is 4.
+- **bpm -**The number of beats per minute. The default value is 120.
 
 > `**get_tempo()**`
 
-获取当前速度作为整数元组：（ticks，bpm）。
+Get the current tempo as an integer tuple:（ticks，bpm）。
 
 > `**play(music)**`
 
-播放旋律。
+Play the melody.
 
-- **music -** 乐谱DSL。
+- **music -** Music DSL.
 
 > `**play_async(music)**`
 
-异步播放旋律。
+Play melody asynchronously.
 
-- **music -** 乐谱DSL。
+- **music -** Sheet music DSL.
 
 > `**pitch(frequency, duration=-1)**`
 
-以给定的整数频率播放指定毫秒数的音高。
+Play the pitch for the given number of milliseconds at the given integer frequency.
 
-- **frequency -** 指定的频率。
-- **duration -** 延时毫秒数。
+- **frequency -** The specified frequency.
+- **duration -** The number of delay milliseconds.
 
 > `**pitch_async(frequency, duration=-1)**`
 
-以给定的整数频率异步播放指定毫秒数的音高。
+Play the specified number of milliseconds of pitch asynchronously at the given integer frequency.
 
-- **frequency -** 指定的频率。
-- **duration -** 延时毫秒数。
+- **frequency -** The specified frequency.
+- **duration -** The number of milliseconds of delay.
 
 > `**stop()**`
 
-停止音乐播放。事实上，只适用于`**play_async(music)**`**。**
+Stop playing the music. In fact, it only works for`**play_async(music)**`**。**
 
 > `**reset()**`
 
-重置为默认状态。
-## 乐谱DSL
-单个音符如下：
+Resets to default status.
+## Sheet Music DSL
+The individual notes are as follows :
 ```python
 NOTE[octave][:duration]
 ```
-例如，`A1:4` refers to the note “A” in octave 1 that lasts for four ticks (a tick is an arbitrary length of time defined by a tempo setting function - see below). If the note name `R` is used then it is treated as a rest (silence).
+For example, `A1:4` refers to the note “A” in octave 1 that lasts for four ticks (a tick is an arbitrary length of time defined by a tempo setting function - see below). If the note name `R` is used then it is treated as a rest (silence).
 Accidentals (flats and sharps) are denoted by the `b` (flat - a lower case b) and `#` (sharp - a hash symbol). For example, `Ab` is A-flat and `C#` is C-sharp.
-**注意名称不区分大小写。**
+**Note that names are not case-sensitive.**
 The `octave` and `duration` parameters are states that carry over to subsequent notes until re-specified. The default states are `octave = 4` (containing middle C) and `duration = 4` (a crotchet, given the default tempo settings - see below).
 For example, if 4 ticks is a crotchet, the following list is crotchet, quaver, quaver, crotchet based arpeggio:
+
 ```python
 ['c1:4', 'e:2', 'g', 'c2:4']
 ```
@@ -95,15 +97,17 @@ The library has quite a lot of built-in melodies. Here’s a complete list:
 - JUMP_DOWN
 - POWER_UP
 - POWER_DOWN
-## 示例
-1.播放内置音乐
+## Example
+1. Play built-in music
+
 ```python
 from picoed import music
 
 music.play(music.DADADADUM)
 ```
 
-2.同步播放
+2. Simultaneous play
+
 ```python
 from picoed import music
 
@@ -125,7 +129,8 @@ notes = [
 music.play(notes)
 ```
 
-3.异步播放
+3. Asynchronous play
+
 ```python
 import asyncio
 from picoed import music, led

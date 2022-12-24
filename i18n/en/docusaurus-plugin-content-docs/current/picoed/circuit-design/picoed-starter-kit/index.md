@@ -1,11 +1,22 @@
 ---
 sidebar_position: 1
-sidebar_label: 小小科学家套件
+sidebar_label: Picoed Starter Kit
 ---
 
-# 简介
----
+# Picoed Starter Kit
 
-**发挥创意，建立联系，编程！**
+## Introduction
 
-*袖珍电脑改变世界。*
+![](./images/starter-kit.png)
+
+The Pico:ed Little Scientist Kit is a Pico:ed starter kit developed by the ELECFREAKS team for teens to learn circuits and programming.
+The kit provides numerous electronic components such as LEDs, buttons, buzzers, temperature sensors, servos, motors and colorful light rings. It also comes with numerous reference cases and detailed documentation to help you get started quickly. The Pico:ed Little Scientist Kit accompanies you into the wonderful world of electronics.
+
+
+## Directory
+
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
+```

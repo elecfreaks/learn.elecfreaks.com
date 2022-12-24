@@ -1,10 +1,10 @@
 ---
 sidebar_position: 5
-sidebar_label: 库说明文档
+sidebar_label: Library Documentation
 ---
 
 
-# 目录
+# Documentation
 
 
 

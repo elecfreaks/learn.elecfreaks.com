@@ -8,7 +8,7 @@ The 8 RGB Rainbow LED Ring is based on ws2812b lamp beads. Its biggest feature i
 
 ## Products Link
 
-[ELECFREAKS Pico:ed Starter Kit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-starter-kit-with-pico-ed-board?_pos=3&_sid=e7433427a&_ss=r) 
+[ELECFREAKS Pico:ed Starter Kit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-starter-kit-with-pico-ed-board?_pos=3&_sid=e7433427a&_ss=r)
 
 
 ## Component List

@@ -1,30 +1,32 @@
-# 按键
-Pico:ed包含A、B两个按键。
-## 属性
-### `button_a`
-类[Button](#w8UmM)的实例，代表左侧的按键。
-### `button_b`
-类[Button](#w8UmM)的实例，代表右侧的按键。
-## 类
-### `class Button(pin)`
-用来表示一个按键。
+# Buttons
 
-- **unit -** 按键引脚
+Pico:ed contains two keys: A and B.
+## Attributes
+### `button_a`
+An instance of a class [Button](#w8UmM) representing the button on the left.
+### `button_b`
+An instance of a class [Button](#w8UmM) representing the button on the right.
+## Classes
+### `class Button(pin)`
+It is for representing a button.
+
+- **unit -** Button pins
 
 > `**is_pressed()**`
 
-如果按钮被按住，则返回 True，否则返回 False。
+Returns "True" if the button is pressed, otherwise it returns "False".
 
 > `**was_pressed()**`
 
-如果按钮被按下，且在下一次按下之前只返回一次 True。
-## 示例
-1.按键状态改变LED状态
+Returns "True" if the button is pressed and only once before the next press.
+## Example
+1.Controls the LED
+
 ```python
-# 导入程序所需要的模块
+# Import the modules that we need for the program
 from picoed import *
 
-# 循环检测是否按下A键以及对LED的状态改变
+#  While true, detect if buton A is pressed and also the status of the LED
 while True:
     if button_a.is_pressed():
         led.on()
@@ -33,7 +35,8 @@ while True:
 
 ```
 
-2.按键次数计数
+2. Count the times of pressing the buttons
+
 ```python
 from picoed import *
 
@@ -41,11 +44,11 @@ times = 0
 display.show(times)
 
 while True:
-    # 按一次A键，计数减1
+    # Press button A once, count minus 1
     if button_a.was_pressed():
         times -= 1
         display.show(times)
-    # 按一次B键，计数加1
+    # Press button_B once, add 1 to the count
     if button_b.was_pressed():
         times += 1
         display.show(times)

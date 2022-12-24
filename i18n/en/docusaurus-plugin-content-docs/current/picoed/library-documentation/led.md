@@ -1,31 +1,32 @@
-# 板载LED
-Pico:ed包含一颗板载LED灯。该LED灯是固件状态指示灯，当复位时会快速闪烁数次，当程序空闲时会每隔5秒亮一次，同时这颗LED灯可以编程控制。
-## 属性
+# Onboard LED
+Pico:ed includes an onboard LED. This LED is a firmware status indicator that flashes rapidly several times when reset and every 5 seconds when the program is idle, and this LED is programmable.
+## Attributes
 ### `led`
-类[Led](#d1QQW)的实例，表示板载LED灯。
-## 类
+The instance of class [Led](#d1QQW)  represents the onboard LEDs.
+## Classes
 ### `class Led(pin)`
-用来表示一颗LED灯。
+It is to represent an LED.
 
-- **pin -**  Led引脚
+- **pin -**  Led pins
 
 > `**on**`
 
-打开LED。
+Turns on the LED.
 
 > `**off()**`
 
-关闭LED。
+Turn off the LED.
 
 > `**toggle()**`
 
-切换LED状态。
+Toggle the LED state.
 
 > `**deinit()**`
 
-Deinit LED，释放引脚。
-## 示例
-1.blink1
+Deinit the LED and release the pin.
+## Example
+1. Blink1
+
 ```python
 import time
 from picoed import *
@@ -37,7 +38,8 @@ while True:
     time.sleep(0.5)
 ```
 
-2.blink2
+2. Blink2
+
 ```python
 import time
 from picoed import *

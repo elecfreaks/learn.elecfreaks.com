@@ -1,11 +1,12 @@
 ---
 sidebar_position: 1
-sidebar_label: 八爪鱼系列传感器
+sidebar_label: Octopus Sensors
 ---
 
-# 简介
----
+# Octopus Sensors
 
-**发挥创意，建立联系，编程！**
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
 
-*袖珍电脑改变世界。*
+<DocCardList />
+```

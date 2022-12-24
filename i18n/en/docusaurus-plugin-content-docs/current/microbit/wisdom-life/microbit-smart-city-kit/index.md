@@ -1,11 +1,9 @@
 ---
 sidebar_position: 4
-sidebar_label: 智慧城市套装
+sidebar_label: Smart City Kit
 ---
 
-# 简介
+# Introduction
 ---
 
-**发挥创意，建立联系，编程！**
-
-*袖珍电脑改变世界。*
+The Smart City Kit has a well-selection of IoT:bit, DHT11 sensor, soil moisture sensor, water level sensor, sonar:bit, servos and etc., we could use it to build such themes as the smart parking lot, transportation network and river level monitoring…, we can use it to learn more about the IoT and program, and more possibilities of the future city scenes are able to be constructed via it!

@@ -1,12 +1,9 @@
 ---
-sidebar_position: 2
-sidebar_label: 悟空2040
+sidebar_position: 1
+sidebar_label: 悟空2040-Pico
 ---
 
-
-
-
-# 悟空2040
+# 悟空2040-Pico
 
 ## 介绍
 

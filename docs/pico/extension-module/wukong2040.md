@@ -491,4 +491,4 @@ display.fill(bgColor)
 
 ## Wukong2040购买链接
 
-您可以从此链接购买：[Wukong2040]()。
+您可以从此链接购买：[Wukong2040](https://shop.elecfreaks.com/products/elecfreaks-wukong2040-expansion-board-adapter-for-raspberry-pi-pico?_pos=1&_sid=148d50ba0&_ss=r)。

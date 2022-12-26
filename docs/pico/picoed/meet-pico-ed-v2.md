@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: Pico:ed V2
 ---
 
-# Pico:ed V2
+# 认识 Pico:ed V2
 ## 前言
 [Pico:ed V2](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.9.50e666558ZthdZ&id=680221594556) 是恩孚科技基于树莓派 Pico 而开发的一款教育开发板。[Pico:ed V2](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.9.50e666558ZthdZ&id=680221594556) 采用了广受好评的 RP2040 微控制器，在一代的基础上我们特别加入了一个复位按钮，更方便使用者的操作使用。[Pico:ed V2](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.9.50e666558ZthdZ&id=680221594556) 采用更加圆润的外形：头部改变为弧形，引脚边缘采用波浪形设计，这样让使用者在使用时不易伤手。
 [Pico:ed V2 ](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.9.50e666558ZthdZ&id=680221594556)保留两个可编程按钮和固件烧录按钮，单独的供电接口和 USB 连接接口，板载 7× 17 LED点阵屏，可以显示更多的图案和文字。[Pico:ed V2](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.9.50e666558ZthdZ&id=680221594556) 采用的是 CircuitPython/C++ 编程方式，可以单独对它进行编程学习，同时也可以和我们公司其他教育产品结合使用，比如：Ring:bit Car V2、 Cutebot Car V2、Starter Kit 等产品，在学习编程的同时，启动你的发明创造思维。
@@ -11,7 +11,7 @@ sidebar_label: Pico:ed V2
 ![](./images/picoed-wiki.png)
 
 
-## 认识 Pico:ed V2 功能
+## Pico:ed V2 功能
 
 ### 正面功能介绍：
 

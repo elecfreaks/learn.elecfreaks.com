@@ -1,12 +1,16 @@
-# Safety Instructions
+---
+sidebar_position: 2
+sidebar_label: 安全说明
+---
 
-Please read and familiarize yourself with the following precautions before operating the Pico:ed Ring:bit car. The user should strictly observe all precautions and ensure that the Pico:ed ring:bit car is properly assembled and in proper working condition.
-Please follow the operating principles:
 
-1. Do not block the movement of the trolley when the Pico:ed ring:bit car is in operation, and do not overload it. The Pico:ed ring:bit car is driven by a motor, and a blocked motor or excessive load will cause a lot of heat, which can lead to damage.
-2. Do not disassemble or in any other way alter the structure of the Pico:ed ring:bit car by yourself.
-3. Before each operating, be sure to check that the fixing screws on the Pico:ed Ring:bit car are not loose or fallen off.
-4. Do not drive the Pico:ed ring:bit car in water or spill water on the body of it.
-5. Do not place the Pico:ed ringLbit car in a location where it can easily fall.
-6. After each operation of the Pico:ed ring:bit car, please unplug the battery and place it properly.
-7. Do not use sharp objects to scratch or scrape any part of the bottom plate of the car.
+# 安全说明
+在操作 Pico:ed 瑞比特小车之前，请阅读并熟悉以下使用注意事项。使用者应严格遵守所有使用注意事项并确保 Pico:ed 瑞比特小车已正确组装且处于正常工作状态。
+请遵循以下操作原则：
+1. 在 Pico:ed 瑞比特小车处于运行状态时，请勿阻挡小车的移动，请勿让小车负载过多。 Pico:ed 瑞比特小车移动是由电机驱动，电机堵转或者负载过多会造成发热量大，进行导致损坏。
+2. 请勿自行拆卸或以其他任何方式改变 Pico:ed 瑞比特小车的结构。
+3. 每次使用前，请务必检查 Pico:ed 瑞比特小车的固定螺丝是否松动或者掉落。
+4. 请勿让 Pico:ed 瑞比特小车在水中行驶或将水洒落到 Pico:ed 瑞比特小车机身上。
+5. 请勿将 Pico:ed 瑞比特小车放置在易掉落的位置。
+6. 每次使用完 Pico:ed 瑞比特小车，请将电池拔出并妥善放置。
+7. 请勿使用尖锐物体划、刮瑞比特小车底板任何部位。

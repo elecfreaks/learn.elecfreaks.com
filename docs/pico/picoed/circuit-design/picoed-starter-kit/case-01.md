@@ -1,9 +1,9 @@
 ---
-sidebar_position: 3
-sidebar_label: LED
+sidebar_position: 4
+sidebar_label: LED灯
 ---
 
-# LED
+# LED灯
 
 ![](./images/pico-ed-starter-kit-case-01-01.png)
 

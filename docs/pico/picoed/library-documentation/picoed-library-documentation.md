@@ -1,4 +1,7 @@
-
+---
+sidebar_position: 1
+sidebar_label: CircuitPython常用库
+---
 # Pico:ed 库文档
 
 ## 按钮

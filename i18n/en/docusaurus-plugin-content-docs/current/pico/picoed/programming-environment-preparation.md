@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+sidebar_label: Prepare the programming environment
+---
 
 
 # Programming Environment Preparation for Pico:ed

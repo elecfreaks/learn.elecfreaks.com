@@ -1,3 +1,8 @@
+---
+sidebar_position: 2
+sidebar_label: CircuitPython Regular Libraries
+---
+
 # CircuitPython Regular Libraries
 
 This file collects regular CircuitPython libraries.  Clicking these `Names` goes to the code libraries and clicking these `Links` downloads  the latest version.

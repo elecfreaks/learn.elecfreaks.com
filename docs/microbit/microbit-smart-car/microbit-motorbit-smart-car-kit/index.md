@@ -10,7 +10,7 @@ motor:bit亚克力智能小车是为micro:bit两路电机驱动板量身打造�
 
 
 
-## Directory
+## 目录
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

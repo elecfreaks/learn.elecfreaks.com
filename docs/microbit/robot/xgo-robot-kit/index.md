@@ -3,6 +3,8 @@ sidebar_position: 1
 sidebar_label: XGO机械狗
 ---
 
+# XGO机械狗
+
 ## 前言
 
 本文档提供了恩孚科技推出的 XGO 产品的相关说明和学习内容，帮助您更容易的使用 XGO 产品。

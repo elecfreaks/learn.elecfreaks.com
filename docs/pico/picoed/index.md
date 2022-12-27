@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: Pico:ed 相关产品
 ---
 
-# 简介
+# Pico:ed 相关产品
 
 
 ```mdx-code-block

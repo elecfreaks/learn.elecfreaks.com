@@ -1,3 +1,9 @@
+---
+sidebar_position: 1
+sidebar_label: wukong2040-Pico
+---
+
+
 # Wukong2040
 
 ## Introduction

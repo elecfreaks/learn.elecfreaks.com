@@ -5,7 +5,7 @@ sidebar_label: 库说明文档
 
 
 # 目录
-
+这部分内容包含Pico:ed开发板相关的库文档以及circuitpython常用库文档。
 
 
 

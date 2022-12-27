@@ -1,6 +1,6 @@
 ---
-sidebar_position: 2
-sidebar_label: wukong2040
+sidebar_position: 1
+sidebar_label: Pico:ed wiki
 ---
 
 # 简介

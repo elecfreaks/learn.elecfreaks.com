@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: wukong2040-PicoW
+sidebar_label: Wukong2040-PicoW
 ---
 
 
@@ -12,9 +12,9 @@ sidebar_label: wukong2040-PicoW
 
 **WuKong2040** is a multifunctional expansion board designed for Raspberry Pi Pico.
 
-In terms of functionality, it has an on-board buzzer, A\B button, rainbow light, motor interface, reset button, etc. to meet the creators' IO programming and expansion of peripherals required. 
+In terms of functionality, it has an on-board buzzer, A\B button, rainbow light, motor interface, reset button, etc. to meet the creators' IO programming and expansion of peripherals required.
 
-In terms of battery life, it supports a high-capacity 18650 battery with an on-board intelligent power management chip and thoughtful power indication, which can last for more than 120 minutes of normal use.  
+In terms of battery life, it supports a high-capacity 18650 battery with an on-board intelligent power management chip and thoughtful power indication, which can last for more than 120 minutes of normal use.
 
 In terms of structure, it uses a standard 7 × 11 square block frame as the base, which can be expanded for Wukong 2040 in a variety of vivid shapes.
 
@@ -27,7 +27,7 @@ What's more thoughtful is that ELECFREAKS provides beginners with a wealth of le
 * On-board components such as buzzer, A\B button, rainbow light, reset button, etc. are highly integrated and powerful.
 * Support high-capacity 18650 battery, onboard intelligent power management chip with power indication, allowing learners to get rid of power worries and enjoy creating fun anytime, anywhere.
 * Up to 14 general-purpose IO pins are extended, and a separate I2C interface is introduced, making it very convenient for learners to connect various peripherals.
-* Standard building block frame base for easy structure building. 
+* Standard building block frame base for easy structure building.
 * Support multiple programming methods: MicroPython, CircuitPython, C, C++.
 * Rich learning examples.
 
@@ -322,7 +322,7 @@ Code reference:
 ```python
 import board
 import digitalio
-import time 
+import time
 
 motor = digitalio.DigitalInOut(board.GP10)
 motor.direction = digitalio.Direction.OUTPUT

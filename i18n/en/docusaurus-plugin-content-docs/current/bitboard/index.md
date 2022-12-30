@@ -1,11 +1,21 @@
 ---
 sidebar_position: 5
-sidebar_label: BITBOARD
+sidebar_label: BITBOARD Kit
 ---
 
-# 简介
+# Bitboard Kit
+
+## Introduction
 ---
 
-**发挥创意，建立联系，编程！**
+Change everything into a "keyboard"! The Bitboard helps to learn the electric circuits, create music and games, and it makes everything to be your creating tools!
 
-*袖珍电脑改变世界。*
+## Products link
+---
+
+[ Bitboard Kit](https://shop.elecfreaks.com/products/elecfreaks-bitboard-kit?_pos=1&_sid=6f2c1bffb&_ss=r)
+
+## Picture
+---
+
+![](./images/Bitboard_Kit_01.png)

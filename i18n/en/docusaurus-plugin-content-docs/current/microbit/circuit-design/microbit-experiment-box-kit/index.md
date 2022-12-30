@@ -9,7 +9,7 @@ The Elecfreaks Experimental Box is a brand new teaching aid developed by ELECFRE
 
 For this Experimental Box, you’ll use banana plug wires to connect different components. These wires are easy to insert and pull out yet still create stable connections. Meanwhile, using banana plugs lays a foundation for further circuit design.
 
-Use makecode - micro:bit’s graphic programming language, to control these components or learn the basics of circuit design without the micro:bit.
+Use makecode micro:bit’s graphic programming language, to control these components or learn the basics of circuit design without the micro:bit.
 
 Programming or designing circuits, the choice is up to you!
 

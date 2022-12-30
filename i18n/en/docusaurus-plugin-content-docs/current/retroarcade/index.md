@@ -3,9 +3,15 @@ sidebar_position: 6
 sidebar_label: RETROARCADE
 ---
 
-# 简介
+# RETROARCADE
 ---
 
-**发挥创意，建立联系，编程！**
+ELECFREAKS Retro Makecode Arcade For Education is the first arcade device on a big screen with a high resolution. Kids are able to use them to create their games in a fun and easy way through the blocks program, and the Retro allows for a self-defined game role, multiple game sceneries, and plot design. It surprises you more with the bountiful built-in sensors and gives kids more chances for creation.
 
-*袖珍电脑改变世界。*
+##  Directory
+
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
+```

@@ -16,6 +16,7 @@ Maintain a simple style with 3-pin ports canceled.
 
 Upgrade the function by adding a switch for the buzzer.
 
+## Directory
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

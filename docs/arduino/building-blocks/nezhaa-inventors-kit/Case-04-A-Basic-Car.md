@@ -1,21 +1,13 @@
-# Case 04: A Basic Car
-
-## Purpose
----
-Make a basic car with [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r).
-
+# 基础小车
+## 目的
+使用[哪吒A36合1Arduino套装](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)制作基础小车。
 ![](./images/neza-a-case-04-01.png)
+## 购买链接
+[哪吒A36合1Arduino套装](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)
 
-## Purchse
----
- [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r)
-
-## Materials Required
----
+## 所需材料
 ![](./images/neza-a-case-04-02.png)
-
-## Assembly Steps
----
+## 搭建步骤
 ![](./images/neza-a-step-04-01.png)
 ![](./images/neza-a-step-04-02.png)
 ![](./images/neza-a-step-04-03.png)
@@ -50,32 +42,28 @@ Make a basic car with [NezhaA Inventor's Kit](https://shop.elecfreaks.com/produc
 ![](./images/neza-a-step-04-32.png)
 ![](./images/neza-a-step-04-33.png)
 
-## Hardware Connections
----
-Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2 port on [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html). ![](./images/neza-a-case-04-03.png)
-
-## Programming
----
-### Prepare the programming
-
-Steps for preparation please refer to: [Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
-
-### Sample Projects:
+## 硬件连接图
+将两个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)分别连接到[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的M1、M2端口。
+![](./images/neza-a-case-04-03.png)
+## 编写程序
+### 准备编程环境
+编程环境准备步骤：请参考：[Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
+### 示例程序：
 ```
 // Language ArduinoC
 #include <NezhaA.h>
 
-NezhaA nezhaA;    //Create an instance of NezhaA category
+NezhaA nezhaA;    //创建一个NezhaA类的实例
 
 void setup() {
-  nezhaA.begin();    //Initiliaze the buzzer, motor, servo and light
-  nezhaA.setMotorSpeed(M1, 100);   //Set the speed of the motor connecting to M1 at 100%
-  nezhaA.setMotorSpeed(M2, 30);   //Set the speed of the motor connecting to M2 at 30%
+  nezhaA.begin();    //初始化蜂鸣器、电机、舵机、灯光
+  nezhaA.setMotorSpeed(M1, 100);   //设置M1端口的电机速度为100%
+  nezhaA.setMotorSpeed(M2, 30);   //设置M2端口的电机速度为30%
 }
 
 void loop() {
 }
 ```
-### Result
-After powering on, the basic car drives with a curve routine. 
+### 结果
+开启电源后，基础小车沿着圆形轨迹行驶。
 

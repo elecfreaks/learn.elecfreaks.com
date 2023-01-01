@@ -1,19 +1,13 @@
-# Case 06: An Obstacle-avoidance Car
+# 避障小车
+## 目的
+使用[哪吒A36合1Arduino套装](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)制作避障小车。
+![](./images/neza-a-case-06-01.png)
+## 购买链接
+[哪吒A36合1Arduino套装](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)
 
-## Purpose
----
-Make an obstacle-avoidance car with [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r).![](./images/neza-a-case-06-01.png)
-
-## Purchse
----
- [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r)
-
-## Materials Required
----
+## 所需材料
 ![](./images/neza-a-case-06-02.png)
-
-## Assembly Steps
----
+## 搭建步骤
 ![](./images/neza-a-step-06-01.png)
 ![](./images/neza-a-step-06-02.png)
 ![](./images/neza-a-step-06-03.png)
@@ -55,43 +49,36 @@ Make an obstacle-avoidance car with [NezhaA Inventor's Kit](https://shop.elecfre
 ![](./images/neza-a-step-06-39.png)
 ![](./images/neza-a-step-06-40.png)
 
-## Hardware Connections
----
-Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1, M2 port and the [ultrasonic sound sensor](https://www.elecfreaks.com/planetx-ultrasonic.html) to J1 port on [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html). 
-
+## 硬件连接图
+将两个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)分别连接到[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的M1、M2端口，将[超声波传感器](https://www.elecfreaks.com/planetx-ultrasonic.html)安装在[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的J1端口。
 ![](./images/neza-a-case-06-03.png)
+## 编写程序
+### 准备编程环境
+编程环境准备步骤：请参考：[Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
+下载并导入[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的库文件和依赖库文件后，还需要导入[超声波传感器](https://www.elecfreaks.com/planetx-ultrasonic.html)的库文件：[PlanetXUltrasonic-main.zip](https://github.com/elecfreaks/PlanetXUltrasonic/archive/refs/heads/main.zip)
+下载并导入[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的接口定义文件：[RJPins-main.zip](https://github.com/elecfreaks/RJPins/archive/refs/heads/main.zip)
 
-## Programming
----
-### Prepare the programming
-
-Steps for preparation please refer to: [Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
-
-Import the libraries and the subsidiary libraries of [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html) and then import the libraries of the [ultrasonic sound sensor](https://www.elecfreaks.com/planetx-ultrasonic.html): [PlanetXUltrasonic-main.zip](https://github.com/elecfreaks/PlanetXUltrasonic/archive/refs/heads/main.zip)
-Download and import the self-defined library connections for [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html): [RJPins-main.zip](https://github.com/elecfreaks/RJPins/archive/refs/heads/main.zip)
-
-### Sample Projects:
-
+### 示例程序：
 ```
 // Language ArduinoC
 #include <PlanetXUltrasonic.h>
 #include <NezhaA.h>
 #include <RJPins.h>
 
-PlanetXUltrasonic ultrasonicJ1(J1);    //Create an instance of PlanetXUltrasonic category
-NezhaA nezhaa;    //Create an instance of NezhaA category
-int distance;    //Create a variable of int distance
+PlanetXUltrasonic ultrasonicJ1(J1);    //创建一个PlanetXUltrasonic类的实例
+NezhaA nezhaa;    //创建一个NezhaA类的实例
+int distance;    //声明一个整形变量distance
 
 void setup() {
-  nezhaa.begin();    //Initiliaze the buzzer, motor, servo and light
+  nezhaa.begin();    //初始化蜂鸣器、电机、舵机、灯光
 }
 
 void loop() {
-  distance = (ultrasonicJ1.getDistance());    //Set the detected value from ultrasonic sound sensor as the variable distance 
-  if (distance > 3 && distance < 20) {    //Judge if the variable is over 3 and below 20
-    nezhaa.setMotorSpeed(M1, 15);    // Set the speed of the motor connecting to M1 at 15%
-    nezhaa.setMotorSpeed(M2, -15);    //Set the speed of the motor connecting to M2 at -15%
-    delay((1) * 1000);    //Pause 1000ms
+  distance = (ultrasonicJ1.getDistance());    //将超声波传感器的返回值存入变量distance中
+  if (distance > 3 && distance < 20) {    //判断变量distance的值是否大于3且小于20
+    nezhaa.setMotorSpeed(M1, 15);    //设置M2端口的电机速度为15%
+    nezhaa.setMotorSpeed(M2, -15);    //设置M2端口的电机速度为-15%
+    delay((1) * 1000);    //延时1000ms
   } else {
     nezhaa.setMotorSpeed(M1, 20);
     nezhaa.setMotorSpeed(M2, 20);
@@ -99,6 +86,6 @@ void loop() {
 }
 ```
 
-### Result
-After powering on, the car moves forward and it turns autamatically if it detects any obstacles. 
+### 结果
+开启电源后，避障小车向前行驶，如果遇到障碍物则自动转弯。
 

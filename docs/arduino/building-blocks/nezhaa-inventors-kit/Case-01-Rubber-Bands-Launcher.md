@@ -1,18 +1,20 @@
-# Case 01: Rubber Bands Launcher
-## Purpose
----
-Make a rubber bands launcher through  [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r).
+# 皮筋发射器
+
+## 目的
+
+使用[哪吒A36合1Arduino套装](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)制作皮筋发射器。
 ![](./images/neza-a-case-01-01.png)
 
-## Purchase Link
----
-  [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r)
+## 购买链接
 
-## Materials Required
----
+[哪吒A36合1Arduino套装](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)
+
+## 所需材料
+
 ![](./images/neza-a-case-01-02.png)
-## Assembly steps 
----
+
+## 搭建步骤
+
 ![](./images/neza-a-step-01-01.png)
 ![](./images/neza-a-step-01-02.png)
 ![](./images/neza-a-step-01-03.png)
@@ -48,47 +50,46 @@ Make a rubber bands launcher through  [NezhaA Inventor's Kit](https://shop.elecf
 ![](./images/neza-a-step-01-33.png)
 ![](./images/neza-a-step-01-34.png)
 
-Wrap the rubber bands with the device:
+搭建完成后，还需要安装橡皮筋：
+
 ![](./images/neza-a-case-01-03.gif)
 
-## Hardware Connection
----
-Connect the [two buttons](https://www.elecfreaks.com/planetx-button.html) to J1 port and the [Servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S1 port on [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html). 
+## 硬件连接图
+
+将[两颗按钮](https://www.elecfreaks.com/planetx-button.html)连接到[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的J1端口，将[舵机](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)连接到[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的S1端口。
 ![](./images/neza-a-case-01-04.png)
 
-## Programming
----
-### Prepare the programming
-Steps for preparation please refer to: [Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
-Import the libraries and the subsidiary libraries of [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html) and then import the libraries of the [two buttons](https://www.elecfreaks.com/planetx-button.html):  [PlanetXButton-main.zip](https://github.com/elecfreaks/PlanetXButton/archive/refs/heads/main.zip)
-Download and import the self-defined library connections for [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html): [RJPins-main.zip](https://github.com/elecfreaks/RJPins/archive/refs/heads/main.zip)
+## 编写程序
 
-### Sample Code: 
+### 准备编程环境
+编程环境准备步骤：请参考：[Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
+下载并导入[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的库文件和依赖库文件后，还需要导入[两颗按钮](https://www.elecfreaks.com/planetx-button.html)模块的库文件：[PlanetXButton-main.zip](https://github.com/elecfreaks/PlanetXButton/archive/refs/heads/main.zip)
+下载并导入[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的接口定义文件：[RJPins-main.zip](https://github.com/elecfreaks/RJPins/archive/refs/heads/main.zip)
+
+### 示例程序：
 ```
 #include <PlanetXButton.h>
 #include <NezhaA.h>
 #include <RJPins.h>
 
-PlanetXButton buttonJ1(J1);    //Create an instance of PlanetXButton category
-NezhaA nezhaA;    //Create an instance of NezhaA category
+PlanetXButton buttonJ1(J1);    //创建一个PlanetXButton类的实例
+NezhaA nezhaA;    //创建一个NezhaA类的实例
 
 void setup() {
-  nezhaA.begin();    //Initiliaze the buzzer, motor, servo and light
+  nezhaA.begin();    //初始化蜂鸣器、电机、舵机、灯光
 }
 
 void loop() {
-  if (buttonJ1.isPressed(C)) {    //While button C is pressed
-    nezhaA.setServoAngle(S1, 190);    //Set the angle of the servo as 200 degrees at S1 port. 
+  if (buttonJ1.isPressed(C)) {    //当检测到按键C被按下时
+    nezhaA.setServoAngle(S1, 190);    //设置S1端口的舵机角度为200度
   }
   if (buttonJ1.isPressed(D)) {
-    nezhaA.setServoAngle(S1, 270);    
+    nezhaA.setServoAngle(S1, 270);
   }
 }
 ```
 
-### Result
-Control the rubber band through this rubber band launcher. 
+### 结果
+通过按键控制皮筋发射器发射橡皮筋。
 ![](./images/neza-a-case-01-05.gif)
-
-***Note*** The angle of the servo that controls the launch needs to be adjusted according to the number of rubber bands. Using too many rubber bands will cause excessive tension and damage the servos. It is recommended that no more than three rubber bands be used for launching.
-
+**注意：**控制发射的舵机角度需要根据具体使用的橡皮筋数量进行调整，使用过多的橡皮筋会导致拉力过大，损坏用于控制发射的舵机，建议用于发射的橡皮筋不超过三个。

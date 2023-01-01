@@ -1,21 +1,12 @@
-# Case 12: A Handheld Mechanical Claw
-
-## Purpose
----
-Make a handheld mechanical claw with [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r).
-
+# 手持机械爪
+## 目的
+使用[哪吒A36合1Arduino套装](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)制作手持机械爪。
 ![](./images/neza-a-case-12-01.png)
-
-## Purchse
----
- [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r)
-
-## Materials Required
----
+## 购买链接
+[哪吒A36合1Arduino套装](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)
+## 所需材料
 ![](./images/neza-a-case-12-02.png)
-
-## Assembly Steps
----
+## 搭建步骤
 ![](./images/neza-a-step-12-01.png)
 ![](./images/neza-a-step-12-02.png)
 ![](./images/neza-a-step-12-03.png)
@@ -46,51 +37,45 @@ Make a handheld mechanical claw with [NezhaA Inventor's Kit](https://shop.elecfr
 ![](./images/neza-a-step-12-28.png)
 ![](./images/neza-a-step-12-29.png)
 ![](./images/neza-a-step-12-30.png)
+## 硬件连接图
+将[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)连接到[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的M1端口，将[两颗按钮](https://www.elecfreaks.com/planetx-button.html)安装在[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)盒的J1端口。
+![](./images/neza-a-case-12-03.png)
+## 编写程序
+### 准备编程环境
+编程环境准备步骤：请参考：[Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
+下载并导入[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的库文件和依赖库文件后，还需要导入[两颗按钮](https://www.elecfreaks.com/planetx-button.html)模块的库文件：[PlanetXButton-main.zip](https://github.com/elecfreaks/PlanetXButton/archive/refs/heads/main.zip)
+下载并导入[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的接口定义文件：[RJPins-main.zip](https://github.com/elecfreaks/RJPins/archive/refs/heads/main.zip)
 
-## Hardware Connections
----
-Connect the [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 port and the[two buttons](https://www.elecfreaks.com/planetx-button.html) to J1 port on [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html). 
-![](./images/neza-a-case-07-03.png)
-
-## Programming
----
-### Prepare the programming
-
-Steps for preparation please refer to: [Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
-
-Import the libraries and the subsidiary libraries of [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html) and then import the libraries of the [two buttons](https://www.elecfreaks.com/planetx-button.html): [PlanetXButton-main.zip](https://github.com/elecfreaks/PlanetXButton/archive/refs/heads/main.zip)
-
-### Sample Code: 
-
+### 示例程序：
 ```
 // Language ArduinoC
 #include <RJPins.h>
 #include <NezhaA.h>
 #include <PlanetXButton.h>
 
-PlanetXButton buttonJ1(J1);    //Create an instance of PlanetXButton category
-NezhaA nezhaA;    // Create an instance of NezhaA category
-int flag;    //Create a variable flag to document the status of the claw
+PlanetXButton buttonJ1(J1);    //创建一个PlanetXButton类的实例
+NezhaA nezhaA;    //创建一个NezhaA类的实例
+int flag;    //创建变量flag用于记录机械爪的状态
 
 void setup() {
-  nezhaA.begin();    //Initiliaze the buzzer, motor, servo and light
+  nezhaA.begin();    //初始化蜂鸣器、电机、舵机、灯光
 }
 
 void loop() {
-  if ((buttonJ1.isPressed(C)) && (flag == 0)) {    //While button C is pressed and the flag is 0,
-    nezhaA.setMotorSpeed(M1, 100);   //Set the speed of the motor connecting to M1 at 100%
-    delay((1) * 1000);    //Pause 2000ms
-    nezhaA.brakeMotor(M1);    //Stop the motor connecting to M1
-    flag = 1;    //Set flag=1, label it as the loose of the claw
+  if ((buttonJ1.isPressed(C)) && (flag == 0)) {    //当检测到按键C被按下且flag等于0时
+    nezhaA.setMotorSpeed(M1, 100);   //设置M1端口的电机速度为100%
+    delay((1) * 1000);    //延时2000ms
+    nezhaA.brakeMotor(M1);    //设置M1端口的电机停止转动
+    flag = 1;    //设置flag等于1，标识机械爪为松开的状态
   }
-  if ((buttonJ1.isPressed(D)) && (flag == 1)) {    //While button D is pressed
-    nezhaA.setMotorSpeed(M1, -100);   //Set the speed of the motor connecting to M1 at -100%
-    delay((1) * 1000);    //Pause 2000ms
-    nezhaA.brakeMotor(M1);    //Stop the motor connecting to M1
-    flag = 0;    //Set flag=0, label it as the grasp of the claw
+  if ((buttonJ1.isPressed(D)) && (flag == 1)) {    //当检测到按键D被按下时
+    nezhaA.setMotorSpeed(M1, -100);   //设置M1端口的电机速度为-100%
+    delay((1) * 1000);    //延时2000ms
+    nezhaA.brakeMotor(M1);    //设置M1端口的电机停止转动
+    flag = 0;    //设置flag等于0，标识机械爪为抓取物品的状态
   }
 }
 ```
 
-### Result
-Put the claw in a proper position that may grasp the goods, after powering on, press button C and the claw looses the goods; press button D and the claw grasps the goods. 
+### 结果
+先调整机械爪到适合抓取物品的位置，开启电源后，按下C按钮后，机械爪松开物品，按下D按钮后，机械爪抓住物品。

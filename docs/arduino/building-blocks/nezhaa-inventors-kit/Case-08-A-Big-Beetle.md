@@ -1,21 +1,12 @@
-# Case 08: A Big Beetle
-
-## Purpose
----
-Make a big beetle with [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r).
-
+# 大甲虫
+## 目的
+使用[哪吒A36合1Arduino套装](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)制作大甲虫。
 ![](./images/neza-a-case-08-01.png)
-
-## Purchse
----
- [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r)
-
-## Materials Required
----
+## 购买链接
+[哪吒A36合1Arduino套装](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)
+## 所需材料
 ![](./images/neza-a-case-08-02.png)
-
-## Assembly Steps
----
+## 搭建步骤
 ![](./images/neza-a-step-08-01.png)
 ![](./images/neza-a-step-08-02.png)
 ![](./images/neza-a-step-08-03.png)
@@ -81,25 +72,18 @@ Make a big beetle with [NezhaA Inventor's Kit](https://shop.elecfreaks.com/produ
 
 
 
-## Hardware Connections
----
-Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2 port,  the [ultrasonic sound sensor](https://www.elecfreaks.com/planetx-ultrasonic.html) to J1 port and  the [line-tracking sensor](https://www.elecfreaks.com/planetx-tracking.html) on J2 port on [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html). 
-
+## 硬件连接图
+将两个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)分别连接到[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的M1、M2端口，将[超声波传感器](https://www.elecfreaks.com/planetx-ultrasonic.html)安装在[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的J1端口，[两路巡线传感器](https://www.elecfreaks.com/planetx-tracking.html)安装在[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的J2端口。
 ![](./images/neza-a-case-08-03.png)
+## 编写程序
 
-## Programming
----
-### Prepare the programming
+### 准备编程环境
+编程环境准备步骤：请参考：[Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
+下载并导入[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的库文件和依赖库文件后，还需要导入[两路巡线传感器](https://www.elecfreaks.com/planetx-tracking.html)的库文件：[PlanetXTracking-main.zip](https://github.com/elecfreaks/PlanetXTracking/archive/refs/heads/main.zip)
+下载并导入[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的库文件和依赖库文件后，还需要导入[超声波传感器](https://www.elecfreaks.com/planetx-ultrasonic.html)的库文件：[PlanetXUltrasonic-main.zip](https://github.com/elecfreaks/PlanetXUltrasonic/archive/refs/heads/main.zip)
+下载并导入[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的接口定义文件：[RJPins-main.zip](https://github.com/elecfreaks/RJPins/archive/refs/heads/main.zip)
 
-Steps for preparation please refer to: [Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
-
-Import the libraries and the subsidiary libraries of [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html) and then import the libraries of the [line-tracking sensor](https://www.elecfreaks.com/planetx-tracking.html):  [PlanetXTracking-main.zip](https://github.com/elecfreaks/PlanetXTracking/archive/refs/heads/main.zip)
-
-Import the libraries and the subsidiary libraries of [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html) and then import the libraries of the [ultrasonic sound sensor](https://www.elecfreaks.com/planetx-ultrasonic.html):  [PlanetXUltrasonic-main.zip](https://github.com/elecfreaks/PlanetXUltrasonic/archive/refs/heads/main.zip)
-Download and import the self-defined library connections for [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html): [RJPins-main.zip](https://github.com/elecfreaks/RJPins/archive/refs/heads/main.zip)
-
-### Sample Code: 
-
+## 示例程序：
 ```
 // Language ArduinoC
 #include <NezhaA.h>
@@ -107,33 +91,33 @@ Download and import the self-defined library connections for [Nezha-A master box
 #include <PlanetXTracking.h>
 #include <PlanetXUltrasonic.h>
 
-PlanetXTracking trackingJ2(J2);    //Create an instance of PlanetXTracking category
-NezhaA nezhaa;    //Create an instance of Nezha category
-PlanetXUltrasonic ultrasonicJ1(J1);    // Create an instance of PlanetXUltrasonic category
-int distance;    //Create a variable of int distance
+PlanetXTracking trackingJ2(J2);    //创建一个PlanetXTracking类的实例
+NezhaA nezhaa;    //创建一个NezhaA类的实例
+PlanetXUltrasonic ultrasonicJ1(J1);    //创建一个PlanetXUltrasonic类的实例
+int distance;    //声明一个整形变量distance
 
 void setup() {
-  nezhaa.begin();    //Initiliaze the buzzer, motor, servo and light
+  nezhaa.begin();    //初始化蜂鸣器、电机、舵机、灯光
 }
 
 void loop() {
-  distance = (ultrasonicJ1.getDistance());    //Set the detected value from ultrasonic sound sensor as the variable distance 
-  if (distance > 3 && distance < 20) {    //Judge if the variable is over 3 and below 20
-    nezhaa.setMotorSpeed(M1, 0);    //Set the speed of the motor connecting to M1 at 0%
-    nezhaa.setMotorSpeed(M2, 0);    //Set the speed of the motor connecting to M2 at 0%
+  distance = (ultrasonicJ1.getDistance());    //将超声波传感器的返回值存入变量distance中
+  if (distance > 3 && distance < 20) {    //判断变量distance的值是否大于3且小于20
+    nezhaa.setMotorSpeed(M1, 0);    //设置M1端口的电机速度为0%
+    nezhaa.setMotorSpeed(M2, 0);    //设置M2端口的电机速度为0%
   } 
   else {
     if (trackingJ2.isTracked(Right)) {
-      nezhaa.setMotorSpeed(M1, 0);    //Set the speed of the motor connecting to M1 at 0%
-      nezhaa.setMotorSpeed(M2, 20);    //Set the speed of the motor connecting to M2 at 20%
+      nezhaa.setMotorSpeed(M1, 0);    //设置M1端口的电机速度为0%
+      nezhaa.setMotorSpeed(M2, 20);    //设置M2端口的电机速度为20%
     }
     if (trackingJ2.isTracked(Left)) {
-      nezhaa.setMotorSpeed(M1, 20);    //Set the speed of the motor connecting to M1 at 20%
-      nezhaa.setMotorSpeed(M2, 0);    //Set the speed of the motor connecting to M2 at 0%
+      nezhaa.setMotorSpeed(M1, 20);    //设置M1端口的电机速度为20%
+      nezhaa.setMotorSpeed(M2, 0);    //设置M2端口的电机速度为0%
     }  
   }  
 }
 ```
 
-### Result
-After powering on, the beetle walks along with the line and it stops while it detects the obstacles. 
+### 结果
+开启电源后，大甲虫沿线行走，当遇到障碍物时自动停下。

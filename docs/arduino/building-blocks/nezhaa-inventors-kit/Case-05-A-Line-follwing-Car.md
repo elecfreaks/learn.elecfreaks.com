@@ -1,21 +1,14 @@
-# Case 05:  A Line-follwing Car
-
-## Purpose
----
-Make a line-following car with [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r).
-
+# 巡线小车
+## 目的
+使用[哪吒A36合1Arduino套装](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)制作巡线小车。
 ![](./images/neza-a-case-05-01.png)
+## 购买链接
+[哪吒A36合1Arduino套装](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)
 
-## Purchse
----
- [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r)
 
-## Materials Required
----
+## 所需材料
 ![](./images/neza-a-case-05-02.png)
-
-## Assembly Steps
----
+## 搭建步骤
 ![](./images/neza-a-step-05-01.png)
 ![](./images/neza-a-step-05-02.png)
 ![](./images/neza-a-step-05-03.png)
@@ -56,46 +49,43 @@ Make a line-following car with [NezhaA Inventor's Kit](https://shop.elecfreaks.c
 ![](./images/neza-a-step-05-38.png)
 ![](./images/neza-a-step-05-39.png)
 
-## Hardware Connections
----
-Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2 port and the [line-tracking sensor](https://www.elecfreaks.com/planetx-tracking.html) on [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html). ![](./images/neza-a-case-05-03.png)
+## 硬件连接图
+将两个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)分别连接到[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的M1、M2端口，将[两路巡线传感器](https://www.elecfreaks.com/planetx-tracking.html)安装在[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的J1端口。![](./images/neza-a-case-05-03.png)
 
-## Programming
----
-### Prepare the programming
+## 编写程序
 
-Steps for preparation please refer to: [Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
+### 准备编程环境
+编程环境准备步骤：请参考：[Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
+下载并导入[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的库文件和依赖库文件后，还需要导入[两路巡线传感器](https://www.elecfreaks.com/planetx-tracking.html)的库文件：[PlanetXTracking-main.zip](https://github.com/elecfreaks/PlanetXTracking/archive/refs/heads/main.zip)
+下载并导入[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的接口定义文件：[RJPins-main.zip](https://github.com/elecfreaks/RJPins/archive/refs/heads/main.zip)
 
-Import the libraries and the subsidiary libraries of [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html) and then import the libraries of the [line-tracking sensor](https://www.elecfreaks.com/planetx-tracking.html):  [PlanetXTracking-main.zip](https://github.com/elecfreaks/PlanetXTracking/archive/refs/heads/main.zip)
-Download and import the self-defined library connections for [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html): [RJPins-main.zip](https://github.com/elecfreaks/RJPins/archive/refs/heads/main.zip)
-
-### Sample Projects:
-
+### 示例程序：
 ```
 // Language ArduinoC
 #include <NezhaA.h>
 #include <RJPins.h>
 #include <PlanetXTracking.h>
 
-PlanetXTracking trackingJ1(J1);    //Create an instance of PlanetXTracking category
-NezhaA nezha;    /Create an instance of NezhaA category
+PlanetXTracking trackingJ1(J1);    //创建一个PlanetXTracking类的实例
+NezhaA nezha;    //创建一个NezhaA类的实例
 
 void setup() {
-  nezha.begin();    //Initiliaze the buzzer, motor, servo and light
+  nezha.begin();    //初始化蜂鸣器、电机、舵机、灯光
 }
 
 void loop() {
   if (trackingJ1.isTracked(Right)) {
-    nezha.setMotorSpeed(M1, 0);    //Set the speed of the motor connecting to M1 at 0%
-    nezha.setMotorSpeed(M2, 15);    //Set the speed of the motor connecting to M2 at 15%
+    nezha.setMotorSpeed(M1, 0);    //设置M1端口的电机速度为0%
+    nezha.setMotorSpeed(M2, 15);    //设置M2端口的电机速度为15%
   }
   if (trackingJ1.isTracked(Left)) {
-    nezha.setMotorSpeed(M1, 15);    //Set the speed of the motor connecting to M1 at 15%
-    nezha.setMotorSpeed(M2, 0);    //Set the speed of the motor connecting to M2 at 0%
+    nezha.setMotorSpeed(M1, 15);    //设置M1端口的电机速度为15%
+    nezha.setMotorSpeed(M2, 0);    //设置M2端口的电机速度为0%
   }  
 }
 ```
 
-### Result
-After powering on, the car drives along with the map. 
+### 结果
+开启电源后，小车沿着地图轨迹行驶。
+
 

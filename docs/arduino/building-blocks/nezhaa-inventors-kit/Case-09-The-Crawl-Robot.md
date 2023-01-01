@@ -1,21 +1,13 @@
-# Case 09: The Crawl Robot
-
-## Purpose
----
-Make a crawl robot with [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r).
-
+# 爬行机器人
+## 目的
+使用[哪吒A36合1Arduino套装](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)制作爬行机器人。
 ![](./images/neza-a-case-09-01.png)
+## 购买链接
+[哪吒A36合1Arduino套装](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)
 
-## Purchse
----
- [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r)
-
-## Materials Required
----
+## 所需材料
 ![](./images/neza-a-case-09-02.png)
-
-## Assembly Steps
----
+## 搭建步骤
 ![](./images/neza-a-step-09-01.png)
 ![](./images/neza-a-step-09-02.png)
 ![](./images/neza-a-step-09-03.png)
@@ -43,29 +35,22 @@ Make a crawl robot with [NezhaA Inventor's Kit](https://shop.elecfreaks.com/prod
 ![](./images/neza-a-step-09-25.png)
 ![](./images/neza-a-step-09-26.png)
 
-## Hardware Connections
----
-Connect the [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 port on [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html). 
-
+## 硬件连接图
+将[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)连接到[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的M1端口。
 ![](./images/neza-a-case-09-03.png)
-
-## Programming
----
-### Prepare the programming
-
-Steps for preparation please refer to: [Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html).
-
-### Sample Code: 
-
+## 编写程序
+### 准备编程环境
+编程环境准备步骤：请参考：[Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
+### 示例程序：
 ```
 // Language ArduinoC
 #include <NezhaA.h>
 
-NezhaA nezhaA;    //Create an instance of Nezha category
+NezhaA nezhaA;    //创建一个NezhaA类的实例
 
 void setup() {
-  nezhaA.begin();    //Initiliaze the buzzer, motor, servo and light
-  nezhaA.setMotorSpeed(M1, 100);    // Set the speed of the motor connecting to M1 at 100%
+  nezhaA.begin();    //初始化蜂鸣器、电机、舵机、灯光
+  nezhaA.setMotorSpeed(M1, 100);    //设置连接至M1端口的电机速度为100%
 }
 
 void loop() {
@@ -73,5 +58,5 @@ void loop() {
 }
 
 ```
-### Result
-After powering on, the robot crawls forward. 
+### 结果
+开启电源后，爬行机器人开始向前爬行。

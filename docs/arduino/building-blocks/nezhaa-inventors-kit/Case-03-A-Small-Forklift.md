@@ -1,21 +1,12 @@
-# Case 03: A Small Forklift
-
-## Purpose
----
-Make a small forklift with [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r).
-
+# 小叉车
+## 目的
+使用[哪吒A36合1Arduino套装](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)制作小叉车。
 ![](./images/neza-a-case-03-01.png)
-
-## Purchse
----
- [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r)
-
-## Materials Required
----
+## 购买链接
+[哪吒A36合1Arduino套装](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)
+## 所需材料
 ![](./images/neza-a-case-03-02.png)
-
-## Assembly Steps
----
+## 搭建步骤
 ![](./images/neza-a-step-03-01.png)
 ![](./images/neza-a-step-03-02.png)
 ![](./images/neza-a-step-03-03.png)
@@ -67,45 +58,38 @@ Make a small forklift with [NezhaA Inventor's Kit](https://shop.elecfreaks.com/p
 ![](./images/neza-a-step-03-49.png)
 ![](./images/neza-a-step-03-50.png)
 
-## Hardware Connections
----
-Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2,  the [two buttons](https://www.elecfreaks.com/planetx-button.html) to J1 port on [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html). 
+## 硬件连接图
+将两个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)分别连接到哪吒A主控盒的M1、M2端口，将[两颗按钮](https://www.elecfreaks.com/planetx-button.html)安装在哪吒A主控盒的J1端口。
 ![](./images/neza-a-case-03-03.png)
-
-## Programming
----
-### Prepare the programming
-
-Steps for preparation please refer to: [Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
-
-Import the libraries and the subsidiary libraries of [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html) and then import the libraries of the [two buttons](https://www.elecfreaks.com/planetx-button.html):  [PlanetXButton-main.zip](https://github.com/elecfreaks/PlanetXButton/archive/refs/heads/main.zip)
-Download and import the self-defined library connections for [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html): [RJPins-main.zip](https://github.com/elecfreaks/RJPins/archive/refs/heads/main.zip)
-
-### Sample Projects:
-
+## 编写程序
+### 准备编程环境
+编程环境准备步骤：请参考：[Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
+下载并导入[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的库文件和依赖库文件后，还需要导入[两颗按钮](https://www.elecfreaks.com/planetx-button.html)模块的库文件：[PlanetXButton-main.zip](https://github.com/elecfreaks/PlanetXButton/archive/refs/heads/main.zip)
+下载并导入[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的接口定义文件：[RJPins-main.zip](https://github.com/elecfreaks/RJPins/archive/refs/heads/main.zip)
+### 示例程序：
 ```
 // Language ArduinoC
 #include <RJPins.h>
 #include <NezhaA.h>
 #include <PlanetXButton.h>
 
-PlanetXButton buttonJ1(J1);    //Create an instance of PlanetXButton category
-NezhaA nezhaA;    //Create an instance of NezhaA category
+PlanetXButton buttonJ1(J1);    //创建一个PlanetXButton类的实例
+NezhaA nezhaA;    //创建一个NezhaA类的实例
 
 void setup() {
-  nezhaA.begin();    //Initiliaze the buzzer, motor, servo and light
+  nezhaA.begin();    //初始化蜂鸣器、电机、舵机、灯光
 }
 
 void loop() {
-  if (buttonJ1.isPressed(C)) {    //While button C is pressed
-    nezhaA.setMotorSpeed(M1, 50);   // Set the speed of the motor connecting to M1 at 50%
-    delay((2) * 1000);    //Pause 2000ms
-    nezhaA.brakeMotor(M1);    //Stop the motor connecting to M1
-    nezhaA.setMotorSpeed(M2, 100);   //Set the speed of the motor connecting to M2 at 100%
+  if (buttonJ1.isPressed(C)) {    //当检测到按键C被按下时
+    nezhaA.setMotorSpeed(M1, 50);   //设置M1端口的电机速度为50%
+    delay((2) * 1000);    //延时2000ms
+    nezhaA.brakeMotor(M1);    //设置M1端口的电机停止转动
+    nezhaA.setMotorSpeed(M2, 100);   //设置M2端口的电机速度为100%
     delay((1) * 1000);
-    nezhaA.brakeMotor(M2);    //设Stop the motor connecting to M2
+    nezhaA.brakeMotor(M2);    //设置M2端口的电机停止转动
   }
-  if (buttonJ1.isPressed(D)) {    //While button D is pressed
+  if (buttonJ1.isPressed(D)) {    //当检测到按键D被按下时
     nezhaA.setMotorSpeed(M1, -50);
     delay((2) * 1000);
     nezhaA.brakeMotor(M1);
@@ -115,6 +99,6 @@ void loop() {
   }
 }
 ```
-### Result
-After powering on, press button C and the car drives forward for 2 seconds and the raise its folklift; press button D and the car reverses for 2 seconds, then it puts the folklift down. 
+### 结果
+开启电源后，按下C按钮后，小车向前行驶2秒，自动抬起车叉；按下D按钮后，小车向后行驶2秒，自动放下车叉。
 

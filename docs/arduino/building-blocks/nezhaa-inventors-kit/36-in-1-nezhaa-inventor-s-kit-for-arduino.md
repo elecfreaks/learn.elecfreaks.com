@@ -1,11 +1,12 @@
-# 36 in 1 Nezha-A Inventor's kit for Arduino
+# 哪吒A 36合1 Arduino套装
 
-## Introduction
-[36 in 1 Nezha-A Inventor's kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r) for Arduino is based on Nezha-A master box. It contains several sensors and modules, including an OLED display, potentiometer, ultrasonic sound sensor, two buttons, dual line-tracking sensor, and etc. It also contains more than 300 building blocks. We have paired this kit with 36 interesting cases and detailed block assembly diagrams. It allows children to experience the fun of exploring building structures while learning to program and fully stimulates their creativity and imagination.
+![](./images/neza-a-36-in-1-01.png)
 
-Follow us and start with the 36 in 1 Nezha-A Inventor's kit for Arduino and let every child become an inventor!
+## 产品简介
 
-## Pictures
-![](./images/neza-a-01.png)
-## Packing List
-![](./images/neza-a-02.png)
+36 in 1 Nezha-A Inventor's kit for Arduino基于[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)。它包含多个传感器和模块，包括[OLED显示屏](https://www.elecfreaks.com/planetx-oled.html)、[旋钮电位器](https://www.elecfreaks.com/planetx-trimpot.html)、[超声波传感器](https://www.elecfreaks.com/planetx-ultrasonic.html)、[两颗按钮](https://www.elecfreaks.com/planetx-button.html)、[两路巡线传感器](https://www.elecfreaks.com/planetx-tracking.html)等，还包含300多个积木砖块。我们为这个套件搭配了36个有趣的案例和详细的积木装配图。让孩子们能够在学习编程的同时，体验到探索搭建结构的乐趣，充分的激发孩子们的创造力和想象力。
+来跟随我们的脚步，从36 in 1 Nezha-A Inventor's kit for Arduino开始，让每个孩子都成为发明家吧！
+
+## 套装清单
+
+![](./images/neza-a-36-in-1-02.png)

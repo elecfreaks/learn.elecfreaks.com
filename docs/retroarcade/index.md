@@ -3,7 +3,8 @@ sidebar_position: 6
 sidebar_label: 饼干游戏编程学习机
 ---
 
-# 产品简介
+# 饼干游戏编程学习机
+## 产品简介
 ![](./images/retro-case-01-01.png)
 
 ## 概述

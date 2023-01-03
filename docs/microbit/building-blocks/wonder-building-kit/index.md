@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
-sidebar_label: Wonder Building Kit
+sidebar_label: 悟空搭建套装
 ---
 
-# Wonder Building Kit
+# 悟空搭建套装
 
 # 目录
 

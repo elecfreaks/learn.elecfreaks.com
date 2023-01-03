@@ -2,7 +2,7 @@
 
 ## 目的
 
-To make a line following car.
+制作一辆巡线车.
 
 ![](./images/case-02-01.png)
 

@@ -2,7 +2,7 @@
 
 ## 目的
 
-To make a gyroscope baseboard.
+制作一个陀螺仪底座.
 
 ![](./images/case-03-01.png)
 

@@ -58,11 +58,7 @@ const config = {
           {
             type: 'localeDropdown',
           },
-          {
-            href: 'https://www.elecfreaks.com/',
-            label: 'Store',
-            position: 'right',
-          },
+          
         ],
       },
       docs: {

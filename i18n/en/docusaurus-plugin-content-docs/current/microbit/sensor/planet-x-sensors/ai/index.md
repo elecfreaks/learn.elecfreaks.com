@@ -1,31 +1,43 @@
 ---
 sidebar_position: 1
-sidebar_label: AI摄像头
+sidebar_label: AI Lens
 ---
 
-# 简介
-AI摄像头，可以实现人脸识别、小球追踪、卡片识别和一键学习的功能。
+# AI Lens
+
+## Introduction
+
+
+The AI Lens is able to achieve the functions of face recognition, balls tracking, cards recognition and characteristics acquisition.
 
 ![](./images/05035_01.png)
 
-## 特性
----
-- RJ11端口设计，防止误插，易于使用。
-## 技术规格
----
+## Products Link
 
-项目 | 参数
-:-: | :-:
-SKU|EF05044
-接口|RJ11
-接口类型|IIC
-工作电压|3.3V
-核心IC|K210
+[ELECFREAKS Smart AI Lens Kit](https://shop.elecfreaks.com/products/elecfreaks-smart-ai-lens-kit?_pos=1&_sid=d572dc26c&_ss=r)
+
+## Characteristics
 
 
-AI摄像头的原点（0,0）在屏幕的左下角，X轴和Y轴的范围为：X（0,224），Y（0,224）。
+ Designed with RJ11 connection and easy to plug.
 
-## 目录
+## Specification
+
+
+|      Item       | Parameter |
+| :---------: | :---------: |
+|       SKU       |  EF05045  |
+|   Connection    |   RJ11    |
+| Connection Type |    IIC    |
+| Working Voltage |   3.3V    |
+|     Core IC     |   K210    |
+
+
+
+The origin point of the AI Lens is on the left top corner (0,0), and the range of the coordinate X&Y is (0,224).
+
+
+## Directory
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

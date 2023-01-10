@@ -24,7 +24,7 @@
 
 首先将巡线模块插入 Ring:bit 小车底板插口。随后在反面用两颗螺丝固定。就这样扩展完成了，感觉很简单呢。
 
-![](./images/line_02.png)
+
 
 ## 程序编写
 想必你应该已经准备好了编程环境，如果没有准备，可以参考这篇文章：[编程环境准备](https://www.yuque.com/elecfreaks-learn/picoed/gxro38)

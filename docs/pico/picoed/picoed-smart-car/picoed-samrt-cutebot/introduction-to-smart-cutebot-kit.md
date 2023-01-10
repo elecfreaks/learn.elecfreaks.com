@@ -30,7 +30,7 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
 
 前方左右两边各配备两颗RGB全彩色LED车灯，通过扩展板控制。
 
-![](./images/pico-cutebot-02png)
+![](./images/pico-cutebot-02.png)
 
 正上方装有三颗AA电池电池盒扩展板，用来驱动整个小车。
 

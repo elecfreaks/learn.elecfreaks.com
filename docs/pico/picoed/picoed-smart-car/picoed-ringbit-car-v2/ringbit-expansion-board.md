@@ -1,20 +1,8 @@
-# Ring:bit Breakout Board with Battery Holder in 3 IO Ports
-
-## [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) V2
----
-
-Hello, in order to use [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car better, we need to know about [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) expansion board, [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) V2 is a simple expansion board based on Pico:ed. From the Pico:ed main board, it leads to 3 IO ports, 3 power ports and 3 ground ports. We will use this module to convert the P0/P1/P2 interface to a universal GVS interface. The back battery compartment is for 3 AAA batteries to drive the car and other accessories.
-
+## Ring:bit  二代扩展板
+哈喽，为了让你更好的使用 Ring:bit 智能车，接下来我们需要了解一下 Ring:bit 扩展板，Ring:bit 扩展板是基于 Pico:ed 的简易扩展电路板。从 Pico:ed 主板引出3个IO口，3个电源接口和3个地线接口。我们会用这个模块将P0/P1/P2接口转换为通用GVS接口。后置电池盒，可装载3颗7号AAA电池以驱动小车及其他配件。
 ![](./images/board01.png)
-
-## Introduction
----
-
-The [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) V2 breakout board is a dedicated expansion board designed to increase the expandability of the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car. The board contains two Rainbow LEDs and a dedicated expansion port for connecting dedicated expansion modules.
-There is a sliding switch on the board, toggle the switch to "Rainbow LED" to use the two on-board Rainbow LEDs and toggle the switch to "Other modules" and you can connect other dedicated modules, but you cannot do both at the same time.
-
+## Ring:bit Car 专用扩展板简介
+Ring:bit Car 专用扩展板是为了增加 Ring:bit car 的可扩展性而设计的一块专用扩展板。板载两颗 Rainbow LED  和一个专用扩展接口，可以连接专用扩展模块。
+板上有一个可滑动的开关，将开关拨到“Rainbow LED”，使用两颗板载 Rainbow LED，将开关拨到“Other modules”，你就可以连接其他专用模块,两者不可同时进行。
 ![](./images/board02.png)
-
-
-
 ![](./images/board03.png)

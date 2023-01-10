@@ -1,25 +1,25 @@
-# Case 05: Dazzling Lights
+# Case 05：炫彩灯光
 
-## Introduction
-Make [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-smart-cutebot-kit-with-pico-ed-board?_pos=2&_sid=40bbc85e4&_ss=r) drive forward and display random light colors.
-## Programming Preparation
-Please refer to: [Preparing the Programming Environment](http://www.elecfreaks.com/learn-en/pico-ed-kit/pico-ed-cutebot-kit/preparation-for-the-programming.html)
-## Sample code
+
+## 简介
+让Cutebot智能赛车向前行驶，并随机显示灯光颜色。
+## 准备编程环境
+准备编程环境请参考：[准备编程环境](https://www.yuque.com/elecfreaks-learn/picoed/gccnpl)
+## 示例代码
 ```python
 from cutebot import *
 from random import *
 from time import *
 
-# Create a sample for Cutebot category
+# 创建Cutebot类的实例
 cutebot = Cutebot()    
 
-#  Set the cutebot smart car to drive forward at 50% speed
+# 设置cutebot智能赛车以50%的速度向前行驶
 cutebot.set_speed(50,50)
-# Initialize the rainbow light
+# 初始化彩虹灯
 cutebot.init_rainbow_leds()
 
-#  While true, change the color of the headlights and the Rainbow LED at random. 
-while True:
+# 循环控制cutebot智能赛车的车头灯和示廓灯随机显示灯光颜色
 while True:
     R = randint(0, 255)
     G = randint(0, 255)
@@ -30,27 +30,27 @@ while True:
     cutebot.rainbow_leds[1] = (R,G,B)
     sleep(1)
 ```
-###  Code details
+### 代码详解
 
-1. Import the modules that we need for the program: `cutebot` module contains classes and functions that operate on Cutebot smart cars, `time` module contains functions that operate on time, `random` module contains functions that generate random numbers.
+1. 导入程序所需要的模块：`cutebot`模块包含对Cutebot智能赛车操作的类和函数，`time`模块包含对时间操作的函数，`random`模块包含产生随机数的函数。
 ```python
 from cutebot import *
 from random import *
 from time import *
 ```
 
-2. Create a sample for Cutebot category
+2. 创建Cutebot类的实例。
 ```python
 cutebot = Cutebot()
 ```
 
-3. Set the cutebot smart car to drive forward at 50% speed and initialize the rainbow lights.
+3. 设置cutebot智能赛车以50%的速度向前行驶，初始化彩虹灯。
 ```python
 cutebot.set_speed(50,50)
 cutebot.init_rainbow_leds()
 ```
 
-4. While true, change the color of the headlights and the Rainbow LED at random.
+4. 循环控制cutebot智能赛车的车头灯和示廓灯随机显示灯光颜色
 ```python
 while True:
     R = randint(0, 255)
@@ -62,7 +62,7 @@ while True:
     cutebot.rainbow_leds[1] = (R,G,B)
     sleep(1)
 ```
-## Results
-After powering on, the cutebot smart car moves forward and the lights change the colours at random. 
-## Exploration
-How do you make the lights switch colors automatically according to the speed of the cutebot smart car?
+## 实验结果
+开启电源后，cutebot智能赛车向前行驶，在行驶过程中随机切换车头灯和示廓灯的灯光颜色。
+## 思考
+如何让示廓灯根据cutebot智能赛车的行驶速度自动切换颜色呢？

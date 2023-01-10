@@ -1,38 +1,38 @@
-# Case 01: Move Forward or Reverse
-## Introduction
-Use the A and B buttons on the Pico:ed to control the [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-smart-cutebot-kit-with-pico-ed-board?_pos=2&_sid=40bbc85e4&_ss=r) to complete the basic forward and backward actions.
-## Programming Preparation
-Please refer to: [Preparing the Programming Environment](http://www.elecfreaks.com/learn-en/pico-ed-kit/pico-ed-cutebot-kit/preparation-for-the-programming.html)
-###  Sample code :
+# Case 01：前进、后退
 
+## 简介
+使用pico:ed上的A、B按键来控制cutebot智能车完成基本的前进、后退动作。
+## 准备编程环境
+准备编程环境请参考：[准备编程环境](https://www.yuque.com/elecfreaks-learn/picoed/gccnpl)
+## 示例代码
 ```python
 from picoed import *
 from cutebot import *
 
-# Create a sample for Cutebot category
+# 创建Cutebot类的实例
 cutebot = Cutebot()    
 
-# While true, detect whether the A/B button is pressed, control the cutebot to move forward or backward
+# 循环检测是否按下A/B按键，控制cutebot智能赛车前进后退
 while True:
     if button_a.is_pressed():
         cutebot.set_speed(50,50)
     if button_b.is_pressed():
         cutebot.set_speed(-50,-50)
 ```
-### Code details
+### 代码详解
 
-1.  Import the modules that we need: `cutebot` module contains classes and functions that operate on the Cutebot smart car, and `picoed` module contains functions that operate on keys A\B.
+1. 导入程序所需要的模块：`cutebot`模块包含对Cutebot智能赛车操作的类和函数，`picoed`模块包含对按键A\B的操作函数。
 ```python
 from picoed import *
 from cutebot import *
 ```
 
-2.  Create a sample for Cutebot category
+2. 创建Cutebot类的实例
 ```python
 cutebot = Cutebot()
 ```
 
-3. While true, detect whether the A/B button is pressed, control the cutebot to move forward or backward.
+3. 循环检测是否按下A/B按键，控制cutebot智能赛车前进后退
 ```python
 while True:
     if button_a.is_pressed():
@@ -40,12 +40,8 @@ while True:
     if button_b.is_pressed():
         cutebot.set_speed(-50,-50)
 ```
-## Results
-
-After button A is pressed, the car moves forward at its full speed.
-
-After button B is pressed, the car reverses at its full speed.
-
-## Exploration
-
-How to program the car to stop moving after pressing the A and B buttons at the same time?
+## 实验结果
+当按钮A按下时，小车全速前进。
+当按钮B按下时，小车全速后退。
+## 思考
+当同时按下A\B按键时，让小车停下，该如何编写程序呢？

@@ -1,74 +1,57 @@
-# Expansion-Sonar:bit
-
-## Introduction
----
-Sonar:bit is a 3-wire ultrasonic module with the working voltage between 3-5V. It is available to be used to 3.3V or 5V micro-controller system. With only one 3-wire(GVS) cable, it can work properly. Compared to the normal 4-wire ultrasonic module, it has saved one IO port. 
-
-The measurement range of sonar:bit is 4cm-400cm. It can output stable and accurate measurement data with ±1cm tolerance only.
-
-It can connect to the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) with an expansion board.
+## 简介
+哈喽，接下来你要使用的 Sonar:bit 是一个3线宽压超声波模块，它的工作电压为3.0V-5V，3.3V或5V的单片机系统均能使用；它只需要3根线（G、V、S）就可以工作，比常规的4线超声波模块节省一个 IO 口。Sonar:bit 量程为4cm~400cm，测量数据稳定准确，误差仅为±1cm。
+它可以使用扩展片与 Ring:bit 连接，为 Ring:bit 小车扩展超声波功能。
 
 ![](./images/sonar_01.png)
 
-## Features
-
-Input voltage:3V~5V and can be driven by micro:bit directly.
-
-Standard 3-wire GVS connecotr, which occupies 1 IO port only.
-
-## Parameter
-
-| Item | Parameter | Note |
+## 特性
+输入电压为3V~5V，Pico:ed 能直接驱动。
+标准的3线 GVS 接口，仅占用一个 IO 口。
+## 参数
+| **项目** | **参数** | **备注** |
 | --- | --- | --- |
-| Name | [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) Car v2  Sonar:bit |  |
+| 品名 | Ring:bit Car v2 专用超声波扩展模块 |  |
 | SKU | EF04089 |  |
-| Working Voltage | DC 3-5V |  |
-| Connections | 3pin GVS Connection ||
-| Output signal | Analog |  |
-| Measurement | 4~400cm |  |
-| Size | 40.60×51.60mm |  |
-| NW | 12g |  |
+| 工作电压 | DC 3-5V |  |
+| 接口 | 3pin GVS 接口 | 
+ |
+| 输出信号类型 | 模拟 |  |
+| 量程 | 4~400cm |  |
+| 尺寸 | 40.60×51.60mm |  |
+| 净重 | 12g |  |
 
-## Outlook and Dimensions
+## 外形与安装定位尺寸
 
 ![](./images/sonar_02.png)
 
----
-## Quick to Start
-
-### Hardware Connections
-
-Connect the acrylic transition board to the back board with the rivets.
+## 快速上手
+### 硬件连接
+首先使用铆钉将扩展亚克力连接到Ring:bit小车后板插口。
 
 ![](./images/sonar_03.png)
 
-Connect the Sonar:bit to the other side of the acrylic transition board with rivets.
+再将Sonar:bit使用铆钉连接到扩展亚克力板上方。
 
 ![](./images/sonar_04.png)
 
-Connect the Sonar:bit to the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) breakout board with a 3-pin wire.
+使用3pin连接线连接到 Ring:bit 扩展板，扩展完成。
 
 ![](./images/sonar_05.png)
 
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EFqFEwfLRyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Programming
-
-Preparation for Programming: [Info](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
-
-### Samples Code
-
+## 程序编写
+想必你应该已经准备好了编程环境，如果没有准备，可以参考这篇文章：[编程环境准备](https://www.yuque.com/elecfreaks-learn/picoed/gxro38)
+### 代码示例
 ```python
-# Import modules that we need
+# 导入程序所需要的模块
 import board
 from ringbit import *
 
-# Set the pins of both wheels
+# 设置Ring:bit左右轮子舵机的引脚
 ringbit = Ringbit(board.P1, board.P2)
 
-# Change the speed in accordance with the distances detected by the sonar:bit
+# 根据超声波传感器检测的距离改变小车速度
 while True:
     if ringbit.get_distance(board.P0, Unit.cm) > 20:
         ringbit.set_speed(100, 100)
@@ -76,20 +59,20 @@ while True:
         ringbit.set_speed(0, 0)
 
 ```
-### Details of the program
+### 代码详解
 
-1.Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) smart car operations.
+1. 导入程序所需要的模块：`board`模块是引脚名称的通用容器，可以通过`board`模块指定要使用的引脚，`ringbit`模块包含对Ring:bit智能车操作的类和函数。
 ```python
 import board
 from ringbit import *
 ```
 
-2.Set the pins of the servos
+2. 设置Ring:bit左右轮子两个舵机的引脚。
 ```python
 ringbit = Ringbit(board.P1, board.P2)
 ```
 
-3.While true, set the speed to be controlled by the distance value given by the sonar:bit
+3. 根据超声波传感器检测的距离更改小车的速度。
 ```python
 while True:
     if ringbit.get_distance(board.P0, Unit.cm) > 20:
@@ -97,14 +80,12 @@ while True:
     else:
         ringbit.set_speed(0, 0)
 ```
-## Result
-
-The Ring:bit car drives normally when there are no obstacles, stops when there are obstacles, and continues to drive when the obstacles leave.
+## 实验结果
+Ring:bit 小车在没有障碍物的时候正常行驶，有障碍物则停下，当障碍物离开继续行驶。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vqo8PnJyEkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Exploration
+## 思考
 
-## FAQ
-
-## Relevant Files
+## 常见问题
+## 相关阅读

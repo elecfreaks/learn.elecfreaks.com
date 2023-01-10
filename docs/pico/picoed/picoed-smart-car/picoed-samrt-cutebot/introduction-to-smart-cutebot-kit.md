@@ -1,74 +1,77 @@
-# Introduction to Pico:ed Smart Cutebot kit
-## Introduction
-ELECFREAKS [Pico:ed Smart Cutebot](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-smart-cutebot-kit-with-pico-ed-board?_pos=2&_sid=40bbc85e4&_ss=r)  is a rear-drive smart car driven by dual high speed motors.
-There are many on-board equipments on the Pico:ed Smart Cutebot including ultrasonic sensor, two RGB LED headlights, clearance lamps on thebo ttom, two line-tracking probes, an active buzzer as the horn and so on! Let's drive your first smart carELECFREAKS Pico:ed Smart Cutebot is a rear-drive smart car driven by dual high speed motors.
+# Pico:ed cutebot智能赛车套件
 
--  High-speed motors, the dual high-speed motors rear drive give powerful power.
--  Compact structure, the rounded shape and anti-collision edges give a comfortable feel.
-- Easy to assemble, only need to install battery pack and ultrasonic sound sensor which are convenient and quick to operate.
+## 简介
+ELECFREAKS Cutebot是一款带有双高速电机马达的后驱智能赛车。
 
-## Technical parameters
 
-| **Technical category** | **Parameters** |
+Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器，两颗RGBLED车大灯，两颗Rainbow LED车底示廓灯，两个车道辅助巡线探头，和更多智能配件！驱动你的第一个智能赛车吧。
+
+## 产品特性
+
+- 高速电机，采用双高速电机后置驱动，动力强劲。
+- 结构小巧，采用圆弧造型，边缘防撞，手感舒适。
+- 组装方便，只需安装电池组和超声波，方便快捷。
+## 技术参数
+| **技术类别** | **参数** |
 | --- | --- |
-| Support Voltage | 3.5V — 5V |
-| Dimensions | 85.68mm X 85.34mm X 38.10mm |
-| IR Remote Control | To receive the signals of IR, it connects to P16 |
-| RGB Headlight | 2 x RGB lights |
-| Rainbow LED | Connect to P15 |
-| Interfaces | Servo interface(S1,S2), IIC interface(P19,P20), ultrasonic interface, P1 and P2 (lead out by GVS terminal) |
-| Motor type | GA12-N20 miniature DC geared motor |
-| Ultrasonic Sound Sensor | HC-SR04(2-400cm non-contact distance sensing, accuracy 3mm) |
+| 支持电压 | 3.5V — 5V |
+| 尺寸 | 85.68mm X 85.34mm X 38.10mm |
+| 红外遥控 | 支持接收连接至P16口 |
+| RGB车头灯 | 2 x RGB控制 |
+| Rainbow LED | 2 x Rainbow LED控制连接至P15 |
+| 接口 | 舵机接口(S1,S2)、IIC接口(P19,P20)、超声波接口、P1、P2(以GVS端子引出) |
+| 电机类型 | GA12-N20微型直流齿轮减速电机 |
+| 超声波类型 | HC-SR04(2cm-400cm非接触式距离感测,精度3mm) |
 
-## Functional Modules Description
-The front of the car is equipped with ultrasonic interface and IIC interface
+## 功能模块描述
+小车正前方配备超声波接口和IIC接口
 
 ![](./images/pico-cutebot-01.png)
 
-The front left and right sides are equipped with two RGB full color LED lights, they are controlled by the expansion board.
+前方左右两边各配备两颗RGB全彩色LED车灯，通过扩展板控制。
 
-![](./images/pico-cutebot-02.png)
+![](./images/pico-cutebot-02png)
 
-Three AAA batteries holders are installed right above to drive the whole cart.
+正上方装有三颗AA电池电池盒扩展板，用来驱动整个小车。
 
 ![](./images/pico-cutebot-03.png)
 
-The battery pack expansion board is extended with both S1 and S2 servo interfaces and P1 and P2 IO interfaces.
+电池盒扩展板上同时扩展了S1、S2舵机接口和P1，P2 IO接口。
 
 ![](./images/pico-cutebot-04.png)
 
-The cart has an infrared receiver at the end (under the battery box) which is connected to the P16 interface.
+小车尾部带有红外线接收头（在电池盒下方），连接在P16接口。
 
 ![](./images/pico-cutebot-05.png)
 
-The cart is equipped with an IIC interface for AI Lens connection.
+小车配备可供AI摄像头连接的IIC接口
 
 ![](./images/pico-cutebot-06.png)
 
-Next to the infrared receiver at the rear is the car's main power switch, with an LED to indicate the switch status.
+尾部红外线接收头旁边为小车总电源开关，同时配有一颗LED灯指示开关状态。
 
 ![](./images/pico-cutebot-07.png)
 
-The left and right sides are two miniature high-speed DC gear motor-driven wheels, you enjoy the speed of flying!
+左右两边为两个微型高速直流齿轮减速电机驱动的车轮，享受飞驰一般的速度。
 
 ![](./images/pico-cutebot-08.png)
 
-There are two line trscking probes on the bottom of the cart for detecting black lines and edges, which are connected to P13 and P14 interfaces.
+小车底部前方有两个巡线头，用于检测黑线及边缘，连接到P13和P14接口。
 
 ![](./images/pico-cutebot-09.png)
 
-A metal universal wheel is assembled in front of the bottom of the cart, and the cart completes 360 degree omnidirectional driving with the speed difference between the left and right wheels.
+小车底部前方装配一个金属万向轮，小车用左右轮速度差的方式完成360度全方向行驶。
 
 ![](./images/pico-cutebot-10.png)
 
-Two Rainbow LED full-color light beads are installed on both sides on the bottom board, they are connected to the P15 port and can be used as the car's clearance lamps or other functions.
+底部两侧边安装了两颗Rainbow LED 全彩灯珠，连接到P15口，可以作为小车示廓灯或其他功能使用。
 
 
 
-## 1.6. Parts list
+## 1.6. 零件清单
 
 - 1 x Cutebot car
-- 1 x Battery box
-- 1 x HC-SR04 ultrasonic sound sensor
-- 1 x Line-following map
-- 1 x Manual book
+- 1 x 电池盒
+- 1 x HC-SR04超声波模块
+- 1 x 巡线地图
+- 1 x 产品手册

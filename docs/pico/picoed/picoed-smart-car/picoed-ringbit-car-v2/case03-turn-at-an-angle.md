@@ -1,88 +1,88 @@
-# Case 03: Turn at An Angle
+# Case 03:转弯画圆
+
 
 ![](./images/case03.png)
 
-## Introduction
----
-
-Hello, we've learnt how to run a shape in case 02, but how can we draw a circle with the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car? Let's start this case with the question. 
-
-## Hardware Connection
-
-Also with the same assembly steps with former practices, connect the left wheel servo to P1 of the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) board and the right wheel servo to P2.
+## 简介
+哈喽，上一节课我们让 Ring:bit 智能车跑出了一个形状，但是有时候我们需要画一个圆，而且需要将圆留在纸张或者地板上面，那么这节课我们实现让 Ring:bit 智能车顺时针画一个圈，那我们开始吧。  
+## 硬件连接
+ 发挥你灵动的小手，将 Ring:bit 扩展板的 P1 口连接左轮舵机，P2口连接右轮舵机。  
 
 ![](./images/case.png)
 
-Use a rubber band to fix a pencil on the base board of the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car.
+ 并且将铅笔绑定在 Ring:bit Car 的尾板上，相信你可以做到。  
 
 ![](./images/case0301.png)
 
-## Software Programming
-
----
-
-You should prepare the programming platform ready, if not, please can refer to this essay: [Preparation for programming](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
-
-### Sample Projects
-
+## 程序编写
+编程环境准备是必须要的，如果你还没有准备，可以参考这篇文章：[编程环境准备](https://www.yuque.com/elecfreaks-learn/picoed/gxro38)
+### 代码示例
 ```python
-# Import the modules that we need
+# 导入程序所需要的模块
 import board
 from ringbit import *
 from picoed import *
 
-# Set the pins of the servos
-ringbit = Ringbit(board.P2, board.P1)
+# 设置两个舵机连接的 Ring:bit 的引脚
+ringbit = Ringbit(board.P1, board.P2)
 
-# While true, detect if button A/B is pressed to make the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car drive the circle or stop. 
+# 首先绘制顶部和底部边缘
+for x in range(display.width):
+    display.pixel(x, 0, 50)
+    display.pixel(x, display.height - 1, 50)
+    
+# 现在绘制左右边缘
+for y in range(display.height):
+    display.pixel(0, y, 50)
+    display.pixel(display.width - 1, y, 50)
+
+# 循环检测是否按下A\B按键，让 Ring:bit 智能车画圆或者停下
 while True:
     if button_a.is_pressed():
-        ringbit.set_speed(-100, -50)
+        ringbit.set_speed(100, 50)
     elif button_b.is_pressed():
         ringbit.set_speed(0, 0)
 
 ```
+### 代码详解
 
-### Details of program:
+1. 导入程序所需要的模块：`board`模块是引脚名称的通用容器，可以通过`board`模块指定要使用的引脚，  `ringbit` 模块包含对 Ring:bit 智能车操作的类和函数，`picoed`模块包含对按键A\B的操作函数。
+```python
+import board
+from ringbit import *
+from picoed import *
+```
 
-1. Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) smart car operation;  `picoed` module contains the operation functions to button A/B. 
+2. 设置两个舵机所连接的 Ring:bit 引脚
+```python
+ringbit = Ringbit(board.P1, board.P2)
+```
 
-   ```python
-   import board
-   from ringbit import *
-   from picoed import *
-   ```
+3. 设置方形LED灯矩阵
+```python
+for x in range(display.width):
+    display.pixel(x, 0, 50)
+    display.pixel(x, display.height - 1, 50)
+for y in range(display.height):
+    display.pixel(0, y, 50)
+    display.pixel(display.width - 1, y, 50)
+```
 
-2. Set the pins of the servos.
-
-   ```python
-   ringbit = Ringbit(board.P2, board.P1)
-   ```
-
-3. While true, detect if button A/B is pressed to make the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car drive the circle or stop. 
-
-   ```python
-   while True:
-       if button_a.is_pressed():
-           ringbit.set_speed(-100, -50)
-       elif button_b.is_pressed():
-           ringbit.set_speed(0, 0)
-   ```
-
-   
-
-## Result
-
-On button A pressed, the car draws a circle.
-
-On button B pressed, stop the car.
+4. 循环检测是否按下A\B按键，让 Ring:bit 智能车画圆或者停下
+```python
+while True:
+    if button_a.is_pressed():
+        ringbit.set_speed(100, 50)
+    elif button_b.is_pressed():
+        ringbit.set_speed(0, 0)
+```
+## 实验结果
+按下按钮A，小车顺时针画了一个圈。
+按下按钮B，停车。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fEO9EPXERHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Exploration
-
-How can you make your car draw a figure of eight?
-
-## FAQ
-
-## Relevant Files
+## 思考
+让你的小车画一个8字，如何编程？
+## 常见问题
+## 相关阅读

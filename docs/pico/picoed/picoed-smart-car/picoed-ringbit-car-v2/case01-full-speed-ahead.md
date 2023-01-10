@@ -1,33 +1,28 @@
-# Case 01: Full Speed Ahead
+# Case 01:全速行驶
 
 ![](./images/case01.png)
 
-## Introduction
-
-Hello, we are going to code to drive the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car to do some interesting projects in this lesson, of course we will explain the knowledge from easy to deep, this lesson will implement the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car to complete the basic forward and backward actions, let's start. 
-
-## Hardware Connect
-
-Connect the left wheel servo to P1 of the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) expansion board and the right wheel servo to P2. You can also exchange the connections as long as you program with the equivlent connections in MakeCode, let's move on! 
+## 简介
+ 哈喽，接下来的课程中我们要使用代码编程驱动 Ring:bit 智能车做出一些有意思的动作，当然我们会由浅入深的讲解相关知识，本课程将实现 Ring:bit 智能车完成基本的前进后退动作，那我们开始吧。  
+## 硬件连接
+ 其实硬件连接很简单，只需要将 Ring:bit 扩展版的 P1 口连接左轮舵机，P2 口连接右轮舵机，当然也可以接口交换，只需要在编程的时候改成相应的端口就行，但是作为初学者，建议和我们保持一致，那么发挥你灵巧的小手将它们连接起来吧。  
 
 ![](./images/case.png)
 
-## Software Programming
-
-You should prepare the programming platform ready, if not, please can refer to this essay: [Preparation for programming](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
-
-### Sample Projects
-
+## 程序编写
+想必你应该已经准备好了编程环境，如果没有准备，可以参考这篇文章：[编程环境准备](https://www.yuque.com/elecfreaks-learn/picoed/gxro38)
+(只有先准备好编程环境才可以编写代码)
+### 代码示例
 ```python
-# Import the modules that we need
+# 导入程序所需要的模块
 import board
 from ringbit import *
 from picoed import *
 
-# Set the pins of the servos
+# 设置两个舵机所连接的ringbit引脚
 ringbit = Ringbit(board.P1, board.P2)
 
-# While ture, detect if button A/B is pressed to control the movement of the car
+# 循环检测是否按下A/B按键，控制ringbit智能车前进后退
 while True:
     if button_a.is_pressed():
         ringbit.set_speed(100, 100)
@@ -35,46 +30,35 @@ while True:
         ringbit.set_speed(-100, -100)
         
 ```
+### 代码详解
 
-### Details of program:
+1. 导入程序所需要的模块：`board`模块是引脚名称的通用容器，可以通过`board`模块指定要使用的引脚，  `ringbit`模块包含对 Ring:bit 智能车操作的类和函数，`picoed`模块包含对按键A\B的操作函数。
+```python
+import board
+from ringbit import *
+from picoed import *
+```
 
-1. Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) smart car operation and `picoed` module contains the operation functions to button A/B. 
+2. 设置两个舵机所连接的 Ring:bit 引脚。
+```python
+ringbit = Ringbit(board.P1, board.P2)
+```
 
-   ```python
-   import board
-   from ringbit import *
-   from picoed import *
-   ```
-
-2. Set the pins of the servos.
-
-   ```python
-   ringbit = Ringbit(board.P1, board.P2)
-   ```
-
-3. While ture, detect if button A/B is pressed to control the movement of the car.
-
-   ```python
-   while True:
-       if button_a.is_pressed():
-           ringbit.set_speed(100, 100)
-       elif button_b.is_pressed():
-           ringbit.set_speed(-100, -100)
-   ```
-
-   
-## Result
-
-Press button A to drive the car at its full speed;
-
-Press button B to reverse the car. 
+3. 循环检测是否按下A/B按键，控制 Ring:bit 智能车前进后退。
+```python
+while True:
+    if button_a.is_pressed():
+        ringbit.set_speed(100, 100)
+    elif button_b.is_pressed():
+        ringbit.set_speed(-100, -100)
+```
+## 实验结果
+当按钮A被按下时，小车全速前进。
+当按钮B被按下时，小车全速后退。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YRX2vkj1jmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Exploration
-
-How to program to stop the car by pressing both A/B at the same time?
-
-## FAQ
-
-## Relevant Files
+## 思考
+当同时按下A\B按键时，让小车停下，该如何编写程序呢？
+## 常见问题
+## 相关阅读

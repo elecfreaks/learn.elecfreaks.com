@@ -1,20 +1,20 @@
-# Case 02: Speed Up Gradually
+# Case 02：均匀加速
 
-## Introduction
-Control the [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-smart-cutebot-kit-with-pico-ed-board?_pos=2&_sid=40bbc85e4&_ss=r) to accelerate evenly until it reaches the maximum speed.
-##  Programming Preparation
-Please refer to: [Preparing the Programming Environment](http://www.elecfreaks.com/learn-en/pico-ed-kit/pico-ed-cutebot-kit/preparation-for-the-programming.html)
-## Sample code
+## 简介
+控制cutebot均匀加速，直到达到最高速度。
+## 准备编程环境
+准备编程环境请参考：[准备编程环境](https://www.yuque.com/elecfreaks-learn/picoed/gccnpl)
+## 示例代码
 ```python
 from cutebot import *
 from time import *
 
-#  Create a sample for Cutebot category
+# 创建Cutebot类的实例
 cutebot = Cutebot()
-#  Create the variable cutebot_speed to hold the speed value of the cutebot smart car
+# 创建变量cutebot_speed，用于保存cutebot智能赛车的速度值
 cutebot_speed = 0
 
-# Set the speed of the cutebot smart car to accelerate evenly from 0 to 100
+# 设置cutebot智能赛车的速度从0~100均匀加速
 while True:
     if cutebot_speed > 100:
         cutebot_speed = 100
@@ -22,25 +22,25 @@ while True:
     cutebot_speed = cutebot_speed + 1
     sleep(0.02)
 ```
-### Code details
+### 代码详解
 
-1.  Import the modules that we need:  `cutebot`module contains the classes and functions for Cutebot smart car operation, `time `module contains the functions for time operation.
+1. 导入程序所需要的模块：`cutebot`模块包含对Cutebot智能赛车操作的类和函数，`time`模块包含对时间操作的函数。
 ```python
 from cutebot import *
 from time import *
 ```
 
-2.  Create a sample for Cutebot category
+2. 创建Cutebot类的实例。
 ```python
 cutebot = Cutebot()
 ```
 
-3.  Create the variable cutebot_speed to hold the speed value of the cutebot.
+3. 创建变量cutebot_speed，用于保存cutebot智能赛车的速度值。
 ```python
 cutebot_speed = 0
 ```
 
-4.  Set the speed of the cutebot to accelerate evenly from 0 to 100.
+4. 设置cutebot智能赛车的速度从0~100均匀加速。
 ```python
 while True:
     if cutebot_speed > 100:
@@ -49,7 +49,7 @@ while True:
         cutebot_speed = cutebot_speed + 1
     sleep(0.02)
 ```
-## Results
-After turning on the power, the speed of cutebot accelerates evenly from 0~100.
-## Exploration
-How to make the car accelerate evenly and then decelerate evenly?
+## 实验结果
+开启电源后，cutebot智能赛车的速度从0~100均匀加速。
+## 思考
+如何让小车均匀加速后再均匀减速？

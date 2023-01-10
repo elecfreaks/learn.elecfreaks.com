@@ -1,33 +1,29 @@
-# Case06 Reverse Stall Parking
+# Case 06:倒车入库
+
 
 ![](./images/case06.png)
 
-## Introduction
-
- Hello, we have programmed the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car to do a lot of things, we can also make it automatically drive to the parking lot. In this lesson, we will program to reverse the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car into the garage, let's start.
-
-## Hardware Connection
-Connect the left wheel servo to P1 of the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) expansion board and the right wheel servo to P2.
+## 简介
+哈喽，我们通过编程让 Ring:bit 智能车做出了很多的事情，那我们同样也可以让它实现自动的开到停车位停车。所以，这节课我们来实现 Ring:bit 智能车倒车入库的动作，那我们开始吧。  
+## 硬件连接
+将Ring:bit 套件拿出来，发挥你们灵动的小手将 Ring:bit 扩展版的P1口连接左轮舵机，P2口连接右轮舵机。  
 
 ![](./images/case.png)
 
-## Software Programming
-
-You should prepare the programming platform ready, if not, please can refer to this essay:[Preparation for programming](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
-
-### Sample Projects
-
+## 程序编写
+编程环境准备是必须要的，如果你还没有准备，可以参考这篇文章：[编程环境准备](https://www.yuque.com/elecfreaks-learn/picoed/gxro38)
+### 代码示例
 ```python
-# Import the modules that we need
+# 导入程序所需要的模块
 import board
 from ringbit import *
 from picoed import *
 from time import *
 
-# Set the pins of the servos
-ringbit = Ringbit(board.P2, board.P1)
+# 设置Ring:bit智能车的左右轮子的引脚
+ringbit = Ringbit(board.P1, board.P2)
 
-# While true, set to change the speed of both wheels by pressing button A/B on pico:ed
+# 设置按下 Pico:ed 的A/B按键更改 Ring:bit 智能车的左右轮子的速度
 while True:
     if button_a.is_pressed():
         ringbit.set_speed(-100, -60)
@@ -38,48 +34,40 @@ while True:
         sleep(3)
         ringbit.set_speed(0, 0)
 ```
-### Details of program:
+### 代码详解
 
-1.Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) smart car operation and the `random` module contains functions to generate random numbers.
+1. 导入程序所需要的模块：`board`模块是引脚名称的通用容器，可以通过`board`模块指定要使用的引脚，`ringbit`模块包含对Ring:bit智能车操作的类和函数，`random`模块包含产生随机数的函数。
+```python
+import board
+from ringbit import *
+from picoed import *
+from time import *
+```
 
-   ```python
-   import board
-   from ringbit import *
-   from picoed import *
-   from time import *
-   ```
+2. 设置Ring:bit智能车的左右轮子的引脚
+```python
+ringbit = Ringbit(board.P1, board.P2)
+```
 
-2.Set the pins of the servos.
+3. 设置按下 Pico:ed 的A/B按键更改 Ring:bit 智能车的左右轮子的速度
+```python
+while True:
+    if button_a.is_pressed():
+        ringbit.set_speed(-100, -60)
+        sleep(3)
+        ringbit.set_speed(0, 0)
+    elif button_b.is_pressed():
+        ringbit.set_speed(100, 60)
+        sleep(3)
+        ringbit.set_speed(0, 0)while True:
 
-   ```python
-   ringbit = Ringbit(board.P2, board.P1)
-   ```
-
-3.Set to change the speed of both wheels by pressing button A/B on pico:ed.
-
-   ```python
-   while True:
-       if button_a.is_pressed():
-           ringbit.set_speed(-100, -60)
-           sleep(3)
-           ringbit.set_speed(0, 0)
-       elif button_b.is_pressed():
-           ringbit.set_speed(100, 60)
-           sleep(3)
-           ringbit.set_speed(0, 0)while True:
-   ```
-
-   
-
-## Result
-
-Achieve the functions of reversing stall parking and driving away by pressing buttons A/B on Pico:ed. 
+```
+## 效果展示
+按下 Pico:ed 的A/B按键，Ring:bit智能车实现倒车入库和开出车库的效果。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/47CdNDNtrmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Exploration
-How can make the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car move forward and then reverse stall parking?
-
-## FAQ
-
-## Relevant Files
+## 思考
+能否实现先让Ring:bit智能车直线行走一段距离后再进行倒车入库呢？尝试做出来和大家分享！
+## 常见问题
+## 相关阅读

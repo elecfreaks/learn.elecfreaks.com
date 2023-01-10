@@ -1,71 +1,64 @@
-# Case 05: Crazy Dance
+# Case 05:疯狂舞蹈
+
 
 ![](./images/case05.png)
 
-## Introduction
+## 简介
+哈喽，经过四节课程的学习，我们应该认识到 Ring:bit 智能车功能强大，能做出非常多的事情，那么这节课我们来做一个比较简单的事情，就是让 Ring:bit 智能车“跳舞”，那么这节课我们将让 Ring:bit 智能车随心起舞，那我们开始吧。  
+## 硬件连接
+将Ring:bit 套件拿出来，发挥你们灵动的小手将 Ring:bit 扩展版的P1口连接左轮舵机，P2口连接右轮舵机。  
 
-Hello, the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car is a powerful kit that can do a lot of things after the 4 former cases, here we will do a relatively simple thing, which is to make a dance car. 
+![](./images/case.png)
 
-## Hardware Connection
-
-Connect the left wheel servo to P1 of the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) expansion board and the right wheel servo to P2.
-
-## Software Programming
-
----
-
-You should prepare the programming platform ready, if not, please can refer to this essay: [Preparation for programming](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
-
-### Sample Projects
-
+## 程序编写
+编程环境准备是必须要的，如果你还没有准备，可以参考这篇文章：[编程环境准备](https://www.yuque.com/elecfreaks-learn/picoed/gxro38)
+### 代码示例
 ```python
-# Import the modules that we need
+# 导入程序所需要的模块
 import board
 from random import *
 from ringbit import *
+from time import *
 
-# Set the pins of the servos
-ringbit = Ringbit(board.P2, board.P1)
+# 设置Ring:bit智能车的左右轮子的引脚
+ringbit = Ringbit(board.P1, board.P2)
 
-# Set the speed value of the both wheels as the random value among (-100， 100)
+# 设置Ring:bit智能车的左右轮子的速度为（-100， 100）之间的随机值
 while True:
     left_wheel = randint(-100, 100)
     right_wheel = randint(-100, 100)
     ringbit.set_speed(left_wheel, right_wheel)
+    sleep(0.5)
 ```
+### 代码详解
 
-### Details of program:
-
-1.Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) smart car operation and the `random` module contains functions to generate random numbers.
-
+1. 导入程序所需要的模块：`board`模块是引脚名称的通用容器，可以通过`board`模块指定要使用的引脚，`ringbit`模块包含对Ring:bit智能车操作的类和函数，`random`模块包含产生随机数的函数。
 ```python
 import board
 from random import *
 from ringbit import *
+from time import *
 ```
 
-2.Set the pins of the servos
+2. 设置Ring:bit智能车的左右轮子的引脚
 ```python
-ringbit = Ringbit(board.P2, board.P1)
+ringbit = Ringbit(board.P1, board.P2)
 ```
 
-3.Set the speed value of the both wheels as the random value among (-100， 100)
+3. 设置Ring:bit智能车的左右轮子的速度为（-100， 100）之间的随机值
 ```python
 while True:
     left_wheel = randint(-100, 100)
     right_wheel = randint(-100, 100)
     ringbit.set_speed(left_wheel, right_wheel)
+    sleep(0.5)
 ```
-## Result
-
-The car runs at different speed.
+## 实验结果
+上电之后，小车开始随机前后左右不同速度行驶。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-gWBk3IHrqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Exploration
-
-Design a set of the actions for [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car with your ideas. 
-
-## FAQ
-
-## Relevant Files
+## 思考
+选择你喜欢的舞蹈，根据舞蹈动作设计一套 Ring:bit 智能车的动作
+## 常见问题
+## 相关阅读

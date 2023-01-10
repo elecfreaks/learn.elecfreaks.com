@@ -1,80 +1,64 @@
-# Case 02: Make A Shape
+# Case 02:跑出一个形状
 
 ![](./images/case02.png)
 
-## Introduction
----
-
-Hi, after the learn of the first lesson, I am sure you understand the programming for [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car in a quite simple way, let's move on by making the car run along with a shape. 
-
-## Hardware Connection
-
-Just as what we do in the first lesson, connect the left wheel servo to P1 of the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) expansion board and the right wheel servo to P2.
+## 简介
+ 哈喽，经过上一节课的学习，我想你也体会到了 Ring:bit 智能车使用非常简单，那么我们再接再励，这节课程让  Ring:bit 智能车沿着类似五边形的路线行驶，那我们开始吧。  
+## 硬件连接
+ 和上节课一样，发挥你灵巧的小手，将 Ring:bit 扩展版的 P1口 连接左轮舵机，P2 口连接右轮舵机。  
 
 ![](./images/case.png)
 
-## Software Programming
----
-
-You should prepare the programming platform ready, if not, please can refer to this essay: [Preparation for programming](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
-
-### Sample Projects
-
+## 程序编写
+编程环境的准备是必须要的，如果你还没有准备好，请参考这篇文章：[编程环境准备](https://www.yuque.com/elecfreaks-learn/picoed/gxro38)
+### 代码示例
 ```python
-# Import the modules that we need
+# 导入程序所需要的模块
 import board
 from ringbit import *
 from picoed import *
 from time import *
 
-# Set the pins of the servos
-ringbit = Ringbit(board.P2, board.P1)
+# 设置两个舵机连接 Ring:bit 引脚
+ringbit = Ringbit(board.P1, board.P2)
 
-# While true, set the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car run along with a square-like routine
+# 设置 Ring:bit 智能车沿着类似正方形的路线行驶
 while True:
-    ringbit.set_speed(-100, -100)
+    ringbit.set_speed(100, 100)
     sleep(1.5)
-    ringbit.set_speed(-50, 0)
+    ringbit.set_speed(50, 0)
     sleep(1.2)
 ```
-### Details of program:
+### 代码详解
 
-1. Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) smart car operation;  `picoed` module contains the operation functions to button A/B and `time` module contains the operation functions to time. 
+1. 导入程序所需要的模块：`board`模块是引脚名称的通用容器，可以通过`board`模块指定要使用的引脚，ringbit模块包含对Ring:bit智能车操作的类和函数，`picoed`模块包含对按键A\B的操作函数，`time`模块包含对时间操作的函数。
+```python
+import board
+from ringbit import *
+from picoed import *
+from time import *
+```
 
-   ```python
-   import board
-   from ringbit import *
-   from picoed import *
-   from time import *
-   ```
+2. 设置两个舵机所连接的ringbit引脚
+```python
+ringbit = Ringbit(board.P1, board.P2)
+```
 
-2. Set the pins of the servos.
-
-   ```python
-   ringbit = Ringbit(board.P2, board.P1)
-   ```
-
-3. Set the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car run along with a square-like routine.
-
-   ```python
-   while True:
-       ringbit.set_speed(-100, -100)
-       sleep(1.5)
-       ringbit.set_speed(-50, 0)
-       sleep(1.2)
-   ```
-
-   
-## Result
-
-The car runs along with a square-like routine. 
+3. 设置Ring:bit智能车沿着类似正方形的路线行驶
+```python
+while True:
+    ringbit.set_speed(100, 100)
+    sleep(1.5)
+    ringbit.set_speed(50, 0)
+    sleep(1.2)
+```
+## 实验结果
+Ring:bit智能车行驶的路线类似五边形。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/htsOxCZe_Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Exploration
-
-If we want the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car to travel with a square pentagon routine, how can we program it?
-
-## FAQ
-
-## Relevant Files
+## 思考
+如果想让Ring:bit智能车行驶路线类似正四边形，该如何编程呢？
+## 常见问题
+如果你的 Ring:bit 智能车行驶路线没有类似正五边形，可以适当调节小车行驶时间和转弯时间。
+## 相关阅读

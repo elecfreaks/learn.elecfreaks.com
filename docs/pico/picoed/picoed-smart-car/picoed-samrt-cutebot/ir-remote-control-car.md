@@ -1,32 +1,31 @@
-# Case 08: IR Remote Control Car
+# Case 08：红外遥控小车
 
-## Introduction
-Control [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-smart-cutebot-kit-with-pico-ed-board?_pos=2&_sid=40bbc85e4&_ss=r)  to drive by remote control.
-## Programming Preparation
-Please refer to：[Preparing Programming Environment](http://www.elecfreaks.com/learn-en/pico-ed-kit/pico-ed-cutebot-kit/preparation-for-the-programming.html)
-##  Infrared remote control key value table
-
-| key | return value | key | return value | key | return value |
+## 简介
+通过遥控器控制小车行驶。
+## 准备编程环境
+准备编程环境请参考：[准备编程环境](https://www.yuque.com/elecfreaks-learn/picoed/gccnpl)
+## 红外遥控键值表
+| 按键 | 返回值 | 按键 | 返回值 | 按键 | 返回值 |
 | --- | --- | --- | --- | --- | --- |
-| Power | 11 |||||
+| 电源 | 11 | 
  | 
  | MENU | 12 |
-| + | 13 | UP | 14 | Return | 15 |
-| Left| 16 | OK | 17 |Right| 18 |
-| - | 19 | Down | 20 | 0 | 0 |
+| + | 13 | 上 | 14 | 返回 | 15 |
+| 左 | 16 | OK | 17 | 右 | 18 |
+| - | 19 | 下 | 20 | 0 | 0 |
 | 1 | 1 | 2 | 2 | 3 | 3 |
 | 4 | 4 | 5 | 5 | 6 | 6 |
 | 7 | 7 | 8 | 8 | 9 | 9 |
 
-## Sample code
+## 示例代码
 ```python
 from cutebot import *
 
-# Create a sample for Cutebot category
+# 创建Cutebot类的实例
 cutebot = Cutebot()    
 
-# While true, keep detecting the values received by the IR receiver
-# Control the route of the Cutebot based on the received value
+# 循环检测cutebot智能赛车的红外接收器接收到的值
+# 根据接收到的值控制cutebot智能赛车的行驶路线
 while True:
     Ir = cutebot.get_ir_value()
     if Ir == 14:
@@ -40,19 +39,19 @@ while True:
     if Ir == 20:
         cutebot.set_speed(-50, -50)
 ```
-###  Code details
+### 代码详解
 
-1. Import the modules that we need for the program: `cutebot ` module contains the classes and functions that operate on the Cutebot smart car.
+1. 导入程序所需要的模块：`cutebot`模块包含对Cutebot智能赛车操作的类和函数。
 ```python
 from cutebot import *
 ```
 
-2. Create a sample for Cutebot category.
+2. 创建Cutebot类的实例。
 ```python
 cutebot = Cutebot()
 ```
 
-3. While true, keep detecting the values received by the IR receiver.Control the route of the Cutebot based on the received value.
+3. 循环检测cutebot智能赛车的红外接收器接收到的值，根据接收到的值控制cutebot智能赛车行驶。
 ```python
 while True:
     Ir = cutebot.get_ir_value()
@@ -67,7 +66,7 @@ while True:
     if Ir == 20:
         cutebot.set_speed(-50, -50)
 ```
-## Results
-After turning on the power, the Cutebot is controlled by IR remote control to drive.
-## Exploration
-Is it possible to control more functions of the Cutebot by IR remote control?
+## 实验结果
+开启电源后，通过红外遥控器控制cutebot智能赛车行驶。
+## 思考
+可以通过红外遥控控制cutebot智能赛车的更多功能吗？

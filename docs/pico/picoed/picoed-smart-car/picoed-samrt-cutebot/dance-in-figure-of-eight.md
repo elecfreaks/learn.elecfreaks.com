@@ -1,38 +1,38 @@
-# Case 03: Dance in Figure-of-eight
+# Case 03：8字舞蹈
 
-## Introduction
-Make [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-smart-cutebot-kit-with-pico-ed-board?_pos=2&_sid=40bbc85e4&_ss=r) travel along a figure-of-8 track.
-## Programming Preparation
-Please refer to: [Preparation for the Programming](http://www.elecfreaks.com/learn-en/pico-ed-kit/pico-ed-cutebot-kit/preparation-for-the-programming.html)
-##  Sample code :
+## 简介
+让Cutebot智能赛车沿着8字轨迹行驶。
+## 准备编程环境
+准备编程环境请参考：[准备编程环境](https://www.yuque.com/elecfreaks-learn/picoed/gccnpl)
+## 示例代码
 ```python
 from cutebot import *
 from time import *
 
-# Create a sample for Cutebot category
+# 创建Cutebot类的实例
 cutebot = Cutebot()
 
-# Turnning by adjusting the different speed of the left and right wheels of the cutebot. 
+# 通过控制cutebot智能赛车的左右轮的速度差来完成转向
 while True:
     cutebot.set_speed(100,50)
     sleep(2)
     cutebot.set_speed(50,100)
     sleep(2)
 ```
-### Code details
+### 代码详解
 
-1. Import the modules that we need: `cutebot `module contains classes and functions for Cutebot smart car operations, and `time ` module contains functions for time operations.
+1. 导入程序所需要的模块：`cutebot`模块包含对Cutebot智能赛车操作的类和函数，`time`模块包含对时间操作的函数。
 ```python
 from cutebot import *
 from time import *
 ```
 
-2.  Create a sample for Cutebot category
+2. 创建Cutebot类的实例。
 ```python
 cutebot = Cutebot()
 ```
 
-3. Directions turning is done by controlling the speed difference between the left and right wheels of the cutebot smart car.
+3. 通过控制cutebot智能赛车的左右轮的速度差来完成转向。
 ```python
 while True:
     cutebot.set_speed(100,50)
@@ -40,7 +40,7 @@ while True:
     cutebot.set_speed(50,100)
     sleep(2)
 ```
-## Results
-After turning on the power, the cutebot smart car travels in a figure of 8 trajectory.
-## Exploration
-How should I program the car if I want it to travel in a square trajectory?
+## 实验结果
+开启电源后，cutebot智能赛车以8字形的轨迹行驶。
+## 思考
+如果想要让小车以一个正方形轨迹行驶，应该如何编程？

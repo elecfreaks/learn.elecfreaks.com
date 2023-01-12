@@ -27,10 +27,14 @@ Link: [https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-agricultu
 
 ![](./images/microbit-Smart-Agriculture-Kit-case-01-02.png)
 
-Smart Agricultural Carton Model
+[Smart Agricultural Carton Model
+](https://shop.elecfreaks.com/products/elecfreaks-smart-agriculture-carton-model?_pos=1&_psq=carton&_ss=e&_v=1.0)
 
 
 ![](./images/microbit-Smart-Agriculture-Kit-13-02.png)
+
+Note: This cardboard model is not sent with the kit, please buy it as standalones here: [Smart Agricultural Carton Model
+](https://shop.elecfreaks.com/products/elecfreaks-smart-agriculture-carton-model?_pos=1&_psq=carton&_ss=e&_v=1.0)
 
 Double-sided tapes: Fix the sensors and the postion of the models.
 

@@ -1,62 +1,76 @@
 ---
 sidebar_position: 6
 ---
-# 如何适配HiveMQ平台
+# 如何适配 HiveMQ 平台
 
-HiveMQ 是一个 MQTT 代理和基于客户端的消息传递平台，旨在快速、高效和可靠地将数据移入和移出连接的物联网设备。
+**HiveMQ** 是一个 MQTT 代理和基于客户端的消息传递平台，旨在快速、高效和可靠地将数据移入和移出连接的物联网设备。
 
-平台链接：[https://www.hivemq.com/](https://www.hivemq.com/)
+**HiveMQ 平台链接：[https://www.hivemq.com/](https://www.hivemq.com/).**
 
-## 平台账号注册
+## HiveMQ 平台账号注册
 
-进入HiveMQ官网，点击在右上角的菜单栏上的Cloud
+进入**HiveMQ官网**，点击在右上角的菜单栏上的 **Cloud**。
 
 ![](./images/IOT_HiveMQ_01.png)
 
-在弹出页面点击选择sign up now
+在弹出页面点击选择 **Try out for free**。
 
 ![](./images/IOT_HiveMQ_02.png)
 
-在弹出页面点击选择sign，输入注册信息（邮箱、密码）,然后点击SIGN UP.
+在弹出页面点击选择 **sign**，输入注册信息（邮箱、密码）,然后点击 **SIGN UP**.
 
 ![](./images/IOT_HiveMQ_03.png)
+
 这里需要注意密码输入要求
 
 ![](./images/IOT_HiveMQ_04.png)
+
 然后根据平台注册引导注册账号。
 
-## 平台使用操作指南
+## HiveMQ 平台使用操作指南
 
 注册成功后，输入网址：https://www.hivemq.com/mqtt-cloud-broker/
-在弹出页面点击选择sign up now
+在弹出页面点击选择 **sign up now**
 
 ![](./images/IOT_HiveMQ_02.png)
 
-输入你注册的邮箱以及密码，点击LOG IN登录.
+输入你注册的邮箱以及密码，点击 **LOG IN** 登录.
 
 ![](./images/IOT_HiveMQ_05.png)
 
-点击左下角CREATE CLUSTER.
+点击右下角 **MANAGE CLUSTER**.
 
 ![](./images/IOT_HiveMQ_06.png)
 
-选择Azure，并点击CREATE CLUSTER。
+出现默认页面是展示 **OVERVIEW** 页面，其中在 Connection Settings 下面显示的 Cluster URL、Port 以及 Websocker Port 信息是编程中需要配置的内容，后面将用到，可以先记住这个信息所在的位置。
 
 ![](./images/IOT_HiveMQ_07.png)
 
-点击MANAGE CLUSTER
+点击 **ACCESS MANAGEMENT**，设置Username，Password并记住，点击ADD。（添加用户账号），添加用户名和密码后，会在右侧显示。
 
 ![](./images/IOT_HiveMQ_08.png)
 
-点击Access Management，设置Username，Passwoed，并点击ADD。（添加用户账号）
-
 ![](./images/IOT_HiveMQ_09.png)
 
-添加成功，请记住这个Username，以及Password，这个信息将在makecode端设置MQTT配置的使用。
+添加成功，请记住这个Username，以及Password，这个信息将在makecode端设置 MQTT 配置的使用。
 
 ![](./images/IOT_HiveMQ_10.png)
 
 
+
+点击 CONNECT CLIENT ，然后会显示连接成功。
+
+![](./images/IOT_HiveMQ_10_1.png)
+
+![](./images/IOT_HiveMQ_10_2.png)
+
+添加订阅主题，主题名：testtopic/1 会在后面编程时用到，已订阅的主题会显示在订阅列表里面。
+
+![](./images/IOT_HiveMQ_10_3.png)
+
+
+
+![](./images/IOT_HiveMQ_10_4.png)
 
 
 
@@ -64,9 +78,11 @@ HiveMQ 是一个 MQTT 代理和基于客户端的消息传递平台，旨在快�
 
 **注意：**请务必使用IOT:bit上的USB接口进行供电，否则wifi模块不供电。
 
+## makecode 平台编程实践
+
 打开makecode编程平台：[https://makecode.microbit.org/#editor](https://makecode.microbit.org/#editor)
 
-点击“Advanced”，然后选择“Extensions”。
+点击“Extensions”。
 
 ![](./images/IOT_HiveMQ_11.png)
 
@@ -80,40 +96,21 @@ HiveMQ 是一个 MQTT 代理和基于客户端的消息传递平台，旨在快�
 
 在当开机时初始化ESP8266，并输入wifi名称和wifi密码连接至wifi。
 
+![](./images/IOT_HiveMQ_14_1.png)
+
+
+
 ![](./images/IOT_HiveMQ_14.png)
 
 然后设置MQTT配置，scheme选择为TLS，自定义clientID，username为HiveMQ上添加的username，password为HiveMQ上设置的password。
 
 ![](./images/IOT_HiveMQ_15.png)
+
 点击Overview，将HiveMQ上的Host和port复制到makecode中。
 
 ![](./images/IOT_HiveMQ_16.png)
 
-点击Getting started，选择HiveMQ Websocket Client。
-
-![](./images/IOT_HiveMQ_17.png)
-
-在跳转页面点击step1中的here。
-
-![](./images/IOT_HiveMQ_18.png)
-
-在跳转页面中输入User和Password，再点击Connect连接至MQTT集群。
-
-![](./images/IOT_HiveMQ_19.png)
-
-连接成功后会右上角会出现connected。
-
-然后点击Subscriptions下的Add New Topic Subscription，添加订阅信息。
-
-![](./images/IOT_HiveMQ_20.png)
-
-在弹出页面点击Subscribe。
-
-![](./images/IOT_HiveMQ_21.png)
-
-订阅信息完成后，在makecode 端即可发送信息到平台。
-
-积木块中"hello"为将要发送的信息，可自行更改，积木块中的Topic:"testtopic/1"为平台上预设的Topic，将#改成任意数字即可。
+接下来我们测试将消息"hello"发送到 HiveMQ 平台。
 
 ![](./images/IOT_HiveMQ_22.png)
 
@@ -134,7 +131,7 @@ HiveMQ 是一个 MQTT 代理和基于客户端的消息传递平台，旨在快�
 
 ![](./images/IOT_HiveMQ_26.png)
 
-完整程序链接：[https://makecode.microbit.org/_2Ys7uE8F7Dr8](https://makecode.microbit.org/_2Ys7uE8F7Dr8)
+完整程序链接：[https://makecode.microbit.org/_6kgWfF8Tkgbp](https://makecode.microbit.org/_6kgWfF8Tkgbp)
 
 
 ## FAQ

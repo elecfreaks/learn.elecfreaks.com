@@ -1,150 +1,140 @@
-# How to Apply with HiveMQ
+---
+sidebar_position: 6
+---
+# How to Adapt to the HiveMQ Platform
 
-HiveMQ is an MQTT broker and client-based messaging platform designed to move data in and out of connected IoT devices quickly, efficiently and reliably.
+**HiveMQ** is an MQTT broker and client-based messaging platform designed to move data to and from connected IoT devices quickly, efficiently and reliably.
 
-Website: [https://www.hivemq.com/](https://www.hivemq.com/)
+**HiveMQ link: [https://www.hivemq.com/](https://www.hivemq.com/).**
 
-## Required materials
+## HiveMQ  Account Registration
 
-
- 1 x [IOT:kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-science-iot-kit-without-micro-bit-board?_pos=1&_sid=2513e1df0&_ss=r)
-
-## Register
-
-Click the "Cloud" button on the page.
+Go to the **HiveMQ website**, and click on **Cloud** on the menu bar in the upper right corner.
 
 ![](./images/IOT_HiveMQ_01.png)
 
-Click "Sign up now".
+Click on the pop-up page to select **Try out for free**.
 
 ![](./images/IOT_HiveMQ_02.png)
 
- Choose "Sign Up" to register your info(email, passwords).
+Click on the pop-up page to select **sign**,  enter your registration information (email, password), and then click **SIGN UP**.
 
 ![](./images/IOT_HiveMQ_03.png)
 
-Requirements of the passwords.
+Here you need to pay attention to the password input requirements
 
 ![](./images/IOT_HiveMQ_04.png)
 
-Following the guide to complete the registration.
+Then follow the platform registration guide to register your account.
 
-## Operation Guide
+## HiveMQ Operation Guide
 
-After registration, go to: https://www.hivemq.com/mqtt-cloud-broker/
-Choose "Sigh up now".
+After successful registration, enter the URL: https://www.hivemq.com/mqtt-cloud-broker/
+Click on the pop-up page to select **sign up now**
 
 ![](./images/IOT_HiveMQ_02.png)
 
-Log in with your email and password.
+Enter your registered email address and password and click **LOG IN** .
 
 ![](./images/IOT_HiveMQ_05.png)
 
-Click "CREATE CLUSTER".
+Click on the bottom right corner **MANAGE CLUSTER**.
 
 ![](./images/IOT_HiveMQ_06.png)
 
-Choose "Azure" and click "CREATE CLUSTER".
+The default page appears to show **OVERVIEW** page, the Cluster URL, Port, and Websocker Port information shown under Connection Settings are required for programming and will be used later, so remember where this information is located first.
 
 ![](./images/IOT_HiveMQ_07.png)
 
-Click "MANAGE CLUSTER".
+Click **ACCESS MANAGEMENT**, set Username, password and remember, click ADD. (Add user account), after adding username and password, it will be displayed on the right side.
 
 ![](./images/IOT_HiveMQ_08.png)
 
-Click "Access Management",  set the "Username" and "Password", then click "ADD". （Add the user's account）
-
 ![](./images/IOT_HiveMQ_09.png)
 
-Completed! Please remember the user name and the password, this info would be required on the settings of the MQTT in MakeCode.
+Add successfully, please remember this Username, and Password, this information will be used to set up the MQTT configuration on the makecode side.
 
 ![](./images/IOT_HiveMQ_10.png)
 
+Click CONNECT CLIENT, then it will show that the connection is successful.
+
+![](./images/IOT_HiveMQ_10_1.png)
+
+![](./images/IOT_HiveMQ_10_2.png)
+
+Add a subscription topic, the topic name: testtopic/1 will be used later in the programming, the subscribed topics will be displayed in the subscription list.
+
+![](./images/IOT_HiveMQ_10_3.png)
 
 
 
+![](./images/IOT_HiveMQ_10_4.png)
 
-For hardware connections, please refer to our wiki: [https://www.elecfreaks.com/learn-en/microbitKit/iot_kit/iot_bit.html](https://www.elecfreaks.com/learn-en/microbitKit/iot_kit/iot_bit.html)
 
-**Attention:** Please use the USB port on the IoT:bit for power supply, or the Wifi module would not get powered.
 
-Go to MakeCode: [https://makecode.microbit.org/#editor](https://makecode.microbit.org/#editor)
+Please refer to the wiki for the hardware connection section: [https://www.elecfreaks.com/learn-en/microbitKit/iot_kit/iot_bit.html](https://www.elecfreaks.com/learn-en/microbitKit/iot_kit/iot_bit.html)
 
-Click "Advanced" in the MakeCode drawer to see more choices, and then click "Extensions".
+**Note: **Be sure to use the USB port on the IOT:bit for power, otherwise the wifi module is not powered.
+
+## Makecode Programming Practice
+
+Open makecode: [https://makecode.microbit.org/#editor](https://makecode.microbit.org/#editor)
+
+Click "Extensions".
 
 ![](./images/IOT_HiveMQ_11.png)
 
-Search with "iot-environment-kit" to add the extension.
+Then type "iot-environment-kit" in the search field of the pop-up screen and click Search, and add the software extensions library.
 
 ![](./images/IOT_HiveMQ_12.png)
 
-Choose "ESP8266_IoT".
+Click "ESP8266_IoT" after it is successfully added.
 
 ![](./images/IOT_HiveMQ_13.png)
 
-In the on start block, initialize esp8266 and enter with the name and password of the wifi for connecting.
+Initialize ESP8266 when power on and enter the wifi name and wifi password to connect to the wifi.
+
+![](./images/IOT_HiveMQ_14_1.png)
+
+
 
 ![](./images/IOT_HiveMQ_14.png)
 
- Set the applications of MQTT, set "scheme" as "TSL", self-define "clientID", add the user name and password with the one on HiveMQ.
+Then set the MQTT configuration with scheme selected as TLS, custom clientID, username as the username added on HiveMQ, and password as the password set on HiveMQ.
 
 ![](./images/IOT_HiveMQ_15.png)
 
-Click "Overview" and copy the "Host" and "port" to MakeCode.
+Click Overview, copy the Host and port on HiveMQ in makecode. Click Overview to copy the Host and port on HiveMQ to makecode.
 
 ![](./images/IOT_HiveMQ_16.png)
 
-Click "Getting started",  choose "HiveMQ Websocket Client".
-
-![](./images/IOT_HiveMQ_17.png)
-
-In the jumping page, click "here" on step 1.
-
-![](./images/IOT_HiveMQ_18.png)
-
-In the jumping page, enter with the User and Password, then click "Connect" to get in touch with MQTT .
-
-![](./images/IOT_HiveMQ_19.png)
-
-A notice of "connected" labled in green occurs if the connection is made successfully.
-
-Click "Add New Topic Subscription" .
-
-![](./images/IOT_HiveMQ_20.png)
-
-Choose "Subscribe".
-
-![](./images/IOT_HiveMQ_21.png)
-
-If completed, it is ok to send messages from MakeCode.
-
-The "hello" in the block is the message we are going to send, you can set it by yourself. And the topic block: "testtopic/1" is the pre-settings on the platform, you can replace "#" with any number.
+Next, we test sending the message "hello" to the HiveMQ platform.
 
 ![](./images/IOT_HiveMQ_22.png)
 
-Following the former steps, press the button A on micro:bit to send "hello" to the platform.
+Following the above procedure, press button A on the micro:bit to send "hello" to the platform.
 
 ![](./images/IOT_HiveMQ_23.png)
 
-Absolutely, we can send data from the platform to local part, set the topic as "testtopic/2", and enter the messages  on "Message", then click "Publish" to send.
-And make sure to keep the topic in the blocks the same.
+Of course, we can also send data from the platform to local, set the Topic on the platform as: testtopic/2, enter the message you want to send to local in Message, and then click Publish to send to local.
+Similarly the local receiving program blocks should keep the same Topic in the block.
 
 ![](./images/IOT_HiveMQ_24.png)
 
-Send the number "2" from the platform and display it on the micro:bit.
+The number 2 is sent locally from the platform and is displayed via an LED matrix on the micro:bit.
 
 ![](./images/IOT_HiveMQ_25.png)
 
-Program:
+Complete program:
 
 ![](./images/IOT_HiveMQ_26.png)
 
-Link: [https://makecode.microbit.org/_2Ys7uE8F7Dr8](https://makecode.microbit.org/_2Ys7uE8F7Dr8)
+Complete program link :[https://makecode.microbit.org/_6kgWfF8Tkgbp](https://makecode.microbit.org/_6kgWfF8Tkgbp)
 
 
 ## FAQ
 
-Q: How to judge if the current IoT:bit supports MQTT?
-A: Please refer to the version number printed on the back of the IoT:bit, only V1.6 supports MQTT, V1.4 and the former are not availble for MQTT.
+### Q: How can I tell if the current version of IOT:bit supports MQTT?
+A: Please check the version number on the back of IOT:bit, IOT:bit V1.6 version supports MQTT protocol, IOT:bit V1.4 and below do not support MQTT protocol.
 
 ![](./images/IOT_HiveMQ_27.png)

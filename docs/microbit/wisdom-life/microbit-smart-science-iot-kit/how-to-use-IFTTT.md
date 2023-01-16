@@ -7,19 +7,37 @@ sidebar_position: 5
 ## 如何通过IFTTT发送温度阈值报警电子邮件
 ---
 ![](./images/case_ifttt_01.jpg)
-在文章 如何发送Micro：bit Data到ThingSpeak IoT Platform中,我们讨论了如何使用micro：bit将数据上传到Thingspeak IoT平台。在本文中，我们将讨论如何使用IFTTT发送micro：bit温度预警邮件。
+
+
+
+在本文中，我们将讨论如何使用 IFTTT 发送 micro:bit 温度预警邮件。
+
 ## 什么是IFTTT？ ##
-IFTTT是“if this then that”的缩写。事实上，它会对您的网站行为产生一系列连锁反应，目标是“让互联网为您服务”，这将为您带来更多的使用便利。IFTTT旨在帮助人们利用不同网站的公共API，将网站（如Facebook，Twitter等）或应用程序链接在一起，以完成您的任务。因此，每个人都可以成为整个互联网的程序员而无需编写程序。IFTTT通过流程连接各种信息，然后集中呈现您所需的信息，解决杂项信息的问题，接收或关注重要信息。根据IFTTT，“this”的操作被称为“触发器”，也就是说你在某个网站上的行为; 而“那”意味着由连锁反应引起的另一种行为“行为”。这些触发器和操作都基于某个网站，在IFTTT中称为“渠道”。整个“if this then that”动作被定义为“任务”。让我用一个例子向你解释一下。在IFTTT中，用户可以通过创建和实现“任务”来实现网站连锁反应。例如，如果您刚刚使用micro：bit将温度数据上传到Thingspeak，当温度达到阈值时，它将激活触发器以执行您指定的操作：向您的邮箱发送电子邮件。
-通过IFTTT发送micro：bit温度报警电子邮件
-首先，请确保您已成功将温度数据从micro：bit上传到Thingspeak。如果您不知道如何操作，可以阅读本文 如何将Micro：bit Data发送到ThingSpeak IoT Platform 以获取帮助。
+IFTTT是“if this then that”的缩写。事实上，它会对您的网站行为产生一系列连锁反应，目标是“让互联网为您服务”，这将为您带来更多的使用便利。IFTTT 旨在帮助人们利用不同网站的公共 API，将网站（如 Facebook，Twitter 等）或应用程序链接在一起，以完成您的任务。因此，每个人都可以成为整个互联网的程序员而无需编写程序。IFTTT 通过流程连接各种信息，然后集中呈现您所需的信息，解决杂项信息的问题，接收或关注重要信息。根据 IFTTT，“this”的操作被称为“触发器”，也就是说你在某个网站上的行为; 而“that”意味着由连锁反应引起的另一种行为“行为”。这些触发器和操作都基于某个网站，在 IFTTT 中称为“渠道”。整个“if this then that”动作被定义为“任务”。让我用一个例子向你解释一下。在 IFTTT 中，用户可以通过创建和实现“任务”来实现网站连锁反应。例如，如果您刚刚使用 micro:bit 将温度数据上传到 Thingspeak，当温度达到阈值时，它将激活触发器以执行您指定的操作：向您的邮箱发送电子邮件。
+通过 IFTTT 发送 micro:bit 温度报警电子邮件
+首先，请确保您已成功将温度数据从 micro:bit 上传到 Thingspeak。如果您不知道如何操作，可以阅读本文 如何将 Micro:bit Data 发送到 ThingSpeak IoT Platform 以获取帮助。
 
 ![](./images/case_ifttt_02.png)
 
 ## 第1步：注册IFTTT帐户
 ---
-登录IFTTT。如果您还没有帐户，请先注册一个帐户。
+如果您还没有帐户，请先注册一个 [IFTTT](https://ifttt.com/) 帐户。 
+
+打开 IFTTT 官网之后点击 "Start today",进入登录界面。
 
 ![](./images/case_ifttt_03.png)
+
+你可以选择多种方式登录 IFTTT，但是我们推荐通过你经常使用的电子邮箱注册一个新的账号，点击“sign up”之后会出现注册页面。
+
+![](./images/case_ifttt_03_1.png)
+
+在此输入邮箱账号和设置密码之后就会出现注册成功的页面。
+
+![](./images/case_ifttt_03_2.png)\
+
+
+
+![](./images/case_ifttt_03_3.png)
 
 ## 第2步：IFTTT Webhooks设置
 ---

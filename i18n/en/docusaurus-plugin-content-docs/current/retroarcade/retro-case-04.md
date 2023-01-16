@@ -1,45 +1,45 @@
-# 小小英雄（上）
+# Little heroes (1)
 
-## 目的
+##  Purpose
 
-学习控制角色横向移动、跳跃、以及场景制作。
+Learn to control the character's lateral movement, jumping, and scene creation.
 
-## 使用材料
+## Materials Requested
 
-1 x [饼干游戏编程学习机](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
+1 x  [ELECFREAKS Retro Makecode Arcade For Education](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
 
 ![retro-case-01-01.png](./images/retro-case-01-01.png)
 
-## 软件
+## Software
 
-[微软makecode](https://arcade.makecode.com/)
+[Microsoft makecode](https://arcade.makecode.com/)
 
-## 编程
+## Programming
 
-设置背景颜色，设置图块地图。
+Set the background color and set the block map.
 
 ![retro-case-04-01.png](./images/retro-case-04-01.png)
 
 ![retro-case-04-02.png](./images/retro-case-04-02.png)
 
-设置精灵，设置精灵的y轴加速度，通过按键移动精灵，设置y轴速度为0。
+Set the sprite, set the y-axis acceleration of the sprite, and set the y-axis velocity to 0 by moving the sprite with the button.
 
 ![retro-case-04-03.png](./images/retro-case-04-03.png)
 
-设置镜头跟随精灵移动，设置精灵跳跃功能。
+Set the camera to follow the sprite movement and set the sprite jump function.
 
 ![retro-case-04-04.png](./images/retro-case-04-04.png)
 
-### 程序
+### Procedures
 
-请参考程序连接：[https://makecode.com/_EzzHsgdVhecH](https://makecode.com/_EzzHsgdVhecH)
+Link: [https://makecode.com/_EzzHsgdVhecH](https://makecode.com/_EzzHsgdVhecH)
 
-你也可以通过以下网页直接下载程序。
+You can also download the program directly from the following pages.
 
-## 程序下载
+## Program Download
 
-请查看程序下载的相关文档：[程序下载方式](https://www.yuque.com/elecfreaks-learn/retro/wxo25w)
+Please see the documentation for the program download: [Program Download Method](https://www.yuque.com/elecfreaks-learn/retro/wxo25w)
 
-## 结论
+## Conclusion
 
-可以通过按键控制精灵在自定义场景中横向移动，并跳跃。
+You can control the sprite to move laterally and jump in the custom scene by pressing the button.

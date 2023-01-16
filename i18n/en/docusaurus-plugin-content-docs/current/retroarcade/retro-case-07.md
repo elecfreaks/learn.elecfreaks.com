@@ -1,40 +1,40 @@
-# 早期的鸟儿
+# The Early Bird
 
-## 目的
+## Purpose
 
-制作一个早起的鸟儿离开鸟巢的动画。
+Create an animation of an early bird leaving the nest.
 
-## 使用材料
+## Materials Requested
 
-
-1 x [饼干游戏编程学习机](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
+1 x   [ELECFREAKS Retro Makecode Arcade For Education](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
 
 ![retro-case-01-01.png](./images/retro-case-01-01.png)
 
 
 
-## 软件
+## Software
 
-[微软makecode](https://arcade.makecode.com/)
+[Microsoft makecode](https://arcade.makecode.com/)
 
-## 编程
+## Programming
 
-`新建精灵`，`设置背景颜色`，`当游戏每隔1000ms更新时`，`新建一个弹射物“小鸟”`从`精灵“大树”`的位置朝着`随机方向`以`随机速度`飞出。
+`New spirit`, `Set the background color`, `When the game is updated every 1000ms`, `Create a new proje"ctile "bird"` Fly out from the`spirit "big tree"`position in a `random direction`at `random speed`.
 
 ![retro-case-07-01.png](./images/retro-case-07-01.png)
 
 
 
-### 程序
+### Procedures
 
-请参考程序连接：[https://makecode.com/_cwHAsEA9U7sA](https://makecode.com/_cwHAsEA9U7sA)
+Link: [https://makecode.com/_cwHAsEA9U7sA](https://makecode.com/_cwHAsEA9U7sA)
 
-你也可以通过以下网页直接下载程序。
+You can also download the program directly from the following pages.
 
-## 程序下载
+## Program Download
 
-请查看程序下载的相关文档：[程序下载方式](https://www.yuque.com/elecfreaks-learn/retro/wxo25w)
+Please see the documentation for the program download：[Program Download Method](https://www.yuque.com/elecfreaks-learn/retro/wxo25w)
 
-## 结论
+## Conclusion
 
-小鸟从大树的位置朝着随机方向以随机速度飞出。
+The bird flies out from the location of the large tree in a random direction at a random speed.
+

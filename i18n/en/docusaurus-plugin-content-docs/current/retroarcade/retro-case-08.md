@@ -1,36 +1,37 @@
-# 小小英雄（躲避怪物）
+# Little heroes (dodging monsters)
 
-## 目的
+## Purpose
 
-设置以玩家为目标的敌人。
+Set up enemies that target the player.
 
-## 使用材料
+## Materials Requested
 
-1 x [饼干游戏编程学习机](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
+1 x  [ELECFREAKS Retro Makecode Arcade For Education](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
 
 ![retro-case-01-01.png](./images/retro-case-01-01.png)
 
-## 软件
+## Software
 
-[微软makecode](https://arcade.makecode.com/)
+[Microsoft makecode](https://arcade.makecode.com/)
 
-## 编程
+## Programming
 
-设置当精灵碰到路途上的植物时则游戏失败，当精灵到达终点宝石处，则游戏胜利，游戏中会每两秒随机刷新一个怪物来攻击小小英雄，初始生命值为3，当被怪物攻击到时生命值-1，当生命值归零时，游戏失败。
+Set when the genie touches the plants on the road, the game will fail, when the genie reaches the end of the gem, the game gets winning, the game will be every two seconds randomly refresh a monster to attack the little hero, the initial life value of 3, when the monster attack to life value -1, when the life value to zero, the game failed.
 
 ![8.1.PNG](./images/8.1.PNG)
 
 ![retro-gg-7.png](./images/retro-gg-7.png)
 
-### 程序
+### Procedures
 
-请参考程序连接：[https://makecode.com/_RbghbYJTtde1](https://makecode.com/_RbghbYJTtde1)
-你也可以通过以下网页直接下载程序。
+Link: [https://makecode.com/_RbghbYJTtde1](https://makecode.com/_RbghbYJTtde1)
+You can also download the program directly from the following pages.
 
-## 程序下载
+## Program Download
 
-请查看程序下载的相关文档：[程序下载方式](https://www.yuque.com/elecfreaks-learn/retro/wxo25w)
+Please see the documentation for the program download: [Program Download Method](https://www.yuque.com/elecfreaks-learn/retro/wxo25w)
 
-## 结论
+## Conclusion
 
-可以通过按键控制精灵在自定义场景中横向移动，并跳跃，当碰到陷阱则游戏结束，当精灵到达终点宝石处，则游戏胜利，游戏中会每两秒随机刷新一个怪物来攻击小小英雄，初始生命值为3，当被怪物攻击到时生命值-1，当生命值归零时，游戏失败。
+You can control the elf by key to move horizontally in the custom scene, and jump, when the trap is encountered, the game is over, when the elf reaches the end of the gem, the game is won, the game will be every two seconds randomly refresh a monster to attack the little hero, the initial life value of 3, when attacked by the monster life value -1, when the life value to zero, the game failed.
+

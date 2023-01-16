@@ -1,24 +1,22 @@
-# 小小英雄（下）
+# Little heroes (2)
 
-## 目的
+## Purpose
 
-设置地图陷阱以及终点。
+Set map traps as well as endpoints.
 
+## Materials Requested
 
-
-## 使用材料
-
-1 x [饼干游戏编程学习机](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
+1 x  [ELECFREAKS Retro Makecode Arcade For Education](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
 
 ![retro-case-01-01.png](./images/retro-case-01-01.png)
 
-## 软件
+## Software
 
-[微软makecode](https://arcade.makecode.com/)
+[[Microsoft makecode](https://arcade.makecode.com/)](https://arcade.makecode.com/)
 
-## 编程
+## Programming
 
-设置当精灵碰到路途上的植物时则游戏失败，当精灵到达终点宝石处，则游戏胜利。
+Set the game to fail when the genie touches the plants on the path, and to win when the genie reaches the end of the game at the gem.
 
 ![4.1.PNG](./images/4.1.PNG)
 
@@ -26,16 +24,17 @@
 
 ![retro-case-05-01.png](./images/retro-case-05-01.png)
 
-### 程序
+### Procedures
 
-请参考程序连接：[https://makecode.com/_6ACdpd2gPWDz](https://makecode.com/_6ACdpd2gPWDz)
+link: [https://makecode.com/_6ACdpd2gPWDz](https://makecode.com/_6ACdpd2gPWDz)
 
-你也可以通过以下网页直接下载程序。
+You can also download the program directly from the following pages.
 
-## 程序下载
+## Program Download
 
-请查看程序下载的相关文档：[程序下载方式](https://www.yuque.com/elecfreaks-learn/retro/wxo25w)
+Please see the documentation for the program download: [Program Download Method](https://www.yuque.com/elecfreaks-learn/retro/wxo25w)
 
-## 结论
+## Conclusion
 
-可以通过按键控制精灵在自定义场景中横向移动，并跳跃，当碰到陷阱则游戏结束，当精灵到达终点宝石处，则游戏胜利。
+You can control the sprite to move laterally and jump in the custom scene by pressing the button.
+

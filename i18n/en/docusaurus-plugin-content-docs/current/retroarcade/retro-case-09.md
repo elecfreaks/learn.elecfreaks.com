@@ -1,69 +1,71 @@
-# 飞机大战（二）
+# Aircraft battle (2）
 
-## 目的
+## Purpose
 
-制作一个使用加速度计控制战机飞行的飞机大战小游戏。
+Make an airplane battle mini-game using accelerometers to control the flight of warplanes.
 
-## 使用材料
+## Materials Requested
 
-1 x [饼干游戏编程学习机](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
+1 x  [ELECFREAKS Retro Makecode Arcade For Education](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
 
 ![retro-case-01-01.png](./images/retro-case-01-01.png)
 
-## 软件
+## Software
 
-[微软makecode](https://arcade.makecode.com/)
+[Microsoft makecode](https://arcade.makecode.com/)
 
-## 编程
+## Programming
 
-在[飞机大战（一）](https://www.yuque.com/elecfreaks-learn/retro/bm01di)的基础上进行修改，通过加速度计控制战机飞行，并且让战机自动发射子弹。
-飞机大战（一）的程序：[https://makecode.com/_75rf2EgEPTW4](https://makecode.com/_75rf2EgEPTW4)
+Modified from [Aircraft battle(1)](https://www.yuque.com/elecfreaks-learn/retro/bm01di) to control the flight of the fighter by accelerometer and to make the fighter fire bullets automatically.
+Program of  [Aircraft battle(1)]: [https://makecode.com/_75rf2EgEPTW4](https://makecode.com/_75rf2EgEPTW4)
 
-由于在这个案例中使用了加速度计，所以需要按照以下步骤添加对应扩展库。
-打开`高级`，选择`扩展`。
+Since the accelerometer is used in this case, you need to add the corresponding extension library according to the following steps.
+Open `Advanced`, and select `Extensions`.
 
 ![retro-case-09-07.png](./images/retro-case-09-07.png)
 
-在弹出窗口搜索`controller`，并选择`controller扩展库`。
+Search in the pop-up window `controller`, and select `controller Extended Library`.
 
 ![retro-case-09-08.png](./images/retro-case-09-08.png)
 
-添加完成后，模块选择区出现三个积木选择模块。
+When the addition is complete, three building block selection modules appear in the module selection area.
 
-目前硬件上使用光线传感器、加速度计、振动马达的相关积木块，可以在控制器的扩展插件一栏中找到。
+Current hardware using light sensors, accelerometers, vibration motors related blocks can be found in the expansion plug-in section of the controller.
 
 ![retro-case-09-09.png](./images/retro-case-09-09.png)
 
-`新建精灵`，为了防止精灵移动时走出屏幕画面外，`设置精灵处于屏幕范围内`，`设置场景特效为星图`。
+`New sprite`, To prevent the sprite from moving out of the screen, `set the sprite to be within screen range`, `set scene effects to star map`.
 
 ![retro-case-09-01.png](./images/retro-case-09-01.png)
 
-在`无限循环`中，将`加速度计返回的x轴的值从-800到800映射到160至0并存入变量x`中，将`加速度计返回的y轴的值从-1023到1023映射到0至120并存入变量y`中，然后`设置战机x轴和y轴的位置分别为变量x的值和变量y的值`。（加速度计x轴和y轴的返回值的范围为-1023~1023）
+In `infinite loop`, map`the value of x-axis returned by accelerometer from-800 to 160 to 0 and store it in variable x`, map`the value of y-axis returned by accelerometer from -1023 to 1023 to 0 to 120 and store it in variable y`, then `set the position of x-axis and y-axis of warplane to the value of variable x and the value of variable y respectively`. (The range of the accelerometer x-axis and y-axis return values is -1023 to 1023)
 
 ![retro-case-09-06.png](./images/retro-case-09-06.png)
 
 ![retro-case-09-02.png](./images/retro-case-09-02.png)
 
-`当游戏每隔1000ms时`，则`将弹射物从X屏幕上方的随机位置以50的速度向下弹射`，`设置弹射物类型`，`当碰到敌人时生命值-1`，并自动`销毁敌人`。
+`When the game is played every 1000ms`, then `shoot the projectile down from a random location at the top of the X screen at a speed of 50`, `set ejector type`, `-1 life when touching the enemy`, and automatically `destroy the enemy`.
 
 ![retro-case-09-03.png](./images/retro-case-09-03.png)
 
-`当游戏每隔300ms时`，`从精灵处发射弹射物，x轴速度为0，y轴速度为-70`，`弹射物设为火焰特效`，`当弹射物和敌人碰撞时`，`销毁弹射物和敌人`，`得分+1`。
+`When the game is played every 300ms`, `launch projectiles from the sprite with an x-axis speed of 0 and a y-axis speed of -70`, `projectiles set to flame effects`, `when projectiles and enemies collide`, `destroy projectiles and enemies`, `score+1`. 
 
 ![retro-case-09-04.png](./images/retro-case-09-04.png)
 
-完整程序：
+Complete program:
 
 ![retro-case-09-05.png](./images/retro-case-09-05.png)
 
-### 程序
+### Procedures
 
-请参考程序连接：[https://makecode.com/_4rr176iuCAYX](https://makecode.com/_4rr176iuCAYX)
+Link: [https://makecode.com/_4rr176iuCAYX](https://makecode.com/_4rr176iuCAYX)
 
-## 程序下载
+You can also download the program directly from the following pages.
 
-请查看程序下载的相关文档：[程序下载方式](https://www.yuque.com/elecfreaks-learn/retro/wxo25w)
+## Program Download
 
-## 结论
+Please see the documentation for the program download: [Program Download Method](https://www.yuque.com/elecfreaks-learn/retro/wxo25w)
 
-可以通过加速度计控制精灵在画面中移动，初始生命值为3，当玩家控制的精灵碰撞到敌人时，则-1生命值，当生命值归零则游戏结束，战机自动发射子弹，每击中一个敌人则+1分。
+## Conclusion
+
+You can control the sprite through the accelerometer to move in the screen, the initial life value of 3, when the player-controlled sprite collision to the enemy, then -1 life value, when the life value to zero is the end of the game, the war machine automatically launch bullets, each hit an enemy is +1 points.

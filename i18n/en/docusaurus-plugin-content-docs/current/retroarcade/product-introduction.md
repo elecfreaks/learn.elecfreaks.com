@@ -1,54 +1,55 @@
-# 产品简介
+# Product Description
 
 ![retro-case-01-01.png](./images/retro-case-01-01.png)
 
-## 概述
+## Overview
 
-饼干游戏编程学习机是全球首款超大、超清屏幕的游戏编程学习机。它针对孩子手掌大小专门设计，采用炫彩外壳和硅胶按键，手感舒适，防滑易握；它拥有320*240彩色超大超清屏幕，将分辨率提高到行业水平的4倍；它有丰富的内置传感器，可重力、可震动、声光电一体让编程更炫酷。
+The Retro Makecode Arcade For Education is the world's first game programming learning machine with a large, ultra-clear screen. It is specially designed for children's hand size with a dazzling color shell and silicone buttons, which gives a comfortable feel and easy to grip; it has a 320*240 color super-clear screen, which raises the resolution to four times the industry level; it has rich built-in sensors such as the gravity sensor, vibration sensor, sound sensor and light sensor to make programming more cool.
 
-饼干用简单趣味的方式帮助孩子自己编写游戏、了解游戏背后的奥义。它还支持自定义游戏角色、多样化场景和剧情设计，使用图形化编程软件，让每个人都能轻松实现有趣的电子创作和无限的游戏创意。
+It helps children write their own games and understand the mystery behind the game in a simple and fun way. It also supports custom game characters, diverse scenarios and plot design using graphical programming software, making it easy for everyone to achieve fun electronic creations and unlimited game ideas.
 
-饼干，让孩子爱上编程，而非游戏本身。
+The Retro Makecode Arcade for Education makes kids fall in love with programming, not the game itself.
 
-## 购买链接
 
- [饼干游戏编程学习机](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
+## Purchase Link
 
-## 产品说明
+ [ELECFREAKS Retro Makecode Arcade For Education](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
+
+## Product Description
 
 ![retro-01.png](./images/retro-01.png)
 
 ![retro-02.png](./images/retro-02.png)
 
-### 产品参数
-| 产品名称 | 饼干游戏编程学习机 |
+### Product parameters
+| Product Name | Retro Makecode Arcade For Education |
 | --- | --- |
-| 额定电压 | 3.7V |
-| 电池容量 | 560mAH |
-| 充电电压 | 5V |
-| 充电电流 | 1.35A |
-| 充电接口 | Type-C |
-| 屏幕尺寸 | 2.4英寸 |
-| 显示分辨率 | 320×240 |
-| 内置传感器 | 蜂鸣器、光敏传感器、陀螺仪、震动马达 |
-| 乐高兼容 | 支持 |
+| Rated voltage | 3.7V |
+| Battery Capacity | 560mAH |
+| Charging voltage | 5V |
+| Charging current | 1.35A |
+| Charging port | Type-C |
+| Screen size | 2.4 inches |
+| Display Resolution | 320 × 240 |
+| Built-in sensors | Buzzer, light sensor, gyroscope, vibration motor |
+| Bricks compatible | Support |
 
 
-### 开关方式
-单击开关键，启动产品，双击开关键，关闭产品。
+### Switching Method
+Click the on/off button to start the product and double click the on/off button to turn off it.
 
-### 充电方式
-使用标准Type-C 带数据传输接口，连接USB接口与自备的USB充电器给饼干游戏编程学习机充电。充电器规格应为输出DC5V/1A及以上。充电时电源指示灯闪烁，当充电完成时电源指示灯常亮。预计充电时长为1.5H。
+### Charging Method
+Use the standard Type-C with data transfer interface, connect the USB port with your own USB charger to charge. Charger specifications should be DC5V/1A output and above. The power indicator flashes while charging, and the power indicator is always on when charging is complete. The expected charging time is 1.5H.
 
 ![retro-gg-2.png](./images/retro-gg-2.png)
 
-### 指示灯状态
-| 工作中 | 常亮 | 电量充足 |
+### Indicator Status
+| At work | Always bright | Plenty of power |
 | --- | --- | --- |
-|  | 闪烁 | 低电量 |
-| 充电 | 常亮 | 充电完成 |
-|  | 闪烁 | 充电中 |
+|  | Blinking | Low Battery |
+| Charging | Always bright | Charging completed |
+|  | Blinking | Charging in progress |
 
 
-## 软件编程平台
-微软makecode：[https://arcade.makecode.com/](https://arcade.makecode.com/)
+## Software Programming Platform
+Microsoft makecode: [https://arcade.makecode.com/](https://arcade.makecode.com/)

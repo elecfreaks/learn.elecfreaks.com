@@ -1,75 +1,76 @@
-# 走迷宫
+# Walking the Maze
 
-## 目的
+## Purpose
 
-制作一个背景随着光线变化而变化的迷宫。
+Create a maze where the background changes as the light changes.
 
-## 使用材料
+## Materials Requested
 
-1 x [饼干游戏编程学习机](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
+1 x  [ELECFREAKS Retro Makecode Arcade For Education](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
 
 ![retro-case-01-01.png](./images/retro-case-01-01.png)
 
-## 软件
+## Software
 
-[微软makecode](https://arcade.makecode.com/)
+[Microsoft makecode](https://arcade.makecode.com/)
 
-## 编程
+## Programming
 
-由于在这个案例中使用了光线传感器，所以需要按照以下步骤添加对应扩展库。
-打开`高级`，选择`扩展`。
+Since the light sensor is used in this case, you need to add the corresponding extension library according to the following steps.
+
+Open `Advanced`, and select `Extend`.
 
 ![retro-case-09-07.png](./images/retro-case-09-07.png)
 
-在弹出窗口搜索`controller`，并选择`controller扩展库`。
+Search for `controller` in the popup window and select `controller extension library`.
 
 ![retro-case-09-08.png](./images/retro-case-09-08.png)
 
-添加完成后，模块选择区出现三个积木选择模块。
+After the addition is complete, three block selection blocks appear in the block selection area.
 
-目前硬件上使用光线传感器、加速度计、振动马达的相关积木块，可以在控制器的扩展插件一栏中找到。
+The blocks related to the current hardware using light sensors, accelerometers, and vibration motors can be found in the expansion plug-in section of the controller.
 
 ![retro-case-09-09.png](./images/retro-case-09-09.png)
 
-`新建精灵`，`设置精灵初始位置`，`通过按键移动精灵`，`设置地图图块`，`设置镜头跟随精灵移动`。
+`New sprite`, `set sprite initial position`, `move sprite by button`, `set map block`, `set camera to follow sprite movement`.
 
 ![retro-case-10-01.png](./images/retro-case-10-01.png)
 
-先画出迷宫入口，出口，以及墙体。
+First draw the maze entrance, exit, and walls.
 
 ![retro-case-10-02.png](./images/retro-case-10-02.png)
 
-再根据墙体设置体积碰撞。
+Then set the volume collision according to the wall.
 
 ![retro-case-10-03.png](./images/retro-case-10-03.png)
 
-`当亮度较暗时`，`设置背景颜色为黑色`，`当亮度较亮时`，`设置背景颜色为浅蓝色`。
+`When the brightness is darke`, `set the background color to black`, `when the brightness is brighter`, `set the background color to light blue`.
 
 ![retro-case-10-04.png](./images/retro-case-10-04.png)
 
-
-`当精灵碰到入口位置的图块时`，`开始倒计时十秒`，`并振动500m`。
+`When the sprite touches the block at the entrance position`, `the countdown starts for ten seconds`, `and vibrates for 500m`.
 
 ![retro-case-10-05.png](./images/retro-case-10-05.png)
 
-`当精灵碰到终点位置的图块时`，`停止倒计时`，`设置礼炮纸屑特效`，`振动500ms`，`设置游戏结束`。
+`When the sprite touches the block at the end position`, `stop the countdown`, `set the salute confetti effect`, `vibrate 500ms`, `set the game over`.
 
 ![retro-case-10-06.png](./images/retro-case-10-06.png)
 
-完整程序：
+Complete procedure:
 
 ![retro-case-10-07.png](./images/retro-case-10-07.png)
 
-### 程序
+### Procedures
 
 
-请参考程序连接：[https://makecode.com/_XmF9Vi8VK665](https://makecode.com/_XmF9Vi8VK665)
+Link: [https://makecode.com/_XmF9Vi8VK665](https://makecode.com/_XmF9Vi8VK665)
 
 
-## 程序下载
+## Program Download
 
-请查看程序下载的相关文档：[程序下载方式](https://www.yuque.com/elecfreaks-learn/retro/wxo25w)
+Please see the documentation for the program download: [Program Download Method](https://www.yuque.com/elecfreaks-learn/retro/wxo25w)
 
-## 结论
+## Conclusion
 
-精灵从入口处进入地图则开始倒计时，当倒计时结束还未到达终点则游戏结束，在倒计时结束前到达终点则游戏胜利，背景颜色会根据环境光线亮度自动变化，当亮度较暗时，背景颜色为黑色，当亮度较亮时，背景颜色为浅蓝色。
+Elf from the entrance to the map will start the countdown, when the countdown has not yet reached the end of the game is over, before the end of the countdown to the end of the game victory, the background color will automatically change according to the ambient light brightness, when the brightness is dark, the background color is black, when the brightness is bright, the background color is light blue.
+

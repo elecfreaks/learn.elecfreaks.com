@@ -1,3 +1,7 @@
+---
+sidebar_position: 10
+---
+
 # Case 07：避障小车
 
 ## 简介
@@ -14,7 +18,7 @@ from cutebot import *
 import time
 
 # 创建Cutebot类的实例
-cutebot = Cutebot()    
+cutebot = Cutebot()
 
 # 循环检测cutebot智能赛车的超声波传感器的返回值
 # 当cutebot智能赛车前方没有障碍物时，cutebot智能赛车以50%的速度向前行驶

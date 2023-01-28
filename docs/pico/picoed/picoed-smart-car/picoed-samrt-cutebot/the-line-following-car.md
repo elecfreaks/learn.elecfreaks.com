@@ -1,3 +1,7 @@
+---
+sidebar_position: 9
+---
+
 # Case 06：巡线行驶
 
 ## 简介
@@ -9,7 +13,7 @@
 from cutebot import *
 
 # 创建Cutebot类的实例
-cutebot = Cutebot()    
+cutebot = Cutebot()
 
 # 循环检测cutebot智能赛车的巡线头的状态
 # 当两个巡线头都在黑线上时，cutebot智能赛车以50%的速度向前行驶

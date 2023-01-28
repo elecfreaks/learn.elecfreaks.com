@@ -1,4 +1,8 @@
-## 编程环境 
+---
+sidebar_position: 3
+---
+
+## 编程环境
 为了给pico:ed编程，我们需要下载并安装编程软件thonny，具体步骤请参考：[下载并安装编程软件](https://www.yuque.com/elecfreaks-learn/picoed/ggnxx2)。
 编程软件安装完成后，我们需要添加pico:ed的库文件：[添加picoed库](https://www.yuque.com/elecfreaks-learn/picoed/wvuaff)。
 ## 下载circuitpython_cutebot库

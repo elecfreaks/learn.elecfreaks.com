@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 # Case 04：自动转向灯
 
 ## 简介

@@ -1,3 +1,7 @@
+---
+sidebar_position: 8
+---
+
 # Case 05：炫彩灯光
 
 
@@ -12,7 +16,7 @@ from random import *
 from time import *
 
 # 创建Cutebot类的实例
-cutebot = Cutebot()    
+cutebot = Cutebot()
 
 # 设置cutebot智能赛车以50%的速度向前行驶
 cutebot.set_speed(50,50)

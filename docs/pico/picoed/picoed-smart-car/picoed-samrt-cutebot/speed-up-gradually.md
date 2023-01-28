@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Case 02：均匀加速
 
 ## 简介

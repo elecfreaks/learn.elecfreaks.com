@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Case 01：前进、后退
 
 ## 简介
@@ -10,7 +14,7 @@ from picoed import *
 from cutebot import *
 
 # 创建Cutebot类的实例
-cutebot = Cutebot()    
+cutebot = Cutebot()
 
 # 循环检测是否按下A/B按键，控制cutebot智能赛车前进后退
 while True:

@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Case 03：8字舞蹈
 
 ## 简介

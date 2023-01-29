@@ -122,7 +122,7 @@ sidebar_position: 2
 
 ![](./images/kidsiot_22.jpg)
 
-请参考程序连接：[https://makecode.microbit.org/_4opTryFiyicy](https://makecode.microbit.org/_4opTryFiyicy)
+请参考程序连接：[https://makecode.microbit.org/_PiHUCFiY2He9](https://makecode.microbit.org/_PiHUCFiY2He9)
 
 你也可以通过以下网页修改程序。
 
@@ -134,7 +134,7 @@ sidebar_position: 2
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_4opTryFiyicy"
+        src="https://makecode.microbit.org/_PiHUCFiY2He9"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -1,33 +1,35 @@
-# iot套件案例05：监测站保护装置
+---
+sidebar_position: 9
+---
+
+
+# iot套件案例03：环境质量监测站
 
 ## 目的
 ---
 
-- 制作一个监测站保护装置。
+- 制作一个环境质量监测站。
 
 ## 使用材料
 ---
-
 - 1 x [IOT:kit(物联网环境科学套件):https://www.elecfreaks.com/store](https://www.elecfreaks.com/store/micro-bit-smart-science-iot-kit-with-micro-bit.html)
 
 ## 背景知识
 ---
+### 什么是环境检测
 
-### 什么是自防护
-
-- 当你的环境监测站放在室外环境中时，为了防止装置被破坏，测得数据遭到干扰，所以需要设置一个自保护装置，以提醒他人不要靠近。
-
+环境监测是利用GIS技术对环境监测网络进行设计,环境监测收集的信息又能通过GIS适时储存和显示，并对所选评价区域进行详细的场地监测和分析。
 
 ## 硬件连接图
 ---
 
-如图所示，将超声波模块连接到`P1`口。
+如图所示，将光线传感器模块连接到`P1`口。
 
-人体红外传感器模块连接到`P10`口。
+BME280模块连接到`IIC`接口`SCL-P19` `SDA-P20`。
 
-板载蜂鸣器，已经连接到`P0`口。
+OLED屏幕连接`IIC`接口。
 
-![](./images/case_05_01.png)
+![](./images/case_03_01.png)
 
 ## 软件
 ---
@@ -50,19 +52,25 @@
 
 ### 步骤 2
 
-在`无限循环`中插入读取`P1`口数值赋值给`IR`积木块，判断`IR`是否为`1`。
+在`当开机时`中插入`initialize OLED`积木块，参数填入`64*128`。
 
-当`IR`参数为`1`的时候，再读取超声波返回值赋值给`ultrasonic`变量。
+初始化OLED屏幕为`64`像素*`128`像素。
 
-如果`ultrasonic`变量小于30，播放一声`ba ding`提示请勿靠近。
+![](./images/case_03_02.png)
 
-![](./images/case_05_02.png)
+### 步骤 2
 
+在`无限循环`中依次插入`show string`积木块，`show number`积木块。
 
+显示当前光线值，温度以及湿度值。
+
+插入`insert newline`积木块，另起一行。
+
+![](./images/case_03_03.png)
 
 ### 程序
 
-请参考程序连接：[https://makecode.microbit.org/_VXacj8Cc9VKE](https://makecode.microbit.org/_VXacj8Cc9VKE)
+请参考程序连接：[https://makecode.microbit.org/_MfjUxjL5TA7M](https://makecode.microbit.org/_MfjUxjL5TA7M)
 
 你也可以通过以下网页直接下载程序。
 
@@ -74,7 +82,7 @@
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_VXacj8Cc9VKE"
+        src="https://makecode.microbit.org/_MfjUxjL5TA7M"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -84,12 +92,15 @@
         }}
     />
 </div>
-
 ### 现象
 ---
-- 当检测到活物且距离足够近的时候，会播放声音提醒。
+
+每分钟显示当前环境的光线值、温度值、湿度值。
+
 ## 思考
 ---
+
+如何统计一天内的数据。
 
 ## 常见问题
 ---

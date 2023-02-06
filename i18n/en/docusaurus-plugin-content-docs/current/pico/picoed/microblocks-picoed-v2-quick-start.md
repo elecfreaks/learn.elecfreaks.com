@@ -127,7 +127,7 @@ An example of how the buzzer is programmed is as follows.
 
 Next we will use the Pico:ed Starter Kit to demonstrate the control of LEDs on the MicroBlocks platform using the Pico:ed v2 gold finger pins. This example can also be reproduced if you have alligator wires, leds, 100Ω resistors and other components.
 
-Pico:ed Starter Kit purchasing link: [Pico:ed Starter Kit ](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-starter-kit-with-pico-ed-board?_pos=2&_sid=b6006ffe8&_ss=r).
+Pico:ed Starter Kit purchasing link: [Pico:ed Starter Kit ](https://www.elecfreaks.com/elecfreaks-pico-ed-starter-kit.html).
 
 Hardware Connections
 

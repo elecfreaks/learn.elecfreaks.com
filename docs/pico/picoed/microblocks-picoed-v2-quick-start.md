@@ -127,7 +127,7 @@ A\B 按键编程举例如下：
 
 接下来我们将使用 Pico:ed Starter Kit 套件演示在 MicroBlocks 平台通过 Pico:ed v2 金手指引脚控制 LED 灯。如果您有鳄鱼夹线、led 灯、100Ω电阻等元器件同样可以复现本案例。
 
-Pico:ed Starter Kit 套件购买链接：[Pico:ed Starter Kit 套件](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-starter-kit-with-pico-ed-board?_pos=2&_sid=b6006ffe8&_ss=r)。
+Pico:ed Starter Kit 套件购买链接：[Pico:ed Starter Kit 套件](https://www.elecfreaks.com/elecfreaks-pico-ed-starter-kit.html)。
 
 ##### 硬件连接
 

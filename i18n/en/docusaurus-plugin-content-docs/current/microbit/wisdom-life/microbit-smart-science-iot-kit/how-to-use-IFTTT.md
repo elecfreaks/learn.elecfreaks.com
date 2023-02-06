@@ -1,101 +1,142 @@
-# The second part: Use the IoT kit to male a temperature alarm through Thingspeak and IFTTT.
+---
+sidebar_position: 5
+---
 
-## How to Send Temperature Threshold Value Alarm Email via IFTTT
+# Lesson 4: Iot kit with Thingspeak platform and IFTTT platform to create temperature alarms
 
+## How to Send Temperature Threshold Alarm Emails via IFTTT
+---
 ![](./images/case_ifttt_01.jpg)
- In the article [How to Send Micro:bit Data to ThingSpeak IoT Platform](https://www.elecfreaks.com/12224.html), we have talked about how to use micro:bit to upload data to Thingspeak IoT platform. In this article, we will talk about how to use IFTTT to send micro:bit temperature thresholod value alarm email.
- What is IFTTT?
- IFTTT is the abbreviation of "if this then that". In fact, it causes a series of chain reaction to your website behaviour with the goal of "Put the internet to work for you", which brings you more convinience in usage. IFTTT aims to help people take advantage of public APIs of different websites in order to link websites(like Facebook、Twitter,etc.) or Apps together to complete your task. Thus, everyone can become a programer of the whole Internet without writing a program. IFTTT connects all kinds of information through process and then centrally present your desired information to you, which solves the problem of miscellaneous information and receive or focus on important information. According to IFTTT, the operation of "this" is called "Trigger", that is to say your behaviour in a certain website; while "that" means another behaviour "action" caused by the chain reaction. Those triggers and actions all based on a certain website, which is called "channel" in IFTTT. The whole "if this then that" action is defined to be "Task". Let me explain it to you with an example. In IFTTT, users can realize website chain reaction through creating and implementing a "Task". For example, if you have just uploaded your temperature data to Thingspeak using micro:bit, when the temperature arrives at a threshold value, it will activate the trigger so that to implement your designated action: send an email to your mail box.
-Send micro:bit Temperature Alarm Email via IFTTT
-First of all, please make sure that you have uploaded your temperature data from micro:bit to Thingspeak successfully. If you don't know how to do that, you can read this article for help. 
+
+
+
+In this case, we will discuss how to use IFTTT to send micro:bit temperature alert emails.
+
+## what is IFTTT? ##
+IFTTT is an acronym for "if this then that". IFTTT is designed to help people link websites (e.g. Facebook, Twitter, etc.) or applications together by leveraging the public APIs of different websites. With IFTTT, everyone can be a programmer for the entire Internet without having to write a program. IFTTT connects all kinds of information through processes and then presents the information you need in one place, and then solves the problem of miscellaneous information to keep, receive or focus on important information for you. In IFTTT, the action of "this" is called a "trigger," which is your behavior on a site; and "that" means another "behavior" caused by a chain reaction. Another "action" caused by a chain reaction. These triggers and actions are based on a site, called a "channel" in IFTTT. The whole "if this then that" action is defined as a "task". Let me explain it to you with an example. In IFTTT, users can create and implement "tasks" to achieve a chain reaction on a website. For example, if you use micro:bit to upload temperature data to Thingspeak, then when the temperature reaches a threshold, it will activate a trigger to perform the action you specify: send an email to your mailbox.
+Sending micro:bit temperature alarm emails via IFTTT
+First, make sure you have successfully uploaded temperature data from micro:bit to Thingspeak. if you don't know how to do this, you can read this article How to send Micro:bit Data to ThingSpeak IoT Platform for help.
+
 ![](./images/case_ifttt_02.png)
 
-## Step 1: Register an IFTTT Account
+## Step 1: Register an IFTTT account
+---
+If you do not have an account, please register a [IFTTT](https://ifttt.com/)  account first.
 
-Log in IFTTT. If you don't have an account, please register one first.
+After opening the IFTTT official website, click "Start today", and enter the login screen.
+
 ![](./images/case_ifttt_03.png)
- 
 
-## Step 2: IFTTT Webhooks Setting
+You can choose from a variety of ways to sign in to IFTTT, but we recommend that you sign up for a new account through an email address that you use regularly, click on "**sign up**" and the sign up page will appear.
+
+![](./images/case_ifttt_03_1.png)
+
+After you enter your email account and set your password here, the registration success page will appear.
+
+![](./images/case_ifttt_03_2.png)
 
 
-### Create an Applet.
+
+![](./images/case_ifttt_03_3.png)
+
+## Step 2: IFTTT Webhooks setup
+---
+Select "Create" in the upper right corner of the main page to create an applet. We are prompted that we can create 2 applets. We click "Add" after "If This" to add a trigger.
 
 ![](./images/case_ifttt_04.png)
 
-Click on "this". 
+**Note: If you create more than 2 "Applets" later, you need to modify or delete the "Applets", so that you can create different "Applets" next time. ", later in this article will be introduced to how to delete or modify "Applets".**
 
-![](./images/case_ifttt_05.png)
 
-Search for "webhooks".
+
+![](./images/case_ifttt_05_1.png)
+
+Search for "webhooks". Click on "Webhooks".
 
 ![](./images/case_ifttt_06.png)
 
-Choose trigger. 
+Select the trigger.
 
 ![](./images/case_ifttt_07.png)
 
-Name this task. Here we call it "microbit_temperature_alarm". 
+Name this task. Here we call it "name", where "Event Name" can be customized. Click "Create trigger" to finish creating the trigger.
 
 ![](./images/case_ifttt_08.png)
 
-Once we have completed trigger setting, click on "that". 
+After completing the trigger settings, select "Add" after "Then That".
 
 ![](./images/case_ifttt_09.png)
 
-Search for "email". 
+Search for "email" and select "Email".
 
 ![](./images/case_ifttt_10.png)
 
-Fill in your email contents and pay attention to the format showed, among which {{}} allows us to extract datas with the same name from Web Request and then forward it to the email.
 
-![](./images/case_ifttt_11.png)
 
-Completed. 
+Select "Send me an email", then select "Create action", then click "Continue" and finally select "Finish".
 
-![](./images/case_ifttt_12.png)
+![](./images/case_ifttt_10_1.png)
 
-![](./images/case_ifttt_22.png)
+![](./images/case_ifttt_10_2.png)
 
-Click on "Documentation". 
+![](./images/case_ifttt_10_3.png)
 
-![](./images/case_ifttt_13.png)
-
-This link is the link of web request. It is very important in the Thingspeak setting later on. 
-
-![](./images/case_ifttt_14.png)
-
-## Step 3: Thingspeak Setting
-
-Before you do this, you must have uploaded your temperature data from micro:bit to Thingspeak. If you don't know how to do it, just read this acticle. Firstly, create a a new ThingHTTP service. 
+## Step 3: Thingspeak setup
+---
+Before you can do this, you must upload temperature data from micro:bit to Thingspeak. if you don't know how to do this, read this article How to send micro:bit data to the ThingSpeak IoT platform for help. First, create a new ThingHTTP service.
 
 ![](./images/case_ifttt_15.png)
 
-Here's the setting of connection with IFTTT: 
+This is the setup for the connection to IFTTT.
 
  ![](./images/case_ifttt_16.png)
 
-***Note:***
-URL is the link of web request, which has to include a Private Key provided by IFTTT.
-Content type must be JSON, because the expected format od IFTTT Maker Channel is JSON.
-Within Body, you can invoke any data in Channel. This is the data that is going to be sent to IFTTT with the format as follow: {"value1":"%%channel_138112_field_1%%"}
-For more details about ThingHTTP App, please refer to https:[//ww2.mathworks.cn/help/thingspeak/thinghttpapp.html](https://ww2.mathworks.cn/help/thingspeak/thinghttpapp.html). In the last, create a React service. 
+**Note:**
+You can search for "webhooks" from the main page in IFTTT and click "webhooks".
+
+![](./images/case_ifttt_06.png)
+
+
+
+Then click "Documentation", change the {event} in the link to the name of the trigger event, in this case "name", and copy the changed link to ① of ThinkSpeak.
+
+![](./images/case_ifttt_16_1.png)
+
+![](./images/case_ifttt_16_2.png)
+
+In the Body, you can call any data in the Channel. This is the data that will be sent to IFTTT, in the following format: {"data": "%% channel_2009185_field_1 %%"}, where ② the numeric ID is the Channel you have created ID.
+
+![](./images/case_ifttt_16_3.png)
+
+For more details on the ThingHTTP application, please refer to: [//ww2.mathworks.cn/help/thingspeak/thinghttp-app.html](https://ww2.mathworks.cn/help/thingspeak/thinghttp-app.html). 
+
+Finally, create a React service. Under the Apps option, select React and you can click New React or edit the React you created earlier.
 
  ![](./images/case_ifttt_17.png)
 
-For more details about React APP, please refer to https://ww2.mathworks.cn/help/thingspeak/reactapp.html.
 
-## Step 4: Test
 
-Till this step, you have already completed all of settings. Now let's test it! If the temperature has not arrived 30 degrees yet, you can hold micro:bit with your hands to improve its temperature.
- 
-![](./images/case_ifttt_18.png)
+Here are the settings: Test channel 2009185 (different accounts have different channels, change it to your own) to see if the temperature value is higher than 30. If it is, then the Temp service in ThingHTTP is triggered.
 
-We can see from the data of Thingspeak channel that the temperature has surpassed 30m degrees.
+ ![](./images/case_ifttt_18.png)
 
-![](./images/case_ifttt_19.png)
+For more details about React APP, please refer to:  [https://ww2.mathworks.cn/help/thingspeak/react-app.html](https://ww2.mathworks.cn/help/thingspeak/react-app.html).
 
-Check your email box and see if you have received an email from IFTTT!
+### Step 4: MakeCode Platform Programming
 
-![](./images/case_ifttt_20.png)
+We need to program the micro:bit with the following reference code.
 
+![](./images/case_ifttt_18_1.png)
+
+Link: https://makecode.microbit.org/_aLe2ddHwFCs6
+
+### Step 5: Testing
+At this step, you have completed all settings. Now let's test it! If the temperature has not yet reached 30 degrees, you can raise the temperature by holding the micro:bit in your hand.
+
+We can see from the data of Thingspeak channel that the temperature is over 30m degrees.
+
+ ![](./images/case_ifttt_19.png)
+
+Check your email to see if you've received an email from IFTTT!
+
+ ![](./images/case_ifttt_20.png)

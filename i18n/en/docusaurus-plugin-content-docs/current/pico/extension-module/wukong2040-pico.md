@@ -41,22 +41,26 @@ What's more thoughtful is that ELECFREAKS provides beginners with a wealth of le
 
 ## Detailed parameters
 
-| Parameters             | Details                          | Remarks                                                |
-| :--------------------- | -------------------------------- | ------------------------------------------------------ |
-| Product Number         | EF02054                          | SKU                                                    |
-| Size                   | 87.80 × 55.80 × 36.33mm          | Subject to the actual product                              |
-| Weight                 | 97g                              | Includes dock, includes lithium battery                |
-| Power supply system    | Toggle Switch                    | -                                                      |
-| Power supply battery   | 18650 lithium battery            | Fast charging 60 minutes, full working over 40 minutes |
-| Working Voltage        | 2.8v~4.2v                        | Charging temperature 0°C~40°C                          |
-| Working temperature    | -20°C~60°C                       | -                                                      |
-| Motor Drive            | 4 Pins（M1、M2、M3、M4）         | Battery voltage                                        |
-| GPIO interface         | 12 Pins                          | 0，1，2，3，4，5，6，7，8，26，27，28                  |
-| IIC Interface          | 3 Pins                           | Pins are 16, 17                                        |
-| Full color light beads | 2 pcs                            | The lamp bead model is ws2812b                         |
-| Buzzer                 | Passive buzzer                   | Model：SEN-OASS2P0905-DIP                              |
-| Block base             | Standard 11×7 square block frame | -                                                      |
-| Reset button           | RESET button                     | -                                                      |
+| Items                 | Parameter                                                    |
+| :-------------------- | ------------------------------------------------------------ |
+| SKU                   | EF02054                                                      |
+| Size                  | 87.8 × 55.8 × 36.3mm                                         |
+| Net Weight            | 50g (Exclude the battery and Pico)                           |
+| Power Switch          | Switch on/off                                                |
+| Reset Button          | Support                                                      |
+| Power Supply          | 18650 Lithium Battery（Optional）                            |
+| Charging Current      | 1000 mA                                                      |
+| Charging Time         | About 120 minutes                                            |
+| Working Voltage       | 2.8V~4.2V                                                    |
+| Overall Battery Life  | 60 minutes                                                   |
+| Expansion GPIO Ports  | 14 ways                                                      |
+| IIC Ports             | Support                                                      |
+| SPI Ports             | Support                                                      |
+| UART Ports            | Support                                                      |
+| Onboard Components    | 2 x Rainbow LEDs；2 x Buttons；1 x Buzzer；                  |
+| Motor Driving         | 4 ways（M1、M2、M3、M4）                                     |
+| Motor Working Voltage | 3.7V                                                         |
+| Fixing Method         | Include a 11 x 7 square brick, available for connection with bricks |
 
 ## Programming environment configuration
 

@@ -45,6 +45,11 @@ Steps of build-up:
 
 ![](./images/cutebot-step-09.png)
 
+![](./images/cutebot-step-10.png)
+
+![](./images/cutebot-step-11.png)
+
+![](./images/cutebot-step-12.png)
 
 
 ### Connections of the AI Lens:

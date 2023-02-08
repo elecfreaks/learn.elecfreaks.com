@@ -42,6 +42,11 @@
 
 ![](./images/cutebot-step-09.png)
 
+![](./images/cutebot-step-10.png)
+
+![](./images/cutebot-step-11.png)
+
+![](./images/cutebot-step-12.png)
 
 
 ### AI摄像头连线方式：

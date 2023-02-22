@@ -8,7 +8,7 @@
 
 ## 购买链接
 
-[micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
+[悟空创意搭建套装](https://item.taobao.com/item.htm?id=649813731275&spm=2015.23436601.0.0)
 
 ## 所需材料
 

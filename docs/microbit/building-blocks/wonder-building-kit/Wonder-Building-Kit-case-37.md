@@ -3,7 +3,6 @@
 制作一辆转向车。
 
 ![](./images/Wonder-Building-Kit-case-37-01.png)
-
 ## 购买链接
 
 [micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)

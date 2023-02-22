@@ -10,7 +10,7 @@ Microbit Retro Arcade除了作为游戏编程学习机，还可以作为遥控�
 
 ## 购买链接
 
-[Microbit Retro Arcade]()
+<!--[Microbit Retro Arcade]()-->
 
 ## 特点
 

@@ -15,6 +15,49 @@
 搭建视频链接:
 [https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=19&page=19](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=19&page=19)
 
+## 搭建步骤
+
+
+![](./images/step-case-19-01.png)
+
+![](./images/step-case-19-02.png)
+
+![](./images/step-case-19-03.png)
+
+![](./images/step-case-19-04.png)
+
+![](./images/step-case-19-05.png)
+
+![](./images/step-case-19-06.png)
+
+![](./images/step-case-19-07.png)
+
+![](./images/step-case-19-08.png)
+
+![](./images/step-case-19-09.png)
+
+![](./images/step-case-19-10.png)
+
+![](./images/step-case-19-11.png)
+
+![](./images/step-case-19-12.png)
+
+![](./images/step-case-19-13.png)
+
+![](./images/step-case-19-14.png)
+
+![](./images/step-case-19-15.png)
+
+![](./images/step-case-19-16.png)
+
+![](./images/step-case-19-17.png)
+
+![](./images/step-case-19-18.png)
+
+![](./images/step-case-19-19.png)
+
+![](./images/step-case-19-20.png)
+
 ## 软件编程平台
 
 [MakeCode](https://makecode.microbit.org/)

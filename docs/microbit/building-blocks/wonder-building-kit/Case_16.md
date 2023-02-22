@@ -17,6 +17,57 @@
 搭建视频链接:
 [https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=16&page=16](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=16&page=16)
 
+## 搭建步骤
+
+
+![](./images/step-case-16-01.png)
+
+![](./images/step-case-16-02.png)
+
+![](./images/step-case-16-03.png)
+
+![](./images/step-case-16-04.png)
+
+![](./images/step-case-16-05.png)
+
+![](./images/step-case-16-06.png)
+
+![](./images/step-case-16-07.png)
+
+![](./images/step-case-16-08.png)
+
+![](./images/step-case-16-09.png)
+
+![](./images/step-case-16-10.png)
+
+![](./images/step-case-16-11.png)
+
+![](./images/step-case-16-12.png)
+
+![](./images/step-case-16-13.png)
+
+![](./images/step-case-16-14.png)
+
+![](./images/step-case-16-15.png)
+
+![](./images/step-case-16-16.png)
+
+![](./images/step-case-16-17.png)
+
+![](./images/step-case-16-18.png)
+
+![](./images/step-case-16-19.png)
+
+![](./images/step-case-16-20.png)
+
+![](./images/step-case-16-21.png)
+
+![](./images/step-case-16-22.png)
+
+![](./images/step-case-16-23.png)
+
+![](./images/step-case-16-24.png)
+
 ## 软件编程平台
 
 [MakeCode](https://makecode.microbit.org/)

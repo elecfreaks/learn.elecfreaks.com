@@ -17,12 +17,6 @@ Microbit Retro Arcade除了作为游戏编程学习机，还可以作为遥控�
 - 可作为遥控手柄，与机器人小车通讯控制
 - 可作为扩展游戏掌机，通过图形化编程创作个性游戏
 
-
-## 外形与尺寸定位
-
-![](./images/microbit-retro-arcade-02.png)
-
-
 ## 基础参数
 
 | 项目 | 参数 |
@@ -33,6 +27,13 @@ Microbit Retro Arcade除了作为游戏编程学习机，还可以作为遥控�
 | 净重 | 52g |
 | 供电方式 | 干电池 |
 
+<!--## 外形与尺寸定位
+
+![](./images/microbit-retro-arcade-02.png)
+
+
+
+
 ## 功能性模块介绍
 
 
@@ -41,21 +42,9 @@ Microbit Retro Arcade除了作为游戏编程学习机，还可以作为遥控�
 
 ### 安装步骤
 
-安装铜柱
 
-![](./images/microbit-retro-arcade-04.png)
+![](./images/microbit-retro-arcade-04.png)-->
 
-安装透明亚克力前面板
-
-![](./images/microbit-retro-arcade-05.png)
-
-安装透明亚克力背板
-
-![](./images/microbit-retro-arcade-06.png)
-
-装入3节 3A 电池并插入micro:bit 主板。
-
-![](./images/microbit-retro-arcade-07.png)
 
 
 ## 游戏编程指南

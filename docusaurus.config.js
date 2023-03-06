@@ -114,3 +114,36 @@ const config = {
 };
 
 module.exports = config;
+/* module.exports = {
+  // ...
+  themeConfig: {
+    // ...
+    algolia: {
+      appId: 'IZBFN6E0BY',
+
+      apiKey: 'Yd2816364d6eecbcf5597035a308ab8b9',
+
+      indexName: 'wiki',
+
+
+      contextualSearch: true,
+
+      //externalUrlRegex: 'external\\.com|domain\\.com',
+
+      // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+      replaceSearchResultPathname: {
+        from: '/docs/', // or as RegExp: /\/docs\//
+        to: '/',
+      },
+
+      // Optional: Algolia search parameters
+      searchParameters: {},
+
+      // Optional: path for search page that enabled by default (`false` to disable it)
+      searchPagePath: 'search',
+
+      //... other Algolia params
+    },
+  },
+}; */
+

@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'LEARN',
   tagline: 'Focus on micro:bit accessories!',
-  url: 'https://www.elecfreaks.com/',
-  baseUrl: '/learn/',
+  url: 'https://wiki.elecfreaks.com/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

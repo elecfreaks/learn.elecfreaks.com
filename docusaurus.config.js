@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'LEARN',
   tagline: 'Focus on micro:bit accessories!',
-  url: 'https://www.elecfreaks.com/learn/',
-  baseUrl: '/learn/',
+  url: 'https://wiki.elecfreaks.com/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -58,13 +58,38 @@ const config = {
           {
             type: 'localeDropdown',
           },
-          
+
         ],
       },
       docs: {
         sidebar: {
           autoCollapseCategories: true
         }
+      },
+      algolia: {
+        appId: 'A6EQY7GSER',
+
+        apiKey: '0ec62903d139b30a091f2e00fc7eab05',
+
+        indexName: 'elecfreaks',
+
+        contextualSearch: true,
+
+        //externalUrlRegex: 'external\\.com|domain\\.com',
+
+        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+        replaceSearchResultPathname: {
+          from: '/docs/', // or as RegExp: /\/docs\//
+          to: '/',
+        },
+
+        // Optional: Algolia search parameters
+        searchParameters: {},
+
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
+
+        //... other Algolia params
       },
       footer: {
         style: 'dark',
@@ -114,36 +139,4 @@ const config = {
 };
 
 module.exports = config;
-/* module.exports = {
-  // ...
-  themeConfig: {
-    // ...
-    algolia: {
-      appId: 'IZBFN6E0BY',
-
-      apiKey: 'Yd2816364d6eecbcf5597035a308ab8b9',
-
-      indexName: 'wiki',
-
-
-      contextualSearch: true,
-
-      //externalUrlRegex: 'external\\.com|domain\\.com',
-
-      // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-      replaceSearchResultPathname: {
-        from: '/docs/', // or as RegExp: /\/docs\//
-        to: '/',
-      },
-
-      // Optional: Algolia search parameters
-      searchParameters: {},
-
-      // Optional: path for search page that enabled by default (`false` to disable it)
-      searchPagePath: 'search',
-
-      //... other Algolia params
-    },
-  },
-}; */
 

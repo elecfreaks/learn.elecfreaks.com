@@ -1,9 +1,9 @@
-# Microbit Retro Arcade
+# micro:bit Retro Arcade
 
 ## Product introduction
 
-Micro:bit Retro Arcade is a color screen joystick expansion board for micro:bit V2, it contains a TFT 160*128 color screen, 4 directional buttons, two A/B buttons and a reset button. Micro:bit Retro Arcade can be used with Micro:bit V2 to program games online and play offline on the Microsoft Arcade programming platform. It is a simple and fun way to help children write their own games and understand the mystery behind them. It also supports custom game characters, diverse scenarios and plot design using graphical programming software, making it easy for everyone to achieve fun electronic creations and unlimited game ideas.
-Micro:bit Retro Arcade can also be used as a remote control handle in addition to a game programming learning machine.
+micro:bit Retro Arcade is a color screen joystick expansion board for micro:bit V2, it contains a TFT 160*128 color screen, 4 directional buttons, two A/B buttons and a reset button. micro:bit Retro Arcade can be used with micro:bit V2 to program games online and play offline on the Microsoft Arcade programming platform. It is a simple and fun way to help children write their own games and understand the mystery behind them. It also supports custom game characters, diverse scenarios and plot design using graphical programming software, making it easy for everyone to achieve fun electronic creations and unlimited game ideas.
+micro:bit Retro Arcade can also be used as a remote control handle in addition to a game programming learning machine.
 
 ![](./images/microbit-retro-arcade-01.png)
 
@@ -45,12 +45,12 @@ Micro:bit Retro Arcade can also be used as a remote control handle in addition t
 
 ![](./images/microbit-retro-arcade-04.png)-->
 
-The Micro:bit V2 is combined with an expansion board and microUSB is connected to the Micro:bit V2.
+The micro:bit V2 is combined with an expansion board and microUSB is connected to the micro:bit V2.
 
 ## Game Programming Guide
 
 
-- At this time, if power is supplied from the Micro:bit V2 side, the power switch of the expansion board will be on regardless of the switch.
+- At this time, if power is supplied from the micro:bit V2 side, the power switch of the expansion board will be on regardless of the switch.
 - The expansion board power switch will control the power supply from the expansion board side.
 
 ## Programming Platform
@@ -66,7 +66,7 @@ Arcade game programming platform address: [https://arcade.makecode.com](https://
 
 **Introduction to the programming interface, for the basic introduction to the first roughly divided into 3 parts need to understand**
 
-1. Online simulator: Simulate the running effect in real time according to the logic of the code 
+1. Online simulator: Simulate the running effect in real time according to the logic of the code
 2. Programming blocks bar: we drag in programming code from here for programming
 3. Code editing area: we drag out the code from the block bar and put it together here to finish building the image, interface and logic of the game
 
@@ -104,7 +104,7 @@ To prevent the sprite from moving out of the screen screen, set the sprite to be
 
 ### Download steps
 
-Since the Micro:bit V2 (nRF52833) is still in beta for the Arcade platform officials, we need to first go to the platform's settings page to open up the hardware options that are still in the trial version.
+Since the micro:bit V2 (nRF52833) is still in beta for the Arcade platform officials, we need to first go to the platform's settings page to open up the hardware options that are still in the trial version.
 
 ![](./images/microbit-retro-arcade-16.png)
 
@@ -116,7 +116,7 @@ Then go back to the programming home page, click on the download button in the b
 
 ![](./images/microbit-retro-arcade-18.png)
 
-You will get a file in .hex format, drag it into the MICROBIT drive to run it on Micro:bit V2 + Microbit Retro Arcade.
+You will get a file in .hex format, drag it into the MICROBIT drive to run it on micro:bit V2 + Microbit Retro Arcade.
 
 ![](./images/microbit-retro-arcade-19.png)
 
@@ -126,7 +126,7 @@ You will get a file in .hex format, drag it into the MICROBIT drive to run it on
 
 The following materials are required for this case.
 
-- Micro:bit V2 × 2
+- micro:bit V2 × 2
 - Microbit Retro Arcade × 1
 - Cutebot × 1
 
@@ -183,7 +183,7 @@ Link: [https://makecode.com/_1HCLTf71TFJk](https://makecode.com/_1HCLTf71TFJk)
 
 ### Download steps
 
-Since the Micro:bit V2 (nRF52833) is still in beta for the Arcade platform officials, we need to first go to the platform's settings page to open up the hardware options that are still in the trial version.
+Since the micro:bit V2 (nRF52833) is still in beta for the Arcade platform officials, we need to first go to the platform's settings page to open up the hardware options that are still in the trial version.
 
 ![](./images/microbit-retro-arcade-16.png)
 
@@ -193,6 +193,6 @@ Make sure Expermental Hardware is enabled (you only need to set it once)
 
 Then go back to the programming home page, click on the download button in the bottom left corner, and in the pop-up select hardware window pull down to the bottom and select N3![](./images/microbit-retro-arcade-18.png)
 
-You will get a file in .hex format, drag it into the MICROBIT drive to run it on Micro:bit V2 + Microbit Retro Arcade.
+You will get a file in .hex format, drag it into the MICROBIT drive to run it on micro:bit V2 + Microbit Retro Arcade.
 
 ![](./images/microbit-retro-arcade-19.png)

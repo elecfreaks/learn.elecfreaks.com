@@ -9,7 +9,7 @@ Go to  [Python editor](https://python.microbit.org/v/2.0)
 
 ![](./images/cutebot-py-01.png)
 
-We need to add Cutebot.py for programming. Click "Load/Save" and then click "Show Files (1)" to see more choices, click "Add file" to add Cutebot.py from the unzipped package of EF_Produce_MicroPython-master. 
+We need to add Cutebot.py for programming. Click "Load/Save" and then click "Show Files (1)" to see more choices, click "Add file" to add Cutebot.py from the unzipped package of EF_Produce_MicroPython-master.
 
 ![](./images/cutebot-py-02.png)
 ![](./images/cutebot-py-03.png)
@@ -23,7 +23,7 @@ Create an object.
 
 `set_motors_speed(self, left_wheel_speed: int, right_wheel_speed: int)`
 
-Set the speed of both wheels: 
+Set the speed of both wheels:
 
         `left_wheel_speed: int` Speed of the left: -100～100
         `right_wheel_speed: int` Speed of the right: -100～100
@@ -36,7 +36,7 @@ Set the color of the headlights：
         `R`:channel color-255`
         `G`:channel color-255`
         `B`:channel color-255`
-        
+
 
 
 `get_distance(self, unit: int = 0)`
@@ -44,8 +44,8 @@ Set the color of the headlights：
 Get the distance from the ultrasonic sound sensor:
 
         `unit`detecting the distances:` 0 `cm,` 1 `lnch
-        
-         
+
+
 
 `get_tracking(self)`
 
@@ -55,11 +55,11 @@ Get the status from the tracking headers:
                `10` left in black and right in white
                `01` left in white and right in black
                `11` all in black
-               
+
 
 `set_servo(self, servo, angle)`
 
-Choose the servos and set the angles/speed: 
+Choose the servos and set the angles/speed:
 
             `servo (number)`choose the servos 1,2
            `angle (number)`set the angles of the servo 0~180
@@ -68,7 +68,7 @@ Choose the servos and set the angles/speed:
 
 ## Samples
 ---
-### Sample 1: Drive the car at a full speed. 
+### Sample 1: Drive the car at a full speed.
 ```
 from microbit import *
 from Cutebot import *
@@ -77,7 +77,7 @@ ct.set_motors_speed(100, 100)
 
 ```
 ### Result
-- The speed of the left and right wheels is at 100, the car moves forward at the full speed. 
+- The speed of the left and right wheels is at 100, the car moves forward at the full speed.
 
 
 ### Sample 2: Turn the headlights on
@@ -89,9 +89,9 @@ ct.set_car_light(left, 0, 90, 90)
 ct.set_car_light(right, 200, 200, 0)
 ```
 ### Result
-- The two headlights light up in different colours. 
+- The two headlights light up in different colours.
 
-### Sample 3: Obstacles avoidance 
+### Sample 3: Obstacles avoidance
 ```
 from microbit import *
 from Cutebot import *
@@ -107,9 +107,9 @@ while(True):
         dis.set_motors_speed(50, 50)
 ```
 ### Result
-- The [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r) turns its direction once it detects any obstacle ahead of it. 
+- The [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) turns its direction once it detects any obstacle ahead of it.
 
-### Sample 4: Line-tracking 
+### Sample 4: Line-tracking
 ```
 from microbit import *
 from Cutebot import *
@@ -121,15 +121,15 @@ while(True):
     if i == 10:
         dis.set_motors_speed(10, 50)
     if i == 1:
-        dis.set_motors_speed(50, 10)   
+        dis.set_motors_speed(50, 10)
     if i == 11:
-        dis.set_motors_speed(25, 25)  
+        dis.set_motors_speed(25, 25)
 ```
 ### Result
 
-- The Cutebot drives along with the black line. 
+- The Cutebot drives along with the black line.
 
-### Sample 5:  Control the servo  
+### Sample 5:  Control the servo
 ```
 from microbit import *
 from Cutebot import *
@@ -143,7 +143,7 @@ while(True):
     sleep(1000)
 ```
 ### Result
-- The servo connecting to S1 continues driving back and forth. 
+- The servo connecting to S1 continues driving back and forth.
 
 ## FAQ
 ---

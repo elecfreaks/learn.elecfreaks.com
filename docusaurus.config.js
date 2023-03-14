@@ -107,7 +107,7 @@ const config = {
               },
               {
                 label: 'Instagram',
-                href: 'http://instagram.com/elecfreaks',
+                href: 'https://instagram.com/elecfreaks',
               },
               {
                 label: 'Youtube',

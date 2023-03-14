@@ -10,11 +10,11 @@ Make a dust detection device to automatically turn on the fan for ventilation wh
 
 ### Required equipment
 
-[ELECFREAKS micro:bit Nezha 48 IN 1 Inventor's Kit ](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board)
+[ELECFREAKS micro:bit Nezha 48 IN 1 Inventor's Kit ](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
 
-[ELECFREAKS PlanetX Dust Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-dust-sensor)
+[ELECFREAKS PlanetX Dust Sensor](https://www.elecfreaks.com/planetx-dust.html)
 
-[ELECFREAKS PlanetX Motor Fan](https://shop.elecfreaks.com/products/elecfreaks-planetx-motor-fan)
+[ELECFREAKS PlanetX Motor Fan](https://www.elecfreaks.com/planetx-motor-fan.html)
 
 ### Assembly steps
 

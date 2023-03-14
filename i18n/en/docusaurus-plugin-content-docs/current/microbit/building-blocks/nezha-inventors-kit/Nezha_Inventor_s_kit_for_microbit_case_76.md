@@ -10,11 +10,11 @@ The Tomato Clock is a clock that uses the tomato work method to manage time, hel
 
 ### Required equipment
 
-[ELECFREAKS micro:bit Nezha 48 IN 1 Inventor's Kit ](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board)
+[ELECFREAKS micro:bit Nezha 48 IN 1 Inventor's Kit ](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
 
-[ELECFREAKS PlanetX Segment Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-segment-sensor?_pos=2&_sid=f9a8632cc&_ss=r)
+[ELECFREAKS PlanetX Segment Sensor](https://www.elecfreaks.com/planetx-segment.html)
 
-[ELECFREAKS PlanetX Rainbow LED](https://shop.elecfreaks.com/products/elecfreaks-planetx-led-rainbow?_pos=4&_sid=ca220ba80&_ss=r)
+[ELECFREAKS PlanetX Rainbow LED](https://www.elecfreaks.com/planetx-rainbow-led.html)
 
 ### Assembly steps
 

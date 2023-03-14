@@ -10,9 +10,9 @@ The right amount of UV rays has a boosting effect on plant growth, but too much 
 
 ### Required equipment
 
-[ELECFREAKS micro:bit Nezha 48 IN 1 Inventor's Kit ](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board)
+[ELECFREAKS micro:bit Nezha 48 IN 1 Inventor's Kit ](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
 
-[ELECFREAKS PlanetX UV Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-uv-sensor?_pos=1&_sid=4a987bec7&_ss=r)
+[ELECFREAKS PlanetX UV Sensor](https://www.elecfreaks.com/planetx-uv.html)
 
 
 ### Structure construction

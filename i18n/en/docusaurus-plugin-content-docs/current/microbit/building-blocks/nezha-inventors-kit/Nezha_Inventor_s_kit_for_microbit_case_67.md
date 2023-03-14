@@ -1,7 +1,7 @@
 # Case 67: The Blocks Emitter
 ## Introduction
 
-Use  **[Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)** and  [Potentiometer ](https://shop.elecfreaks.com/products/elecfreaks-planetx-trimpot-sensor?_pos=1&_sid=5a8a7f5cf&_ss=r)to make a blocks emitter that can control the firing frequency with a knob and can be loaded automatically.
+Use  **[Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)** and  [Potentiometer ](https://www.elecfreaks.com/planetx-trimpot.html)to make a blocks emitter that can control the firing frequency with a knob and can be loaded automatically.
 
 ![](./images/neza-inventor-s-kit-case-67-01.png)
 
@@ -9,9 +9,9 @@ Use  **[Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecf
 
 ### Materials Required
 
-**[Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)**
+**[Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)**
 
-[Potentiometer](https://shop.elecfreaks.com/products/elecfreaks-planetx-trimpot-sensor?_pos=1&_sid=5a8a7f5cf&_ss=r)
+[Potentiometer](https://www.elecfreaks.com/planetx-trimpot.html)
 
 Rubber bands
 

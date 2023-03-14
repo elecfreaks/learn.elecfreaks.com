@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Build a tightrope walker with the [Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r).
+Build a tightrope walker with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html).
 
 ![](./images/44_1.png)
 
@@ -10,7 +10,7 @@ Build a tightrope walker with the [Nezha Inventor's Kit](https://shop.elecfreaks
 
 ### Materials Required
 
-[Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)
+[Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
 
 Rubber band × 1
 

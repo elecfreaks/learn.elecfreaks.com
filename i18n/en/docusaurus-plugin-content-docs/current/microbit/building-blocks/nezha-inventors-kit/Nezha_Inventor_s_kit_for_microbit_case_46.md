@@ -1,7 +1,7 @@
 # Case 46：Rangefinder Guitar
 
 ## Introduction
-Build a rangefinder guitar with the [Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r).
+Build a rangefinder guitar with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html).
 
 ![](./images/neza-inventor-s-kit-case-46-01.png)
 
@@ -9,7 +9,7 @@ Build a rangefinder guitar with the [Nezha Inventor's Kit](https://shop.elecfrea
 
 ### Materials Required
 
-[Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)
+[Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
 
 ### Assembly
 

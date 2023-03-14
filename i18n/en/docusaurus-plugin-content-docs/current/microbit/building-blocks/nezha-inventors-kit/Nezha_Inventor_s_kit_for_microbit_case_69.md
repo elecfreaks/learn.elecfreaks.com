@@ -1,7 +1,7 @@
 # Case 69: The Trimpot Remote Control Car
 ## Introduction
 
-Use **[Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)** with [ELECFREAKS Interactive Coding Accessories Pack](https://shop.elecfreaks.com/products/elecfreaks-interactive-coding-accessories-pack?_pos=1&_sid=1c056c00d&_ss=r)
+Use **[Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)** with [ELECFREAKS Interactive Coding Accessories Pack](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
 to make a remote control car through the potentiometer, which includes two blocks parts of the remote controller and the car.
 
 ![](./images/neza-inventor-s-kit-case-69-01.png)
@@ -10,9 +10,9 @@ to make a remote control car through the potentiometer, which includes two block
 
 ### Materials Required
 
-[ELECFREAKS micro:bit Nezha 48 IN 1 Inventor's Kit ](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=1&_sid=7e719ce53&_ss=r)
+[ELECFREAKS micro:bit Nezha 48 IN 1 Inventor's Kit ](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
 
-[ELECFREAKS Interactive Coding Accessories Pack](https://shop.elecfreaks.com/products/elecfreaks-interactive-coding-accessories-pack?_pos=1&_sid=1c056c00d&_ss=r)
+[ELECFREAKS Interactive Coding Accessories Pack](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
 
 
 ### Structure Building

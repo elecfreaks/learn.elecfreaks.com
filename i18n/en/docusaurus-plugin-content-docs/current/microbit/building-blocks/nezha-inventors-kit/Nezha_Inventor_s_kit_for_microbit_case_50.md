@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Make a small trash can with [Nezha-A Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r).
+Make a small trash can with [Nezha-A Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html).
 
 
 ![](./images/50_1.png)
@@ -11,7 +11,7 @@ Make a small trash can with [Nezha-A Inventor's Kit](https://shop.elecfreaks.com
 
 ### Materials Rrquired
 
-[Nezha-A Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)
+[Nezha-A Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
 
 ### Assembly
 

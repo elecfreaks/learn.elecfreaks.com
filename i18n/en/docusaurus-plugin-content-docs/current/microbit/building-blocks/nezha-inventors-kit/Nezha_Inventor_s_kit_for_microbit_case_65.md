@@ -1,7 +1,7 @@
 # Case 65: Drum Beater
 ## Introduction
 
-Use **[Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)** and [trimpot](https://shop.elecfreaks.com/products/elecfreaks-planetx-trimpot-sensor?_pos=1&_sid=5a8a7f5cf&_ss=r)to build the drum machine that can control the speed with a knob.
+Use **[Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)** and [trimpot](https://www.elecfreaks.com/planetx-trimpot.html)to build the drum machine that can control the speed with a knob.
 
 ![](./images/neza-inventor-s-kit-case-65-01.png)
 
@@ -9,9 +9,9 @@ Use **[Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfr
 
 ### Materials Required
 
- **[Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)**
+ **[Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)**
 
-[trimpot](https://shop.elecfreaks.com/products/elecfreaks-planetx-trimpot-sensor?_pos=1&_sid=5a8a7f5cf&_ss=r)
+[trimpot](https://www.elecfreaks.com/planetx-trimpot.html)
 
 ### Structure Construction
 

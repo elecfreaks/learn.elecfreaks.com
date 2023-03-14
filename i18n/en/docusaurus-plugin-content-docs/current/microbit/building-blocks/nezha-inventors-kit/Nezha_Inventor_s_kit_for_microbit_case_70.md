@@ -16,7 +16,7 @@ Speech recognition module × 1
 
 Laser module × 1
 
-[Four-Channel Tracking  Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-4-channel-tracking-sensor) × 1
+[Four-Channel Tracking  Sensor](https://www.elecfreaks.com/planetx-tracking.html) × 1
 
 Motors × 2
 
@@ -24,7 +24,7 @@ RJ11 cables × 1
 
 Bricks × n
 
-**Note: If you want all of the above components, you may purchase the [Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=3&_sid=7e0550154&_ss=r)**.
+**Note: If you want all of the above components, you may purchase the [Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)**.
 
 
 

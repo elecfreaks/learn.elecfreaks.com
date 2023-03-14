@@ -1,7 +1,7 @@
 # Case 61: The Boxing Robot
 ## Introduction
 
-Make a boxing robot with [Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r).
+Make a boxing robot with [Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html).
 
 
 ![](./images/neza-inventor-s-kit-case-61-01.png)
@@ -10,7 +10,7 @@ Make a boxing robot with [Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.
 
 ### Materials Required
 
-[Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)
+[Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
 
 ### Assembly steps
 

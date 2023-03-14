@@ -1,7 +1,7 @@
 # Case 71: Blocks Sorting Machine
 ## Introduction
 
-Use [ELECFREAKS micro:bit Nezha 48 IN 1 Inventor's Kit ](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board) with [ELECFREAKS Interactive Coding Accessories Pack](https://shop.elecfreaks.com/products/elecfreaks-interactive-coding-accessories-pack) to make a block sorting machine.
+Use [ELECFREAKS micro:bit Nezha 48 IN 1 Inventor's Kit ](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) with [ELECFREAKS Interactive Coding Accessories Pack](https://www.elecfreaks.com/interactive-coding-accessories-pack.html) to make a block sorting machine.
 
 ![](./images/neza-inventor-s-kit-case-71-01.png)
 
@@ -9,9 +9,9 @@ Use [ELECFREAKS micro:bit Nezha 48 IN 1 Inventor's Kit ](https://shop.elecfreaks
 
 ### Materials Required
 
-[ELECFREAKS micro:bit Nezha 48 IN 1 Inventor's Kit ](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board)
+[ELECFREAKS micro:bit Nezha 48 IN 1 Inventor's Kit ](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
 
-[ELECFREAKS Interactive Coding Accessories Pack](https://shop.elecfreaks.com/products/elecfreaks-interactive-coding-accessories-pack)
+[ELECFREAKS Interactive Coding Accessories Pack](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
 
 ### Structure Building
 

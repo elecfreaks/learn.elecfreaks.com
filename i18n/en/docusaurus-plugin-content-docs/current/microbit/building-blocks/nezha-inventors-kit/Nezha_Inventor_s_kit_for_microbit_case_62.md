@@ -1,7 +1,7 @@
 # Case 62: The Gesture-controlled Fan
 ## Introduction
 
-Use [Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r) with [ELECFREAKS Planetx Gesture Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-gesture-sensor?_pos=1&_sid=e300bc9f9&_ss=r), [8 RGB Rainbow LED Ring](https://shop.elecfreaks.com/products/elecfreaks-planetx-led-rainbow?_pos=2&_sid=a43c5c85b&_ss=r) and [ELECFREAKS PlanetX Motor Fan](https://shop.elecfreaks.com/products/elecfreaks-planetx-motor-fan?_pos=1&_sid=d6d4e0ca2&_ss=r) to create a fan that can control the wind speed through gestures.
+Use [Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) with [ELECFREAKS Planetx Gesture Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-gesture-sensor?_pos=1&_sid=e300bc9f9&_ss=r), [8 RGB Rainbow LED Ring](https://shop.elecfreaks.com/products/elecfreaks-planetx-led-rainbow?_pos=2&_sid=a43c5c85b&_ss=r) and [ELECFREAKS PlanetX Motor Fan](https://shop.elecfreaks.com/products/elecfreaks-planetx-motor-fan?_pos=1&_sid=d6d4e0ca2&_ss=r) to create a fan that can control the wind speed through gestures.
 
 
 ![](./images/neza-inventor-s-kit-case-62-01.png)
@@ -12,13 +12,13 @@ Use [Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfrea
 
 ### Materials Required
 
-[Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)
+[Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
 
-[ELECFREAKS Planetx Gesture Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-gesture-sensor?_pos=1&_sid=e300bc9f9&_ss=r)
+[ELECFREAKS Planetx Gesture Sensor](https://www.elecfreaks.com/planetx-gesture.html)
 
-[8 RGB Rainbow LED Ring](https://shop.elecfreaks.com/products/elecfreaks-planetx-led-rainbow?_pos=2&_sid=a43c5c85b&_ss=r)
+[8 RGB Rainbow LED Ring](https://www.elecfreaks.com/planetx-rainbow-led.html)
 
-[ELECFREAKS PlanetX Motor Fan](https://shop.elecfreaks.com/products/elecfreaks-planetx-motor-fan?_pos=1&_sid=d6d4e0ca2&_ss=r)
+[ELECFREAKS PlanetX Motor Fan](https://www.elecfreaks.com/planetx-motor-fan.html)
 
 ### Structure building
 

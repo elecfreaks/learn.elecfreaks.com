@@ -8,7 +8,7 @@ Hello, in the first few lessons, we basically programmed the program first and t
 
 ## Materials
 
-1 × [micro:bit XGO Robot Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-xgo-robot-kit?_pos=1&_sid=c796ff3f3&_ss=r)
+1 × [micro:bit XGO Robot Kit](https://www.elecfreaks.com/micro-bit-xgo-robot-kit.html)
 
 1 × [Joystick:bit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-joystick-bit-v2-kit?_pos=2&_sid=6d5690385&_ss=r)
 

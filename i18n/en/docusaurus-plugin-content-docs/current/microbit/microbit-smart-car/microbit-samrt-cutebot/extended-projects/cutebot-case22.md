@@ -49,7 +49,7 @@ For programming, we need to add a package. Click “Extensions” at the bottom 
 
 ![](./images/cutebot-case-22-04.png)
 
-Link: [https://makecode.microbit.org/_H4MdUR2yChCp](https://makecode.microbit.org/_H4MdUR2yChCp)
+Link: [https://makecode.microbit.org/_37vPJbT0g1Pj](https://makecode.microbit.org/_37vPJbT0g1Pj)
 
 You can also download the program directly from the following webpage.
 
@@ -61,7 +61,7 @@ You can also download the program directly from the following webpage.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_H4MdUR2yChCp"
+        src="https://makecode.microbit.org/_37vPJbT0g1Pj"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -76,7 +76,7 @@ You can also download the program directly from the following webpage.
 
 ![](./images/cutebot-case-22-05.png)
 
-Link: [https://makecode.microbit.org/_6fy3K4Xctdgz](https://makecode.microbit.org/_6fy3K4Xctdgz)
+Link: [https://makecode.microbit.org/_V857iRc9PTFv](https://makecode.microbit.org/_V857iRc9PTFv)
 
 You can also download the program directly from the following webpage.
 
@@ -88,7 +88,7 @@ You can also download the program directly from the following webpage.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_6fy3K4Xctdgz"
+        src="https://makecode.microbit.org/_V857iRc9PTFv"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

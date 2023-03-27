@@ -140,11 +140,16 @@ Completed.
 
 ### Ways to power on&charge
 
-Original power switch, click to power on and the indicator LED lights on.
-Double click to power off and the indicator LED lights off.
-Connect the USB cable to the on-board connection. The normal lighting-on LEDs indicate the state of charge, if the left LEDs lights on in turn, it indicates the charge of the battery.
+Click the power switch to power on, the power indicator lights up.
+Double-click the power switch to turn off the power, the power indicator will be off.
+Connect the USB power cable to the charging port, the constant light is the current remaining power, the remaining light will be lit in turn to enter charging mode.
 
 ![](./images/wukong_07.jpg)
+
+Charging status:
+1. The indicator light of the current battery is always on, and the indicator light is flashing during charging.
+2. The four lights are always on when it is fully charged.
+3. When the microbit is pulled out in the powered-on state, the indicator light flashes three times and then the motor and servo power are turned off.
 
 ### Breathing LEDs
 

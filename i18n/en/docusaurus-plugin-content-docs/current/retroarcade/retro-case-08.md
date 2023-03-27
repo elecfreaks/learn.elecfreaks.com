@@ -20,7 +20,7 @@ Set when the genie touches the plants on the road, the game will fail, when the 
 
 ![retro-case-08-01.png](./images/retro-case-08-01.png)
 
-![retro-case-08-02.png](./images/retro-case-08-02.png)
+
 
 ### Procedures
 

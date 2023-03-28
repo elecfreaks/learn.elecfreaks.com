@@ -20,18 +20,42 @@ Make a simple Pac-Man mini-game.
 
 ![retro-case-06-01.png](./images/retro-case-06-01.png)
 
-`When the player controls the character and the food overlap`, `Set food to reappear in random locations`, `Start the three-second countdown`, `Score increase by 1`. 
+`When the player controls the character and the food overlap`, `Set food to reappear in random locations`, `Start the three-second countdown`, `Score increase by 1`.
 
 ![retro-case-06-02.png](./images/retro-case-06-02.png)
 
 ### Procedures
 
 Link: [https://makecode.com/_H8tLp7FY8a8i](https://makecode.com/_H8tLp7FY8a8i)
+
 You can also download the program directly from the following pages.
+
+You may download it directly below:
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.com/_H8tLp7FY8a8i"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+
 
 ## Program Download
 
-Please see the documentation for the program download: [Program Download Method](https://www.yuque.com/elecfreaks-learn/retro/wxo25w)
+Please see the documentation for the program download: [Program Download Method](http://wiki.elecfreaks.com/en/retroarcade/program-download-method)
 
 
 ## Conclusion

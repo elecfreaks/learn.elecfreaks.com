@@ -65,12 +65,33 @@ Complete procedure:
 
 Link: [https://makecode.com/_XmF9Vi8VK665](https://makecode.com/_XmF9Vi8VK665)
 
+You may download it directly below:
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.com/_XmF9Vi8VK665"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+
 
 ## Program Download
 
-Please see the documentation for the program download: [Program Download Method](https://www.yuque.com/elecfreaks-learn/retro/wxo25w)
+Please see the documentation for the program download: [Program Download Method](http://wiki.elecfreaks.com/en/retroarcade/program-download-method)
 
 ## Conclusion
 
 Elf from the entrance to the map will start the countdown, when the countdown has not yet reached the end of the game is over, before the end of the countdown to the end of the game victory, the background color will automatically change according to the ambient light brightness, when the brightness is dark, the background color is black, when the brightness is bright, the background color is light blue.
-

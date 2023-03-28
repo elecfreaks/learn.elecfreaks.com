@@ -37,6 +37,7 @@ While the player overlaps with the food, set the food display at another random 
 ![](./images/retro-case-06-02.png)
 
 ### Program
+
 Link: [https://makecode.com/_H8tLp7FY8a8i](https://makecode.com/_H8tLp7FY8a8i)
 
 
@@ -71,13 +72,21 @@ You may download it directly below:
 After programming, connect the computer with the Retro via the USB cable.
 
 ![](./images/retro-case-01-10.png)
+
 Choose hardware "F4".
-  ![](./images/retro-case-01-11.png)
+
+![](./images/retro-case-01-11.png)
+
 Match the devices and get connected with "Arcade (app)".
-  ![](./images/retro-case-01-12.png)
+
+![](./images/retro-case-01-12.png)
+
 Click the reset button on the Retro and go to the downloading page.
-  ![](./images/retro-case-01-13.png)
+
+![](./images/retro-case-01-13.png)
+
 Click downloading to compile the program into the Retro.
+
 ![](./images/retro-case-01-14.png)
 
 

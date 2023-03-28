@@ -30,11 +30,33 @@ Link: [https://makecode.com/_cwHAsEA9U7sA](https://makecode.com/_cwHAsEA9U7sA)
 
 You can also download the program directly from the following pages.
 
+You may download it directly below:
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.com/_cwHAsEA9U7sA"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+
+
 ## Program Download
 
-Please see the documentation for the program download：[Program Download Method](https://www.yuque.com/elecfreaks-learn/retro/wxo25w)
+Please see the documentation for the program download: [Program Download Method](http://wiki.elecfreaks.com/en/retroarcade/program-download-method)
 
 ## Conclusion
 
 The bird flies out from the location of the large tree in a random direction at a random speed.
-

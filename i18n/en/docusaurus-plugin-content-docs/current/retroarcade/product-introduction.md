@@ -19,7 +19,7 @@ The Retro Makecode Arcade for Education makes kids fall in love with programming
 
 ![retro-01.png](./images/retro-01.png)
 
-![retro-02.png](./images/retro-02.png)
+
 
 ### Product parameters
 | Product Name | Retro Makecode Arcade For Education |

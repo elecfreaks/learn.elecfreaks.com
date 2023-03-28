@@ -1,4 +1,4 @@
-# Little heroes (1)
+# Case 04:Little heroes (1)
 
 ##  Purpose
 
@@ -20,8 +20,6 @@ Set the background color and set the block map.
 
 ![retro-case-04-01.png](./images/retro-case-04-01.png)
 
-![retro-case-04-02.png](./images/retro-case-04-02.png)
-
 Set the sprite, set the y-axis acceleration of the sprite, and set the y-axis velocity to 0 by moving the sprite with the button.
 
 ![retro-case-04-03.png](./images/retro-case-04-03.png)
@@ -36,9 +34,32 @@ Link: [https://makecode.com/_EzzHsgdVhecH](https://makecode.com/_EzzHsgdVhecH)
 
 You can also download the program directly from the following pages.
 
+You may download it directly below:
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.com/_EzzHsgdVhecH"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+
+
 ## Program Download
 
-Please see the documentation for the program download: [Program Download Method](https://www.yuque.com/elecfreaks-learn/retro/wxo25w)
+Please see the documentation for the program download: [Program Download Method](http://wiki.elecfreaks.com/en/retroarcade/program-download-method)
 
 ## Conclusion
 

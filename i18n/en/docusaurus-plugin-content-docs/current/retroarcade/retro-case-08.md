@@ -25,11 +25,35 @@ Set when the genie touches the plants on the road, the game will fail, when the 
 ### Procedures
 
 Link: [https://makecode.com/_RbghbYJTtde1](https://makecode.com/_RbghbYJTtde1)
+
 You can also download the program directly from the following pages.
+
+You may download it directly below:
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.com/_RbghbYJTtde1"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+
 
 ## Program Download
 
-Please see the documentation for the program download: [Program Download Method](https://www.yuque.com/elecfreaks-learn/retro/wxo25w)
+Please see the documentation for the program download: [Program Download Method](http://wiki.elecfreaks.com/en/retroarcade/program-download-method)
 
 ## Conclusion
 

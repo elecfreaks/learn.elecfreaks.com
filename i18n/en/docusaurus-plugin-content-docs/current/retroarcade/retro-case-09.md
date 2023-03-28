@@ -17,6 +17,7 @@ Make an airplane battle mini-game using accelerometers to control the flight of 
 ## Programming
 
 Modified from [Aircraft battle(1)](https://www.yuque.com/elecfreaks-learn/retro/bm01di) to control the flight of the fighter by accelerometer and to make the fighter fire bullets automatically.
+
 Program of  [Aircraft battle(1)]: [https://makecode.com/_75rf2EgEPTW4](https://makecode.com/_75rf2EgEPTW4)
 
 Since the accelerometer is used in this case, you need to add the corresponding extension library according to the following steps.
@@ -48,7 +49,7 @@ In `infinite loop`, map`the value of x-axis returned by accelerometer from-800 t
 
 ![retro-case-09-03.png](./images/retro-case-09-03.png)
 
-`When the game is played every 300ms`, `launch projectiles from the sprite with an x-axis speed of 0 and a y-axis speed of -70`, `projectiles set to flame effects`, `when projectiles and enemies collide`, `destroy projectiles and enemies`, `score+1`. 
+`When the game is played every 300ms`, `launch projectiles from the sprite with an x-axis speed of 0 and a y-axis speed of -70`, `projectiles set to flame effects`, `when projectiles and enemies collide`, `destroy projectiles and enemies`, `score+1`.
 
 ![retro-case-09-04.png](./images/retro-case-09-04.png)
 
@@ -62,9 +63,33 @@ Link: [https://makecode.com/_4rr176iuCAYX](https://makecode.com/_4rr176iuCAYX)
 
 You can also download the program directly from the following pages.
 
+
+You may download it directly below:
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.com/_4rr176iuCAYX"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+
+
 ## Program Download
 
-Please see the documentation for the program download: [Program Download Method](https://www.yuque.com/elecfreaks-learn/retro/wxo25w)
+Please see the documentation for the program download: [Program Download Method](http://wiki.elecfreaks.com/en/retroarcade/program-download-method)
 
 ## Conclusion
 

@@ -1,12 +1,29 @@
-# Safety instructions
+# 安全说明
 
-Before operating the Bitboard, please read and familiarize yourself with the following precautions. Users should follow all precautions and ensure that the Bitboard is properly assembled and in proper working order.
+## 操作安全
+1、禁止自行拆卸、修理或改装本产品，造成产品故障
+2、请勿将本产品存储于水、火、潮湿、高温等不利于运行的环境，以免造成安全事故
+3、USB接线、鳄鱼夹线等零配件不可随意被儿童玩弄
+4、禁止将本产品放置于高处，导致坠落破损，甚至造成伤害
+5、定期检查各类零部件破损情况，在修复完毕前禁止擅用破损器件，以免造成生命危险
 
-Please follow the following operating principles：
+## 电气安全
+1、请使用配置的鳄鱼夹线和USB接线来连接【因为该线已经通过RoHS认证】
+2、产品禁止连接至超过额定数量的电源上
+3、用液体对本产品清洁时，注意关机后操作，并注意需关闭外部电源
+4、禁止在超出本产品推荐工作温度范围区域运行本产品
 
-1. The Bitboard is an electronic device. Do not spill water or other liquids on the Bitboard.
-2. Do not modify or damage the structure of its electronic components in any way.
-3. Do not bend or press the Bitboard board.
-4. Do not place the Bitboard in a location where it can be easily dropped.
-5. Do not pinch your hands or other body parts when using the alligator clips.
-6. After each use of the Bitboard, store the electronic components in a dry, neatly packaged box.
+## 常规安全
+1、本产品适用于6-9周岁年龄段儿童
+2、本产品不得供3周岁以下儿童使用
+3、儿童请在成年监护人陪同下使用本产品
+
+## 产品维护与保养
+1、请使用标配的micro USB线连接电脑USB端口，接入时不要太过用力导致接口或者接线磨损
+2、小熊板上的各接口禁止通过撬动或暴力拆卸、挤压等方式操作，过一段时间可以取些许酒精擦拭
+3、禁止在产品通电情况下用手挤压或拖拽接线接口，以免造成磨损以及安全隐患
+
+## 运输与存储
+1、产品运输途中应包装泡沫等减震材料，避免重物挤压等暴力运输使其受损
+2、产品存储环境应维持通风、干燥环境，远离热源、阳光直射等极端环境
+3、产品存储温度应为-10℃~55℃，禁止过高或过低保存

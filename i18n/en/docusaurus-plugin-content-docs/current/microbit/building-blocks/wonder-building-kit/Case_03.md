@@ -2,13 +2,13 @@
 
 ## Purpose
 ---
-To make a gyroscope baseboard. 
- 
+To make a gyroscope baseboard.
+
 ![](./images/case-03-01.png)
 
 ## Link
 ---
-[micro:bit Wonder Building Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-32-in-1-wonder-building-kit-without-micro-bit-board?_pos=5&_sid=2094afd2f&_ss=r)
+[micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials Required
 ---
@@ -50,7 +50,7 @@ Video link:
 
 ## Hardware Connection
 
-Connect a [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
+Connect a [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html).
 
 ![](./images/Wonder-Building-Kit-case-03-06.png)
 
@@ -62,22 +62,20 @@ Connect a [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with
 ---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
- 
+
 ![](./images/case-01-03.png)
 
-Search with Wukong in the dialogue box to download it. 
+Search with Wukong in the dialogue box to download it.
 
 ![](./images/case-01-04.png)
- 
+
 
 ### Program
- 
+
 ![](./images/case-03-05.png)
 
 Link:[https://makecode.microbit.org/_FFibega47Hwy](https://makecode.microbit.org/_FFibega47Hwy)
 
 ### Result
 
-Press the button B and the motor connecting to M1 starts driving, put the gyroscope base on the swirling yellow connectors, when the accelerate speed meets the standard, release your hands and it will not fall off; press button A to stop driving the motor.   
-
-
+Press the button B and the motor connecting to M1 starts driving, put the gyroscope base on the swirling yellow connectors, when the accelerate speed meets the standard, release your hands and it will not fall off; press button A to stop driving the motor.

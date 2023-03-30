@@ -2,14 +2,14 @@
 
 ## Purpose
 ---
-To make a forklift. 
- 
+To make a forklift.
+
 ![](./images/case-12-01.png)
 
-## Link 
+## Link
 ---
-[micro:bit Wonder Building Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-32-in-1-wonder-building-kit-without-micro-bit-board?_pos=5&_sid=2094afd2f&_ss=r)
-[Joystick bit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-joystick-bit-v2-kit?_pos=2&_sid=ace7fad9a&_ss=r)
+[micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
+[Joystick bit](https://www.elecfreaks.com/joystick-bit-2-kit-for-micro-bit.html)
 
 ## Materials Required
 ---
@@ -68,7 +68,7 @@ Video link:
 
 ## Hardware Connection
 
-Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2, the [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S0 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
+Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2, the [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S0 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html).
 
 ![](./images/Wonder-Building-Kit-case-12-06.png)
 
@@ -80,21 +80,21 @@ Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-w
 ---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
- 
+
 ![](./images/case-01-03.png)
 
-Search with Wukong in the dialogue box to download it. 
+Search with Wukong in the dialogue box to download it.
 
 ![](./images/case-01-04.png)
 
- Search with https://github.com/elecfreaks/pxt-sonarbit in the dialogue box to add the sonar:bit extension. 
+ Search with https://github.com/elecfreaks/pxt-sonarbit in the dialogue box to add the sonar:bit extension.
 
 ![](./images/case-04-04.png)
 
 
 
 ### Program
-For Joystick:bit:  
+For Joystick:bit:
 
 ![](./images/case-12-05.png)
 

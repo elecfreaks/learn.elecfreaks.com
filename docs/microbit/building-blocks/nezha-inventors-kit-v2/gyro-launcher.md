@@ -1,6 +1,7 @@
 ---
-sidebar_position: 9
+sidebar_position: 15
 ---
 
+# Case 14 陀螺发射器
 
 程序链接:https://makecode.microbit.org/_AuJdy9Mj1807

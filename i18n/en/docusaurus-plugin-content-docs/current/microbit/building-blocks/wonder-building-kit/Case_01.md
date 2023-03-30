@@ -2,17 +2,17 @@
 
 ## Purpose
 ---
-To make a motorcycle with the Wonder Building kit. 
- 
+To make a motorcycle with the Wonder Building kit.
+
 ![](./images/case-01-01.png)
 
-## Link 
+## Link
 ---
-[micro:bit Wonder Building Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-32-in-1-wonder-building-kit-without-micro-bit-board?_pos=5&_sid=2094afd2f&_ss=r)
+[micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials Required
 ---
-![](./images/case-01-02.png) 
+![](./images/case-01-02.png)
 
 Video link:
 [https://youtu.be/rLnMMkofipM](https://youtu.be/rLnMMkofipM)
@@ -50,7 +50,7 @@ Video link:
 
 ## Hardware Connection
 
-Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
+Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html).
 
 ![](./images/Wonder-Building-Kit-case-01-06.png)
 
@@ -62,21 +62,19 @@ Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-w
 ---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
- 
+
 ![](./images/case-01-03.png)
 
-Search with Wukong in the dialogue box to download it. 
+Search with Wukong in the dialogue box to download it.
 
 ![](./images/case-01-04.png)
- 
+
 
 ### Program
- 
+
 ![](./images/case-01-05.png)
 
 Link:[https://makecode.microbit.org/_K6mFyJ16ofCj](https://makecode.microbit.org/_K6mFyJ16ofCj)
 
 ### Result
-While button A being pressed, the motorcycle moves forward and it reverses if button B is pressed, while pressing button A+B, it stops driving. 
-
-
+While button A being pressed, the motorcycle moves forward and it reverses if button B is pressed, while pressing button A+B, it stops driving.

@@ -1,14 +1,14 @@
-# Case 20: The Smart Airer 
+# Case 20: The Smart Airer
 
 ## Purpose
 ---
 To make a smart arier.
- 
+
 ![](./images/case-20-01.png)
 
-## Link: 
+## Link:
 ---
-[micro:bit Wonder Building Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-32-in-1-wonder-building-kit-without-micro-bit-board?_pos=5&_sid=2094afd2f&_ss=r)
+[micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials Required
 ---
@@ -97,13 +97,13 @@ Video link:
 
 ## Installation Mthods of Hardwares
 
-Install the water level sensor with the bricks. 
+Install the water level sensor with the bricks.
 
 ![](./images/Wonder-Building-Kit-step-water-level-sensor.png)
 
 ## Hardware Connection
 
-Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2, the [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S1 and the [water level sensor](https://www.elecfreaks.com/octopus-water-level-sensor.html) to P1 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
+Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2, the [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S1 and the [water level sensor](https://www.elecfreaks.com/octopus-water-level-sensor.html) to P1 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html).
 
 ![](./images/Wonder-Building-Kit-case-20-06.png)
 
@@ -115,10 +115,10 @@ Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-w
 ---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
- 
+
 ![](./images/case-01-03.png)
 
-Search with Wukong in the dialogue box to download it. 
+Search with Wukong in the dialogue box to download it.
 
 ![](./images/case-01-04.png)
 
@@ -127,7 +127,7 @@ Search with Wukong in the dialogue box to download it.
 
 
 ### Program
- 
+
 ![](./images/case-20-05.png)
 
 Link:[https://makecode.microbit.org/_diR3FMErAfWF](https://makecode.microbit.org/_diR3FMErAfWF)

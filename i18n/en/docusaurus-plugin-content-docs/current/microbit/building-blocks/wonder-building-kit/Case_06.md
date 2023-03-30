@@ -2,13 +2,13 @@
 
 ## Purpose
 ---
-To make a bigfoot monster. 
- 
+To make a bigfoot monster.
+
 ![](./images/case-06-01.png)
 
-## Link: 
+## Link:
 ---
-[micro:bit Wonder Building Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-32-in-1-wonder-building-kit-without-micro-bit-board?_pos=5&_sid=2094afd2f&_ss=r)
+[micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials Required
 ---
@@ -65,10 +65,10 @@ Connect a [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with
 ---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
- 
+
 ![](./images/case-01-03.png)
 
-Search with Wukong in the dialogue box to download it. 
+Search with Wukong in the dialogue box to download it.
 
 ![](./images/case-01-04.png)
 
@@ -76,7 +76,7 @@ Search with Wukong in the dialogue box to download it.
 
 
 ### Program
- 
+
 ![](./images/case-06-05.png)
 
 Link:[https://makecode.microbit.org/_2gH040Us5LX7](https://makecode.microbit.org/_2gH040Us5LX7)

@@ -3,12 +3,12 @@
 ## Purpose
 ---
 Make a drawing machine.
- 
+
 ![](./images/Wonder-Building-Kit-case-31-01.png)
 
-## Link: 
+## Link:
 ---
-[micro:bit Wonder Building Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-32-in-1-wonder-building-kit-without-micro-bit-board?_pos=5&_sid=2094afd2f&_ss=r)
+[micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials Required
 ---
@@ -45,7 +45,7 @@ Make a drawing machine.
 
 ## Hardware Connection
 
-Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
+Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html).
 
 ![](./images/Wonder-Building-Kit-case-31-06.png)
 
@@ -57,10 +57,10 @@ Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-w
 ---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
- 
+
 ![](./images/Wonder-Building-Kit-case-21-02.png)
 
-Search with Wukong in the dialogue box to download it. 
+Search with Wukong in the dialogue box to download it.
 
 ![](./images/Wonder-Building-Kit-case-21-03.png)
 
@@ -69,7 +69,7 @@ Search with Wukong in the dialogue box to download it.
 
 
 ### Program
- 
+
 ![](./images/Wonder-Building-Kit-case-31-04.png)
 
 

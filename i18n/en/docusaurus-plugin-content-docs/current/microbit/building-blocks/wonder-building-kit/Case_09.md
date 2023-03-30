@@ -2,13 +2,13 @@
 
 ## Purpose
 ---
-To make an automatic door. 
- 
+To make an automatic door.
+
 ![](./images/case-09-01.png)
 
-## Link: 
+## Link:
 ---
-[micro:bit Wonder Building Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-32-in-1-wonder-building-kit-without-micro-bit-board?_pos=5&_sid=2094afd2f&_ss=r)
+[micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials Required
 ---
@@ -68,13 +68,13 @@ Video link:
 
 ## Installation Mthods of Hardwares
 
-Install the sonar:bit with the bricks. 
+Install the sonar:bit with the bricks.
 
 ![](./images/Wonder-Building-Kit-step-sonar-bit-3.png)
 
 ## Hardware Connection
 
-Connect a [sonar:bit](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html) to P1 and the [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S0 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
+Connect a [sonar:bit](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html) to P1 and the [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S0 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html).
 
 ![](./images/Wonder-Building-Kit-case-09-06.png)
 
@@ -86,21 +86,21 @@ Connect a [sonar:bit](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultraso
 ---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
- 
+
 ![](./images/case-01-03.png)
 
-Search with Wukong in the dialogue box to download it. 
+Search with Wukong in the dialogue box to download it.
 
 ![](./images/case-01-04.png)
 
- Search with https://github.com/elecfreaks/pxt-sonarbit in the dialogue box to add the sonar:bit extension. 
+ Search with https://github.com/elecfreaks/pxt-sonarbit in the dialogue box to add the sonar:bit extension.
 
 ![](./images/case-04-04.png)
 
 
 
 ### Program
- 
+
 ![](./images/case-09-03.png)
 
 Link:[https://makecode.microbit.org/_eUPf4XEudVKY](https://makecode.microbit.org/_eUPf4XEudVKY)

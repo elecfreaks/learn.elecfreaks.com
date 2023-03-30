@@ -3,12 +3,12 @@
 ## Purpose
 ---
 To make a seesaw.
- 
+
 ![](./images/case-13-01.png)
 
-## Link: 
+## Link:
 ---
-[micro:bit Wonder Building Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-32-in-1-wonder-building-kit-without-micro-bit-board?_pos=5&_sid=2094afd2f&_ss=r)
+[micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials Required
 ---
@@ -87,10 +87,10 @@ Connect a [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with
 ---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
- 
+
 ![](./images/case-01-03.png)
 
-Search with Wukong in the dialogue box to download it. 
+Search with Wukong in the dialogue box to download it.
 
 ![](./images/case-01-04.png)
 
@@ -99,7 +99,7 @@ Search with Wukong in the dialogue box to download it.
 
 
 ### Program
- 
+
 ![](./images/case-11-03.png)
 
 Link:[https://makecode.microbit.org/_8WiCUt0zu6wv](https://makecode.microbit.org/_8WiCUt0zu6wv)

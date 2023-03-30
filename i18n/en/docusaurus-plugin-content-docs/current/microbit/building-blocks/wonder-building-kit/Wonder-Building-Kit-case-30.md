@@ -3,12 +3,12 @@
 ## Purpose
 ---
 Make an ambient lighting.
- 
+
 ![](./images/Wonder-Building-Kit-case-30-01.png)
 
-## Link: 
+## Link:
 ---
-[micro:bit Wonder Building Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-32-in-1-wonder-building-kit-without-micro-bit-board?_pos=5&_sid=2094afd2f&_ss=r)
+[micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials Required
 ---
@@ -73,10 +73,10 @@ Make an ambient lighting.
 ---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
- 
+
 ![](./images/Wonder-Building-Kit-case-21-02.png)
 
-Search with Wukong in the dialogue box to download it. 
+Search with Wukong in the dialogue box to download it.
 
 ![](./images/Wonder-Building-Kit-case-21-03.png)
 
@@ -85,11 +85,11 @@ Search with Wukong in the dialogue box to download it.
 
 
 ### Program
- 
+
 ![](./images/Wonder-Building-Kit-case-30-04.png)
 
 Link:[https://makecode.microbit.org/_hHDAH6Fz6YCb](https://makecode.microbit.org/_hHDAH6Fz6YCb)
 
 ### Result
 
-When button A is pressed, the four Rainbow LEDs of the Wukong breakout board will light up. Pressing button A again, the color will change; and when button B is pressed, all LEDs are off. 
+When button A is pressed, the four Rainbow LEDs of the Wukong breakout board will light up. Pressing button A again, the color will change; and when button B is pressed, all LEDs are off.

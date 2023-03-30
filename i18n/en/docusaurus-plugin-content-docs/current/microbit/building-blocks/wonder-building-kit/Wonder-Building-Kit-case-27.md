@@ -3,12 +3,12 @@
 ## Purpose
 ---
 Make a smart garbage can.
- 
+
 ![](./images/Wonder-Building-Kit-case-27-01.png)
 
-## Link: 
+## Link:
 ---
-[micro:bit Wonder Building Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-32-in-1-wonder-building-kit-without-micro-bit-board?_pos=5&_sid=2094afd2f&_ss=r)
+[micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials Required
 ---
@@ -79,13 +79,13 @@ Make a smart garbage can.
 
 ## Installation Mthods of Hardwares
 
-Install the sonar:bit with the bricks. 
+Install the sonar:bit with the bricks.
 
 ![](./images/Wonder-Building-Kit-step-sonar-bit-6.png)
 
 ## Hardware Connection
 
-Connect a [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S0 and a [sonar:bit](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html) to P0 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
+Connect a [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S0 and a [sonar:bit](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html) to P0 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html).
 
 ![](./images/Wonder-Building-Kit-case-27-06.png)
 
@@ -97,20 +97,20 @@ Connect a [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatibl
 ---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
- 
+
 ![](./images/Wonder-Building-Kit-case-21-02.png)
 
-Search with Wukong in the dialogue box to download it. 
+Search with Wukong in the dialogue box to download it.
 
 ![](./images/Wonder-Building-Kit-case-21-03.png)
 
-Search with IOT:bit in the dialogue box to download it. 
+Search with IOT:bit in the dialogue box to download it.
 
 ![](./images/Wonder-Building-Kit-case-27-04.png)
 
 
 ### Program
- 
+
 ![](./images/Wonder-Building-Kit-case-27-05.png)
 
 

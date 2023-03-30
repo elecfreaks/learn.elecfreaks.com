@@ -3,12 +3,12 @@
 ## Purpose
 ---
 Make a corsair.
- 
+
 ![](./images/Wonder-Building-Kit-case-26-01.png)
 
-## Link: 
+## Link:
 ---
-[micro:bit Wonder Building Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-32-in-1-wonder-building-kit-without-micro-bit-board?_pos=5&_sid=2094afd2f&_ss=r)
+[micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials Required
 ---
@@ -75,7 +75,7 @@ Make a corsair.
 
 ## Hardware Connection
 
-Connect a [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S1 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
+Connect a [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S1 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html).
 
 ![](./images/Wonder-Building-Kit-case-26-06.png)
 
@@ -87,10 +87,10 @@ Connect a [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatibl
 ---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
- 
+
 ![](./images/Wonder-Building-Kit-case-21-02.png)
 
-Search with Wukong in the dialogue box to download it. 
+Search with Wukong in the dialogue box to download it.
 
 ![](./images/Wonder-Building-Kit-case-21-03.png)
 
@@ -99,7 +99,7 @@ Search with Wukong in the dialogue box to download it.
 
 
 ### Program
- 
+
 ![](./images/Wonder-Building-Kit-case-26-04.png)
 
 Link:[https://makecode.microbit.org/_VrPehd4athgo](https://makecode.microbit.org/_VrPehd4athgo)

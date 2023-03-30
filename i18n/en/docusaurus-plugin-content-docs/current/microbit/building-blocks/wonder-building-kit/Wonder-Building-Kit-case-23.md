@@ -3,12 +3,12 @@
 ## Purpose
 ---
 Make a locomotive.
- 
+
 ![](./images/Wonder-Building-Kit-case-23-01.png)
 
-## Link: 
+## Link:
 ---
-[micro:bit Wonder Building Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-32-in-1-wonder-building-kit-without-micro-bit-board?_pos=5&_sid=2094afd2f&_ss=r)
+[micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials Required
 ---
@@ -94,10 +94,10 @@ Connect a [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with
 ---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
- 
+
 ![](./images/Wonder-Building-Kit-case-21-02.png)
 
-Search with Wukong in the dialogue box to download it. 
+Search with Wukong in the dialogue box to download it.
 
 ![](./images/Wonder-Building-Kit-case-21-03.png)
 
@@ -106,7 +106,7 @@ Search with Wukong in the dialogue box to download it.
 
 
 ### Program
- 
+
 ![](./images/Wonder-Building-Kit-case-23-04.png)
 
 Link:[https://makecode.microbit.org/_5WjDde1jAF6R](https://makecode.microbit.org/_5WjDde1jAF6R)

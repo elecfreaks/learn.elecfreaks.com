@@ -1,12 +1,12 @@
 # Case 40: The Bow
 ## Purpose
-To make a bow. 
+To make a bow.
 
 ![](./images/Wonder-Building-Kit-case-40-01.png)
 
 ## Purchase link:
 
-[ELECFREAKS micro:bit 32 IN 1 Wonder Building Kit](https://item.taobao.com/item.htm?id=649813731275&spm=2015.23436601.0.0)
+[ELECFREAKS micro:bit 32 IN 1 Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials required
 

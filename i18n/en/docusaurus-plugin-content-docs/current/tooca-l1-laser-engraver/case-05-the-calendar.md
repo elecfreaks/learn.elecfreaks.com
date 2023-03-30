@@ -15,7 +15,7 @@ The creative combination of calendar and pen holder is not only practical but al
 
 ## Materials Required
 
-[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-l1-laser-engraver-10w.html)
 
 3mm Plywood
 

@@ -13,7 +13,7 @@ In order to protect the farmlands from people to get in, we can set a farmland p
 
 ## Materials Requested
 
-[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-l1-laser-engraver-10w.html)
 
 [Smart Agriculture Kit](https://www.elecfreaks.com/micro-bit-smart-agriculture-kit-without-micro-bit-board.html)
 

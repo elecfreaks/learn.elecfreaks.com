@@ -14,7 +14,7 @@ The reason why the bird canl balance is that the actual center of gravity of the
 
 ## Materials used
 
-[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-l1-laser-engraver-10w.html)
 
 3mm Plywood
 

@@ -9,9 +9,9 @@ sidebar_label: Christmas ambient light
 
 ## Materials Requested
 
-[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-l1-laser-engraver-10w.html)
 
-[[2.8mm Basswood board](https://shop.elecfreaks.com/products/1-8-basswood-plywood-6pcs)](https://shop.elecfreaks.com/products/1-8-basswood-plywood-6pcs)
+[2.8mm Basswood board](https://www.elecfreaks.com/1-8-basswood-plywood-60pcs.html)
 
 ## Related Parameters
 
@@ -23,5 +23,4 @@ sidebar_label: Christmas ambient light
 |Speed|250mm/min|
 |Passing times|1|
 
-Note: This case takes 2.8mm basswood board as an example, if you need to use a different thickness or use different materials, please modify the drawing by yourself and refer to the [Recommended parameter](http://www.elecfreaks.com/learn/tooca-laser-1/recommended-parameters) to modify the parameters of the software. 
-
+Note: This case takes 2.8mm basswood board as an example, if you need to use a different thickness or use different materials, please modify the drawing by yourself and refer to the [Recommended parameter](http://www.elecfreaks.com/learn/tooca-laser-1/recommended-parameters) to modify the parameters of the software.

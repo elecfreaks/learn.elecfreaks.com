@@ -13,7 +13,7 @@ The unicorn appears in large numbers in June to August, with a tendency to light
 
 ## Materials Requested
 
-[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-l1-laser-engraver-10w.html)
 
 [Smart Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
 

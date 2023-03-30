@@ -14,7 +14,7 @@ The TOOCA L1 Laser Engraver with groundbreaking technologies, is capable of carv
 
 ## Purchase Link
 
-[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-l1-laser-engraver-10w.html)
 
 ## Product parameters
 

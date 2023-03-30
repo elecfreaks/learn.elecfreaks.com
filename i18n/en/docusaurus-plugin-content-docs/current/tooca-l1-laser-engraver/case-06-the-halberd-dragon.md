@@ -11,7 +11,7 @@ The halberd dragon, also called spiny shield horned dinosaur, lived in the late 
 ![](./images/tooca-laser-1-case-06-01.png)
 ## Materials Requested
 
-[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-l1-laser-engraver-10w.html)
 
 3mm Plywood
 

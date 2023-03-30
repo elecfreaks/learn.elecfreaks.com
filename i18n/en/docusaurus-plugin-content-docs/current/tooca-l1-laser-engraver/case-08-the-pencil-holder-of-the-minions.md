@@ -14,7 +14,7 @@ A pen holder is a columnar container for holding pens or other long stationery, 
 
 ## Materials used
 
-[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-l1-laser-engraver-10w.html)
 
 3mm Plywood
 

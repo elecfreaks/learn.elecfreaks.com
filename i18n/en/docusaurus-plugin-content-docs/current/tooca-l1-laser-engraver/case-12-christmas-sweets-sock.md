@@ -10,9 +10,9 @@ sidebar_label: Christmas Socks
 
 ## Materials Requested
 
-[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA L1 Laser Engraver](https://www.elecfreaks.com/elecfreaks-tooca-l1-laser-engraver-10w.html)
 
-[2.8mm Basswood board](https://shop.elecfreaks.com/products/1-8-basswood-plywood-6pcs)
+[2.8mm Basswood board](https://www.elecfreaks.com/1-8-basswood-plywood-60pcs.html)
 
 ## Related parameters
 

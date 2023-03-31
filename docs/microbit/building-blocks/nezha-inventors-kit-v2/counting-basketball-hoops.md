@@ -58,6 +58,16 @@ sidebar_position: 20
 
 ![](./images/nezha-inventors-kit-v2-step-19-20.png)
 
+![](./images/nezha-inventors-kit-v2-step-19-21.png)
+
+![](./images/nezha-inventors-kit-v2-step-19-22.png)
+
+![](./images/nezha-inventors-kit-v2-step-19-23.png)
+
+![](./images/nezha-inventors-kit-v2-step-19-24.png)
+
+![](./images/nezha-inventors-kit-v2-step-19-25.png)
+
 ### 硬件连接
 
 将超声波传感器连接到哪吒扩展板的J1接口。
@@ -76,7 +86,7 @@ sidebar_position: 20
 
 ![](./images/nezha-inventors-kit-v2-case-19-04.png)
 
-添加行星系列传感器的扩展库
+在搜索栏搜索`PlanetX`添加行星系列传感器的扩展库
 
 ![](./images/nezha-inventors-kit-v2-case-19-05.png)
 

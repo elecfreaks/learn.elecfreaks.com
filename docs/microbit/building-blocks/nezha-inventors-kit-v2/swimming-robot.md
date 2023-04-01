@@ -53,7 +53,7 @@ sidebar_position: 3
 
 将电机连接到哪吒扩展板的M1接口。
 
-![](./images/nezha-inventors-kit-v2-case-02-02.png)
+![](./images/nezha-inventors-kit-v2-case-07-02.png)
 
 ### 软件编程
 

@@ -69,19 +69,6 @@ sidebar_position: 18
 
 ![](./images/nezha-inventors-kit-v2-step-17-24.png)
 
-![](./images/nezha-inventors-kit-v2-step-17-25.png)
-
-![](./images/nezha-inventors-kit-v2-step-17-26.png)
-
-![](./images/nezha-inventors-kit-v2-step-17-27.png)
-
-![](./images/nezha-inventors-kit-v2-step-17-28.png)
-
-![](./images/nezha-inventors-kit-v2-step-17-29.png)
-
-![](./images/nezha-inventors-kit-v2-step-17-30.png)
-
-![](./images/nezha-inventors-kit-v2-step-17-31.png)
 
 ### 硬件连接
 

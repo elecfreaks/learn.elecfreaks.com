@@ -146,10 +146,18 @@ Connect the USB power cable to the charging port, the constant light is the curr
 
 ![](./images/wukong_07.jpg)
 
+Power indicator status: 1:
+
+Normal state:
+1. Indicator light shows the power
+2. When the microbit is unplugged in the power-on state, the indicator light flashes three times and then turns off
+
 Charging status:
 1. The indicator light of the current battery is always on, and the indicator light is flashing during charging.
 2. The four lights are always on when it is fully charged.
 3. When the microbit is pulled out in the powered-on state, the indicator light flashes three times and then the motor and servo power are turned off.
+
+*** Notice: When the micro:bit is not plugged in and turns on the power, the power indicator will flash three times, and then turn off the power automatically ***
 
 ### Breathing LEDs
 

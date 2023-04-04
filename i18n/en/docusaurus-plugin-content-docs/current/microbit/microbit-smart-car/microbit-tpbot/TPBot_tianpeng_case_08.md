@@ -1,3 +1,10 @@
+---
+
+sidebar_position: 10
+sidebar_label: Parking at A Set Point
+
+---
+
 # Case 08: Parking at A Set Point
 
 ## Purpose

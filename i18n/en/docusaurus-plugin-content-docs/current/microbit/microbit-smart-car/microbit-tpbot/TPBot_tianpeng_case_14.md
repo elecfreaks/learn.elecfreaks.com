@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 16
+sidebar_label: Remote Control with Joystick:bit
+---
+
 # Case 14: Remote Control with Joystick:bit
 
 ## Purpose

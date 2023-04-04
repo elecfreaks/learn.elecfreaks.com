@@ -1,3 +1,10 @@
+---
+
+sidebar_position: 18
+sidebar_label: The Dazzling Lights
+
+---
+
 # Case16: The Dazzling Lights
 
 ## Purpose

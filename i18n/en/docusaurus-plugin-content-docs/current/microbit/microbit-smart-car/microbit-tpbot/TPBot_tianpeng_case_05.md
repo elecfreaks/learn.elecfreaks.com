@@ -1,3 +1,10 @@
+---
+
+sidebar_position: 7
+sidebar_label: Automatic Lamp
+
+---
+
 # Case 05: Automatic Lamp
 
 ## Purpose

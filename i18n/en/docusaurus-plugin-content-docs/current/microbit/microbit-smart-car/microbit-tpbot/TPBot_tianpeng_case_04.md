@@ -1,3 +1,10 @@
+---
+
+sidebar_position: 6
+sidebar_label: Obstacle-avoidance Driving
+
+---
+
 # Case 04: Obstacle-avoidance Driving
 
 ## Purpose

@@ -1,3 +1,10 @@
+---
+
+sidebar_position: 1
+sidebar_label: TPBot Introduction
+
+---
+
 # TPBot Introduction
 
 ## Introduction

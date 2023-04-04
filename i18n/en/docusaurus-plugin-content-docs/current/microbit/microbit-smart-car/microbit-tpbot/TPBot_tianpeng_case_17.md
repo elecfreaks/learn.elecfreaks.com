@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 19
+sidebar_label: Gesture-controlled TPBot
+---
+
 # Case17：Gesture-controlled TPBot
 
 ## Purpose

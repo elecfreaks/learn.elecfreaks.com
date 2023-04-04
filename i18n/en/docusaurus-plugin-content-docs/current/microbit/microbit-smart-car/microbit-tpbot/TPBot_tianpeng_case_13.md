@@ -1,3 +1,10 @@
+---
+
+sidebar_position: 15
+sidebar_label: Remote Control with micro:bit Accelerometer
+
+---
+
 # Case 13: Remote Control with micro:bit Accelerometer
 
 ## Purpose

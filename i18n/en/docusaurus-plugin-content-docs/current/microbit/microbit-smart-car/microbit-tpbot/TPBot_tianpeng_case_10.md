@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 12
+sidebar_label: Fall-arrest TPBot
+---
+
 # Case 10: Fall-arrest TPBot
 
 ## Purpose

@@ -1,3 +1,10 @@
+---
+
+sidebar_position: 4
+sidebar_label: Light Control
+
+---
+
 # Case 02: Light Control
 
 ## Purpose

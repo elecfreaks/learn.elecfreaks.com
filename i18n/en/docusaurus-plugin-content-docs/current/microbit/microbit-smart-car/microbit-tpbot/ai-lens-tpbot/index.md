@@ -1,9 +1,9 @@
 ---
 sidebar_position: 22
-sidebar_label: TPbot+AI Lens
+sidebar_label: TPbot + AI Lens
 ---
 
-# TPbot+AI Lens
+# TPbot + AI Lens
 
 ## Directory
 

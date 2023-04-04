@@ -1,3 +1,11 @@
+---
+
+sidebar_position: 2
+sidebar_label: TPBot Samples for Python
+
+---
+
+
 # TPBot Samples for Python
 
 
@@ -8,7 +16,7 @@ Go to  [Python editor](https://python.microbit.org/v/2.0)
 
 ![](./images/TPbot-py-01.png)
 
-We need to add TPBot.py for programming. Click "Load/Save" and then click "Show Files (1)" to see more choices, click "Add file" to add TPBot.py from the unzipped package of EF_Produce_MicroPython-master. 
+We need to add TPBot.py for programming. Click "Load/Save" and then click "Show Files (1)" to see more choices, click "Add file" to add TPBot.py from the unzipped package of EF_Produce_MicroPython-master.
 
 ![](./images/TPbot-py-02.png)
 
@@ -18,7 +26,7 @@ We need to add TPBot.py for programming. Click "Load/Save" and then click "Show 
 
 ## Samples
 ---
-### Sample 1: Drive the car at a full speed. 
+### Sample 1: Drive the car at a full speed.
 
 ```
 from microbit import *
@@ -30,7 +38,7 @@ tp.set_motors_speed(100,100)
 ```
 - ### Result
 
-  The speed of the left and right wheels is at 100, the car moves forward at the full speed. 
+  The speed of the left and right wheels is at 100, the car moves forward at the full speed.
 
 
 ### Sample 2: Turn the headlights on in random colors
@@ -50,9 +58,9 @@ while True:
 ```
 ### Result
 
-  The headlights light up in different colours at random. 
+  The headlights light up in different colours at random.
 
-### Sample 3: Obstacles avoidance 
+### Sample 3: Obstacles avoidance
 ```
 from microbit import *
 from TPBot import *
@@ -68,29 +76,29 @@ while True:
 ```
 ### Result
 
-  The TPBot turns its direction once it detects any obstacle ahead of it. 
+  The TPBot turns its direction once it detects any obstacle ahead of it.
 
-### Sample 4: Link-tracking 
+### Sample 4: Link-tracking
 ```
 from microbit import *
 from TPBot import *
 
 tp = TPBOT()
 while True:
-    
+
     i = tp.get_tracking()
     if i == 10:
         tp.set_motors_speed(10, 50)
     if i == 1:
-        tp.set_motors_speed(50, 10)   
+        tp.set_motors_speed(50, 10)
     if i == 11:
-        tp.set_motors_speed(25, 25)  
+        tp.set_motors_speed(25, 25)
 ```
 ### Result
 
-The TPBot drives along with the black line. 
+The TPBot drives along with the black line.
 
-### Sample 5:  Control the servo  
+### Sample 5:  Control the servo
 
 ```
 from microbit import *
@@ -105,7 +113,7 @@ while True:
 ```
 ### Result
 
-- The servo connecting to S1 continues driving back and forth. 
+- The servo connecting to S1 continues driving back and forth.
 
 ## Relevant Case
 ---

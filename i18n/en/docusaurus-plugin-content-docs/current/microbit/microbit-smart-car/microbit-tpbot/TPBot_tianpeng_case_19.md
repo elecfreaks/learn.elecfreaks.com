@@ -1,3 +1,10 @@
+---
+
+sidebar_position: 21
+sidebar_label: Sweeper
+
+---
+
 # Case 19: Sweeper
 
 ## Purpose

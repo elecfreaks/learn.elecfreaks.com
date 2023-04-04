@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 17
+sidebar_label: Speed Adjustable TPBot
+---
+
 # Case15: Speed Adjustable TPBot
 
 ## Purpose

@@ -95,14 +95,14 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Community',
+            title: '社媒',
             items: [
               {
-                label: 'Twitter',
+                label: '推特',
                 href: 'https://twitter.com/elecfreaks',
               },
               {
-                label: 'Facebook',
+                label: '脸书',
                 href: 'https://www.facebook.com/ElecFreaksTech',
               },
               {
@@ -116,10 +116,10 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: '更多',
             items: [
               {
-                label: 'Blog',
+                label: '博客',
                 href: 'https://www.elecfreaks.com/blog.html',
               },
               {
@@ -129,7 +129,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2013~${new Date().getFullYear()} ELECFREAKS, Inc. All rights reserved.`,
+        copyright: `版权所有 © 2013~${new Date().getFullYear()}  深圳恩孚科技. `,
       },
       prism: {
         theme: lightCodeTheme,

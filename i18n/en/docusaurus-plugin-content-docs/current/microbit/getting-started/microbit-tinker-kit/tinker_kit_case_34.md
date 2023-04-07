@@ -1,11 +1,11 @@
-# case 34 micropython 
+# case 34 micropython
 
 ## Getting Started
 ---
 
 ## Products Link
 
-[Tinker Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tinker-kit-without-micro-bit-board?_pos=1&_sid=a3579b340&_ss=r)
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ### Pre-coding:
 
@@ -13,7 +13,7 @@
 - Download the Mu editor
 [Mu editor](https://codewith.mu/)
 
-           
+
 
 ## Project 01: Music Machine
 ---
@@ -27,8 +27,8 @@
 ### Small note about the ADKeypad
 
 
-The ADKeypad returns an analog signal when its buttons are pressed. Each button pressed would return a unique integer value ranging from 0 (meaning 0V) to 1023 (meaning 3V). 
-However, it is not uncommon that each button would give a small range of values when pressed at different times and different ADKeypads might give different signals yet again. Hence, in this example code, we provide a range of possible values that your ADKeypad’s buttons are likely to return when pressed. 
+The ADKeypad returns an analog signal when its buttons are pressed. Each button pressed would return a unique integer value ranging from 0 (meaning 0V) to 1023 (meaning 3V).
+However, it is not uncommon that each button would give a small range of values when pressed at different times and different ADKeypads might give different signals yet again. Hence, in this example code, we provide a range of possible values that your ADKeypad’s buttons are likely to return when pressed.
 Feel free to test out the values that your ADKeypad might return when pressed and change the values in the example code. ^ ^
 
 ![](./images/8xVE2p6.png)
@@ -42,7 +42,7 @@ Feel free to test out the values that your ADKeypad might return when pressed an
 ### Pin Layout
 
 - PIR Sensor: Pin0
-- LED: Pin1  
+- LED: Pin1
 
 ![](./images/7Dgi7Wt.png)
 
@@ -72,12 +72,12 @@ Feel free to test out the values that your ADKeypad might return when pressed an
 ![](./images/R4XO4S6.png)
 
 ![](./images/01GlIIR.png)
- 
+
 ## Project 05: Plant Monitoring Device
 ---
 
-![](./images/JBmCc6A.jpg)       
- 
+![](./images/JBmCc6A.jpg)
+
 ### Pin Layout
 
 - Buzzer: Pin0
@@ -94,10 +94,3 @@ Feel free to test out the values that your ADKeypad might return when pressed an
 Mix and match the component in the Tinker Kit to create your own projects.
 
 For a more comprehensive explanation of MicroPython, visit the official documentation [here](https://microbit-micropython.readthedocs.io/en/latest/tutorials/introduction.html)
-
-
-
-
-
-
-

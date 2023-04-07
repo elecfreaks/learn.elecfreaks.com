@@ -1,4 +1,4 @@
-# case 30 Reaction Time Tester 
+# case 30 Reaction Time Tester
 
 ## Reaction Time Tester
 ---
@@ -7,7 +7,7 @@
 
 ## Products Link
 
-[Tinker Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tinker-kit-without-micro-bit-board?_pos=1&_sid=a3579b340&_ss=r)
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---
@@ -15,8 +15,8 @@
  1. Assemble a reaction time tester.
  2. Try not to break it when testing yourself!
 
- 
-              
+
+
 ## Materials
 ---
 - 1 x Tinker Kit (or OLED display)

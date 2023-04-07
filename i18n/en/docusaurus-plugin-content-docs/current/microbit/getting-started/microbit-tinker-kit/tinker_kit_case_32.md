@@ -1,4 +1,4 @@
-# case 32 reclusebot 
+# case 32 reclusebot
 
 ## Reclusebot
 ---
@@ -8,7 +8,7 @@ Use the micro:bit to make a robot that squeals when it detects motion, is touche
 
 ## Products Link
 
-[Tinker Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tinker-kit-without-micro-bit-board?_pos=1&_sid=a3579b340&_ss=r)
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---
@@ -18,14 +18,14 @@ Use the micro:bit to make a robot that squeals when it detects motion, is touche
  1. Assemble a shy reclusive robot
  2. Input code to make a shy robot
 
-           
+
 ## Required Materials
 ---
 - 1 x Micro:bit
 - Batteries
 - Any Box (Large enough to fit Micro:bit)
 - PIR Sensor
-- Potentiometer 
+- Potentiometer
 - Passive Buzzer
 - 2 x Female-Female Jumper Wires
 
@@ -77,4 +77,3 @@ Your program consists of a few “if” statements. We want the robot to only re
 You have finished building all components needed to make a reclusive robot that makes a sound whenever someone surprises it! Place it into any box you large enough to contain the components while leaving some of them sticking out, and you have your very own recluse bot! Feel free to dress it up, but take care or it’ll start squealing in surprise!
 
 ![](./images/UrWxFhm.jpg)
-

@@ -3,14 +3,14 @@
 ## Introduction
 
 
- IoT:bit is an expansion board based on IoT for micro:bit, it can support the sensors in 3pins, the actuator and the buzzer, it can also give a specific time telling even the micro:bit powers off with the RTC onboard. 
- 
- It uses ESP8266 as WIFI expansion board and serial port to communicate with micro:bit. It also has extended all available IO port of the micro:bit which is led by GVS and you can extent various 3V Eblocks as LED, photosensitive and servo by using it. At the same time, the IOT:bit with an onboard buzzer for outside sound and an onboard RTC clock for timing without power supply.The codebase for makecode can connect to Thingspeak conveniently and create your IoT project quickly. 
+ IoT:bit is an expansion board based on IoT for micro:bit, it can support the sensors in 3pins, the actuator and the buzzer, it can also give a specific time telling even the micro:bit powers off with the RTC onboard.
+
+ It uses ESP8266 as WIFI expansion board and serial port to communicate with micro:bit. It also has extended all available IO port of the micro:bit which is led by GVS and you can extent various 3V Eblocks as LED, photosensitive and servo by using it. At the same time, the IOT:bit with an onboard buzzer for outside sound and an onboard RTC clock for timing without power supply.The codebase for makecode can connect to Thingspeak conveniently and create your IoT project quickly.
 
 ![](./images/iot_bit_01.jpg)
 ##  Products Link
 
-[ELECFREAKS IOT:bit](https://shop.elecfreaks.com/products/elecfreaks-iot-bit-internet-wifi-extension-board-for-micro-bit?_pos=2&_sid=2513e1df0&_ss=r)
+[ELECFREAKS IOT:bit](https://www.elecfreaks.com/micro-bit-smart-science-iot-kit.html)
 
 
 
@@ -23,10 +23,10 @@
  Intergrated buzzer and earphone jack
  Adaptive for LEGO (4 standard spacing Lego fixed holes)
 
-## Hardware apperance & Parameters 
+## Hardware apperance & Parameters
 
 
-### Size & Installation 
+### Size & Installation
 
 
  Product size：71mm x 63mm x 23mm
@@ -75,7 +75,7 @@
 
   [https://makecode.microbit.org](https://makecode.microbit.org)
 
-![](./images/iot_bit_05.png) 
+![](./images/iot_bit_05.png)
 
 ### JavaScript
 
@@ -86,21 +86,21 @@
 
 ![](./images/iot_bit_06.png)
 
-### MicroPython 
+### MicroPython
 
 
- Using `MU` for advanced coding method`MicroPython` 
+ Using `MU` for advanced coding method`MicroPython`
 
   [https://codewith.mu/](https://codewith.mu/)
 
 ![](./images/iot_bit_07.png)
 
 
-## Easy start 
+## Easy start
 
 ### Hardware connection
 
- Fisrt, install CR1220 button cell for power supply to the RTC timing. 
+ Fisrt, install CR1220 button cell for power supply to the RTC timing.
 
 
 ![](./images/iot_bit_18.gif)
@@ -109,13 +109,13 @@
 
 ![](./images/iot_bit_09.gif)
 
- Using single USB for power supply to expansion board and switch on.  
+ Using single USB for power supply to expansion board and switch on.
 
 ![](./images/iot_bit_10.gif)
 
-### Coding  
+### Coding
 
-#### Coding Platform 
+#### Coding Platform
 
 [https://makecode.microbit.org](https://makecode.microbit.org)
 
@@ -127,7 +127,7 @@
 
  ![](./images/iot_bit_11.jpg)
 
- We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture) 
+ We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture)
 
  ![](./images/iot_bit_12.jpg)
 
@@ -143,7 +143,7 @@
  ![](./images/iot_bit_13.png)
 ![](./images/iot_bit_14.png)
 
- When button A be pressed in the "input", play a bit of music. 
+ When button A be pressed in the "input", play a bit of music.
 
 
  ![](./images/iot_bit_15.png)
@@ -154,7 +154,7 @@
 #### How to use RTC
 
 
- There is onboard DS1307RTC timing on the IOT:bit as below picture. RTC timing need a CR1220 button cell for lasting power supply. We need the RTC timing keep accuracy in the event of a power outage. 
+ There is onboard DS1307RTC timing on the IOT:bit as below picture. RTC timing need a CR1220 button cell for lasting power supply. We need the RTC timing keep accuracy in the event of a power outage.
 
 
 ![](./images/iot_bit_16.jpg)
@@ -180,7 +180,7 @@
 
  On start, initialize ESP8266 to default connection with P8 & P12.
  Connect your own WiFi, input the key and the password.
- Under foever loop, connect the thinkspeak and set date to send, then pause. 
+ Under foever loop, connect the thinkspeak and set date to send, then pause.
 
  ![](./images/iot_bit_21.png)
 
@@ -199,7 +199,7 @@
   ![](./images/iot_bit_23.jpg)
 
 
- Then copy your documents to the micro:bit. 
+ Then copy your documents to the micro:bit.
 
  Now, here is your observing time!
 
@@ -207,11 +207,11 @@
 
  ![](./images/iot_bit_25.png)
 
-## Documents 
+## Documents
 
 #### FAQ
 
-Question: After installing the button cells, why can't I get the correct data for RTC ? 
+Question: After installing the button cells, why can't I get the correct data for RTC ?
 
 Solution: The nominal voltage for CR1220 button cells is 3V, while some of the cells in the market may have a higher voltage than 3V. The high voltage will make abnormal operation of the RTC happen, to solve this, you can use the used cells or discharge the brand new cells by yourself.
 
@@ -231,6 +231,3 @@ Cells Discharge Steps
 3. Detect the cells voltage with a multimeter and it works well after deducing the voltage to about 3V.
 
 ![](./images/iot_bit_31.JPG)
-
-    
-

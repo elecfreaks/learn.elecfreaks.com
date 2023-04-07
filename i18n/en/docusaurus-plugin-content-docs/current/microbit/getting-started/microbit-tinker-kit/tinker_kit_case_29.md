@@ -1,14 +1,14 @@
-# case 29 Shoot Em Up Kit 
+# case 29 Shoot Em Up Kit
 
 ## Shoot Em Up Kit
 ---
-- You’ve got a town to save and a dragon to shoot! 
+- You’ve got a town to save and a dragon to shoot!
 This here is the formula to get your own tabletop shooter arcade working in good form!
 
 
 ## Products Link
 
-[Tinker Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tinker-kit-without-micro-bit-board?_pos=1&_sid=a3579b340&_ss=r)
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---
@@ -19,8 +19,8 @@ This here is the formula to get your own tabletop shooter arcade working in good
  1. Connect all the parts of the Shoot Em Up Kit.
  2. Code the micro:bit to fly dragons, detect lasers and score your player.
 
- 
-              
+
+
 ## Materials
 ---
 - 1 x Shoot Em Up Box
@@ -31,7 +31,7 @@ This here is the formula to get your own tabletop shooter arcade working in good
 - 1 x micro:bit
 - 3 x AAA batteries
 
-## Hardware Step 1 – Put your town in order! 
+## Hardware Step 1 – Put your town in order!
 ---
 
 ![](./images/cxAVaIH.jpg)
@@ -68,7 +68,7 @@ This here is the formula to get your own tabletop shooter arcade working in good
 ![](./images/cZw9X3l.jpg)
 
 - Connect the servo to P2 on the ring:bit. And make sure that the brown wire goes to G and the yellow wires go to P2.
-- Connect the light sensor to P1 on the ring:bit. The black wire should connect to G. 
+- Connect the light sensor to P1 on the ring:bit. The black wire should connect to G.
 
 
 ### Step 4 – Code it up!
@@ -83,7 +83,7 @@ This here is the formula to get your own tabletop shooter arcade working in good
 ![](./images/L7jsEBr.png)
 
 Calibrate your dragon to make sure it’s flying back and forth in the sky and not face flat into the ground repeatedly.
-- With your servo firmly in place – code the micro:bit to turn your servo to 0 deg when button A is pressed, and to turn to 180 deg when button B is pressed.  
+- With your servo firmly in place – code the micro:bit to turn your servo to 0 deg when button A is pressed, and to turn to 180 deg when button B is pressed.
 - Place a servo arm onto the head of the servo after pressing button A and watch to see where it goes when you press button B. If the servo arm points too far down or to the side, adjust the arm and reduce the angle coded. (e.g. adjust 0 – 180 deg to 20 – 160 deg).
 - Replace the servo arm with the dragon arm at the same angle and screw it down to secure it.
 
@@ -111,7 +111,7 @@ On to the light sensor. We’ve got to capture the current light levels and when
 ![](./images/S74dBUC.png)
 
 Now we want to be able to stop the dragon when it gets hit and also score points!
--  So we should combine the two pieces of code and use an IF logic block to check if we got hit. 
+-  So we should combine the two pieces of code and use an IF logic block to check if we got hit.
 -  IF we get hit, then we change the icon on the micro:bit and pause for a while, before changing back to the default icon.
 -  ELSE (if we don’t detect and hits) then we allow the servo to move as per normal.
 -  Also – add in more blocks so when the dragon gets hit it increases a score variable.
@@ -121,4 +121,3 @@ Now we want to be able to stop the dragon when it gets hit and also score points
 ---
 
 You’ve killed the dragon. Now what? Add extra mountains, make it more challenging. Or write your own story, and see what you can do with your magical micro:bit!
-

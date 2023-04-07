@@ -1,4 +1,4 @@
-# case 26 Coin Sorter with micro:bit 
+# case 26 Coin Sorter with micro:bit
 
 ## Coin Sorter with micro:bit
 ---
@@ -7,7 +7,7 @@
 
 ## Products Link
 
-[Tinker Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tinker-kit-without-micro-bit-board?_pos=1&_sid=a3579b340&_ss=r)
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---
@@ -20,15 +20,15 @@
  2. Learn how to wire up and use an ultrasound HC SR04.
  3. Have fun!
 
-            
-    
+
+
 ## Materials
 ---
 - 3 5x25cm pieces of cardboard
 - 2 25x2.5cm pieces of cardboard
 - 2 19x26cm pieces of cardboard
 - 2 5x19cm pieces of cardboard
-- 6 5x5cm pieces of cardboard 
+- 6 5x5cm pieces of cardboard
 - 1 2x5cm piece of cardboard
 - Jumper wires and 3 crocodile clip heads
 - Solder
@@ -129,7 +129,7 @@
 
 
 
- 
+
 ### Step 5 – Putting it altogether
 
 ![](./images/yfmxLC4.jpg)
@@ -160,7 +160,7 @@
 3. If a different power supply is used, attach the ground wire of the microbit in parallel to the ground from the same 5V power supply. (Sharing of the ground wire)
 
 
-## Software Step 1 – Calibrating the ultrasound 
+## Software Step 1 – Calibrating the ultrasound
 ---
 
 ![](./images/OxqQe38.png)
@@ -202,4 +202,3 @@
 ---
 
 Hopefully, you had fun building the coin sorting machine. Now, think of ways to further develop the project… maybe add a function to see if the machine is full? Either way, enjoy ^ ^
-

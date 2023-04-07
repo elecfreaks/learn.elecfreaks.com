@@ -29,4 +29,4 @@ laser).
 
 Recommended setting parameters for laser engraving/cutting
 
-![](./images/recommended-parameters-1.png)
+<iframe width="100%" height="1000" src="https://wiki.elecfreaks.com/cs/"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -29,4 +29,4 @@ laser).
 
 Recommended setting parameters for laser engraving/cutting
 
-<iframe width="100%" height="1000" src="ftp://elecfreaks@34.215.188.205/tooca-laser/3.Recommended%20parameter/Recommended%20parameter.html"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="1000" src="https://elecfreaks.com/download/cs/recommended-parameter.html"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

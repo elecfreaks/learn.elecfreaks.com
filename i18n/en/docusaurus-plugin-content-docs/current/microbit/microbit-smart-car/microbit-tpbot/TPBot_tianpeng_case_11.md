@@ -1,3 +1,10 @@
+---
+
+sidebar_position: 13
+sidebar_label: Following with A Fixed Distance
+
+---
+
 # Case 11: Following with A Fixed Distance
 
 ## Purpose

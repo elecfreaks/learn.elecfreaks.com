@@ -1,4 +1,4 @@
-# case 27 Make a Waving Fortune Cat 
+# case 27 Make a Waving Fortune Cat
 
 ## Make a Waving Fortune Cat
 ---
@@ -7,7 +7,7 @@
 
 ## Products Link
 
-[Tinker Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tinker-kit-without-micro-bit-board?_pos=1&_sid=a3579b340&_ss=r)
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---
@@ -16,11 +16,11 @@
 
 
  1. Make a moving cardboard cat.
- 2. Give cat an action which you desire. 
+ 2. Give cat an action which you desire.
  3. Hint: Follow the steps and pictures during your building process!
- 
-           
-    
+
+
+
 ## Materials
 ---
 - 1 x ADKeypad
@@ -77,4 +77,3 @@ Connect the following on the breakout board
 ---
 
 Now you’ve brought your cat to life. Think of a variety of movements for your cat. Enjoy and add them on to the cat!
-

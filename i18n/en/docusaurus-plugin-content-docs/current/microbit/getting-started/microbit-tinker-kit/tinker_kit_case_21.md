@@ -1,4 +1,4 @@
-# case 21 Flappy Bird 
+# case 21 Flappy Bird
 
 ![](./images/EWlMcgc.jpg)
 
@@ -7,6 +7,7 @@ Take flight and achieve your pipe dreams with your own version of the notoriousl
 Made by Cheryl from Raffles Institution. Warning: heavy dosage of bird puns included.
 
 ![](./images/H6Kz8Ky.gif)
+
 
 
 ## Goals
@@ -60,8 +61,8 @@ When the bird collides with a wall, the game is over.
 You might already know how to do some of these. Try covering these steps on your own first. If necessary, break the steps down further into smaller steps. There are also game checks which should be the progress you’ve made by that step. Use these to make sure you’re on track.
 
 
-## How to Make  
---- 
+## How to Make
+---
 
 ### Step 1 – Hello, World!
 
@@ -110,7 +111,7 @@ To react to key-pressing of A, run ‘button_a.was_pressed()’ under an if-loop
 Add variable ‘score = 0’ to set new variable score to 0, underneath the speed and y variables. As a coding habit, try to set all your variables in one place, above the code that uses it so it’s easier to follow, and actually can be inputted for use.
 Show score when button B is pressed by creating an if loop similar to button A. display.show(score) shows the score at any point in time. We’ll learn to vary and count the score after each wall-passing later.
 Game check: Welcome message appears, disappears, then bird appears that falls down. Press A for it to flap upwards and B to check the score, which should remain at 0 right now.
- 
+
 
 ### Step 5 – Pipe Blaster
 

@@ -1,3 +1,10 @@
+---
+
+sidebar_position: 9
+sidebar_label: Here Comes the Police
+
+---
+
 # Case 07: Here Comes the Police
 
 ## Purpose

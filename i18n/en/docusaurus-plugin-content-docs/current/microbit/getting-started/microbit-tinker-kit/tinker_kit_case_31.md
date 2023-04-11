@@ -1,4 +1,4 @@
-# case 31 morse code transmitter 
+# case 31 morse code transmitter
 
 ## Morse Code Transmitter
 ---
@@ -8,7 +8,7 @@ This tutorial was written by Anahita from the University of California at Berkel
 
 ## Products Link
 
-[Tinker Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tinker-kit-without-micro-bit-board?_pos=1&_sid=a3579b340&_ss=r)
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---
@@ -21,8 +21,8 @@ This tutorial was written by Anahita from the University of California at Berkel
  3. Receive signals from the first micro:Bit.
  4. Learn how to code in MakeCode.
 
-            
-    
+
+
 ## Materials
 ---
 - 2 x micro:Bits
@@ -100,7 +100,7 @@ We want to record the duration of time between whenever the signal is received a
 
 
 
- 
+
 ### Step 5 – Receiver: displaying the signal
 
 ![](./images/Z4yzOpc.png)
@@ -123,4 +123,3 @@ We want to display the correct signal on the screen.
 Make sure to flash the code to the respective micro:bits and test it out! It should display the same signal on both screen when you press a button.
 
 For an added challenge, try to translate the morse code on the second micro:bit.
-

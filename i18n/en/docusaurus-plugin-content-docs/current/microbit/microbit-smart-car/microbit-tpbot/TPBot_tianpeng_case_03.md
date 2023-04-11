@@ -1,3 +1,10 @@
+---
+
+sidebar_position: 5
+sidebar_label: Line Tracking
+
+---
+
 # Case 03: Line Tracking
 
 ## Purpose

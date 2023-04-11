@@ -1,4 +1,4 @@
-# case 24 Game bit 
+# case 24 Game bit
 
 ## Put together the Game:bit!
 ---
@@ -9,7 +9,7 @@
 
 ## Products Link
 
-[Tinker Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tinker-kit-without-micro-bit-board?_pos=1&_sid=a3579b340&_ss=r)
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---
@@ -83,7 +83,7 @@ The power supply capabilities and parameters, which better define how you can us
 
 
 
- 
+
 ### Step 5 – Battery Powered
 
 ![](./images/TwHv0lF.png)

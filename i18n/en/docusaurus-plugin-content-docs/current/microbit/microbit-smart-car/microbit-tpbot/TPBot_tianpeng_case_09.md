@@ -1,4 +1,13 @@
+---
+
+sidebar_position: 11
+sidebar_label: Seeking light
+
+---
+
 # Case 09: Seeking light
+
+
 
 ## Purpose
 ---

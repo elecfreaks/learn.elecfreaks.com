@@ -2,15 +2,15 @@
 
 ![](./images/iot_kit_03.jpg)
 
-## Required materials 
+## Required materials
 
 
- 1 x [IOT:kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-science-iot-kit-without-micro-bit-board?_pos=1&_sid=2513e1df0&_ss=r)
+ 1 x [IOT:kit](https://www.elecfreaks.com/micro-bit-smart-science-iot-kit.html)
 
 ## micro:bit Smart Science IoT kit
 
 
-ELECFREAKS Smart Science IoT Kit is developed based on loT:Bit,a new breakout board compatible with science sensors such as theultrasonic sensor, dust sensor, light sensor and water level sensor,.including RTC Timing and WIFI module. 
+ELECFREAKS Smart Science IoT Kit is developed based on loT:Bit,a new breakout board compatible with science sensors such as theultrasonic sensor, dust sensor, light sensor and water level sensor,.including RTC Timing and WIFI module.
 You can gather data via thesensors and send data to the cloud with more stable and accuratedata analysis.
 
 ![](./images/iot_kit_04.jpg)
@@ -31,5 +31,3 @@ You can gather data via thesensors and send data to the cloud with more stable a
 |Sonar:bit|1|[Sonar:bit brochures](http://www.elecfreaks.com/learn-en/microbitOctopus/sensor/sonar_bit.html)|
 |Dust sensor|1||[Dust Sensor Brochures](http://www.elecfreaks.com/learn-en/microbitOctopus/sensor/octopus_ef11083.html)|
 |180° servo|1|[180° servo micro:bit drive code example](https://makecode.microbit.org/_3R4bPr75P4jJ)|
-
-

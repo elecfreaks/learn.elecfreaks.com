@@ -1,4 +1,4 @@
-# case 33 access denied 
+# case 33 access denied
 
 ## Access Denied! A Door Entry Tutorial
 ---
@@ -7,7 +7,7 @@
 
 ## Products Link
 
-[Tinker Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tinker-kit-without-micro-bit-board?_pos=1&_sid=a3579b340&_ss=r)
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---
@@ -17,7 +17,7 @@
  1. Build your own wireless door security!
  2. Setting up alerts for any intruders or unlocked doors!
 
-           
+
 ## Required Materials
 ---
 - 2 x micro:bit
@@ -56,8 +56,3 @@
 2. Now give test out the crash sensor to see if the receiving micro:bit is working correctly!
 3. Now that you have set up your very first wireless door security, you can try it with more than just 1 door!
 4. Feel free to also add add other form of alerts on the receiving micro:bit to enhance your own security.
-
-
-
-
-

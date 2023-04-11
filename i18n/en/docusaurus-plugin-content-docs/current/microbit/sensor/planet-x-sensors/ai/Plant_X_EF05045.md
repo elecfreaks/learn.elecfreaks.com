@@ -9,7 +9,7 @@ The AI Lens is able to achieve the functions of face recognition, balls tracking
 
 ## Products Link
 
-[ELECFREAKS Smart AI Lens Kit](https://shop.elecfreaks.com/products/elecfreaks-smart-ai-lens-kit?_pos=1&_sid=d572dc26c&_ss=r)
+[ELECFREAKS Smart AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
 
 ## Characteristics
 
@@ -53,7 +53,7 @@ Take IoT:bit for an example:
 
 1.  If you do not use Nezha expansion board to drive the AI Lens, please search with the package through: PlanetX-AI
 
-2. Under the one button to acquire mode,  you will have to re-learn the objects if you restart the device. 
+2. Under the one button to acquire mode,  you will have to re-learn the objects if you restart the device.
 
 3. After downloading the code, if the AI lens gets stuck in the starting page with an init AI Lens error instruction, please try to power off the device and restart it. (Or make sure you connect the ready-programmed micro:bit board after the AI Lens connects the breakout board well )
 
@@ -62,13 +62,13 @@ Take IoT:bit for an example:
 
 ## AI Lens firmware update
 
-For a better experience of the AI Lens, we are making an irregularly update for the new functions and optimization of the performance, a manually update of the firmware is required after the new version is released. 
+For a better experience of the AI Lens, we are making an irregularly update for the new functions and optimization of the performance, a manually update of the firmware is required after the new version is released.
 
 ### How to check the current version
 
 ![](./images/AI-gj-05.png)
 
-The current version number shall be displayed on the lower right corner of the boot screen(starting-on page), if there is no prompt, it should be the oldest version, please update asap. 
+The current version number shall be displayed on the lower right corner of the boot screen(starting-on page), if there is no prompt, it should be the oldest version, please update asap.
 
 ### Latest version firmware
 
@@ -85,15 +85,15 @@ macOS system downloading [CH34x_Install_V1.5.pkg](https://github.com/elecfreaks/
 
 2. Install “kflash” for downloading the firmware.
 
-Windows system downloading [kflash_gui_v1.6.5_2_windows.7z](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_windows.7z) and unzipping it. 
+Windows system downloading [kflash_gui_v1.6.5_2_windows.7z](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_windows.7z) and unzipping it.
 
-macOS system downloading [kflash_gui_v1.6.5_2_macOS.dmg](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_macOS.dmg) 
+macOS system downloading [kflash_gui_v1.6.5_2_macOS.dmg](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_macOS.dmg)
 
 For windows system, open the file folder kflash_gui and find kflash_gui.exe.
 
 ![](./images/AI-gj-01.png)
 
-For macOS system, click the icon of kflash_gui after the downloading. 
+For macOS system, click the icon of kflash_gui after the downloading.
 
 ![](./images/AI-gj-06.png)
 
@@ -101,46 +101,41 @@ Double click kflash_gui.exe to open the file and choose to open the newest firmw
 
 ![](./images/AI-gj-02.png)
 
-Connect the AI Lens with the USB wire. 
+Connect the AI Lens with the USB wire.
 
 ![](./images/AI-gj-03.png)
 
-Choose the port to download it. 
+Choose the port to download it.
 
 ![](./images/AI-gj-04.png)
 
 
 ### FAQ
 
-1.In macOS operation system, if you fail to install the firmware because the developer cannot be verified. 
+1.In macOS operation system, if you fail to install the firmware because the developer cannot be verified.
 
 ![](./images/AI-gj-07-en.png)
 
 Please visit https://support.apple.com/en-us/HT202491 for solutions.
 
-2.While using AI cameras, if there is an error tip occurring while clicking downloading, it might be the corrupted extensions of the PlanetX. 
+2.While using AI cameras, if there is an error tip occurring while clicking downloading, it might be the corrupted extensions of the PlanetX.
 
 ![](./images/AI-FAQ-01.png)
 
-Details of the corrupted might be these two reasons: 
+Details of the corrupted might be these two reasons:
 
-(1)The version of the extension is not the newest, please try creating a new project and add the extensions again. 
+(1)The version of the extension is not the newest, please try creating a new project and add the extensions again.
 
-(2)The conflict emerged due the adding of both the PlanetX and PlanetX-AI, please click the part circled in red in the picture “JaveScript”to switch the program screen, click the explorer and delete PlanetX or PlanetX-AI according to your demand. 
+(2)The conflict emerged due the adding of both the PlanetX and PlanetX-AI, please click the part circled in red in the picture “JaveScript”to switch the program screen, click the explorer and delete PlanetX or PlanetX-AI according to your demand.
 
 ![](./images/AI-FAQ-03.png)
 
-After deleting, it should work now. 
+After deleting, it should work now.
 
 ![](./images/AI-FAQ-04.png)
 
-After deleting, if you find the loss of the visual block, please try adding the extensions again. If it doesn’t work, please try resetting the MakeCode with the tips in below picture. 
+After deleting, if you find the loss of the visual block, please try adding the extensions again. If it doesn’t work, please try resetting the MakeCode with the tips in below picture.
 
-***Note:*** all projects saved in MakeCode will be cleared after the reset, please save all of them in your computer if you need them. 
+***Note:*** all projects saved in MakeCode will be cleared after the reset, please save all of them in your computer if you need them.
 
 ![](./images/AI-FAQ-05.png)
-
-
-
-
-

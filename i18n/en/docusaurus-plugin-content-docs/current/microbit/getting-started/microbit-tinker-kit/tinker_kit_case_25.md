@@ -1,4 +1,4 @@
-# case 25 µ reMorse 
+# case 25 µ reMorse
 
 ## µ reMorse
 ---
@@ -8,7 +8,7 @@
 
 ## Products Link
 
-[Tinker Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tinker-kit-without-micro-bit-board?_pos=1&_sid=a3579b340&_ss=r)
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ### Goals
 ---
@@ -21,11 +21,11 @@
     4. Unfortunately, the author use unable to figure out how to send  keyboard events, hence a “keyboard” in quotes.
     5. Built using only the Micro:Bit runtime in C/C++
     6. Leverage the built Micro:Bit display provide an interactive typing experience.
-       
 
-      
-    
-   
+
+
+
+
 
 
 ### Materials & Prerequsites
@@ -100,7 +100,7 @@
 
 
 
- 
+
 ### Step 5
 ---
 
@@ -126,7 +126,7 @@
 6. The second wall exists where playerx equals 4 OR playery equals 4. We create another if statement with these conditions, and inside we set gameOn to ‘false’ (because once again if it’s ever True, it means the player ran into a wall and should get a Game Over).
 7. Finally, the last test we need to add is to see if the player makes it successfully through the maze! In this example level, the end of the maze is at x=3, y=0. We create another if statment to check if x=3 AND y=0, and inside we do a few things: First, we play a success melody in the background. Second, we set the starting position of the player for the next level (in this example, we use the same starting position, but it can be different!). Third, we show a smily face to tell the player they succceeded! And fourth, we change the level variable by 1 (this will cause the next level to display).
 
-### Step 7 
+### Step 7
 ---
 
 ![](./images/Wbwg8EH.png)
@@ -172,5 +172,3 @@
 ---
 
 Now that you’ve learned how to use the ADKeypad, you can try using it to control LEDs, servos, and other components! You also learned about if statements which are useful in many micro:bit projects! Try customising your maze runner game by adding more levels!
-
-

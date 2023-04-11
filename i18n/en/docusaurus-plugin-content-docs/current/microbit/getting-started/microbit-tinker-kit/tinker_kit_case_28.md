@@ -1,4 +1,4 @@
-# case 28 Put together the Krazy Kar v2 
+# case 28 Put together the Krazy Kar v2
 
 ## Put together the Krazy Kar v2
 ---
@@ -8,7 +8,7 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
 
 ## Products Link
 
-[Tinker Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tinker-kit-without-micro-bit-board?_pos=1&_sid=a3579b340&_ss=r)
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---
@@ -19,9 +19,9 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
  1. Make the Krazy Kar.
  2. Don’t break anything.
  3. (Or if you break anything, learn how to fix it).
- 
-           
-    
+
+
+
 ## Materials
 ---
 - 1 x Krazy Kar Shell
@@ -33,7 +33,7 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
 - 1 x micro:bit
 - 1 x Battery Pack
 
-## Hardware Step 1 – Shell it! 
+## Hardware Step 1 – Shell it!
 ---
 
 ![](./images/Dm0im8u.png)
@@ -61,7 +61,7 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
 
 - Screw the wheels onto the continuous servo motors.
 
-- Thread the servos and battery pack’s wire through the rectangular hole in the top shell. And fit the top shell onto the bottom. 
+- Thread the servos and battery pack’s wire through the rectangular hole in the top shell. And fit the top shell onto the bottom.
 
 
 ### Step 4 – Upgrade the micro:bit
@@ -76,7 +76,7 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
 
 - Screw the micro:bit onto the basic:bit using the longer screws provided. Note that the holes should align, P0 to P0 and G to G.
 
-- Affix the two servos into P1 and P2 of the basic:bit, making sure that the brown wires goes to G and the yellow wires go to S. 
+- Affix the two servos into P1 and P2 of the basic:bit, making sure that the brown wires goes to G and the yellow wires go to S.
 
 - Switch the P0/Buzzer switch on the basic:bit to buzzer. If it was already there – lucky you.
 
@@ -89,4 +89,4 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
 
 - Using the 5 screws, fit the micro+basic:bit cyborg into the 5 holes on the top of the krazy kar.
 
-- Decorate decadently. And code it to get moving! 
+- Decorate decadently. And code it to get moving!

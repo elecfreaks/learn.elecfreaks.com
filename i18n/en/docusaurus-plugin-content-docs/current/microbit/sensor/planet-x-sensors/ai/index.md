@@ -14,7 +14,7 @@ The AI Lens is able to achieve the functions of face recognition, balls tracking
 
 ## Products Link
 
-[ELECFREAKS Smart AI Lens Kit](https://shop.elecfreaks.com/products/elecfreaks-smart-ai-lens-kit?_pos=1&_sid=d572dc26c&_ss=r)
+[ELECFREAKS Smart AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
 
 ## Characteristics
 

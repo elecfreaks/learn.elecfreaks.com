@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 14
+sidebar_label: micro:bit Remote Control
+---
+
 # Case 12: micro:bit Remote Control
 
 ## Purpose

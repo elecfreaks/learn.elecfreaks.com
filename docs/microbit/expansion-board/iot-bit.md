@@ -93,7 +93,7 @@
  ![](./images/CJytOdT.png)
 
 
-## 快速上手  
+## 快速上手
 ---
 ### 硬件安装及连接
 
@@ -105,11 +105,11 @@
 
  ![](./images/kFW4hB9.gif)
 
-- 最后使用独立USB电源为扩展板供电，打开板载电源开关。 
+- 最后使用独立USB电源为扩展板供电，打开板载电源开关。
 
  ![](./images/DXB3mBI.gif)
 
-### 软件编程  
+### 软件编程
 ---
 #### 软件编程平台 ###
 ---
@@ -160,7 +160,7 @@
 
  ![](./images/t9fOHMT.png)
 
-- 程序代码链接：[https://makecode.microbit.org/_e9d3vW96bPe2](https://makecode.microbit.org/_e9d3vW96bPe2)
+- 程序代码链接：[https://makecode.microbit.org/_AXXF9hA0049u](https://makecode.microbit.org/_AXXF9hA0049u)
 
 #### 如何使用物联网功能功能 ###
 ---

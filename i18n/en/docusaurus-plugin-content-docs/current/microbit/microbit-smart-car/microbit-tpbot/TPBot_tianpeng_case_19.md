@@ -1,56 +1,48 @@
 ---
 
 sidebar_position: 21
-sidebar_label: Sweeper
+sidebar_label: 害羞的天蓬
 
 ---
 
-# Case 19: Sweeper
+# Case 19: 害羞的天蓬
 
-## Purpose
----
-- Build a TPBot sweeper.
+## 简介
 
-## Material
----
+制作一辆根据周围环境声音响度自动调节行驶速度的天蓬车。
 
-- 1 x [TPBot](https://www.elecfreaks.com/tpbot.html)
+## 购买链接
 
-![](./images/TPBot_tianpeng_case_01_01.png)
+[TPBot](https://www.elecfreaks.com/tpbot.html)
+micro:bit v2
 
-## Hardware Connection
----
-Connect the 360 degrees servo to servo 1 port on TPBot. (Servos are not included in our TPBot kit)
+## 软件
 
-![](./images/TPBot_tianpeng_case_19_03.png)
-
-## Software
----
 [MicroSoft makecode](https://makecode.microbit.org/#)
 
 
 ## Programming
----
 
-- Click "Advanced" in the MakeCode drawer to see more choices.
+
+ Click "Advanced" in the MakeCode drawer to see more choices.
 
 ![](./images/TPBot_tianpeng_case_01_02.png)
 
-- We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "tpbot" to download it.
+We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "tpbot" to download it.
 
 ![](./images/TPBot_tianpeng_case_01_03.png)
 
 ### Sample
 
-- Drag the show icon brick in the on start and set the car to move forward at the speed of 30%; in forever brick, set the servo connecting to S1 rotate to 180 degrees and pause for 1000ms, and set it rotate to 0 degree and pause for 1000ms.
+
 
 ![](./images/TPBot_tianpeng_case_19_04.png)
 
 
 ### Link
-- Link：[https://makecode.microbit.org/_664VpuAVMcCa](https://makecode.microbit.org/_664VpuAVMcCa)
+Link：[https://makecode.microbit.org/_FxjaAwJcb15K](https://makecode.microbit.org/_FxjaAwJcb15K)
 
-- You may also download it directly below:
+You may also download it directly below:
 
 <div
     style={{
@@ -60,7 +52,7 @@ Connect the 360 degrees servo to servo 1 port on TPBot. (Servos are not included
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_664VpuAVMcCa"
+        src="https://makecode.microbit.org/_FxjaAwJcb15K"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -73,17 +65,4 @@ Connect the 360 degrees servo to servo 1 port on TPBot. (Servos are not included
 
 ### Conclusion
 
-The car move forward with the servo rotating.
-
-
-## Exploration
----
-
-
-## FAQ
----
-Q: The car cannot move with the code in this case?
-A: It might be a lack power of the battery, please add the value of the parameter for the speed of the car and test it.
-
-##  Revelant File
----
+根据周围环境声音响度自动调节行驶速度的天蓬车。

@@ -1,62 +1,96 @@
 ---
 sidebar_position: 2
-sidebar_label: 大嘴怪
+sidebar_label: TPbot Big Mouth
 ---
 
-# TPbot大嘴怪
+# TPbot Big Mouth
 
-## 目的
+## Purpose
 
-搭建一辆拥有大嘴巴的天蓬智能车。
-
-## 使用材料
+To build a big mouth TPBot. 
 
 
-[天蓬智能车（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=627045784239)
-[360度舵机（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=628853715235)
-扩展积木包
+![](./images/tpbot-brick-expansion-case-02-01.png)
+
+## Materials Requested
 
 
-![](./images/TPBot_tianpeng_case_01_01.png)
-
-
-
-## 硬件连接
-
-将360°舵机连接到天蓬智能车的SERVO1端口。（舵机需要额外购买）
-
-![](./images/TPBot_tianpeng_case_19_03.png)
-
-## 软件
-
-[微软makecode](https://makecode.microbit.org/#)
-
-
-## 编程
+[TPBot Smart Car](https://www.elecfreaks.com/tpbot.html)
+[360 degrees servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)
+Bricks Pack
 
 
 
-在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
+## Assembly Steps
 
-![](./images/TPBot_tianpeng_case_01_02.png)
+![](./images/tpbot-brick-expansion-step-02-01.png)
 
-为了给天蓬智能车编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`tpbot`，然后点击下载这个代码库。
+![](./images/tpbot-brick-expansion-step-02-02.png)
 
-![](./images/TPBot_tianpeng_case_01_03.png)
+![](./images/tpbot-brick-expansion-step-02-03.png)
+
+![](./images/tpbot-brick-expansion-step-02-04.png)
+
+![](./images/tpbot-brick-expansion-step-02-05.png)
+
+![](./images/tpbot-brick-expansion-step-02-06.png)
+
+![](./images/tpbot-brick-expansion-step-02-07.png)
+
+![](./images/tpbot-brick-expansion-step-02-08.png)
+
+![](./images/tpbot-brick-expansion-step-02-09.png)
+
+![](./images/tpbot-brick-expansion-step-02-10.png)
+
+![](./images/tpbot-brick-expansion-step-02-11.png)
+
+![](./images/tpbot-brick-expansion-step-02-12.png)
+
+![](./images/tpbot-brick-expansion-step-02-13.png)
+
+![](./images/tpbot-brick-expansion-step-02-14.png)
+
+![](./images/tpbot-brick-expansion-step-02-15.png)
+
+## Hardware Connections
+
+Connect the 360° servo to servo 1 port on the TPBot.
+
+![](./images/tpbot-brick-expansion-case-01-02.png)
 
 
-## 示例程序
+## Software
 
-`当开机时`设置显示图标，设置小车以30%的速度向前行驶；在`无限循环`中，设置连接S1的舵机转动至180°，然后延时1000ms，设置连接S1的舵机转动至0°，然后延时1000ms。
-
-![](./images/TPBot_tianpeng_case_19_04.png)
+[Microsoft makecode](https://makecode.microbit.org/#)
 
 
-### 程序
+## Program
 
-请参考程序连接：[https://makecode.microbit.org/_664VpuAVMcCa](https://makecode.microbit.org/_664VpuAVMcCa)
 
-你也可以通过以下网页直接下载程序。
+
+Click "Advanced" in the makecode drawer to see more choices. 
+
+![](./images/tpbot-brick-expansion-case-01-03.png)
+
+For programming the TPBot, we need to add the extensions. Click "Extensions" at the bottom of the drawer and search with `tpbot` in the box, then download it. 
+
+![](./images/tpbot-brick-expansion-case-01-04.png)
+
+
+## Samples for program
+
+While `on start`, set to show an icon and make the servo drive to 90 degrees; set the car to drive forward at the speed of 30% and pause for 2000ms; set the servo connecting with S1 to ratote to 180 degrees. 
+
+
+![](./images/tpbot-brick-expansion-case-02-05.png)
+
+
+### Program
+
+Reference link: [https://makecode.microbit.org/_AYtaMUgroVbh](https://makecode.microbit.org/_AYtaMUgroVbh)
+
+You may download it directly here:
 
 <div
     style={{
@@ -66,7 +100,7 @@ sidebar_label: 大嘴怪
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_664VpuAVMcCa"
+        src="https://makecode.microbit.org/_AYtaMUgroVbh"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -77,17 +111,7 @@ sidebar_label: 大嘴怪
     />
 </div>
 
-## 结论
+## Conclusion
 
 
-小车向前行驶，舵机循环正转、反转。
-
-
-## 思考
-
-## 常见问题
-
-Q:使用案例中的代码发现小车不能正常运行？
-A:电池电量不足，增大程序中的小车速度参数的数值，并测试。
-
-## 相关阅读
+The big monster would open the mouth and drive forward for 2 senconds after powering on, then it stops and close the mouth. 

@@ -1,11 +1,11 @@
 ---
 sidebar_position: 3
-sidebar_label: 天蓬智能车积木扩展案例
+sidebar_label: Bricks cases for TPBot Smart Car
 ---
 
-# 天蓬智能车积木扩展案例
+#  Bricks cases for TPBot Smart Car
 
-## 目录
+## Contents
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

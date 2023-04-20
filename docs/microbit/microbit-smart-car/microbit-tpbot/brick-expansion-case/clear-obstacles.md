@@ -15,23 +15,42 @@ sidebar_label: 清障小车
 ## 使用材料
 
 
-[天蓬智能车（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=627045784239)
-[360度舵机（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=628853715235)
+[天蓬智能车](https://www.elecfreaks.com/tpbot.html)
+[360度舵机](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)
 扩展积木包
 
 
 
 ## 搭建步骤
 
-![](./images/tpbot-brick-expansion-step-case-01-01.png)
+![](./images/tpbot-brick-expansion-step-01-01.png)
+
+![](./images/tpbot-brick-expansion-step-01-02.png)
+
+![](./images/tpbot-brick-expansion-step-01-03.png)
+
+![](./images/tpbot-brick-expansion-step-01-04.png)
+
+![](./images/tpbot-brick-expansion-step-01-05.png)
+
+![](./images/tpbot-brick-expansion-step-01-06.png)
+
+![](./images/tpbot-brick-expansion-step-01-07.png)
+
+![](./images/tpbot-brick-expansion-step-01-08.png)
+
+![](./images/tpbot-brick-expansion-step-01-09.png)
+
+![](./images/tpbot-brick-expansion-step-01-10.png)
 
 
 
 ## 硬件连接
 
-将360°舵机连接到天蓬智能车的SERVO1端口。（舵机需要额外购买）
+将360°舵机连接到天蓬智能车的SERVO1端口。
 
 ![](./images/tpbot-brick-expansion-case-01-02.png)
+
 
 ## 软件
 
@@ -60,7 +79,7 @@ sidebar_label: 清障小车
 
 ### 程序
 
-请参考程序连接：[https://makecode.microbit.org/_664VpuAVMcCa](https://makecode.microbit.org/_664VpuAVMcCa)
+请参考程序连接：[https://makecode.microbit.org/_CAXezWdyX0Mm](https://makecode.microbit.org/_CAXezWdyX0Mm)
 
 你也可以通过以下网页直接下载程序。
 
@@ -72,7 +91,7 @@ sidebar_label: 清障小车
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_664VpuAVMcCa"
+        src="https://makecode.microbit.org/_CAXezWdyX0Mm"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -87,13 +106,3 @@ sidebar_label: 清障小车
 
 
 小车向前行驶，舵机循环正转、反转。
-
-
-## 思考
-
-## 常见问题
-
-Q:使用案例中的代码发现小车不能正常运行？
-A:电池电量不足，增大程序中的小车速度参数的数值，并测试。
-
-## 相关阅读

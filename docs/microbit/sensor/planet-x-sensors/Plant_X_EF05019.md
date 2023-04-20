@@ -13,7 +13,10 @@
 
 项目 | 参数
 :-: | :-:
+产品名称 | 双路巡线传感器
 SKU|EF05019
+产品重量（毛重） | 约 7.5 g
+产品尺寸 | 41.9 × 23.8 mm
 接口|RJ11
 接口类型|数字输出
 工作电压|3.3V
@@ -106,7 +109,9 @@ SKU|EF05019
 为了给双路巡线模块编程，我们需要添加enum.py和tracking.py两个文件。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的PlanetX_MicroPython文件夹，从中选择enum.py和tracking.py两个文件添加进来。
 
 ![](./images/05001_08.png)
+
 ![](./images/05001_09.png)
+
 ![](./images/05019_10.png)
 
 ### 步骤 2

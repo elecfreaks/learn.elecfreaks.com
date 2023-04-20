@@ -1,27 +1,27 @@
 ---
 sidebar_position: 1
-sidebar_label: 清障小车
+sidebar_label: Obstacles Clearance Car
 ---
 
-# 清障小车
+# Obstacles Clearance Car
 
-## 目的
+## Purpose
 
-搭建一辆拥有清除障碍功能的天蓬智能车。
+To create an obstacle clerance TPBot car. 
 
 
 ![](./images/tpbot-brick-expansion-case-01-01.png)
 
-## 使用材料
+## Materials Requested
 
 
-[天蓬智能车（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=627045784239)
-[360度舵机（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=628853715235)
-扩展积木包
+[TPBot Smart Car](https://www.elecfreaks.com/tpbot.html)
+[360 degrees servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)
+Bricks Pack
 
 
 
-## 搭建步骤
+## Assembly Steps
 
 ![](./images/tpbot-brick-expansion-step-01-01.png)
 
@@ -45,43 +45,42 @@ sidebar_label: 清障小车
 
 
 
-## 硬件连接
+## Hardware Connections
 
-将360°舵机连接到天蓬智能车的SERVO1端口。
+Connect the 360° servo to servo 1 port on the TPBot. 
 
 ![](./images/tpbot-brick-expansion-case-01-02.png)
 
 
-## 软件
+## Software
 
-[微软makecode](https://makecode.microbit.org/#)
-
-
-## 编程
+[Microsoft makecode](https://makecode.microbit.org/#)
 
 
+## Program
 
-在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
+
+
+Click "Advanced" in the makecode drawer to see more choices. 
 
 ![](./images/tpbot-brick-expansion-case-01-03.png)
 
-为了给天蓬智能车编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`tpbot`，然后点击下载这个代码库。
+For programming the TPBot, we need to add the extensions. Click "Extensions" at the bottom of the drawer and search with `tpbot` in the box, then download it. 
 
 ![](./images/tpbot-brick-expansion-case-01-04.png)
 
 
-## 示例程序
+## Samples 
 
-`当开机时`设置显示图标，设置小车以30%的速度向前行驶；在`无限循环`中，设置连接S1的舵机转动至180°，然后延时1000ms，设置连接S1的舵机转动至0°，然后延时1000ms。
-
+While `on start`, set to show an icon and make the car drive forward at the speed of 30%; in `forever` block, set the servo connecting with S1 to ratote to 180 degrees, then pause for 1000ms, set that servo to 0 degree, and pause 1000ms. 
 ![](./images/tpbot-brick-expansion-case-01-05.png)
 
 
-### 程序
+### Program
 
-请参考程序连接：[https://makecode.microbit.org/_664VpuAVMcCa](https://makecode.microbit.org/_664VpuAVMcCa)
+Reference link: [https://makecode.microbit.org/_CAXezWdyX0Mm](https://makecode.microbit.org/_CAXezWdyX0Mm)
 
-你也可以通过以下网页直接下载程序。
+You may download it directly here:
 
 <div
     style={{
@@ -91,7 +90,7 @@ sidebar_label: 清障小车
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_664VpuAVMcCa"
+        src="https://makecode.microbit.org/_CAXezWdyX0Mm"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -102,7 +101,7 @@ sidebar_label: 清障小车
     />
 </div>
 
-## 结论
+## Conclusion
 
 
-小车向前行驶，舵机循环正转、反转。
+The cart moves forward and the servo continues rotating in different directions. 

@@ -7,7 +7,7 @@ sidebar_label: Obstacles Clearance Car
 
 ## Purpose
 
-To create an obstacle clerance TPBot car. 
+To create an obstacle clerance TPBot car.
 
 
 ![](./images/tpbot-brick-expansion-case-01-01.png)
@@ -16,7 +16,9 @@ To create an obstacle clerance TPBot car.
 
 
 [TPBot Smart Car](https://www.elecfreaks.com/tpbot.html)
+
 [360 degrees servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)
+
 Bricks Pack
 
 
@@ -47,7 +49,7 @@ Bricks Pack
 
 ## Hardware Connections
 
-Connect the 360° servo to servo 1 port on the TPBot. 
+Connect the 360° servo to servo 1 port on the TPBot.
 
 ![](./images/tpbot-brick-expansion-case-01-02.png)
 
@@ -61,18 +63,18 @@ Connect the 360° servo to servo 1 port on the TPBot.
 
 
 
-Click "Advanced" in the makecode drawer to see more choices. 
+Click "Advanced" in the makecode drawer to see more choices.
 
 ![](./images/tpbot-brick-expansion-case-01-03.png)
 
-For programming the TPBot, we need to add the extensions. Click "Extensions" at the bottom of the drawer and search with `tpbot` in the box, then download it. 
+For programming the TPBot, we need to add the extensions. Click "Extensions" at the bottom of the drawer and search with `tpbot` in the box, then download it.
 
 ![](./images/tpbot-brick-expansion-case-01-04.png)
 
 
-## Samples 
+## Samples
 
-While `on start`, set to show an icon and make the car drive forward at the speed of 30%; in `forever` block, set the servo connecting with S1 to ratote to 180 degrees, then pause for 1000ms, set that servo to 0 degree, and pause 1000ms. 
+While `on start`, set to show an icon and make the car drive forward at the speed of 30%; in `forever` block, set the servo connecting with S1 to ratote to 180 degrees, then pause for 1000ms, set that servo to 0 degree, and pause 1000ms.
 ![](./images/tpbot-brick-expansion-case-01-05.png)
 
 
@@ -104,4 +106,4 @@ You may download it directly here:
 ## Conclusion
 
 
-The cart moves forward and the servo continues rotating in different directions. 
+The cart moves forward and the servo continues rotating in different directions.

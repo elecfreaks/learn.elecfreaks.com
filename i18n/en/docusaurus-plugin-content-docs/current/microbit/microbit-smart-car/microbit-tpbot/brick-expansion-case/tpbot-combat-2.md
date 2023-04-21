@@ -7,7 +7,7 @@ sidebar_label: TPbot Combat 2
 
 ## Purpose
 
-To build a combat TPBot. 
+To build a combat TPBot.
 
 
 ![](./images/tpbot-brick-expansion-case-06-01.png)
@@ -16,7 +16,9 @@ To build a combat TPBot.
 
 
 [TPBot Smart Car](https://www.elecfreaks.com/tpbot.html)
+
 [360 degrees servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)
+
 Bricks Pack
 
 
@@ -60,18 +62,18 @@ Connect the 360° servo to servo 1 port on the TPBot.
 
 
 
-Click "Advanced" in the makecode drawer to see more choices. 
+Click "Advanced" in the makecode drawer to see more choices.
 
 ![](./images/tpbot-brick-expansion-case-01-03.png)
 
-For programming the TPBot, we need to add the extensions. Click "Extensions" at the bottom of the drawer and search with `tpbot` in the box, then download it. 
+For programming the TPBot, we need to add the extensions. Click "Extensions" at the bottom of the drawer and search with `tpbot` in the box, then download it.
 
 ![](./images/tpbot-brick-expansion-case-01-04.png)
 
 
 ## Samples program
 
-While `on start`, set to show an icon and while pressing button A,  make the servo connecting to S1 drive to 180 degrees; while pressing button B, set the servo connecting with S1 to ratote to 270 degrees. 
+While `on start`, set to show an icon and while pressing button A,  make the servo connecting to S1 drive to 180 degrees; while pressing button B, set the servo connecting with S1 to ratote to 270 degrees.
 
 ![](./images/tpbot-brick-expansion-case-04-05.png)
 
@@ -80,7 +82,7 @@ While `on start`, set to show an icon and while pressing button A,  make the ser
 
 Reference program: [https://makecode.microbit.org/_abKfLKhV4V99](https://makecode.microbit.org/_abKfLKhV4V99)
 
-You may download it directly here: 
+You may download it directly here:
 
 <div
     style={{
@@ -101,7 +103,7 @@ You may download it directly here:
     />
 </div>
 
-## Conclusion: 
+## Conclusion:
 
 
-While pressing button A, the push rod raised up; while pressing button B, the push rod pushes to the side way. 
+While pressing button A, the push rod raised up; while pressing button B, the push rod pushes to the side way.

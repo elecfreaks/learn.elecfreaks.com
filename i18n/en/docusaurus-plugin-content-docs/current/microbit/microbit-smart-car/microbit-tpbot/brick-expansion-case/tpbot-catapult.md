@@ -3,7 +3,7 @@ sidebar_position: 4
 sidebar_label: TPbot Catapult
 ---
 
-# TPbot Catapult 
+# TPbot Catapult
 
 ## Purpose
 
@@ -16,7 +16,9 @@ To build a TPBot Catapult.
 
 
 [TPBot Smart Car](https://www.elecfreaks.com/tpbot.html)
+
 [360 degrees servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)
+
 Bricks Pack
 
 
@@ -88,15 +90,15 @@ Connect the 360° servo to servo 1 port on the TPBot.
 
 
 
-Click "Advanced" in the makecode drawer to see more choices. 
+Click "Advanced" in the makecode drawer to see more choices.
 ![](./images/tpbot-brick-expansion-case-01-03.png)
 
-For programming the TPBot, we need to add the extensions. Click "Extensions" at the bottom of the drawer and search with `tpbot` in the box, then download it. 
+For programming the TPBot, we need to add the extensions. Click "Extensions" at the bottom of the drawer and search with `tpbot` in the box, then download it.
 ![](./images/tpbot-brick-expansion-case-01-04.png)
 
 
 ## Samples for program
-While `on start`, set to show an icon, while button A being pressed, make the servo connecting to S1 drive to 180 degrees; while button B being pressed, set the servo connecting with S1 to ratote to 270 degrees. 
+While `on start`, set to show an icon, while button A being pressed, make the servo connecting to S1 drive to 180 degrees; while button B being pressed, set the servo connecting with S1 to ratote to 270 degrees.
 
 ![](./images/tpbot-brick-expansion-case-04-05.png)
 
@@ -129,4 +131,4 @@ You may download it directly here:
 ## Conclusion:
 
 
-While pressing button A, the catapult shots out the ball; while pressing button B, the catapult lies down. 
+While pressing button A, the catapult shots out the ball; while pressing button B, the catapult lies down.

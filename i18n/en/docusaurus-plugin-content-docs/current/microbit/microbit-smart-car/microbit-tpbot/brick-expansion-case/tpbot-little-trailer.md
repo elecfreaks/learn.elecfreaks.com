@@ -3,11 +3,11 @@ sidebar_position: 9
 sidebar_label: TPbot Little Trailer
 ---
 
-# TPbot 
+# TPbot
 
 ## Purpose
 
-To build a TPBot little trailer. 
+To build a TPBot little trailer.
 
 
 ![](./images/tpbot-brick-expansion-case-09-01.png)
@@ -16,7 +16,8 @@ To build a TPBot little trailer.
 
 
 [TPBot Smart Car](https://www.elecfreaks.com/tpbot.html)
-Bricks Pack 
+
+Bricks Pack
 
 
 
@@ -68,18 +69,18 @@ Bricks Pack
 
 
 
-Click "Advanced" in the makecode drawer to see more choices. 
+Click "Advanced" in the makecode drawer to see more choices.
 
 ![](./images/tpbot-brick-expansion-case-01-03.png)
 
-For programming the TPBot, we need to add the extensions. Click "Extensions" at the bottom of the drawer and search with `tpbot` in the box, then download it. 
+For programming the TPBot, we need to add the extensions. Click "Extensions" at the bottom of the drawer and search with `tpbot` in the box, then download it.
 
 ![](./images/tpbot-brick-expansion-case-01-04.png)
 
 
 ## Samples program
 
-While `on start`, set to show an icon and set the cart to drive forward at the speed of 50%. 
+While `on start`, set to show an icon and set the cart to drive forward at the speed of 50%.
 
 ![](./images/tpbot-brick-expansion-case-03-05.png)
 
@@ -112,4 +113,4 @@ You may download it directly here:
 ## Conclusion
 
 
-The cart moves forward. 
+The cart moves forward.

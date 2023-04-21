@@ -7,7 +7,7 @@ sidebar_label: TPbot Bulldozer
 
 ## Purpose
 
-Build a TPBot bulldozer. 
+Build a TPBot bulldozer.
 
 
 ![](./images/tpbot-brick-expansion-case-03-01.png)
@@ -16,7 +16,9 @@ Build a TPBot bulldozer.
 
 
 [TPBot Smart Car](https://www.elecfreaks.com/tpbot.html)
+
 [360 degrees servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)
+
 Bricks Pack
 
 
@@ -51,27 +53,27 @@ Bricks Pack
 
 
 
-## Software 
+## Software
 
 [Microsoft makecode](https://makecode.microbit.org/#)
 
 
-## Program 
+## Program
 
 
 
-Click "Advanced" in the makecode drawer to see more choices. 
+Click "Advanced" in the makecode drawer to see more choices.
 
 ![](./images/tpbot-brick-expansion-case-01-03.png)
 
-For programming the TPBot, we need to add the extensions. Click "Extensions" at the bottom of the drawer and search with `tpbot` in the box, then download it. 
+For programming the TPBot, we need to add the extensions. Click "Extensions" at the bottom of the drawer and search with `tpbot` in the box, then download it.
 
 ![](./images/tpbot-brick-expansion-case-01-04.png)
 
 
 ## Samples Program
 
-While `on start`, set to show an icon and make the car drive forward at the speed of 50%. 
+While `on start`, set to show an icon and make the car drive forward at the speed of 50%.
 
 ![](./images/tpbot-brick-expansion-case-03-05.png)
 
@@ -80,7 +82,7 @@ While `on start`, set to show an icon and make the car drive forward at the spee
 
 Reference program: [https://makecode.microbit.org/_egqdaXL02ey6](https://makecode.microbit.org/_egqdaXL02ey6)
 
-You may download it directly here: 
+You may download it directly here:
 
 <div
     style={{
@@ -104,4 +106,4 @@ You may download it directly here:
 ## Conclusion
 
 
-The TPBot drives forward. 
+The TPBot drives forward.

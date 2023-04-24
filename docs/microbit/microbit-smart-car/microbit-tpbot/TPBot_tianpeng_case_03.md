@@ -46,7 +46,7 @@ sidebar_label: 巡线行驶
 ![](./images/TPBot_tianpeng_case_03_04.png)
 
 ### 程序
-- 请参考程序连接：[​https://makecode.microbit.org/_Tc45z4cwMaLE](​https://makecode.microbit.org/_Tc45z4cwMaLE)
+- 请参考程序连接：[https://makecode.microbit.org/_Tc45z4cwMaLE](https://makecode.microbit.org/_Tc45z4cwMaLE)
 
 - 你也可以通过以下网页直接下载程序。
 
@@ -58,7 +58,7 @@ sidebar_label: 巡线行驶
     }}
 >
     <iframe
-        src="​https://makecode.microbit.org/_Tc45z4cwMaLE"
+        src="https://makecode.microbit.org/_Tc45z4cwMaLE"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

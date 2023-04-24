@@ -1,22 +1,22 @@
 ---
 
 sidebar_position: 21
-sidebar_label: 害羞的天蓬
+sidebar_label: The Shy TPBot
 
 ---
 
-# Case 19: 害羞的天蓬
+# Case 19: The Shy TPBot
 
-## 简介
+## Introduction
 
-制作一辆根据周围环境声音响度自动调节行驶速度的天蓬车。
+To create a TPBot car that automatically adjusts its driving speed according to the sound level of the surrounding environment.
 
-## 购买链接
+## Purchase link:
 
 [TPBot](https://www.elecfreaks.com/tpbot.html)
 micro:bit v2
 
-## 软件
+## SoftWare
 
 [MicroSoft makecode](https://makecode.microbit.org/#)
 
@@ -40,7 +40,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 
 ### Link
-Link：[https://makecode.microbit.org/_FxjaAwJcb15K](https://makecode.microbit.org/_FxjaAwJcb15K)
+Link: [https://makecode.microbit.org/_FxjaAwJcb15K](https://makecode.microbit.org/_FxjaAwJcb15K)
 
 You may also download it directly below:
 
@@ -65,4 +65,4 @@ You may also download it directly below:
 
 ### Conclusion
 
-根据周围环境声音响度自动调节行驶速度的天蓬车。
+The TPBot smart car automatically adjusts the driving speed according to the sound level of the surrounding environment.

@@ -1,22 +1,22 @@
 ---
 
-sidebar_position: 23
-sidebar_label: Do not touch "me"
+sidebar_position: 22
+sidebar_label: 巡线避障小车
 
 ---
 
-# Case 21: Do not touch "me"
+# Case 20: 巡线避障小车
 
-## Introduction
+## 简介
 
-To create a TPBot smart car that alarms if we take it up.
+制作一辆沿着黑线行驶，当遇到障碍物时会自动停下的天蓬车。
 
-## Purchase link
+## 购买链接
 
 [TPBot](https://www.elecfreaks.com/tpbot.html)
 micro:bit v2
 
-## Software
+## 软件
 
 [MicroSoft makecode](https://makecode.microbit.org/#)
 
@@ -40,7 +40,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 
 ### Link
-Link: [https://makecode.microbit.org/_VcfdkRUW6TUs](https://makecode.microbit.org/_VcfdkRUW6TUs)
+Link：[https://makecode.microbit.org/_8RYMihU6wJo3](https://makecode.microbit.org/_8RYMihU6wJo3)
 
 You may also download it directly below:
 
@@ -52,7 +52,7 @@ You may also download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_VcfdkRUW6TUs"
+        src="https://makecode.microbit.org/_8RYMihU6wJo3"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -65,4 +65,4 @@ You may also download it directly below:
 
 ### Conclusion
 
-Detect the status of the TPBot via the accelerometer sensor, the light flashes and the buzzer makes a sound when the car is picked up; and it stops flashing and shows an icon when it is put down.
+天蓬车沿着黑线行驶，当遇到障碍物时会自动停下。

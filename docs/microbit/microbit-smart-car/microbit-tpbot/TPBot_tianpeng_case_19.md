@@ -1,61 +1,48 @@
 ---
+
 sidebar_position: 21
-sidebar_label: 清障小车
+sidebar_label: 害羞的天蓬
+
 ---
 
-# 案例19：清障小车
+# Case 19: 害羞的天蓬
 
-## 目的
----
-- 搭建一辆拥有清除障碍功能的天蓬智能车。
+## 简介
 
-## 使用材料
----
+制作一辆根据周围环境声音响度自动调节行驶速度的天蓬车。
 
-- [天蓬智能车（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=627045784239)
-- [360度舵机（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=628853715235)
+## 购买链接
 
-
-
-![](./images/TPBot_tianpeng_case_01_01.png)
-
-
-
-## 硬件连接
-
-将360°舵机连接到天蓬智能车的SERVO1端口。（舵机需要额外购买）
-
-![](./images/TPBot_tianpeng_case_19_03.png)
+[TPBot](https://www.elecfreaks.com/tpbot.html)
+micro:bit v2
 
 ## 软件
----
-[微软makecode](https://makecode.microbit.org/#)
+
+[MicroSoft makecode](https://makecode.microbit.org/#)
 
 
-## 编程
----
+## Programming
 
 
-- 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
+ Click "Advanced" in the MakeCode drawer to see more choices.
 
 ![](./images/TPBot_tianpeng_case_01_02.png)
 
-- 为了给天蓬智能车编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`tpbot`，然后点击下载这个代码库。
+We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "tpbot" to download it.
 
 ![](./images/TPBot_tianpeng_case_01_03.png)
 
+### Sample
 
-## 示例程序
 
-- `当开机时`设置显示图标，设置小车以30%的速度向前行驶；在`无限循环`中，设置连接S1的舵机转动至180°，然后延时1000ms，设置连接S1的舵机转动至0°，然后延时1000ms。
 
 ![](./images/TPBot_tianpeng_case_19_04.png)
 
 
-### 程序
-- 请参考程序连接：[https://makecode.microbit.org/_664VpuAVMcCa](https://makecode.microbit.org/_664VpuAVMcCa)
+### Link
+Link：[https://makecode.microbit.org/_FxjaAwJcb15K](https://makecode.microbit.org/_FxjaAwJcb15K)
 
-- 你也可以通过以下网页直接下载程序。
+You may also download it directly below:
 
 <div
     style={{
@@ -65,7 +52,7 @@ sidebar_label: 清障小车
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_664VpuAVMcCa"
+        src="https://makecode.microbit.org/_FxjaAwJcb15K"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -75,22 +62,7 @@ sidebar_label: 清障小车
         }}
     />
 </div>
---
----
-## 结论
----
 
-小车向前行驶，舵机循环正转、反转。
+### Conclusion
 
-
-## 思考
----
-
-
-## 常见问题
----
-Q:使用案例中的代码发现小车不能正常运行？
-A:电池电量不足，增大程序中的小车速度参数的数值，并测试。
-
-## 相关阅读
----
+根据周围环境声音响度自动调节行驶速度的天蓬车。

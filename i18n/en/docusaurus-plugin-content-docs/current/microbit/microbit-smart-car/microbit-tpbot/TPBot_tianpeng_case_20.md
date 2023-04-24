@@ -1,22 +1,21 @@
 ---
 
 sidebar_position: 22
-sidebar_label: 害羞的天蓬
-
+sidebar_label: The Line-following and Obstacle-avoidance TPBot
 ---
 
-# Case 20: 害羞的天蓬
+# Case 20: The Line-following and Obstacle-avoidance TPBot
 
-## 简介
+## Introduction
 
-制作一辆沿着黑线行驶，当遇到障碍物时会自动停下的天蓬车。
+To create a TPBot smart car that drives along with the black line and stops while it detects obstacles. 
 
-## 购买链接
+## Purchase link
 
 [TPBot](https://www.elecfreaks.com/tpbot.html)
 micro:bit v2
 
-## 软件
+## Software 
 
 [MicroSoft makecode](https://makecode.microbit.org/#)
 
@@ -40,7 +39,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 
 ### Link
-Link：[https://makecode.microbit.org/_8RYMihU6wJo3](https://makecode.microbit.org/_8RYMihU6wJo3)
+Link: [https://makecode.microbit.org/_8RYMihU6wJo3](https://makecode.microbit.org/_8RYMihU6wJo3)
 
 You may also download it directly below:
 
@@ -65,4 +64,4 @@ You may also download it directly below:
 
 ### Conclusion
 
-天蓬车沿着黑线行驶，当遇到障碍物时会自动停下。
+TPBot drives along with the black line and stops while it detects obstacles. 

@@ -49,7 +49,7 @@ sidebar_label: Line Tracking
 
 ### Link
 
-- Link: [​https://makecode.microbit.org/_Tc45z4cwMaLE](​https://makecode.microbit.org/_Tc45z4cwMaLE)
+- Link:[​https://makecode.microbit.org/_Tc45z4cwMaLE](​https://makecode.microbit.org/_Tc45z4cwMaLE)
 
 - You may also download it directly below:
 

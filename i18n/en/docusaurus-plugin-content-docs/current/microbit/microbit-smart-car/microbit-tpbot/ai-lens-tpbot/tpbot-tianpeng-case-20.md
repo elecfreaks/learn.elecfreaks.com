@@ -1,4 +1,4 @@
-# Case 20: Road Indicator for TPBot with AI Lens
+# Road Indicator for TPBot with AI Lens
 
 ## Purpose
 ---

@@ -1,53 +1,47 @@
 ---
 
-sidebar_position: 15
-sidebar_label: Remote Control with micro:bit Accelerometer
-
+sidebar_position: 20
+sidebar_label: The Line-following and Obstacle-avoidance TPBot
 ---
 
-# Case 13: Remote Control with micro:bit Accelerometer
+# Case 13: The Line-following and Obstacle-avoidance TPBot
 
-## Purpose
----
-- Programme to control the TPBot with the accelerometer.
+## Introduction
 
-## Material
----
+To create a TPBot smart car that drives along with the black line and stops while it detects obstacles.
 
-- 1 x [TPBot](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.41.68d15ccfBFHNPy&id=618758535761)
+## Purchase link
 
-![](./images/TPBot_tianpeng_case_01_01.png)
+[TPBot](https://www.elecfreaks.com/tpbot.html)
+micro:bit v2
 
 ## Software
----
-[MicroSoftmakecode](https://makecode.microbit.org/#)
+
+[MicroSoft makecode](https://makecode.microbit.org/#)
 
 
 ## Programming
----
 
-- Click "Advanced" to see more choices in the MakeCode drawer.
+
+ Click "Advanced" in the MakeCode drawer to see more choices.
 
 ![](./images/TPBot_tianpeng_case_01_02.png)
 
-- We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "tpbot" in the dialogue box to download it.
+We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "tpbot" to download it.
 
 ![](./images/TPBot_tianpeng_case_01_03.png)
 
 ### Sample
 
-### Remote Control Part
 
-- Set the micro:bit showing a set icon and the radio group as 1.
-- Radio send x which is given by its acceleration dividing 10 in the forever brick.
-- Radio send y which is given by its acceleration dividing 10  in the forever brick.
--
-![](./images/TPBot_tianpeng_case_13_04.png)
+
+![](./images/tpbot-case-20-04.png)
+
 
 ### Link
-- Link: [https://makecode.microbit.org/_11kPTbbxM9Mf](https://makecode.microbit.org/_11kPTbbxM9Mf)
+Link: [https://makecode.microbit.org/_8RYMihU6wJo3](https://makecode.microbit.org/_8RYMihU6wJo3)
 
-- You may also download it directly below:
+You may also download it directly below:
 
 <div
     style={{
@@ -57,41 +51,7 @@ sidebar_label: Remote Control with micro:bit Accelerometer
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_11kPTbbxM9Mf"
-        frameborder="0"
-        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
-        style={{
-            position: 'absolute',
-            width: '100%',
-            height: '100%',
-        }}
-    />
-</div>
-
-### Receiving Part
-
-- Set the micro:bit showing a set icon and the radio group as 1.
-- Drag two" if...else..." sentences to the "on radio received..." block, judge if the received name is x or y.
-- If it's x, save it as the variable as the accelaration from the x.
-- If it's y, save it as the variable as the accelaration from the y.
-- Set the speed of the left wheel being y+x and the right wheel being y-x.
-
-![](./images/TPBot_tianpeng_case_13_05.png)
-
-### Link
-- Link: [https://makecode.microbit.org/_a6LLFsMfDT7K](https://makecode.microbit.org/_a6LLFsMfDT7K)
-
-- You may also download it directly below:
-
-<div
-    style={{
-        position: 'relative',
-        paddingBottom: '60%',
-        overflow: 'hidden',
-    }}
->
-    <iframe
-        src="https://makecode.microbit.org/_a6LLFsMfDT7K"
+        src="https://makecode.microbit.org/_8RYMihU6wJo3"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -104,15 +64,4 @@ sidebar_label: Remote Control with micro:bit Accelerometer
 
 ### Conclusion
 
-- Power up to show the set icon on the micro:bit display, and the movement of TPBot is controlled by the changing angel from the micro:bit.
-
-## Exploration
----
-
-
-## FAQ
----
-
-
-## Relevant File
----
+TPBot drives along with the black line and stops while it detects obstacles.

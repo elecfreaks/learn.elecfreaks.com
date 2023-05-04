@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 6
 sidebar_label: 天蓬智能车python使用示例
 ---
 

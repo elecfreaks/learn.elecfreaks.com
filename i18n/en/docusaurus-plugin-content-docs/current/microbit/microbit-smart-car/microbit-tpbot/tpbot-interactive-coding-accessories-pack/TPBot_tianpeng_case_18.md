@@ -4,7 +4,7 @@ sidebar_position: 20
 sidebar_label: Color-controlled TPBot
 ---
 
-# Case18：Color-controlled TPBot
+# Color-controlled TPBot
 
 ## Purpose
 ---

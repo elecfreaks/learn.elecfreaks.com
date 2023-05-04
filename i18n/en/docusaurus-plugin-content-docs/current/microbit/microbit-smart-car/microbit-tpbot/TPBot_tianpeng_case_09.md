@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 11
+sidebar_position: 16
 sidebar_label: Seeking light
 
 ---

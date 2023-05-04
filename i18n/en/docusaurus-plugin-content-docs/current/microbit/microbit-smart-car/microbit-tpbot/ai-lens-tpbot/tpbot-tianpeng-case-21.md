@@ -1,4 +1,4 @@
-# Case 21: Color Recognition with TPBot
+# Color Recognition with TPBot
 
 ## Purpose
 ---

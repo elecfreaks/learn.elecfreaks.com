@@ -3,7 +3,7 @@ sidebar_position: 17
 sidebar_label: 可调速天蓬智能车
 ---
 
-# 案例15：可调速天蓬智能车
+# 可调速天蓬智能车
 
 ## 目的
 ---

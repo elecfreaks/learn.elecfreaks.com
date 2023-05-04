@@ -1,4 +1,4 @@
-# Case 23: Face-tracking with TPBot
+# Face-tracking with TPBot
 
 ## Purpose
 ---

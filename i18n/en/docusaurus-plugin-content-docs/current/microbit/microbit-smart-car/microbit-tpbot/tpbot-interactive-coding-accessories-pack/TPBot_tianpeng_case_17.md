@@ -1,14 +1,14 @@
 ---
 
-sidebar_position: 17
-sidebar_label: Speed Adjustable TPBot
+sidebar_position: 19
+sidebar_label: Gesture-controlled TPBot
 ---
 
-# Case15: Speed Adjustable TPBot
+# Gesture-controlled TPBot
 
 ## Purpose
 ---
-- Adjust the speed of the TPBot with the potentiometer.
+- Control the movement(forward, back, turn left/right) by your hands gesture.
 
 ## Material
 ---
@@ -16,22 +16,21 @@ sidebar_label: Speed Adjustable TPBot
 - 1 x [TPBot](https://www.elecfreaks.com/tpbot.html)
 
 
+
 ![](./images/TPBot_tianpeng_case_01_01.png)
 
 
 ## Hardware connection
 ---
-Connect potentiometer to port 1 on TPBot.
+Connect gesture sensor to IIC port on TPBot.
 
-
-![](./images/TPBot_tianpeng_case_15_02.png)
-
+![](./images/TPBot_tianpeng_case_17_03.png)
 
 
 ## Software
 ---
 
-[MicroSoftmakecode](https://makecode.microbit.org/#)
+ [MicroSoftmakecode](https://makecode.microbit.org/#)
 
 
 ## Programming
@@ -45,20 +44,22 @@ Click "Advanced" to see more choices in the MakeCode drawer.
 
 ![](./images/TPBot_tianpeng_case_01_03.png)
 
-- We need to add a package for programming. Click "Extensions" in the bottom of the drawer and seach with "PlanetX" in the dialogue box to download it.
+- We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "PlanetX" in the dialogue box to download it.
 
 ![](./images/TPBot_tianpeng_case_15_03.png)
 
+
 ### Sample
 
-- Drag the show icon brick into on start.
-- In forever brick, map the returned value of the potentiometer from 0~1023 to 0~100, and set the mapping value as the speed for the car to move forward.
+-  Drag the show icon brick into on start.
+- Detect the hands gesture through the gesture sensor, set the car to move forward at the speed of 40% for 1s while detecting your hand waving upward.
+- Code with a similar way for the gesture of waving downward, left and right.
 
-![](./images/TPBot_tianpeng_case_15_04.png)
+![](./images/TPBot_tianpeng_case_17_04.png)
 
 
 ### Link
-- Link：[https://makecode.microbit.org/_ArRM71PD6de0](https://makecode.microbit.org/_ArRM71PD6de0)
+- Link：[https://makecode.microbit.org/_PqAPVDY7hDRR](https://makecode.microbit.org/_PqAPVDY7hDRR)
 
 - You may also download it directly below:
 
@@ -70,7 +71,7 @@ Click "Advanced" to see more choices in the MakeCode drawer.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_ArRM71PD6de0"
+        src="https://makecode.microbit.org/_PqAPVDY7hDRR"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -81,10 +82,10 @@ Click "Advanced" to see more choices in the MakeCode drawer.
     />
 </div>
 
+
 ### Conclusion
 
-- After powering on, the speed of the TPBot could be adjusted by the potentioneter.
-
+- Face your hands onto the gesture sensor, control TPBot's movement with your hands gesture.
 
 ## Exploration
 ---
@@ -92,6 +93,8 @@ Click "Advanced" to see more choices in the MakeCode drawer.
 
 ## FAQ
 ---
+
+
 Q: While operating this case, why the car might not work properly?
 A: It might be the low power of the batteries, please try adding the value of TPBot's speed and test again.
 

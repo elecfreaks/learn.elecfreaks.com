@@ -1,51 +1,48 @@
 ---
 
-sidebar_position: 14
-sidebar_label: micro:bit Remote Control
+sidebar_position: 19
+sidebar_label: The Shy TPBot
+
 ---
 
-# Case 12: micro:bit Remote Control
+# Case 12: The Shy TPBot
 
-## Purpose
----
-- Programme to use the mciro:bit to control the TPBot.
+## Introduction
 
-## Material
----
+To create a TPBot car that automatically adjusts its driving speed according to the sound level of the surrounding environment.
 
-- 1 x [TPBot](https://www.elecfreaks.com/tpbot.html)
+## Purchase link:
 
-![](./images/TPBot_tianpeng_case_01_01.png)
+[TPBot](https://www.elecfreaks.com/tpbot.html)
+micro:bit v2
 
-## Software
----
-[MicroSoftmakecode](https://makecode.microbit.org/#)
+## SoftWare
+
+[MicroSoft makecode](https://makecode.microbit.org/#)
 
 
 ## Programming
----
 
 
-- Click "Advanced" to see more choices in the MakeCode drawer.
+ Click "Advanced" in the MakeCode drawer to see more choices.
 
 ![](./images/TPBot_tianpeng_case_01_02.png)
 
-- We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "tpbot" in the dialogue box to download it.
+We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "tpbot" to download it.
 
 ![](./images/TPBot_tianpeng_case_01_03.png)
 
 ### Sample
 
-### Remote Control Part
-- Set the micro:bit showing a set icon and the radio group as 1.
-- After pressing button A, radio send number 1; after pressing button B, radio send number 2; after pressing button A+B, radio send number 3.
 
-![](./images/TPBot_tianpeng_case_12_04.png)
+
+![](./images/TPBot_tianpeng_case_19_04.png)
+
 
 ### Link
-- Link: [https://makecode.microbit.org/_DYDT9ibh9V1E](https://makecode.microbit.org/_DYDT9ibh9V1E)
+Link: [https://makecode.microbit.org/_FxjaAwJcb15K](https://makecode.microbit.org/_FxjaAwJcb15K)
 
-- You may also download it directly below:
+You may also download it directly below:
 
 <div
     style={{
@@ -55,39 +52,7 @@ sidebar_label: micro:bit Remote Control
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_DYDT9ibh9V1E"
-        frameborder="0"
-        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
-        style={{
-            position: 'absolute',
-            width: '100%',
-            height: '100%',
-        }}
-    />
-</div>
-
-### Receiving Part
-
-- Set the micro:bit showing a set icon and the radio group as 1.
-- Save the received number as the variable.
-- Judge if the variable is 1, if yes, set the TPBot turning left at the speed of 30%; if the variable is 2, set the TPBot turning right at the speed of 30%; if the variable is 3, set the TPBot moving forward at the speed of 30%.
-
-![](./images/TPBot_tianpeng_case_12_05.png)
-
-### Link
-- Link: [https://makecode.microbit.org/_CAMF0t8rYT0j](https://makecode.microbit.org/_CAMF0t8rYT0j)
-
-- You may also download it directly below:
-
-<div
-    style={{
-        position: 'relative',
-        paddingBottom: '60%',
-        overflow: 'hidden',
-    }}
->
-    <iframe
-        src="https://makecode.microbit.org/_CAMF0t8rYT0j"
+        src="https://makecode.microbit.org/_FxjaAwJcb15K"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -100,17 +65,4 @@ sidebar_label: micro:bit Remote Control
 
 ### Conclusion
 
-- Power up to show a set icon on the micro:bit, after pressing button A, it turns left; after pressing button B, it turns right; after pressing button A+B, it moves forward.
-
-## Exploration
----
-
-
-## FAQ
----
-Q: The car does not work with the code in the wiki.
-A: It should be the batteries that are lack of power, please try to fix it by adding the value of the speed in the code.
-
-
-## Relevant File
----
+The TPBot smart car automatically adjusts the driving speed according to the sound level of the surrounding environment.

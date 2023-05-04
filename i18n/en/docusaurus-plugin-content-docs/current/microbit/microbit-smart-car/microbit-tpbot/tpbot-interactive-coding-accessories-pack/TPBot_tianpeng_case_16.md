@@ -5,7 +5,7 @@ sidebar_label: The Dazzling Lights
 
 ---
 
-# Case16: The Dazzling Lights
+# The Dazzling Lights
 
 ## Purpose
 ---

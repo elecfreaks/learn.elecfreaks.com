@@ -1,4 +1,4 @@
-# Case 22: Balls Tracking with TPBot
+# Balls Tracking with TPBot
 
 ## Purpose
 ---

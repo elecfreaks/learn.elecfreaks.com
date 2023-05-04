@@ -3,7 +3,7 @@ sidebar_position: 11
 sidebar_label: Case-library
 ---
 
-# TOOCA L1 案例库
+# TOOCA L1 Cases Library
 
 ![](./images/tooca-laser-1-icon.png)
 
@@ -59,10 +59,10 @@ import ruler_Icon from './images/ruler-icon.png';
 
 
 
-## 案例库
+## Cases Library
 
 
-### 动物世界
+### Animals World
 
 <cardbox>
     <card
@@ -86,7 +86,7 @@ The reason why the bird canl balance is that the actual center of gravity of the
   />
 </cardbox>
 
-### 植物世界
+### Plants World
 
 <cardbox>
   <card
@@ -121,7 +121,7 @@ The reason why the bird canl balance is that the actual center of gravity of the
   />
 </cardbox>
 
-### 趣味拼图
+### Fun Puzzles
 
 <cardbox>
     <card
@@ -139,7 +139,7 @@ The reason why the bird canl balance is that the actual center of gravity of the
 
 </cardbox>
 
-### 节日装饰
+### Holiday Decorations
 
 
 <cardbox>
@@ -181,7 +181,7 @@ It is said that the Christmas tree first appeared in ancient Rome in mid-Decembe
 
 </cardbox>
 
-### 恐龙乐园
+### Dinosaurs Park
 
 <cardbox>
     <card
@@ -212,7 +212,7 @@ It is said that the Christmas tree first appeared in ancient Rome in mid-Decembe
 
 
 
-### 装饰物品
+### Decoration Gifts
 
 <cardbox>
   <card
@@ -241,7 +241,7 @@ It is said that the Christmas tree first appeared in ancient Rome in mid-Decembe
   />
 </cardbox>
 
-### 机械结构
+### Mechanical Structures
 
 <cardbox>
   <card
@@ -277,7 +277,7 @@ It is said that the Christmas tree first appeared in ancient Rome in mid-Decembe
 </cardbox>
 
 
-### 交通运输
+### Transportation
 
 
 <cardbox>
@@ -302,7 +302,7 @@ It is said that the Christmas tree first appeared in ancient Rome in mid-Decembe
 
 </cardbox>
 
-### 趣味玩具
+### Fun Toys
 
 
 <cardbox>
@@ -323,7 +323,7 @@ It is said that the Christmas tree first appeared in ancient Rome in mid-Decembe
 
 </cardbox>
 
-### 文具用品
+### Stationery
 
 
 <cardbox>
@@ -361,7 +361,7 @@ The creative combination of calendar and pen holder is not only practical but al
 </cardbox>
 
 
-### 智能设备
+### Intelligent Devices
 
 
 <cardbox>

@@ -18,6 +18,10 @@ For Android users, search with "XGO" in Google Play; for IOS users, search with 
 
 ![xgo app打开界面](./images/case07-01.png)
 
+
+Note: The compatible App version for XGO Robot is 2.3.3, Android version download link: https://elecfreaks.com/download/xgo/xgo_v2.3.3.apk
+
+
 ### Connect XGO
 
 Click the bluetooth icon on the left up side on the app interface(see picture 1), then you will see the interface as picture 2.

@@ -18,6 +18,11 @@
 
 ![xgo app打开界面](./images/microbit-xgo-robot-kit-08-1.png)
 
+
+注意：XGO Robot 适配的XGO App版本为：2.3.3,安卓版下载链接：https://elecfreaks.com/download/xgo/xgo_v2.3.3.apk
+
+
+
 ### 连接XGO
 
 点击app界面左上角的蓝牙图标如图所示，会出现如图界面。

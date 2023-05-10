@@ -68,6 +68,10 @@ Make a basketball frame that counts automatically.
 
 ![](./images/nezha-inventors-kit-v2-step-19-25.png)
 
+![](./images/nezha-inventors-kit-v2-step-19-26.png)
+
+![](./images/nezha-inventors-kit-v2-step-19-27.png)
+
 ### Hardware Connection
 
 Connect the ultrasonic sound sensor to the J1 interface of the Nezha breakout board.

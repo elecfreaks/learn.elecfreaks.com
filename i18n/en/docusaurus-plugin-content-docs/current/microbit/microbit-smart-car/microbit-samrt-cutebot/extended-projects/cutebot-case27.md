@@ -27,6 +27,7 @@ Parts List:
 Build steps：
 
 ![](./images/cutebot-case-27-step-02.png)
+
 ![](./images/cutebot-case-27-step-03.png)
 
 ![](./images/cutebot-case-27-step-04.png)
@@ -74,6 +75,9 @@ Build steps：
 ![](./images/cutebot-case-27-step-25.png)
 
 ![](./images/cutebot-case-27-step-26.png)
+
+![](./images/cutebot-case-27-01.png)
+
 
 ## Connection method
 

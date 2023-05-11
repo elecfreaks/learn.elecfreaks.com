@@ -48,6 +48,8 @@ Build steps：
 
 ![](./images/cutebot-case-29-step-11.png)
 
+![](./images/cutebot-case-29-01.png)
+
 
 
 ## Connection method

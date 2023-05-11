@@ -57,6 +57,9 @@ Build steps：
 
 ![](./images/cutebot-case-28-step-16.png)
 
+![](./images/cutebot-case-28-01.png)
+
+
 ## Connection method
 
 Connect the servo to the S1 of the cutebot smart car.

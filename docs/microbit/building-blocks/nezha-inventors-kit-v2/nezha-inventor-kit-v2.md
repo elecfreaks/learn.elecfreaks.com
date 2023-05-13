@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 哪吒发明家套装V2
+# 产品介绍
 
 ## 简介
 
@@ -20,7 +20,7 @@ ELECFREAKS micro:bit Nezha Inventor’s Kit V2 是一款基于 Planet X 传感�
 |充电时间|120min|
 |最大工作电压|4.2V|
 |额定工作电压|3.7V
-|最小工作电压3.2V|
+|最小工作电压|3.2V|
 |TT马达接口输出电压\电流|5.6V\2.8A|
 |舵机接口输出电压\电流|5.6V\3.0A|
 |慧鱼电机接口输出电压\电流|5.6V\2.8A|
@@ -35,21 +35,23 @@ ELECFREAKS micro:bit Nezha Inventor’s Kit V2 是一款基于 Planet X 传感�
 
 ![](./images/nezha-inventors-kit-v2-02.png)
 
-micro:bit 多功能扩展盒（哪吒）（自研）	1
-PLANETX_Soil_Moisture	1
-PLANETX_Ultrasonic	1
-PLANETX_Crash	1
-PLANETX_RED_LED	1
-PLANETX_GREEN_LED	1
-PLANETX_YELLOW_LED	1
-PLANETX_Trimpot	1
-PLANETX_Tracking	1
-哪吒积木包 V2	1
-双鹰拔销器（蓝色）	1
-USB MIRCO 线 1米 1A 白色	1
-Geekservo灰色360度舵机	1
-Geekservo红色快速电机	2
-RJ11端子线 200mm	3
-RJ11端子线 400mm	3
-橡皮筋包	1
-TPBot 巡线图V1.3	1
+| 产品名称 | 数量 |
+|---|---|
+| micro:bit 多功能扩展盒（哪吒）（自研） | 1 |
+| PLANETX_Soil_Moisture | 1 |
+| PLANETX_Ultrasonic | 1 |
+| PLANETX_Crash | 1 |
+| PLANETX_RED_LED | 1 |
+| PLANETX_GREEN_LED | 1 |
+| PLANETX_YELLOW_LED | 1 |
+| PLANETX_Trimpot | 1 |
+| PLANETX_Tracking | 1 |
+| 哪吒积木包 V2 | 1 |
+| 双鹰拔销器（蓝色） | 1 |
+| USB MIRCO 线 1米 1A 白色 | 1 |
+| Geekservo灰色360度舵机 | 1 |
+| Geekservo红色快速电机 | 2 |
+| RJ11端子线 200mm | 3 |
+| RJ11端子线 400mm | 3 |
+| 橡皮筋包 | 1 |
+| TPBot 巡线图V1.3 | 1 |

@@ -47,7 +47,7 @@ ELECFREAKS micro:bit Nezha Inventor’s Kit V2 是一款基于 Planet X 传感�
 | PLANETX_Trimpot | 1 |
 | PLANETX_Tracking | 1 |
 | 哪吒积木包 V2 | 1 |
-| 双鹰拔销器（蓝色） | 1 |
+| 拔销器（蓝色） | 1 |
 | USB MIRCO 线 1米 1A 白色 | 1 |
 | Geekservo灰色360度舵机 | 1 |
 | Geekservo红色快速电机 | 2 |

@@ -108,17 +108,21 @@ Arcade游戏编程平台地址：[https://arcade.makecode.com](https://arcade.ma
 
 ![](./images/microbit-retro-arcade-16.png)
 
-确保Expermental Hardware是已启用状态（只需要设定一次即可）
-
 ![](./images/microbit-retro-arcade-17.png)
 
-接着返回到编程主页，点击左下角的下载按钮，在弹出的选择硬件窗口拉到最底部选择N3
+确保Expermental Hardware是已启用状态（只需要设定一次即可）
+
+
 
 ![](./images/microbit-retro-arcade-18.png)
 
-会得到一个.hex格式的文件，将他拖入到MICROBIT盘符下即可在micro:bit V2 + Microbit Retro Arcade上运行。
+接着返回到编程主页，点击左下角的下载按钮，在弹出的选择硬件窗口拉到最底部选择N3
 
 ![](./images/microbit-retro-arcade-19.png)
+
+会得到一个.hex格式的文件，将他拖入到MICROBIT盘符下即可在micro:bit V2 + Microbit Retro Arcade上运行。
+
+
 
 ## 遥控手柄指南
 
@@ -187,14 +191,18 @@ Arcade游戏编程平台地址：[https://arcade.makecode.com](https://arcade.ma
 
 ![](./images/microbit-retro-arcade-16.png)
 
-确保Expermental Hardware是已启用状态（只需要设定一次即可）
 
 ![](./images/microbit-retro-arcade-17.png)
 
-接着返回到编程主页，点击左下角的下载按钮，在弹出的选择硬件窗口拉到最底部选择N3
+
+确保Expermental Hardware是已启用状态（只需要设定一次即可）
 
 ![](./images/microbit-retro-arcade-18.png)
 
-会得到一个.hex格式的文件，将他拖入到MICROBIT盘符下即可在micro:bit V2 + Microbit Retro Arcade上运行。
+接着返回到编程主页，点击左下角的下载按钮，在弹出的选择硬件窗口拉到最底部选择N3
+
 
 ![](./images/microbit-retro-arcade-19.png)
+
+
+会得到一个.hex格式的文件，将他拖入到MICROBIT盘符下即可在micro:bit V2 + Microbit Retro Arcade上运行。

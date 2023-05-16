@@ -108,17 +108,21 @@ Since the micro:bit V2 (nRF52833) is still in beta for the Arcade platform offic
 
 ![](./images/microbit-retro-arcade-16.png)
 
-Make sure Expermental Hardware is enabled (you only need to set it once)
 
 ![](./images/microbit-retro-arcade-17.png)
 
-Then go back to the programming home page, click on the download button in the bottom left corner, and in the pop-up select hardware window pull down to the bottom and select N3
+Make sure Expermental Hardware is enabled (you only need to set it once)
+
 
 ![](./images/microbit-retro-arcade-18.png)
 
-You will get a file in .hex format, drag it into the MICROBIT drive to run it on micro:bit V2 + Microbit Retro Arcade.
+Then go back to the programming home page, click on the download button in the bottom left corner, and in the pop-up select hardware window pull down to the bottom and select N3
+
 
 ![](./images/microbit-retro-arcade-19.png)
+
+You will get a file in .hex format, drag it into the MICROBIT drive to run it on micro:bit V2 + Microbit Retro Arcade.
+
 
 ## Remote Control Handle Guide
 
@@ -187,12 +191,15 @@ Since the micro:bit V2 (nRF52833) is still in beta for the Arcade platform offic
 
 ![](./images/microbit-retro-arcade-16.png)
 
-Make sure Expermental Hardware is enabled (you only need to set it once)
-
 ![](./images/microbit-retro-arcade-17.png)
 
-Then go back to the programming home page, click on the download button in the bottom left corner, and in the pop-up select hardware window pull down to the bottom and select N3![](./images/microbit-retro-arcade-18.png)
 
-You will get a file in .hex format, drag it into the MICROBIT drive to run it on micro:bit V2 + Microbit Retro Arcade.
+Make sure Expermental Hardware is enabled (you only need to set it once)
+
+![](./images/microbit-retro-arcade-18.png)
+
+Then go back to the programming home page, click on the download button in the bottom left corner, and in the pop-up select hardware window pull down to the bottom and select N3
 
 ![](./images/microbit-retro-arcade-19.png)
+
+You will get a file in .hex format, drag it into the MICROBIT drive to run it on micro:bit V2 + Microbit Retro Arcade.

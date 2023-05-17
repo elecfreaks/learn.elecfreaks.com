@@ -107,13 +107,13 @@ sidebar_position: 29
 
 ![](./images/nezha-inventors-kit-v2-case-28-01.png)
 
-### 硬件连接
+##### 硬件连接
 
 将巡线传感器连接到哪吒扩展板的J1接口，超声波传感器连接到哪吒扩展板的J2接口，电机连接到哪吒扩展板的M1、M2接口。
 
 ![](./images/nezha-inventors-kit-v2-case-28-02.png)
 
-### 软件编程
+##### 软件编程
 
 打开编程平台[makecode](https://makecode.microbit.org/#)
 
@@ -163,7 +163,7 @@ sidebar_position: 29
 
 ## 展示
 
->分组展示，尝试制作遥控遥控，比较各组的成果和效果。
+>分组展示，比较各组的成果和效果。
 
 #### 示例案例效果
 

@@ -128,13 +128,13 @@ sidebar_position: 23
 
 ![](./images/nezha-inventors-kit-v2-case-22-01.png)
 
-### 硬件连接
+##### 硬件连接
 
 将电机连接到哪吒扩展板的M1、M2接口，将舵机连接到哪吒扩展板的S1接口。
 
 ![](./images/nezha-inventors-kit-v2-case-24-02.png)
 
-### 软件编程
+##### 软件编程
 
 打开编程平台[makecode](https://makecode.microbit.org/#)
 
@@ -192,6 +192,6 @@ sidebar_position: 23
 
 ![](./images/nezha-inventors-kit-v2-case-22.gif)
 
-### 反思
+## 反思
 
 >分组分享，让每组的学生分享自己的制作过程和心得，总结自己遇到的问题和解决办法，评价自己的优点和不足。

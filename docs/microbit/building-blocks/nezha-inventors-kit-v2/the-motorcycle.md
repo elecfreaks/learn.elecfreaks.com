@@ -95,13 +95,13 @@ sidebar_position: 24
 
 ![](./images/nezha-inventors-kit-v2-case-23-01.png)
 
-### 硬件连接
+##### 硬件连接
 
 将舵机连接到哪吒扩展板的S1接口，电机连接到哪吒扩展板的M1接口。
 
 ![](./images/nezha-inventors-kit-v2-case-23-02.png)
 
-### 软件编程
+##### 软件编程
 
 打开编程平台[makecode](https://makecode.microbit.org/#)
 
@@ -148,9 +148,9 @@ sidebar_position: 24
 
 
 
-## 展示
+### 展示
 
->分组展示，尝试制作遥控遥控，比较各组的成果和效果。
+>分组展示，尝试制作遥控摩托车，比较各组的成果和效果。
 
 #### 示例案例效果
 

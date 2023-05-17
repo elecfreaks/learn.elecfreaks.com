@@ -103,13 +103,13 @@ sidebar_position: 11
 
 ![](./images/nezha-inventors-kit-v2-case-10-01.png)
 
-### 硬件连接
+##### 硬件连接
 
 将舵机连接到哪吒扩展板的S1接口。
 
 ![](./images/nezha-inventors-kit-v2-case-10-02.png)
 
-### 软件编程
+##### 软件编程
 
 打开编程平台[makecode](https://makecode.microbit.org/#)
 

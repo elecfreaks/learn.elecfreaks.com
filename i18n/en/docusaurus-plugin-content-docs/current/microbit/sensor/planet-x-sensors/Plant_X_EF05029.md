@@ -2,7 +2,7 @@
 
 ## Introduction
 
-8 x 16 Matrix module is a kind of 8 x 16 matrix screen that can display numbers, commonly used letters and symbols with scrolling-displaying function.
+The 8x16 dot matrix screen is a display screen that can show emoji expressions using an 8x16 dot matrix.
 
 ![](./images/05029_01.png)
 

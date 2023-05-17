@@ -107,13 +107,13 @@ sidebar_position: 28
 
 ![](./images/nezha-inventors-kit-v2-case-27-01.png)
 
-### 硬件连接
+##### 硬件连接
 
 将巡线传感器连接到哪吒扩展板的J1接口，电机连接到哪吒扩展板的M1、M4接口。
 
 ![](./images/nezha-inventors-kit-v2-case-27-02.png)
 
-### 软件编程
+##### 软件编程
 
 打开编程平台[makecode](https://makecode.microbit.org/#)
 

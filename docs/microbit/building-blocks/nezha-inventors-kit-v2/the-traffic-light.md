@@ -78,13 +78,13 @@ sidebar_position: 31
 
 ![](./images/nezha-inventors-kit-v2-case-30-01.png)
 
-### 硬件连接
+##### 硬件连接
 
 将绿色LED灯连接到哪吒扩展板的J1接口，黄色LED灯连接到哪吒扩展板的J2接口，红色LED灯连接到哪吒扩展板的J3接口。
 
 ![](./images/nezha-inventors-kit-v2-case-30-02.png)
 
-### 软件编程
+##### 软件编程
 
 打开编程平台[makecode](https://makecode.microbit.org/#)
 

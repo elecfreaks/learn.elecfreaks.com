@@ -103,13 +103,13 @@ sidebar_position: 18
 ![](./images/nezha-inventors-kit-v2-case-17-01.png)
 
 
-### 硬件连接
+##### 硬件连接
 
 将碰撞传感器连接到哪吒扩展板的J1接口，将电机连接到哪吒扩展板的M1接口。
 
 ![](./images/nezha-inventors-kit-v2-case-16-02.png)
 
-### 软件编程
+##### 软件编程
 
 打开编程平台[makecode](https://makecode.microbit.org/#)
 

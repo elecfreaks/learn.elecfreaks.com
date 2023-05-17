@@ -115,13 +115,13 @@ sidebar_position: 14
 
 ![](./images/nezha-inventors-kit-v2-case-13-01.png)
 
-### 硬件连接
+##### 硬件连接
 
 超声波传感器连接到哪吒扩展板的J1接口，电机连接到哪吒扩展板的M1接口。
 
 ![](./images/nezha-inventors-kit-v2-case-11-02.png)
 
-### 软件编程
+##### 软件编程
 
 打开编程平台[makecode](https://makecode.microbit.org/#)
 
@@ -171,7 +171,7 @@ sidebar_position: 14
 
 ### 展示
 
->分组展示，让每组的机器人一起开始跳舞，比较各组的成果和效果。
+>分组展示，比较各组的成果和效果。
 
 #### 示例案例效果
 

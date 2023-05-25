@@ -91,6 +91,26 @@ sidebar_position: 24
 
 ![](./images/nezha-inventors-kit-v2-step-23-18.png)
 
+![](./images/nezha-inventors-kit-v2-step-23-19.png)
+
+![](./images/nezha-inventors-kit-v2-step-23-20.png)
+
+![](./images/nezha-inventors-kit-v2-step-23-21.png)
+
+![](./images/nezha-inventors-kit-v2-step-23-22.png)
+
+![](./images/nezha-inventors-kit-v2-step-23-23.png)
+
+![](./images/nezha-inventors-kit-v2-step-23-24.png)
+
+![](./images/nezha-inventors-kit-v2-step-23-25.png)
+
+![](./images/nezha-inventors-kit-v2-step-23-26.png)
+
+![](./images/nezha-inventors-kit-v2-step-23-27.png)
+
+![](./images/nezha-inventors-kit-v2-step-23-28.png)
+
 **搭建完成**
 
 ![](./images/nezha-inventors-kit-v2-case-23-01.png)

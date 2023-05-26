@@ -4,3 +4,5 @@ sidebar_label: 机械臂与蜂鸣器编程
 ---
 
 # 机械臂与蜂鸣器编程
+
+XGO-lite V2

@@ -21,7 +21,7 @@ sidebar_label: XGO APP 操控 XGO-lite V2 体验
 
 ### 下载 XGO APP
 
-如果您的智能手机的操作系统是安卓系统，您可以通过**百度手机助手**搜索“XGO”并安装即可；如果是苹果智能手机，您可以在苹果应用商店搜索“XGO”并安装即可。安装完成后打开 XGO APP 启动界面如图所示：
+如果您的智能手机的操作系统是安卓系统，您可以通过**百度手机助手**搜索“XGO”并安装即可。安装完成后打开 XGO APP 启动界面如图所示：
 
 ![](.\..\images\microbit-xgo-lite-v2-app-1.png)
 
@@ -68,4 +68,3 @@ sidebar_label: XGO APP 操控 XGO-lite V2 体验
 
 ## 演示
 
-（从打开xgo，手机蓝牙打开，xgo app打开，再到操作动作等）动态图

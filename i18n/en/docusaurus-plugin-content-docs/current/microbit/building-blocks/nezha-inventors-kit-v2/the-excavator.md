@@ -6,18 +6,50 @@ sidebar_position: 25
 
 ## Introduction
 
-Make an excavator.
-
+An excavator is a powerful construction vehicle that enables a great deal of excavation and handling work. In this course, we will learn about worm gears and build a simple model of an excavation vehicle by using the Nezha Inventor's Kit V2. We will explore the principles and applications of the worm gear drive and learn how it works in an excavation vehicle.
 
 ![](./images/nezha-inventors-kit-v2-case-24-01.png)
 
-## Purchase Link
+
+##  Teaching Objectives
+
+- Learn about the basic principles and applications of worm gear drives.
+- Learn how to build a simple model of an excavator using the Nezha Inventor's Kit V2.
+- Design and build a suitable worm gear transmission to implement the mechanical jaws of the excavator for gripping function.
+- Develop teamwork, problem solving and creative thinking skills.
+
+## Teaching Preparation
+
+[Nezha Inventor's Kit V2](https://www.elecfreaks.com/nezha-inventor-s-kit-v2-for-micro-bit.html)
 
 
+## Teaching Process
 
-## Quick Start
+### Introduce
 
-### Build Steps
+>Introduce students to the background and objectives of the excavation vehicle production to stimulate their interest and curiosity.
+
+Is everyone interested in excavation vehicles? An excavator is a powerful and versatile construction vehicle. In this lesson, we will learn together how to make a fun excavation vehicle using the Nezha Inventor's Kit V2 and we will cover an important point - the worm gear drive.
+
+A worm gear drive is a very common form of mechanical transmission that converts rotary motion into linear motion. Would you like to know how it works?
+
+### Exploration
+
+> Discuss in groups and ask students to think about how to build a digging truck using building block materials.
+
+- How can the mechanical jaws of an excavator be made to grip using a worm gear drive?
+- Why would you use a worm gear drive to make the mechanical jaws and what are the benefits of doing so?
+
+### Practices
+
+> Work in groups to create a digging truck from building blocks according to your own design.
+
+Build a digging truck from building blocks according to your own design.
+
+#### Examples
+
+##### Assembly Steps
+
 
 ![](./images/nezha-inventors-kit-v2-step-24-01.png)
 
@@ -77,37 +109,42 @@ Make an excavator.
 
 ![](./images/nezha-inventors-kit-v2-step-24-29.png)
 
-### Hardware Connection
 
-Connect the motors to the M1 and M2 interfaces, and connect the servo to the S1 interface of the Nezha expansion board.
+**Completed**
+
+![](./images/nezha-inventors-kit-v2-case-24-01.png)
+
+##### Hardware Connections
+
+Connect the motors to M1, M2 and the servo to S1 on Nezha expansion board. 
 
 ![](./images/nezha-inventors-kit-v2-case-24-02.png)
 
-### Software Platform
+##### Programming
 
-Open the programming platform: [makecode](https://makecode.microbit.org/#)
+Go to [makecode](https://makecode.microbit.org/#)
 
-New Project
+Create new projects
 
 ![](./images/nezha-inventors-kit-v2-case-19-03.png)
 
-Click Extension
+Click extensions
 
 ![](./images/nezha-inventors-kit-v2-case-19-04.png)
 
 
-Search `nezha` in the search bar to add the extension library of the Nezha expansion board
+Search with `nezha` to download the package. 
 
 ![](./images/nezha-inventors-kit-v2-case-19-06.png)
 
-Program
+Code
 
 ![](./images/nezha-inventors-kit-v2-case-24-07.png)
 
 
-Link:[https://makecode.microbit.org/_K3bixaLt5fWw](https://makecode.microbit.org/_K3bixaLt5fWw)
+Link: [https://makecode.microbit.org/_K3bixaLt5fWw](https://makecode.microbit.org/_K3bixaLt5fWw)
 
-You can download it directly from the page below.
+You may download it directly below:
 
 <div
     style={{
@@ -128,8 +165,17 @@ You can download it directly from the page below.
     />
 </div>
 
-### Result
 
-Press the A button on the micro:bit, the excavator moves forward and grabs the object.
+### Demonstration
+
+>Present in groups and compare the results and effectiveness of each group.
+
+#### Result
+
+Press the A button on the micro:bit to move the excavator forward and grab the object.
 
 ![](./images/nezha-inventors-kit-v2-case-24.gif)
+
+### Reflection
+
+>Share in groups so that students in each group can share their production process and insights, summarise the problems and solutions they encountered, and evaluate their strengths and weaknesses.

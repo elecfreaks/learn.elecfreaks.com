@@ -2,21 +2,61 @@
 sidebar_position: 23
 ---
 
-# Case 22 The Forklift-2
+# Case 22 The Forklift 2
 
 ## Introduction
 
-Make a forklift.
+A forklift truck is a mechanical device that can carry and lift objects. In this course we will learn about the rack and pinion drive and build a simple model of a forklift truck using Nezha Inventor's Kit V2. We will explore the principles and applications of the rack and pinion drive and understand its role in a forklift mechanism.
 
 ![](./images/nezha-inventors-kit-v2-case-22-01.png)
 
-## Purchase Link
+
+## Teaching Objectives
+
+- Learn about the basic principles and applications of rack and pinion drives.
+- Learn how to build a simple model of a forklift truck using the Nezha Inventor's Kit V2.
+- Design and build a suitable rack and pinion mechanism to achieve the up and down movement of a forklift truck and to lift objects.
+- Develop teamwork, problem solving and creative thinking skills.
 
 
+## Teaching Preparation
 
-## Quick Start
+[Nezha Inventor's Kit V2](https://www.elecfreaks.com/nezha-inventor-s-kit-v2-for-micro-bit.html)
 
-### Build Step
+
+## Teaching Process
+
+### Introduce
+
+>Introduce students to the background and objectives of forklift making to stimulate their interest and curiosity.
+
+Is everyone interested in forklifts? A forklift truck is a mechanical device that can carry and lift objects. In this lesson, we will learn together how to make an interesting forklift truck using the Nezha Inventor Kit V2.
+
+Let's start by learning about the concept of rack and pinion drives. A rack and pinion drive is a mechanical transmission that converts rotary motion into linear motion. It consists of a linear track with a rack and a gear that works with it. The rotation of the gear allows the rack to move up and down the track.
+
+Rack and pinion drives are widely used in many mechanical devices, including forklift trucks. By understanding the principles of rack and pinion drives and using the Nezha Inventor's Kit V2 techniques, we will be able to build a model that will enable the forklift to move up and down and lift objects.
+
+Let's explore how the rack and pinion works and make our own forklift model!
+
+### Exploration
+
+>Discuss in groups and get students thinking about how to build a forklift truck from block materials.
+
+- What is a rack and pinion drive? How does it work?
+- How can you make a simple model of a forklift truck using Nezha Inventor's Kit V2?
+- How to design and build a suitable rack and pinion mechanism to move the forklift up and down and to lift objects?
+- How can the parameters of the rack and pinion mechanism be adjusted to change the lifting height and speed of the forklift?
+- Do you have any other creative or improved ideas to make the forklift more interesting or functional?
+
+### Practice
+
+> Work in groups to create a forklift truck from building blocks according to your own design.
+
+Build a forklift truck from building blocks according to your own design.
+
+#### Examples
+
+##### Assembly Steps
 
 ![](./images/nezha-inventors-kit-v2-step-22-01.png)
 
@@ -84,37 +124,41 @@ Make a forklift.
 
 ![](./images/nezha-inventors-kit-v2-step-22-33.png)
 
-### Hardware Connection
+**Completed**
 
-Connect the motors to the M1 and M2 ports and the servos to the S1 port of the Nezha expansion board.
+![](./images/nezha-inventors-kit-v2-case-22-01.png)
+
+##### Hardware Connections
+
+Connect the motors to M1, M2 and the servo to S1 on Nezha expansion board. 
 
 ![](./images/nezha-inventors-kit-v2-case-24-02.png)
 
-### Software Connection
+##### Programming
 
-Open the programming platform: [makecode](https://makecode.microbit.org/#)
+Go to [makecode](https://makecode.microbit.org/#)
 
-New Project
+Create new projects
 
 ![](./images/nezha-inventors-kit-v2-case-19-03.png)
 
-Click Extensions
+Click extensions
 
 ![](./images/nezha-inventors-kit-v2-case-19-04.png)
 
 
-Search `nezha` in the search bar to add the expansion library for Nezha expansion boards.
+Search with `nezha` to download the package.
 
 ![](./images/nezha-inventors-kit-v2-case-19-06.png)
 
-Program
+Code
 
 ![](./images/nezha-inventors-kit-v2-case-22-07.png)
 
 
-Link:[https://makecode.microbit.org/_LHXgcjVcJ5po](https://makecode.microbit.org/_LHXgcjVcJ5po)
+Link: [https://makecode.microbit.org/_LHXgcjVcJ5po](https://makecode.microbit.org/_LHXgcjVcJ5po)
 
-You can also download the program directly from the following pages.
+You may download it directly:
 
 <div
     style={{
@@ -135,8 +179,19 @@ You can also download the program directly from the following pages.
     />
 </div>
 
-### Result
 
-Press A on the micro:bit, the forklift moves forward and forks up the object, press B on the micro:bit, the forklift turns to move and drops the object.
+
+
+## Demonstration
+
+>Present in groups and try to make a remote-controlled forklift truck, comparing the results and effectiveness of each group.
+
+#### Result
+
+Press A on the micro:bit to move the forklift forward and fork up the object, press B on the micro:bit to turn and lower the object.
 
 ![](./images/nezha-inventors-kit-v2-case-22.gif)
+
+## Reflection
+
+>Share in groups so that students in each group can share their production process and insights, summarise the problems and solutions they encountered, and evaluate their strengths and weaknesses.

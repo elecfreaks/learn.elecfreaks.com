@@ -4,20 +4,54 @@ sidebar_position: 17
 
 # Case 16 The Seesaw
 
-## Introduction
+## Introduction 
 
-Make a seesaw.
-
+A seesaw is a classic amusement ride that is able to use the principle of leverage to achieve balance at both ends. In this lesson we will learn how a seesaw works and use Nezha Inventor's Kit V2 to create a seesaw that can swing.
 
 ![](./images/nezha-inventors-kit-v2-case-16-01.png)
 
-## Purchase Link
+## Teaching Objectives
+
+- Understand the basic principles and applications of seesaws.
+- Learn how gearing works and its applications.
+- Learn how to use gearing to balance a seesaw.
+- Design and build suitable mechanical structures to support the movement of a seesaw.
+- Develop teamwork, problem solving and creative thinking skills.
+
+## Teaching Preparation
+
+[Nezha Inventor's Kit V2](https://www.elecfreaks.com/nezha-inventor-s-kit-v2-for-micro-bit.html)
+
+
+## Teaching Process
+
+### Introduce
+
+>Introduce students to the background and objectives of making a seesaw to stimulate their interest and curiosity.
+
+You must all have played with a seesaw! A seesaw is a very interesting plaything that allows us to feel the wonders of the leverage principle. Do you know how a seesaw achieves balance? In this lesson, we will explore the principle of a seesaw together and make a special seesaw with the Nezha Inventor Kit V2.
+
+### Exploration
+
+>Discuss in groups and get students thinking about how to make a seesaw out of block materials.
+
+- What is a see-saw? What are its features and applications?
+- How does a seesaw achieve balance? What role does the principle of leverage play in this?
+- What is the gear train? What is its role in the making of a seesaw?
+- How can you use Nezha Inventor's Kit V2 to create a seesaw that balances itself?
+- How does the design and mechanics of the teeter totter affect the balance? How do you adjust the balance point of a seesaw?
+
+### Practice
+
+>Work in groups to create a see-saw using block materials according to your own design.
+
+Make a seesaw out of blocks according to your own design.
 
 
 
-## Quick Start
+#### Examples
 
-### Build Steps
+##### Assembly Steps
 
 ![](./images/nezha-inventors-kit-v2-step-16-01.png)
 
@@ -81,41 +115,45 @@ Make a seesaw.
 
 ![](./images/nezha-inventors-kit-v2-step-16-31.png)
 
-### Hardware Connection
+**Completed**
+
+![](./images/nezha-inventors-kit-v2-case-16-01.png)
+
+##### Hardware Connection
 
 Connect the crash sensor to the J1 and the motor to the M1 of the Nezha expansion board.
 
 ![](./images/nezha-inventors-kit-v2-case-16-02.png)
 
-### Software Programming
+##### Programming 
 
-Open the programming platform: [makecode](https://makecode.microbit.org/#)
+Go to [makecode](https://makecode.microbit.org/#)
 
-New construction projects
+Create new projects
 
 ![](./images/nezha-inventors-kit-v2-case-19-03.png)
 
-Click to expand
+Click extensions
 
 ![](./images/nezha-inventors-kit-v2-case-19-04.png)
 
 
-Search for `PlanetX` in the search bar to add the extension library for the PlanetX sensors
+Search with `PlanetX` to download the package. 
 
 ![](./images/nezha-inventors-kit-v2-case-19-05.png)
 
-Search `nezha` in the search bar to add the expansion library for Nezha expansion boards
+Search with `nezha` to download the package. 
 
 ![](./images/nezha-inventors-kit-v2-case-19-06.png)
 
-Program
+Code
 
 ![](./images/nezha-inventors-kit-v2-case-16-07.png)
 
 
 Link: [https://makecode.microbit.org/_C7R6bL6m63rC](https://makecode.microbit.org/_C7R6bL6m63rC)
 
-You can also download the program directly from the following pages.
+You may download it directly below:
 
 <div
     style={{
@@ -136,7 +174,18 @@ You can also download the program directly from the following pages.
     />
 </div>
 
-### Result
 
-Press the crash sensor, the seesaw starts running, press the crash sensor again, the seesaw stops running.
+
+### Demonstration
+
+>Present in groups and compare the results and effectiveness of each group.
+
+#### Result
+
+Press the crash sensor to start the seesaw, press the crash sensor again to stop the seesaw.
+
 ![](./images/nezha-inventors-kit-v2-case-16.gif)
+
+### Reflection
+
+>Share in groups so that students in each group can share their production process and insights, summarise the problems and solutions they encountered, and evaluate their strengths and weaknesses.

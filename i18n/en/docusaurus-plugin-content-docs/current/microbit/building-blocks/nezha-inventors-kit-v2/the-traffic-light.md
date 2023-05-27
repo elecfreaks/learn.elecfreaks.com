@@ -6,17 +6,48 @@ sidebar_position: 31
 
 ## Introduction
 
-Make a traffic light.
+In this project we will be making a model of a traffic light using the Nezha Inventor's Kit V2. We will learn about the control and programming of LED lights and apply them to the production of a traffic light.
 
 ![](./images/nezha-inventors-kit-v2-case-30-01.png)
 
-## Purchase Link
+## Teaching Objectives
+
+- Master the use and control of LED lights
+- Learn to program traffic light on/off and change sequences using Nezha Inventor's Kit V2
+- Develop creativity and innovative thinking
+
+## Teaching Preparation
+
+[Nezha Inventor's Kit V2](https://www.elecfreaks.com/nezha-inventor-s-kit-v2-for-micro-bit.html)
 
 
 
-## Quick Start
+## Teaching Process
 
-### Build Steps
+### Introduce
+
+>Introduce students to the background and objectives of traffic light making to stimulate their interest and curiosity.
+
+Traffic lights play a very important role in our daily lives as they control the flow of traffic and ensure road safety. Imagine how interesting and useful an invention it would be if we could make our own model of a traffic light and control its light-up and light-down state and change sequence?
+
+### Exploration
+
+>Discuss in groups and get students thinking about how to make a traffic light using block materials.
+
+- How can the LED lights be programmed to control their on/off state?
+- How can you program a traffic light change sequence, e.g. red light on -> green light on -> yellow light on -> red light on cycle?
+- How to get creative and design a unique traffic light look and change sequence?
+
+### Practice
+
+>Work in groups to create a traffic light using block materials according to your own design.
+
+Make a traffic light out of blocks according to your own design.
+
+
+Examples 
+
+##### Building Steps
 
 ![](./images/nezha-inventors-kit-v2-step-30-01.png)
 
@@ -42,39 +73,42 @@ Make a traffic light.
 
 ![](./images/nezha-inventors-kit-v2-step-30-12.png)
 
+**Completed**
 
-### Hardware Connection
+![](./images/nezha-inventors-kit-v2-case-30-01.png)
 
-Connect the green LED to the J1 connector, the yellow LED to the J2 connector, and the red LED to the J3 connector of the Nezha expansion board.
+##### Hardware Connection
+
+Connect the green LED to connector J1, the yellow LED to J2 and the red LED to connector J3 of the Nezha expansion board.
 
 ![](./images/nezha-inventors-kit-v2-case-30-02.png)
 
-### Software Programming
+##### Programming
 
-Open programming platform:[makecode](https://makecode.microbit.org/#)
+Go to [makecode](https://makecode.microbit.org/#)
 
-New project
+Create new projects
 
 ![](./images/nezha-inventors-kit-v2-case-19-03.png)
 
-Click Extension
+Click extensions
 
 ![](./images/nezha-inventors-kit-v2-case-19-04.png)
 
 
-Search `PlanetX` in the search bar to add an extended library of PlanetX sensors
+Search with `planetX` to download the package. 
 
 ![](./images/nezha-inventors-kit-v2-case-19-05.png)
 
 
-Program
+Code
 
 ![](./images/nezha-inventors-kit-v2-case-30-07.png)
 
 
-Link:[https://makecode.microbit.org/_Wv0gDTaTUY88](https://makecode.microbit.org/_Wv0gDTaTUY88)
+Link: [https://makecode.microbit.org/_Wv0gDTaTUY88](https://makecode.microbit.org/_Wv0gDTaTUY88)
 
-You can also download the program directly from the following pages.
+You may download it directly:
 
 <div
     style={{
@@ -95,8 +129,18 @@ You can also download the program directly from the following pages.
     />
 </div>
 
-### Result
 
-The green light is on for 5 seconds and the red light is on for 5 seconds, alternately, with the yellow light on for 2 seconds in the middle of each switch.
+
+### Demonstration
+
+>Present in groups and compare the results and effectiveness of each group.
+
+#### Result
+
+The green light comes on for 5 seconds and the red light comes on for 5 seconds, alternating with the yellow light coming on for 2 seconds in between each switch.
 
 ![](./images/nezha-inventors-kit-v2-case-30.gif)
+
+###  Reflection
+
+>Share in groups so that students in each group can share their production process and insights, summarise the problems and solutions they encountered, and evaluate their strengths and weaknesses.

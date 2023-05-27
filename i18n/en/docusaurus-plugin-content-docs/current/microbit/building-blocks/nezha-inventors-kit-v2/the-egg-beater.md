@@ -1,25 +1,54 @@
----
+ ---
 sidebar_position: 18
 ---
 
-# Case 17 The Egg Beater
+# Case 17 The Whisk
 
 
 ## Introduction
 
-Make an egg-beater.
+A whisk is a common kitchen tool that quickly and efficiently breaks up eggs and makes them fluffy and homogeneous. In this lesson, we will learn together how to make a fun whisk using the Nezha Inventor's Kit V2.
 
 
 
 ![](./images/nezha-inventors-kit-v2-case-17-01.png)
 
-## Purchase Link
+## Teaching Objectives
+
+- Learn about the basic principles and applications of egg beaters.
+- Learn how to use the Nezha Inventor's Kit V2 to create an automatically rotating whisk.
+- Design and build suitable mechanical structures to support the movement of the egg beater.
+- Develop teamwork, problem solving and creative thinking skills.
+
+## Teaching Preparations
+
+[Nezha Inventor's Kit V2](https://www.elecfreaks.com/nezha-inventor-s-kit-v2-for-micro-bit.html)
 
 
+## Teaching Process
 
-## Quick Start
+### Introduce
 
-### Build Steps
+>Introduce students to the background and objectives of egg beater making to stimulate their interest and curiosity.
+
+You must all have seen a whisk before! It is a tool used to mix ingredients and is especially useful when making cakes, pastry and other foods. Do you know how a whisk works? In today's lesson, we will explore the principle of a whisk together and make a whisk that rotates automatically using the Nezha Inventor's Kit V2.
+
+### Exploration
+
+> Discuss in groups and ask students to think about how to make a whisk out of the building block materials.
+
+- How does the whisk make the egg mixture fluffy and even?
+- By what means do you think the whisk is rotated?
+
+### Practice
+
+> Work in groups to create an egg beater from building blocks according to your own design.
+
+Build an egg beater from blocks according to your own design.
+
+#### Examples
+
+##### Assembly Steps
 
 ![](./images/nezha-inventors-kit-v2-step-17-01.png)
 
@@ -69,41 +98,46 @@ Make an egg-beater.
 
 ![](./images/nezha-inventors-kit-v2-step-17-24.png)
 
+**Completed**
 
-### Hardware Connection
+![](./images/nezha-inventors-kit-v2-case-17-01.png)
 
-Connect the crash sensor to the J1 and the motor to the M1 connector of the Nezha expansion board.
+
+##### Hardware Connections
+
+Connect the crash sensor to J1 and the motor to M1 on Nezha expansion board. 
 
 ![](./images/nezha-inventors-kit-v2-case-16-02.png)
 
-### Software Programming
+##### Programming
 
-Open programming platform: [makecode](https://makecode.microbit.org/#)
+Go to [makecode](https://makecode.microbit.org/#)
 
-New construction projects
+Create new projects
 
 ![](./images/nezha-inventors-kit-v2-case-19-03.png)
 
-Click to expand
+Click extensions
 
 ![](./images/nezha-inventors-kit-v2-case-19-04.png)
 
 
-Search `PlanetX` in the search bar to add an extended library of PlanetX Series sensors.
+Search with `PlanetX` to download the package. 
 
 ![](./images/nezha-inventors-kit-v2-case-19-05.png)
 
-Search `nezha` in the search bar to add the expansion library for Nezha expansion boards
+Search with `nezha` to download the package.
+
 ![](./images/nezha-inventors-kit-v2-case-19-06.png)
 
-Program
+Code
 
 ![](./images/nezha-inventors-kit-v2-case-17-07.png)
 
 
-Link:[https://makecode.microbit.org/_4pvKroATsiao](https://makecode.microbit.org/_4pvKroATsiao)
+Link: [https://makecode.microbit.org/_4pvKroATsiao](https://makecode.microbit.org/_4pvKroATsiao)
 
-You can also download the program directly from the following pages.
+You may download it directly below: 
 
 <div
     style={{
@@ -124,8 +158,17 @@ You can also download the program directly from the following pages.
     />
 </div>
 
-### Result
 
-Press and hold the crash sensor to start the egg-beater, release the crash sensor to stop the device.
+### Demonstration
+
+>Present in groups and compare the results and effectiveness of each group.
+
+#### Result
+
+Start the device by pressing the crash sensor and release it to stop. 
 
 ![](./images/nezha-inventors-kit-v2-case-17.gif)
+
+### Reflection
+
+>Share in groups so that students in each group can share their production process and insights, summarise the problems and solutions they encountered, and evaluate their strengths and weaknesses.

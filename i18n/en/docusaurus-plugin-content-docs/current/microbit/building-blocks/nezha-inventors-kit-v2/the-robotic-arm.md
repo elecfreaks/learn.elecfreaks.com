@@ -4,20 +4,55 @@ sidebar_position: 16
 
 # Case 15 The Robotic Arm
 
-## Introduction
+## Introduction 
 
-Use two motors and one servo to make a robot arm.
+A robotic arm is a mechanical device that can mimic the movements of a human arm. It can play an important role in industry, medicine, science and other fields. In this course we will learn the basic principles of a robotic arm and use the Nezha Inventor's Kit V2 to create a powerful robotic arm.
 
 
 ![](./images/nezha-inventors-kit-v2-case-15-01.png)
 
-## Purchase Link
+## Teaching Objectives
+
+- Learn about the basic principles and areas of application of robotic arms.
+- Learn how to use motors and servos to control the movement of a robotic arm.
+- Design and build suitable mechanical structures to realise the various movements of the robotic arm.
+- Develop teamwork, problem solving and creative thinking skills.
+
+## Teaching Preparation
+
+[Nezha Inventor's Kit V2](https://www.elecfreaks.com/nezha-inventor-s-kit-v2-for-micro-bit.html)
+
+
+## Teaching Process
+
+### Introduce
+
+>Introduce students to the background and objectives of robotic arm making to stimulate their interest and curiosity.
+
+A robotic arm is a device that can mimic the movements of a human arm and can perform a variety of tasks. Have you ever seen a robotic arm completing work in a factory? In the medical field, robotic arms can also be used to assist in surgery. Robotic arms not only play an important role in industry, but also have a wide range of applications in everyday life.
+
+So, do you know how a robotic arm works? How does it grasp objects and perform precise movement control? In today's lesson, we will learn about the principles of robotic arms and build our own robotic arm with our own hands. Are you ready?
+
+### Exploration
+
+>Discuss in small groups and get students thinking about how they can make a robotic arm out of block materials.
+
+- What is a robotic arm? What applications does it have?
+- How can a motor be used to control the movement of a robotic arm?
+- How does the mechanical structure affect the movement of the robot arm? How can we design a suitable mechanical structure to achieve different movements?
+- By making a robotic arm, can we grasp objects, perform simple stacking and other actions?
+
+### Practice
+
+>Work in groups to create a robotic arm from building block materials according to your own design.
+
+Build a robotic arm out of building blocks according to your own design.
 
 
 
-## Quick Start
+#### Examples
 
-### Build Steps
+##### Assembly Steps
 
 ![](./images/nezha-inventors-kit-v2-step-15-01.png)
 
@@ -107,38 +142,42 @@ Use two motors and one servo to make a robot arm.
 
 ![](./images/nezha-inventors-kit-v2-step-15-44.png)
 
-### Hardware Connection
+**Completed**
 
-Connect the motors to the M1 and M2 ports and the servos to the S1 port of the Nezha expansion board.
+![](./images/nezha-inventors-kit-v2-case-15-01.png)
+
+##### Hardware Connection
+
+Connect the motors to M1 and M2, the servo to S1 on Nezha expansion board. 
 
 ![](./images/nezha-inventors-kit-v2-case-15-02.png)
 
-### Programming
+##### Programming 
 
-Open programming platform: [makecode](https://makecode.microbit.org/#)
+Go to [makecode](https://makecode.microbit.org/#)
 
-New project
+Create new projects
 
 ![](./images/nezha-inventors-kit-v2-case-19-03.png)
 
-Click Extension
+Click extensions
 
 ![](./images/nezha-inventors-kit-v2-case-19-04.png)
 
 
 
-Search `nezha` in the search bar to add the expansion library for Nezha expansion boards
+Search with `nezha` to download the package. 
 
 ![](./images/nezha-inventors-kit-v2-case-19-06.png)
 
-Program
+Code
 
 ![](./images/nezha-inventors-kit-v2-case-15-07.png)
 
 
-Link:[https://makecode.microbit.org/_d8HcJTaiU2Pi](https://makecode.microbit.org/_d8HcJTaiU2Pi)
+Link: [https://makecode.microbit.org/_d8HcJTaiU2Pi](https://makecode.microbit.org/_d8HcJTaiU2Pi)
 
-You can also download the program directly from the following pages.
+You may download it directly below:
 
 <div
     style={{
@@ -159,8 +198,19 @@ You can also download the program directly from the following pages.
     />
 </div>
 
-### Result
 
-Press A on the micro:bit to start the robot doing pull-ups, and press B on the micro:bit to stop the robot doing pull-ups.
+
+### Demonstration
+
+>Present in groups and compare the results and effectiveness of each group.
+
+#### Result
+
+
+Press A on the micro:bit, the robot arm grabs the item and places it to the side, press B on the micro:bit, the robot arm releases the item and returns it to the right.
 
 ![](./images/nezha-inventors-kit-v2-case-15.gif)
+
+### Reflection
+
+>Share in groups so that students in each group can share their production process and insights, summarise the problems and solutions they encountered, and evaluate their strengths and weaknesses.

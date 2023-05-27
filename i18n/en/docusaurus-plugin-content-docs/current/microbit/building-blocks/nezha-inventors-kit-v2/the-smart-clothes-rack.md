@@ -2,24 +2,58 @@
 sidebar_position: 33
 ---
 
-# Case 32 Smart drying rack
+# Case 32 The Smart Clothes Rack
 
-## Introduction
+## Introduction 
 
-Make a smart drying rack, when it rains, the soil moisture sensor above the device detects rain, then the drying rack automatically shrinks, when the soil moisture sensor above the device does not detect rain, then the drying rack automatically extends.
+In this project, we will use the Nezha Inventor's Kit V2 to make a model of a smart drying rack. We will learn how the soil moisture sensor works, programming and other knowledge and apply it to the model drying rack. The drying rack automatically contracts when rain is detected by the soil moisture sensor above the unit, and extends when the soil moisture sensor above the unit does not detect rain.
 
 
 
 
 ![](./images/nezha-inventors-kit-v2-case-32-01.png)
 
-## Purchase Link
 
 
 
-## Quick Start
+## Teaching Objectives
 
-### Build Steps
+- Learn how a soil moisture sensor works
+- Learn to use the Nezha Inventor's Kit V2 to programme and control the retraction of the drying rack
+- Develop students' teamwork, creativity and problem-solving skills
+
+
+
+## Teaching Preparation
+
+[Nezha Inventor's Kit V2](https://www.elecfreaks.com/nezha-inventor-s-kit-v2-for-micro-bit.html)
+
+
+## Teaching Process
+
+### Introduce
+
+>Introduce students to the background and objectives of making a smart drying rack to stimulate their interest and curiosity.
+
+A smart drying rack is a device that automatically adjusts to weather conditions and retracts. Imagine how handy and practical an invention it would be if we could make a model of a smart drying rack using a soil moisture sensor and automatically retract or extend it by detecting rainfall conditions?
+
+### Exploration
+
+>Discuss in groups and get students thinking about how they can use block materials to create a smart drying rack.
+
+- How can rainwater detection be achieved using a soil moisture sensor?
+- How can the detection results of the soil moisture sensor be programmed to translate into a telescopic control signal for the drying rack?
+- How to get creative and design a unique drying rack structure and automatic adjustment mechanism?
+
+### Practice
+
+>Work in groups to create a smart drying rack from building blocks according to your own design.
+
+Build a smart drying rack out of building blocks according to your own design.
+
+#### Examples
+
+##### Assembly Steps
 
 ![](./images/nezha-inventors-kit-v2-step-32-01.png)
 
@@ -77,42 +111,45 @@ Make a smart drying rack, when it rains, the soil moisture sensor above the devi
 
 ![](./images/nezha-inventors-kit-v2-step-32-28.png)
 
+**Completed**
 
-### Hardware Connection
+![](./images/nezha-inventors-kit-v2-case-32-01.png)
 
-Connect the crash sensor to the J1 and the servo to the S1 port of the Nezha expansion board.
+##### Hardware Connection
+
+Connect the crash sensor to the J1 and the servo to S1 of the Nezha expansion board.
 
 ![](./images/nezha-inventors-kit-v2-case-32-02.png)
 
-### Software Programming
+##### Programming 
 
-Open programming platform: [makecode](https://makecode.microbit.org/#)
+Go to [makecode](https://makecode.microbit.org/#)
 
-New project
+Create new projects
 
 ![](./images/nezha-inventors-kit-v2-case-19-03.png)
 
-Click extension
+Click extensions
 
 ![](./images/nezha-inventors-kit-v2-case-19-04.png)
 
 
-Search `PlanetX` in the search bar to add an extended library of PlanetX sensors
+Search with `PlanetX` to download the package. 
 
 ![](./images/nezha-inventors-kit-v2-case-19-05.png)
 
-Search `nezha` in the search bar to add the expansion library for Nezha expansion boards
+Search with `nezha` to download the package. 
 
 ![](./images/nezha-inventors-kit-v2-case-19-06.png)
 
-Program
+Code
 
 ![](./images/nezha-inventors-kit-v2-case-32-07.png)
 
 
-Link:[https://makecode.microbit.org/_bXf6baUgiDgX](https://makecode.microbit.org/_bXf6baUgiDgX)
+Link: [https://makecode.microbit.org/_bXf6baUgiDgX](https://makecode.microbit.org/_bXf6baUgiDgX)
 
-You can also download the program directly from the following pages.
+You may download it directly below:
 
 <div
     style={{
@@ -133,8 +170,18 @@ You can also download the program directly from the following pages.
     />
 </div>
 
-### Result
 
-When it rains, the soil moisture sensor above the device detects rain, at which time the drying rack automatically contracts, and when the soil moisture sensor above the device does not detect rain, the drying rack automatically extends.
+
+### Demonstration
+
+>Presented in groups, students test, tune and optimise their robots to improve the accuracy and stability of their line following, comparing the results and effectiveness of each group.
+
+#### Result
+
+The drying rack automatically contracts when rain is detected by the soil moisture sensor above the unit, and extends when the soil moisture sensor above the unit does not detect rain.
 
 ![](./images/nezha-inventors-kit-v2-case-32.gif)
+
+### Reflection
+
+>Share in groups so that students in each group can share their production process and insights, summarise the problems and solutions they encountered, and evaluate their strengths and weaknesses.

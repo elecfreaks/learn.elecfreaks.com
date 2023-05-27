@@ -4,23 +4,59 @@ sidebar_position: 10
 
 # Case 09 The Scorpion Robot
 
-## Introduction
+## Introduction 
 
-Make a scorpion robot.
+Scorpions are striking arthropods that belong to a family of arachnids. They live in all corners of the earth, including desert, forest and grassland environments. Scorpions usually have a long body and a pair of curved tails, often with a venomous stinger at the end. Their physical appearance shows a variety of colours and patterns, ranging from light yellow to dark brown or black.
+
+Scorpions feed on insects, arachnids and other small invertebrates. They have a well-developed sensory system, especially their antennae and eyes, which help them locate and capture prey in the dark. The scorpion's venomous stinger contains toxins and is generally used for defence and to capture food.
 
 
-
-
+We'll be making a scorpion today with the Nezha Inventor's Kit V2.
 
 ![](./images/nezha-inventors-kit-v2-case-09-01.png)
 
-## Purchase Link
+
+## Teaching Objectives
+
+- Understand the basic components and functions of the Nezha Inventor's Kit V2.
+- Understand how ultrasonic sound sensors and soil moisture sensors work.
+- Learn how to program the robot to control its behaviour so that it can make appropriate movements based on feedback from the sensors.
+- Develop creativity, problem solving skills and teamwork ability.
+
+## Teaching Preparation
+
+[Nezha Inventor's Kit V2](https://www.elecfreaks.com/nezha-inventor-s-kit-v2-for-micro-bit.html)
+
+
+## Teaching Process
+
+### Introduce
+
+>Introduce students to the background and objectives of the scorpion robot production to stimulate their interest and curiosity.
+
+Is everyone interested in robots and sensors? Today, I have brought a special robot that can move like a scorpion and has ultrasonic sensors and soil moisture sensors. It can sense obstacles in front of it and will react when it detects people touching the soil moisture sensor. Let's discover how to make this amazing scorpion robot!
+
+### Exploration
+
+>Group discussion to get students thinking about how to make a scorpion from block materials, focusing on the design of the scorpion's exterior shape and how the ultrasonic sensor and soil moisture sensor work.
+
+- How does the scorpion robot sense obstacles in front of it? How does it do this using ultrasonic sensors?
+- How does the soil moisture sensor work? How does it relate to the behaviour of the scorpion robot?
+- How is the scorpion robot programmed to act accordingly to the feedback from the sensors?
+- How are the LEDs used to indicate the status of the scorpion robot?
+
+### Practice
+
+>Work in groups to create a scorpion from block materials according to your own design scheme.
+
+Create a scorpion from block materials according to your own design.
 
 
 
-## Quick Start
+#### Examples
 
-### Build Steps
+##### Assembly Steps
+
 
 ![](./images/nezha-inventors-kit-v2-step-09-01.png)
 
@@ -128,41 +164,44 @@ Make a scorpion robot.
 
 ![](./images/nezha-inventors-kit-v2-step-09-53.png)
 
+**Completed**
 
+![](./images/nezha-inventors-kit-v2-case-09-01.png)
 
-### Hardware Connection
+##### Hardware Connection
 
-Connect the ultrasonic sound sensor to the J1, the soil moisture sensor to the J2, the red LED to the J3, the green LED to the J4, the motors to the M1 and M2 and the servo to the S1 interface of the Nezha expansion board.
+The ultrasonic sensor is connected to J1, the soil moisture sensor is connected to J2, the red LED is connected to J3, the green LED is connected to J4, the motors are connected to M1 and M2 and the servo is connected to S1 of the Nezha expansion board.
 
 ![](./images/nezha-inventors-kit-v2-case-09-02.png)
 
-### Software Profgramming
+##### Programming 
 
-Open programming platform: [makecode](https://makecode.microbit.org/#)
+Go to [makecode](https://makecode.microbit.org/#)
 
-New Project
+Create new projects
 
 ![](./images/nezha-inventors-kit-v2-case-19-03.png)
 
-Click Extension
+Click extensions
 
 ![](./images/nezha-inventors-kit-v2-case-19-04.png)
 
-Search `PlanetX` in the search bar to add an extended library of PlanetX sensors
+Search with `planetX` to download the package. 
 
 ![](./images/nezha-inventors-kit-v2-case-19-05.png)
 
-Search `nezha` in the search bar to add the expansion library for Nezha expansion boards
+Search with `nezha` to download the package. 
+
 ![](./images/nezha-inventors-kit-v2-case-19-06.png)
 
-Program
+Code
 
 ![](./images/nezha-inventors-kit-v2-case-09-07.png)
 
 
-Link:[https://makecode.microbit.org/_6YoKJe6bvWJp](https://makecode.microbit.org/_6YoKJe6bvWJp)
+Link: [https://makecode.microbit.org/_6YoKJe6bvWJp](https://makecode.microbit.org/_6YoKJe6bvWJp)
 
-You can also download the program directly from the following pages.
+You may download it directly below:
 
 <div
     style={{
@@ -183,8 +222,17 @@ You can also download the program directly from the following pages.
     />
 </div>
 
-### Result
 
-When the tail of the scorpion robot is touched, the scorpion travels forward and when an obstacle is detected ahead then it stops and begins to clip.
+### Demonstration
+
+>Present in groups and compare the results and effectiveness of each group.
+
+#### Result
+
+When the scorpion's tail is touched, the scorpion travels forward and when an obstacle is detected ahead it stops and begins to clip.
 
 ![](./images/nezha-inventors-kit-v2-case-09.gif)
+
+### Reflection
+
+>Share in groups so that students in each group can share their production process and insights, summarise the problems and solutions they encountered, and evaluate their strengths and weaknesses.

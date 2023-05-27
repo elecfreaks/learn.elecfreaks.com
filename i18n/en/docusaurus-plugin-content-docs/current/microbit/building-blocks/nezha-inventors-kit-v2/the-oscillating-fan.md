@@ -2,25 +2,54 @@
 sidebar_position: 19
 ---
 
-# Case 18 The Oscillating Head Fan
+# Case 18 The Oscillating Fan 
 
 ## Introduction
 
-Make a fan that uses only one motor to crank and turn the fan.
-
-
-
-
+The oscillating fan is a common household appliance that is capable of distributing the wind more widely by swinging its head. In this lesson, we will learn how to make a bobbing fan that can automatically bob and spin its head using the Nezha Inventor's Kit V2.
 
 ![](./images/nezha-inventors-kit-v2-case-18-01.png)
 
-## Purchase Link
+
+## Teaching Objectives
+
+- Understand the basic principles and applications of fans.
+- Learn how motors work and their applications.
+- Learn how to use the Nezha Inventor's Kit V2 to create a bobbing fan that automatically cranks and spins its head.
+- Design and build suitable mechanical structures and gearing to achieve the fan's cranking head and overall rotation.
+- Develop teamwork, problem solving and creative thinking skills.
+
+## Teaching Objectives
+
+[Nezha Inventor's Kit V2](https://www.elecfreaks.com/nezha-inventor-s-kit-v2-for-micro-bit.html)
 
 
+## Teaching Process
 
-## Quick Start
+### Introduce
 
-### Build Steps
+>Introduce students to the background and objectives of making a bobbing fan to stimulate their interest and curiosity.
+
+Do we all enjoy the cool breeze blowing in summer? In summer, we usually use fans to lower the temperature in the room. Do you know how fans work? In this lesson, we will explore the principles of a fan together and use Nezha Inventor's Kit V2 to make a bobbing fan that automatically cranks and spins its head.
+
+### Exploration
+
+>Discuss in groups and get students thinking about how they can make a fan from block materials.
+
+- How does the fan produce wind?
+- How can we use a motor to enable the fan to crank and spin?
+- How can we design a suitable mechanism to enable the fan to crank and spin?
+
+### Practice
+
+>Work in groups to create a bobbing fan from building blocks according to your own design.
+
+Build a bobbing fan out of blocks according to your own design.
+
+#### Examples
+
+##### Assembly Steps
+
 
 ![](./images/nezha-inventors-kit-v2-step-18-01.png)
 
@@ -78,40 +107,44 @@ Make a fan that uses only one motor to crank and turn the fan.
 
 ![](./images/nezha-inventors-kit-v2-step-18-28.png)
 
+**Completed**
 
-### Hardware Connection
+![](./images/nezha-inventors-kit-v2-case-18-01.png)
 
-Connect the potentiometer to the J1 connector and the motor to the M1 connector of the Nezha expansion board
+##### Hardware Connections
+
+Connect the trimpt to J1 and the motor to M1 on Nezha expansion board. 
+
 ![](./images/nezha-inventors-kit-v2-case-18-02.png)
 
-### Software Programming
+##### Programming
 
-Open programming platform: [makecode](https://makecode.microbit.org/#)
+Go to [makecode](https://makecode.microbit.org/#)
 
-New Project
+Create new projects
 
 ![](./images/nezha-inventors-kit-v2-case-19-03.png)
 
-Click Extension
+Click extensions
 
 ![](./images/nezha-inventors-kit-v2-case-19-04.png)
 
-Search `PlanetX` in the search bar to add an extended library of PlanetX sensors.
+Search with `PlanetX` to download the package. 
 
 ![](./images/nezha-inventors-kit-v2-case-19-05.png)
 
-Search `nezha` in the search bar to add the expansion library for Nezha expansion boards.
+Search with `nezha` to download the package. 
 
 ![](./images/nezha-inventors-kit-v2-case-19-06.png)
 
-Program
+Code
 
 ![](./images/nezha-inventors-kit-v2-case-18-07.png)
 
 
-Link:[https://makecode.microbit.org/_EL1iC5FugWLk](https://makecode.microbit.org/_EL1iC5FugWLk)
+Link: [https://makecode.microbit.org/_EL1iC5FugWLk](https://makecode.microbit.org/_EL1iC5FugWLk)
 
-You can also download the program directly from the following pages.
+You may download it directly below:
 
 <div
     style={{
@@ -132,8 +165,19 @@ You can also download the program directly from the following pages.
     />
 </div>
 
-### Result
 
-The speed of the rotation of the fan is controlled by a knob.
+
+### Demonstration
+
+>Present in groups and compare the results and effectiveness of each group.
+
+#### Result
+
+
+Fan speed is controlled via the trimpot.
 
 ![](./images/nezha-inventors-kit-v2-case-18.gif)
+
+### Reflection
+
+>Share in groups so that students in each group can share their production process and insights, summarise the problems and solutions they encountered, and evaluate their strengths and weaknesses.

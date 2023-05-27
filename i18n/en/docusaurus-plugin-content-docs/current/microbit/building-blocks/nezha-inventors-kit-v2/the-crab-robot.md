@@ -4,19 +4,50 @@ sidebar_position: 12
 
 # Case 11 The Crab Robot
 
-## Introduction
+## Introduction 
 
-Make a crab robot that is able to avoid obstacles.
+Crabs are creatures that live in the sea and fresh water and have hard shells and powerful pincers. Crabs move mainly by walking laterally and they crawl through the coordinated movement of their legs. In this lesson we will learn about the characteristics and behaviour of crabs and try to make a mechanical crab that mimics the crab's crawl.
 
 ![](./images/nezha-inventors-kit-v2-case-11-01.png)
 
-## Purchase Link
+## Teaching Objectives
+
+- Understand the working principles and applications of ultrasonic sound sensors.
+- Learn the basic principles of gearing and how to implement it.
+- Learn how to use ultrasonic sensors and gearing to create a mechanical crab that mimics the crawling of a crab.
+- Develop creativity, problem-solving skills and teamwork spirit.
+
+## Teaching Preparation
+
+[Nezha Inventor's Kit V2](https://www.elecfreaks.com/nezha-inventor-s-kit-v2-for-micro-bit.html)
 
 
 
-## Quick Start
 
-### Build Step
+## Teaching Process
+
+### Inrtroduce
+
+>Introduce students to the background and objectives of the mechanical crab production to stimulate their interest and curiosity.
+
+Is everyone interested in crabs? Crabs are interesting creatures that crawl freely in the ocean and in fresh water. Today, I have brought along a special project where we will be using Nezha Inventor's Kit V2 to create a mechanical crab that mimics the crab's crawl. This mechanical crab has an intelligent function that will automatically walk sideways when it detects an obstacle in front of it. Through this project, we will learn how to apply ultrasonic sound sensors and gearing to make an interesting mechanical crab.
+
+### Exploration
+
+>In groups, get students thinking about how to make a mechanical crab from block materials, focusing on how the ultrasonic sound sensor works.
+
+- How do crabs perform lateral walking? What are their characteristics and patterns?
+- How does an ultrasonic sound sensor work? What can it detect?
+- What is the gear transmission? What is its role in the mechanical crab?
+- How can the mechanical crab be programmed by Nezha Inventor's Kit V2 to walk sideways according to the signals from the ultrasonic sound sensor?
+
+### Practice
+
+>Work in groups to create a mechanical crab from block materials following your own design.
+
+#### Examples
+
+##### Assembly Steps
 
 ![](./images/nezha-inventors-kit-v2-step-11-01.png)
 
@@ -68,41 +99,45 @@ Make a crab robot that is able to avoid obstacles.
 
 ![](./images/nezha-inventors-kit-v2-step-11-25.png)
 
+**Completed**
 
-### Hardware Connection
+![](./images/nezha-inventors-kit-v2-case-11-01.png)
 
-Connect the ultrasonic sound sensor to the J1 interface of the Nezha expansion board and the motor to the M1 interface.
+
+##### Hardware Connections
+
+Connect the ultrasonic sound sensor to the J1 and the motor to the M1 connector of the Nezha expansion board.
 
 ![](./images/nezha-inventors-kit-v2-case-11-02.png)
 
-### Software Programming
+##### Programming
 
-Open the programming platform: [makecode](https://makecode.microbit.org/#)
+Go to [makecode](https://makecode.microbit.org/#)
 
-New project
+Create New Project
 
 ![](./images/nezha-inventors-kit-v2-case-19-03.png)
 
-Click to expand
+Click "Extensions"
 
 ![](./images/nezha-inventors-kit-v2-case-19-04.png)
 
-Search `PlanetX` in the search bar to add an extended library of PlanetX sensors
+Search wih `PlanetX` to add the package.
 
 ![](./images/nezha-inventors-kit-v2-case-19-05.png)
 
-Search `nezha` in the search bar to add the expansion library for Nezha expansion boards
+Search with `nezha` to add the package. 
 
 ![](./images/nezha-inventors-kit-v2-case-19-06.png)
 
-Write the program
+Code
 
 ![](./images/nezha-inventors-kit-v2-case-11-07.png)
 
 
-Link:[https://makecode.microbit.org/_7c7WtwVXyTRM](https://makecode.microbit.org/_7c7WtwVXyTRM)
+Link: [https://makecode.microbit.org/_7c7WtwVXyTRM](https://makecode.microbit.org/_7c7WtwVXyTRM)
 
-You can also download the program directly from the following pages.
+You may download it directly:
 
 <div
     style={{
@@ -123,8 +158,17 @@ You can also download the program directly from the following pages.
     />
 </div>
 
-### Result
 
-When there is an obstacle blocking the crab, the crab will walk to the side direction.
+### Demonstration
+
+>Present in groups and compare the results and effectiveness of each group.
+
+#### Result
+
+When an obstacle stands in the way of the crab, the crab will walk to the side way. 
 
 ![](./images/nezha-inventors-kit-v2-case-11.gif)
+
+### Reflection
+
+>Share in groups so that students in each group can share their production process and insights, summarise the problems and solutions they encountered, and evaluate their strengths and weaknesses.

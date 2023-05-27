@@ -6,15 +6,51 @@ sidebar_position: 30
 
 ## Introduction
 
-Make a small car with wings.
+In this project we will use the Nezha Inventor's Kit V2 to build a winged cart that simulates the flight movements of a bird. We will learn about mechanical construction, motor control and creative design and apply them to the creation of the cart.
 
 ![](./images/nezha-inventors-kit-v2-case-29-01.png)
 
-## Purchase Link
 
-Quick Start
+## Teaching Objectives
 
-### Build Steps
+- Learn to build mechanical structures using the Nezha Inventor's Kit V2
+- Learn to install and control motors to achieve wing vibrations
+- Learn to write a program to control a cart to demonstrate the flight movements of birds
+- Develop teamwork, problem solving and creative thinking skills
+
+## Teaching Preparations
+
+[ Nezha Inventor's Kit V2](https://www.elecfreaks.com/nezha-inventor-s-kit-v2-for-micro-bit.html)
+
+
+## Teaching Process
+
+### Introduce
+
+>Introduce students to the background and objectives of the trolley making to stimulate their interest and curiosity.
+
+Big Let's imagine together how interesting and amazing a robot it would be if we could make a cart that could not only travel on the ground, but also simulate the flying movements of a bird? This cart could demonstrate wing vibrations just like a flying bird.
+
+In this course, we will learn how to build the mechanics, install the motors and control the vibration of the wings using the Nezha Inventor Kit V2. By writing a program, we will implement a small car to demonstrate the flight movements of a bird. It's going to be a creative and challenging process!
+
+### Exploration
+
+> Discuss in groups and get students thinking about how they can use block materials to create a flying cart.
+
+- How can you design and make a mechanical structure that demonstrates the vibration of the wings?
+- How can motors be installed and controlled to enable the movement of the wings?
+- How can you write a program to control the cart to demonstrate the flight movements of a bird?
+- How to get creative and design unique cart looks and wing shapes?
+
+### Practice
+
+> Work in groups to create a flying car out of building blocks according to your own design.
+
+Make a flying car out of blocks according to your own design.
+
+#### Examples
+
+##### Assembly Steps
 
 ![](./images/nezha-inventors-kit-v2-step-29-01.png)
 
@@ -62,38 +98,42 @@ Quick Start
 
 ![](./images/nezha-inventors-kit-v2-step-29-23.png)
 
+**Completed**
 
-### Hardware Connection
+![](./images/nezha-inventors-kit-v2-case-29-01.png)
 
-Connect the motor to the M1 interface of the Nezha expansion board.
+
+##### Hardware Connections
+
+Connect the Motor to M1 port on Nezha board. 
 
 ![](./images/nezha-inventors-kit-v2-case-07-02.png)
 
-### Software Connection
+##### Programming
 
-Open the programming platform: [makecode](https://makecode.microbit.org/#)
+Go to [makecode](https://makecode.microbit.org/#)
 
-New Project
+Create new projects
 
 ![](./images/nezha-inventors-kit-v2-case-19-03.png)
 
-Click Extensions
+Click extensions
 
 ![](./images/nezha-inventors-kit-v2-case-19-04.png)
 
 
-Search `nezha` in the search bar to add the expansion library for Nezha expansion boards
+Search with `nezha` to download the package. 
 
 ![](./images/nezha-inventors-kit-v2-case-19-06.png)
 
-Program
+Code
 
 ![](./images/nezha-inventors-kit-v2-case-29-07.png)
 
 
-Link:[https://makecode.microbit.org/_Fh5DJ67LjEKA](https://makecode.microbit.org/_Fh5DJ67LjEKA)
+Link: [https://makecode.microbit.org/_Fh5DJ67LjEKA](https://makecode.microbit.org/_Fh5DJ67LjEKA)
 
-You can also download the program directly from the pages below.
+You may download it directly below:
 
 <div
     style={{
@@ -114,8 +154,18 @@ You can also download the program directly from the pages below.
     />
 </div>
 
-### Result
 
-Press the A button on the micro:bit, the cart moves forward while stirring its wings, press the B button on the micro:bit, the cart stops moving.
+
+### Demonstration
+
+>Present in groups and compare the results and effectiveness of each group.
+
+#### Result
+
+Press A on the micro:bit to move the cart forward while fluttering its wings, press B on the micro:bit to stop the cart.
 
 ![](./images/nezha-inventors-kit-v2-case-29.gif)
+
+###  Reflection
+
+>Share in groups so that students in each group can share their production process and insights, summarise the problems and solutions they encountered, and evaluate their strengths and weaknesses.

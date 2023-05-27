@@ -2,23 +2,58 @@
 sidebar_position: 24
 ---
 
-# Case 23 The Motorcycles
+# Case 23 The Motorcycle
 
 ## Introduction
 
-Make a motorcycle.
-
+Motorcycles are a unique and swift form of transport. In this course we will learn about gearing and build a simple motorbike model by using the Nezha Inventor's Kit V2.
 
 
 ![](./images/nezha-inventors-kit-v2-case-23-01.png)
 
-## Purchase Link
+
+## Teaching Objectives
+
+- Learn about the basic principles and applications of gearing.
+- Learn how to build a simple motorbike model using the Nezha Inventor's Kit V2.
+- Design and build a suitable gear train to achieve the forward and turning functions of a motorbike.
+- Develop teamwork, problem solving and creative thinking skills.
 
 
+## Traching Preparation
 
-## Quick Start
+[Nezha Inventor's Kit V2](https://www.elecfreaks.com/nezha-inventor-s-kit-v2-for-micro-bit.html)
 
-### Build Steps
+
+## Teaching Process
+
+### Introduce
+
+>Students are introduced to the background and objectives of motorbike building to stimulate their interest and curiosity.
+
+A motorbike is a unique and swift means of transportation that transmits power from the engine to the wheels through gearing to achieve forward motion. In this lesson, we will learn about gear transmission and build a simple motorbike model by using the Nezha Inventor's Kit V2. We will explore the principles and applications of gearing and learn how it works in a motorbike.
+
+Through the process of building a motorbike, we will learn how to design and build a suitable gearing mechanism for the forward and turning functions of a motorbike. We will understand how different gears fit together and explore how gearing works.
+
+### Exploration
+
+>Discuss in groups and get students thinking about how they can make a motorbike from block materials.
+
+- What is gearing? What is its role in a motorbike?
+- How to build a simple model of a motorbike using Nezha Inventor's Kit V2?
+- How to design and build a suitable gear train for the forward and turning functions of a motorbike?
+- How can the parameters of the gear train be adjusted to change the speed and steering effect of the motorbike?
+- Do you have any other creative or improvement ideas that would make the motorbike more interesting or functional?
+
+### Practice
+
+>Work in groups to create a motorbike from block materials according to your own design.
+
+Build a motorbike from building blocks according to your own design.
+
+#### Examples
+
+##### Assembly Steps
 
 ![](./images/nezha-inventors-kit-v2-step-23-01.png)
 
@@ -56,57 +91,41 @@ Make a motorcycle.
 
 ![](./images/nezha-inventors-kit-v2-step-23-18.png)
 
-![](./images/nezha-inventors-kit-v2-step-23-19.png)
+**Completed**
 
-![](./images/nezha-inventors-kit-v2-step-23-20.png)
+![](./images/nezha-inventors-kit-v2-case-23-01.png)
 
-![](./images/nezha-inventors-kit-v2-step-23-21.png)
+##### Hardware Connections
 
-![](./images/nezha-inventors-kit-v2-step-23-22.png)
-
-![](./images/nezha-inventors-kit-v2-step-23-23.png)
-
-![](./images/nezha-inventors-kit-v2-step-23-24.png)
-
-![](./images/nezha-inventors-kit-v2-step-23-25.png)
-
-![](./images/nezha-inventors-kit-v2-step-23-26.png)
-
-![](./images/nezha-inventors-kit-v2-step-23-27.png)
-
-![](./images/nezha-inventors-kit-v2-step-23-28.png)
-
-### Hardware Connection
-
-Connect the servo to the S1 port and the motor to the M1 connector of the Nezha expansion board.
+Connect the servo to S1 and the motor to M1 on Nezha expansion board. 
 
 ![](./images/nezha-inventors-kit-v2-case-23-02.png)
 
-### Software Programming
+##### Programming
 
-Open programming platform: [makecode](https://makecode.microbit.org/#)
+Go to [makecode](https://makecode.microbit.org/#)
 
-New Project
+Create new projects
 
 ![](./images/nezha-inventors-kit-v2-case-19-03.png)
 
-Click extension
+Click extensions
 
 ![](./images/nezha-inventors-kit-v2-case-19-04.png)
 
 
-Search `nezha` in the search bar to add the expansion library for Nezha expansion boards
+Search with `nezha` to download the package.
 
 ![](./images/nezha-inventors-kit-v2-case-19-06.png)
 
-Program
+Code
 
 ![](./images/nezha-inventors-kit-v2-case-23-07.png)
 
 
-Link:[https://makecode.microbit.org/_L9W9aj0dE2bi](https://makecode.microbit.org/_L9W9aj0dE2bi)
+Link: [https://makecode.microbit.org/_L9W9aj0dE2bi](https://makecode.microbit.org/_L9W9aj0dE2bi)
 
-You can also download the program directly from the following pages.
+you may download it directly below:
 
 <div
     style={{
@@ -127,8 +146,18 @@ You can also download the program directly from the following pages.
     />
 </div>
 
-### Result
 
-Press the A button on the micro:bit and the motorcycle starts moving.
+
+### Demonstrations
+
+>Present in groups and try to make a remote control motorbike, comparing the results and effectiveness of each group.
+
+#### Result
+
+Press button A on the micro:bit to start the device. 
 
 ![](./images/nezha-inventors-kit-v2-case-23.gif)
+
+### Reflection
+
+>Share in groups so that students in each group can share their production process and insights, summarise the problems and solutions they encountered, and evaluate their strengths and weaknesses.

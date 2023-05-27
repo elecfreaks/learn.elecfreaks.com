@@ -6,19 +6,59 @@ sidebar_position: 5
 
 ## Introduction
 
-Make a unicycle robot that walks a wire rope.
+Unicycle tightrope walking is an extremely challenging and exciting performance art. It combines balance, co-ordination and skill, allowing people to watch in awe as the performers demonstrate extraordinary balance and precise control in a highly stressful environment.
 
+In this performance, the performer rides a unicycle (a special vehicle with only one wheel) across a high suspended wire. This wire is usually suspended between two supports and the height and distance needs to be precisely measured and adjusted to ensure the performer's safety.
 
+The performers need to maintain their balance during the performance and use subtle body adjustments to keep the unicycle stable on the wire. They need to be highly focused and ready to respond to challenges posed by external factors such as wind, vibrations or small changes in their own posture. Even the slightest imbalance can cause a performer to fall or lose their balance.
+
+We're building a unicycle robot today with the Nezha Inventor's Kit V2.
 
 ![](./images/nezha-inventors-kit-v2-case-04-01.png)
 
-## Purchase Link
+## Teaching Objectives
+
+- Understand the working principles of belt drives, including the basic concepts of transferring forces and motion.
+- Understand the influence of the centre of gravity on the balance and stability of an object.
+- Learn to make wire-walking unicycle figures using building blocks and understand the principles.
+- Develop creativity, problem solving skills and teamwork.
+
+## Teaching Preparation
+
+[Nezha Inventor's Kit V2](https://www.elecfreaks.com/nezha-inventor-s-kit-v2-for-micro-bit.html)
+
+
+## Teaching Process
+
+### Introduce
+
+>Introduce students to the background and objectives of unicycle robot building to stimulate their interest and curiosity.
+
+Hello everyone! Today I am going to share a very interesting topic with you - unicycle tightrope walking. Have you ever heard of unicycle tightrope walking? It is an amazing performance that requires the athlete to maintain balance and ride a unicycle on a high wire. This performance requires the athlete to have excellent balance, control and courage.
+Now, I would like to discuss a question with you: how can we make unicycles walk the tightrope more safely and steadily? Ever wondered if it is possible to build a robot to do this? This way, we can ensure the stability of the performance and also keep the athletes away from potential dangers.
+Imagine if we could create an intelligent robot that could ride a unicycle, balance on a tightrope, perform various manoeuvres and maybe even do some incredible tricks. Such a robot would be able to demonstrate human skill and courage without being too dangerous.
+Now, I would like to know, are you interested in making a robot that walks a tightrope on a unicycle? What do you think are the challenges and opportunities of this project? Let's explore and undertake this fun learning journey together!
+
+### Exploration
+
+>In groups, get students thinking about how to build a unicycle robot from block materials, focusing on belt drives and the effect of the centre of gravity on balance.
+
+- What is a belt drive and what are the applications of belt drives in life, e.g. travelling cars, conveyor belts, etc;
+- The characteristics and advantages of belt drives;
+- The effect of the centre of gravity on balance and stability;
+- The design of the robotic arm can be based on your own ideas and creativity, but attention should be paid to the stability and feasibility of the structure.
+
+### Practice
+
+>Work in groups to create a unicycle robot from block materials according to your own design.
+
+Build a unicycle robot out of building blocks according to your own design.
 
 
 
-## Quick Start
+#### Examples 
 
-### Build Steps
+##### Building Steps
 
 ![](./images/nezha-inventors-kit-v2-step-04-01.png)
 
@@ -110,38 +150,42 @@ Make a unicycle robot that walks a wire rope.
 
 ![](./images/nezha-inventors-kit-v2-step-04-45.png)
 
-### Hardware Connection
+**Completed**
 
-Connect the motor to the M1 interface of the Nezha expansion board.
+![](./images/nezha-inventors-kit-v2-case-04-01.png)
+
+##### Hardware Connection
+
+Connect the motor to the M1 connector of the Nezha expansion board.
 
 ![](./images/nezha-inventors-kit-v2-case-07-02.png)
 
-### Software Programming
+##### Programming
 
-Open programming platform: [makecode](https://makecode.microbit.org/#)
+Go to [makecode](https://makecode.microbit.org/#)
 
-New Project
+Create new projects
 
 ![](./images/nezha-inventors-kit-v2-case-19-03.png)
 
-Click Extension
+Click extensions
 
 ![](./images/nezha-inventors-kit-v2-case-19-04.png)
 
 
 
-Search `nezha` in the search bar to add the expansion library for Nezha expansion boards
+Search with `nezha` to download the package. 
 
 ![](./images/nezha-inventors-kit-v2-case-19-06.png)
 
-Program
+Code
 
 ![](./images/nezha-inventors-kit-v2-case-04-07.png)
 
 
 Link: [https://makecode.microbit.org/_0oHP56URsakT](https://makecode.microbit.org/_0oHP56URsakT)
 
-You can also download the program directly from the following pages.
+You may download it directly:
 
 <div
     style={{
@@ -162,8 +206,18 @@ You can also download the program directly from the following pages.
     />
 </div>
 
-### Result
 
-Press A on the micro:bit to start the robot riding, and press B on the micro:bit to stop the robot riding.
+### Demonstration
+
+>Present in groups and have each group's robot start walking the tightrope and compare the results and effectiveness of each group.
+
+#### Result
+
+
+Press the A button on the micro:bit to start the robot riding, press the B button on the micro:bit to stop the robot riding.
 
 ![](./images/nezha-inventors-kit-v2-case-04.gif)
+
+###  Reflection
+
+>Share in groups so that students in each group can share their production process and insights, summarise the problems and solutions they encountered, and evaluate their strengths and weaknesses.

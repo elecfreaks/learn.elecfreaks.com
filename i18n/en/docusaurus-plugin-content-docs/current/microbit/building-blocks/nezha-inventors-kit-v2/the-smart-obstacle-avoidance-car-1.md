@@ -2,23 +2,60 @@
 sidebar_position: 26
 ---
 
-# Case 25 The Smart Obstacle Avoidance Car 1
+# Case 25 The Obstacle Avoidance Car 1
 
 ## Introduction
 
-Make a smart obstacle avoidance car.
+In this course, we will work together to build a smart obstacle avoidance vehicle, using the Nezha Inventor's Kit V2 and ultrasonic sound sensors to enable the vehicle to automatically detect and avoid obstacles in front of it. Through this project, we will learn how ultrasonic sound sensors work and apply them to the design and construction of real robots.
 
 
 
 ![](./images/nezha-inventors-kit-v2-case-25-01.png)
 
-## Purchase Link
 
 
+## Teaching Objectives
 
-## Quick Start
+- Learn how ultrasonic sound sensors work and their applications
+- Learn to build robots using Nezha Inventor's Kit V2
+- Develop problem solving and creative thinking skills
+- Master basic programming concepts and graphical programming tools
 
-### Build Steps
+
+## Teaching Preparation
+
+[Nezha Inventor's Kit V2](https://www.elecfreaks.com/nezha-inventor-s-kit-v2-for-micro-bit.html)
+
+
+## Teaching Process
+
+### Introduce
+
+>Introduce students to the background and objectives of making a smart obstacle avoidance vehicle to stimulate their interest and curiosity.
+
+In real life, there are many robots that use ultrasonic sensors to sense their surroundings and make appropriate movements based on the detected obstacles. Are you curious about how an ultrasonic sensor works? How can it be used to create an intelligent obstacle avoidance vehicle?
+
+In this course, we will take an in-depth look at how ultrasonic sensors work and apply them to robot design. We will use Nezha Inventor's Kit V2 to build a robot prototype of a smart obstacle avoidance vehicle and connect the ultrasonic sensor. Through learning and practice, we will explore how to write programs that enable the robot to make intelligent obstacle avoidance movements based on the data from the ultrasonic sensors.
+
+Now, let's kick off this fun and challenging STEAM project by exploring how ultrasonic sensors work, getting creative and developing problem-solving and creative thinking skills! Are you ready? Let's get started!
+
+### Exploration
+
+>Discuss in small groups and get students thinking about how they can make a smart obstacle avoidance car using block materials.
+
+- How does an ultrasonic sensor work? How does it measure distance?
+- How can the ultrasonic sensor be combined with the Nezha Inventor Kit V2 to enable the robot to detect obstacles ahead?
+- How can the robot be programmed to make appropriate movements to avoid obstacles based on the data from the ultrasonic sensor?
+
+### Practice
+
+>Work in groups to create a smart obstacle-avoidance car from block materials according to your own design.
+
+Follow your own design to create a smart obstacle-avoidance car out of building blocks.
+
+#### Examples
+
+##### Assembly Steps
 
 ![](./images/nezha-inventors-kit-v2-step-25-01.png)
 
@@ -57,41 +94,44 @@ Make a smart obstacle avoidance car.
 ![](./images/nezha-inventors-kit-v2-step-25-18.png)
 
 
+**Completed**
 
-### Hardware connection
+![](./images/nezha-inventors-kit-v2-case-25-01.png)
 
-Connect the ultrasonic sound sensor to the J1 interface, and the motors to the M1 and M4 interfaces of the Nezha expansion board.
+##### Hardware Connection
+
+Connect the ultrasonic sound sensor to the J1 and the motors to the M1 and M4 connectors of the Nezha expansion board.
 
 ![](./images/nezha-inventors-kit-v2-case-25-02.png)
 
-### Software Programming
+##### Programming
 
-Open the programming platform: [makecode](https://makecode.microbit.org/#)
+Go to [makecode](https://makecode.microbit.org/#)
 
-New project
+Create new projects
 
 ![](./images/nezha-inventors-kit-v2-case-19-03.png)
 
-Click Extension
+Click extensions
 
 ![](./images/nezha-inventors-kit-v2-case-19-04.png)
 
-Search `PlanetX` in the search bar to add an extended library of PlanetX sensors
+Search with `PlanetX` to download the package.
 
 ![](./images/nezha-inventors-kit-v2-case-19-05.png)
 
-Search `nezha` in the search bar to add the expansion library for Nezha expansion boards
+Search with `nezha` to download the package.
 
 ![](./images/nezha-inventors-kit-v2-case-19-06.png)
 
-Program
+Code
 
 ![](./images/nezha-inventors-kit-v2-case-25-07.png)
 
 
-Link:[https://makecode.microbit.org/_Ab3EyVLy7Cit](https://makecode.microbit.org/_Ab3EyVLy7Cit)
+Link: [https://makecode.microbit.org/_Ab3EyVLy7Cit](https://makecode.microbit.org/_Ab3EyVLy7Cit)
 
-You can also download the program directly from the pages below.
+You may download it directly:
 
 <div
     style={{
@@ -112,8 +152,16 @@ You can also download the program directly from the pages below.
     />
 </div>
 
-### Result
+### Demonstration
 
-When there is an obstacle blocking the car, the car will turn and drive.
+>Presented in groups, students test, tune and optimise their robots to improve the accuracy and stability of obstacle avoidance and compare the results and effectiveness of each group.
+
+#### Result
+
+When there is an obstacle in the way of the trolley, the trolley will turn to travel.
 
 ![](./images/nezha-inventors-kit-v2-case-25.gif)
+
+### Reflection
+
+>Share in groups so that students in each group can share their production process and insights, summarise the problems and solutions they encountered, and evaluate their strengths and weaknesses.

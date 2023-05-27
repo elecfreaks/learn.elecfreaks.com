@@ -6,17 +6,53 @@ sidebar_position: 6
 
 ## Introduction
 
-Make a kaleidoscope robot that can draw.
+Kaleidoscope painting is an art form inspired by traditional kaleidoscope installations. In this type of painting, artists use a variety of colourful materials and techniques to create fascinating kaleidoscopic effects. They create optical illusions and visual feasts through detailed patterns, cyclical geometric shapes and strong colour contrasts. Kaleidoscope paintings often reveal gorgeous and mysterious images that bring the viewer a psychedelic and wondrous artistic experience.
+
+In this lesson, students will learn how to use the Nezha Inventor's Kit V2 to create a kaleidoscopic robot that can draw different patterns. Through this case, we will learn the principles of motor control, programming concepts and the integration of art and science. Through hands-on building and practice, students will develop creativity, problem-solving skills and teamwork.
 
 ![](./images/nezha-inventors-kit-v2-case-05-01.png)
 
-## Purchase Link
+## Teaching Objectives 
+
+- Understand how motors work and how they are controlled.
+- Master the basic skills of building kaleidoscopic robots using blocks.
+- Learn to control the speed of the motor through programming to achieve different patterns to draw.
+- Develop creativity, problem solving skills and teamwork.
 
 
+## Teaching Preparation
 
-## Quick Start
+[Nezha Inventor's Kit V2](https://www.elecfreaks.com/nezha-inventor-s-kit-v2-for-micro-bit.html)
 
-### Build Steps
+
+## Teaching Process
+
+### Introduce
+
+>Introduce students to the background and objectives of Kaleidoscope Robotics to stimulate their interest and curiosity.
+
+Kaleidoscope painting is an art form inspired by traditional kaleidoscope installations. In this type of painting, artists use a variety of colourful materials and techniques to create fascinating kaleidoscopic effects. They create optical illusions and visual feasts through detailed patterns, cyclical geometric shapes and strong colour contrasts. Kaleidoscope paintings often reveal gorgeous and mysterious images that bring the viewer a psychedelic and fantastic artistic experience.
+
+If we could create a robot to paint kaleidoscope patterns, how do you think it would work? Have you thought about how to control the movement of the robot and draw different patterns?
+
+### Exploration 
+
+>In small groups, students will be asked to think about how to create a kaleidoscope robot using block materials, focusing on the relationship between the kaleidoscope pattern and the movement of the motor.
+
+- Understand how motors work and how they are controlled.
+- Master the basic skills of building a kaleidoscopic robot using blocks.
+- Learn to control the speed of the motor through programming to achieve different patterns to draw.
+- Develop creativity, problem solving skills and teamwork.
+
+### Practice
+
+>Work in groups to create a kaleidoscopic robot using block materials according to your own design plan.
+
+Create a kaleidoscope robot out of building blocks according to your own design.
+
+#### Examples
+
+##### Assembly Steps
 
 ![](./images/nezha-inventors-kit-v2-step-05-01.png)
 
@@ -54,38 +90,42 @@ Make a kaleidoscope robot that can draw.
 
 ![](./images/nezha-inventors-kit-v2-step-05-18.png)
 
+**Completed**
 
-### Hardware Connection
+![](./images/nezha-inventors-kit-v2-case-05-01.png)
 
-Connect the motors to the M1 and M2 interface of the Nezha expansion board.
+
+##### Hardware Connections
+
+Connect the motors to M1 and M2 port on Nezha expansion board. 
 
 ![](./images/nezha-inventors-kit-v2-case-05-02.png)
 
-### Software Programming
+##### Programming
 
-Open programming platform: [makecode](https://makecode.microbit.org/#)
+Go to [makecode](https://makecode.microbit.org/#)
 
-New Project
+Create new projects
 
 ![](./images/nezha-inventors-kit-v2-case-19-03.png)
 
-Click Extension
+Click extensions
 
 ![](./images/nezha-inventors-kit-v2-case-19-04.png)
 
 
-Search `nezha` in the search bar to add the expansion library for Nezha expansion boards
+Search with `nezha` to download the package. 
 
 ![](./images/nezha-inventors-kit-v2-case-19-06.png)
 
-Program
+Code
 
 ![](./images/nezha-inventors-kit-v2-case-05-07.png)
 
 
-Link:[https://makecode.microbit.org/_6XtEUqLd3UFL](https://makecode.microbit.org/_6XtEUqLd3UFL)
+Link: [https://makecode.microbit.org/_6XtEUqLd3UFL](https://makecode.microbit.org/_6XtEUqLd3UFL)
 
-You can also download the program directly from the following pages.
+You can download it directly below: 
 
 <div
     style={{
@@ -106,8 +146,18 @@ You can also download the program directly from the following pages.
     />
 </div>
 
-### Result
 
-Press A on the micro:bit to start the robot drawing, and press B on the micro:bit to stop the robot drawing.
+
+### Demonstration
+
+>Present in groups and have each group of robots draw their own kaleidoscope and compare the results and outcomes of each group.
+
+#### Examples
+
+Press the A button on the micro:bit to start the robot drawing, press the B button on the micro:bit to stop.
 
 ![](./images/nezha-inventors-kit-v2-case-05.gif)
+
+### Reflection
+
+>Share in groups so that students in each group can share their production process and insights, summarise the problems and solutions they encountered, and evaluate their strengths and weaknesses.

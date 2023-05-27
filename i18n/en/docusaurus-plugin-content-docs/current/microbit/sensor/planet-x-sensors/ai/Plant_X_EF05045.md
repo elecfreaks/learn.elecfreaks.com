@@ -3,7 +3,9 @@
 ## Introduction
 
 
-The AI Lens is able to achieve the functions of face recognition, balls tracking, cards recognition and characteristics acquisition.
+The PlanetX Smart AI lens Kit is able to achieve the functions of face recognition, color recognition, balls tracking, cards recognition, line-tracking and characteristics learning. It has integrated the complex artificial intelligence concepts with hardwares for students to comprehend and perceive easily.
+
+The AI training can be completed with just one button, getting rid of tedious training and complex visual algorithms, allowing you to focus more on the idea and realization of the project.
 
 ![](./images/05035_01.png)
 

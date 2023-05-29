@@ -196,7 +196,7 @@ import nezha_inventors_kit_v2_case_32_01_Icon from './images/nezha-inventors-kit
     img={nezha_inventors_kit_v2_case_21_01_Icon}
   />
   <card
-    href="./tthe-forklift-2/"
+    href="./the-forklift-2/"
     title="叉车2"
     description="叉车是一种能够搬运和举升物体的机械装置。在本课程中，我们将学习齿条传动的知识点，并通过使用哪吒发明家套装V2制作一个简单的叉车模型。我们将探索齿条传动的原理和应用，了解它在叉车装置中的作用。"
     img={nezha_inventors_kit_v2_case_22_01_Icon}

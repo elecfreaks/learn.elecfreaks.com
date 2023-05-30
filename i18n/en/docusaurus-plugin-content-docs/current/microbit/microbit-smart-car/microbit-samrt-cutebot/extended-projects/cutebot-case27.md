@@ -76,7 +76,13 @@ Build steps：
 
 ![](./images/cutebot-case-27-step-26.png)
 
+### Build complete
+
 ![](./images/cutebot-case-27-01.png)
+
+![](./images/cutebot-case-27-02.png)
+
+![](./images/cutebot-case-27-03.png)
 
 
 ## Connection method
@@ -168,3 +174,5 @@ You can also download the program directly from the following webpage.
 ## Result
 
 If you control the driving direction of the car by the rocker of the remote control, press the C/D button of the remote control to control the servo action.
+
+![](./images/cutebot-case-27.gif)

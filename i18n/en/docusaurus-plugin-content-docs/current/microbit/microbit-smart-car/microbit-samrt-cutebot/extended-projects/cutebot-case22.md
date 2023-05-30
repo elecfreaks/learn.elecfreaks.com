@@ -17,6 +17,14 @@ Use a cutebot smart car with mechanical claws to create a car with the ability t
 
 ![](./images/cutebot-claw-01.png)
 
+### Installation complete
+
+![](./images/cutebot-claw-22-01.png)
+
+![](./images/cutebot-claw-22-02.png)
+
+![](./images/cutebot-claw-22-03.png)
+
 ### Connection methods:
 
 Connect the mechanical claw to the S1 interface of the Cutebot car.
@@ -103,6 +111,7 @@ You can also download the program directly from the following webpage.
 
 If the moving direction of the car is controlled by the joystick, press the C/D button of the remote control to control the opening and grasping of the mechanical claw.
 
+![](./images/cutebot-case-22.gif)
 
 ## Exploration
 

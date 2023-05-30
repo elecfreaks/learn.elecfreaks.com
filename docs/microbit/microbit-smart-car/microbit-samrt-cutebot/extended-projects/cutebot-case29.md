@@ -47,7 +47,13 @@ n × 积木零件（积木零件需要自行准备）
 
 ![](./images/cutebot-case-29-step-11.png)
 
+### 搭建完成
+
 ![](./images/cutebot-case-29-01.png)
+
+![](./images/cutebot-case-29-02.png)
+
+![](./images/cutebot-case-29-03.png)
 
 
 

@@ -4,6 +4,8 @@
 
 使用cutebot智能赛车搭配机械爪来制作一辆拥有抓取物品功能的小车。
 
+![](./images/cutebot-claw-22-01.png)
+
 ## 使用材料
 
 1 × [Cutebot 智能赛车](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -17,6 +19,14 @@
 ### 机械爪安装步骤：
 
 ![](./images/cutebot-claw-01.png)
+
+### 安装完成
+
+![](./images/cutebot-claw-22-01.png)
+
+![](./images/cutebot-claw-22-02.png)
+
+![](./images/cutebot-claw-22-03.png)
 
 ### 机械爪连线方式：
 

@@ -78,7 +78,13 @@ n × 积木零件（积木零件需要自行准备）
 
 ![](./images/cutebot-case-27-step-26.png)
 
+### 搭建完成
+
 ![](./images/cutebot-case-27-01.png)
+
+![](./images/cutebot-case-27-02.png)
+
+![](./images/cutebot-case-27-03.png)
 
 
 ## 连线方式

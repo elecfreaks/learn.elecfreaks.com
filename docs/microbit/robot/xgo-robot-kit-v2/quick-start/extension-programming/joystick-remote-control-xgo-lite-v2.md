@@ -19,7 +19,7 @@ sidebar_label: Joysticks 手柄遥控 XGO-lite V2
 
 ## 开始编程
 
-Joystick:bit V2 与 micro:bit XGO Robot Kit V2 都是使用 micro:bit 为主控制器，可以基于 micro:bit V2 的蓝牙功能，让两块主控制器之间可以进行相互通信。所以，本教程将通过图形化编程平台：MakeCode 对两款设备进行编程。请打开makecode平台官网链接：[MakeCode](https://makecode.microbit.org/#). 并按下面操作方式进行编程环境准备。
+Joystick:bit V2 与 micro:bit XGO Robot Kit V2 都是使用 micro:bit 为主控制器，可以基于 micro:bit V2 的蓝牙功能，让两块主控制器之间可以进行相互通信。所以，本教程将通过图形化编程平台：MakeCode 对两款设备进行编程。请打开 makecode 平台官网链接：[MakeCode](https://makecode.microbit.org/#). 并按下面操作方式进行编程环境准备。
 
 ![](./../../images/microbit-xgo-lite-v2-makecode-01.png)
 
@@ -31,11 +31,11 @@ Joystick:bit V2 与 micro:bit XGO Robot Kit V2 都是使用 micro:bit 为主控�
 
 
 
-2. 点击**扩展**并在搜索栏搜索**XGO**，选择XGO库，即可将XGO库加载到makecode平台编程环境
+2. 点击**扩展**并在搜索栏搜索 **XGO**，选择 XGO 库，即可将 XGO 库加载到 makecode 平台编程环境
 
-   
 
-   ![](./../../images/microbit-xgo-lite-v2-makecode-03.png)
+
+![](./../../images/microbit-xgo-lite-v2-makecode-03.png)
 
 ![](./../../images/microbit-xgo-lite-v2-makecode-03-1.png)
 

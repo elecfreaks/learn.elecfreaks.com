@@ -53,9 +53,9 @@ sidebar_label: XGO-lite V2耳朵-语音识别传感器
 
 2. 点击**扩展**并在搜索栏搜索**XGO**，选择XGO库，即可将XGO库加载到makecode平台编程环境
 
-   
 
-   ![](./../../images/microbit-xgo-lite-v2-makecode-03.png)
+
+![](./../../images/microbit-xgo-lite-v2-makecode-03.png)
 
 ![](./../../images/microbit-xgo-lite-v2-makecode-03-1.png)
 
@@ -72,4 +72,3 @@ sidebar_label: XGO-lite V2耳朵-语音识别传感器
 编程示例程序链接：https://makecode.microbit.org/_e0YKKbMAAd3p
 
 ## 演示
-

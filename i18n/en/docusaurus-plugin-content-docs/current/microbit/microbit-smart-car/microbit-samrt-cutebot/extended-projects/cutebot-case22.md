@@ -19,7 +19,7 @@ Use a cutebot smart car with mechanical claws to create a car with the ability t
 
 ### Installation complete
 
-![](./images/cutebot-claw-22-01.png)
+
 
 ![](./images/cutebot-claw-22-02.png)
 

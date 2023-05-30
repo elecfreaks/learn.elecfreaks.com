@@ -59,7 +59,7 @@ Build steps：
 
 ### Build complete
 
-![](./images/cutebot-case-28-01.png)
+
 
 ![](./images/cutebot-case-28-02.png)
 

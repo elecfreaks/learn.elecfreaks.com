@@ -22,7 +22,7 @@
 
 ### 安装完成
 
-![](./images/cutebot-claw-22-01.png)
+
 
 ![](./images/cutebot-claw-22-02.png)
 

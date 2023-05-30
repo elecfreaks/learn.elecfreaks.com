@@ -78,8 +78,6 @@ Build steps：
 
 ### Build complete
 
-![](./images/cutebot-case-27-01.png)
-
 ![](./images/cutebot-case-27-02.png)
 
 ![](./images/cutebot-case-27-03.png)

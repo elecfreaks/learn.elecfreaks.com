@@ -24,7 +24,7 @@ XGO Robot Kit V2 内置6轴IMU、关节位置传感器与电流传感器反馈�
 
 ### 搭配功能强大的 XGO Adapter 扩展板
 
-XGO Adapter 扩展板功能强大，兼容多种主板，包括micro:bit v2、pico:ed v2等。它扩展出常用的 GPIO 接口与 IIC 接口，可以与行星系列传感器和 Octopus 系列传感器搭配使用，比如 AI 摄像头、语音识别传感器、彩虹灯环等，而且XGO-lite V2 机身有积木定位孔，可以与积木配合使用，探索出更多智能有趣的应用案例。
+XGO Adapter 扩展板功能强大，兼容多种主板，包括 micro:bit v2、pico:ed v2 等。它扩展出常用的 GPIO 接口与 IIC 接口，可以与行星系列传感器和 Octopus 系列传感器搭配使用，比如 AI 摄像头、语音识别传感器、彩虹灯环等，而且 XGO-lite V2 机身有积木定位孔，可以与积木配合使用，探索出更多智能有趣的应用案例。
 
 ![](./images/microbit-xgo-lite2-introduce-03.png)
 
@@ -56,9 +56,9 @@ XGO Robot Kit V2 机身以及大腿采用铝合金外壳，表面覆盖阳极氧
 
 ![](./images/microbit-xgo-lite2-introduce-08.png)
 
-### IMU姿态自稳
+### IMU 姿态自稳
 
-通过IMU获得的姿态数据，采用闭环控制的方式，无论平面如何晃动，机器狗都保持稳定。
+通过 IMU 获得的姿态数据，采用闭环控制的方式，无论平面如何晃动，机器狗都保持稳定。
 
 ![](./images/microbit-xgo-lite2-introduce-08.gif)
 

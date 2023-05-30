@@ -9,7 +9,7 @@ sidebar_label: XGO APP 操控 XGO-lite V2 体验
 
 我们希望您在开始 XGO-lite V2 的编程学习之前，可以先通过移动端的 XGO App 操作 XGO-lite V2 移动，来切身感受 XGO-lite V2 的运动方式，大致了解 XGO-lite V2 能做什么以及需要注意的方面。
 
-本教程将带您从下载 XGO App开始，到最后熟练的通过 XGO App操控 XGO-lite V2 达到想要的效果，那我们开始吧。
+本教程将带您从下载 XGO App 开始，到最后熟练的通过 XGO App 操控 XGO-lite V2 达到想要的效果，那我们开始吧。
 
 ## 使用材料
 
@@ -27,10 +27,10 @@ sidebar_label: XGO APP 操控 XGO-lite V2 体验
 
 **注意**：
 
-1. 截至该教程编写完成日期，所使用的XGO APP版本号为：2.4.0，请保证下载的XGO APP版本不低于2.4.0。
+1. 截至该教程编写完成日期，所使用的 XGO APP 版本号为：2.4.0，请保证下载的 XGO APP 版本不低于2.4.0。
 
-2. 安装XGO APP完成后，请在设置中将XGO APP的权限打开，包括：位置信息、附近的设备，否则可能会搜索不到XGO-lite V2。
-3. XGO APP还在逐渐完善中，若您在使用过程中遇到问题，请反馈给我们，售后邮箱地址：support@elecfreakc.com。
+2. 安装 XGO APP 完成后，请在设置中将 XGO APP 的权限打开，包括：位置信息、附近的设备，否则可能会搜索不到 XGO-lite V2。
+3. XGO APP 还在逐渐完善中，若您在使用过程中遇到问题，请反馈给我们，售后邮箱地址：support@elecfreakc.com。
 
 ### 连接 XGO-lite V2
 

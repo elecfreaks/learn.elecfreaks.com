@@ -37,7 +37,7 @@ micro:bit Retro Arcade 与 micro:bit XGO Robot Kit V2 都是使用 micro:bit 为
 
 2.  点击**扩展**并在搜索栏搜索**XGO**，选择XGO库，即可将XGO库加载到makecode平台编程环境
 
-   ![](./../../images/microbit-xgo-lite-v2-makecode-03.png)
+![](./../../images/microbit-xgo-lite-v2-makecode-03.png)
 
 ![](./../../images/microbit-xgo-lite-v2-makecode-03-1.png)
 

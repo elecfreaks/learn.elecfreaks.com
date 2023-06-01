@@ -45,7 +45,7 @@ Joystick:bit V2 与 micro:bit XGO Robot Kit V2 都是使用 micro:bit 为主控�
 
 
 
-XGO-lite V2 编程示例程序链接：https://makecode.microbit.org/_Cc2g7qHrk45T
+XGO-lite V2 编程示例程序链接：https://makecode.microbit.org/_T55RLo30xTLo
 
 ### Joystick:bit V2 编程环境准备
 
@@ -61,7 +61,7 @@ Joystick:bit V2 创建编程项目文件与 XGO-lite V2 创建编程项目文件
 
 
 
-Joystick:bit V2 编程示例程序链接：https://makecode.microbit.org/_bU0LPbJd3Yer
+Joystick:bit V2 编程示例程序链接：https://makecode.microbit.org/_WVyPzkFrReDq
 
 
 

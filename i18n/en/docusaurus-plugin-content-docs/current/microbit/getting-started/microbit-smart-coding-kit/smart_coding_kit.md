@@ -18,6 +18,8 @@ Upgrade the function by adding a switch for the buzzer.
 
 ## Assembling Diagram
 
+*** Note: CR2025 type battery must be used for power supply. If the battery type is inconsistent, it will cause the battery holder to be crushed and the pads to fall off. ***
+
  Install two 3V 2025 cells to the battery holder.
 
 ![](./images/smart_coding_kit_01.png)

@@ -43,7 +43,7 @@ The micro:bit Retro Arcade and micro:bit XGO Robot Kit V2 both use the micro:bit
 
 ![](./../../images/microbit-xgo-lite-v2-makecode-03-6.png)
 
-Link: https://makecode.microbit.org/_D7v5cAAbcfp2
+Link: https://makecode.microbit.org/_ddT6ypdu34Ap
 
 ### Retro Arcade Programming environment preparation
 
@@ -65,11 +65,11 @@ Enter "radio" in the search bar and click Search to add the extension library.
 
 ### Retro Arcade Program Example
 
-![](./../../images/microbit-retro-arcade-27.png)
+![](./../../images/microbit-xgo-lite-v2-makecode-03-7.png)
 
 
 
-Link: https://makecode.com/_X4EMpJXhv8AR
+Link: https://makecode.com/_T7FgaeRe294M
 
 As far as the official Arcade platform is concerned, micro:bit V2 (nRF52833) is still in the testing stage, so we need to go to the platform’s settings page to open the hardware options that are still in the experimental version.
 

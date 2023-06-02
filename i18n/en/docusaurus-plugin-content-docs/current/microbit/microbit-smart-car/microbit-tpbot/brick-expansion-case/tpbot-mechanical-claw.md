@@ -107,7 +107,7 @@ While `on start`, set to show an icon, while pressing button A, set the servo co
 
 ### Program
 
-Reference link: [https://makecode.microbit.org/_c0e6ii2PXW9L](https://makecode.microbit.org/_c0e6ii2PXW9L)
+Reference link: [https://makecode.microbit.org/_KkpX7WXgicLp](https://makecode.microbit.org/_KkpX7WXgicLp)
 
 You may download it directly here:
 
@@ -119,7 +119,7 @@ You may download it directly here:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_c0e6ii2PXW9L"
+        src="https://makecode.microbit.org/_KkpX7WXgicLp"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

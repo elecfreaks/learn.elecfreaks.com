@@ -105,7 +105,7 @@ sidebar_label: TPbot机械爪
 
 ### 程序
 
-请参考程序连接：[https://makecode.microbit.org/_c0e6ii2PXW9L](https://makecode.microbit.org/_c0e6ii2PXW9L)
+请参考程序连接：[https://makecode.microbit.org/_FzL3uY6ojM8C](https://makecode.microbit.org/_FzL3uY6ojM8C)
 
 你也可以通过以下网页直接下载程序。
 
@@ -117,7 +117,7 @@ sidebar_label: TPbot机械爪
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_c0e6ii2PXW9L"
+        src="https://makecode.microbit.org/_FzL3uY6ojM8C"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

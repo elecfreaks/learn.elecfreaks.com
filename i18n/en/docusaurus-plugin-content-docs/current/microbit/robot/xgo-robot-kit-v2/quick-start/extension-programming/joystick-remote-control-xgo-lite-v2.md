@@ -43,7 +43,7 @@ Joystick:bit V2 and micro:bit XGO Robot Kit V2 both use the micro:bit as the mai
 
 
 
-XGO-lite V2 programming sample program, link https://makecode.microbit.org/_Cc2g7qHrk45T
+XGO-lite V2 programming sample program, link：https://makecode.microbit.org/_Cc2g7qHrk45T
 
 ### Joystick:bit V2 Programming environment preparation
 

@@ -45,7 +45,7 @@ micro:bit Retro Arcade 与 micro:bit XGO Robot Kit V2 都是使用 micro:bit 为
 
 ![](./../../images/microbit-xgo-lite-v2-makecode-03-6.png)
 
-程序链接：https://makecode.microbit.org/_D7v5cAAbcfp2
+程序链接：https://makecode.microbit.org/_ddT6ypdu34Ap
 
 ### Retro Arcade 编程环境准备
 
@@ -67,11 +67,11 @@ micro:bit Retro Arcade 与 micro:bit XGO Robot Kit V2 都是使用 micro:bit 为
 
 ### Retro Arcade 程序示例
 
-![](./../../images/microbit-retro-arcade-27.png)
+![](./../../images/microbit-xgo-lite-v2-makecode-03-7.png)
 
 
 
-程序链接：https://makecode.com/_X4EMpJXhv8AR
+程序链接：https://makecode.com/_T7FgaeRe294M
 
 由于目前对于Arcade平台官方而言，micro:bit V2（nRF52833）还在测试阶段，所以我们需要首先去到平台的设置页面将还在试验版本的硬件选项开放出来。
 

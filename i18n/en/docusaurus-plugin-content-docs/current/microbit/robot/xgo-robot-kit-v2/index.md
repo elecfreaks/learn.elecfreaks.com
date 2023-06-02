@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: XGO Robot Suit V2 - micro:bit version
+sidebar_label: micro:bit XGO Robot kit V2
 ---
 
 ## XGO Robot Kit V2 Introduction

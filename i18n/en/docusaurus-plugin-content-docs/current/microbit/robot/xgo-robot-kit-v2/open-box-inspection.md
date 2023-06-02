@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: micro:bit XGO Robot Kit V2 unboxing self-test
+sidebar_label: Unboxing self-test
 ---
 
 

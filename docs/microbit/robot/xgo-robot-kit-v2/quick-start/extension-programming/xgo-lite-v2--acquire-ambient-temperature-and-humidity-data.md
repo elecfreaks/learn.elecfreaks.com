@@ -73,3 +73,4 @@ sidebar_label: XGO-lite V2 获取周围环境温湿度数据
 
 ## 演示
 
+![](./../../images/microbit-xgo-lite-v2-DHT11-06.gif)

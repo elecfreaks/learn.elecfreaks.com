@@ -68,3 +68,4 @@ sidebar_label: XGO APP 操控 XGO-lite V2 体验
 
 ## 演示
 
+![](./../images/microbit-xgo-lite-v2-app-12.gif)

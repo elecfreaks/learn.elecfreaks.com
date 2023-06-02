@@ -69,3 +69,4 @@ Link: https://makecode.microbit.org/_KksKV6Hz7h5H
 
 ## Demo
 
+![](./../../images/microbit-xgo-lite-v2-DHT11-06.gif)

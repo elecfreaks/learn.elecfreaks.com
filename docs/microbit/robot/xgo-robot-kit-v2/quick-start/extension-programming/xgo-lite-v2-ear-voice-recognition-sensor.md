@@ -72,3 +72,5 @@ sidebar_label: XGO-lite V2耳朵-语音识别传感器
 编程示例程序链接：https://makecode.microbit.org/_e0YKKbMAAd3p
 
 ## 演示
+
+![](./../../images/microbit-xgo-lite-v2-voice-06.gif)

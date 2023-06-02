@@ -66,3 +66,5 @@ Joystick:bit V2 编程示例程序链接：https://makecode.microbit.org/_WVyPzk
 
 
 ## 案例演示
+
+![](./../../images/microbit-xgo-lite-v2-makecode-0113.gif)

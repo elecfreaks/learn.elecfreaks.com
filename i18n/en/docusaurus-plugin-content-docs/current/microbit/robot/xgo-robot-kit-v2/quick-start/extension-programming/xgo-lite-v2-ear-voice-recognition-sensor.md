@@ -73,3 +73,4 @@ Link: https://makecode.microbit.org/_e0YKKbMAAd3p
 
 ## Demo
 
+![](./../../images/microbit-xgo-lite-v2-voice-06.gif)

@@ -23,4 +23,4 @@ sidebar_label: 准备工作
 
 当机器狗电量过低时，机器狗开关按键的环形灯闪烁并趴下，此时代表机器狗需要充电。将锂电池专用充电器插入机器狗腹部的充电口，约2小时可以充满，充电时充电器指示灯为红色，充满变成绿色。
 
-![](./images/microbit-xgo-lite-v2-dian-01.png)
+![](./images/microbit-xgo-lite-v2-dian-01.gif)

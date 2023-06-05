@@ -56,7 +56,7 @@ Press the power switch on the back, the ring light flashes slowly, the robot dog
 
 ##### Smartphone Remote Detection
 
-If the operating system of your smartphone is Android, you can search for "XGO" through **Baidu Mobile Assistant** and install it; after the installation is complete, open the XGO APP startup interface as shown in the figure:
+If the operating system of your smartphone is Android, you can search for "XGO" through **Gloogle Play** and install it; after the installation is complete, open the XGO APP startup interface as shown in the figure:
 
 ![](.\images\microbit-xgo-lite-v2-app-1.png)
 

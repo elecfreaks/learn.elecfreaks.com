@@ -26,6 +26,27 @@ sidebar_label: 产品参数
 
 - 存储:Micro SD卡32G
 
+![](./images/cm4-xgo-products-01.png)
+
+## AI 模组参数
+
+- Broadcom BCM2711 4核Cortex A72 1.5GHz (ARM v8) 64-bit CPU
+
+- 支持H.265 (HEVC) (最高支持4Kp60解码), H.264 (最高支持1080p60解码, 1080p30编码)
+
+- OpenGL ES 3.0 graphics
+
+- 4个可编程按键
+
+- Micro Hdmi视频输出接口
+
+- Type-C USB接口
+
+- PH2.0 4PIN串口通信及电源接口
+
+![](./images/cm4-xgo-index-03.png)
+
+
 ## 舵机参数
 
 - 型号：总线串口舵机
@@ -45,21 +66,6 @@ sidebar_label: 产品参数
 
 - 马达类型：铁芯
 
-## AI 模组参数
-
-- Broadcom BCM2711 4核Cortex A72 1.5GHz (ARM v8) 64-bit CPU
-
-- 支持H.265 (HEVC) (最高支持4Kp60解码), H.264 (最高支持1080p60解码, 1080p30编码)
-
-- OpenGL ES 3.0 graphics
-
-- 4个可编程按键
-
-- Micro Hdmi视频输出接口
-
-- Type-C USB接口
-
-- PH2.0 4PIN串口通信及电源接口
 
 ## 电池参数
 

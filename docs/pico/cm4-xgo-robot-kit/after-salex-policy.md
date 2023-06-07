@@ -1,39 +1,39 @@
 ---
-sidebar_position: 4
-sidebar_label: After Sales Policies 
+sidebar_position: 3
+sidebar_label: 售后政策
 ---
 
-# After Sales Policies 
+# 售后政策
 
-## Returns and Exchanges
+## 退换货
 
-30 days return or exchange policy. To be eligible for a return for a full refund, your item must be in the same condition as when you received it, unworn or unused, with tags and in its original packaging, or you received a defective item and send ELECFREAKS pictures or a video as proof.
-If there is no quality problem with the product, the return shipping costs and their corresponded taxes/duties request to be covered by consumers.
+30天的退货或者换货政策。要获得全额退款的退货资格，您的商品必须与您收到时的状况是相同的，未磨损或未使用，带有标签，并采用原始包装，或者您收到有缺陷的物品，并向 ELECFREAKS 发送图片或视频为证明。
+如果产品没有质量问题，则退换货运费用户承担。
 
-## Limited Warranty
+## 有限保修
 
-ELECFREAKS warrants only the physical product against normal use and hardware failure for a period of 60 days from the date the goods are shipped out by us.
-Under this limited warranty, if a hardware defect is found and ELECFREAKS receives a valid after-sales claim within the warranty period, ELECFREAKS will, to the extent permitted by law, repair the product free of charge using new or refurbished parts, or replace the product with a new or refurbished product or, with the consent of the user, mail replacement parts for repair by the user. In the event of a hardware failure, these are your sole and exclusive remedies to the extent permitted by law.
-Replacement products or parts assume the remaining warranty period of the original product.
-When replacing a product or part of a product, any replacement item will become your property and the replaced item will become the property of ELECFREAKS.
-Parts supplied by ELECFREAKS to fulfil its warranty obligations must be used for the product for which warranty service is claimed.
+ELECFREAKS 仅保修实物产品，自原始购买者收到零售购买发货日起，60天内不会出现正常使用和硬件故障。
+根据本有限保修，如果发现硬件缺陷且 ELECFREAKS 在保修期内收到有效的售后申请，则在法律允许的范围内，ELECFREAKS 将使用新的或者翻新的零件免费维修产品，或者将产品更换为新的或翻新的产品，或者在征得用户同意后，邮寄更换零件，由用户自行维修。如果出现硬件故障，在法律允许的范围内，这些是您唯一和排他的补救措施。
+更换产品或者部件承担原始产品的剩余保修时间。
+当更换产品或部分产品时，任何替换物品都将成为您的财产，被替换的物品将成为 ELECFREAKS 的财产。
+ELECFREAKS 为履行其保修义务而提供的零件必须用于要求保修服务的产品。
 
-## This Warranty Does Not Apply To
+## 本保修不适用于
 
-- Products or parts that have expired under warranty.
-- Products purchased through unauthorized channels or resold by other buyers.
-- Normal wear and tear that occurs during the use of the product.
-- Failure or damage resulting from incorrect or improper use, maintenance or storage, including improper handling, failure to use the product for its reasonably intended purpose, improper insertion or removal of external equipment, dropping or improper external impact; exposure or exposure to improper temperatures, solvents, acids, alkalis, water intrusion, etc., infestation by insects or rodents or intrusion of foreign objects, resulting in the product or parts damage to the product or its components (e.g. housing, components, wiring, etc.) due to breakage, dust, damage.
-- Failure or damage caused by the installation, repair, alteration, addition or removal by any unauthorised body or person.
-- Damage caused by unauthorised modification, disassembly or removal of the enclosure, or damage caused by failure to follow official manuals or instructions.
-- Products or parts for which you cannot provide a valid receipt or any other document proving the status of the warranty.
-- Faults or damage caused by the use of illegally authorised, non-standard or non-publicly available software.
-- Damage caused by reliability or compatibility problems resulting from the use of unauthorised third party components.
-- Failure or damage caused by force majeure or accident.
-- Damage occurring during shipment back for repair.
-- Other faults or damage not caused by the quality of the product.
-  ELECFREAKS is not responsible for the above mentioned problems. If you encounter any of these problems, please contact the relevant party for a solution.
+- 保修期过的产品或部件;
+- 通过未经授权的渠道购买的产品，或其他买家转售的产品;
+- 产品使用过程中发生的正常磨损和消耗;
+- 故障或损坏是由于不正确或不当使用、维护或储存造成的，包括处理不当、未将产品用于合理的预期目的、外部设备的不当插入或拔出、跌落或不当的外部碰撞;接触或暴露于不适当的温度、溶剂、酸、碱、水侵入等，昆虫或啮齿动物的侵扰或异物的侵入，导致产品或零件（如外壳、组件、布线等）破损、灰尘、损坏;
+- 未经授权的任何机构或人员的安装、维修、更改、添加或移除造成的故障或损坏;
+- 因未经授权修改、拆卸或拆卸外壳而造成的损坏，或因未遵循官方手册或说明而造成的损坏;
+- 您无法提供有效收据或任何其他可以证明保修状态的文件的产品或部件;
+- 因使用非法授权、非标准或非公开可用的软件而造成的故障或损坏;
+- 因使用未经授权的第三方部件而导致的可靠性或兼容性问题造成的损坏;
+- 因不可抗力或事故造成的故障或损坏;
+- 在运回维修途中发生的损坏;
+- 其他非因产品质量原因造成的故障或损坏;
+  ELECFREAKS 不对上述问题承担责任。如果您遇到上述问题，请联系相关方寻求解决方案。
 
-## Special Notes
+## 特别说明
 
-Product packaging, free items, consumables and accessories are not covered by the warranty, but if the product is faulty when first used after purchase, the product can be replaced free of charge.
+产品包装、免费物品、消耗品和配件不在保修范围内，但如果产品在购买后首次使用时出现问题，可以免费更换产品。

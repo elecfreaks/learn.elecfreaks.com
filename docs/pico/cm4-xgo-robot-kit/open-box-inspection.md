@@ -25,7 +25,7 @@ sidebar_label: 开箱自检
 | 快速入门手册                              | 1    |
 | 30mm EVA小球                              | 3    |
 | 25mm 边长木质立方块                       | 3    |
-| Type-C USB Hub                            | 1    |
+| Type-C USB Hub                         | 1    |
 | Micro HDMI 转 HDMI 线                     | 1    |
 | 3.0十字螺丝刀                             | 1    |
 | 2.0十字螺丝刀                             | 1    |

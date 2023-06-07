@@ -40,5 +40,3 @@ XGO-lite V2内置了3自由度机械臂和扬声器。本教程将讲解 XGO-lit
 
 
 编程示例链接：https://makecode.microbit.org/_XfD0D1g53CKj
-
-## 演示

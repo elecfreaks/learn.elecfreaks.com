@@ -21,4 +21,4 @@ Press the power switch on the back, the ring light flashes slowly, the robot dog
 
 When the power of the robot dog is too low, the ring light of the switch button of the robot dog will flash and lie down, which means that the robot dog needs to be charged. Insert the special lithium battery charger into the charging port on the robot dog's abdomen, and it can be fully charged in about 2 hours. The indicator light of the charger is red when charging, and turns green when fully charged.
 
-![](./images/microbit-xgo-lite-v2-dian-01.png)
+![](./images/microbit-xgo-lite-v2-dian-01.gif)

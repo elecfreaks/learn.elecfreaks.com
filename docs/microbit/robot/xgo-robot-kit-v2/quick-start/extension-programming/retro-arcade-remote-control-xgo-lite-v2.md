@@ -92,3 +92,5 @@ micro:bit Retro Arcade 与 micro:bit XGO Robot Kit V2 都是使用 micro:bit 为
 
 
 ## 案例演示
+
+![](./../../images/microbit-xgo-lite-v2-makecode-0112.gif)

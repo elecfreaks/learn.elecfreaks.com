@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: XGO-lite V2: A New Boost to Maker Education and Teaching
+sidebar_label: XGO-lite V2:A New Boost to Maker Education and Teaching
 ---
 
 # XGO-lite V2: A New Boost to Maker Education and Teaching

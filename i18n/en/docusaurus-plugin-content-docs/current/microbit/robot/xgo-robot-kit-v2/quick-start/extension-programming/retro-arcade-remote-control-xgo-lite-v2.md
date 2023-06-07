@@ -90,3 +90,5 @@ You will get a file in .hex format, drag it into the MICROBIT drive letter to ru
 
 
 ## Case presentation
+
+![](./../../images/microbit-xgo-lite-v2-makecode-0112.gif)

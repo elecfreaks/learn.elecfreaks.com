@@ -4,15 +4,15 @@
 
 ## Preface
 ---
-This page gives the guidance information and learning references regarding XGO. 
+This page gives the guidance information and learning references regarding XGO.
 
-The contents shall be updated in accordance with the possible updates of the products in the future, feel free to get us in touch through services@elecfreaks.com with any of your ideas. 
+The contents shall be updated in accordance with the possible updates of the products in the future, feel free to get us in touch through services@elecfreaks.com with any of your ideas.
 
 
 
 ## Introduction
 ---
-micro:bit XGO robot is an AI dog robot with 12 DOFs designed for the artificial intelligence education for teenagers. It supports omni-movement and is able to perform as a real pet dog. Students are able to get a good understanding of AI technology from the learning of the mechanism, the electronic knowledge, programming and the AI while playing it. 
+micro:bit XGO robot is an AI dog robot with 12 DOFs designed for the artificial intelligence education for teenagers. It supports omni-movement and is able to perform as a real pet dog. Students are able to get a good understanding of AI technology from the learning of the mechanism, the electronic knowledge, programming and the AI while playing it.
 
 
 
@@ -41,14 +41,13 @@ micro:bit XGO robot is an AI dog robot with 12 DOFs designed for the artificial 
 
 | Name                  | micro:bit XGO Robot Kit                 |
 | :-------------------- | :-------------------------------------- |
-| Battery               | Build-in 7.4V 1500mAh lithium batteries |
+| Battery               | Build-in 7.4V 2500mAh lithium batteries |
 | Input of the Charger  | 100-240V 50~60Hz                        |
 | Output of the Charger | 8.4V 1A                                 |
 | Battery Life          | 120min                                  |
 | Materials of the Body | Aluminium alloy                         |
 | Master Control IC     | STM32/ESP32                             |
-| Program Methods       | STM32/ESP32                             |
-| APP Control           | Makecode、Python                        |
+| Program Methods       | APP Control、Makecode      |
 | 2.4G Remote Control   | Support                                 |
 | Dimensions(L/*W/*H)   | Support                                 |
 | NW                    | 500g                                    |
@@ -65,7 +64,7 @@ micro:bit XGO robot is an AI dog robot with 12 DOFs designed for the artificial 
 ---
 ### Start the XGO
 
-Put the XGO in the prone position in case of any stuck problems happening on the joints, press the button on the back of the XGO, the ring light on the swtich will be turned on, and XGO stands up gradually. 
+Put the XGO in the prone position in case of any stuck problems happening on the joints, press the button on the back of the XGO, the ring light on the swtich will be turned on, and XGO stands up gradually.
 
 
 
@@ -75,7 +74,7 @@ Put the XGO in the prone position in case of any stuck problems happening on the
 
 ### Turn Off the XGO
 
-Press the button on the back of the XGO, the ring lights starts flashing and the XGO gets down gradually. 
+Press the button on the back of the XGO, the ring lights starts flashing and the XGO gets down gradually.
 
 
 
@@ -85,7 +84,7 @@ Press the button on the back of the XGO, the ring lights starts flashing and the
 
 ### Charging
 
-When the battery runs out of the power, the ring light woud flash and the XGO gets down, it indicates that the battery needs to be charged. Connect the equipped charger on the bottom of XGO and it should be fully charged in 2 hours around, while charging, the power indicator lights on in red, and it lights on in green after fully charging. 
+When the battery runs out of the power, the ring light woud flash and the XGO gets down, it indicates that the battery needs to be charged. Connect the equipped charger on the bottom of XGO and it should be fully charged in 2 hours around, while charging, the power indicator lights on in red, and it lights on in green after fully charging.
 
 
 
@@ -102,4 +101,3 @@ When the battery runs out of the power, the ring light woud flash and the XGO ge
 About more info for micro:bit, please visit: https://www.microbit.org/
 
 About more info for Ring:bit V2, please visit the [guide](https://www.elecfreaks.com/learn-en/microbitKit/ring_bit_v2/ring_bit_v2.html#expansion-board-of-ring-bit-car-2) and for more info on the extensions, please visit the [file](https://www.elecfreaks.com/learn-en/microbitKit/ring_bit_v2/ring_bit_car_v2_extensions.html)
-

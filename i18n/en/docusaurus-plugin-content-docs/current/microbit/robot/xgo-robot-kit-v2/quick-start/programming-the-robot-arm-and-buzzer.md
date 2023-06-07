@@ -40,5 +40,3 @@ This tutorial will program two devices through the graphical programming platfor
 
 
 Link: https://makecode.microbit.org/_5gjUhuK0m4TV
-
-## Demo

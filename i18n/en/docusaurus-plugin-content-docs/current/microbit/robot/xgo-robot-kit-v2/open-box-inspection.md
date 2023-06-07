@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: micro:bit XGO Robot Kit V2 unboxing self-test
+sidebar_label: Unboxing self-test
 ---
 
 
@@ -8,11 +8,11 @@ sidebar_label: micro:bit XGO Robot Kit V2 unboxing self-test
 
 The purpose of the unboxing self-test is to make sure that the product you purchased is as expected and that it has not been damaged in any way. Please follow the steps below to perform the unpacking self-test:
 
-### 1. Check the package
+## 1. Check the package
 
 Check that the packaging is intact and that the label and description on the packaging match the product you purchased.
 
-### 2. Confirm accessories
+## 2. Confirm accessories
 
 Verify that all accessories included with the product are complete and as described in the kit listing.
 
@@ -34,29 +34,29 @@ Packing list:
 | Mechanical claw set screws                                 |         | 2        |
 | Gear set screws                                            |         | 2        |
 
-### 3. Check the appearance
+## 3. Check the appearance
 
 Check that the product is in good condition and that there are no obvious scuffs, scratches or dents.
 
-### 4. Check function
+## 4. Check function
 
 Check that the product functions as expected.
 
-##### Boot detection
+### Boot detection
 
 Put the robot dog in a prone position to avoid joints from being stuck, then press the power switch on the back of the robot dog, the power ring light on the switch flashes quickly and then stays on, the robot dog stands slowly, and the mechanical arm retracts automatically after opening, indicating Boot up successfully. **Note: Don’t hold it in your hand to turn it on. The shaking of the robot dog during the startup process will cause the robot dog to move abnormally. **
 
 ![](./images/microbit-xgo-lite2-detection-01.gif)
 
-##### Shutdown detection
+### Shutdown detection
 
 Press the power switch on the back, the ring light flashes slowly, the robot dog slowly gets down, the mechanical arm retracts, and then the ring light goes out, indicating that the system is completely shut down.
 
 ![](./images/microbit-xgo-lite2-detection-02.gif)
 
-##### Smartphone Remote Detection
+### Smartphone Remote Detection
 
-If the operating system of your smartphone is Android, you can search for "XGO" through **Baidu Mobile Assistant** and install it; after the installation is complete, open the XGO APP startup interface as shown in the figure:
+If the operating system of your smartphone is Android, you can search for "XGO" through **Gloogle Play** and install it; after the installation is complete, open the XGO APP startup interface as shown in the figure:
 
 ![](.\images\microbit-xgo-lite-v2-app-1.png)
 
@@ -79,7 +79,7 @@ Go back to the main page and enter the "Complete Machine Control" page, operate 
 
 
 
-##### micro:bit programming detection
+### micro:bit programming detection
 
 (1) As shown in the figure below, connect XGO-lite V2 to the computer with a USB data cable, open the [MakeCode](https://makecode.microbit.org/#) platform, and click "New Project" to create a new project. document.
 
@@ -93,11 +93,11 @@ Go back to the main page and enter the "Complete Machine Control" page, operate 
 
 ![](./images/microbit-xgo-lite2-examine-03.png)
 
-### 5. Check the manual
+## 5. Check the manual
 
 Check the instructions to make sure you understand all the operating steps and safety precautions.
 
-### 6. Contact us
+## 6. Contact us
 
 If any problems are found during the unpacking self-inspection, please do not deal with them by yourself, but contact the after-sales service center for help in time.
 

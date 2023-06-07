@@ -66,3 +66,4 @@ On the main interface of the XGO App, we can see that there are three ways to re
 
 ## Demo
 
+![](./../images/microbit-xgo-lite-v2-app-12.gif)

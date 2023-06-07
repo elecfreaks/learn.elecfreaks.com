@@ -64,3 +64,5 @@ Joystick:bit V2 Programming sample program, link: https://makecode.microbit.org/
 
 
 ## Case Presentation
+
+![](./../../images/microbit-xgo-lite-v2-makecode-0113.gif)

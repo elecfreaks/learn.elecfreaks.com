@@ -15,7 +15,7 @@ sidebar_label: Hardware Problem
 
 When you notice that your XGO posture is abnormal, such as when standing, one leg deviates significantly, resulting in the inability of all four legs to land at the same time or obvious body deviation, it is likely that the initial position deviates from the preset value due to loose screws or sliding teeth of the servo. At this time, you can perform initial position calibration to recalibrate the initial position preset value of the XGO.
 
-1. Open the [XGOBOT APP]（ https://pan.baidu.com/s/16TQQ3AEBwlI37oNj0oQOzA?pwd=d4qa ）After connecting to the robot through WiFi, click the settings button to run as a developer, as shown in the following figure.
+1. Open the [XGOBOT APP](https://drive.google.com/drive/folders/1dKgBIZHAHC7wmxSXXiN11KBBO8YB_MlC )After connecting to the robot through WiFi, click the settings button to run as a developer, as shown in the following figure.
 
    ![](./../images/cm4-xgo-faq-01.png)
 
@@ -76,4 +76,3 @@ XGO coordinate system, legs, servo, numbering diagram
 #### Step 6. Insert the cable onto the motherboard, close the upper cover of the machine dog, turn on the machine, and recalibrate the XGO.
 
 ![](./../images/microbit-xgo-lite2-faq-14.png)
-

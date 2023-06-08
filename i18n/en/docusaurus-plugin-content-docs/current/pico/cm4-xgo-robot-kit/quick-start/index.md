@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: quick start
+sidebar_label: Quick Start
 ---
 
 ```mdx-code-block

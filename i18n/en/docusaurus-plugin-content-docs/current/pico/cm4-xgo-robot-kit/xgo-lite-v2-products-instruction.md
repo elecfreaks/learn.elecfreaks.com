@@ -70,7 +70,7 @@ The main structure of XGO-lite V2 is composed of aluminum alloy structural parts
 
 - The 18650 2S battery is glued to the driver board by Velcro, and the charging hole is fixed on the bottom board.
 
-![img](https://cdn.nlark.com/yuque/0/2023/png/2602062/1677799507143-9fb91c3c-aeeb-4e0b-9ccc-5fc0c469e2ec.png)
+![](./images/cm4-xgo-index-02.png)
 
 
 

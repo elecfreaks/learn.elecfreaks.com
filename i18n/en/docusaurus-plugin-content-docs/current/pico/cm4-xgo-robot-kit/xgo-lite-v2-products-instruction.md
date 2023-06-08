@@ -1,109 +1,109 @@
 ---
 sidebar_position: 5
-sidebar_label: XGO 机器人套装V2-CM4版
+sidebar_label: CM4 XGO robot kit V2
 ---
 
 
-# XGO 机器人套装V2-CM4版
+# CM4 XGO Robot Kit V2
 
-## 简介
+## Introduction
 
-XGO-lite V2 是一款具有 15 自由度桌面级 Al 机器狗，背部搭载机械臂和末端夹爪，内置树莓派 CM4 模组实现 AI边缘计算应用，采用 2.3KG.CM 总线串口舵机作为关节，可实现全向移动、六维姿态控制、姿态稳定、多种运动步态和夹持任务，内部搭载 IMU、关节位置传感器和电流传感器反馈自身姿态和关节转角与力矩，用于内部算法和二次开发。支持跨平台图形化，Python编程和 ROS 编程。
+XGO-lite V2 is a desktop Al robot dog with 15 degrees of freedom, equipped with a robotic arm and end grippers on the back, built-in Raspberry Pi CM4 module to realize AI edge computing applications, and uses 2.3KG.CM bus serial servo as the joint , which can realize omnidirectional movement, six-dimensional attitude control, attitude stability, multiple motion gaits and clamping tasks, and is equipped with IMU, joint position sensors and current sensors to feed back its own attitude, joint rotation angle and torque, which are used for internal algorithms and two-dimensional secondary development. Support cross-platform graphics, Python programming and ROS programming.
 
 ![](./images/cm4-xgo-index.png)
 
 ![](./images/cm4-xgo-products-01.gif)
 
-## 功能描述
+## Functional description
 
-1、可实现 AI 边缘计算图形化编程，例如人脸检测，物体分类，语音识别等常用程序。
+1. It can realize AI edge computing graphical programming, such as face detection, object classification, speech recognition and other common programs.
 
 ![](./images/cm4-xgo-products-06.png)
 
 
 
-2、可实现全向移动，六维姿态控制，多种运动步态及运动叠加，内置陀螺仪，可保持身体自平衡。
+2. It can realize omnidirectional movement, six-dimensional attitude control, multiple sports gaits and superposition of sports, and a built-in gyroscope to maintain body self-balance.
 
 ![](./images/cm4-xgo-products-05.gif)
 
 
 
-3、产品配套跨平台图形化和 Python 编程云平台，有相关配套课程。
+3. The product supports cross-platform graphics and Python programming cloud platform, and there are related supporting courses.
 
 ![](./images/cm4-xgo-products-04.gif)
 
 
 
-4、伺服舵机具有关节角度回读功能，允许它记住每个动作的关节位置并执行你设计的动作组，可用于示教编程。
+4. The servo servo has a joint angle readback function, allowing it to remember the joint position of each action and execute the action group you designed, which can be used for teaching programming.
 
 ![](./images/cm4-xgo-products-02.gif)
 
-## 产品特性
+## Product Features
 
-- IMU 姿势自稳--通过 IMU 获得的姿态数据，采用闭环控制的方式，无论平面如何晃动，机器狗都保持稳定。
+- IMU posture self-stabilization--The posture data obtained through the IMU adopts a closed-loop control method, and the robot dog remains stable no matter how the plane shakes.
 
-- 整机六自由度姿态控制--足尖不动的情况下，实现身体六个自由度的运动控制。
+- Six-degree-of-freedom attitude control of the whole machine--under the condition of not moving the toes, it can realize the motion control of six degrees of freedom of the body.
 
-- IMU 姿势柔顺--通过 IMU 获得的姿态数据，闭环控制实现机器狗可以实适应外力，调整到手掰动的目标姿态，实现示教功能。
+- IMU posture suppleness--Through the posture data obtained by the IMU, the closed-loop control realizes that the robot dog can actually adapt to the external force, adjust to the target posture of the hand, and realize the teaching function.
 
-- 用户通讯与二次编程接口--开放底层串口协议，用于二次开发和验证。
+- User communication and secondary programming interface - open the underlying serial port protocol for secondary development and verification.
 
-- 运动步态规划--机器狗低中高三种姿势匹配三种速度，采用不同的步态策略和规划算法
+- Motion gait planning--low, medium, and high three postures of the robot dog match three speeds, using different gait strategies and planning algorithms
 
-- 运动学与动力学仿真接口--在 ros 环境下，在 rviz 和 gazebo 平台上进行运动学与动力学仿真。
+- Kinematics and dynamics simulation interface--Under the ros environment, perform kinematics and dynamics simulation on the Rviz and gazebo platforms.
 
-- 全向运动控制--由于具有 15 个主动关节，通过运动学解耦实现机器狗前进平移转动全向运动，并支持多个方向的运动叠加。
+- Omni-directional motion control--With 15 active joints, the robot dog can move forward, translate, and rotate in all directions through kinematic decoupling, and supports motion superposition in multiple directions.
 
-- 人工智能--机器视觉，人脸识别，语音识别，模型训练等 AI 功能。
+- Artificial intelligence - AI functions such as machine vision, face recognition, speech recognition, model training, etc.
 
-## 机械结构
+## Mechanical Structure
 
-XGO-lite V2 的主体结构是由铝合金结构件，小腿和总线舵机组成，头部的 AI 模组和驱动板由 4pin 信号线连接，内置 2 节 18650 锂电池
+The main structure of XGO-lite V2 is composed of aluminum alloy structural parts, lower legs, and bus servos. The AI module and driver board on the head are connected by 4pin signal lines, and 2 built-in 18650 lithium batteries
 
-- 机器狗前盖，机器狗后盖和机器狗底盖作为机器狗机架，用于联接各部件。前后腿分别通过四颗螺钉固定在机器狗底盖前后侧；核心驱动板通过四颗螺钉固定在机器狗底盖中间。
+- The robot dog front cover, rear cover, and the bottom cover are used as the robot dog rack for connecting various components. The front and rear legs are respectively fixed to the front and rear sides of the robot dog bottom cover by four screws; the core driver board is fixed to the middle of the robot dog bottom cover by four screws.
 
-- 每条腿上各搭载三个舵机作为肘、肩、髋关节。机械上，三个关节舵机使用铝合金结构件进行固定联接。电气上，肘关节舵机和肩关节舵机，肩关节舵机和髋关节舵机，髋关节舵机和核心驱动板之间各使用一条舵机线连接，使得核心驱动板能够驱动并控制所有的关节舵机。
+- Each leg is equipped with three servos as elbow, shoulder and hip joints. Mechanically, the three joint servos are fixedly connected with aluminum alloy structural parts. Electrically, the elbow servo and the shoulder servo, the shoulder servo and the hip servo, and the hip servo and the core drive board are each connected by a servo wire, so that the core drive board can drive and control all joint steering gear.
 
-- AI 模组固定在机器狗前盖上，并通过AI模组串口连接线与核心驱动板进行连接。
+- The AI module is fixed on the front cover of the robot dog, and is connected to the core driver board through the serial port connection line of the AI module.
 
-- 开关通过螺母固定在机器狗后盖上，并与核心驱动板进行连接。开关为自锁类型，即按下后不回弹且机器狗处于持续通电状态；再次按下后机器狗断电并在3~4秒后趴下关机。
+- The switch is fixed on the back cover of the robot dog through nuts, and is connected with the core driver board. The switch is a self-locking type, that is, it does not rebound after being pressed and the robot dog is in a continuous power-on state; when it is pressed again, the robot dog is powered off and turns off after 3~4 seconds.
 
-- 18650 2S电池通过魔术贴粘在驱动板上，充电孔固定在底板。
+- The 18650 2S battery is glued to the driver board by Velcro, and the charging hole is fixed on the bottom board.
 
 ![img](https://cdn.nlark.com/yuque/0/2023/png/2602062/1677799507143-9fb91c3c-aeeb-4e0b-9ccc-5fc0c469e2ec.png)
 
 
 
-## XGO-CM4 模组
+## XGO-CM4 Module
 
-AI 模组采用树莓派 CM4 技术方案，配有 2.0 寸 IPS 彩色显示屏幕和 4 个可编程按键，500 万像素摄像头,数字麦克风及腔体扬声器，是一款拥有人机交互能力的 AI 终端，可以实现图像识别，人脸检测，语音识别等功能，帮助学生学习 AI 知识。
+The AI module adopts the Raspberry Pi CM4 technology solution, equipped with a 2.0-inch IPS color display screen and 4 programmable buttons, a 5-megapixel camera, a digital microphone and a cavity speaker. It is an AI terminal with human-computer interaction capabilities. It can realize image recognition, face detection, speech recognition and other functions to help students learn AI knowledge.
 
 ![](./images/cm4-xgo-index-03.png)
 
-## XGO-Lite V2 驱动板
+## XGO-Lite V2 driver board
 
-选用 ESP32-WROVER 模组，ESP32-WROVER 系列模组基于 ESP32-D0WD 双核芯片设计，并且拥有足够的接口与外设通讯，使用串口与串口舵机通信，IIC 接口读取陀螺仪 MPU6050数据，系统使用两节18650锂电池供电。
+Choose the ESP32-WROVER module, ESP32-WROVER series module is based on ESP32-D0WD dual-core chip design, and has enough interfaces to communicate with peripherals, use the serial port to communicate with serial port steering gear, IIC interface to read gyroscope MPU6050 data, the system uses Powered by two 18650 lithium batteries.
 
-选用 ESP32-WROVER 模组，ESP32-WROVER 模组是一款高性能、低功耗的 Wi-Fi + 蓝牙/蓝牙 LE 双模组组件，基于 Espressif Systems 的 ESP32 系列芯片而制。在 XGO-lite V2 的驱动板中，它起到了非常关键的作用。下面是一段关于 ESP32-WROVER 模组的详细介绍。
+Choose the ESP32-WROVER module, ESP32-WROVER module is a high-performance, low-power Wi-Fi + Bluetooth/Bluetooth LE dual-module component, based on ESP32 series chips from Espressif Systems. In the driver board of XGO-lite V2, it plays a very critical role. The following is a detailed introduction to the ESP32-WROVER module.
 
-主要特性：
+Main features:
 
-- 集成双核心处理器：ESP32-WROVER 模组集成了一个高性能双核 Tensilica LX6 微处理器，工作频率可达 240 MHz，为 XGO-lite V2 提供强大的计算能力，满足了实时运动学逆解算的算力需求。
-- 无线通信：支持 2.4 GHz Wi-Fi 和蓝牙（包括经典蓝牙和蓝牙低功耗 BLE）双模通信，使得机器狗可以轻松实现远程操控和数据传输。
-- 大容量内存：最高可达 4MB SPI Flash 和 8MB PSRAM，为复杂数字处理任务提供充足的内存空间。
-- 低功耗模式：支持多种低功耗模式，有利于延长机器狗的使用寿命和降低能源消耗。
-- 强大的 I/O 接口：包含多达 34 个可编程 GPIO 引脚，可支持各种传感器、执行器和通信接口，方便进行功能扩展。
-- 安全性：内置硬件加密引擎，支持 AES、SHA-2、RSA、Elliptic Curve Cryptography (ECC) 等加密算法，确保数据安全。
+- Integrated dual-core processor: ESP32-WROVER module integrates a high-performance dual-core Tensilica LX6 microprocessor with a working frequency of up to 240 MHz, which provides powerful computing capabilities for XGO-lite V2 and satisfies real-time kinematics inverse calculation computing power requirements.
+- Wireless communication: Support 2.4 GHz Wi-Fi and Bluetooth (including classic Bluetooth and Bluetooth low energy BLE) dual-mode communication, making the robot dog easy to realize remote control and data transmission.
+- Large-capacity memory: up to 4MB SPI Flash and 8MB PSRAM, providing sufficient memory space for complex digital processing tasks.
+- Low power consumption mode: Support multiple low power consumption modes, which is beneficial to prolong the service life of the robot dog and reduce energy consumption.
+- Powerful I/O interface: Contains up to 34 programmable GPIO pins to support various sensors, actuators and communication interfaces for easy function expansion.
+- Security: The built-in hardware encryption engine supports AES, SHA-2, RSA, Elliptic Curve Cryptography (ECC) and other encryption algorithms to ensure data security.
 
-得益于 ESP32-WROVER 模组的高性能、低功耗和丰富的功能特性，它广泛应用于各类物联网（IoT）项目中，如智能家居、可穿戴设备、无线传感器网络、远程控制等领域。在  XGO-lite V2 中，ESP32-WROVER 模组实现了设备的核心控制、数据处理和通信功能，为用户打造出一款智能、灵活且可拓展的机器狗产品。
+Thanks to the high performance, low power consumption and rich features of the ESP32-WROVER module, it is widely used in various Internet of Things (IoT) projects, such as smart home, wearable devices, wireless sensor networks, remote control, etc. field. In XGO-lite V2, the ESP32-WROVER module realizes the core control, data processing and communication functions of the device, creating an intelligent, flexible and expandable robot dog product for users.
 
-## XGO-Lite V2 关节
+## XGO-Lite V2 Joint
 
-XGO-lite2 机器狗选用了一款高品质的6V 2.3KG.塑料壳金属齿300度双轴TTL串口舵机作为其关键部件之一。该舵机采用了塑胶外壳、金属齿轮箱、铁芯电机、TTL控制板和高品质电位器，输出头采用25T型。它具有堵转扭矩2.3kg.cm，有效控制角度为300度，可切换伺服模式和连续转电机工作模式。此外，该舵机还可反馈位置、速度、电压、温度和负载参数，从而实现过载保护。
+The XGO-lite2 robot dog uses a high-quality 6V 2.3KG plastic shell metal tooth 300-degree dual-axis TTL serial servo as one of its key components. The steering gear adopts plastic shell, metal gear box, iron core motor, TTL control board and high-quality potentiometer, and the output head adopts 25T type. It has a stall torque of 2.3kg.cm, an effective control angle of 300 degrees, and can switch between servo mode and continuous motor operation mode. In addition, the steering gear can also feedback position, speed, voltage, temperature and load parameters, so as to realize overload protection.
 
-通过采用这款舵机，XGO-lite2 机器狗的运动控制更加精准和稳定。该舵机的金属齿轮箱和铁芯电机保证了其高扭矩和高精度，有效控制角度为300度也使得机器狗的运动更加灵活。同时，该舵机还具备伺服模式和连续转电机工作模式，以及反馈位置、速度、电压、温度和负载参数的功能，从而实现了过载保护，保障机器狗的稳定性和安全性。
+By adopting this servo, the motion control of the XGO-lite2 robot dog is more precise and stable. The metal gear box and iron core motor of the steering gear ensure its high torque and high precision, and the effective control angle of 300 degrees also makes the movement of the robot dog more flexible. At the same time, the steering gear also has servo mode and continuous rotation motor working mode, as well as the function of feedback position, speed, voltage, temperature and load parameters, so as to realize overload protection and ensure the stability and safety of the robot dog.
 
-总之，6V 2.3KG.塑料壳金属齿300度双轴TTL串口舵机是一款高品质、高性能的舵机，适用于各种机器人和智能设备的运动控制。在 XGO-lite2 机器狗中，它为 XGO-lite V2 的运动控制提供了强大的支持，提高了 XGO-lite V2 的性能和应用价值。
+In short, the 6V 2.3KG plastic shell metal teeth 300-degree dual-axis TTL serial servo is a high-quality, high-performance servo, which is suitable for motion control of various robots and smart devices. In the XGO-lite2 robot dog, it provides strong support for the motion control of XGO-lite V2, improving the performance and application value of XGO-lite V2.
 
 ![](./images/microbit-xgo-lite2-introduce-07.png)
 

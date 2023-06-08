@@ -45,4 +45,5 @@ At this time, you need to check whether the 4pin cable from the driver board is 
 
 #### Phenomenon 2: The power indicator of the carrier board is on, but the screen is not on.
 
+
 At this time, the possible reasons are that the SD card image burn fails, the system does not start normally, or the SD card slot is faulty and the SD card is in poor contact. There is also a possibility that the cable connection between the screen and the carrier board is faulty, resulting in abnormal SPI communication of the screen. At this time, you need to replace the CM4 carrier board or screen, or re-burn the Raspberry Pi image.

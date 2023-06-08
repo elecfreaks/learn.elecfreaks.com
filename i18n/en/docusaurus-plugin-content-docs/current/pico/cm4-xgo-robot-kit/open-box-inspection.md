@@ -10,6 +10,7 @@ The purpose of the unboxing self-test is to make sure that the product you purch
 
 ### 1. Check the package
 
+
 Check that the packaging is intact and that the label and description on the packaging match the product you purchased.
 
 ### 2. Confirm accessories

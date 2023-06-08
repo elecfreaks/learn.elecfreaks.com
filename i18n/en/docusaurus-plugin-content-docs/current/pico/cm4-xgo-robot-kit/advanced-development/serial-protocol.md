@@ -5,11 +5,13 @@ sidebar_label: Serial Protocol
 
 # Development and use based on serial port protocol
 
+
  ## Serial communication protocol
 
  ### Document Purpose and Object
 
 This document is applicable to the communication protocol for command/data interaction between any upper computer and the XGO series machine dog driver board. Used by advanced developers for secondary development of XGO.
+
 
 ### Hardware Connection
 

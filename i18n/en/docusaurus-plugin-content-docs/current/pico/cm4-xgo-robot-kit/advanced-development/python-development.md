@@ -5,6 +5,7 @@ sidebar_label: Python Development
 
 # Develop and use based on Python
 
+
 XGO-lite V2 has built-in motion control library file xgolib.py, education library xgoedu.py and advanced library xgoadvance.py, developers can directly call related interface functions to control the robot dog.
 
 Sports library download [xgolib.py(26 KB)](https://www.elecfreaks.com/download/xgolib.py)

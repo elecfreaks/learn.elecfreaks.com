@@ -1,4 +1,4 @@
 ---
 sidebar_position: 7
-sidebar_label: development use
+sidebar_label: Advanced Development
 ---

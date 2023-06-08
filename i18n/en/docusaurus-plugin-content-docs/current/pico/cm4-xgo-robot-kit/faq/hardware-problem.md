@@ -11,6 +11,7 @@ sidebar_label: Hardware Problem
 
 2. If the problem with gyroscope initialization is ruled out and the XGO still has a significant deviation in walking, it is necessary to recalibrate the XGO.
 
+
 ## Recalibrate XGO
 
 When you notice that your XGO posture is abnormal, such as when standing, one leg deviates significantly, resulting in the inability of all four legs to land at the same time or obvious body deviation, it is likely that the initial position deviates from the preset value due to loose screws or sliding teeth of the servo. At this time, you can perform initial position calibration to recalibrate the initial position preset value of the XGO.

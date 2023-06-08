@@ -1,68 +1,68 @@
 ---
-sidebar_position: 3
-sidebar_label: 开箱自检
+sidebar_position: 4
+sidebar_label: Unboxing Self-test
 ---
 
 
-#  开箱自检
+#  Unboxing Self-test
 
-进行开箱自检是为了确保您购买的产品符合预期并且没有受到任何损坏。请您根据以下步骤来进行开箱自检操作：
+The purpose of the unboxing self-test is to make sure that the product you purchased is as expected and that it has not been damaged in any way. Please follow the steps below to perform the unpacking self-test:
 
-### 1、检查包装
+### 1. Check the package
 
-检查包装是否完好无损，确认包装上的标签和描述与您购买的产品相符。
+Check that the packaging is intact and that the label and description on the packaging match the product you purchased.
 
-### 2、确认配件
+### 2. Confirm accessories
 
-确认产品附带的所有配件是否全部齐全，并与套件清单中的描述相符。
+Verify that all accessories included with the product are complete and as described in the kit listing.
 
-套装清单：
+Package list:
 
-| 项目                                      | 数量 |
-| :---------------------------------------- | ---- |
-| XGO-lite V2 整机（已安装好树莓派CM4模组） | 1    |
-| 电源适配器 8.4V/1A                        | 1    |
-| 快速入门手册                              | 1    |
-| 30mm EVA小球                              | 3    |
-| 25mm 边长木质立方块                       | 3    |
-| Type-C USB Hub                            | 1    |
-| Micro HDMI 转 HDMI 线                     | 1    |
-| 3.0十字螺丝刀                             | 1    |
-| 2.0十字螺丝刀                             | 1    |
-| 舵盘螺丝                                  | 6    |
-| 舵机固定螺丝                              | 4    |
-| 外壳固定螺丝                              | 2    |
-| 机械爪固定螺丝                            | 2    |
-| 齿轮固定螺丝                              | 2    |
+| Items                                                        | QTY  |
+| :----------------------------------------------------------- | ---- |
+| XGO-lite V2 complete machine (Raspberry Pi CM4 module installed) | 1    |
+| Power Adapter 8.4V/1A                                        | 1    |
+| Quick Start Manual                                           | 1    |
+| 30mm EVA ball                                                | 3    |
+| 25mm side length wooden cubes                                | 3    |
+| Type-C USB Hub                                               | 1    |
+| Micro HDMI to HDMI cable                                     | 1    |
+| 3.0 Phillips screwdriver                                     | 1    |
+| 2.0 Phillips screwdriver                                     | 1    |
+| Rudder screw                                                 | 6    |
+| Servo fixing screw                                           | 4    |
+| Case fixing screws                                           | 2    |
+| Mechanical claw set screw                                    | 2    |
+| gear set screw                                               | 2    |
 
-### 3、检查外观
+### 3. Check the appearance
 
-检查产品外观是否完好无损，是否有任何明显的磨损、划痕或凹陷。
+Check that the product is in good condition and that there are no obvious scuffs, scratches or dents.
 
-### 4、检查功能
+### 4. Check function
 
-检查产品的功能是否正常。
+Check that the product is functioning properly.
 
-##### 开机检测
+##### Boot detection
 
-把机器狗按照卧姿摆放，避免关节卡死，然后按下机器狗背部的电源开关，开关上的电源环形灯快速闪烁后常亮，机器狗缓缓站立，机械臂打开后自动收回，表示开机成功。**注意：不要拿在手里开机，开机过程中机器狗晃动会导致机器狗运动异常。**
+Put the robot dog in a prone position to avoid joints from being stuck, then press the power switch on the back of the robot dog, the power ring light on the switch flashes quickly and then stays on, the robot dog stands slowly, and the mechanical arm retracts automatically after opening, indicating Boot up successfully. **Note: Don’t hold it in your hand to turn it on. The shaking of the robot dog during the startup process will cause the robot dog to move abnormally. **
 
 ![](./images/cm4-xgo-inspection-01.gif)
 
-##### 关机检测
+##### Shutdown detection
 
-按下背部电源开关，环形灯缓慢闪烁，机器狗缓缓趴下，机械臂收回，然后环形灯熄灭，表示系统完全关机。
+Press the power switch on the back, the ring light flashes slowly, the robot dog slowly gets down, the mechanical arm retracts, and then the ring light goes out, indicating that the system is completely shut down.
 
 ![](./images/cm4-xgo-inspection-02.gif)
 
-### 5、查看说明书
+### 5. iew manual
 
-查看说明书，确认自己已经了解所有的操作步骤和安全注意事项。
+Check the instructions to make sure you understand all the operating steps and safety precautions.
 
-### 6、联系我们
+### 6. Contact us
 
-如果在开箱自检过程中发现了任何问题，请不要自行处理，及时联系售后服务中心寻求帮助。
+If any problems are found during the unpacking self-inspection, please do not deal with them by yourself, but contact the after-sales service center for help in time.
 
 
 
-**请注意，在使用产品之前，应仔细阅读产品指导手册，并遵守所有的安全注意事项和操作规程。如果您不确定如何使用产品，请咨询我们或专业人士的建议。**
+**Please note that before using the product, you should read the product instruction manual carefully and follow all safety precautions and operating procedures. If you are not sure how to use the product, please consult us or professional advice.**

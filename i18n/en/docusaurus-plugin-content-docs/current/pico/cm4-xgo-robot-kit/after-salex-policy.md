@@ -1,9 +1,9 @@
 ---
-sidebar_position: 4
-sidebar_label: After Sales Policies 
+sidebar_position: 3
+sidebar_label: After Sales Policies
 ---
 
-# After Sales Policies 
+# After Sales Policies
 
 ## Returns and Exchanges
 

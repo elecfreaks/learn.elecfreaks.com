@@ -1,72 +1,76 @@
 ---
 sidebar_position: 6
-sidebar_label: 产品参数
+sidebar_label: Product Parameters
 ---
 
-# 产品参数
+# Product Parameters
 
-## 整机参数
+## Parameters
 
-- 型号：XGO-lite2
-
-
-- 尺寸：默认站姿250-145-170mm
-
-- 重量：575g
-
-- 材质：身体为1mm航空铝材，腿为ABS工程塑料。
-
-- 屏幕：2.0寸 320*240像素全彩IPS
-
-- 摄像头：500万像素OV5647
-
-- 麦克风：双MEMS数字麦克风
-
-- 喇叭：8欧3瓦腔体
-
-- 存储:Micro SD卡32G
-
-## 舵机参数
-
-- 型号：总线串口舵机
+- Model: XGO-lite2
 
 
-- 输出扭矩：2.3KG•CM；
+- Size: 250X145X170 mm(Default stand posture)
 
-- 转速（S/60°）：0.1 S/60°；
+- Weigh: 575g
 
-- 工作电压范围：4.8V～7.4V
+- Material: The body is 1mm aviation aluminum, and the legs are ABS engineering plastics.
 
-- 工作温度：-20℃～ +60℃；
+- Screen: 2.0 inch 320*240 pixel full-color IPS
 
-- 角度范围：0-300°；
+- Camera: 5 million pixels OV5647
 
-- 重量：13±1g。
+- Microphone: Dual MEMS digital microphone
 
-- 马达类型：铁芯
+- Horn: 8 ohm 3-watt cavity
 
-## AI 模组参数
+- Storage: Micro SD card 32G
 
-- Broadcom BCM2711 4核Cortex A72 1.5GHz (ARM v8) 64-bit CPU
+![](./images/cm4-xgo-products-01.png)
 
-- 支持H.265 (HEVC) (最高支持4Kp60解码), H.264 (最高支持1080p60解码, 1080p30编码)
+## AI Mod Parameters
+
+- Broadcom BCM2711 Quad Core Cortex A72 1.5GHz (ARM v8) 64-bit CPU
+
+- Support H.265 (HEVC) (up to 4Kp60 decoding), H.264 (up to 1080p60 decoding, 1080p30 encoding)
 
 - OpenGL ES 3.0 graphics
 
-- 4个可编程按键
+- 4 programmable keys
 
-- Micro Hdmi视频输出接口
+- Micro HDMI video output interface
 
-- Type-C USB接口
+- Type-C USB interface
 
-- PH2.0 4PIN串口通信及电源接口
+- PH2.0 4PIN serial communication and power interface
 
-## 电池参数
+![](./images/cm4-xgo-index-03.png)
 
-- 充电器输入电压：100-240V AC 50/60Hz；
+## Servo Parameter
 
-- 充电器输出电压：8.4V；
+- Model: Bus serial servo
 
-- 充电器输出电流：1A，具有过流保护特性，防止过充爆炸。
 
-- 电池：18650标准2500毫安3C放电
+- Output torque: 2.3KG•CM
+
+- Speed (S/60°): 0.1 S/60°
+
+- Working voltage range: 4.8V～7.4V
+
+- Working temperature: -20℃～+60℃
+
+- Angle range: 0-300°
+
+- Weight: 13±1g
+
+- Motor Type: Iron Core
+
+## Battery parameters
+
+- Charger input voltage: 100-240V AC 50/60Hz;
+
+- Charger output voltage: 8.4V;
+
+- Charger output current: 1A, with an over-current protection feature to prevent overcharge explosion.
+
+- Battery: 18650 standard 2500mAh 3C discharge

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: 快速入门
+sidebar_label: Quick Start
 ---
 
 ```mdx-code-block

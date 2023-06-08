@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: software problem
+sidebar_label: Software Problem
 ---
 
 # Software Problem

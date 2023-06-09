@@ -34,7 +34,6 @@ XGO-lite V2 is a desktop Al robot dog with 15 degrees of freedom, equipped with 
 ![](./images/cm4-xgo-products-04.gif)
 
 
-
 4. The servo servo has a joint angle readback function, allowing it to remember the joint position of each action and execute the action group you designed, which can be used for teaching programming.
 
 ![](./images/cm4-xgo-products-02.gif)

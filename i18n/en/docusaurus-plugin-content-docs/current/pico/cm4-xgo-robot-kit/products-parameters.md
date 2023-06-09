@@ -73,5 +73,4 @@ sidebar_label: Product Parameters
 
 - Charger output current: 1A, with an over-current protection feature to prevent overcharge explosion.
 
-
 - Battery: 18650 standard 2500mAh 3C discharge

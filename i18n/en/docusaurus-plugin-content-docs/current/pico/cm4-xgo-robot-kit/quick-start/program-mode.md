@@ -18,8 +18,6 @@ Programming mode refers to the use of encapsulated building blocks or XGO's Pyth
    ![](./../images/cm4-xgo-program-02.png)
 
 
-
-
 4. After entering the graphical interface, select Mini or Lite based on the XGO model to program the XGO graphically.
 
    ![](./../images/cm4-xgo-program-03.png)

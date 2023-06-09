@@ -3,7 +3,6 @@ sidebar_position: 4
 sidebar_label: Unboxing Self-test
 ---
 
-
 #  Unboxing Self-test
 
 The purpose of the unboxing self-test is to make sure that the product you purchased is as expected and that it has not been damaged in any way. Please follow the steps below to perform the unpacking self-test:

@@ -5,7 +5,6 @@ sidebar_label: Serial Protocol
 
 # Development and use based on serial port protocol
 
-
  ## Serial communication protocol
 
  ### Document Purpose and Object

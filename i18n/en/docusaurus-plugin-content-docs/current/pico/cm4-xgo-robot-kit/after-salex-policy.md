@@ -7,7 +7,6 @@ sidebar_label: After Sales Policies
 
 ## Returns and Exchanges
 
-
 30 days return or exchange policy. To be eligible for a return for a full refund, your item must be in the same condition as when you received it, unworn or unused, with tags and in its original packaging, or you received a defective item and send ELECFREAKS pictures or a video as proof.
 If there is no quality problem with the product, the return shipping costs and their corresponded taxes/duties request to be covered by consumers.
 

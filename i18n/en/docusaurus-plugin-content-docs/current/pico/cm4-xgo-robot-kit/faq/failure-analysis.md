@@ -15,6 +15,7 @@ If you find the XGO cannot stand after pressing the power switch. At this time, 
 
 It may be that the switching power supply circuit is broken. At this time, you need to disassemble the screws on the back, tail, and sides of the robot dog, remove the back panel to check the switching circuit, and repair it with an electric iron.
 
+
 #### Phenomenon Two: The XGO stands but the switch indicator light is off when pressing the switch
 
 It may be that the circuit of the switch signal light is broken. At this time, you need to disassemble the screws on the back, tail, and sides of the body of the robot dog, remove the back panel to check the switch circuit, and repair it with an electric iron.
@@ -44,5 +45,7 @@ This phenomenon is generally caused by damage to the potentiometer of the servo 
 At this time, you need to check whether the 4pin cable from the driver board is plugged in tightly. If the cable is OK, the carrier board is damaged, and the CM4 carrier board needs to be replaced.
 
 #### Phenomenon 2: The power indicator of the carrier board is on, but the screen is not on.
+
+
 
 At this time, the possible reasons are that the SD card image burn fails, the system does not start normally, or the SD card slot is faulty and the SD card is in poor contact. There is also a possibility that the cable connection between the screen and the carrier board is faulty, resulting in abnormal SPI communication of the screen. At this time, you need to replace the CM4 carrier board or screen, or re-burn the Raspberry Pi image.

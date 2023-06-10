@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: software problem
+sidebar_label: Software Problem
 ---
 
 # Software Problem
@@ -10,6 +10,7 @@ sidebar_label: software problem
 **Preparation：**
 
 Hardware: Prepare an SD card reader, which needs to be USB 3.0, pull out the SD card of the XGO and insert it into the card reader, and plug it into the computer USB port.
+
 
 Software: [Raspberry Pi OS – Raspberry Pi](https://www.raspberrypi.com/software/) Download Raspberry Pi Imager and install it.
 

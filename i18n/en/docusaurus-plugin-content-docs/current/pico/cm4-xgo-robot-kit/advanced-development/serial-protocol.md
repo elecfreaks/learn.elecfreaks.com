@@ -1,21 +1,22 @@
 ---
 sidebar_position: 3
-sidebar_label: Development and use based on serial port protocol
+sidebar_label: Serial Protocol
 ---
 
 # Development and use based on serial port protocol
 
- ## Serial communication protocol 
+ ## Serial communication protocol
 
- ### Document Purpose and Object 
+ ### Document Purpose and Object
 
 This document is applicable to the communication protocol for command/data interaction between any upper computer and the XGO series machine dog driver board. Used by advanced developers for secondary development of XGO.
+
 
 ### Hardware Connection
 
 Use a hex wrench to unscrew the two screws on the back, left and right, and two screws on the back. Remove the back panel of the machine dog and unplug the switch wire. The motherboard has two serial communication interfaces, which are connected to the upper computer wire sequence according to the motherboard screen printing wire sequence (TX to RX, RX to TX), and can then be debugged. The external power supply voltages of the two terminals are 5V and 3.3V respectively, and cannot be used simultaneously.
 
-### Software interface 
+### Software interface
 
 Using standard TTL serial communication
 
@@ -42,7 +43,7 @@ It is recommended that the interval between each instruction on the upper comput
 
 You can refer to [xgolib. py (24 KB)]（ https://www.elecfreaks.com/download/xgolib.py ）The code for send and read in.
 
-### Write instruction, no response (0x00) 
+### Write instruction, no response (0x00)
 
 | Frame header | Frame length | Command type | First address | Data | Checksum | End of frame |
 | ------------ | ------------ | ------------ | ------------- | ---- | -------- | ------------ |
@@ -51,19 +52,19 @@ You can refer to [xgolib. py (24 KB)]（ https://www.elecfreaks.com/download/xgo
 The write command will modify the data starting from the first address, and will not generate a response.
 
 ```
->For example, to modify the forward speed of the robot dog, the forward speed address is 0x30, and the maximum speed is forwarded, that is, the speed content is 0xFF. The specific instructions are as follows: 
->0x55 0x00 0x09 0x00 0x30 0xFF 0xC7 0x00 0xAA 
+>For example, to modify the forward speed of the robot dog, the forward speed address is 0x30, and the maximum speed is forwarded, that is, the speed content is 0xFF. The specific instructions are as follows:
+>0x55 0x00 0x09 0x00 0x30 0xFF 0xC7 0x00 0xAA
 >The checksum calculation process is as follows:
 >0x09+0x00+0x30+0xFF=0x138，Take the lowest byte 0x38, and get 0xC7 by inversion
 ```
 
-### Read command, response (0x02) 
+### Read command, response (0x02)
 
 | Frame header | Frame length | Command type | First address | Read length | Checksum | End of frame |
 | ------------ | ------------ | ------------ | ------------- | ----------- | -------- | ------------ |
 | 0x55 0x00    |              | 0x02         |               | uint_8      |          | 0x00 0xAA    |
 
-The write command will read the data starting from the first address continuously, and no response will be generated. 
+The write command will read the data starting from the first address continuously, and no response will be generated.
 
 The format of the returned data packet is:
 
@@ -72,12 +73,12 @@ The format of the returned data packet is:
 | 0x55 0x00    |              | 0x12         |               | data |          | 0x00 0xAA    |
 
 ```
->For example, to read the angles of 12 servos, 0x50 is the address of the first servo position, 0x0C means to read 12 consecutively, the specific instructions are as follows： 
->0x55 0x00 0x09 0x02 0x50 0x0C 0x98 0x00 0xAA 
->The checksum calculation process is as follows: 
+>For example, to read the angles of 12 servos, 0x50 is the address of the first servo position, 0x0C means to read 12 consecutively, the specific instructions are as follows：
+>0x55 0x00 0x09 0x02 0x50 0x0C 0x98 0x00 0xAA
+>The checksum calculation process is as follows:
 >0x09+0x02+0x50+0x0C=0x67，Inverted to get 0x98
->read return packet: 
->0x55 0x00 0x14 0x12 0x50 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x89 0x00 0xAA 
+>read return packet:
+>0x55 0x00 0x14 0x12 0x50 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x89 0x00 0xAA
 ```
 
 ### Machine coordinate system
@@ -86,13 +87,13 @@ In the initial standing posture, the origin is directly below the fuselage, the 
 
 ![](./../images/cm4-xgo-xyz-01.png)
 
-### Single leg coordinate system 
+### Single leg coordinate system
 
 The single-leg coordinate system is used to describe the position of the foot. The four legs correspond to four independent single-leg coordinate systems. The thigh joint is the origin. The forward direction of the robot dog is the positive direction of the x-axis, the left is the positive direction of the Y-axis, and the bottom is the positive direction of the Z-axis. Towards.
 
 ![](./../images/cm4-xgo-xyz-02.png)
 
-### Servo number 
+### Servo number
 
 |                      | shoulder（3） | arm（2） | elbow（1） |
 | -------------------- | ------------- | -------- | ---------- |

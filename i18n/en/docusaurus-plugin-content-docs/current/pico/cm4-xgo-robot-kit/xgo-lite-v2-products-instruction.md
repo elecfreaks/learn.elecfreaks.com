@@ -8,6 +8,7 @@ sidebar_label: CM4 XGO robot kit V2
 
 ## Introduction
 
+
 XGO-lite V2 is a desktop Al robot dog with 15 degrees of freedom, equipped with a robotic arm and end grippers on the back, built-in Raspberry Pi CM4 module to realize AI edge computing applications, and uses 2.3KG.CM bus serial servo as the joint , which can realize omnidirectional movement, six-dimensional attitude control, attitude stability, multiple motion gaits and clamping tasks, and is equipped with IMU, joint position sensors and current sensors to feed back its own attitude, joint rotation angle and torque, which are used for internal algorithms and two-dimensional secondary development. Support cross-platform graphics, Python programming and ROS programming.
 
 ![](./images/cm4-xgo-index.png)
@@ -31,7 +32,6 @@ XGO-lite V2 is a desktop Al robot dog with 15 degrees of freedom, equipped with 
 3. The product supports cross-platform graphics and Python programming cloud platform, and there are related supporting courses.
 
 ![](./images/cm4-xgo-products-04.gif)
-
 
 
 4. The servo servo has a joint angle readback function, allowing it to remember the joint position of each action and execute the action group you designed, which can be used for teaching programming.

@@ -9,7 +9,9 @@ sidebar_label: Hardware Problem
 
 1. XGO is corrected through a gyroscope. When starting up, the XGO needs to be placed on the ground or table. After pressing the switch, the gyroscope will undergo an initialization process of 3-5 seconds. During this time, do not move the XGO and wait for the switch light to remain on before operating.
 
+
 2. If the problem with gyroscope initialization is ruled out and the XGO still has a significant deviation in walking, it is necessary to recalibrate the XGO.
+
 
 ## Recalibrate XGO
 

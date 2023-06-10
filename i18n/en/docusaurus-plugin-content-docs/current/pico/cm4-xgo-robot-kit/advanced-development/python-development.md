@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: Develop and use based on Python
+sidebar_label: Python Development
 ---
 
 # Develop and use based on Python
@@ -15,7 +15,7 @@ The following is the initialization code:
 
 ```python
 #import xgolib
-from xgolib import XGO  
+from xgolib import XGO
 #instantiate dog
 dog = XGO(port='/dev/ttyAMA0',version="xgolite")
 ```
@@ -30,7 +30,7 @@ Sample code:
 
 ```python
 from xgolib import XGO
-dog = XGO(port='/dev/ttyAMA0',version="xgolite") 
+dog = XGO(port='/dev/ttyAMA0',version="xgolite")
 version=dog.read_firmware()
 if version[0]=='M':
     print('XGO-MINI')
@@ -149,7 +149,7 @@ When adjusting the posture, the position of the four legs of the robot dog will 
 
 #### Periodic translation of the fuselage
 
-**Periodic_tran(direction, period)** 
+**Periodic_tran(direction, period)**
 
 The machine dog body will undergo reciprocating translation in the specified period and direction, with an amplitude of half the limit value of position translation, and can perform periodic motion in multiple directions simultaneously. The periodic movement of the fuselage and the movement of the entire machine cannot be carried out simultaneously.
 
@@ -227,13 +227,13 @@ After opening, the end of the robotic arm will not translate with the body's tra
 
 #### Restore initial state
 
-**Reset()** 
+**Reset()**
 
 Stop all movements and restore all states to their initial state
 
 #### Set self stable state
 
-**imu(mode)** 
+**imu(mode)**
 
 In a self stable state, the robotic dog will automatically adjust its posture angle to maintain its back in a horizontal position, and cannot be manually set when turned on.
 
@@ -241,7 +241,7 @@ In a self stable state, the robotic dog will automatically adjust its posture an
 | -------------- | ------- | ----------- | --------------------------------- |
 | mode           | integer | 0, 1        | 0 represents off, 1 represents on |
 
-**Perform(mode)** 
+**Perform(mode)**
 
 In performance mode, the robot dog will cycle through the preset actions.
 
@@ -251,7 +251,7 @@ In performance mode, the robot dog will cycle through the preset actions.
 
 #### Single leg control
 
-**leg(leg_id, data)** 
+**leg(leg_id, data)**
 
 Control the position feet end of the designated leg(s)
 
@@ -269,7 +269,7 @@ dog.leg(2,[10,-12,90])
 
 #### Servo control
 
-**motor(motor_id, data)** 
+**motor(motor_id, data)**
 
 Control the rotation angle of the servo
 
@@ -290,7 +290,7 @@ dog.motor([23,41],[10,-20])
 
 #### Single leg servo unloading
 
-**Unload_motor(leg_id)** 
+**Unload_motor(leg_id)**
 
 Unload the three servo motors on one leg without outputting torque, and then freely rotate them by hand, usually used for writing actions
 
@@ -300,13 +300,13 @@ Unload the three servo motors on one leg without outputting torque, and then fre
 
 #### All servo unloading
 
-**Unload_allmotor()** 
+**Unload_allmotor()**
 
 Unload all servo motors without outputting torque, and rotate them freely by hand
 
-#### Single leg servo loading 
+#### Single leg servo loading
 
-**Load_motor(leg_id)** 
+**Load_motor(leg_id)**
 
 Keep the three servo motors on one leg loaded in their current positions, output torque, and do not rotate them by hand afterwards. Usually used for writing actions
 
@@ -316,13 +316,13 @@ Keep the three servo motors on one leg loaded in their current positions, output
 
 #### All servo loads
 
-**load_allmotor()** 
+**load_allmotor()**
 
 Keep all servo motors loaded in their current positions, output torque, and do not rotate them by hand afterwards
 
-#### Set the rotation speed of the steering gear 
+#### Set the rotation speed of the steering gear
 
-**motor_speed(speed)** 
+**motor_speed(speed)**
 
 Adjusting the rotation speed of the steering gear is suitable for individual control of the servo
 
@@ -330,9 +330,9 @@ Adjusting the rotation speed of the steering gear is suitable for individual con
 | -------------- | ------- | ----------- | ----------------------------------------------- |
 | speed          | integer | [0,255]     | 0 is the lowest speed, 255 is the highest speed |
 
-#### Modify Bluetooth name 
+#### Modify Bluetooth name
 
-**bt_rename(name)** 
+**bt_rename(name)**
 
 Modify the Bluetooth name again, and Bluetooth will disconnect after calling this function
 
@@ -340,7 +340,7 @@ Modify the Bluetooth name again, and Bluetooth will disconnect after calling thi
 | -------------- | ---------------- | -------------------------- | ------------------------------------------------------------ |
 | name           | character string | Length not greater than 10 | The Bluetooth name format of the robot dog is XGO_ Xxx, xxx is a modifiable part that only supports characters in the ascii code. |
 
-#### Execute preset actions 
+#### Execute preset actions
 
 **action(action_id)**
 
@@ -360,7 +360,7 @@ Modify the Bluetooth name again, and Bluetooth will disconnect after calling thi
 
 #### Calibrate the position of the steering gear
 
-**calibration(state)** 
+**calibration(state)**
 
 If there is a significant position deviation of some joints after startup, this function can be called for calibration. Please use with caution in other situations
 
@@ -372,23 +372,23 @@ If there is a significant position deviation of some joints after startup, this 
 
 #### Reading the servo angle
 
-**read_motor()** 
+**read_motor()**
 
 Read the angles of 12 servo motors. If the reading is successful, a list with a length of 12 will be returned, corresponding to the servo motor angles numbered [11,12,13,21,23,23,31,33,41,42,43]. If the reading fails, an empty list will be returned
 
 #### Read battery level
 
-**read_battery()** 
+**read_battery()**
 
 Reads the current battery level, returns an integer from 1 to 100 for successful reading, representing the percentage of remaining battery level, and returns 0 for failed reading.
 
 #### Read attitude angle
 
-**read_roll()** 
+**read_roll()**
 
-**read_pitch()** 
+**read_pitch()**
 
-**read_yaw()** 
+**read_yaw()**
 
 Read the current attitude angle. If the reading succeeds, it will be a floating point number. If the reading fails, it will return 0
 
@@ -406,14 +406,14 @@ The following is the initialization code:
 
 ```python
 #import xgoedu
-from xgoedu import XGOEDU 
+from xgoedu import XGOEDU
 #instantiate edu
 edu = XGOEDU()
 ```
 
 ### Screen drawing
 
-**You need to kill the self starting main.py process first, otherwise there will be a screen refresh conflict** 
+**You need to kill the self starting main.py process first, otherwise there will be a screen refresh conflict**
 
 #### draw a straight line
 
@@ -471,7 +471,7 @@ lcd_picture(filename,x=0,y=0)
 
 lcd_clear()
 
-### Key detection 
+### Key detection
 
 xgoButton(button)
 
@@ -479,7 +479,7 @@ xgoButton(button)
 | -------------- | -------------- | ----------------- | ------------------------------ |
 | button         | Specify string | ["a","b","c","d"] | False not pressed True pressed |
 
-## Audio function 
+## Audio function
 
 ### PLAY AUDIO
 
@@ -518,7 +518,7 @@ Gesture recognition single picture:
 
 ```python
 #input xgoedu
-from xgoedu import XGOEDU 
+from xgoedu import XGOEDU
 #Instantiating edu
 edu = XGOEDU()
 
@@ -532,7 +532,7 @@ Real time gesture recognition via camera:
 
 ```python
 #input xgoedu
-from xgoedu import XGOEDU 
+from xgoedu import XGOEDU
 #Instantiating edu
 edu = XGOEDU()
 
@@ -544,7 +544,7 @@ while True:
         break
 ```
 
-### Gesture recognition 
+### Gesture recognition
 
 gesture Recognition(target="camera")
 
@@ -576,7 +576,7 @@ emotion(target="camera")
 | ------------------------------------------------------------ | ---------------- | ------------------------------------ | ------------------------------------------------------------ |
 | Target (can be defaulted)<br/>The default "camera"<br/>is to use the camera to capture images | character string | Target is the path to the image file | (emotion,(x,y)) <br />emotion contain: <br />['Angry','Happy','Neutral','Sad','Surprise'] <br />Coordinate value xy |
 
- ### Age and gender recognition 
+ ### Age and gender recognition
 
 agesex(target="camera")
 

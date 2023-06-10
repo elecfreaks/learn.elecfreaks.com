@@ -9,6 +9,7 @@ sidebar_label: Serial Protocol
 
  ### Document Purpose and Object
 
+
 This document is applicable to the communication protocol for command/data interaction between any upper computer and the XGO series machine dog driver board. Used by advanced developers for secondary development of XGO.
 
 

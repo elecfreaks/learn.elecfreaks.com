@@ -22,7 +22,6 @@ XGO-lite V2 is a desktop Al robot dog with 15 degrees of freedom, equipped with 
 ![](./images/cm4-xgo-products-06.png)
 
 
-
 2. It can realize omnidirectional movement, six-dimensional attitude control, multiple sports gaits and superposition of sports, and a built-in gyroscope to maintain body self-balance.
 
 ![](./images/cm4-xgo-products-05.gif)

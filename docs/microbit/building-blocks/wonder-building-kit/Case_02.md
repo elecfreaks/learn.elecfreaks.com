@@ -15,7 +15,7 @@
 ![](./images/case-02-02.png)
 
 搭建视频链接:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=2&page=2](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=2&page=2)
+[https://www.bilibili.com/video/BV1V64y117zM/?p=2&share_source=copy_web](https://www.bilibili.com/video/BV1V64y117zM/?p=2&share_source=copy_web)
 
 ## 搭建步骤
 

@@ -67,6 +67,7 @@ sidebar_label: Product Parameters
 
 ## Battery parameters
 
+
 - Charger input voltage: 100-240V AC 50/60Hz;
 
 - Charger output voltage: 8.4V;

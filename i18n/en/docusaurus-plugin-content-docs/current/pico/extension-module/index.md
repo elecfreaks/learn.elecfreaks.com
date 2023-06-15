@@ -6,7 +6,6 @@ sidebar_label: Extension module
 
 # Extension module
 
-
 ## Directory
 
 ```mdx-code-block

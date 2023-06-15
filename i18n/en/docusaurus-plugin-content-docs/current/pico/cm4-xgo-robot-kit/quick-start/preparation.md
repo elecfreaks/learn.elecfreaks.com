@@ -39,6 +39,7 @@ Be Careful：
 
 **Method 2**  Click to download [XGOBOT APP](https://drive.google.com/drive/folders/1dKgBIZHAHC7wmxSXXiN11KBBO8YB_MlC) **Install on Android phone, click![](./../images/cm4-xgo-preparation-03.png) to enter the wifi setting page, enter the wifi ssid and password to generate a QR code, start the network program in the robot dog Demos, let the robot dog camera scan the QR code, and the robot dog The wifi ssid and password will be displayed on the screen, and then the robot dog can be restarted. **
 
+
 ![](./../images/cm4-xgo-preparation-01.png)
 
 ![](./../images/cm4-xgo-preparation-02.png)

@@ -13,6 +13,7 @@ If you find the XGO cannot stand after pressing the power switch. At this time, 
 
 #### Phenomenon One: XGO can't respond when the switch is pressed
 
+
 It may be that the switching power supply circuit is broken. At this time, you need to disassemble the screws on the back, tail, and sides of the robot dog, remove the back panel to check the switching circuit, and repair it with an electric iron.
 
 

@@ -8,6 +8,7 @@ sidebar_label: Safety instructions
 To avoid possible injury and damage before operating the XGO-lite V2, the user should strictly follow all precautions and ensure that the XGO-lite V2 is properly assembled and in proper working condition. Hereinafter "SHENZHEN EF TECNOLOGY CO., LIMITED" is represented by "We" below:
 
 
+
 1. Please be sure to read and understand this document carefully before using this product to understand your legal rights, responsibilities and safety instructions; otherwise, failure to follow the guidelines may bring property damage, safety accidents and personal safety hazards; once you use this product, you are deemed to have understood, recognized and accepted all the terms and content of this document. Please be sure to operate in strict accordance with the product documentation; users undertake to be responsible for their own actions and all consequences arising therefrom.
 2. Unauthorized disassembly and modification of this product, informal maintenance, and unauthorized modification or decompilation of the XGO-lite V2 operating system are strictly prohibited. We do not assume any responsibility for all failures and damages caused by the above actions;
 3. It is strictly forbidden to operate this product in unconventional environments (such as high temperature, extreme cold, chemical corrosion, fire and water bubbles), etc. We shall not bear any responsibility for all failures and damages caused by the above-mentioned reasons;

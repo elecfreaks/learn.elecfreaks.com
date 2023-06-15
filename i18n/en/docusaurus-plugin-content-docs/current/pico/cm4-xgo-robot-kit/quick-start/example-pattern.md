@@ -79,6 +79,8 @@ The example mode means that the robot dog is separated from the mobile phone or 
 
 23. Network settings: After opening this program, let the robot dog scan the QR code containing the SSID and password of WIFI generated on the XGOBOT APP, and then let the robot dog connect to the specified WIFI.
 
+
+
 24. About Device: Display the firmware version of the lower computer, the version of the motion library and the image date of the Raspberry Pi.
 
     ![](./../images/cm4-xgo-exmple-13.png)

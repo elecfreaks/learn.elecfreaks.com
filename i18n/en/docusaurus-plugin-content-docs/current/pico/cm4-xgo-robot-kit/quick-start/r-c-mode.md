@@ -47,6 +47,7 @@ Start the Group program in the sample program of the robot dog, and the screen o
 
 Start the XGOBOT APP, let the robot dog and the mobile phone be under the same route, click the ![](./../images/cm4-xgo-control-08.png) button to enter the group control page, and click start to let the robot dog Synchronously perform show mode.
 
+
 ![](./../images/cm4-xgo-control-09.png)
 
 ![](./../images/cm4-xgo-control-10.png)

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Wukong2040发明家套装
+sidebar_label: Wukong2040发明家套装介绍
 ---
 
 # Wukong2040发明家套装介绍

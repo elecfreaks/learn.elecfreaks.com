@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Wukong2040 Inventor's Kit
+sidebar_label: Wukong2040 Inventor's Kit Introduction
 ---
 
 # Wukong2040 Inventor's Kit Introduction

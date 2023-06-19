@@ -1,5 +1,5 @@
 ---
-sidebar_position: 15
+sidebar_position: 16
 sidebar_label: 案例09 噪音检测器
 ---
 

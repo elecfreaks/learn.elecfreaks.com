@@ -97,7 +97,7 @@
 
 ![](./images/case-17-03.png)
 
-请参考程序连接：[https://makecode.microbit.org/_1v3bWhet40hr](https://makecode.microbit.org/_1v3bWhet40hr)
+请参考程序连接：[https://makecode.microbit.org/_f1VT513kDCyH](https://makecode.microbit.org/_f1VT513kDCyH)
 
 你也可以通过以下网页直接下载程序。
 
@@ -109,7 +109,7 @@
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_1v3bWhet40hr"
+        src="https://makecode.microbit.org/_f1VT513kDCyH"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

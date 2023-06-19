@@ -1,9 +1,10 @@
 ---
-sidebar_position: 9
-sidebar_label: 酷比特Pro套件
+sidebar_position: 8
+sidebar_label: 准备工作
 ---
 
-# Cutebot Pro智能赛车简介
+# 准备工作
+
 
 
 ## 目录

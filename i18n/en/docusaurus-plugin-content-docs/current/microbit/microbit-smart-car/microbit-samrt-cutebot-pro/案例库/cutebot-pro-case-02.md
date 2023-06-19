@@ -1,5 +1,4 @@
-# Case 01 向前行驶
-
+# Case 02 定速巡航
 
 程序链接：[https://makecode.microbit.org/_8gJVfwVJDY8b](https://makecode.microbit.org/_8gJVfwVJDY8b)
 

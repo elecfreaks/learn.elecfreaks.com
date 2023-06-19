@@ -17,7 +17,7 @@ What's more, the team at ELECFREAKS provides you with a wealth of learning examp
 
 ## Packing List
 
-
+![](./images/wukong2040-inventors-introduction-02.png)
 
 ## Powerful Wukong2040
 

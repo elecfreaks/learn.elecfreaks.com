@@ -17,7 +17,7 @@ Wukong2040发明家套装支持 MicroBlocks 图形化编程，对没有电子编
 
 ## 套件清单
 
-（产品配件照片图）
+![](./images/wukong2040-inventors-introduction-02.png)
 
 ## 强大的 Wukong2040
 

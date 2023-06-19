@@ -1,6 +1,6 @@
 ---
 sidebar_position: 14
-sidebar_label: Case 08: Open Sesame
+sidebar_label: Case 08 Open Sesame
 ---
 
 

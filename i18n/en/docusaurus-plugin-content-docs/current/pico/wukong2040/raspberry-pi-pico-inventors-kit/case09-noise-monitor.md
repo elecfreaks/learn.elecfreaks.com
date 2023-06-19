@@ -1,6 +1,6 @@
 ---
 sidebar_position: 15
-sidebar_label: Case 09: Noise Monitor
+sidebar_label: Case 09 Noise Monitor
 ---
 
 

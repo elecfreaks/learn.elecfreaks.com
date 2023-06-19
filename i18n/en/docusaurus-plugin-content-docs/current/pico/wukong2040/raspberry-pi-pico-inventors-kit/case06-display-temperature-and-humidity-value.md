@@ -1,6 +1,6 @@
 ---
 sidebar_position: 12
-sidebar_label: Case 06: Display Temperature and Humidity Value
+sidebar_label: Case 06 Display Temperature and Humidity Value
 ---
 
 # Case 06: Display Temperature and Humidity Value
@@ -71,11 +71,11 @@ while True:
     oled.set_clear()
 ```
 
-## Case display 
+## Case display
 
 ![](./images/wukong2040-inventors-kit-case06-06.gif)
 
-## Think 
+## Think
 
 Can you set a threshold value for temperature and humidity and have the buzzer sound an alarm when this value is reached?
 

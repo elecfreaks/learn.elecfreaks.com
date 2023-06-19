@@ -1,6 +1,6 @@
 ---
 sidebar_position: 9
-sidebar_label: Case 03: Warmth in the Dark
+sidebar_label: Case 03 Warmth in the Dark
 ---
 
 # Case 03: Warmth in the Dark
@@ -19,7 +19,7 @@ Being alone in a dark room is not only frightening but also gives you a feeling 
 
 1 × USB cable
 
-1 × Green LED 
+1 × Green LED
 
 1 × Light sensor
 

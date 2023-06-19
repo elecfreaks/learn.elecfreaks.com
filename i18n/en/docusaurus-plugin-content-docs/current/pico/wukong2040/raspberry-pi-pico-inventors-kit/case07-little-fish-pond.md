@@ -1,6 +1,6 @@
 ---
 sidebar_position: 13
-sidebar_label: Case 07: Little Fish Pond
+sidebar_label: Case 07 Little Fish Pond
 ---
 
 # Case 07: Little Fish Pond

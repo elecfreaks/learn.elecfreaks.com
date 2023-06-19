@@ -1,6 +1,6 @@
 ---
 sidebar_position: 7
-sidebar_label: Case 01: The Flashing Stars
+sidebar_label: Case 01 The Flashing Stars
 ---
 
 # Case 01: The Flashing Stars

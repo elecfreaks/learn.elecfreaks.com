@@ -1,6 +1,6 @@
 ---
 sidebar_position: 11
-sidebar_label: Case 05: Simple Animation
+sidebar_label: Case 05 Simple Animation
 ---
 
 

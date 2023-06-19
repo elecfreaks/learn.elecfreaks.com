@@ -1,6 +1,6 @@
 ---
 sidebar_position: 8
-sidebar_label: Case 02: The Growing Stormwind
+sidebar_label: Case 02 The Growing Stormwind
 ---
 
 # Case 02: The Growing Stormwind
@@ -75,7 +75,7 @@ while True:
 
 ### Think
 
-How to make the wind weaker when we approach closer to the fan? 
+How to make the wind weaker when we approach closer to the fan?
 
 ### FAQ
 

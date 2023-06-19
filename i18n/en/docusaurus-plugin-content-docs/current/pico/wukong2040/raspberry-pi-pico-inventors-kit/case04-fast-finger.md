@@ -1,6 +1,6 @@
 ---
 sidebar_position: 10
-sidebar_label: Case 04: Fast Finger
+sidebar_label: Case 04 Fast Finger
 ---
 
 # Case 04: Fast Finger

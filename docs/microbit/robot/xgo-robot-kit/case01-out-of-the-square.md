@@ -1,6 +1,9 @@
+---
+sidebar_position: 8
+sidebar_label: 案例01 - 走出正方形
+---
+
 # 案例01-走出正方形
-
-
 
 ## 目的
 ---

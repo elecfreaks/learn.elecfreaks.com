@@ -1,3 +1,8 @@
+---
+sidebar_position: 16
+sidebar_label: Case 09 - "Sense" the Feelings of XGO
+---
+
 # Case 09: "Sense" the Feelings of XGO
 
 ![](./images/xgo-9-01.png)

@@ -1,3 +1,8 @@
+---
+sidebar_position: 11
+sidebar_label: 案例04 - 听声辩位
+---
+
 # 案例04-听声辩位
 
 

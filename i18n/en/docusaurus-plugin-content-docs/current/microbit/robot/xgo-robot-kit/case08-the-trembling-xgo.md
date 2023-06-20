@@ -1,3 +1,8 @@
+---
+sidebar_position: 15
+sidebar_label: Case 08 - The "Trembling" XGO
+---
+
 # Case 08: The "Trembling" XGO
 
 ![](./images/xgo-8-1.png)

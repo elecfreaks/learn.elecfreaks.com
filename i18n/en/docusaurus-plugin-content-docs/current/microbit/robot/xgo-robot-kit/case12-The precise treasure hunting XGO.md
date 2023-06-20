@@ -1,3 +1,8 @@
+---
+sidebar_position: 19
+sidebar_label: Case 12-The precise treasure hunting XGO
+---
+
 # Case 12-The precise treasure hunting XGO
 
 ## Introduction

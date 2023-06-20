@@ -1,3 +1,8 @@
+---
+sidebar_position: 13
+sidebar_label: Case 06 - Use Joystick:bit to Control the XGO
+---
+
 # Case 06 -Use Joystick:bit to Control the XGO
 
 ![](./images/xgo-6-1.png)

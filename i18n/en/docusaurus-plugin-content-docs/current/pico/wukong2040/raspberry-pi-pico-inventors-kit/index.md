@@ -3,9 +3,9 @@ sidebar_position: 1
 sidebar_label: Wukong2040 Inventor's Kit
 ---
 
-## Wukong2040 Inventor's Kit
+# Wukong2040 Inventor's Kit
 
-## Directory
+# Directory
 
 The Wukong2040 Inventor's Kit is a kit developed for inventors learning to program electronics. It includes a multifunctional expansion board-the Wukong2040, designed for the Raspberry Pi Pico, as well as 11 different types of sensors and actuators to create a wide range of interesting and practical projects.
 

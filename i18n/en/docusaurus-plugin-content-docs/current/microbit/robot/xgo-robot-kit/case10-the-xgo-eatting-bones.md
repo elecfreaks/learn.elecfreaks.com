@@ -1,3 +1,8 @@
+---
+sidebar_position: 17
+sidebar_label: Case 10 - The XGO Eatting Bones
+---
+
 # Case 10: The XGO Eatting Bones
 
 ![](./images/xgo-10-1.png)

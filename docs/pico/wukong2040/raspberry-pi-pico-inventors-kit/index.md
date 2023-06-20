@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: Wukong2040 发明家套装
 ---
 
-## Wukong2040 发明家套装
+# Wukong2040 发明家套装
 
 Wukong2040发明家套装是一款专为学习电子编程的发明家而研发的套件。Wukong2040发明家套装包含一款专为 Raspberry Pi Pico 设计的多功能扩展板-Wukong2040，以及包含11个不同类型的传感器与执行器，可以满足您制作众多有趣且实用的项目。
 

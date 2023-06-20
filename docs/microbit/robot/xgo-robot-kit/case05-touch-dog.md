@@ -1,6 +1,11 @@
+---
+sidebar_position: 12
+sidebar_label: 案例05 - 触摸XGO
+---
+
 # 案例05-触摸XGO
 
-
+![](./images/xgo-5-1.png)
 
 ## 目的
 ---

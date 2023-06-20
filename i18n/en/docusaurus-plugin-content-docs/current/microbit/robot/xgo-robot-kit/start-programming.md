@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+sidebar_label: Assemble the hardware
+---
+
 # Assemble the hardware
 
 ## Step 1

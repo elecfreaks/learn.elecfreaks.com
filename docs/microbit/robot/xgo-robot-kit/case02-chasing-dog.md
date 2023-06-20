@@ -1,12 +1,15 @@
+---
+sidebar_position: 9
+sidebar_label: 案例02 - 追光的XGO
+---
+
 # 案例02-追光的XGO
 
-
+![](./images/2.png)
 
 ## 目的
 ---
 让 XGO 实现根据光线照在micro:bit上的强弱而前进或者趴下。
-
-
 
 ## 使用材料
 ---

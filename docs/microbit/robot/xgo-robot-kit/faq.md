@@ -37,7 +37,6 @@ sidebar_label: FAQ
 
 ![](./images/microbit-xgo-lite2-faq-06.png)
 
-![](./images/microbit-xgo-lite2-faq-03.png)
 
 ## 更换舵机
 

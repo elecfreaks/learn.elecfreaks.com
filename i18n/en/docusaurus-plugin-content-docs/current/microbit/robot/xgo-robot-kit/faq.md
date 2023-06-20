@@ -27,17 +27,15 @@ When you find that your robot dog’s posture is abnormal, such as standing post
 
 ![](./images/microbit-xgo-lite2-faq-05.png)
 
-4. At this time, the servo of the robot dog will no longer output torque, allowing you to rotate all joints. Place the robot dog according to the posture shown in the figure below. Note that the shoulder of each leg is perpendicular to the body, the thigh is perpendicular to the ground, and the calf is perpendicular to the thigh. **Open the jaws to the maximum range**, and fold the robotic arm on the back On the other hand, whether it is placed vertically will directly affect the posture of the robot dog when it is working.
-
-![](./images/microbit-xgo-lite2-faq-01.png)
-
-![](./images/microbit-xgo-lite2-faq-02.png)
-
-5. After placing the standard, click the "Complete Calibration" button in the calibration interface, and the robot dog will return to the initial standing posture after 10 seconds.
+4. At this time, the servo of the robot dog will no longer output torque, allowing you to rotate all joints. Place the robot dog according to the posture shown in the figure below. Note that the shoulder of each leg is perpendicular to the body, the thigh is perpendicular to the ground, and the calf is perpendicular to the thigh. whether it is placed vertically will directly affect the posture of the robot dog when it is working.
 
 ![](./images/xgo-005.png)
 
 ![](./images/xgo-006.png)
+
+5. After placing the standard, click the "Complete Calibration" button in the calibration interface, and the robot dog will return to the initial standing posture after 10 seconds.
+
+![](./images/microbit-xgo-lite2-faq-06.png)
 
 ## Replace Servos
 

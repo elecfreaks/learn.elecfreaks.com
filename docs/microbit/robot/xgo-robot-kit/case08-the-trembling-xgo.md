@@ -1,9 +1,9 @@
 ---
 sidebar_position: 15
-sidebar_label: 瑟瑟发抖的 XGO
+sidebar_label: 案例08 - 瑟瑟发抖的 XGO
 ---
 
-# 瑟瑟发抖的 XGO
+# 案例08 - 瑟瑟发抖的 XGO
 
 ![](./images/microbit-xgo-robot-kit-case08-01.png)
 

@@ -1,9 +1,9 @@
 ---
 sidebar_position: 19
-sidebar_label: 精准寻宝的 XGO
+sidebar_label: 案例12 - 精准寻宝的 XGO
 ---
 
-# 精准寻宝的 XGO
+# 案例12 - 精准寻宝的 XGO
 
 ## 介绍
 

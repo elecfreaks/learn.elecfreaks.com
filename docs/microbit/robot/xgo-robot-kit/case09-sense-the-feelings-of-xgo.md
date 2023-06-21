@@ -1,10 +1,10 @@
 ---
 sidebar_position: 16
-sidebar_label: XGO 的快乐，我知道
+sidebar_label: 案例09 - XGO 的快乐，我知道
 ---
 
 
-# XGO 的快乐，我知道
+# 案例09 - XGO 的快乐，我知道
 
 ![](./images/microbit-xgo-robot-kit-case09-01.png)
 

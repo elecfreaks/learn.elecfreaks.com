@@ -1,8 +1,8 @@
 ---
 sidebar_position: 17
-sidebar_label: 吃骨头的 XGO
+sidebar_label: 案例10 - 吃骨头的 XGO
 ---
-# 吃骨头的 XGO
+# 案例10 - 吃骨头的 XGO
 
 ![](./images/microbit-xgo-robot-kit-case10-01.png)
 

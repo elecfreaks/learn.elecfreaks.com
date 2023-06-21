@@ -1,9 +1,9 @@
 ---
 sidebar_position: 14
-sidebar_label: 案例07-移动端XGO APP控制XGO
+sidebar_label: 案例07 - 移动端XGO APP控制XGO
 ---
 
-# 案例07-移动端XGO APP控制XGO
+# 案例07 - 移动端XGO APP控制XGO
 
 ![](./images/xgo-app.png)
 

@@ -3,7 +3,7 @@ sidebar_position: 9
 sidebar_label: 案例02 - 追光的XGO
 ---
 
-# 案例02-追光的XGO
+# 案例02 - 追光的XGO
 
 ![](./images/2.png)
 

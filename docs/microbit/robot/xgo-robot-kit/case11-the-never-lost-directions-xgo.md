@@ -1,9 +1,9 @@
 ---
 sidebar_position: 18
-sidebar_label: 不会迷路的 XGO
+sidebar_label: 案例11 - 不会迷路的 XGO
 ---
 
-# 不会迷路的 XGO
+# 案例11 - 不会迷路的 XGO
 
 ![](./images/microbit-xgo-robot-kit-case11-01.png)
 

@@ -4,6 +4,8 @@
 ---
 - Use the Cutebot and [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) to achieve the face tracking function.
 
+![](./images/cutebot-case-21-01.png)
+
 ## Materials required
 ---
 
@@ -129,7 +131,7 @@ You may also download it directly below:
 ---
 - If the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) recognizes the face(s), the LED screen displays √; or it displays ×.
 
-
+![](./images/cutebot-case-21.gif)
 
 ## Exploration
 ---

@@ -9,6 +9,8 @@ sidebar_label: 自动车大灯
 ---
 - 让你的Cute:bot智能赛车在黑暗中自动打开车头灯，照亮前方道路。
 
+![](./images/cutebot-case-05-01.png)
+
 ## 使用材料
 ---
 - 1 x [Cutebot套件](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.23.78b86655ZP5Yg8&id=598365555295)
@@ -77,6 +79,8 @@ sidebar_label: 自动车大灯
 ## 思考
 ---
 - 如何编程让小车再每次经过黑暗区的时候，车灯都能亮起不同的颜色。(RGB值控制颜色)
+
+![](./images/cutebot-case-05.gif)
 
 ## 常见问题
 ---

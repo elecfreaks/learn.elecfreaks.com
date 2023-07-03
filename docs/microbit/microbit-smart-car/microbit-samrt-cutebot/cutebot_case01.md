@@ -9,6 +9,8 @@ sidebar_label: 全速前进或倒退
 ---
 - 让你的Cute:bot智能赛车完成最基本的前进后退。
 
+![](./images/cutebot-case-01-01.png)
+
 ## 使用材料
 ---
 - 1 x [Cutebot套件](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.23.78b86655ZP5Yg8&id=598365555295)
@@ -79,6 +81,8 @@ sidebar_label: 全速前进或倒退
 ---
 - 当按钮A按下时，小车全速前进。
 - 当按钮B按下时，小车全速后退。
+
+![](./images/cutebot-case-01.gif)
 
 ## 思考
 ---

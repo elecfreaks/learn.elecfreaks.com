@@ -8,6 +8,8 @@ sidebar_label: 防跌落小车
 ---
 - 沿着桌面边缘贴一圈黑色胶纸，小车检测到黑线时会迅速后退，然后换一个方向继续前进。
 
+![](./images/cutebot-case-07-01.png)
+
 ## 使用材料
 ---
 - 1 x [Cutebot套件](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.23.78b86655ZP5Yg8&id=598365555295)
@@ -72,6 +74,8 @@ sidebar_label: 防跌落小车
 ## 结论
 ---
 - 沿着桌面边缘贴一圈黑色胶纸，小车检测到黑线时会迅速后退，然后换一个方向继续前进。
+
+![](./images/cutebot-case-07.gif)
 
 ## 思考
 ---

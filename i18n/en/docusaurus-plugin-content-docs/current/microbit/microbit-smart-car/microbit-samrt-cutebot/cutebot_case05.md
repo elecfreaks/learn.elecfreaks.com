@@ -4,6 +4,8 @@
 ---
 - Make your  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) turn on its headlights automatically in the darkness.
 
+![](./images/cutebot-case-05-01.png)
+
 ## Materials
 ---
 - 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -67,6 +69,8 @@ You can also download it directly below:
 ## Result
 ---
 - The headlights turn on automatically  when going into the darkness and turn off after passing the darkness area.
+
+![](./images/cutebot-case-05.gif)
 
 ## Exploration
 ---

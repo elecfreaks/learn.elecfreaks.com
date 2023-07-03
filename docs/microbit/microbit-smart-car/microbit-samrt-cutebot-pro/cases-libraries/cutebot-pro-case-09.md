@@ -40,7 +40,7 @@ micro:bit × 1
 
 ### 示例代码
 
-![](./images/cutebot-pro-case-02-02.png)
+![](./images/cutebot-pro-case-09-02.png)
 
 
 请参考程序连接：[https://makecode.microbit.org/_35vDd71jg3tb](https://makecode.microbit.org/_35vDd71jg3tb)

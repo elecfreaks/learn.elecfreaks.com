@@ -4,6 +4,8 @@
 ---
 - 使用cutebot智能赛车搭配AI摄像头实现人脸识别功能。
 
+![](./images/cutebot-case-21-01.png)
+
 ## 使用材料
 ---
 - 1 × [Cutebot V3.0](https://item.taobao.com/item.htm?ft=t&id=598365555295)
@@ -122,7 +124,7 @@
 - 如果摄像头检测到人脸，则LED矩阵显示√，否则显示×。
 
 
-
+![](./images/cutebot-case-21.gif)
 
 ## 思考
 ---

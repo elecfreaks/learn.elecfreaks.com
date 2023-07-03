@@ -4,6 +4,8 @@
 ---
 - 使用cutebot智能赛车搭配AI摄像头实现巡线功能。
 
+![](./images/cutebot-case-16-01.png)
+
 ## 使用材料
 ---
 - 1 × [Cutebot V3.0](https://item.taobao.com/item.htm?ft=t&id=598365555295)

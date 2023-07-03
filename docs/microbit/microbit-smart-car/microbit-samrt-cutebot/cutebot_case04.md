@@ -9,6 +9,8 @@ sidebar_label: 随便跑跑
 ---
 - 让你的Cute:bot智能赛车像是有思维一样，以他的想法前进，后退转向等。
 
+![](./images/cutebot-case-04-01.png)
+
 ## 使用材料
 ---
 - 1 x [Cutebot套件](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.23.78b86655ZP5Yg8&id=598365555295)
@@ -74,6 +76,8 @@ sidebar_label: 随便跑跑
 ## 结论
 ---
 - 小车随机前进，后退或者转向。
+
+![](./images/cutebot-case-04.gif)
 
 ## 思考
 ---

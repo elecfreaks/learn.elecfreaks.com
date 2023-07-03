@@ -4,6 +4,8 @@
 ---
 - Use the joystick:bit to control the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html).
 
+![](./images/cutebot-case-13-01.png)
+
 ## Materials
 ---
 - 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -106,6 +108,8 @@ You can also download it directly below:
 ## Result
 ---
 - The rocker controls the movement of the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html).
+
+![](./images/cutebot-case-13.gif)
 
 ## Exploration
 ---

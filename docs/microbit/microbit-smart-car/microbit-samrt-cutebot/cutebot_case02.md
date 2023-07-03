@@ -10,6 +10,8 @@ sidebar_label: 均匀加速
 - 完成上一个案例，大家会发现，后驱的Cutebot车速非常快，以至于在起步的时候，前万向轮会离开地面。
 - 本案例我们均匀的加速，完成一个平稳的起步。
 
+![](./images/cutebot-case-02-01.png)
+
 ## 使用材料
 ---
 - 1 x [Cutebot套件](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.23.78b86655ZP5Yg8&id=598365555295)
@@ -74,6 +76,8 @@ sidebar_label: 均匀加速
 ## 结论
 ---
 - 小车循环完成匀速起步，不会因为车速过快使前轮离地。
+
+![](./images/cutebot-case-02.gif)
 
 ## 思考
 ---

@@ -36,6 +36,8 @@ micro:bit × 1
 
 ### 示例代码
 
+![](./images/cutebot-pro-case-13-02.png)
+
 请参考程序连接：[https://makecode.microbit.org/_35vDd71jg3tb](https://makecode.microbit.org/_35vDd71jg3tb)
 
 你也可以通过以下网页直接下载程序。

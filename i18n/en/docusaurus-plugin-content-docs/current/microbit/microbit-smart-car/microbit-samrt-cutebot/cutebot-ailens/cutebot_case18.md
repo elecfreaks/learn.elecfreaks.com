@@ -4,6 +4,8 @@
 ---
 - Change the color of the lights via the color of the cards with the Smart [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html).
 
+![](./images/cutebot-case-18-01.png)
+
 ## Materials required
 ---
 
@@ -128,7 +130,7 @@ You may also download it directly below:
 ---
 - The lights change the color in accordance with the color of the cards.
 
-
+![](./images/cutebot-case-18.gif)
 
 ## Exploration
 ---

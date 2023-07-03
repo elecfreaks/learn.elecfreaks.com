@@ -4,6 +4,8 @@
 ---
 - 使用cutebot智能赛车搭配AI摄像头实现摄像头一键学习功能。
 
+![](./images/cutebot-case-20-01.png)
+
 ## 使用材料
 ---
 - 1 × [Cutebot V3.0](https://item.taobao.com/item.htm?ft=t&id=598365555295)
@@ -129,7 +131,7 @@
 ---
 - 当按钮A被按下时，学习图像中的对象为ID1，学习完成后，当识别到ID1时，LED车头灯显示蓝色，LED矩阵显示√，否则设置LED车头灯显示红色，LED矩阵显示×。
 
-
+![](./images/cutebot-case-20.gif)
 
 
 ## 思考

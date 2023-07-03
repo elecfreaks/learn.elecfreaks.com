@@ -4,6 +4,8 @@
 - Make your  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) move in the figure-of-eight.
 -  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) is a car with three wheels and the direction is adjusted by the different speed of the left and right wheels.
 
+![](./images/cutebot-case-03-01.png)
+
 ## Materials
 ---
 - 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -67,6 +69,8 @@ You can also download it directly below:
 ## Result
 ---
 - The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)moves in the "figure-of-eight".
+
+![](./images/cutebot-case-03.gif)
 
 ## Exploration
 ---

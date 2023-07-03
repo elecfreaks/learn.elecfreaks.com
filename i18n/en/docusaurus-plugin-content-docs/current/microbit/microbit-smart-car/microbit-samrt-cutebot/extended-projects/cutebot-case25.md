@@ -3,6 +3,9 @@
 ## Purpose
 Display the expressions through an 8 x 16 dot matrix screen.
 
+
+![](./images/cutebot-case-25-01.png)
+
 ## Materials
 
 1 × [Cutebot smart car](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -71,5 +74,6 @@ You can also download the program directly from the following webpage.
 
 When the micro:bit V2 logo is touched, the 8×16 dot matrix screen displays expressions and the cutebot smart car moves forward.
 
+![](./images/cutebot-case-25.gif)
 
 ## Exploration

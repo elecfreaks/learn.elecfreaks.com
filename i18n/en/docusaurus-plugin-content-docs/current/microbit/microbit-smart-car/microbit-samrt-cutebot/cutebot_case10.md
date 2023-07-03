@@ -4,6 +4,8 @@
 ---
 - The [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) moves with a fixed distance between the car and your hands.
 
+![](./images/cutebot-case-10-01.png)
+
 ## Materials
 ---
 - 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -74,6 +76,8 @@ You can also download it directly below:
 ## Result
 ---
 - The [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) adjusts itself to keep a fixed distance with your hands.
+
+![](./images/cutebot-case-10.gif)
 
 ## Exploration
 ---

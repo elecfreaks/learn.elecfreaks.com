@@ -4,6 +4,8 @@
 ---
 - The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) runs along the black line.
 
+![](./images/cutebot-case-08-01.png)
+
 ## Materials
 ---
 - 1 x [Cutebot kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -75,6 +77,8 @@ You can also download it directly below:
 ## Result
 ---
 - The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) runs along the black line and will adjust to run back to the black line if any deviation happens.
+
+![](./images/cutebot-case-08.gif)
 
 ## Exploration
 ---

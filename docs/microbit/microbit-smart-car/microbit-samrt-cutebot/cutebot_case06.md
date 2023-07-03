@@ -9,6 +9,8 @@ sidebar_label: 转向示廓灯
 ---
 - 让你的Cute:bot智能赛车转弯时开启转向灯和转向示廓灯。
 
+![](./images/cutebot-case-06-01.png)
+
 ## 使用材料
 ---
 - 1 x [Cutebot套件](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.23.78b86655ZP5Yg8&id=598365555295)
@@ -85,6 +87,8 @@ sidebar_label: 转向示廓灯
 ## 思考
 ---
 - 如何让你的小车按下按钮A开启双闪，按下按钮B关闭双闪呢。
+
+![](./images/cutebot-case-06.gif)
 
 ## 常见问题
 ---

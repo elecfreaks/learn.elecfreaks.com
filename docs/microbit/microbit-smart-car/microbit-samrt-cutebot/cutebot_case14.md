@@ -10,6 +10,8 @@ sidebar_label: 红外遥控小车
 ---
 - 使用红外遥控器控制Cutebot智能赛车
 
+![](./images/cutebot-case-14-01.png)
+
 ## 使用材料
 ---
 - 1 x [Cutebot套件](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.14.63585ccfBF5HDq&id=598365555295)
@@ -72,6 +74,8 @@ sidebar_label: 红外遥控小车
 ## 结论
 ---
 - 通过红外遥控器控制小车前进、后退、左转、右转、停车。
+
+![](./images/cutebot-case-14.gif)
 
 ## 思考
 ---

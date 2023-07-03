@@ -3,6 +3,8 @@
 ## 目的
 使用cutebot智能赛车搭配AI摄像头实现小车根据卡片颜色来自动启动和停车的功能。
 
+![](./images/cutebot-case-24.png)
+
 ## 使用材料
 
 1 × [Cutebot 智能赛车](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -115,7 +117,7 @@
 AI摄像头检测到红色卡片时，小车停止行驶并显示红色灯光，AI摄像头检测到绿色卡片时，小车继续向前行驶并显示绿色灯光。
 
 
-
+![](./images/cutebot-case-24.gif)
 
 ## 思考
 

@@ -10,6 +10,8 @@ sidebar_label: 8字舞蹈
 - 让你的Cute:bot智能赛车沿着8字轨迹运行。
 - Cutebot智能赛车是通过左右轮的速度差来完成转向的，是一个三轮车。
 
+![](./images/cutebot-case-03-01.png)
+
 ## 使用材料
 ---
 - 1 x [Cutebot套件](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.23.78b86655ZP5Yg8&id=598365555295)
@@ -78,6 +80,8 @@ sidebar_label: 8字舞蹈
 ## 思考
 ---
 - 如果想要让小车以一个正方形轨迹行驶，如何编程。
+
+![](./images/cutebot-case-03.gif)
 
 ## 常见问题
 ---

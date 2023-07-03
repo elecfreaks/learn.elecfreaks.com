@@ -4,6 +4,8 @@
 ---
 - Use an infrared remote control to give orders to the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html).
 
+![](./images/cutebot-case-14-01.png)
+
 ## Materials
 ---
 - 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -66,6 +68,8 @@ You can also download it directly below:
 ## Conclusion
 ---
 - Programme to use the IR Remote Control to give orders of moving forward, reversing, turning left/right and stopping to the car.
+
+![](./images/cutebot-case-14.gif)
 
 ## Exploration
 ---

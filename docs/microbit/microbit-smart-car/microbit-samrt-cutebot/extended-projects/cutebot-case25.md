@@ -3,6 +3,8 @@
 ## 目的
 通过8×16点阵屏幕显示表情。
 
+![](./images/cutebot-case-25-01.png)
+
 ## 使用材料
 
 1 × [Cutebot 智能赛车](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -72,7 +74,7 @@
 
 当micro:bit V2的徽标被触摸，则8×16点阵屏显示表情，并且cutebot智能赛车向前行驶。
 
-
+![](./images/cutebot-case-25.gif)
 
 
 ## 思考

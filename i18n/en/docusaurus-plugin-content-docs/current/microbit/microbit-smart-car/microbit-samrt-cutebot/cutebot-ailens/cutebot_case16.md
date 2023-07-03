@@ -4,6 +4,8 @@
 ---
 - Use the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) and the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) to achieve the line tracking function.
 
+![](./images/cutebot-case-16-01.png)
+
 ## Materials required
 ---
 

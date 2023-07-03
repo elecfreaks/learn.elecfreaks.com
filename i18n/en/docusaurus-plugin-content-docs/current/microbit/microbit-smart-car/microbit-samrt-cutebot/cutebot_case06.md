@@ -4,6 +4,8 @@
 ---
 - Make your  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) turn on its steering and clearance lamps when making a turn.
 
+![](./images/cutebot-case-06-01.png)
+
 ## Materials
 ---
 - 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -76,6 +78,8 @@ You can also download it directly below:
 ---
 - After pressing button A, the LED and clearance lamp on the right side flashes 5 times.
 - After pressing button B, the LED and clearance lamp on the left side flashes 5 times.
+
+![](./images/cutebot-case-06.gif)
 
 ## Exploration
 ---

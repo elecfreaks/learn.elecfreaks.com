@@ -9,6 +9,8 @@ sidebar_label: 沿着黑线行驶
 ---
 - 让你的Cute:bot智能赛车完成寻黑线绕圈跑。
 
+![](./images/cutebot-case-08-01.png)
+
 ## 使用材料
 ---
 - 1 x [Cutebot套件](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.23.78b86655ZP5Yg8&id=598365555295)
@@ -81,6 +83,8 @@ sidebar_label: 沿着黑线行驶
 ## 思考
 ---
 - 如何在Cutebot自带地图外侧的白圈内行驶而不驶出地图。
+
+![](./images/cutebot-case-08.gif)
 
 ## 常见问题
 ---

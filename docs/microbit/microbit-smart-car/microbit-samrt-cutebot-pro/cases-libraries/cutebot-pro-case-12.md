@@ -46,7 +46,7 @@ PID是比例（Proportional）、积分（Integral）和微分（Derivative）�
 
 ### 示例代码
 
-![](./images/cutebot-pro-case-02-02.png)
+![](./images/cutebot-pro-case-12-02.png)
 
 
 请参考程序连接：[https://makecode.microbit.org/_35vDd71jg3tb](https://makecode.microbit.org/_35vDd71jg3tb)

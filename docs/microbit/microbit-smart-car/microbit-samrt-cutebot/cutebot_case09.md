@@ -9,6 +9,8 @@ sidebar_label: 智能避障行驶
 ---
 - 让你的Cute:bot智能赛车完成自动避障行驶。
 
+![](./images/cutebot-case-09-01.png)
+
 ## 使用材料
 ---
 - 1 x [Cutebot套件](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.23.78b86655ZP5Yg8&id=598365555295)
@@ -75,6 +77,8 @@ sidebar_label: 智能避障行驶
 ## 结论
 ---
 - 小车全速前进，当检测到20cm之内有障碍物时，向右旋转一个角度，继续前进。
+
+![](./images/cutebot-case-09.gif)
 
 ## 思考
 ---

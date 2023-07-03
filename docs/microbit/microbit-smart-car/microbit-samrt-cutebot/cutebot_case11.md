@@ -10,6 +10,8 @@ sidebar_label: micro:bit远程控制
 - 使用另一块micorbit主板远程操控Cutebot赛车。
 - 两块主板都需要编程
 
+![](./images/cutebot-case-11-01.png)
+
 ## 使用材料
 ---
 - 1 x [Cutebot套件](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.23.78b86655ZP5Yg8&id=598365555295)
@@ -106,6 +108,8 @@ sidebar_label: micro:bit远程控制
 - 按下遥控端microbit的A+B按钮，小车直行
 - 按下遥控端microbit的A按钮，小车左转
 - 按下遥控端microbit的B按钮，小车右转
+
+![](./images/cutebot-case-11.gif)
 
 ## 思考
 ---

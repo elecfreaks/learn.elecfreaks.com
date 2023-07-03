@@ -9,6 +9,8 @@ sidebar_label: joystick:bit手柄远程控制
 ---
 - 使用joystick:bit遥控器的摇杆和按钮完成远程遥控Cutebot。
 
+![](./images/cutebot-case-13-01.png)
+
 ## 使用材料
 ---
 - 1 x [Cutebot套件](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.23.78b86655ZP5Yg8&id=598365555295)
@@ -111,6 +113,8 @@ sidebar_label: joystick:bit手柄远程控制
 ## 结论
 ---
 - 用手柄摇杆可以控制小车前进后退转弯速度等。
+
+![](./images/cutebot-case-13.gif)
 
 ## 思考
 ---

@@ -4,6 +4,8 @@
 ---
 - The [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) avoids the obstacles automatically to move forward.
 
+![](./images/cutebot-case-09-01.png)
+
 ## Materials
 ---
 - 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -71,6 +73,8 @@ You can also download it directly below:
 ## Result
 ---
 - The [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) moves forward at its full speed and will make a right turn to keep going if any obstacle being detected.
+
+![](./images/cutebot-case-09.gif)
 
 ## Exploration
 ---

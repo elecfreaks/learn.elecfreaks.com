@@ -4,6 +4,8 @@
 ---
 - 使用cutebot智能赛车搭配AI摄像头实现根据识别的颜色调整车灯颜色的功能。
 
+![](./images/cutebot-case-18-01.png)
+
 ## 使用材料
 ---
 - 1 × [Cutebot V3.0](https://item.taobao.com/item.htm?ft=t&id=598365555295)
@@ -122,7 +124,7 @@
 - 当小车根据摄像头识别到的颜色改变灯光颜色。
 
 
-
+![](./images/cutebot-case-18.gif)
 
 ## 思考
 ---

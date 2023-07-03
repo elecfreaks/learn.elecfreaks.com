@@ -4,6 +4,8 @@
 ---
 - Use the Cutebot and [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) to achieve the one button to learn function.
 
+![](./images/cutebot-case-20-01.png)
+
 ## Materials required
 ---
 
@@ -136,7 +138,7 @@ You may also download it directly below:
 ---
 - While pressing button A, set the learnt target as ID1, after learning it, the LED headlights light on in blue and the icon √ is displaying on the screen if ID1 is recognized; or set the LED lights on in red and display icon × .
 
-
+![](./images/cutebot-case-20.gif)
 
 ## Exploration
 ---

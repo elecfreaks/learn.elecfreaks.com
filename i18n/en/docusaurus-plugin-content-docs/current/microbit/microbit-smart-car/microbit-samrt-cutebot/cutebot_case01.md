@@ -4,6 +4,8 @@
 ---
 - Learn the basic functions of  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) move forward or reverse.
 
+![](./images/cutebot-case-01-01.png)
+
 ## Materials
 ---
 - 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -74,6 +76,9 @@ You can also download it directly below:
 ---
 - After button A being pressed, the car moves forward at its full speed.
 - After button B being presseD, the car reverses at its full speed。
+
+
+![](./images/cutebot-case-01.gif)
 
 ## Exploration
 ---

@@ -9,6 +9,8 @@ sidebar_label: 定距跟车
 ---
 - 让你的Cute:bot智能赛车动态运行在一个和你的手固定距离位置上。
 
+![](./images/cutebot-case-10-01.png)
+
 ## 使用材料
 ---
 - 1 x [Cutebot套件](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.23.78b86655ZP5Yg8&id=598365555295)
@@ -76,6 +78,8 @@ sidebar_label: 定距跟车
 ## 结论
 ---
 - 小车距离手太远会前进靠近，太近远离，当距离合适的时候就停止。
+
+![](./images/cutebot-case-10.gif)
 
 ## 思考
 ---

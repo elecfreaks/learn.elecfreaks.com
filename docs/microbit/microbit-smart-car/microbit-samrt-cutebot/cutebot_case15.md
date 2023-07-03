@@ -8,6 +8,8 @@ sidebar_label: 寻光小车
 ---
 - 让cutebot智能赛车完成自动寻找光源的功能
 
+![](./images/cutebot-case-15-01.png)
+
 ## 使用材料
 ---
 - 1 x [Cutebot套件](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.23.78b86655ZP5Yg8&id=598365555295)
@@ -64,6 +66,8 @@ sidebar_label: 寻光小车
 ## 结论
 ---
 - 当没有检测到光源的时候小车原地旋转，当检测到光源时，小车全速前进。
+
+![](./images/cutebot-case-15.gif)
 
 ## 思考
 ---

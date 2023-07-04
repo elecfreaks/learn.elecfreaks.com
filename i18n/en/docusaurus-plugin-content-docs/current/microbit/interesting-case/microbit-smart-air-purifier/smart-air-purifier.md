@@ -1,11 +1,11 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 sidebar_label: 智能空气净化器
 ---
 
 # 智能空气净化器
 
-![]()
+
 
 ## 简介
 
@@ -21,7 +21,7 @@ sidebar_label: 智能空气净化器
 
 1 × micro:bit V2
 
-1 × IOT:bit 
+1 × IOT:bit
 
 1 × 八爪鱼灰尘传感器
 

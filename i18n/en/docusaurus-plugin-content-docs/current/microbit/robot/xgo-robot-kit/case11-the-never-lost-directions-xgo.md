@@ -1,6 +1,9 @@
+---
+sidebar_position: 18
+sidebar_label: Case 11-The Never Lost Directions XGO
+---
+
 # Case 11-The Never Lost Directions XGO
-
-
 
 ![](./images/3.png)
 

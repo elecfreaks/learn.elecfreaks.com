@@ -1,3 +1,8 @@
+---
+sidebar_position: 11
+sidebar_label: Case 04 - A Sound-controlled XGO Dog
+---
+
 # Case 04-A Sound-controlled XGO Dog
 
 ## Purpose

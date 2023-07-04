@@ -1,3 +1,8 @@
+---
+sidebar_position: 12
+sidebar_label: Case 05 - A Touch-controlled Dog
+---
+
 # Case 05 - A Touch-controlled Dog
 
 ![](./images/xgo-5-1.png)

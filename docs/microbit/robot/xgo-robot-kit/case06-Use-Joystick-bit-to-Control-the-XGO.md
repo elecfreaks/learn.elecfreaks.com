@@ -1,6 +1,11 @@
+---
+sidebar_position: 13
+sidebar_label: 案例06 - joystick:bit控制XGO
+---
+
 # 案例06 - joystick:bit控制XGO
 
-
+![](./images/xgo-6-1.png)
 
 ## 目的
 ---

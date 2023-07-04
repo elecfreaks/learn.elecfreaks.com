@@ -1,5 +1,6 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
+sidebar_label: 硬件装配
 ---
 
 # 硬件装配

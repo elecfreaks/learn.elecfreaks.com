@@ -1,3 +1,8 @@
+---
+sidebar_position: 14
+sidebar_label: Case 07 - Remote Control XGO with the APP
+---
+
 # Case 07: Remote Control XGO with the APP
 
 ![](./images/xgo-app.png)

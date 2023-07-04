@@ -1,4 +1,9 @@
-# 案例03-觅食的XGO
+---
+sidebar_position: 10
+sidebar_label: 案例03 - 觅食的XGO
+---
+
+# 案例03 - 觅食的XGO
 
 
 

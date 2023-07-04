@@ -1,3 +1,8 @@
+---
+sidebar_position: 9
+sidebar_label: Case 02 - A Light-controlled Dog
+---
+
 # Case 02 - A Light-controlled Dog
 
 ![](./images/xgo-2-1.png)

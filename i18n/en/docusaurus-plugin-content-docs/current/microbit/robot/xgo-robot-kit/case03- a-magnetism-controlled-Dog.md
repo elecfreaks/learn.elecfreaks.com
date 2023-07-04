@@ -1,3 +1,8 @@
+---
+sidebar_position: 10
+sidebar_label: Case 03 - A Magnetism-controlled Dog
+---
+
 # Case 03 - A Magnetism-controlled Dog
 
 ## Purpose

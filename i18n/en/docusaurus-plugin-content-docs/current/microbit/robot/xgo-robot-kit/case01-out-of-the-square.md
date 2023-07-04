@@ -1,3 +1,8 @@
+---
+sidebar_position: 8
+sidebar_label: Case 01 - Run in A Square Routine
+---
+
 # Case 01 - Run in A Square Routine
 
 ## Purpose

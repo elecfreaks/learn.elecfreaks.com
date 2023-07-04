@@ -1,5 +1,6 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
+sidebar_label: micro:bit XGO Robot Kit 简介
 ---
 
 # micro:bit XGO Robot Kit 简介

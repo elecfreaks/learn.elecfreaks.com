@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 sidebar_label: 智能宠物喂食器
 ---
 
@@ -17,7 +17,7 @@ sidebar_label: 智能宠物喂食器
 
 1 × micro:bit V2
 
-1 × IOT:bit 
+1 × IOT:bit
 
 1 × 八爪鱼人体红外传感器
 

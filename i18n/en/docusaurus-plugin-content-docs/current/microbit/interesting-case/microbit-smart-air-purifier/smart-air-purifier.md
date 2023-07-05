@@ -140,5 +140,3 @@ IOT:bit 的设计简单易用，适合中小学教育和创客项目，可以帮
 ## 更多信息，欢迎访问：
 
 ELECFREAKS 官方网站：[ELECFREAKS 官网](https://www.elecfreaks.com/)。
-
-售后邮箱：support@elecfreaks.com。

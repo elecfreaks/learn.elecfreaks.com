@@ -164,5 +164,3 @@ Octopus人体红外传感器链接 iot:bit P2引脚，Octopus超声波传感器�
 ## 更多信息，欢迎访问：
 
 ELECFREAKS 官方网站：[ELECFREAKS 官网](https://www.elecfreaks.com/)。
-
-售后邮箱：support@elecfreaks.com。

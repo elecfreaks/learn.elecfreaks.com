@@ -3,6 +3,9 @@
 ## Purpose
 Working with the AI lens, the Cutebot car is able to be controlled by starting moving or stopping by the cards in different colors.
 
+
+![](./images/cutebot-case-24-01.png)
+
 ## Materials
 
 1 × [Cutebot car](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -112,7 +115,7 @@ You can also download the program directly from the following webpage.
 
 When the AI lens detects a red card, the cart stops and shows a red light, and when the AI lens detects a green card, the cart continues moving forward and shows a green light.
 
-
+![](./images/cutebot-case-24.gif)
 
 
 ## Exploration

@@ -4,6 +4,8 @@
 ---
 - To make a ball-tracking Cutebot with the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html).
 
+![](./images/cutebot-case-19-01.png)
+
 ## Materials required
 ---
 
@@ -129,7 +131,7 @@ You may also download it directly below:
 ---
 - The Cutebot goes for the ball if the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) detects the ball and if the distance gets smaller enough, the Cutebot stops moving.
 
-
+![](./images/cutebot-case-19.gif)
 
 ## Exploration
 ---

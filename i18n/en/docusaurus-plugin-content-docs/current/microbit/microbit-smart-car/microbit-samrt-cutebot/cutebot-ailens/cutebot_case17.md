@@ -4,6 +4,8 @@
 ---
 -  Control the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) with the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) by recognizing the signpost cards.
 
+![](./images/cutebot-case-17-01.png)
+
 ## Materials required
 ---
 - 1 × [Cutebot V3.0](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -129,7 +131,7 @@ You may also download it directly below:
 ---
 If the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) regognizes the "forward" card, the car moves forward; if it recognizes the "turn-left" card, the car turns left and then goes forward; if it recognizes the "turn-right" card, the car turns right and then goes forward; if it recognizes the "stop" card, the car stops moving.
 
-
+![](./images/cutebot-case-17.gif)
 
 ## Exploration
 ---

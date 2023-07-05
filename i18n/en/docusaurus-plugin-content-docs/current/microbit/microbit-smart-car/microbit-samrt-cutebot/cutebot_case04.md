@@ -4,6 +4,8 @@
 ---
 - Make your  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) move(move forward, reverse or change direction) as if in "his" mind.
 
+![](./images/cutebot-case-04-01.png)
+
 ## Materials
 ---
 - 1 x [CutebotKit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -69,6 +71,8 @@ You can also download it directly below:
 ## Result
 ---
  The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) moves forward, reverses or changes its direction at random.
+
+![](./images/cutebot-case-04.gif)
 
 ## Exploration
 ---

@@ -3,6 +3,8 @@
 ---
 - The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) reverses quickly when detecting the edge of a table and goes forward after making a turn.
 
+![](./images/cutebot-case-07-01.png)
+
 ## Materials
 ---
 - 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -67,6 +69,8 @@ You can also download it directly below:
 ## Result
 ---
 - The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) reverses quickly when detecting the edge of a table and goes forward after making a turn.
+
+![](./images/cutebot-case-07.gif)
 
 ## Exploration
 ---

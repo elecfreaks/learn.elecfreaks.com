@@ -5,6 +5,8 @@
 - In case 01, we can find the  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) moves too fast to go steadily(the universal wheel goes off the ground) at the beginning.
 - We will learn to gradually speed up the car for a steady move at the beginning in this case.
 
+![](./images/cutebot-case-02-01.png)
+
 ## Materials
 ---
 - 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -68,6 +70,8 @@ You can also download it directly below:
 ## Result
 ---
 - The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) speeds up gradually and the universal wheel will not go off the ground due to the high speed.
+
+![](./images/cutebot-case-02.gif)
 
 ## Exploration
 ---

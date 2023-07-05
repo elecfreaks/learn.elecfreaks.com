@@ -4,6 +4,8 @@
 ---
 - Programme to make the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) seek the light source automatically.
 
+![](./images/cutebot-case-15-01.png)
+
 ## Materials
 ---
 - 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -60,6 +62,8 @@ You can also download it directly below:
 ## Result
 ---
 - The [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) spins if there is no light being detected or it drives forward to it at its full speed.
+
+![](./images/cutebot-case-15.gif)
 
 ## Exploration
 ---

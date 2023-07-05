@@ -5,6 +5,8 @@
 - Use the accelerometer in another micro:bit to remote control the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) for the direction and speed.
 - Both of the micro:bit need to be programmed.
 
+![](./images/cutebot-case-12-01.png)
+
 ## Materials
 ---
 - 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -103,6 +105,8 @@ You can also download it directly below:
 ---
 - The moving direction of the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) is controlled by the tilt degree of the micro:bit.
 - The tilt angle of the controlling micro:bit controls the speed of the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html).
+
+![](./images/cutebot-case-12.gif)
 
 ## Exploration
 ---

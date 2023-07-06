@@ -5,7 +5,7 @@
 - Use the accelerometer in another micro:bit to remote control the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) for the direction and speed.
 - Both of the micro:bit need to be programmed.
 
-![](./images/cutebot-case-12-01.png)
+``![](./images/cutebot-case-12-01.png)``
 
 ## Materials
 ---

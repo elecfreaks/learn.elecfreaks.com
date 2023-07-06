@@ -5,7 +5,7 @@
 - Use another micro:bit as a remote control for your [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html).
 - Both micro:bit needs to be programmed.
 
-![](./images/cutebot-case-11-01.png)
+``![](./images/cutebot-case-11-01.png)``
 
 ## Materials
 ---

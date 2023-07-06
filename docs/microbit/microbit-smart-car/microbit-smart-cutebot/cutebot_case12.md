@@ -10,7 +10,7 @@ sidebar_label: micro:bit加速度计远程控制
 - 使用另一块micorbit加速度计远程操控Cutebot赛车，可以控制小车360度方向和速度。
 - 两块主板都需要编程
 
-![](./images/cutebot-case-12-01.png)
+``![](./images/cutebot-case-12-01.png)``
 
 ## 使用材料
 ---

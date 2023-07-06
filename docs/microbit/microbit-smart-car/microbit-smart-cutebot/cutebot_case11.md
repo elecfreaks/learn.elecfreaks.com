@@ -10,7 +10,7 @@ sidebar_label: micro:bit远程控制
 - 使用另一块micorbit主板远程操控Cutebot赛车。
 - 两块主板都需要编程
 
-![](./images/cutebot-case-11-01.png)
+``![](./images/cutebot-case-11-01.png)``
 
 ## 使用材料
 ---

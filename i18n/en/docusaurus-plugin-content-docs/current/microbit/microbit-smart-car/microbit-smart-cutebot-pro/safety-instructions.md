@@ -1,38 +1,38 @@
 ---
 sidebar_position: 1
-sidebar_label: 安全说明
+sidebar_label: Safety Instructions
 ---
 
-# 安全说明
+# Safety Instructions
 
-使用前请仔细阅读说明书，在使用Cutebot Pro之前，请确保您已经详细阅读并理解了产品的使用说明书。按照说明书上的指导操作，以确保安全和正确的使用方式。
+Please read the instructions carefully before using the Cutebot Pro. Make sure you have read and understood the product's operating instructions in detail before using it. Follow the instructions in the manual to ensure safe and correct operation.
 
-年龄适用性：Cutebot Pro适用于3~6年级的学生。请确保用户的年龄符合使用要求，并在年龄适宜的监督下进行操作。对于年龄较小的儿童，需要有成年人的陪同和指导。
+Age appropriateness: Cutebot Pro is suitable for students in grades 3 to 6. Please ensure that the age of the user is appropriate for operation and that the operation is carried out under age appropriate supervision. For younger children, an adult will be requested to accompany.
 
-小心电源：在使用Cutebot Pro时，确保使用正确的电源适配器或电池，并正确连接电源。避免使用不合适的电源或混合使用不同类型的电池。同时，不要将电源接口暴露在潮湿或多尘的环境中，以防电击或损坏设备。
+Be careful with the power supply: when using the Cutebot Pro, ensure that the correct power adapter or batteries are used and that the power supply is properly connected. Avoid using an unsuitable power supply or mixing different types of batteries. Also, do not expose the power connector to wet or dusty environments to prevent electric shock or damage to the device.
 
-安全操作：在操作Cutebot Pro时，请遵循安全操作指南。确保将小车放置在平稳的表面上，并避免将手指或其他物体靠近运动部件以防夹伤。不要将Cutebot Pro放置在易碎物品或高处，以免发生意外损坏或摔落。
+Safe operation: follow the safety guidelines when operating the Cutebot Pro. Ensure that the cart is placed on a smooth surface and avoid placing fingers or other objects near the moving parts to prevent pinching. Do not place the Cutebot Pro on fragile objects or in high places to avoid accidental damage or dropping.
 
-不要拆解或修复：请勿自行拆解、修复或修改Cutebot Pro。如果发现任何故障或问题，请联系厂商或专业人士进行修理和维护。
+Do not disassemble or repair: do not disassemble, repair or modify the Cutebot Pro by yourself. if you find any problems, please contact the manufacturer or a professional for repair and maintenance.
 
-室内使用：Cutebot Pro适合在室内环境中使用。在接触电子元件和电路板之前，请确保您的双手干燥。避免在潮湿、多尘或有水的地方使用，以保持设备的完好和安全。
+Indoor operation: the Cutebot Pro is suitable for operation in an indoor environment. Make sure your hands are dry before touching the electronic components and circuit board. Avoid using it in wet, dusty or watery areas to keep the device intact and safe.
 
-学习环境安全：在使用Cutebot Pro进行学习和实验时，请确保学习环境安全。避免放置易燃物品或有害物质附近，并保持整洁有序的学习区域。
+Safety in the learning environment: when using the Cutebot Pro for learning and experimentation, ensure that the learning environment is safe. Avoid placing flammable objects or hazardous substances near it and maintain a tidy and organised learning area.
 
-长时间不使用时断电：在长时间不使用Cutebot Pro时，请断开电源并妥善存放。如果不使用电池，请将其取出以防止电池泄漏。
+Disconnect the power when not in use for long time: when not using the Cutebot Pro for long time, disconnect it from the power supply and store it properly. If the batteries are not in service, remove them to prevent them from leaking.
 
-遵守上述安全说明，能够确保您在使用Cutebot Pro时的安全性和顺利的学习体验。如果您有任何疑问或遇到问题，请及时联系相关厂商或专业人士寻求帮助。
+Following the above safety instructions will ensure your safety and a smooth learning experience when using the Cutebot Pro. If you have any questions or problems, please do not hesitate to contact the relevant manufacturer or professional for assistance.
 
-## 故障排查
+## Troubleshooting
 
-如果您在使用过程中遇到问题，请尝试以下方法进行故障排查：
+If you experience problems during operation, try the following methods of troubleshooting:
 
-检查所有连接是否牢固，确保线材没有松动或损坏。
+Check that all connections are secure and make sure that the wires are not loose or damaged.
 
-检查电池是否有足够的电量，如有需要，请给电池充电。
+Check that the battery has sufficient charge and recharge it if necessary.
 
-重新启动 Cutebot Pro 并重新下载程序软件，确保程序正确运行。
+Restart Cutebot Pro and re-download the program software to ensure it is working correctly.
 
-查阅相关文档和教程，确认您的操作和代码编写是否正确。
+Check the documentation and tutorials to make sure you are operating and writing the code correctly.
 
-如果问题仍然存在，请联系恩孚科技团队以获得技术支持。
+If the problem persists, please contact the ELECFREAKS team for technical support.

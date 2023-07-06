@@ -1,9 +1,9 @@
 ---
 sidebar_position: 4
-sidebar_label: 产品清单
+sidebar_label: Products list
 ---
 
-# 产品清单
+# Products List
 
 ![](./images/cutebot-pro-list-01.png)
 
@@ -11,12 +11,12 @@ sidebar_label: 产品清单
 
 ![](./images/cutebot-pro-list-02.png)
 
-1 × 超声波传感器
+1 × Ultrasonic sensor
 
 ![](./images/cutebot-pro-list-03.png)
 
-1 × 巡线地图
+1 × Line following map
 
 ![](./images/cutebot-pro-list-04.png)
 
-1 × USB线
+1 × USB cable

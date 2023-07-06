@@ -1,20 +1,20 @@
 ---
 sidebar_position: 3
-sidebar_label: 产品特性
+sidebar_label: Products features
 ---
 
-# 产品特性
+# Products Feature
 
-## 编码电机
-
-
-
-## 四路巡线
+## Encoder motors
 
 
 
-## 兼容积木
+## Four-way line following
 
 
 
-## 更多的扩展接口
+## Compatible with bricks
+
+
+
+## More expansion ports

@@ -1,14 +1,14 @@
 ---
 sidebar_position: 2
-sidebar_label: 四路红外巡线传感器学习路线
+sidebar_label: Four-way infrared line following sensor learning routine
 ---
 
-# 四路红外巡线传感器学习路线
+# Four-way infrared line following sensor learning routine
 
-将四路巡线传感器探头正对地图背景区域并按下学习按键；
+Place the four-way line following sensor probes directly in front of the map background area and press the learn button;
 
-此时 1~4 号探头指示灯倒序依次点亮，之后快速闪烁；
+At this point the probe indicators 1 to 4 light up in reverse order and then flash rapidly;
 
-当巡线探头指示灯高频闪烁时，应将巡线探头在背地图景和巡线轨迹上来回水平移动；
+When the patrol probe indicator is flashing at a high frequency, the patrol probe should be moved horizontally back and forth across the back ground map and the patrol track;
 
-当学习成功时，Cutebot Pro的LED车头灯会亮起绿色灯光两秒，当学习失败时，Cutebot Pro的LED车头灯会亮起红色灯光两秒。
+When learning is successful, the Cutebot Pro's LED headlight will light up green for two seconds, when learning is unsuccessful, the Cutebot Pro's LED headlight will light up red for two seconds.

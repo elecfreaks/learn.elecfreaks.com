@@ -1,38 +1,38 @@
 ---
 sidebar_position: 4
-sidebar_label: 积木块功能介绍
+sidebar_label: Functions introduction to the bricks
 ---
 
-# 积木块功能介绍
+# Functions introduction to the bricks
 
 
-| 分类 | 积木命令 | 说明  |
+| Classification | Command | Description |
 | ------------ | ------------------------------------------------------- | ------ |
-| **Basic** | ![](./images/cutebot-pro-programming-01.png)  | 使用此积木块，小车全速前进 |
-|              | ![](./images/cutebot-pro-programming-02.png)  | 使用此积木块，小车全速倒退 |
-|              | ![](./images/cutebot-pro-programming-03.png)  | 使用此积木块，分别设置左轮和右轮的速度，速度范围为-100~100 |
-|              | ![](./images/cutebot-pro-programming-04.png)  | 使用此积木块，设置左轮或者右轮或者全部车轮停止转动 |
-|              | ![](./images/cutebot-pro-programming-05.png)  | 使用此积木块，获取左侧车轮或者右侧车轮的转动速度（cm/s） |
-|              | ![](./images/cutebot-pro-programming-06.png)  | 使用此积木块，获取左侧车轮或者右侧车轮的转动角度 |
-|              | ![](./images/cutebot-pro-programming-07.png)  | 使用此积木块，清除已获取的左侧车轮或者右侧车轮的转动角度 |
-| **Headlights** | ![](./images/cutebot-pro-programming-08.png)  | 使用此积木块，设置左右RGB车灯显示的颜色为预设颜色 |
-|              | ![](./images/cutebot-pro-programming-09.png)  | 使用此积木块，设置左右RGB车灯显示的颜色 |
-|              | ![](./images/cutebot-pro-programming-10.png)  | 使用此积木块，关闭所有车头灯 |
-| **Four-Way** | ![](./images/cutebot-pro-programming-11.png)  | 使用此积木块，获取当前四路巡线传感器的状态值 |
-|              | ![](./images/cutebot-pro-programming-12.png)  | 使用此积木块，获取当前四路巡线传感器的状态 |
-|              | ![](./images/cutebot-pro-programming-13.png)  | 使用此积木块，获取四路巡线传感器偏移量 |
-|              | ![](./images/cutebot-pro-programming-14.png)  | 使用此积木块，单独获取四路巡线传感器某一通道的状态 |
-|              | ![](./images/cutebot-pro-programming-15.png)  | 使用此积木块，单独获取四路巡线传感器某一通道的灰度值 |
-| **HC-SR04** | ![](./images/cutebot-pro-programming-16.png)  | 获取超声波传感器的返回值 |
-| **PIDContrl** | ![](./images/cutebot-pro-programming-17.png)  | 设置车轮速度（速度范围为 20~50 cm/s） |
-|              | ![](./images/cutebot-pro-programming-18.png)  | 设置小车前进或者后退指定距离（单位：厘米、英寸、车轮转动角度） |
-|              | ![](./images/cutebot-pro-programming-19.png)  | 设置小车的转向方式和转向角度 |
-|              | ![](./images/cutebot-pro-programming-20.png)  | 设置方块边长（（单位：厘米、英寸）） |
-|              | ![](./images/cutebot-pro-programming-21.png)  | 设置小车向前行驶N个方块 |
-| **IRservo** | ![](./images/cutebot-pro-programming-22.png)  | 当接收到红外信号时，执行内部程序 |
-|              | ![](./images/cutebot-pro-programming-23.png)  | 识别红外遥控器的按钮是否被按下 |
-| **Extendinterface** | ![](./images/cutebot-pro-programming-24.png)  | 设置扩展电机的速度（-100~100） |
-|              | ![](./images/cutebot-pro-programming-25.png)  | 设置扩展电机停止转动 |
-|              | ![](./images/cutebot-pro-programming-26.png)  | 设置使用舵机的最大转动角度以及接入端口和转动角度 |
-|              | ![](./images/cutebot-pro-programming-27.png)  | 设置连续旋转舵机的接入端口及速度 |
-| **other** | ![](./images/cutebot-pro-programming-28.png)  | 获取当前小车的固件版本号 |
+| **Basic** | ![](./images/cutebot-pro-programming-01.png)  | Drive the car at full speed. |
+|              | ![](./images/cutebot-pro-programming-02.png)  | Reverse at full speed. |
+|              | ![](./images/cutebot-pro-programming-03.png)  | Set the speed of both wheels with the range from -100~100 |
+|              | ![](./images/cutebot-pro-programming-04.png)  | Set the left or right wheel or all wheels to stop turning |
+|              | ![](./images/cutebot-pro-programming-05.png)  | Obtain the speed of rotation of the left or right wheel (cm/s) |
+|              | ![](./images/cutebot-pro-programming-06.png)  | Get the rotation angle of the left or right wheel |
+|              | ![](./images/cutebot-pro-programming-07.png)  | Clear the acquired rotation angle of the left or right wheel |
+| **Headlights** | ![](./images/cutebot-pro-programming-08.png)  | Set the colour of the left and right RGB lights as the preset colour |
+|              | ![](./images/cutebot-pro-programming-09.png)  | Set the colour of the left and right RGB lights display |
+|              | ![](./images/cutebot-pro-programming-10.png)  | Turn off all the headlights |
+| **Four-Way** | ![](./images/cutebot-pro-programming-11.png)  | Get the current status value of the four line following sensors |
+|              | ![](./images/cutebot-pro-programming-12.png)  | Get the current status of the four line following sensors |
+|              | ![](./images/cutebot-pro-programming-13.png)  | Get four line following sensor offsets |
+|              | ![](./images/cutebot-pro-programming-14.png)  | Get the status of a channel of a four-way line following sensor |
+|              | ![](./images/cutebot-pro-programming-15.png)  | Get the grayscale value of a channel of a four-way line following sensor |
+| **HC-SR04** | ![](./images/cutebot-pro-programming-16.png)  | Get the return value of the ultrasonic sensor |
+| **PIDContrl** | ![](./images/cutebot-pro-programming-17.png)  | Set wheel speed (speed range 20 to 50 cm/s) |
+|              | ![](./images/cutebot-pro-programming-18.png)  | Set the trolley forward or backward a specified distance (in cm, inches, wheel rotation angle) |
+|              | ![](./images/cutebot-pro-programming-19.png)  | Set the steering method and steering angle of the trolley |
+|              | ![](./images/cutebot-pro-programming-20.png)  | Set the square side lengths ((in cm, inches)) |
+|              | ![](./images/cutebot-pro-programming-21.png)  | Set the trolley to travel several squares forward |
+| **IRservo** | ![](./images/cutebot-pro-programming-22.png)  | Execution of the internal program when an infrared signal is received |
+|              | ![](./images/cutebot-pro-programming-23.png)  | Identify whether a button on an infrared remote control has been pressed |
+| **Extendinterface** | ![](./images/cutebot-pro-programming-24.png)  | Set the speed of the extended motor (-100 to 100) |
+|              | ![](./images/cutebot-pro-programming-25.png)  | Setting the extended motor to stop rotating |
+|              | ![](./images/cutebot-pro-programming-26.png)  | Set the maximum rotation angle using the servo as well as the access port and rotation angle |
+|              | ![](./images/cutebot-pro-programming-27.png)  | Set the access port and speed of the continuous rotation servo |
+| **other** | ![](./images/cutebot-pro-programming-28.png)  | Get the current firmware version number of the cart |

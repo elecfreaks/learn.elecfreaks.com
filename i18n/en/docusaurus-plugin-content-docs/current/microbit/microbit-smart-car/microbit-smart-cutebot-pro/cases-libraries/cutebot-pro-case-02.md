@@ -1,58 +1,58 @@
 ---
 sidebar_position: 2
-sidebar_label: case 02 定距巡航
+sidebar_label: Case 02 Patrol at a fixes distance
 ---
 
-# Case 02 定距巡航
+# Case 02 Patrol at a fixes distance
 
-## 简介
+## Introduction
 
-本课程旨在向学生介绍图形化编程和编码电机的概念。学生将使用Cutebot Pro智能赛车学习如何编写程序来控制小车的行驶距离。
+This course is designed to introduce students to the concepts of graphical programming and encoder motors. Students will use the Cutebot Pro to learn how to write programs to control the distance travelled by the cart.
 
 ![](./images/cutebot-pro-case-02-01.png)
 
-## 教学目标
+## Teaching objectives
 
-了解图形化编程和编码电机的基本概念。
+Understand the basic concepts of graphical programming and coding motors.
 
-学习使用Makecode软件创建程序控制小车的行驶距离。
+Learn to use Makecode software to create programs to control the distance travelled by the trolley.
 
 
-## 教学准备
+## Teaching preparation
 
 Cutebot Pro × 1
 
 micro:bit × 1
 
-## 教学过程
+## Teaching process
 
-### 课程引入
+### Introduce
 
-在本节课，我们将探索如何通过图形化程序控制Cutebot Pro智能赛车的行驶距离。你是否好奇如何使用编程来精确控制一辆小车行驶的距离呢？
+In this lesson we will explore how to control the distance travelled by the Cutebot Pro smart car through a graphical program. Are you curious about how to use programming to precisely control the distance travelled by a small car?
 
-现在，让我们来认识一下Cutebot Pro智能赛车。它是一辆特殊的小车，具备编码电机，可以精确控制行驶的距离。这意味着我们可以编写程序来让它行驶特定的距离，无论是100厘米还是10厘米，我们都可以控制得非常准确。
+Now, let's get to know the Cutebot Pro smart car. It is a special car with an encoder motor that allows precise control of the distance travelled. This means that we can program it to travel a specific distance, whether it is 100 cm or 10 cm, and we can control it very accurately.
 
-在今天的课程中，我们将学习如何编写一个精确控制行驶距离的程序，并通过实践来验证我们的程序是否有效。
+In this lesson, we will learn how to write a program to precisely control the distance travelled and verify that our program works by putting it into practice.
 
-现在，让我们一起动手实践吧！准备好使用Cutebot Pro智能赛车探索图形化编程的世界了吗？让我们一起开启这个充满创造力和乐趣的学习旅程吧！
+Now, let's get hands-on! Ready to explore the world of graphical programming with the Cutebot Pro smart car? Let's start this creative and fun learning journey together!
 
-### 探究活动
+### Exploration
 
-如何使用图形化编程模块来控制小车行驶的距离？
+How can I use the graphical programming module to control the distance travelled by the trolley?
 
-是否可以通过调整程序中的参数来控制小车行驶的距离？
+Is it possible to control the distance travelled by the trolley by adjusting the parameters in the program?
 
-精确控制行驶距离的技术有什么实际的应用场景？
+What are the practical application scenarios for the technique of precise distance control?
 
-### 示例代码
+### Samples
 
 
 ![](./images/cutebot-pro-case-02-02.png)
 
 
-请参考程序连接：[https://makecode.microbit.org/_Ethe7heqtXbi](https://makecode.microbit.org/_Ethe7heqtXbi)
+Reference: [https://makecode.microbit.org/_Ethe7heqtXbi](https://makecode.microbit.org/_Ethe7heqtXbi)
 
-你也可以通过以下网页直接下载程序。
+You may download it directly:
 
 <div
     style={{
@@ -73,18 +73,18 @@ micro:bit × 1
     />
 </div>
 
-### 团队合作与展示
+### Teamwork and demonstration
 
-学生分成小组，共同完成小车的制作和程序编写。
+Students break into small groups and work together to build and program the carts.
 
-鼓励学生之间相互合作、交流和分享经验。
+Students are encouraged to collaborate, communicate and share their experiences with each other.
 
-每个小组有机会向其他小组展示他们制作的智能赛车。
+Each group will have the opportunity to present the smart car they have made to the other groups.
 
-### 总结与反思
+### Conclusion and reflection
 
-回顾课程内容，提醒学生掌握了哪些知识和技能。
+Review the content of the lesson and remind students what knowledge and skills they have acquired.
 
-引导学生讨论他们在制作过程中遇到的问题和困难，以及如何解决这些问题。
+Lead students to discuss the problems and difficulties they encountered in making the trolley and how they solved these problems.
 
-引导学生思考小车精确行驶的更多应用。
+Lead students to think of further applications for the trolley to travel accurately.

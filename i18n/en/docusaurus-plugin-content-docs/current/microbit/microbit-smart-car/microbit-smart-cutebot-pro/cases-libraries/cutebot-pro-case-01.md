@@ -1,49 +1,49 @@
 ---
 sidebar_position: 1
-sidebar_label: case 01 向前行驶
+sidebar_label: Case 01 Drive forward
 ---
 
-# Case 01 向前行驶
+# Case 01 Drive forward
 
-## 简介
+## Introduction
 
-本课程旨在向学生介绍图形化编程和编码电机的概念。学生将使用Cutebot Pro智能赛车学习如何编写程序来控制小车的两个车轮的速度。
+This course is designed to introduce students to the concepts of graphical programming and encoder motors. Students will learn how to write programs to control the speed of the two wheels of the cart using the Cutebot Pro.
 
 ![](./images/cutebot-pro-case-01-01.png)
 
-## 教学目标
+## Teaching objectives
 
-了解基本的机器人控制概念
+Understand basic robot control concepts
 
 
-## 教学准备
+## Teaching preparation
 
 Cutebot Pro × 1
 micro:bit × 1
 
-## 教学过程
+## Teaching process
 
-### 课程引入
+### Introduce
 
-在本节课，我们将一起探索如何通过图形化程序控制Cutebot Pro智能赛车向前行驶。你们是否想过如何使用编程来控制一辆智能赛车呢？编程是一种让计算机或机器人按照我们的指令执行任务的方式。今天，我们将学习如何使用图形化编程来控制Cutebot Pro智能赛车。
+In this lesson, we will explore together how to control a Cutebot Pro forward through a graphical program. Have you ever wondered how to use programming to control a smart racing car? Programming is a way of getting a computer or robot to perform a task according to our instructions. Today, we will learn how to use graphical programming to control the Cutebot Pro.
 
-现在，让我们一起开始这个有趣的学习旅程吧！准备好使用Cutebot Pro智能赛车探索图形化编程的世界了吗？
+Now, let's start this fun learning journey together! Ready to explore the world of graphical programming with the Cutebot Pro?
 
-### 探究活动
+### Exploration
 
-如何编写一个简单的程序，使小车向前行驶？
+How do you write a simple program to move the car forward?
 
-调整速度和行驶时间的参数对小车的运动有什么影响？
+What effect does adjusting the parameters for speed and travel time have on the movement of the trolley?
 
-除了向前行驶，还能通过编程控制小车做什么其他动作吗？
+Can the trolley be programmed to do anything other than move forward?
 
-### 示例代码
+### Samples
 
 ![](./images/cutebot-pro-case-01-02.png)
 
-请参考程序连接：[https://makecode.microbit.org/_XD8U42Lwc83W](https://makecode.microbit.org/_XD8U42Lwc83W)
+Reference: [https://makecode.microbit.org/_XD8U42Lwc83W](https://makecode.microbit.org/_XD8U42Lwc83W)
 
-你也可以通过以下网页直接下载程序。
+You may download it directly below:
 
 <div
     style={{
@@ -65,18 +65,18 @@ micro:bit × 1
 </div>
 
 
-### 团队合作与展示
+### Teamwork and demonstration
 
-学生分成小组，共同完成小车的制作和程序编写。
+Students break into small groups and work together to build and program the carts.
 
-鼓励学生之间相互合作、交流和分享经验。
+Students are encouraged to collaborate, communicate and share their experiences with each other.
 
-每个小组有机会向其他小组展示他们制作的智能赛车，并演示。
+Each group will have the opportunity to show and demonstrate the smart car they have made to the other groups.
 
-### 总结与反思
+### Conclusion and reflection
 
-回顾课程内容，提醒学生掌握了哪些知识和技能。
+Review the content of the lesson and remind students what knowledge and skills they have acquired.
 
-引导学生讨论他们在制作过程中遇到的问题和困难，以及如何解决这些问题。
+Lead students to discuss the problems and difficulties they encountered during the production process and how they solved them.
 
-引导学生思考小车的优化和改进方向，比如利用Cutebot Pro还能制作哪些有趣的案例。
+Lead students to think about areas of optimisation and improvement for the trolley, such as what other interesting examples can be made using Cutebot Pro.

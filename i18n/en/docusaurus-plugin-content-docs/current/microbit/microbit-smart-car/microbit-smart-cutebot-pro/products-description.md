@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
-sidebar_label: 产品简介
+sidebar_label: Products Introduction
 ---
 
-# 产品简介
+# Products Introduction
 
-Cutebot Pro是一个用于STEAM教育的编程机器人，它配备了四路红外巡线传感器、编码电机、LED彩虹灯和超声波传感器等多种设备。通过编码电机，Cutebot Pro能够灵活地控制小车前进的距离并实现更精确的转弯角度控制。同时，四路巡线传感器使其能够在巡线的过程中识别十字路口和其他各种更复杂的路线。Cutebot Pro还提供了多种扩展接口，可以扩展更多硬件，充分激发孩子的想象力与创造力。
+Cutebot Pro is a programming robot for STEAM education, it equips with the 4-way infrared line-following sensor, the encoder motor, the LED rainbow light, the ultrasonic sensor and the other devices. With the encoder motors, the Cutebot Pro provides the flexibility to control the distance the cart travels and enables more precise control of the turning angle. The Cutebot Pro also offers a variety of expansion interfaces to allow for the expansion of additional hardware to stimulate your child's imagination and creativity.
 
 ![](./images/cutebot-pro-01.png)

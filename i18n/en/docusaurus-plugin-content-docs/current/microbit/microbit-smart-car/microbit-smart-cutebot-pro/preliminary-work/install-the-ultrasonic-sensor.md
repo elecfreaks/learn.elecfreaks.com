@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
-sidebar_label: 安装超声波传感器
+sidebar_label: Install the ultrasonic sensor
 ---
 
-# 安装超声波传感器
+# Install the ultrasonic sensor
 
-将超声波传感器插入SONAR接口。
+Connect the ultrasonic sensor with the SONAR connection.

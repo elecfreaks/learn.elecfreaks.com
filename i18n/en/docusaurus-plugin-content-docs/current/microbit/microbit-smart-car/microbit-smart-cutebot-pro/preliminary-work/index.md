@@ -1,13 +1,13 @@
 ---
 sidebar_position: 8
-sidebar_label: 准备工作
+sidebar_label: Preparation
 ---
 
-# 准备工作
+# Preparation
 
 
 
-## 目录
+## Catalogue
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

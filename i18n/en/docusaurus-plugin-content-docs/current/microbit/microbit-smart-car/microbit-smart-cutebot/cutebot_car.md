@@ -1,25 +1,25 @@
 # Introduction to  Cutebot
 
 ## Introduction
----
 
 ELECFREAKS  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) is a rear-drive smart car driven by dual high speed motors.
 
 There are many on-board equipments on the  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) including ultrasonic sensor and distance sensor, two RGB LED headlights and clearance lamps on the bottom, two line-tracking probes, an active buzzer as the horn and so on! Let's drive your first smart car!
 
 ## Characteristics
----
 
-- Rear-drive high speed motors featuring strong power.
-- Tiny structure with an arc shape featuring crashproof and confortable feel.
-- Only batteries and ultrasonic sensor need to be assembled featuring easy installation.
+Rear-drive high speed motors featuring strong power.
+
+Tiny structure with an arc shape featuring crashproof and confortable feel.
+
+Only batteries and ultrasonic sensor need to be assembled featuring easy installation.
 
 ## Pictures
----
+
 ![](./images/cutebot_01_01.jpg)
 
 ## Parameters
----
+
 
 |Items |Parameter|
 |:-:|:-:|
@@ -33,7 +33,7 @@ There are many on-board equipments on the  [Cutebot](https://www.elecfreaks.com/
 | Ultrasonic Sensor Type |HC-SR04(2cm-400cm Contactless distance detection, precision ±1.5mm)|
 
 ## Main Modules Introduction
----
+
 Ultrasonic connection and micro:bit IIC port are placed in the front part of the  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html).
 
 ![](./images/cutebot_01_02.jpg)

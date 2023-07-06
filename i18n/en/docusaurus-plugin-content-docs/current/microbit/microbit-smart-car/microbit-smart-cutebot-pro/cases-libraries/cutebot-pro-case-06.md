@@ -1,58 +1,58 @@
 ---
 sidebar_position: 6
-sidebar_label: case 06 自动车灯
+sidebar_label: case 06 automatic headlights
 ---
 
-# Case 06 自动车灯
+# Case 06 Automatic Headlights
 
-## 简介
+## Introduction
 
-在本节课中，我们将学习如何使用cutebot pro和micro:bit来制作一个自动车灯。当周围环境光线变暗时，车大灯会自动打开，当周围环境光线足够明亮时，车大灯会自动关闭。本课程将涉及micro:bit的光线检测、RGB车灯控制以及RGB三原色等知识点。
+In this lesson, we will learn how to use cutebot pro and micro:bit to make an automatic car light. When the ambient light becomes dark, the headlights will automatically turn on, and when the ambient light is bright enough, the headlights will automatically turn off. This course will involve knowledge points such as light detection of micro:bit, RGB car light control and RGB three primary colors.
 
 ![](./images/cutebot-pro-case-06-01.png)
 
-## 教学目标
+## Teaching Objectives
 
-了解micro:bit是如何检测周围环境光线强度的。
+Learn how the micro:bit detects the light intensity of the surrounding environment.
 
-了解光生伏特效应。
+Learn about the photovoltaic effect.
 
-学习如何使用micro:bit和cutebot pro进行光线检测以及控制LED车灯。
+Learn how to use micro:bit and cutebot pro to detect light and control LED lights.
 
-学习RGB三原色的概念和如何控制RGB车灯。
+Learn the concept of RGB primary colors and how to control RGB lights.
 
 
-## 教学准备
+## Teaching Preparation
 
 Cutebot Pro × 1
 
 micro:bit × 1
 
-## 教学过程
+## Teaching Process
 
-### 课程引入
+### Course Introduction
 
-大家好！今天我们将继续我们的智能赛车制作项目，这一次我们要制作一个智能装置，让我们的Cutebot Pro行驶到较为黑暗的环境时，可以自动打开车灯。
+Hello everyone! Today we will continue our smart car production project, this time we will make a smart device that allows our Cutebot Pro to automatically turn on the lights when driving in a darker environment.
 
-### 探究活动
+### Inquiry Activities
 
-光生伏特效应是什么？
+What is the photovoltaic effect?
 
-如何用于光线检测？
+How is it used for light detection?
 
-什么是RGB三原色？
+What are the three primary colors of RGB?
 
-如何控制RGB车灯？
+How to control RGB lights?
 
-### 示例代码
+### Sample Code
 
 ![](./images/cutebot-pro-case-06-02.png)
 
-提示：开启车灯的光线强度阈值需要根据测试环境的光线强度进行调整。
+Tip: The light intensity threshold for turning on the lights needs to be adjusted according to the light intensity of the test environment.
 
-请参考程序连接：[https://makecode.microbit.org/_M8k75C0Fp7fu](https://makecode.microbit.org/_M8k75C0Fp7fu)
+Please refer to program link：[https://makecode.microbit.org/_M8k75C0Fp7fu](https://makecode.microbit.org/_M8k75C0Fp7fu)
 
-你也可以通过以下网页直接下载程序。
+You can also download the program directly from the following web page.
 
 <div
     style={{
@@ -74,24 +74,24 @@ micro:bit × 1
 </div>
 
 
-### 团队合作与展示
+### Teamwork and Presentation
 
-学生分成小组，共同完成小车的制作和程序编写。
+Students are divided into groups to complete the production and programming of the car together.
 
-鼓励学生之间相互合作、交流和分享经验。
+Students are encouraged to collaborate, communicate and share experiences with each other.
 
-每个小组完成后向全班展示自己的成果，并接受其他小组的提问和建议。
+After each group completes, it presents its work to the class and accepts questions and suggestions from other groups.
 
-### 总结与反思
+### Summary and Reflection
 
-回顾课程内容，提醒学生掌握了哪些知识和技能。
+Review course content to remind students of what knowledge and skills they have acquired.
 
-引导学生讨论他们在制作过程中遇到的问题和困难，以及如何解决这些问题。
+Guide students to discuss the problems and difficulties they encountered in the production process, and how to solve these problems.
 
-引导学生思考自动车灯的优化和改进方向，如调整开启和关闭车灯的阈值等。
+Guide students to think about the optimization and improvement of automatic lights, such as adjusting the thresholds for turning on and off lights.
 
-### 延伸活动
+### Outreach Activities
 
-鼓励学生在家中尝试将所学知识应用到其他场景，例如智能家居系统。
+Encourage students to try to apply what they have learned to other scenarios at home, such as smart home systems.
 
-推荐学生阅读有关光生伏特效应、编码电机和RGB三原色等方面的进阶资料，以提高自己的专业技能。
+Students are recommended to read advanced materials on the photovoltaic effect, coded motors, and RGB primary colors to improve their professional skills.

@@ -1,52 +1,52 @@
 ---
 sidebar_position: 5
-sidebar_label: case 05 彩虹车灯
+sidebar_label: case 05 Rainbow Lights
 ---
 
-# Case 05 彩虹车灯
+# Case 05 Rainbow Lights
 
-## 简介
+## Introduction
 
-本课程旨在通过制作智能赛车，让学生学习和探索小车电机控制、RGB灯的控制等知识点，并应用这些知识来实现小车在行驶过程中散发彩虹般的光芒。
+This course aims to let students learn and explore knowledge points such as car motor control and RGB light control by making smart racing cars and applying this knowledge to realize the rainbow-like light of the car during driving.
 
 ![](./images/cutebot-pro-case-05-01.png)
 
-## 教学目标
+## Teaching Objectives
 
-了解RGB灯的原理和控制方式，学会控制灯的颜色和亮度。
+Understand the principle and control method of RGB lights, and learn to control the color and brightness of lights.
 
-学会将电机控制和RGB灯控制应用到Cutebot Pro智能赛车中，实现彩虹车灯效果。
+Learn to apply motor control and RGB light control to Cutebot Pro smart racing car to achieve rainbow light effect.
 
 
 
-## 教学准备
+## Teaching Preparation
 
 Cutebot Pro × 1
 
 micro:bit × 1
 
-## 教学过程
+## Teaching process
 
-### 课程引入
+### Course Introduction
 
-大家好！今天我们将继续我们的智能赛车制作项目，但这次我们要给小车增添一些光彩夺目的特效。你们有没有想过如何让小车在行驶过程中散发出彩虹般的光芒呢？
+Hello everyone! Today we're continuing our smart car making project, but this time we're going to add some fancy special effects to the car. Have you ever wondered how to make the car glow like a rainbow while driving?
 
-在接下来的课程中，我们将学习RGB灯的控制方式，并实现一个可以在行驶过程中散发彩虹般光芒的小车。
+In the next lesson, we will learn how to control the RGB lights and realize a car that emits rainbow-like lights while driving.
 
-### 探究活动
+### Inquiry activities
 
-如何利用小车的电机控制和RGB灯，实现一个能够在行驶过程中散发彩虹般光芒的小车呢？
+How to use the motor control and RGB lights of the car to realize a car that can emit rainbow-like light during driving?
 
-我们如何控制彩虹灯的亮度和颜色呢？
+How can we control the brightness and color of rainbow lights?
 
-### 示例代码
+### Sample Code
 
 ![](./images/cutebot-pro-case-05-02.png)
 
 
-请参考程序连接：[https://makecode.microbit.org/_MqxCqxJquPAs](https://makecode.microbit.org/_MqxCqxJquPAs)
+Link：[https://makecode.microbit.org/_MqxCqxJquPAs](https://makecode.microbit.org/_MqxCqxJquPAs)
 
-你也可以通过以下网页直接下载程序。
+You can also download the program directly from the following web page:
 
 <div
     style={{
@@ -68,26 +68,26 @@ micro:bit × 1
 </div>
 
 
-### 团队合作与展示
+### Teamwork and Presentation
 
-学生分成小组，共同完成小车的制作和程序编写。
+Students are divided into groups to complete the production and programming of the car together.
 
-鼓励学生之间相互合作、交流和分享经验。
+Students are encouraged to collaborate, communicate and share experiences with each other.
 
-每个小组有机会向其他小组展示他们制作的智能赛车，并展示彩虹车灯在行驶过程中的效果。
+Each team had the opportunity to present their smart car to the other teams and demonstrate the effect of the rainbow lights on the road.
 
-### 总结与反思
+### Summary and Reflection
 
-回顾课程内容，提醒学生掌握了哪些知识和技能。
+Review course content to remind students of what knowledge and skills they have acquired.
 
-引导学生讨论他们在制作过程中遇到的问题和困难，以及如何解决这些问题。
+Guide students to discuss the problems and difficulties they encountered in the production process, and how to solve these problems.
 
-引导学生思考彩虹车灯的优化和改进方向，如调整灯光切换的顺序、添加其他特效等。
+Guide students to think about the optimization and improvement of rainbow car lights, such as adjusting the order of light switching, adding other special effects, etc.
 
-### 延伸活动
+### Outreach Activities
 
-挑战学生改进彩虹车灯效果，例如添加闪烁、渐变等特效。
+Challenge students to improve the rainbow car light effect, such as adding special effects such as flashes and gradients.
 
-引导学生设计和实现其他有趣的灯光效果，如随音乐节奏变化、根据环境光强度调节亮度等。
+Guide students to design and realize other interesting lighting effects, such as changing with the rhythm of music, adjusting brightness according to the intensity of ambient light, etc.
 
-鼓励学生运用创造力和想象力，设计自己独特的小车灯光效果。
+Encourage students to use their creativity and imagination to design their own unique car lighting effects.

@@ -1,54 +1,54 @@
 ---
 sidebar_position: 4
-sidebar_label: case 04 声音控制
+sidebar_label: case 04 voice control
 ---
 
-# Case 04 声音控制
+# Case 04 voice control
 
-## 简介
+## Introduction
 
-本课程旨在通过制作智能赛车，让学生学习和探索小车电机控制、噪音传感器、声音的传播和噪音等级等知识点，并应用这些知识来控制小车的行驶。
+This course aims to let students learn and explore knowledge points such as car motor control, noise sensor, sound propagation and noise level by making a smart racing car, and apply these knowledge to control the driving of the car.
 
 ![](./images/cutebot-pro-case-04-01.png)
 
-## 教学目标
+## Teaching Objectives
 
-理解小车电机控制的原理和方法，学会控制小车的前进、后退和停止。
+Understand the principles and methods of trolley motor control, and learn to control the trolley's forward, backward and stop.
 
-了解噪音传感器的工作原理和应用，以及声音在空气中的传播方式。
+Learn how noise sensors work, their applications, and how sound travels through the air.
 
-学会根据噪音等级控制小车的行驶速度和方向，实现声控小车的功能。
+Learn to control the speed and direction of the car according to the noise level, and realize the function of voice-activated car.
 
-## 教学准备
+## Teaching Preparation
 
 Cutebot Pro × 1
 
 micro:bit V2 × 1
 
-## 教学过程
+## Teaching Process
 
-### 课程引入
+### Course Introduction
 
-大家好！今天我们将继续我们的智能赛车制作项目，但这次我们要给小车设置一个新的挑战。你们有没有想过如何用声音来控制小车的行驶呢？
+Hello everyone! Today we will continue our smart car making project, but this time we will set a new challenge for the car. Have you ever thought about how to use voice to control the driving of the car?
 
-我们可以利用噪音传感器来检测声音的大小，并通过控制小车的电机来实现声控功能。在接下来的课程中，我们将了解声音的传播方式，并实现一个可以通过声音大小控制行驶的小车。
+We can use the noise sensor to detect the size of the sound, and realize the sound control function by controlling the motor of the car. In the next lesson, we will understand how sound travels, and implement a car that can be controlled by the sound level.
 
-### 探究活动
+### Inquiry Activities
 
-如何利用小车的电机控制和噪音传感器，实现一个能够通过声音大小控制行驶的小车呢？你们有什么想法和猜测？
+How to use the motor control and noise sensor of the car to realize a car that can be controlled by the sound level? What are your thoughts and guesses?
 
-了解声音的传播方式；
+understand how sound travels;
 
-了解噪音的等级。
+Know the noise level.
 
-### 示例代码
+### Sample Code
 
 ![](./images/cutebot-pro-case-04-02.png)
 
 
-请参考程序连接：[https://makecode.microbit.org/_CcwUMPfzEYRj](https://makecode.microbit.org/_CcwUMPfzEYRj)
+Link：[https://makecode.microbit.org/_CcwUMPfzEYRj](https://makecode.microbit.org/_CcwUMPfzEYRj)
 
-你也可以通过以下网页直接下载程序。
+You can also download the program directly from the following web page.
 
 <div
     style={{
@@ -70,26 +70,26 @@ micro:bit V2 × 1
 </div>
 
 
-### 团队合作与展示
+### Teamwork and Presentation
 
-学生分成小组，共同完成小车的制作和程序编写。
+Students are divided into groups to complete the production and programming of the car together.
 
-鼓励学生之间相互合作、交流和分享经验。
+Students are encouraged to collaborate, communicate and share experiences with each other.
 
-每个小组有机会向其他小组展示他们制作的智能赛车，并演示通过声音大小控制小车行驶的过程。
+Each team has the opportunity to show the smart car they made to other teams and demonstrate the process of controlling the car through the volume of sound.
 
-### 总结与反思
+### Summary and Reflection
 
-回顾课程内容，提醒学生掌握了哪些知识和技能。
+Review course content to remind students of what knowledge and skills they have acquired.
 
-引导学生讨论他们在制作过程中遇到的问题和困难，以及如何解决这些问题。
+Guide students to discuss the problems and difficulties they encountered in the production process, and how to solve these problems.
 
-引导学生思考声控小车的优化和改进方向，如调整噪音等级阈值、增加其他声音控制功能等。
+Guide students to think about the optimization and improvement of the voice-activated car, such as adjusting the noise level threshold and adding other voice control functions.
 
-### 延伸活动
+### Outreach Activities
 
-为学生提供进一步的探索和实践机会，例如：
+Provide students with opportunities for further exploration and practice, such as:
 
-挑战学生通过声音控制小车的速度和方向，实现更复杂的行驶路径。
+Challenge students to control the speed and direction of the car through voice to achieve more complex driving paths.
 
-鼓励学生设计和实现其他有趣的声音控制功能，如转弯、停止等。
+Encourage students to design and implement other fun voice-controlled functions such as turns, stops, and more.

@@ -1,56 +1,56 @@
 ---
 sidebar_position: 14
-sidebar_label: case 14 joystick:bit手柄遥控
+sidebar_label: case 14 Joystick:bit Handle Remote Control
 ---
 
-# Case 14 joystick:bit手柄遥控
+# Case 14 Joystick:bit Handle Remote Control
 
-## 简介
+## Introduction
 
-本课程旨在通过利用joystick:bit游戏手柄实现智能赛车的遥控功能，让学生学习和探索小车的行驶控制、micro:bit的无线配对和通信等知识点。学生将学习joystick:bit游戏手柄的使用方式，掌握micro:bit的无线通信技术，通过实践操作掌握遥控赛车的制作和控制技巧。
+This course aims to realize the remote control function of smart racing cars by using the joystick:bit game controller, so that students can learn and explore knowledge points such as car driving control, micro:bit wireless pairing and communication. Students will learn how to use the joystick:bit game controller, master the wireless communication technology of micro:bit, and master the production and control skills of remote control racing cars through practical operations.
 
 [](./images/cutebot-pro-case-14-01.png)
 
-## 教学目标
+## Teaching Objectives
 
-学会与micro:bit进行无线配对。
+Learn to pair wirelessly with micro:bit.
 
-掌握micro:bit的无线通信技术，实现与小车的遥控通信。
+Master the wireless communication technology of micro:bit to realize the remote control communication with the car.
 
-学习小车的行驶控制方法，实现通过joystick:bit游戏手柄控制小车的前进、后退、转向等操作。
+Learn the driving control method of the car, and realize the forward, backward, steering, and other operations of the car through the joystick:bit game controller.
 
 
-## 教学准备
+## Teaching Preparation
 
 Cutebot Pro × 1
 
 micro:bit × 1
 
-joystick:bit游戏手柄 × 1
+joystick:bit × 1
 
-## 教学过程
+## Teaching Process
 
-### 课程引入
+### Course Introduction
 
-大家好！今天我们将要继续我们的智能赛车制作项目，这次我们将要使用joystick:bit游戏手柄来控制小车行驶，在这个过程中我们会学习到micro:bit的无线通信功能。
+Hello everyone! Today we will continue our smart car production project. This time we will use the joystick:bit gamepad to control the car. In the process, we will learn the wireless communication function of the micro:bit.
 
-### 探究活动
+### Inquiry activities
 
-如何利用joystick:bit游戏手柄来控制小车的行驶呢？
+How to use the joystick:bit game controller to control the driving of the car?
 
-如何将自己的小车和其他人的小车区分开来，不会相互干扰呢？
+How to distinguish your own car from other people's cars without interfering with each other?
 
-分组讨论，鼓励学生分享自己的观点和想法。
+In group discussions, students are encouraged to share their views and ideas.
 
-### 示例代码
+### Sample Code
 
-**手柄端**
+**Handle Side**
 
 ![](./images/cutebot-pro-case-14-02.png)
 
-请参考程序连接：[https://makecode.microbit.org/_6LW3TzF0DYXX](https://makecode.microbit.org/_6LW3TzF0DYXX)
+Link：[https://makecode.microbit.org/_6LW3TzF0DYXX](https://makecode.microbit.org/_6LW3TzF0DYXX)
 
-你也可以通过以下网页直接下载程序。
+You can also download the program directly from the following web page.
 
 <div
     style={{
@@ -70,16 +70,15 @@ joystick:bit游戏手柄 × 1
         }}
     />
 </div>
+**Car Side**
 
-**小车端**
-
-### 案例展示
+### Case presentation
 
 ![](./images/cutebot-pro-case-14-03.png)
 
-请参考程序连接：[https://makecode.microbit.org/_8ij0v4W5a562](https://makecode.microbit.org/_8ij0v4W5a562)
+Link：[https://makecode.microbit.org/_8ij0v4W5a562](https://makecode.microbit.org/_8ij0v4W5a562)
 
-你也可以通过以下网页直接下载程序。
+You can also download the program directly from the following web page.
 
 <div
     style={{
@@ -100,12 +99,12 @@ joystick:bit游戏手柄 × 1
     />
 </div>
 
-## 总结与反思
+## Summary and Reflection
 
-回顾课程内容，提醒学生掌握了哪些知识和技能。
+Review course content to remind students of what knowledge and skills they have acquired.
 
-引导学生讨论他们在制作过程中遇到的问题和困难，以及如何解决这些问题。
+Guide students to discuss the problems and difficulties they encountered in the production process, and how to solve these problems.
 
-## 延伸活动
+## Outreach Activities
 
-让学生尝试不仅仅是控制小车行驶，还可以通过游戏手柄上的按键控制小车的灯光效果或者切换巡线、避障、遥控等功能。
+Let students try not only to control the driving of the car, but also to control the lighting effect of the car or switch functions such as line inspection, obstacle avoidance, and remote control through the buttons on the gamepad.

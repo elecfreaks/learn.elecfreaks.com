@@ -1,57 +1,57 @@
 ---
 sidebar_position: 8
-sidebar_label: case 08 智能避障
+sidebar_label: case 08 Intelligent obstacle avoidance
 ---
 
-# Case 03 智能避障
+# Case 08 Intelligent obstacle avoidance
 
-## 简介
+## Introduction
 
-本课程旨在向学生介绍图形化编程和超声波传感器的应用。学生将学习如何编写程序让小车具备避障功能。通过这个案例，学生将加深对程序设计的判断、分支、与或非等知识点的理解，以及了解超声波传感器的工作原理。
+This course is designed to introduce students to graphical programming and the application of ultrasonic sensors. Students will learn how to program the car to avoid obstacles. Through this case, students will deepen their understanding of knowledge points such as judgment, branching, and or not in program design, and understand the working principle of ultrasonic sensors.
 
 ![](./images/cutebot-pro-case-08-01.png)
 
-## 教学目标
+## Teaching Objectives
 
-理解图形化编程的判断、分支、与或非等相关知识点。
+Understand the relevant knowledge points such as judgment, branch, and or not of graphical programming.
 
-学习超声波传感器的工作原理和应用。
+Learn how ultrasonic sensors work and their applications.
 
-掌握如何使用超声波传感器检测障碍物，并编写相应的程序进行避障。
+Master how to use ultrasonic sensors to detect obstacles, and write corresponding programs for obstacle avoidance.
 
 
 
-## 教学准备
+## Teaching Preparation
 
 Cutebot Pro × 1
 
 micro:bit × 1
 
-## 教学过程
+## Teaching Process
 
-### 课程引入
+### Course Introduction
 
-在本节课，我们将使用Cutebot Pro智能赛车来制作一辆可以自动避开障碍物的小车。通过这个项目，我们将学习如何利用图形化编程和传感器技术来控制赛车的行为。
+In this lesson, we will use Cutebot Pro smart racing car to make a car that can automatically avoid obstacles. Through this project, we will learn how to use graphical programming and sensor technology to control the behavior of the car.
 
-我们将学习如何使用超声波传感器来检测障碍物，并编写相应的代码来控制赛车的行动。
+We will learn how to use ultrasonic sensors to detect obstacles and write the corresponding code to control the actions of the car.
 
-准备好迎接这个有趣的挑战了吗？让我们开始吧！
+Are you ready for this fun challenge? let's start!
 
-### 探究活动
+### Inquiry Activities
 
-如何使用超声波传感器检测障碍物？
+How to detect obstacles using an ultrasonic sensor?
 
-如何编写一个程序，在遇到障碍物时让小车自动转弯避免碰撞？
+How to write a program to let the car automatically turn to avoid collision when encountering obstacles？
 
 
-### 示例代码
+### Sample Code
 
 ![](./images/cutebot-pro-case-08-02.png)
 
 
-请参考程序连接：[https://makecode.microbit.org/_KgLeP413s4yf](https://makecode.microbit.org/_KgLeP413s4yf)
+Link：[https://makecode.microbit.org/_KgLeP413s4yf](https://makecode.microbit.org/_KgLeP413s4yf)
 
-你也可以通过以下网页直接下载程序。
+You can also download the program directly from the following web page.
 
 <div
     style={{
@@ -73,18 +73,18 @@ micro:bit × 1
 </div>
 
 
-### 团队合作与展示
+### Teamwork and Presentation
 
-学生分成小组，共同完成小车的制作和程序编写。
+Students are divided into groups to complete the production and programming of the car together.
 
-鼓励学生之间相互合作、交流和分享经验。
+Students are encouraged to collaborate, communicate and share experiences with each other.
 
-每个小组有机会向其他小组展示他们制作的智能赛车。
+Each team has the opportunity to present the smart car they built to the other teams.
 
-### 总结与反思
+### Summary and Reflection
 
-回顾课程内容，提醒学生掌握了哪些知识和技能。
+Review course content to remind students of what knowledge and skills they have acquired.
 
-引导学生讨论他们在制作过程中遇到的问题和困难，以及如何解决这些问题。
+Guide students to discuss the problems and difficulties they encountered in the production process, and how to solve these problems.
 
-引导学生思考小车超声波传感器在生活中还有哪些应用。
+Guide students to think about other applications of the car ultrasonic sensor in life.

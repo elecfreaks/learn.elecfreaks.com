@@ -1,49 +1,49 @@
 ---
 sidebar_position: 3
-sidebar_label: case 03 走正方形
+sidebar_label: case 03 Go Square
 ---
 
-# Case 03 走正方形
+# Case 03 Go Square
 
-## 简介
+## Introduction
 
-本课程旨在通过制作智能赛车，让学生学习和探索小车电机控制和转弯方式等知识点，以及应用这些知识让小车沿着正方形轨迹行驶。
+This course aims to let students learn and explore knowledge points such as car motor control and turning methods by making smart racing cars and applying this knowledge to let the car drive along a square track.
 
 ![](./images/cutebot-pro-case-03-01.png)
 
-## 教学目标
+## Teaching Objectives
 
-学会控制小车的前进、后退和停止。
+Learn to control the forward, backward and stop of the car.
 
-掌握不同转弯方式的原理，包括直角转弯和圆弧转弯，并能够将其应用于实现小车沿着正方形轨迹行驶。
+Grasp the principles of different turning methods, including right-angle turns and circular arc turns, and be able to apply them to realize that the car travels along a square trajectory.
 
 
-## 教学准备
+## Teaching Preparation
 
 Cutebot Pro × 1
 
 micro:bit × 1
 
-## 教学过程
+## Teaching process
 
-### 课程引入
+### Course Introduction
 
-大家好！今天我们将要继续我们的智能赛车制作项目，但这次我们要给小车设置一个新的挑战，让它可以沿着正方形的轨迹行驶。你们认为怎样才能让小车准确地走出一个完美的正方形？
+Hello everyone! Today we are going to continue our smart car making project, but this time we are going to set a new challenge for the car to drive along a square track. How do you think the car can accurately walk out of a perfect square?
 
-我们可以通过控制小车的电机和转弯方式来实现这个目标。在接下来的课程中，我们将学习如何控制小车的前进、后退和停止，并学习两种不同的转弯方式。这些知识将帮助我们让小车沿着正方形的轨迹行驶。
+We can achieve this by controlling the car's motors and how it turns. In the next lessons, we will learn how to control the car to move forward, reverse and stop, and learn two different ways of turning. This knowledge will help us make the car follow a square trajectory.
 
-### 探究活动
+### Inquiry activities
 
 
-直角转弯和圆弧转弯的区别。
+The difference between a right-angle turn and an arc turn.
 
-### 示例代码
+### Sample Code
 
 ![](./images/cutebot-pro-case-03-02.png)
 
-请参考程序连接：[https://makecode.microbit.org/_A8KcTgaowc6P](https://makecode.microbit.org/_A8KcTgaowc6P)
+Link：[https://makecode.microbit.org/_A8KcTgaowc6P](https://makecode.microbit.org/_A8KcTgaowc6P)
 
-你也可以通过以下网页直接下载程序。
+You can also download the program directly from the following web page.
 
 <div
     style={{
@@ -65,18 +65,18 @@ micro:bit × 1
 </div>
 
 
-### 团队合作与展示
+### Teamwork and Presentation
 
-学生分成小组，共同完成小车的制作和程序编写。
+Students are divided into groups to complete the production and programming of the car together.
 
-鼓励学生之间相互合作、交流和分享经验。
+Students are encouraged to collaborate, communicate and share experiences with each other.
 
-每个小组有机会向其他小组展示他们制作的智能赛车。
+Each team has the opportunity to present the smart car they built to the other teams.
 
-### 总结与反思
+### Summary and Reflection
 
-回顾课程内容，提醒学生掌握了哪些知识和技能。
+Review course content to remind students of what knowledge and skills they have acquired.
 
-引导学生讨论他们在制作过程中遇到的问题和困难，以及如何解决这些问题。
+Guide students to discuss the problems and difficulties they encountered in the production process, and how to solve these problems.
 
-引导学生思考小车除了走正方形，还能走出什么样的轨迹呢？如果将一只笔固定在小车身上，是否可以通过控制小车的行进轨迹来作画。
+Guide students to think about what kind of trajectory the car can go besides going square? If a pen is fixed on the small car, is it possible to draw by controlling the traveling track of the small car?

@@ -1,44 +1,42 @@
 ---
 sidebar_position: 7
-sidebar_label: case 07 走格子
+sidebar_label: case 07 Walk The Grid
 ---
 
-# Case 07 走格子
+# Case 07 Walk The Grid
 
-## 简介
+## Introduction
 
-本课程旨在通过让学生学习和探索小车电机控制、程序设计的相关知识点，并应用这些知识来实现小车按照预设的格子行驶的功能。
+This course aims to enable students to learn and explore the relevant knowledge points of trolley motor control and program design and apply this knowledge to realize the function of the trolley driving according to the preset grid.
 
 ![](./images/cutebot-pro-case-06-01.png)
 
-## 教学目标
+## teaching objectives
 
-理解小车电机控制的原理和方法，学会控制小车的前进、后退和停止。
+Understand the principles and methods of trolley motor control, and learn to control the trolley's forward, backward and stop.
 
-学会利用程序设计实现小车按照预设的格子行驶的功能。
-
-## 教学准备
+## Teaching Preparation
 
 Cutebot Pro × 1
 
 micro:bit × 1
 
-## 教学过程
+## Teaching Process
 
-### 课程引入
+### Course Introduction
 
-大家好！今天我们将继续我们的智能赛车制作项目，并给小车添加一个新的功能。你们有没有想过如何让小车能够按照我们预设的格子行驶呢？
+Hello everyone! Today we will continue our smart car making project and add a new function to the car. Have you ever thought about how to make the car drive according to our preset grid?
 
-我们可以通过编写程序来控制小车按照一定的步数和步长行驶，从而达到预设格子行驶的效果。
+We can control the car to travel according to a certain number of steps and step length by writing a program, so as to achieve the effect of preset grid travel.
 
-### 示例代码
+### Sample Code
 
 ![](./images/cutebot-pro-case-07-02.png)
 
 
-请参考程序连接：[https://makecode.microbit.org/_V5pY4b6eJPhc](https://makecode.microbit.org/_V5pY4b6eJPhc)
+Link：[https://makecode.microbit.org/_V5pY4b6eJPhc](https://makecode.microbit.org/_V5pY4b6eJPhc)
 
-你也可以通过以下网页直接下载程序。
+You can also download the program directly from the following web page.
 
 <div
     style={{
@@ -60,26 +58,26 @@ micro:bit × 1
 </div>
 
 
-### 团队合作与展示
+### Teamwork and Presentation
 
-学生分成小组，共同完成小车的制作和程序编写。
+Students are divided into groups to complete the production and programming of the car together.
 
-鼓励学生之间相互合作、交流和分享经验。
+Students are encouraged to collaborate, communicate and share experiences with each other.
 
-每个小组有机会向其他小组展示他们制作的智能赛车，并演示小车按照预设格子行驶的效果。
+Each team has the opportunity to show the smart car they made to other teams and demonstrate the effect of the car driving according to the preset grid.
 
-### 总结与反思
+### Summary and Reflection
 
-回顾课程内容，提醒学生掌握了哪些知识和技能。
+Review course content to remind students of what knowledge and skills they have acquired.
 
-引导学生讨论他们在制作过程中遇到的问题和困难，以及如何解决这些问题。
+Guide students to discuss the problems and difficulties they encountered in the production process, and how to solve these problems.
 
-引导学生思考小车走格子的精度和控制能力的提升方向，如何优化小车的行驶效果和稳定性。
+Guide students to think about the direction of improvement of the precision and control ability of the car, and how to optimize the driving effect and stability of the car.
 
-### 延伸活动
+### outreach activities
 
-挑战学生设计更复杂的格子行驶路径。
+Challenge students to design more complex lattice travel paths.
 
-引导学生思考如何利用传感器或其他模块辅助小车在格子行驶中的精准控制。
+Guide students to think about how to use sensors or other modules to assist the precise control of the car in the grid.
 
-鼓励学生利用创造力和想象力，设计自己独特的小车行驶模式和路径规划。
+Encourage students to use creativity and imagination to design their own unique car driving patterns and path planning.

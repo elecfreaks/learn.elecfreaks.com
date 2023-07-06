@@ -1,46 +1,46 @@
 ---
 sidebar_position: 13
-sidebar_label: case 13 红外遥控小车
+sidebar_label: case 13 Infrared Remote Control Car
 ---
 
-# Case 13 红外遥控小车
+# Case 13 Infrared Remote Control Car
 
-## 简介
+## Introduction
 
-本课程旨在通过让学生制作红外遥控小车案例，让学生了解红外遥控的方式。
+This course aims to let students understand the way of infrared remote control by letting them make a case of infrared remote control car.
 
 [](./images/cutebot-pro-case-13-01.png)
 
-## 教学目标
+## Teaching Objectives
 
-使用红外遥控器控制小车行驶。
+Use the infrared remote control to control the driving of the car.
 
 
-## 教学准备
+## Teaching Preparation
 
 Cutebot Pro × 1
 
 micro:bit × 1
 
-红外遥控器 × 1
+Infrared remote control× 1
 
-## 教学过程
+## Teaching process
 
-### 课程引入
+### Course Introduction
 
-大家好！今天我们将继续我们的智能赛车制作项目，并给小车添加一个新的功能。你们有没有想过如何利用红外遥控来控制小车的行驶呢？
+Hello everyone! Today we will continue our smart car-making project and add a new function to the car. Have you ever thought about how to use infrared remote control to control the driving of the car?
 
-### 探究活动
+### Inquiry activities
 
-如何利用红外遥控来控制小车的行驶呢？
+How to use infrared remote control to control the driving of the car?
 
-### 示例代码
+### Sample Code
 
 ![](./images/cutebot-pro-case-13-02.png)
 
-请参考程序连接：[https://makecode.microbit.org/_hek2e375jWeM](https://makecode.microbit.org/_hek2e375jWeM)
+Link：[https://makecode.microbit.org/_hek2e375jWeM](https://makecode.microbit.org/_hek2e375jWeM)
 
-你也可以通过以下网页直接下载程序。
+You can also download the program directly from the following web page.
 
 <div
     style={{
@@ -63,13 +63,13 @@ micro:bit × 1
 
 
 
-### 案例展示
+### Case presentation
 
 
-## 总结与反思
+## Summary and Reflection
 
-回顾课程内容，提醒学生掌握了哪些知识和技能。
+Review course content to remind students of what knowledge and skills they have acquired.
 
-引导学生讨论他们在制作过程中遇到的问题和困难，以及如何解决这些问题。
+Guide students to discuss the problems and difficulties they encountered in the production process, and how to solve these problems.
 
-鼓励学生思考遥控智能赛车的应用场景
+Encourage students to think about the application scenarios of remote control smart racing cars

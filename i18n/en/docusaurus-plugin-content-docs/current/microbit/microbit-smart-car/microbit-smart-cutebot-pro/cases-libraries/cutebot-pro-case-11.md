@@ -3,55 +3,55 @@ sidebar_position: 11
 sidebar_label: case 11 PID巡线
 ---
 
-# Case 11 PID巡线
+# Case 11 PID line inspection
 
-## 简介
+## Introduction
 
-本课程旨在通过制作智能赛车，让学生学习和探索程序设计中的判断、分支、与或非等概念，并了解巡线传感器的工作原理和PID控制的基本原理。学生将通过实践操作，掌握PID巡线算法，培养逻辑思维、问题解决和团队合作能力，并进一步提高小车的巡线行驶效果。
+This course aims to enable students to learn and explore concepts such as judgment, branching, and-or-not in program design by making smart racing cars, and understand the working principle of line-following sensors and the basic principles of PID control. Through the practical operation, students will master the PID line inspection algorithm, cultivate logical thinking, problem-solving, and teamwork skills, and further improve the effect of the car's line inspection.
 
 ![](./images/cutebot-pro-case-11-01.png)
 
-## 教学目标
+## Teaching Objectives
 
-理解程序设计中的判断、分支、与或非等基本概念，并能够应用于实际问题。
+Understand the basic concepts of judgment, branch, and or not in programming design, and be able to apply them to practical problems.
 
-了解巡线传感器的工作原理，理解其在巡线行驶中的应用。
+Understand the working principle of the line-following sensor and understand its application in line-following driving.
 
-掌握PID控制算法的基本原理，并能够将其应用于巡线行驶。
+Grasp the basic principle of PID control algorithm, and be able to apply it to line-following driving.
 
 
-## 教学准备
+## Teaching Preparation
 
 Cutebot Pro × 1
 
 micro:bit × 1
 
-## 教学过程
+## Teaching process
 
-### 课程引入
+### Course Introduction
 
-大家好！今天我们将要继续我们的智能赛车制作项目，但这次我们要提升小车的巡线行驶效果。你们是否注意到在之前的巡线行驶中，小车可能会出现抖动或频繁转向的情况？为了使小车能够更加顺滑地沿着黑色线条行驶，我们将引入一个新的概念——PID控制。PID控制可以帮助我们根据传感器的反馈信号进行更精确的控制。
+Hello everyone! Today we're going to continue our smart car production project, but this time we're going to improve the car's line-following effect. Have you noticed that the car may vibrate or turn frequently during the previous line patrol? In order to make the car run along the black line more smoothly, we will introduce a new concept - PID control. PID control can help us to perform more precise control based on the feedback signal from the sensor.
 
-PID是比例（Proportional）、积分（Integral）和微分（Derivative）的缩写，它们是控制系统中常用的三个调节参数。通过合理调整这些参数，我们可以使小车更好地跟随线条并减小偏差。
+PID is the abbreviation of Proportional, Integral and Derivative, which are three commonly used adjustment parameters in control systems. By adjusting these parameters properly, we can make the car follow the line better and reduce the deviation.
 
-### 探究活动
+### Inquiry activities
 
-如何利用巡线传感器和PID控制算法，使小车能够顺滑地沿着黑色线条行驶？你们有什么想法和猜测？
+How to use the line tracking sensor and PID control algorithm to make the car run smoothly along the black line? What are your thoughts and guesses?
 
-尝试调整PID控制算法中的参数，观察对小车巡线行驶效果的影响。
+Try to adjust the parameters in the PID control algorithm, and observe the effect on the car's line patrol effect.
 
-设计和实现其他巡线行驶策略，如根据线条的弯曲程度调整行驶速度等。
+Design and implement other line-following driving strategies, such as adjusting the driving speed according to the curvature of the line, etc.
 
-分组讨论，鼓励学生分享自己的观点和想法。
+Group discussions where students are encouraged to share their views and ideas
 
-### 示例代码
+### Sample Code
 
 ![](./images/cutebot-pro-case-11-02.png)
 
 
-请参考程序连接：[https://makecode.microbit.org/_PCJdphi81XJc](https://makecode.microbit.org/_PCJdphi81XJc)
+Link：[https://makecode.microbit.org/_PCJdphi81XJc](https://makecode.microbit.org/_PCJdphi81XJc)
 
-你也可以通过以下网页直接下载程序。
+You can also download the program directly from the following web page.
 
 <div
     style={{
@@ -74,21 +74,21 @@ PID是比例（Proportional）、积分（Integral）和微分（Derivative）�
 
 
 
-### 案例展示
+### Case Presentation
 
 
-## 总结与反思
+## Summary and Reflection
 
-回顾课程内容，提醒学生掌握了哪些知识和技能。
+Review course content to remind students of what knowledge and skills they have acquired.
 
-引导学生讨论他们在制作过程中遇到的问题和困难，以及如何解决这些问题。
+Guide students to discuss the problems and difficulties they encountered in the production process, and how to solve these problems.
 
-鼓励学生思考智能赛车制作案例的应用领域和未来发展。
+Encourage students to think about the application fields and future development of smart car production cases.
 
-## 延伸活动
+## Outreach Activities
 
-让学生尝试改进智能赛车的巡线行驶功能，使其能够应对更复杂的线路和路况。
+Let students try to improve the line-following function of the smart car so that it can cope with more complex lines and road conditions.
 
-引导学生设计和实现更复杂的十字路口处理算法，考虑不同交通规则和情况。
+Guide students to design and implement more complex intersection processing algorithms, considering different traffic rules and situations.
 
-鼓励学生思考和讨论智能赛车在日常生活中的实际应用和未来发展前景。
+Encourage students to think and discuss the practical application and future development prospects of smart racing cars in daily life.

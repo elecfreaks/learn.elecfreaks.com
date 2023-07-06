@@ -7,7 +7,7 @@ sidebar_label: Pico:ed Related Products
 
 import picoed_starter_kit_Icon from './circuit-design/picoed-starter-kit/images/starter-kit-icon.png';
 
-import picoed_samrt_cutebot_Icon from './picoed-smart-car/picoed-samrt-cutebot/images/samrt-cutebot-icon.png';
+import picoed_smart_cutebot_Icon from './picoed-smart-car/picoed-smart-cutebot/images/smart-cutebot-icon.png';
 import picoed_ringbit_car_v2_Icon from './picoed-smart-car/picoed-ringbit-car-v2/images/ringbit-car-v2-icon.png';
 
 
@@ -28,10 +28,10 @@ import picoed_ringbit_car_v2_Icon from './picoed-smart-car/picoed-ringbit-car-v2
 
 <cardbox>
   <card
-    href="./picoed-smart-car/picoed-samrt-cutebot"
+    href="./picoed-smart-car/picoed-smart-cutebot"
     title="Pico:ed Smart Cutebot kit"
     description="ELECFREAKS Pico:ed Smart Cutebot is a rear-drive smart car driven by dual high speed motors. There are many on-board equipments on the Pico:ed Smart Cutebot including ultrasonic sensor, two RGB LED headlights, clearance lamps on thebo ttom, two line-tracking probes, an active buzzer as the horn and so on! Let's drive your first smart carELECFREAKS Pico:ed Smart Cutebot is a rear-drive smart car driven by dual high speed motors."
-    img={picoed_samrt_cutebot_Icon}
+    img={picoed_smart_cutebot_Icon}
   />
   <card
     href="./picoed-smart-car/picoed-ringbit-car-v2"

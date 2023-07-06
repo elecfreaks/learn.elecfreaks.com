@@ -1,26 +1,27 @@
 # Case 07: Fall-arrest Cutebot
 ## Purpose
----
-- The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) reverses quickly when detecting the edge of a table and goes forward after making a turn.
+
+The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) reverses quickly when detecting the edge of a table and goes forward after making a turn.
 
 ![](./images/cutebot-case-07-01.png)
 
 ## Materials
----
-- 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+
+1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
 
 ## Software Platform
----
+
 [MicroSoft makecode](https://makecode.microbit.org/#)
 
 ## Programming
----
+
 ### Step 1
-- Click the "Advanced" to see more choices in the MakeCode drawer.
+
+Click the "Advanced" to see more choices in the MakeCode drawer.
 
 ![](./images/cutebot-pk-1.png)
 
-- A codebase is required for  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)` in the dialogue box and download it.
+A codebase is required for  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)` in the dialogue box and download it.
 
 ![](./images/cutebot-pk-11.png)
 
@@ -28,15 +29,15 @@
 
 ### Step 2
 
-- Choose "show icon" in the `On start` brick.
+Choose "show icon" in the `On start` brick.
 
 ![](./images/case_07_01.png)
 
 ### Step 3
 
-- Drag `if` brick into `forever` brick and judge if both of the line-tracking sensors are detecting the edges of the black line, then set the right wheel speed to `20`.
-- If not, set the speed of both wheels as `-50` to reverse, pause `300ms` and keep the left wheel still but the right wheel moves at a random speed from 50~100 and lasts 100ms.
-- Set the speed of both wheels to 0 and pause 1s to move forward again.
+Drag `if` brick into `forever` brick and judge if both of the line-tracking sensors are detecting the edges of the black line, then set the right wheel speed to `20`.
+If not, set the speed of both wheels as `-50` to reverse, pause `300ms` and keep the left wheel still but the right wheel moves at a random speed from 50~100 and lasts 100ms.
+Set the speed of both wheels to 0 and pause 1s to move forward again.
 
 ![](./images/case_07_02.png)
 
@@ -67,8 +68,8 @@ You can also download it directly below:
 
 
 ## Result
----
-- The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) reverses quickly when detecting the edge of a table and goes forward after making a turn.
+
+The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) reverses quickly when detecting the edge of a table and goes forward after making a turn.
 
 ![](./images/cutebot-case-07.gif)
 

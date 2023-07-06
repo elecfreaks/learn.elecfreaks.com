@@ -1,27 +1,27 @@
 # Case 01: Move Forward or Reverse at the Full Speed
 
 ## Purpose
----
-- Learn the basic functions of  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) move forward or reverse.
+
+Learn the basic functions of  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) move forward or reverse.
 
 ![](./images/cutebot-case-01-01.png)
 
 ## Materials
----
-- 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+
+1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
 
 ## Software Platform
----
+
 [MicroSoft makecode](https://makecode.microbit.org/#)
 
 ## Programming
----
+
 ### Step 1
-- Click the "Advanced" to see more choices in the MakeCode drawer.
+Click the "Advanced" to see more choices in the MakeCode drawer.
 
 ![](./images/cutebot-pk-1.png)
 
-- A codebase is required for  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
+A codebase is required for  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
 ![](./images/cutebot-pk-11.png)
 
@@ -29,20 +29,20 @@
 
 ### Step 2
 
-- Choose "show icon" in the `On start`bricks.
+Choose "show icon" in the `On start`bricks.
 
 ![](./images/case_01_02.png)
 
 ### Step 3
 
-- Drag `go straight at full speed` brick into `on button A pressed` brick.
+Drag `go straight at full speed` brick into `on button A pressed` brick.
 
 ![](./images/case_01_01.png)
 
 
 ### Step 4
 
-- Drag ``reverse at full speed` brick into `on button B pressed` brick.
+Drag ``reverse at full speed` brick into `on button B pressed` brick.
 
 ![](./images/case_01_03.png)
 
@@ -73,18 +73,18 @@ You can also download it directly below:
 
 
 ## Result
----
-- After button A being pressed, the car moves forward at its full speed.
-- After button B being presseD, the car reverses at its full speed。
+
+After button A being pressed, the car moves forward at its full speed.
+
+After button B being presseD, the car reverses at its full speed。
 
 
 ![](./images/cutebot-case-01.gif)
 
 ## Exploration
----
+
 How to program the car to stop moving after pressing button A ?
 
 ## FAQ
----
+
 ## Relevant Files
----

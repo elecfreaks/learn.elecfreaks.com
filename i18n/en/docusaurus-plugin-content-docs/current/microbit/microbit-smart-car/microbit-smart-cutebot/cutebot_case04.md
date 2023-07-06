@@ -1,28 +1,28 @@
 # Case 04: Run at Random
 
 ## Purpose
----
-- Make your  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) move(move forward, reverse or change direction) as if in "his" mind.
+
+Make your  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) move(move forward, reverse or change direction) as if in "his" mind.
 
 ![](./images/cutebot-case-04-01.png)
 
 ## Materials
----
-- 1 x [CutebotKit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+
+1 x [CutebotKit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
 
 ## Software Platform
----
+
 [MicroSoft makecode](https://makecode.microbit.org/#)
 
 ## Programming
----
+
 ### Step 1
 
-  - Click the "Advanced" to see more choices in the MakeCode drawer.
+Click the "Advanced" to see more choices in the MakeCode drawer.
 
 ![](./images/cutebot-pk-1.png)
 
-- A codebase is required for  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search ` [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)` in the dialogue box and download it.
+A codebase is required for  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search ` [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)` in the dialogue box and download it.
 
 ![](./images/cutebot-pk-11.png)
 
@@ -30,14 +30,15 @@
 
 ### Step 2
 
-- Choose "show icon" in the `On start`bricks.
+Choose "show icon" in the `On start`bricks.
 
 ![](./images/case_01_02.png)
 
 ### Step 3
 
-- Drag `left_speed` and `right_speed` bricks into `forever` brick to set a speed at random from `-100` to `100` of the two wheels.
-- Assign the two variables of the speed to the left and right wheels.
+Drag `left_speed` and `right_speed` bricks into `forever` brick to set a speed at random from `-100` to `100` of the two wheels.
+
+Assign the two variables of the speed to the left and right wheels.
 
 ![](./images/case_04_01.png)
 
@@ -69,16 +70,14 @@ You can also download it directly below:
 
 
 ## Result
----
- The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) moves forward, reverses or changes its direction at random.
+
+The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) moves forward, reverses or changes its direction at random.
 
 ![](./images/cutebot-case-04.gif)
 
 ## Exploration
----
 
 ## FAQ
----
+
 
 ## Relevant Files
----

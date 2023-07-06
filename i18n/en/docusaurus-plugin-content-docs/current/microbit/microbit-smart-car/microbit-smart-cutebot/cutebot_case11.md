@@ -1,32 +1,34 @@
 # Case 11: micro:bit Remote Control
 
 ## Purpose
----
-- Use another micro:bit as a remote control for your [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html).
-- Both micro:bit needs to be programmed.
+
+Use another micro:bit as a remote control for your [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html).
+
+Both micro:bit needs to be programmed.
 
 ``![](./images/cutebot-case-11-01.png)``
 
 ## Materials
----
-- 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
-- 1 x [micro:bit](https://www.elecfreaks.com/microbit_edu.html)
+
+1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+
+1 x [micro:bit](https://www.elecfreaks.com/microbit_edu.html)
 
 ## Software Platform
----
+
 
 [MicroSoft makecode](https://makecode.microbit.org/#)
 
 ## Programming
----
+
 
 ### Step 1
 
-- Click the "Advanced" to see more choices in the MakeCode drawer.
+Click the "Advanced" to see more choices in the MakeCode drawer.
 
 ![](./images/cutebot-pk-1.png)
 
-- A codebase is required for [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
+A codebase is required for [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
 ![](./images/cutebot-pk-11.png)
 
@@ -34,10 +36,13 @@
 
 ### Step 2: Remote Control Programming
 
-- Set the "radio set group" to `1` in the `On start` brick.
--  Send radio number in `1` when pressing button A.
-- Send radio number in `2` when pressing button B.
-- Send radio number in `3` when pressing button A+B.
+Set the "radio set group" to `1` in the `On start` brick.
+
+Send radio number in `1` when pressing button A.
+
+Send radio number in `2` when pressing button B.
+
+Send radio number in `3` when pressing button A+B.
 
 ![](./images/case_11_01.png)
 
@@ -68,11 +73,16 @@ You can also download it directly below:
 
 ### Step 3: [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) Programming
 
-- Drag "show icon" brick into the `On start` brick and set the "radio set group" to `1`. Items must be the same with the remote control for the correct match.
-- Drag three "if" bricks into the `on radio received` brick and judge if the received number is `1`,  `2` or `3`.
-- When the received number is `1`, turn left.
-- When the received number is `2`, turn right.
-- When the received number is `3`, go straight.
+
+Drag "show icon" brick into the `On start` brick and set the "radio set group" to `1`. Items must be the same with the remote control for the correct match.
+
+Drag three "if" bricks into the `on radio received` brick and judge if the received number is `1`,  `2` or `3`.
+
+When the received number is `1`, turn left.
+
+When the received number is `2`, turn right.
+
+When the received number is `3`, go straight.
 
 ![](./images/case_11_02.png)
 
@@ -102,10 +112,12 @@ You can also download it directly below:
 </div>
 
 ## Result
----
-- When button A+B being pressed on the remote control, the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) goes straight.
-- When button A being pressed on the remote control, the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) turns left.
-- When button B being pressed on the remote control, the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) turns right.
+
+When button A+B being pressed on the remote control, the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) goes straight.
+
+When button A being pressed on the remote control, the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) turns left.
+
+When button B being pressed on the remote control, the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) turns right.
 
 ![](./images/cutebot-case-11.gif)
 

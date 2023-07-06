@@ -1,26 +1,28 @@
 # Case15: Seeking the Light
 
 ## Purpose
----
-- Programme to make the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) seek the light source automatically.
+
+Programme to make the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) seek the light source automatically.
 
 ![](./images/cutebot-case-15-01.png)
 
 ## Materials
----
-- 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+
+1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+
 ## Software Platform
----
+
 [MicroSoft makecode](https://makecode.microbit.org/#)
 
 ## Programming
----
+
 ### Step 1
-- Click "Advanced" in the MakeCode drawer to see more choices.
+
+Click "Advanced" in the MakeCode drawer to see more choices.
 
 ![](./images/cutebot-pk-1.png)
 
-- We need to add a package for programming, click "Extensions" on the bottom of the drawer and search with `Cutebot`in the dialogue box to download it.
+We need to add a package for programming, click "Extensions" on the bottom of the drawer and search with `Cutebot`in the dialogue box to download it.
 
 ![](./images/cutebot-pk-11.png)
 
@@ -28,7 +30,7 @@
 
 ### Step 2
 
-- Judge the luminous intensity with the block "light level " in "forever" ; if the value is below the setting point, set the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) turn left at its full speed; Or it moves forward at its full speed.
+Judge the luminous intensity with the block "light level " in "forever" ; if the value is below the setting point, set the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) turn left at its full speed; Or it moves forward at its full speed.
 
 ![](./images/case_15_01.png)
 
@@ -60,13 +62,13 @@ You can also download it directly below:
 
 
 ## Result
----
-- The [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) spins if there is no light being detected or it drives forward to it at its full speed.
+
+The [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) spins if there is no light being detected or it drives forward to it at its full speed.
 
 ![](./images/cutebot-case-15.gif)
 
 ## Exploration
----
+
 
 ## FAQ
 ---

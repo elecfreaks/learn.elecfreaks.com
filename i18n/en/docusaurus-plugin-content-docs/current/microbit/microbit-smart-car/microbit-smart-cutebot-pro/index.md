@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
-sidebar_label: Cutebot Pro Introduction
+sidebar_label: Cutebot Pro
 ---
 
-# Cutebot Pro Introduction
+# Cutebot Pro
 
 ## Introduction
 ---

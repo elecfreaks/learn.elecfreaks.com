@@ -131,7 +131,7 @@ Programme as the picture shows: while pressing button A+B, the car moves at the 
 
 ### Code
 
-Link: [https://makecode.microbit.org/_4vHR21E92J0J](https://makecode.microbit.org/_4vHR21E92J0J)
+Link: [https://makecode.microbit.org/S11325-26449-05244-65698](https://makecode.microbit.org/S11325-26449-05244-65698)
 
 You can also download it directly below:
 
@@ -143,7 +143,7 @@ You can also download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_4vHR21E92J0J"
+        src="https://makecode.microbit.org/S11325-26449-05244-65698"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

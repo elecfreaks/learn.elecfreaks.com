@@ -1,6 +1,6 @@
 ---
 sidebar_position: 11
-sidebar_label: case 11 PID巡线
+sidebar_label: case 11 PID line inspection
 ---
 
 # Case 11 PID line inspection

@@ -5,7 +5,9 @@ sidebar_label: 功能模块介绍
 
 # 功能模块介绍
 
-![](./images/cutebot-pro-function.png)
+![](./images/cutebot-pro-function-a.png)
+
+![](./images/cutebot-pro-function-b.png)
 
 ## 编码电机
 

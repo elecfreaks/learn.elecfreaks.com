@@ -3,6 +3,12 @@ sidebar_position: 6
 sidebar_label: Introduction to the function modules
 ---
 
+# Introduction to the function modules
+
+![](./images/cutebot-pro-function-a.png)
+
+![](./images/cutebot-pro-function-b.png)
+
 ## Encoder motors
 
 ![](./images/cutebot-pro-function-01.png)

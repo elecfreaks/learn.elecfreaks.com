@@ -37,13 +37,22 @@ micro:bit Retro Arcade can also be used as a remote control handle in addition t
 ## Introduction of functional modules
 
 
-![](./images/microbit-retro-arcade-03.png)
+![](./images/microbit-retro-arcade-03.png)-->
 
 
 ### Installation steps
 
+Assemble the micro:bit retro arcade
 
-![](./images/microbit-retro-arcade-04.png)-->
+![](./images/microbit-retro-arcade-04.png)
+
+install battery
+
+![](./images/microbit-retro-arcade-05.png)
+
+turn on the power
+
+![](./images/microbit-retro-arcade-06.png)
 
 The micro:bit V2 is combined with an expansion board and microUSB is connected to the micro:bit V2.
 
@@ -203,3 +212,10 @@ Then go back to the programming home page, click on the download button in the b
 ![](./images/microbit-retro-arcade-19.png)
 
 You will get a file in .hex format, drag it into the MICROBIT drive to run it on micro:bit V2 + Microbit Retro Arcade.
+
+
+## More Tutorials
+
+For more tutorials, please refer to: [https://arcade.makecode.com/](https://arcade.makecode.com/)
+
+![](./images/microbit-retro-arcade-28.png)

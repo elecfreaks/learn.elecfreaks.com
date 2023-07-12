@@ -39,12 +39,21 @@ Microbit Retro Arcade除了作为游戏编程学习机，还可以作为遥控�
 
 ![](./images/microbit-retro-arcade-03.png)
 
+-->
 
 ### 安装步骤
 
+安装micro:bit retro arcade
 
-![](./images/microbit-retro-arcade-04.png)-->
+![](./images/microbit-retro-arcade-04.png)
 
+安装电池
+
+![](./images/microbit-retro-arcade-05.png)
+
+打开开关
+
+![](./images/microbit-retro-arcade-06.png)
 
 
 ## 游戏编程指南
@@ -206,3 +215,10 @@ Arcade游戏编程平台地址：[https://arcade.makecode.com](https://arcade.ma
 
 
 会得到一个.hex格式的文件，将他拖入到MICROBIT盘符下即可在micro:bit V2 + Microbit Retro Arcade上运行。
+
+
+## 更多教程
+
+更多教程请参考：[https://arcade.makecode.com/](https://arcade.makecode.com/)
+
+![](./images/microbit-retro-arcade-28.png)

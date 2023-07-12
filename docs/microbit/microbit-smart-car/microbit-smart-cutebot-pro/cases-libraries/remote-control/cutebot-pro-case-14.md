@@ -77,7 +77,7 @@ joystick:bit游戏手柄 × 1
 
 ![](./images/cutebot-pro-case-14-03.png)
 
-请参考程序连接：[https://makecode.microbit.org/_8ij0v4W5a562](https://makecode.microbit.org/_8ij0v4W5a562)
+请参考程序连接：[https://makecode.microbit.org/S07936-83398-83444-58201](https://makecode.microbit.org/S07936-83398-83444-58201)
 
 你也可以通过以下网页直接下载程序。
 
@@ -89,7 +89,7 @@ joystick:bit游戏手柄 × 1
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_8ij0v4W5a562"
+        src="https://makecode.microbit.org/S07936-83398-83444-58201"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

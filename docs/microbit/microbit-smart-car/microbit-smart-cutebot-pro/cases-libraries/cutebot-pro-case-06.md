@@ -50,7 +50,7 @@ micro:bit × 1
 
 提示：开启车灯的光线强度阈值需要根据测试环境的光线强度进行调整。
 
-请参考程序连接：[https://makecode.microbit.org/_M8k75C0Fp7fu](https://makecode.microbit.org/_M8k75C0Fp7fu)
+请参考程序连接：[https://makecode.microbit.org/S39397-84378-52257-60675](https://makecode.microbit.org/S39397-84378-52257-60675)
 
 你也可以通过以下网页直接下载程序。
 
@@ -62,7 +62,7 @@ micro:bit × 1
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_M8k75C0Fp7fu"
+        src="https://makecode.microbit.org/S39397-84378-52257-60675"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -36,7 +36,7 @@ micro:bit × 1
 ![](./images/cutebot-pro-case-07-02.png)
 
 
-请参考程序连接：[https://makecode.microbit.org/_V5pY4b6eJPhc](https://makecode.microbit.org/_V5pY4b6eJPhc)
+请参考程序连接：[https://makecode.microbit.org/S84220-50812-12042-42731](https://makecode.microbit.org/S84220-50812-12042-42731)
 
 你也可以通过以下网页直接下载程序。
 
@@ -48,7 +48,7 @@ micro:bit × 1
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_V5pY4b6eJPhc"
+        src="https://makecode.microbit.org/S84220-50812-12042-42731"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

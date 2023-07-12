@@ -49,7 +49,7 @@ PID是比例（Proportional）、积分（Integral）和微分（Derivative）�
 ![](./images/cutebot-pro-case-11-02.png)
 
 
-请参考程序连接：[https://makecode.microbit.org/_PCJdphi81XJc](https://makecode.microbit.org/_PCJdphi81XJc)
+请参考程序连接：[https://makecode.microbit.org/S63375-59249-43112-97194](https://makecode.microbit.org/S63375-59249-43112-97194)
 
 你也可以通过以下网页直接下载程序。
 
@@ -61,7 +61,7 @@ PID是比例（Proportional）、积分（Integral）和微分（Derivative）�
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_PCJdphi81XJc"
+        src="https://makecode.microbit.org/S63375-59249-43112-97194"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

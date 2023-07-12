@@ -3,6 +3,10 @@ sidebar_position: 6
 sidebar_label: 功能模块介绍
 ---
 
+# 功能模块介绍
+
+![](./images/cutebot-pro-function.png)
+
 ## 编码电机
 
 编码电机可以反馈车轮转动的度数、圈数、速度等信息，通过编码电机我们可以精确的控制小车的行驶速度。

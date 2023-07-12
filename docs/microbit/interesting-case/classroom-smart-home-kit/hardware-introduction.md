@@ -49,6 +49,9 @@ IOT:bit扩展板的功能丰富，能够满足您在智能家居开发中的需�
 
 ![](./images/hardware-introduction-05.png)
 
+0.96寸 OLED 显示模块采用 SSD1306 驱动芯片，有128x64个自发光的白色像素点。具有功耗低、对比度高等优点，可用于许多显示应用，例如：各类传感器的数值显示；mini 小游戏机；智能穿戴设备等。
+
+
 ## 彩虹灯
 
 ![](./images/hardware-introduction-06.png)

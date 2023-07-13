@@ -26,7 +26,7 @@ MicroBlocks 是一种开放的图形化编程平台，可以通过与微控制�
 
 ### MicroBlocks 平台编程准备步骤
 
-1、打开 [MicroBlocks](http://microblocks.fun/) 官方网站:https://microblocks.fun/，点击 “**Run**”.(建议使用Google Chrome和 Edge 浏览器)
+1、打开 [MicroBlocks](http://microblocks.fun/) 官方网站，点击 “**Run**”.(建议使用Google Chrome和 Edge 浏览器)
 
 ![](.\images\wukong2040-inventors-program-02.png)
 

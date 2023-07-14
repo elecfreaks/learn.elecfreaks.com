@@ -26,7 +26,7 @@ For more information about the MicroBlocks programming platform, you can browse 
 
 * MicroBlocks platform programming preparation steps
 
-1. Open [MicroBlocks](http://microblocks.fun/) official website: https://microblocks.fun/, click “**Run**”. (Google Chrome and Edge browsers are recommended)
+1. Open [MicroBlocks](http://microblocks.fun/) official website, click “**Run**”. (Google Chrome and Edge browsers are recommended)
 
 ![](.\images\wukong2040-inventors-program-02.png)
 

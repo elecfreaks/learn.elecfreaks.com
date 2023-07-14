@@ -71,7 +71,7 @@ How do you ensure that sound triggers a light switch only when the light is low?
 
 ## Hardware Connections
 
-Connect the light sensor to P1 and the noise sensor to P2 on IoT:bit board. 
+Connect the light sensor to P1 and the noise sensor to P2 on IoT:bit board.
 
 ```![](./images/smart-voice-controlled-light-02.png)```
 
@@ -89,13 +89,13 @@ Click "Extensions"
 
 ![](./images/smart-voice-controlled-light-04.png)
 
-Search with "iot-environment-kit" in the box and dowoload it. 
+Search with "iot-environment-kit" in the box and dowoload it.
 
 ![](./images/smart-voice-controlled-light-05.png)
 
 ### Code Interpretation
 
-While in the "On start" block, set the rainbow LED with 1 LED and get it connected with P14 port. 
+While in the "On start" block, set the rainbow LED with 1 LED and get it connected with P14 port.
 
 ![](./images/smart-voice-controlled-light-06.png)
 
@@ -103,11 +103,11 @@ Save the returned value from the light sensor connecting to P1 as the variable "
 
 ![](./images/smart-voice-controlled-light-07.png)
 
-If the light value is below 60 and the noise value over 80, set to light up in white and turn it off after 10S. 
+If the light value is below 60 and the noise value over 80, set to light up in white and turn it off after 10S.
 
 ![](./images/smart-voice-controlled-light-08.png)
 
-Or turn it off. 
+Or turn it off.
 
 ![](./images/smart-voice-controlled-light-09.png)
 

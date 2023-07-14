@@ -1,24 +1,26 @@
 # AI摄像头:人脸追踪
 
 ## 目的
----
-- 使用cutebot智能赛车搭配AI摄像头实现人脸识别功能。
+
+这节课我们将使用Cutebot智能赛车搭配AI摄像头实现人脸识别功能。
 
 ![](./images/cutebot-case-21-01.png)
 
 ## 使用材料
----
-- 1 × [Cutebot V3.0](https://item.taobao.com/item.htm?ft=t&id=598365555295)
-- 1 × [Cutebot套件锂电池扩展包](https://item.taobao.com/item.htm?ft=t&id=640567252291)
-- 1 × [AI摄像头](https://item.taobao.com/item.htm?ft=t&id=632538261754)
+
+1 × [Cutebot V3.0](https://item.taobao.com/item.htm?ft=t&id=598365555295)
+
+1 × [Cutebot套件锂电池扩展包](https://item.taobao.com/item.htm?ft=t&id=640567252291)
+
+1 × [AI摄像头](https://item.taobao.com/item.htm?ft=t&id=632538261754)
 
 *注意：AI摄像头适用于 Cute bot V 3.0只有（可以看到底板上打印的版本号）。*
 
 ![](./images/cutebot-16-04.png)
 
 ## 安装方式
----
-### 锂电池安装步骤：
+
+### 锂电池安装步骤
 
 ![](./images/cutebot-step-01.png)
 
@@ -59,17 +61,18 @@
 *注意：这个积木支架结构是可以活动的，我们可以手动调节AI摄像头的视角，在使用AI摄像头时，应该根据功能需求来调节角度。*
 
 ## 软件平台
----
+
 [微软 makecode](https://makecode.microbit.org/#)
 
 ## 编程
----
+
 ### 步骤 1
-- 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
+
+在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
 ![](./images/cutebot-pk-1.png)
 
-- 为了给Cutebot套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索`Cutebot`，然后点击下载这个代码库。
+为了给Cutebot套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索`Cutebot`，然后点击下载这个代码库。
 
 ![](./images/cutebot-pk-11.png)
 
@@ -83,11 +86,11 @@
 
 ### 步骤 2
 
-- 在`当开机时`中，初始化AI摄像头，切换摄像头功能为人脸识别模式。
+在`当开机时`中，初始化AI摄像头，切换摄像头功能为人脸识别模式。
 
 ![](./images/case-21-01.png)
 
-- 在`无限循环`中，从摄像头获取一帧图像的信息，如果图像中包含人脸，则LED矩阵显示√，否则显示×。
+在`无限循环`中，从摄像头获取一帧图像的信息，如果图像中包含人脸，则LED矩阵显示√，否则显示×。
 
 ![](./images/case-21-02.png)
 
@@ -117,19 +120,18 @@
         }}
     />
 </div>
----
+
 
 ## 结论
----
-- 如果摄像头检测到人脸，则LED矩阵显示√，否则显示×。
+
+如果摄像头检测到人脸，则LED矩阵显示√，否则显示×。
 
 
 ![](./images/cutebot-case-21.gif)
 
 ## 思考
----
+
 
 ## 常见问题
----
+
 ## 相关阅读
----

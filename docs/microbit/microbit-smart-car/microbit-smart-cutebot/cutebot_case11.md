@@ -7,9 +7,7 @@ sidebar_label: micro:bit远程控制
 
 ## 目的
 
-使用另一块micorbit主板远程操控Cutebot赛车。
-
-两块主板都需要编程
+大家好，这节课我们将使用Cutebot智能赛车制作一辆可以使用micro:bit远程遥控的小车！
 
 ``![](./images/cutebot-case-11-01.png)``
 

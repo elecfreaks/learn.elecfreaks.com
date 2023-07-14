@@ -1,6 +1,7 @@
 # 颜色卡片控制cutebot小车
 
 ## 目的
+
 使用cutebot智能赛车搭配AI摄像头实现小车根据卡片颜色来自动启动和停车的功能。
 
 ![](./images/cutebot-case-24.png)

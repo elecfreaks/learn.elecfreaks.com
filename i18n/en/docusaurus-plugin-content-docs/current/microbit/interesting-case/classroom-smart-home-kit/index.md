@@ -3,6 +3,8 @@ sidebar_position: 5
 sidebar_label: Classroom Smart Home Kit
 ---
 
+# Classroom Smart Home Kit
+
 The Classroom Smart Home Kit includes components such as an IOT:bit expansion board, crash sensor, 180-degree servo, rainbow LED, noise sensor, light sensor and OLED display. These components enable a wealth of functionality and work perfectly with the micro:bit board, allowing you to explore more interesting smart home creation projects.
 
 The Classroom Smart Home Kit set includes two exciting examples - a remote door opener and a smart voice-activated light - you can get started quickly and make creative and fun smart home projects.

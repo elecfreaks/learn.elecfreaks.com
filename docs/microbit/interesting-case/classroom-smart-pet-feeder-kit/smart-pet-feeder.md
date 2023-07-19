@@ -1,9 +1,9 @@
 ---
 sidebar_position: 4
-sidebar_label: Smart Pet Feeder
+sidebar_label: 智能宠物喂食器
 ---
 
-# Smart Pet Feeder
+# 智能宠物喂食器
 
 ## 功能简介
 

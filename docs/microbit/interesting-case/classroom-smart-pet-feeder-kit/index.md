@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-sidebar_label: Classroom Smart Pet Feeder Kit
+sidebar_label: 智能宠物喂食器
 ---
 
 在本篇文章中，我们将介绍一款适用于中小学生的创客制作案例——智能宠物喂食器。这款喂食器采用了micro:bit v2主板、IOT:bit 扩展板、八爪鱼系列的人体红外传感器以及超声波传感器、180° 9g 舵机以及一个可爱的木制小房子作为组件。

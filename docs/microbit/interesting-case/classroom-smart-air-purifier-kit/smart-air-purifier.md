@@ -3,8 +3,6 @@ sidebar_position: 4
 sidebar_label: 智能空气净化器
 ---
 
-# 
-
 # 智能空气净化器
 
 ## 功能简介

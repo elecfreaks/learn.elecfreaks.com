@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
-sidebar_label: Hardware Introduction
+sidebar_label: 硬件介绍
 ---
 
-# Hardware Introduction
+# 硬件介绍
 
 ### micro:bit 主板介绍
 

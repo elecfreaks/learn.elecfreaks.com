@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: Packing List
+sidebar_label: 套装清单
 ---
 
 # 套装清单

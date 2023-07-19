@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-sidebar_label: Products Introduction
+sidebar_label: 产品介绍
 ---
 
-# Products Introduction
+# 产品介绍
 
 在本篇文章中，我们将介绍一款适用于中小学生的创客制作案例——智能宠物喂食器。这款喂食器采用了micro:bit v2主板、IOT:bit 扩展板、八爪鱼系列的人体红外传感器以及超声波传感器、180° 9g 舵机以及一个可爱的木制小房子作为组件。
 

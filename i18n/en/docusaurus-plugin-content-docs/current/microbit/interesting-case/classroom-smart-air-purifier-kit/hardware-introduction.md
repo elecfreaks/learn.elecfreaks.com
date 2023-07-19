@@ -19,7 +19,7 @@ For more information about micro:bit, please visit: [micro:bit official website]
 
 ## IOT:bit
 
-![](/Users/fucheng/Downloads/classroom-smart-pet-feeder-kit/images/hardware-introduction-01.png)
+![](./images/hardware-introduction-01.png)
 
 The IOT:bit expansion board is an expansion board with bountiful functions designed for micro:bit. You may find more details below:
 

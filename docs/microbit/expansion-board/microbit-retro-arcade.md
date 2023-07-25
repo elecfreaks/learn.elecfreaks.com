@@ -58,9 +58,15 @@ Microbit Retro Arcade除了作为游戏编程学习机，还可以作为遥控�
 
 ## 游戏编程指南
 
-micro:bit V2与扩展板结合，microUSB连接在micro:bit V2上。
-- 此时如果电源从micro:bit V2端供给，扩展板的电源开关无论开关都会导通。
-- 扩展板电源开关将控制的是从扩展板端供电的情况。
+欢迎学习Retro Arcade！如需了解更多相关知识，请参考：[https://arcade.makecode.com/](https://arcade.makecode.com/)
+
+点击对应项目，即可进入项目教程，通过编写游戏的过程来学习知识。
+
+![](./images/microbit-retro-arcade-28.png)
+
+>micro:bit V2与扩展板结合，microUSB连接在micro:bit V2上。
+>此时如果电源从micro:bit V2端供给，扩展板的电源开关无论开关都会导通。
+>扩展板电源开关将控制的是从扩展板端供电的情况。
 
 ## 编程平台
 

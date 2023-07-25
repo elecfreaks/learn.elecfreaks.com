@@ -58,9 +58,14 @@ The micro:bit V2 is combined with an expansion board and microUSB is connected t
 
 ## Game Programming Guide
 
+Welcome to learning Retro Arcade! For more information, please refer to: [https://arcade.makecode.com/](https://arcade.makecode.com/)
 
-- At this time, if power is supplied from the micro:bit V2 side, the power switch of the expansion board will be on regardless of the switch.
-- The expansion board power switch will control the power supply from the expansion board side.
+Click on the corresponding project to access the project tutorial and learn through the process of game development.
+
+![](./images/microbit-retro-arcade-28.png)
+
+>At this time, if power is supplied from the micro:bit V2 side, the power switch of the expansion board will be on regardless of the switch.
+>The expansion board power switch will control the power supply from the expansion board side.
 
 ## Programming Platform
 

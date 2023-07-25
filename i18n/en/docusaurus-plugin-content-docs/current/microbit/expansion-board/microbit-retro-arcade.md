@@ -174,6 +174,7 @@ Link: [https://makecode.microbit.org/_gC9gJDET83xd](https://makecode.microbit.or
 **Programming Platform**
 
 Link: [https://arcade.makecode.com/#](https://arcade.makecode.com/#)
+
 Create a new project to go to the programming home page.
 
 ![](./images/microbit-retro-arcade-24.png)

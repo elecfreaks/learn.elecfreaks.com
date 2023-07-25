@@ -10,7 +10,7 @@
 ### Features
 
 
-- Intergrated ESP12F WiFi、RTC and passive buzzer module
+- Intergrated WiFi、RTC and passive buzzer module
 - Extended most IO ports by GVS
 - Silk-screen indication onboard main components
 - Separately lead IIC interface, directly plug in OLED, BME280 and IIC,etc
@@ -37,7 +37,7 @@
  |DC supply|USB-5V|-|
  |Maximum power current|800mA|-|
  |Operation temperature|-25~80℃|-|
- |WIFI module|ESP8266|ESP12F|
+ |WIFI module|Ai-WB2-12F|The WIFI module used in IOT:bit V1.4 and earlier versions is ESP12F|
  |Buzzer|Passive buzzer|-|
  |RTC timing|DS1307 RTC|-|
  |RTC timing battery|CR1220 button cell|Equipped by yourself|

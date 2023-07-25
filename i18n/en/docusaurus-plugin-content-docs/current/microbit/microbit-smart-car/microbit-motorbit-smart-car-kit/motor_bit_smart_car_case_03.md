@@ -76,7 +76,7 @@ If both the left and right infrared sensor have detected derail, then set the mo
 ## Program
 
 
-Link of the whole program: [https://makecode.microbit.org/_ibXcm1M5UY3A](https://makecode.microbit.org/_ibXcm1M5UY3A)
+Link of the whole program: [https://makecode.microbit.org/S41307-62977-78836-22811](https://makecode.microbit.org/S41307-62977-78836-22811)
 
 You can also download the program from the page below.
 
@@ -88,7 +88,7 @@ You can also download the program from the page below.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_ibXcm1M5UY3A"
+        src="https://makecode.microbit.org/S41307-62977-78836-22811"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -67,7 +67,7 @@
 ![](./images/motor_bit_case_03_06.png)
 
 ### 程序
-请参考程序连接：[https://makecode.microbit.org/_ibXcm1M5UY3A](https://makecode.microbit.org/_ibXcm1M5UY3A)
+请参考程序连接：[https://makecode.microbit.org/S41307-62977-78836-22811](https://makecode.microbit.org/S41307-62977-78836-22811)
 
 你也可以通过以下网页直接下载程序。
 
@@ -80,7 +80,7 @@
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_ibXcm1M5UY3A"
+        src="https://makecode.microbit.org/S41307-62977-78836-22811"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

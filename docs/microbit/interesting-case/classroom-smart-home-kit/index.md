@@ -3,6 +3,8 @@ sidebar_position: 5
 sidebar_label: Classroom Smart Home Kit
 ---
 
+# Classroom Smart Home Kit
+
 Classroom Smart Home Kit包括了IOT:bit扩展板、碰撞传感器、180度舵机、彩虹灯、噪音传感器、光线传感器和OLED显示屏等组件。这些组件能够实现丰富的功能，与micro:bit开发板完美配合，让您能够探索更多有趣的智能家居创客项目。
 
 Classroom Smart Home Kit套装包含了两个令人兴奋的案例——遥控开门器和智能声控灯，让你能够快速上手，制作充满创意和趣味的智能家居项目。

@@ -1,14 +1,13 @@
 ---
-sidebar_position: 6
-sidebar_label: 产品参数
+sidebar_position: 1
+sidebar_label: XGO-lite2 产品参数
 ---
 
-# 产品参数
+# XGO-lite2 产品参数
 
 ## 整机参数
 
 - 型号：XGO-lite2
-
 
 - 尺寸：默认站姿250-145-170mm
 
@@ -26,7 +25,7 @@ sidebar_label: 产品参数
 
 - 存储:Micro SD卡32G
 
-![](./images/cm4-xgo-products-01.png)
+![](./../images/cm4-xgo-products-01.png)
 
 ## AI 模组参数
 
@@ -44,7 +43,7 @@ sidebar_label: 产品参数
 
 - PH2.0 4PIN串口通信及电源接口
 
-![](./images/cm4-xgo-index-03.png)
+![](./../images/cm4-xgo-index-03.png)
 
 
 ## 舵机参数

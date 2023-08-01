@@ -1,42 +1,42 @@
 ---
-sidebar_position: 5
-sidebar_label: XGO 机器人套装V2-CM4版
+sidebar_position: 2
+sidebar_label: XGO-lite 机器人套装V2-CM4版
 ---
 
 
-# XGO 机器人套装V2-CM4版
+# XGO-lite 机器人套装V2-CM4版
 
 ## 简介
 
 XGO-lite V2 是一款具有 15 自由度桌面级 Al 机器狗，背部搭载机械臂和末端夹爪，内置树莓派 CM4 模组实现 AI 边缘计算应用，采用 2.3KG.CM 总线串口舵机作为关节，可实现全向移动、六维姿态控制、姿态稳定、多种运动步态和夹持任务，内部搭载 IMU、关节位置传感器和电流传感器反馈自身姿态和关节转角与力矩，用于内部算法和二次开发。支持 Blockly 图形化编程，Python 编程和 ROS 编程。
 
-![](./images/cm4-xgo-index.png)
+![](./../images/cm4-xgo-index.png)
 
-![](./images/cm4-xgo-products-01.gif)
+![](./../images/cm4-xgo-products-01.gif)
 
 ## 功能描述
 
 1、可实现 AI 边缘计算图形化编程，例如人脸检测，物体分类，语音识别等常用程序。
 
-![](./images/cm4-xgo-products-06.png)
+![](./../images/cm4-xgo-products-06.png)
 
 
 
 2、可实现全向移动，六维姿态控制，多种运动步态及运动叠加，内置陀螺仪，可保持身体自平衡。
 
-![](./images/cm4-xgo-products-05.gif)
+![](./../images/cm4-xgo-products-05.gif)
 
 
 
 3、产品配套跨平台图形化和 Python 编程云平台，有相关配套课程。
 
-![](./images/cm4-xgo-products-04.gif)
+![](./../images/cm4-xgo-products-04.gif)
 
 
 
 4、伺服舵机具有关节角度回读功能，允许它记住每个动作的关节位置并执行你设计的动作组，可用于示教编程。
 
-![](./images/cm4-xgo-products-02.gif)
+![](./../images/cm4-xgo-products-02.gif)
 
 ## 产品特性
 
@@ -70,7 +70,7 @@ XGO-lite V2 的主体结构是由铝合金结构件，小腿和总线舵机组�
 
 - 18650 2S电池通过魔术贴粘在驱动板上，充电孔固定在底板。
 
-![](./images/cm4-xgo-products-02.png)
+![](./../images/cm4-xgo-products-02.png)
 
 
 
@@ -78,7 +78,7 @@ XGO-lite V2 的主体结构是由铝合金结构件，小腿和总线舵机组�
 
 AI 模组采用树莓派 CM4 技术方案，配有 2.0 寸 IPS 彩色显示屏幕和 4 个可编程按键，500 万像素摄像头,数字麦克风及腔体扬声器，是一款拥有人机交互能力的 AI 终端，可以实现图像识别，人脸检测，语音识别等功能，帮助学生学习 AI 知识。
 
-![](./images/cm4-xgo-index-03.png)
+![](./../images/cm4-xgo-index-03.png)
 
 ## XGO-Lite V2 驱动板
 
@@ -105,6 +105,6 @@ XGO-lite2 机器狗选用了一款高品质的6V 2.3KG 塑料壳金属齿300度�
 
 总之，6V 2.3KG 塑料壳金属齿300度双轴TTL串口舵机是一款高品质、高性能的舵机，适用于各种机器人和智能设备的运动控制。在 XGO-lite2 机器狗中，它为 XGO-lite V2 的运动控制提供了强大的支持，提高了 XGO-lite V2 的性能和应用价值。
 
-![](./images/microbit-xgo-lite2-introduce-07.png)
+![](./../images/microbit-xgo-lite2-introduce-07.png)
 
-![](./images/microbit-xgo-lite2-introduce-08.png)
+![](./../images/microbit-xgo-lite2-introduce-08.png)

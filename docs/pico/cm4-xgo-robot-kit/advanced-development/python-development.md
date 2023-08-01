@@ -1,26 +1,26 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 sidebar_label: 基于Python开发使用
 ---
 
 # 基于 Python 开发使用
 
-XGO-lite V2 内置了运动控制库文件 xgolib.py，教育库 xgoedu.py 和高级库 xgoadvance.py，开发者可以直接调用相关接口函数来控制机器狗。
+XGO V2 内置了运动控制库文件 xgolib.py，教育库 xgoedu.py 和高级库 xgoadvance.py，开发者可以直接调用相关接口函数来控制机器狗。
 
-运动库下载 [xgolib.py(26 KB)](https://www.elecfreaks.com/download/xgolib.py)
+运动库下载：[xgolib.py(26 KB)](https://www.elecfreaks.com/download/xgolib.py)
 
-## 初始化 
+## 初始化
 
 以下为初始化代码：
 
 ```python
 #导入 xgolib
-from xgolib import XGO  
+from xgolib import XGO
 #实例化 dog
 dog = XGO(port='/dev/ttyAMA0',version="xgolite")
 ```
 
-## 判断机器狗的类型 
+## 判断机器狗的类型
 
 由于 xgolite 与 xgomini 在运动性能和参数上有差异，为了准确控制机器狗的运动，可通过：
 
@@ -30,7 +30,7 @@ dog = XGO(port='/dev/ttyAMA0',version="xgolite")
 
 ```python
 from xgolib import XGO
-dog = XGO(port='/dev/ttyAMA0',version="xgolite") 
+dog = XGO(port='/dev/ttyAMA0',version="xgolite")
 version=dog.read_firmware()
 if version[0]=='M':
     print('XGO-MINI')
@@ -43,11 +43,11 @@ else:
 
 通过此段代码可以判断狗的类型，若变量 dog_type 为'M'则狗的类型为 XGOMINI，若为'L'则类型为 XGOLITE。
 
-## 运动控制库介绍 
+## 运动控制库介绍
 
-### 移动相关方法 
+### 移动相关方法
 
-#### 前后左右平移 
+#### 前后左右平移
 
 **move(direction, step)**
 
@@ -56,7 +56,7 @@ else:
 | direction | 字符 | 'x'、'X'、'y'、'Y'    | 'x'或'X'使机器狗前进或后退，'y'或'Y'使机器狗左移或者右移     |
 | step      | 数字 | x:[-25,25],y:[-18,18] | 该参数代表平移步长，根据方向，正值代表前进或左移，负值代表后退或右移。输入值超过范围时，按照极限值移动。 |
 
-#### 旋转 
+#### 旋转
 
 **turn(step)**
 
@@ -64,7 +64,7 @@ else:
 | ------ | ---- | ---------- | ------------------------------------------------------- |
 | step   | 数字 | [-150,150] | 该参数代表旋转速度，单位为°/s，正值为左转，负值为右转。 |
 
-#### 原地踏步 
+#### 原地踏步
 
 **mark_time(data)**
 
@@ -72,7 +72,7 @@ else:
 | ------ | ---- | -------- | ----------------------------------------------------------- |
 | data   | 数字 | [10,35]  | 该参数代表原地踏步抬腿高度，单位为mm，输入为0时停止原地踏步 |
 
-#### 改变迈步频率 
+#### 改变迈步频率
 
 **pace(mode) 速度 = 步频 x 步幅**
 
@@ -80,7 +80,7 @@ else:
 | ------ | ------ | ------------------------ | ------------------------------------------------------------ |
 | mode   | 字符串 | ['normal','slow','high'] | 该参数代表迈步频率，normal为默认步频，low为慢速步频，high为高速步频 |
 
-#### 停止移动 
+#### 停止移动
 
 **stop()**
 
@@ -125,11 +125,11 @@ dog.stop()
 | turnleft(step)  | 左转，相当于turn(abs(step))       |
 | turnright(step) | 右转，相当于turn(-abs(step))      |
 
-### 位姿相关方法 
+### 位姿相关方法
 
 调节位姿时，机器狗四条腿足端位置不发生改变，机身的位置或角度发生变化。
 
-#### 机身位置平移 
+#### 机身位置平移
 
 **translation(direction, data)**
 
@@ -147,9 +147,9 @@ dog.stop()
 | direction | 单字符或字符列表 | 'r'、'p'、'y'或包含以上值的列表 | 'r'代表滚转角，'p'代表俯仰角，'y'代表偏航角 |
 | data      | 数字             | r:[-20,20],p:[-15,15],y:[11,11] | 该参数代表机身姿态调节幅度，单位为°         |
 
-#### 机身周期平移 
+#### 机身周期平移
 
-**periodic_tran(direction, period)** 
+**periodic_tran(direction, period)**
 
 机器狗机身将以指定周期和方向进行往复平移，幅度为位置平移极限值的一半，可以同时进行多个方向的周期运动。机身周期运动和整机运动不可同时进行。
 
@@ -158,7 +158,7 @@ dog.stop()
 | direction | 单字符或字符列表 | 'x'、'y'、'z'或包含以上值的列表 | 'x'代表前后平移，'y'代表左右平移，'z'代表身高   |
 | period    | 数字             | [1.5,8]                         | 该参数代表运动周期，单位为s;输入0时代表停止运动 |
 
-#### 机身周期旋转 
+#### 机身周期旋转
 
 **periodic_rot(direction, period)**
 
@@ -190,9 +190,9 @@ dog.periodic_rot(['r','y'],[3,7.4])
 dog.periodic_rot('y',0)
 ```
 
-### 机械臂相关方法 
+### 机械臂相关方法
 
-#### 设置机械臂末端位置 
+#### 设置机械臂末端位置
 
 **arm( arm_x, arm_z)**
 
@@ -205,7 +205,7 @@ dog.periodic_rot('y',0)
 
 设定超过机械臂工作空间的值时，机械臂会保持最后一个有效值对应的姿态，比如(155,0)对应的姿态是向前伸到最大，(0,155)对应向上伸到最大，(155,155)是斜向上最大，但是机械臂达不到这个位置，就会保持上一次发送的有效位置。
 
-#### 设置机械臂夹爪开合 
+#### 设置机械臂夹爪开合
 
 **claw(pos)**
 
@@ -213,7 +213,7 @@ dog.periodic_rot('y',0)
 | ------ | ------ | -------- | ------------------------------ |
 | pos    | uint_8 | 0-255    | 0对应完全张开，255对应完全闭合 |
 
-#### 设置机械臂是否开启稳定模式 
+#### 设置机械臂是否开启稳定模式
 
 **arm_mode(mode)**
 
@@ -223,17 +223,17 @@ dog.periodic_rot('y',0)
 
 开启之后机械臂末端会不随着身体的平移而平移（平移指四脚站定躯干运动，而非前后左右迈步平移）。
 
-### 其余方法 
+### 其余方法
 
-#### 恢复初始状态 
+#### 恢复初始状态
 
-**reset()** 
+**reset()**
 
 停止所有运动，所有状态全部恢复到初始状态
 
-#### 设置自稳状态 
+#### 设置自稳状态
 
-**imu(mode)** 
+**imu(mode)**
 
 自稳状态下，机器狗将自动调节姿态角以保持背部处于水平位置，不可在开启时手动设定姿态角。
 
@@ -241,7 +241,7 @@ dog.periodic_rot('y',0)
 | ------ | ---- | -------- | -------------------- |
 | mode   | 整数 | 0、1     | 0代表关闭、1代表开启 |
 
-**perform(mode)** 
+**perform(mode)**
 
 表演模式，机器狗将循环执行预设的动作。
 
@@ -249,9 +249,9 @@ dog.periodic_rot('y',0)
 | ------ | ---- | -------- | -------------------- |
 | mode   | 整数 | 0、1     | 0代表关闭、1代表开启 |
 
-#### 单腿控制 
+#### 单腿控制
 
-**leg(leg_id, data)** 
+**leg(leg_id, data)**
 
 控制指定腿的足端位置
 
@@ -267,9 +267,9 @@ dog.periodic_rot('y',0)
 dog.leg(2,[10,-12,90])
 ```
 
-#### 舵机控制 
+#### 舵机控制
 
-**motor(motor_id, data)** 
+**motor(motor_id, data)**
 
 控制舵机旋转角度
 
@@ -288,9 +288,9 @@ dog.motor(22,30)
 dog.motor([23,41],[10,-20])
 ```
 
-#### 单腿舵机卸载 
+#### 单腿舵机卸载
 
-**unload_motor(leg_id)** 
+**unload_motor(leg_id)**
 
 使一条腿上的三个舵机卸载，不输出力矩，之后可以随意用手转动，一般用于编写动作
 
@@ -298,15 +298,15 @@ dog.motor([23,41],[10,-20])
 | ------ | ---- | -------- | -------------------------------------- |
 | leg_id | 整数 | 1,2,3,4  | 分别代表左前腿、右前腿、右后腿、左后腿 |
 
-#### 所有舵机卸载 
+#### 所有舵机卸载
 
-**unload_allmotor()** 
+**unload_allmotor()**
 
 使所有舵机卸载，不输出力矩，可以随意用手转动
 
-#### 单腿舵机加载 
+#### 单腿舵机加载
 
-**load_motor(leg_id)** 
+**load_motor(leg_id)**
 
 使一条腿上的三个舵机保持当前位置加载，输出力矩，之后不可以用手转动，一般用于编写动作
 
@@ -314,15 +314,15 @@ dog.motor([23,41],[10,-20])
 | ------ | ---- | -------- | -------------------------------------- |
 | leg_id | 整数 | 1,2,3,4  | 分别代表左前腿、右前腿、右后腿、左后腿 |
 
-#### 所有舵机加载 
+#### 所有舵机加载
 
-**load_allmotor()** 
+**load_allmotor()**
 
 使所有舵机保持当前位置加载，输出力矩，之后不可以用手转动
 
-#### 设置舵机转动速度 
+#### 设置舵机转动速度
 
-**motor_speed(speed)** 
+**motor_speed(speed)**
 
 调节舵机转动速度，适用于单独控制舵机的情况
 
@@ -330,9 +330,9 @@ dog.motor([23,41],[10,-20])
 | ------ | ---- | -------- | ---------------------- |
 | speed  | 整数 | [0,255]  | 0为最低速，255为最高速 |
 
-#### 修改蓝牙名称 
+#### 修改蓝牙名称
 
-**bt_rename(name)** 
+**bt_rename(name)**
 
 重新修改蓝牙名称，调用该函数后蓝牙会断开链接
 
@@ -340,7 +340,7 @@ dog.motor([23,41],[10,-20])
 | ------ | ------ | ------------ | ------------------------------------------------------------ |
 | name   | 字符串 | 长度不大于10 | 机器狗的蓝牙名称格式为XGO_xxx，xxx为可修改部分，仅支持ascii码中的字符。 |
 
-#### 执行预设动作 
+#### 执行预设动作
 
 **action(action_id)**
 
@@ -358,9 +358,9 @@ dog.motor([23,41],[10,-20])
 | 16   | 左右摇摆 | 17   | 求食      | 18   | 找食物   |
 | 19   | 握手     | 20   | 拜年      |      |          |
 
-#### 标定舵机位置 
+#### 标定舵机位置
 
-**calibration(state)** 
+**calibration(state)**
 
 如果开机后，某些关节出现了明显的位置偏差，可以调用该功能进行标定。其他情况请谨慎使用
 
@@ -368,54 +368,54 @@ dog.motor([23,41],[10,-20])
 | ------ | ---- | -------- | ------------------------------------------------------------ |
 | state  | 整数 | [0,1]    | 1 进入标定状态，此时舵机卸力，然后将机器狗摆至标定状态，小腿与地面平行，大腿与躯干呈90°，躯干与地面平行；0 完成标定 |
 
-### 读取相关方法 
+### 读取相关方法
 
-#### 读取舵机角度 
+#### 读取舵机角度
 
-**read_motor()** 
+**read_motor()**
 
 读取12个舵机的角度， 读取成功则返回长度为12的列表，对应编号[11,12,13,21,22,23,31,32,33,41,42,43]的舵机角度， 读取失败则返回空列表
 
-#### 读取电池电量 
+#### 读取电池电量
 
-**read_battery()** 
+**read_battery()**
 
 读取当前电池电量， 读取成功则返回1-100的整数，代表电池剩余电量百分比， 读取失败则返回0。
 
-#### 读取姿态角度 
+#### 读取姿态角度
 
-**read_roll()** 
+**read_roll()**
 
-**read_pitch()** 
+**read_pitch()**
 
-**read_yaw()** 
+**read_yaw()**
 
 读取当前姿态角度，读取成功则浮点数，读取失败则返回0
 
 
 
-## 教育库介绍 
+## 教育库介绍
 
 XGO-lite V2 内置了教育库文件 xgoedu.py，可以直接导入使用。
 
 也可以在此下载：https://github.com/Xgorobot/XGO-PythonLib
 
-### 初始化 
+### 初始化
 
 以下为初始化代码：
 
 ```python
 #导入 xgoedu
-from xgoedu import XGOEDU 
+from xgoedu import XGOEDU
 #实例化 edu
 edu = XGOEDU()
 ```
 
-### 屏幕绘图 
+### 屏幕绘图
 
-**需要先杀掉自启动 main.py 进程，否则会屏幕刷新冲突** 
+**需要先杀掉自启动 main.py 进程，否则会屏幕刷新冲突**
 
-#### 画直线 
+#### 画直线
 
 lcd_line(x1,y1,x2,y2,color=(r,g,b),width=width)
 
@@ -425,7 +425,7 @@ lcd_line(x1,y1,x2,y2,color=(r,g,b),width=width)
 | color(可缺省) <br />默认为白色 | rgb元组 | r g b:[0,255]               | color为线颜色                     |
 | width（可缺省）<br />默认为2   | 数字    |                             | width为线宽                       |
 
-#### 画圆弧 
+#### 画圆弧
 
 lcd_circle(x1,y1,x2,y2,angle0,angle1,color=(255,255,255),width=2)
 
@@ -436,7 +436,7 @@ lcd_circle(x1,y1,x2,y2,angle0,angle1,color=(255,255,255),width=2)
 | color(可缺省) <br />默认为白色 | rgb元组 | r g b:[0,255]               | color为圆弧颜色                   |
 | width（可缺省）<br />默认为2   | 数字    |                             | width为圆弧宽                     |
 
-#### 画矩形 
+#### 画矩形
 
 lcd_rectangle(x1,y1,x2,y2,fill=None,outline=(255,255,255),width=2)
 
@@ -447,7 +447,7 @@ lcd_rectangle(x1,y1,x2,y2,fill=None,outline=(255,255,255),width=2)
 | outline(可缺省) <br />默认为白色 | rgb元组 | r g b:[0,255]               | width为线颜色                     |
 | width（可缺省） <br />默认为2    | 数字    |                             | width为线宽                       |
 
-#### 显示文字 
+#### 显示文字
 
 可显示中文与英文使用微软雅黑字体，字体大小可调节
 
@@ -460,7 +460,7 @@ lcd_text(x,y,content,color=(255,255,255),,fontsize=15)
 | color(可缺省) <br />默认为白色    | rgb元组 | r g b:[0,255] | color为线颜色      |
 | fontsize（可缺省） <br />默认为15 | 数字    |               | fontsize为字体大小 |
 
-#### 显示图片 
+#### 显示图片
 
 lcd_picture(filename,x=0,y=0)
 
@@ -469,11 +469,11 @@ lcd_picture(filename,x=0,y=0)
 | filename                     | 字符串 |             | 图片文件路径，请使用jpg图片 |
 | x,y(可缺省) <br />默认x,y为0 | 数字   | x y:[0,320] | x,y为初始点标               |
 
-#### 清除屏幕 
+#### 清除屏幕
 
 lcd_clear()
 
-### 按键检测 
+### 按键检测
 
 xgoButton(button)
 
@@ -481,9 +481,9 @@ xgoButton(button)
 | ------ | ---------- | ----------------- | -------------------- |
 | button | 指定字符串 | ["a","b","c","d"] | False未按下 True按下 |
 
-## 音频功能 
+## 音频功能
 
-### 播放音频 
+### 播放音频
 
 xgoSpeaker(filename)
 
@@ -491,7 +491,7 @@ xgoSpeaker(filename)
 | -------- | ------ | -------- | ------------ |
 | filename | 字符串 |          | 音频文件路径 |
 
-### 录制音频 
+### 录制音频
 
 xgoAudioRecord(filename="record.wav",seconds=5)
 
@@ -520,7 +520,7 @@ cameraOn(filename="camera")
 
 ```python
 #导入xgoedu
-from xgoedu import XGOEDU 
+from xgoedu import XGOEDU
 #实例化edu
 edu = XGOEDU()
 
@@ -534,7 +534,7 @@ print(result)
 
 ```python
 #导入xgoedu
-from xgoedu import XGOEDU 
+from xgoedu import XGOEDU
 #实例化edu
 edu = XGOEDU()
 
@@ -546,7 +546,7 @@ while True:
         break
 ```
 
-### 手势识别 
+### 手势识别
 
 gestureRecognition(target="camera")
 
@@ -554,7 +554,7 @@ gestureRecognition(target="camera")
 | ------------------------------------------------------------ | ------ | ---------------------- | ------------------------------------------------------------ |
 | target(可缺省) <br />默认"camera" <br />即使用摄像头捕捉图像 | 字符串 | target为图像文件的路径 | (ges,(x,y)) <br />ges为手势识别结果 <br />目前包括的手势有：<br /> ["1","2","3","4","5","Good","Ok","Rock","Stone"] <br />坐标值xy |
 
-### YOLO识别 
+### YOLO识别
 
 yoloFast(target="camera")
 
@@ -562,7 +562,7 @@ yoloFast(target="camera")
 | ------------------------------------------------------------ | ------ | ---------------------- | ------------------------------------------------------------ |
 | target(可缺省) <br />默认"camera" <br />即使用摄像头捕捉图像 | 字符串 | target为图像文件的路径 | (object,(x,y)) <br />object为YOLO识别结果 <br />目前包括的物体有： <br />['person','bicycle','car','motorbike','aeroplane','bus','train','truck','boat','trafficlight','firehydrant','stopsign','parkingmeter','bench','bird','cat','dog','horse','sheep','cow','elephant','bear','zebra','giraffe','backpack','umbrella','handbag','tie','suitcase','frisbee','skis','snowboard','sportsball','kite','baseballbat','baseballglove','skateboard','surfboard','tennisracket','bottle','wineglass','cup','fork','knife','spoon','bowl','banana','apple','sandwich','orange','broccoli','carrot','hotdog','pizza','donut','cake','chair','sofa','pottedplant','bed','diningtable','toilet','tvmonitor','laptop','mouse','remote','keyboard','cell phone','microwave','oven','toaster','sink','refrigerator','book','clock','vase','scissors','teddy bear','hair drier','toothbrush'] 坐标值xy |
 
-### 人脸识别 
+### 人脸识别
 
 face_detect(target="camera")
 
@@ -570,7 +570,7 @@ face_detect(target="camera")
 | ------------------------------------------------------------ | ------ | ---------------------- | ----------------------------------------------------- |
 | target(可缺省) <br />默认"camera" <br />即使用摄像头捕捉图像 | 字符串 | target为图像文件的路径 | [x,y,w,h] 人脸识别框的 <br />x坐标，y坐标，宽度，高度 |
 
-### 情绪识别 
+### 情绪识别
 
 emotion(target="camera")
 
@@ -578,7 +578,7 @@ emotion(target="camera")
 | ------------------------------------------------------------ | ------ | ---------------------- | ------------------------------------------------------------ |
 | target(可缺省) <br />默认"camera" <br />即使用摄像头捕捉图像 | 字符串 | target为图像文件的路径 | (emotion,(x,y)) <br />emotion包括: <br />['Angry','Happy','Neutral','Sad','Surprise'] <br />坐标值xy |
 
- ### 年龄性别识别 
+ ### 年龄性别识别
 
 agesex(target="camera")
 

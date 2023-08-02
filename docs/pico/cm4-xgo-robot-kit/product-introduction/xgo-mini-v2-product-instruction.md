@@ -22,7 +22,7 @@ XGO-mini2的电源系统也是非常可靠和安全的。充电器具有过流�
 
 此外，XGO-mini2 支持跨平台图形化编程、Python 编程和 ROS 编程，可以实现丰富的人工智能应用，如人脸检测、物体分类和语音识别等。无论是在家庭娱乐、教育还是研究领域，XGO-mini2 都能够展现出出色的表现和应用潜力。
 
-![](./../images/cm4-xgo-index.png)
+![](./../images/cm4-xgo-mini-index.png)
 
 ![](./../images/cm4-xgo-products-01.gif)
 

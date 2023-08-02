@@ -22,7 +22,7 @@ The power system of XGO-mini2 is also very reliable and safe. The charger has an
 
 In addition, XGO-mini2 supports cross-platform graphical programming, Python programming and ROS programming, which can realize rich artificial intelligence applications, such as face detection, object classification and speech recognition. Whether it is in the field of home entertainment, education or research, XGO-mini2 can show excellent performance and application potential.
 
-![](./../images/cm4-xgo-index.png)
+![](./../images/cm4-xgo-mini-index.png)
 
 ![](./../images/cm4-xgo-products-01.gif)
 

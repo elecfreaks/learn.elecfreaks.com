@@ -25,7 +25,7 @@ sidebar_label: XGO-lite2 Product Parameters
 
 - SD Card: 32G
 
-![](./../images/cm4-xgo-products-01.png)
+![](./../images/cm4-xgo-mini-products-01.png)
 
 ### AI module parameters:
 

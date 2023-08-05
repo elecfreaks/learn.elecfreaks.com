@@ -1,9 +1,9 @@
 ---
-sidebar_position: 6
-sidebar_label: Product Parameters
+sidebar_position: 1
+sidebar_label: XGO-lite2 Product Parameters
 ---
 
-# Product Parameters
+# XGO-lite2 Product Parameters
 
 ## Parameters
 
@@ -26,7 +26,7 @@ sidebar_label: Product Parameters
 
 - Storage: Micro SD card 32G
 
-![](./images/cm4-xgo-products-01.png)
+![](./../images/cm4-xgo-products-01.png)
 
 ## AI Mod Parameters
 
@@ -44,7 +44,7 @@ sidebar_label: Product Parameters
 
 - PH2.0 4PIN serial communication and power interface
 
-![](./images/cm4-xgo-index-03.png)
+![](./../images/cm4-xgo-index-03.png)
 
 ## Servo Parameter
 

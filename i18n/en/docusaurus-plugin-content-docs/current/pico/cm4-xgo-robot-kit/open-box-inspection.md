@@ -17,7 +17,7 @@ Check that the packaging is intact and that the label and description on the pac
 
 Verify that all accessories included with the product are complete and as described in the kit listing.
 
-Package list:
+**XGO-lite V2 Package list:**
 
 | Items                                                        | QTY  |
 | :----------------------------------------------------------- | ---- |
@@ -29,6 +29,26 @@ Package list:
 | Type-C USB Hub                                               | 1    |
 | Micro HDMI to HDMI cable                                     | 1    |
 | 3.0 Phillips screwdriver                                     | 1    |
+| 2.0 Phillips screwdriver                                     | 1    |
+| Rudder screw                                                 | 6    |
+| Servo fixing screw                                           | 4    |
+| Case fixing screws                                           | 2    |
+| Mechanical claw set screw                                    | 2    |
+| gear set screw                                               | 2    |
+
+
+
+**XGO-mini V2 Package list:**
+
+| Items                                                        | QTY  |
+| :----------------------------------------------------------- | ---- |
+| XGO-mini V2 complete machine (Raspberry Pi CM4 module installed) | 1    |
+| Power Adapter 8.4V/1A                                        | 1    |
+| Quick Start Manual                                           | 1    |
+| 30mm EVA ball                                                | 3    |
+| 25mm side length wooden cubes                                | 3    |
+| Type-C USB Hub                                               | 1    |
+| Micro HDMI to HDMI cable                                     | 1    |
 | 2.0 Phillips screwdriver                                     | 1    |
 | Rudder screw                                                 | 6    |
 | Servo fixing screw                                           | 4    |

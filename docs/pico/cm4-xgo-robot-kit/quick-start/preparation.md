@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 sidebar_label: 前期准备
 ---
 
@@ -31,9 +31,9 @@ sidebar_label: 前期准备
 
 注意点：
 
-1. 注意密码大小写 
+1. 注意密码大小写
 
-2. UI界面出现后三秒左右进入R.C.模式才会显示IP地址 
+2. UI界面出现后三秒左右进入R.C.模式才会显示IP地址
 
 3. WIFI的频段建议使用2.4G或者混频
 

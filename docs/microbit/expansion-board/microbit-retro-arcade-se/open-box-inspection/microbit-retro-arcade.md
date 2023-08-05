@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
-sidebar_label: 开箱自检
+sidebar_label: micro:bit Retro Arcade
 ---
 
 
-# 开箱自检
+# micro:bit Retro Arcade开箱自检
 
 进行开箱自检是为了确保您购买的产品符合预期并且没有受到任何损坏。请您根据以下步骤来进行开箱自检操作。
 

@@ -1,8 +1,3 @@
----
-sidebar_position: 3
-sidebar_label: microbit-retro-arcade-se-quick-start
----
-
 # microbit-retro-arcade-se-quick-start
 
 ## 准备步骤

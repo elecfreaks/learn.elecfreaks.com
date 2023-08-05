@@ -10,4 +10,4 @@ sidebar_label: 安装步骤
 
 ![](./images/microbit-retro-arcade-assembly-steps.png)
 
-（搭建视频拍摄中）
+>搭建视频拍摄中，敬请期待·········

@@ -1,8 +1,3 @@
----
-sidebar_position: 3
-sidebar_label: microbit-retro-arcade-quick-start
----
-
 # microbit-retro-arcade-quick-start
 
 ## 准备步骤
@@ -75,3 +70,25 @@ Arcade游戏编程平台地址：[https://arcade.makecode.com](https://arcade.ma
 为了防止精灵移动时走出屏幕画面外，设置精灵处于屏幕范围内。
 
 ![](./images/microbit-retro-arcade-15.png)
+
+# 程序下载步骤
+
+由于目前对于Arcade平台官方而言，micro:bit V2（nRF52833）还在测试阶段，所以我们需要首先去到平台的设置页面将还在试验版本的硬件选项开放出来。
+
+点击编程界面的右上角上的小齿轮，选择关于。
+
+![](./images/microbit-retro-arcade-16.png)
+
+在弹出页面选择实验。
+
+![](./images/microbit-retro-arcade-17.png)
+
+确保Expermental Hardware是已启用状态（只需要设定一次即可）。
+
+![](./images/microbit-retro-arcade-18.png)
+
+接着返回到编程主页，点击左下角的下载按钮，在弹出的选择硬件窗口拉到最底部选择N3。
+
+![](./images/microbit-retro-arcade-19.png)
+
+会得到一个.hex格式的文件，将他拖入到MICROBIT盘符下即可在micro:bit V2 + Microbit Retro Arcade上运行。

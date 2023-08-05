@@ -1,24 +1,24 @@
 ---
-sidebar_position: 5
+sidebar_position: 7
 sidebar_label: 程序下载步骤
 ---
 # 程序下载步骤
 
 由于目前对于Arcade平台官方而言，micro:bit V2（nRF52833）还在测试阶段，所以我们需要首先去到平台的设置页面将还在试验版本的硬件选项开放出来。
 
-点击编程界面的右上角上的小齿轮，选择关于。
+点击编程界面的右上角上的小齿轮，选择`关于`。
 
 ![](./images/microbit-retro-arcade-16.png)
 
-在弹出页面选择实验。
+在弹出页面选择`实验`。
 
 ![](./images/microbit-retro-arcade-17.png)
 
-确保Expermental Hardware是已启用状态（只需要设定一次即可）。
+确保Expermental Hardware是已`启用`状态（只需要设定一次即可）。
 
 ![](./images/microbit-retro-arcade-18.png)
 
-接着返回到编程主页，点击左下角的下载按钮，在弹出的选择硬件窗口拉到最底部选择N3。
+接着返回到编程主页，点击左下角的下载按钮，在弹出的选择硬件窗口拉到最底部选择`N3`。
 
 ![](./images/microbit-retro-arcade-19.png)
 

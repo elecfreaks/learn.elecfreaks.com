@@ -1,12 +1,12 @@
 ---
-sidebar_position: 4
+sidebar_position: 8
 sidebar_label: 游戏编程教程
 ---
 
 
 # 游戏编程指南
 
-欢迎学习Retro Arcade！
+欢迎学习Retro Arcade！本文档只提供一个简单的程序编写示例，用于测试机器处于正常使用状态。
 
 如需了解更多相关知识，请参考：[https://arcade.makecode.com/](https://arcade.makecode.com/)
 

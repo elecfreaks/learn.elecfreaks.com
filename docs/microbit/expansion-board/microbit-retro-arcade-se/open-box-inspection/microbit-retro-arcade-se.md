@@ -17,7 +17,7 @@ sidebar_label: 开箱自检
 
 ### 套装清单
 
-![](./images/microbit-retro-arcade-hardcover-list.png)
+<!--![](./images/microbit-retro-arcade-se-list.png)-->
 
 > Top：micro:bit retro arcade已经安装完成，安装电池后即可开机使用。
 

@@ -1,13 +1,13 @@
 ---
 sidebar_position: 8
-sidebar_label: micro:bit Retro Arcade SE
+sidebar_label: 扩展板
 ---
 
 
 
 
 
-# micro:bit Retro Arcade SE
+# 扩展板
 
 ---
 

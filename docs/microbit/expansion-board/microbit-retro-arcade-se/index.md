@@ -1,4 +1,4 @@
-# micro:bit Retro Arcade
+# micro:bit Retro Arcade SE
 
 ## 产品介绍
 

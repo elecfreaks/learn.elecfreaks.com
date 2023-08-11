@@ -3,7 +3,6 @@ sidebar_position: 1
 sidebar_label: XGO2 Specifications per Model
 ---
 
-
 # XGO2 Specifications per Model
 
 |                      |             XGO-lite2              |                XGO-mini2                |

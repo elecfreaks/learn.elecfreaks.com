@@ -3,7 +3,6 @@ sidebar_position: 3
 sidebar_label: CM4 XGO-mini robot kit V2
 ---
 
-
 # CM4 XGO-mini Robot Kit V2
 
 ## Introduction

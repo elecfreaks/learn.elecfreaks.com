@@ -7,7 +7,6 @@ sidebar_label: XGO2 Specifications per Model
 
 |                      |             XGO-lite2              |                XGO-mini2                |
 | :------------------: | :--------------------------------: | :-------------------------------------: |
-|         外观         |                                    |                                         |
 |         Host         |           Raspberry CM4            |              Raspberry CM4              |
 |       Program        |       Blockly & Python & ROS       |         Blockly & Python & ROS          |
 |      Structure       |            1mm Al alloy            |             1.5mm Al alloy              |

@@ -41,6 +41,7 @@ In addition, XGO-mini2 supports cross-platform graphical programming, Python pro
 
 3. The product supports cross-platform graphics and Python programming cloud platform, and there are related supporting courses.
 
+
 ![](./../images/cm4-xgo-products-04.gif)
 
 

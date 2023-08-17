@@ -19,11 +19,7 @@ XGO-lite V2内置了3自由度机械臂和扬声器。本教程将讲解 XGO-lit
 
 ![](./../images/microbit-xgo-lite-v2-makecode-01.png)
 
-### 机械臂运动范围
 
-机械臂的末端夹爪是在以X轴为横坐标，以Z轴为纵坐标的平面内运动，而且运动轨迹是由坐标（X,Z）确定。下图是机械臂夹爪运动范围和坐标示意图，只有坐标（X,Z）在蓝色区域内，机械臂才可运动到坐标位置，超出这个范围，机械臂不会运动。
-
-![](./../images/microbit-xgo-lite-xz.png)
 
 ### 编程环境准备
 
@@ -38,6 +34,12 @@ XGO-lite V2内置了3自由度机械臂和扬声器。本教程将讲解 XGO-lit
 ![](./../images/microbit-xgo-lite-v2-makecode-03.png)
 
 ![](./../images/microbit-xgo-lite-v2-makecode-03-1.png)
+
+### 机械臂运动范围
+
+机械臂的末端夹爪是在以X轴为横坐标，以Z轴为纵坐标的平面内运动，而且运动轨迹是由坐标（X,Z）确定。下图是机械臂夹爪运动范围和坐标示意图，只有坐标（X,Z）在蓝色区域内，机械臂才可运动到坐标位置，超出这个范围，机械臂不会运动。
+
+![](./../images/microbit-xgo-lite-xz.png)
 
 ## 编程示例
 

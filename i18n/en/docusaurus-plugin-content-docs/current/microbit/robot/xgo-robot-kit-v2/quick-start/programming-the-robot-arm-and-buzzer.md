@@ -33,6 +33,12 @@ This tutorial will program two devices through the graphical programming platfor
 
 ![](./../images/microbit-xgo-lite-v2-makecode-03-1.png)
 
+### Arm motion range
+
+The end gripper of the mechanical arm moves in a plane with the X-axis as the abscissa and the Z-axis as the ordinate, and the motion trajectory is determined by the coordinates (X, Z). The figure below is a schematic diagram of the movement range and coordinates of the gripper of the robotic arm. Only when the coordinates (X, Z) are within the blue area can the robotic arm move to the coordinate position. Beyond this range, the robotic arm will not move.
+
+![](./../images/microbit-xgo-lite2-xz.png)
+
 ## Programming Example
 
 ![](./../images/microbit-xgo-lite-v2-arm-01.png)

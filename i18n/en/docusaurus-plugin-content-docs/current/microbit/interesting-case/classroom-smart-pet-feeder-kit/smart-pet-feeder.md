@@ -101,7 +101,7 @@ For better subsequent programming, the initial angle and direction of rotation o
 
 ![](./images/microbit-smart-maker-kit-case02-06.png)
 
-Link: https://makecode.microbit.org/S06902-77501-41447-67913。
+Link: https://makecode.microbit.org/S06902-77501-41447-67913
 
 ### Samples program
 
@@ -109,7 +109,7 @@ Link: https://makecode.microbit.org/S06902-77501-41447-67913。
 
 
 
-Link: https://makecode.microbit.org/S05304-43123-83650-69002。
+Link: https://makecode.microbit.org/S05304-43123-83650-69002
 
 ## Cases display
 

@@ -73,7 +73,7 @@ sidebar_label: Smart Voice-Controlled Light
 
 将光线传感器连接到IOT:bit的P1端口，将噪音传感器连接到IOT:bit的P2端口，将彩虹灯连接到IOT:bit的P14端口。
 
-```![](./images/smart-voice-controlled-light-02.png)```
+![](./images/smart-voice-controlled-light-02.png)
 
 ## 软件编程
 

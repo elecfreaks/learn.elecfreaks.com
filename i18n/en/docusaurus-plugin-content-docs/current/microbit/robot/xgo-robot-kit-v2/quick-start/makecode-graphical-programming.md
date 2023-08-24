@@ -27,8 +27,10 @@ Select **Extension** and click, enter **XGO** in the search bar and press Enter 
 
 The communication between micro:bit and XGO-lite V2 is transmitted through the serial port, so at the beginning, you need to set the TX (send) and RX (receive) serial port numbers. XGO-lite V2 defaults to TX-14 and RX-13. The command is as follows:
 
-![](./../images/microbit-xgo-lite-v2-makecode-04.png)
+![](./../images/microbit-xgo-lite-v2-xgolibrary-1.png)
 
-Programming example:![](./../images/microbit-xgo-lite-v2-makecode-05.png)
+Programming example:
+
+![](./../images/microbit-xgo-lite-v2-makecode-05.png)
 
 Link: https://makecode.microbit.org/_JPM3Hs9wWiwu

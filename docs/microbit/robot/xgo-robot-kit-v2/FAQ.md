@@ -43,6 +43,8 @@ sidebar_label: FAQ
 
 以更换膝关节舵机为例，图示更换舵机。**注意：机器狗舵机共有15个不同的ID,必须使用相同ID替换**。
 
+舵机更换视频教程链接：https://www.elecfreaks.com/download/xgo/XGO-LITE2_servo_replacement.mp4
+
 步骤一，打开机器狗后盖，从驱动板上拔掉损坏的膝关节舵机线。
 
 ![](./images/microbit-xgo-lite2-faq-08.png)
@@ -78,6 +80,3 @@ sidebar_label: FAQ
 步骤六，把线插在主板上，关闭机器狗上盖，开机并重新标定机器狗。
 
 ![](./images/microbit-xgo-lite2-faq-14.png)
-
-
-

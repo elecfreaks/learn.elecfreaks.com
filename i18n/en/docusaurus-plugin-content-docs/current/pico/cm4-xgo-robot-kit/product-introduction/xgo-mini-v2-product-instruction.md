@@ -3,7 +3,6 @@ sidebar_position: 3
 sidebar_label: CM4 XGO-mini robot kit V2
 ---
 
-
 # CM4 XGO-mini Robot Kit V2
 
 ## Introduction
@@ -40,6 +39,7 @@ In addition, XGO-mini2 supports cross-platform graphical programming, Python pro
 
 
 3. The product supports cross-platform graphics and Python programming cloud platform, and there are related supporting courses.
+
 
 ![](./../images/cm4-xgo-products-04.gif)
 

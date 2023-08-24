@@ -43,6 +43,8 @@ When you find that your robot dog’s posture is abnormal, such as standing post
 
 Take the example of replacing a knee servo, the diagram below shows the replaced servo. **Note: There are 15 different IDs for servos on the robot dog, they must be replaced with the same ID**.
 
+Servo replacement video tutorial link: https://www.elecfreaks.com/download/xgo/XGO-LITE2_servo_replacement.mp4
+
 Step 1: Open the back cover of the robot dog and unplug the damaged knee servo cable from the drive board.
 
 ![](./images/microbit-xgo-lite2-faq-08.png)
@@ -76,4 +78,3 @@ Step 5: Attach the lower leg to the main and secondary rudder discs, taking care
 Step 6: Plug the cable into the motherboard, close the top cover of the robot dog, switch on and re-calibrate it.
 
 ![](./images/microbit-xgo-lite2-faq-14.png)
-

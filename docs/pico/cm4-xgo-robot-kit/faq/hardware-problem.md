@@ -37,6 +37,9 @@ sidebar_label: 硬件问题
 
 以更换膝关节舵机为例，图示更换舵机。**注意：机器狗舵机共有15个不同的ID,必须使用相同ID替换**。
 
+舵机更换视频教程链接：https://www.elecfreaks.com/download/xgo/XGO-LITE2_servo_replacement.mp4
+
+
 ![](./../images/cm4-xgo-faq-10.png)
 
 机器狗坐标系，腿，舵机，编号图
@@ -78,4 +81,3 @@ sidebar_label: 硬件问题
 #### 步骤六，把线插在主板上，关闭机器狗上盖，开机并重新标定机器狗。
 
 ![](./../images/microbit-xgo-lite2-faq-14.png)
-

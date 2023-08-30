@@ -38,6 +38,8 @@ When you notice that your XGO posture is abnormal, such as when standing, one le
 
 Taking the replacement of the knee joint servo as an example, the diagram shows the replacement of the servo ** Note: There are a total of 15 different IDs for the robotic dog servo, which must be replaced with the same ID.**
 
+Servo replacement video tutorial link: https://www.elecfreaks.com/download/xgo/XGO-LITE2_servo_replacement.mp4
+
 ![](./../images/cm4-xgo-faq-10.png)
 
 XGO coordinate system, legs, servo, numbering diagram

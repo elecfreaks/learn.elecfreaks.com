@@ -73,7 +73,7 @@ How do you ensure that sound triggers a light switch only when the light is low?
 
 Connect the light sensor to P1 and the noise sensor to P2 on IoT:bit board.
 
-```![](./images/smart-voice-controlled-light-02.png)```
+![](./images/smart-voice-controlled-light-02.png)
 
 ## Software Programming
 

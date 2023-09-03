@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-<!-- # Case 01 AI报警器
+# Case 01 AI报警器
 
 
 ## 简介
@@ -105,12 +105,16 @@ sidebar_position: 2
 
 ![](./images/ai-accessories-pack-case-01-06.png)
 
-编写程序
+在搜索栏搜索`planets`添加哪吒多功能扩展盒的扩展库
 
 ![](./images/ai-accessories-pack-case-01-07.png)
 
+编写程序
 
-程序链接:[https://makecode.microbit.org/S79066-57549-09027-31054](https://makecode.microbit.org/S79066-57549-09027-31054)
+![](./images/ai-accessories-pack-case-01-08.png)
+
+
+程序链接:[https://makecode.microbit.org/_YmxW714WyPii](https://makecode.microbit.org/_YmxW714WyPii)
 
 你也可以通过以下网页直接下载程序。
 
@@ -122,7 +126,7 @@ sidebar_position: 2
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/S79066-57549-09027-31054"
+        src="https://makecode.microbit.org/_YmxW714WyPii"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -185,4 +189,4 @@ sidebar_position: 2
 
 医疗诊断: 医疗影像分析利用计算机视觉技术来辅助医生诊断，如通过扫描结果帮助检测疾病，如癌症。此外，AI还可以分析大量的医疗数据，提供个性化的治疗建议。
 
-自动驾驶: 自动驾驶汽车利用传感器和AI算法来感知周围环境，做出驾驶决策，从而实现无人驾驶或辅助驾驶。 -->
+自动驾驶: 自动驾驶汽车利用传感器和AI算法来感知周围环境，做出驾驶决策，从而实现无人驾驶或辅助驾驶。

@@ -1,15 +1,15 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-<!--# Case 02 人脸追踪装置
+# Case 02 人脸追踪装置
 
 
 ## 简介
 
 本课程将引导学生使用哪吒发明家套装V2和AI扩展包制作一个人脸追踪装置。通过结合机械设计和人工智能技术，学生将学习如何使用AI摄像头的人脸识别功能。这个项目将培养学生的创新思维和问题解决能力，让他们体验到科技与机械的融合。
 
-![](./images/ai-accessories-pack-case-01-01.png)
+![](./images/ai-accessories-pack-case-02-01.png)
 
 ## 教学目标
 
@@ -57,42 +57,69 @@ sidebar_position: 2
 
 ##### 搭建步骤
 
-![](./images/ai-accessories-pack-step-01-01.png)
+![](./images/ai-accessories-pack-step-02-01.png)
 
-![](./images/ai-accessories-pack-step-01-02.png)
+![](./images/ai-accessories-pack-step-02-02.png)
 
-![](./images/ai-accessories-pack-step-01-03.png)
+![](./images/ai-accessories-pack-step-02-03.png)
 
-![](./images/ai-accessories-pack-step-01-04.png)
+![](./images/ai-accessories-pack-step-02-04.png)
 
-![](./images/ai-accessories-pack-step-01-05.png)
+![](./images/ai-accessories-pack-step-02-05.png)
 
-![](./images/ai-accessories-pack-step-01-06.png)
+![](./images/ai-accessories-pack-step-02-06.png)
 
-![](./images/ai-accessories-pack-step-01-07.png)
+![](./images/ai-accessories-pack-step-02-07.png)
 
-![](./images/ai-accessories-pack-step-01-08.png)
+![](./images/ai-accessories-pack-step-02-08.png)
 
-![](./images/ai-accessories-pack-step-01-09.png)
+![](./images/ai-accessories-pack-step-02-09.png)
 
-![](./images/ai-accessories-pack-step-01-10.png)
+![](./images/ai-accessories-pack-step-02-10.png)
 
-![](./images/ai-accessories-pack-step-01-11.png)
+![](./images/ai-accessories-pack-step-02-11.png)
 
-![](./images/ai-accessories-pack-step-01-12.png)
+![](./images/ai-accessories-pack-step-02-12.png)
 
-![](./images/ai-accessories-pack-step-01-13.png)
+![](./images/ai-accessories-pack-step-02-13.png)
 
+![](./images/ai-accessories-pack-step-02-14.png)
+
+![](./images/ai-accessories-pack-step-02-15.png)
+
+![](./images/ai-accessories-pack-step-02-16.png)
+
+![](./images/ai-accessories-pack-step-02-17.png)
+
+![](./images/ai-accessories-pack-step-02-18.png)
+
+![](./images/ai-accessories-pack-step-02-19.png)
+
+![](./images/ai-accessories-pack-step-02-20.png)
+
+![](./images/ai-accessories-pack-step-02-21.png)
+
+![](./images/ai-accessories-pack-step-02-22.png)
+
+![](./images/ai-accessories-pack-step-02-23.png)
+
+![](./images/ai-accessories-pack-step-02-24.png)
+
+![](./images/ai-accessories-pack-step-02-25.png)
+
+![](./images/ai-accessories-pack-step-02-26.png)
+
+![](./images/ai-accessories-pack-step-02-27.png)
 
 **搭建完成**
 
-![](./images/ai-accessories-pack-case-01-01.png)
+![](./images/ai-accessories-pack-case-02-01.png)
 
 ##### 硬件连接
 
 将彩虹灯环连接到哪吒扩展板的J1接口，将AI摄像头连接到哪吒扩展板的IIC接口。
 
- ![](./images/ai-accessories-pack-case-01-02.png)
+ ![](./images/ai-accessories-pack-case-02-02.png)
 
 ##### 软件编程
 
@@ -100,22 +127,26 @@ sidebar_position: 2
 
 新建项目
 
-![](./images/ai-accessories-pack-case-01-03.png)
+![](./images/ai-accessories-pack-case-02-03.png)
 
 点击扩展
 
-![](./images/ai-accessories-pack-case-01-04.png)
+![](./images/ai-accessories-pack-case-02-04.png)
 
 在搜索栏搜索`nezha`添加哪吒多功能扩展盒的扩展库
 
-![](./images/ai-accessories-pack-case-01-06.png)
+![](./images/ai-accessories-pack-case-02-06.png)
+
+在搜索栏搜索`planets`添加哪吒多功能扩展盒的扩展库
+
+![](./images/ai-accessories-pack-case-02-07.png)
 
 编写程序
 
-![](./images/ai-accessories-pack-case-01-07.png)
+![](./images/ai-accessories-pack-case-02-08.png)
 
 
-程序链接:[https://makecode.microbit.org/S79066-57549-09027-31054](https://makecode.microbit.org/S79066-57549-09027-31054)
+程序链接:[https://makecode.microbit.org/_PFXJXp4y8RX1](https://makecode.microbit.org/_PFXJXp4y8RX1)
 
 你也可以通过以下网页直接下载程序。
 
@@ -127,7 +158,7 @@ sidebar_position: 2
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/S79066-57549-09027-31054"
+        src="https://makecode.microbit.org/_PFXJXp4y8RX1"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -147,8 +178,8 @@ sidebar_position: 2
 
 按下micro:bit上的A键，机器人开始做引体向上运动，按下micro:bit上的B键，机器人停止做引体向上运动。
 
-![](./images/ai-accessories-pack-case-01.gif)
+![](./images/ai-accessories-pack-case-02.gif)
 
 ### 反思
 
->分组分享，让每组的学生分享自己的制作过程和心得，总结自己遇到的问题和解决办法，评价自己的优点和不足。-->
+>分组分享，让每组的学生分享自己的制作过程和心得，总结自己遇到的问题和解决办法，评价自己的优点和不足。

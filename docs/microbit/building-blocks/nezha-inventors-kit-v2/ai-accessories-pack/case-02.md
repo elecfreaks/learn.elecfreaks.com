@@ -127,20 +127,19 @@ sidebar_position: 3
 
 新建项目
 
-![](./images/ai-accessories-pack-case-02-03.png)
+![](./images/ai-accessories-pack-case-01-03.png)
 
 点击扩展
 
-![](./images/ai-accessories-pack-case-02-04.png)
+![](./images/ai-accessories-pack-case-01-04.png)
 
 在搜索栏搜索`nezha`添加哪吒多功能扩展盒的扩展库
 
-![](./images/ai-accessories-pack-case-02-06.png)
+![](./images/ai-accessories-pack-case-01-06.png)
 
 在搜索栏搜索`planets`添加哪吒多功能扩展盒的扩展库
 
-![](./images/ai-accessories-pack-case-02-07.png)
-
+![](./images/ai-accessories-pack-case-01-07.png)
 编写程序
 
 ![](./images/ai-accessories-pack-case-02-08.png)

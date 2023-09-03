@@ -176,19 +176,23 @@ sidebar_position: 5
 
 新建项目
 
-![](./images/ai-accessories-pack-case-04-03.png)
+![](./images/ai-accessories-pack-case-01-03.png)
 
 点击扩展
 
-![](./images/ai-accessories-pack-case-04-04.png)
+![](./images/ai-accessories-pack-case-01-04.png)
 
 在搜索栏搜索`nezha`添加哪吒多功能扩展盒的扩展库
 
-![](./images/ai-accessories-pack-case-04-06.png)
+![](./images/ai-accessories-pack-case-01-06.png)
+
+在搜索栏搜索`planets`添加哪吒多功能扩展盒的扩展库
+
+![](./images/ai-accessories-pack-case-01-07.png)
 
 编写程序
 
-![](./images/ai-accessories-pack-case-04-07.png)
+![](./images/ai-accessories-pack-case-04-08.png)
 
 
 程序链接:[https://makecode.microbit.org/_frU6MUdh649b](https://makecode.microbit.org/_frU6MUdh649b)

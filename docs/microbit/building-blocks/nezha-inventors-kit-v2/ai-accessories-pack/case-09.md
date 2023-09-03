@@ -171,12 +171,16 @@ sidebar_position: 10
 
 ![](./images/ai-accessories-pack-case-01-06.png)
 
-编写程序
+在搜索栏搜索`planets`添加哪吒多功能扩展盒的扩展库
 
 ![](./images/ai-accessories-pack-case-01-07.png)
 
+编写程序
 
-程序链接:[https://makecode.microbit.org/S79066-57549-09027-31054](https://makecode.microbit.org/S79066-57549-09027-31054)
+![](./images/ai-accessories-pack-case-09-08.png)
+
+
+程序链接:[https://makecode.microbit.org/_grcYPjRjPgza](https://makecode.microbit.org/_grcYPjRjPgza)
 
 你也可以通过以下网页直接下载程序。
 
@@ -188,7 +192,7 @@ sidebar_position: 10
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/S79066-57549-09027-31054"
+        src="https://makecode.microbit.org/_grcYPjRjPgza"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

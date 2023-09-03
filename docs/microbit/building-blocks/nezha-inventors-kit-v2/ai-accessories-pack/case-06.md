@@ -110,9 +110,13 @@ sidebar_position: 7
 
 ![](./images/ai-accessories-pack-case-01-06.png)
 
-编写程序
+在搜索栏搜索`planets`添加哪吒多功能扩展盒的扩展库
 
 ![](./images/ai-accessories-pack-case-01-07.png)
+
+编写程序
+
+![](./images/ai-accessories-pack-case-06-08.png)
 
 
 程序链接:[https://makecode.microbit.org/_M2uiPfajCEjA](https://makecode.microbit.org/_M2uiPfajCEjA)

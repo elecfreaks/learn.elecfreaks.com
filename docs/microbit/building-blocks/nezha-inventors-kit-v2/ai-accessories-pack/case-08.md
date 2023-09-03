@@ -152,9 +152,9 @@ sidebar_position: 9
 
 ##### 硬件连接
 
-将彩虹灯环连接到哪吒扩展板的J1接口，将AI摄像头连接到哪吒扩展板的IIC接口。
+将彩虹灯环连接到哪吒扩展板的J1接口，将舵机连接到哪吒扩展板的S1接口，将AI摄像头连接到哪吒扩展板的IIC接口。
 
- ![](./images/ai-accessories-pack-case-01-02.png)
+ ![](./images/ai-accessories-pack-case-08-02.png)
 
 ##### 软件编程
 

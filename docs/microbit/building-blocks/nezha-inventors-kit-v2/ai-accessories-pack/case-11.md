@@ -107,9 +107,9 @@ sidebar_position: 12
 
 ##### 硬件连接
 
-将彩虹灯环连接到哪吒扩展板的J1接口，将AI摄像头连接到哪吒扩展板的IIC接口。
+将两个电机分别连接到哪吒扩展板的M1和M2接口，将语音识别传感器连接到哪吒扩展板的IIC接口。
 
- ![](./images/ai-accessories-pack-case-01-02.png)
+ ![](./images/ai-accessories-pack-case-11-02.png)
 
 ##### 软件编程
 

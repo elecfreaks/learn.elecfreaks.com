@@ -99,7 +99,7 @@ sidebar_position: 7
 
 ![](./images/ai-accessories-pack-case-01-04.png)
 
-在搜索栏搜索`planets`添加哪吒多功能扩展盒的扩展库
+在搜索栏搜索`planetx`添加行星系列传感器的扩展库
 
 ![](./images/ai-accessories-pack-case-01-07.png)
 

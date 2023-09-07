@@ -2,22 +2,22 @@
 
 ##  Add Python File
 
-We've created a codebase [EF_Produce_MicroPython-master](https://github.com/lionyhw/EF_Produce_MicroPython/archive/master.zip) for a convenient python programming to AI Lens, you will only need to use the functions and modify the parameters for application. 
+We've created a codebase [EF_Produce_MicroPython-master](https://github.com/lionyhw/EF_Produce_MicroPython/archive/master.zip) for a convenient python programming to AI Lens, you will only need to use the functions and modify the parameters for application.
 
 Download the package and unzip it: [EF_Produce_MicroPython-master](https://github.com/lionyhw/EF_Produce_MicroPython/archive/master.zip)
 
 Go to [Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/05001_07.png)
+![](./images/AI-py-01.png)
 
 For programming, we need to add the file of AILens.py. Click Load/Save first and again with Show Files(1), choose "add file" to get to the download page to find the file folder of EF_Produce_MicroPython-master, then add AILens.py.
 
 
-![](./images/05001_08.png)
+![](./images/AI-py-02.png)
 
-![](./images/05001_09.png)
+![](./images/AI-py-03.png)
 
-![](./images/05001_10.png)
+![](./images/AI-py-04.png)
 
 ## API
 
@@ -67,15 +67,15 @@ w：width
 
 h：height
 
-confidence：Confidence coefficient 
+confidence：Confidence coefficient
 
-total：total numbers of the balls in the AI Lens 
+total：total numbers of the balls in the AI Lens
 
-order：ID of the current ball 
+order：ID of the current ball
 
 `def get_face(self)`
 
-Judge if any face(s) in the Ai Lens 
+Judge if any face(s) in the Ai Lens
 
 `def get_face_data(self)`
 
@@ -89,7 +89,7 @@ w：width
 
 h：height
 
-confidence：Confidence coefficient 
+confidence：Confidence coefficient
 
 total：total numbers of the face(s) in the AI Lens
 
@@ -97,7 +97,7 @@ order：ID ID of the current face
 
 `def get_card_content(self)`
 
-Return the contents on the cards, the possible value are: 
+Return the contents on the cards, the possible value are:
 
 numberCards = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 
@@ -109,7 +109,7 @@ If no cards get recognized, the returned value is ‘No Card’
 
 `def get_color_type(self)`
 
-Return the colors of the cards, the possible colors are: 
+Return the colors of the cards, the possible colors are:
 
 Green card："Green"
 
@@ -129,17 +129,17 @@ If no colors get recognized, the returned value is ‘No Color’
 
  Return the info of the color(s), ColorData [x,y,w,h,confidence,total,order]
 
-x：X-axis 
+x：X-axis
 
 y：Y-axis
 
-w：width 
+w：width
 
 h：height
 
-confidence：Confidence coefficient 
+confidence：Confidence coefficient
 
-total：total numbers of the color(s) in the AI Lens 
+total：total numbers of the color(s) in the AI Lens
 
 order： ID of the current color
 
@@ -147,11 +147,11 @@ order： ID of the current color
 
 Return the info of the segment(s) LineData [angel,width,len]
 
-angel：return the deviation angel of the segment in the AI Lens 
+angel：return the deviation angel of the segment in the AI Lens
 
-width： return the deviation distance of the segment in the AI Lens 
+width： return the deviation distance of the segment in the AI Lens
 
-len： return the length of the segment in the AI Lens 
+len： return the length of the segment in the AI Lens
 
 `def learn_object(self, learn_id)`
 
@@ -189,11 +189,11 @@ while True:
 
 
 ```
-### Result 
- Press button A to learn the object, a smile face displays  on the micro:bit while it recognizes the object or it displays a sad face. 
+### Result
+ Press button A to learn the object, a smile face displays  on the micro:bit while it recognizes the object or it displays a sad face.
 
 
-### Sample 2: Color recognition 
+### Sample 2: Color recognition
 ```
 from microbit import *
 from AILens import *
@@ -207,10 +207,10 @@ while True:
     else:
         display.show(Image.SAD)
 ```
-### Result 
- A smile face displays on the micro:bit for two seconds if the green card is recognized or it displays a sad face. 
+### Result
+ A smile face displays on the micro:bit for two seconds if the green card is recognized or it displays a sad face.
 
-### Sample 3: Balls recognition 
+### Sample 3: Balls recognition
 ```
 from microbit import *
 from AILens import *
@@ -225,7 +225,7 @@ while True:
         display.show(Image.SAD)
 ```
 ### Result
- A smile face displays on the micro:bit for two seconds if the red ball is recognized or it displays a sad face. 
+ A smile face displays on the micro:bit for two seconds if the red ball is recognized or it displays a sad face.
 
 ### Sample 4: Recognize the black line
 ```
@@ -236,7 +236,7 @@ ai.switch_function(Tracking)
 while True:
     ai.get_image()
     buff = ai.get_track_data()
-    
+
     if buff[1] > 100:
         display.show(Image.HAPPY)
     else:
@@ -245,7 +245,7 @@ while True:
 ### Result
  The micro:bit displays a sad face if the black line was deteacted deviating to the left by the AI lens; It displays a smile face if the black line was deteacted deviating to the right by the AI lens
 
-### Sample 5: Human face(s) recognition 
+### Sample 5: Human face(s) recognition
 ```
 from microbit import *
 from AILens import *
@@ -253,16 +253,16 @@ ai = AILENS()
 ai.switch_function(Face )
 while True:
     ai.get_image()
-    
+
     if ai.get_face():
         display.show(Image.HAPPY)
     else:
         display.show(Image.SAD)
 ```
 ### Result
- A smile face displays on the micro:bit if the human face is detected or it displays a sad face. 
+ A smile face displays on the micro:bit if the human face is detected or it displays a sad face.
 
-### Sample 6: Cards recognition 
+### Sample 6: Cards recognition
 ```
 from microbit import *
 from AILens import *
@@ -270,12 +270,12 @@ ai = AILENS()
 ai.switch_function(Card)
 while True:
     ai.get_image()
-    
+
     if (ai.get_card_content() == "Stop"):
         display.show(Image.HAPPY)
         sleep(2000)
     else:
         display.show(Image.SAD)
 ```
-### Result 
- A smile face displays on the micro:bit if a "stop" card is detected or it displays a sad face. 
+### Result
+ A smile face displays on the micro:bit if a "stop" card is detected or it displays a sad face.

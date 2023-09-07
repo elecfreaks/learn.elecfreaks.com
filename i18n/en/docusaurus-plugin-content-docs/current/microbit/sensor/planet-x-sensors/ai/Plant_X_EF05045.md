@@ -1,143 +1,236 @@
-# AI Lens
+---
+sidebar_position: 1
+sidebar_label: 产品介绍
+---
+
+# Products Introduction
 
 ## Introduction
 
+The AI Lens is an easy-to-use AI camera that supports face recognition, colour recognition, card recognition, line tracking, ball recognition, machine learning and more. It encapsulates complex AI concepts into hardware modules that are perceivable, understandable and fun for students.
 
-The PlanetX Smart AI lens Kit is able to achieve the functions of face recognition, color recognition, balls tracking, cards recognition, line-tracking and characteristics learning. It has integrated the complex artificial intelligence concepts with hardwares for students to comprehend and perceive easily.
-
-The AI training can be completed with just one button, getting rid of tedious training and complex visual algorithms, allowing you to focus more on the idea and realization of the project.
+AI training can be completed with just one button, getting rid of tedious training and complex visual algorithms, allowing you to focus more on the conception and implementation of the project.
 
 ![](./images/05035_01.png)
 
-## Products Link
+## Characteristic
 
-[ELECFREAKS Smart AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
-
-## Characteristics
-
-
- Designed with RJ11 connection and easy to plug.
+Designed with RJ11 connection and easy to plug.
 
 ## Specification
 
 
-|      Item       | Parameter |
-| :---------: | :---------: |
-|       SKU       |  EF05045  |
-|   Connection    |   RJ11    |
-| Connection Type |    IIC    |
-| Working Voltage |   3.3V    |
-|     Core IC     |   K210    |
+Items | Parameter 
+:-: | :-:
+SKU|EF05045
+Weight(GW)| Approximately 170g 
+Size|145mm × 92mm × 40mm（L× W× H）
+Connection|RJ11
+Connection Type|IIC
+Working Voltage|3.3V
+Working Current|300mA
+Core IC|V831
+
+The origin of the AI Lens (0,0) is in the lower left corner of the screen, and the X and Y axes range from: X (0,224), Y (0,224).
+
+## Packing List
+
+Items | QTY 
+:-: | :-:
+AI Lens|1
+Red ball|1
+Blue ball|1
+RJ11 cable|1
+RJ11 to Dupont cable|1
+Cards|41
 
 
-
-The origin point of the AI Lens is on the left top corner (0,0), and the range of the coordinate X&Y is (0,224).
-
-## Outlook and Dimension
-
+## Outlook and dimensions
 
 
 ![](./images/05035_02.png)
 
 
-## Connection Type: RJ11 to Dupont connector
+## When using RJ11 to Dupont connector cable
 
+If you use a micro:bit expansion board without RJ11 expansion port, due to the weak power supply ability of the USB port of the micro:bit, you need to choose an expansion board that uses an external power supply USB port or lithium battery for power supply, such as the Sensor:bit, IOT:bit, Wukong Expansion Board and so on.
 
-While the micro:bit breakout board doesn’t have the RJ11 connections, we can choose to use a Dupont wire that has the RJ11 connections. We need to connect the RJ11 to the Lens and the other ends connect to the breakout board(Black wire to GND; Red to VCC; Green to P19(SCL); Yellow to P20(SDA)). If the Lens doesn’t work from the start, please try powering it with a standalone power sourse.
+When using micro:bit expansion boards without RJ11 expansion interface, you can use the RJ11 to DuPont cable to connect the RJ11 interface to the AI Lens, the black wire of the DuPont interface end connects to GND, the red wire connects to VCC, the green wire connects to the P19 (SCL) port, and the yellow wire connects to the P20 (SDA) port; if the AI Lens fails to start up in the process of using it, try to supply power to the AI Lens with separate power supply.
 
 ![](./images/05035_03.png)
 
-Take IoT:bit for an example:
+Take IoT:bit for an example
 
 ![](./images/05035_04.png)
 
-***Note:***
+Note:
 
-1.  If you do not use Nezha expansion board to drive the AI Lens, please search with the package through: PlanetX-AI
+1. When using a micro:bit expansion board other than the Nezha expansion board to connect to the AI lens, the requested extension should be searched with "PlanetX-AI"
 
-2. Under the one button to acquire mode,  you will have to re-learn the objects if you restart the device.
+2. When using the one-click learning function, if the power is restarted, the item needs to be re-learned.
 
-3. After downloading the code, if the AI lens gets stuck in the starting page with an init AI Lens error instruction, please try to power off the device and restart it. (Or make sure you connect the ready-programmed micro:bit board after the AI Lens connects the breakout board well )
-
-
+3. After downloading the program, if you find that the AI Lens is on the startup page and cannot run properly, you need to completely power off and then reboot to ensure that the AI Lens is initialised successfully.
 
 
-## AI Lens firmware update
-
-For a better experience of the AI Lens, we are making an irregularly update for the new functions and optimization of the performance, a manually update of the firmware is required after the new version is released.
-
-### How to check the current version
-
-![](./images/AI-gj-05.png)
-
-The current version number shall be displayed on the lower right corner of the boot screen(starting-on page), if there is no prompt, it should be the oldest version, please update asap.
-
-### Latest version firmware
-
-firmware v1.0.12 [click to download](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/v1.0.12.kfpkg)。
 
 
-### The newest firmware version
 
-1. First, installation of camera serial port driver
+## The firmware update of AI Lens
 
-Windows system downloading [CH341SerSetup.exe](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/CH341SerSetup.exe)
+AI Lens will be updated with some new features and performance optimisation from time to time, you need to manually update the firmware of AI Lens after releasing the new version of firmware.
 
-macOS system downloading [CH34x_Install_V1.5.pkg](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/CH34x_Install_V1.5.pkg)
+*Note: There are two hardware versions of AiCam-AiCam V1.2 and AiCam V1.7, and the firmware of the two versions are not common*.
 
-2. Install “kflash” for downloading the firmware.
+### How to check the firmware version
 
-Windows system downloading [kflash_gui_v1.6.5_2_windows.7z](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_windows.7z) and unzipping it.
+There are AiCam V1.2 and V1.7 for the AI lens, and there is a firmware download button on the back of the AiCam V1.7  we are able to differentiate these two versions by the download button or the version number. 
 
-macOS system downloading [kflash_gui_v1.6.5_2_macOS.dmg](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_macOS.dmg)
+![](./images/AI-gj-08.png)
 
-For windows system, open the file folder kflash_gui and find kflash_gui.exe.
+### How to check the current firmware version
+
+
+The bottom right corner of the AI lens boot page will prompt the current version number, (if not prompted, it is the oldest version please update it)
+
+! [](. /images/AI-gj-05.png)
+
+AiCam V1.2 version firmware v1.0.12 [Click to download](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/v1.0.12.kfpkg).
+
+AiCam V1.7 version firmware v2.0.1 [click to download](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/PhoenixSuit-master.zip).
+
+AiCam V1.7 version software package v2.0.1 [click to download](https://github.com/elecfreaks/learn-cn/releases/download/V2.0.1/AI-Cam-V1.7-V2.0.1.zip).
+
+## AiCam V1.2 firmware update method
+
+1. Firstly install the camera serial driver:
+
+Windows system download [CH341SerSetup.exe](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/CH341SerSetup.exe) and unzip it.
+
+MacOS system download [CH34x_Install_V1.5.pkg](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/CH34x_Install_V1.5.pkg).
+
+
+2. Install the firmware download software kflash.
+
+Windows system download [kflash_gui_v1.6.5_2_windows.7z](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5 _2_windows.7z).
+
+MacOS system download [kflash_gui_v1.6.5_2_macOS.dmg](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_ macOS.dmg).
+
+For windows system, open the folder kflash_gui after unzipping and find the kflash_gui.exe programme.
 
 ![](./images/AI-gj-01.png)
 
-For macOS system, click the icon of kflash_gui after the downloading.
+Once the download is complete for macOS, open the icon below.
 
 ![](./images/AI-gj-06.png)
 
-Double click kflash_gui.exe to open the file and choose to open the newest firmware.
+3. Double click to open the kflash_gui.exe programme, click on Open File, select and open the latest version of firmware v1.0.12 in the folder [click to download](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/v1.0 .12.kfpkg).
 
 ![](./images/AI-gj-02.png)
 
-Connect the AI Lens with the USB wire.
+Then use USB to connect the AI Lens.
 
 ![](./images/AI-gj-03.png)
 
-Choose the port to download it.
+Finally, select the port (the port number may vary from computer to computer) and click download, then wait for the download to complete.
 
 ![](./images/AI-gj-04.png)
+
+## AiCam V1.7 firmware update method
+
+Connect the AI lens with USB.
+
+![](./images/AI-gj-03.png)
+
+When the AI Lens starts up, if the computer pops up a USB stick, you only need to update the software package to update. Otherwise, you need to update the driver first, then update the firmware, and finally update the software package.
+
+### Driver update method
+
+Download AiCam V1.7 version firmware v2.0.1 [click to download](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/PhoenixSuit-master.zip) and unzip it.
+Open right-click this computer and select Manage.
+
+![](./images/AI-gj-09.png)
+
+Open the device manager 
+
+![](./images/AI-gj-10.png)
+
+Unplug the USB cable, press the firmware download button when the power is completely cut off, and then use the USB to connect the AI lens to enter the firmware download mode.
+
+![](./images/AI-gj-15.png)
+
+After entering the firmware download mode, an unknown device will appear in the device manager.
+
+![](./images/AI-gj-11.png)
+
+Right-click the unknown device and click Update Driver.
+
+![](./images/AI-gj-12.png)
+
+Select "browse" my computer for searching drivers.
+
+![](./images/AI-gj-13.png)
+
+Select the path as the `Drivers` folder in the `PhoenixSuit-master` folder, and then click the next page.
+
+![](./images/AI-gj-14.png)
+
+### Update method for the firmware update
+
+Select `PhoenixSuit.exe` under the `PhoenixSuit-master` directory to open the firmware update software.
+
+![](./images/AI-gj-16.png)
+
+Click `One-key Refresh`, click `Browse`, select `tina_v831-sipeed_uart0_ov9732.img` in [AI-Cam-V1.7-V2.0.1](https://github.com/elecfreaks/learn-cn/releases/download/V2.0.1/AI-Cam-V1.7-V2.0.1.zip), click to upgrade now.
+
+![](./images/AI-gj-18.png)
+
+![](./images/AI-gj-19.png)
+
+Unplug the USB cable, press the firmware download button when the power is completely cut off, and then use the USB to connect the AI lens to enter the firmware download mode.
+
+![](./images/AI-gj-15.png)
+
+When the connection is successful, the firmware update software will prompt whether to format, please select `Yes`.
+
+![](./images/AI-gj-17.png)
+
+Please wait patiently for the formatting to complete. When prompted that the firmware burning is complete, click OK and reconnect the AI lens.
+
+![](./images/AI-gj-21.png)
+
+### Update package steps
+
+Download and unzip [AiCam V1.7 software package v2.0.1](https://github.com/elecfreaks/learn-cn/releases/download/V2.0.1/AI-Cam-V1.7-V2.0.1.zip), open the disk, and copy the two files `maix_dist` and `res` in the `AI-Cam-V1.7-V2.0.1` folder to the disk , **wait for the copy to complete, and then manually uninstall the disk**. Then reconnect the AI Lens.
+
+![](./images/AI-gj-22.png)
+
 
 
 ### FAQ
 
-1.In macOS operation system, if you fail to install the firmware because the developer cannot be verified.
+1. If under the macOS system, during the process of installing the firmware download software, the installation fails because the developer cannot be verified.
 
-![](./images/AI-gj-07-en.png)
+![](./images/AI-gj-07.png)
 
-Please visit https://support.apple.com/en-us/HT202491 for solutions.
+Please visit [https://support.apple.com/zh-cn/HT202491](https://support.apple.com/zh-cn/HT202491) for solutions. 
 
-2.While using AI cameras, if there is an error tip occurring while clicking downloading, it might be the corrupted extensions of the PlanetX.
+2. When using the AI lens, an error message appears when clicking download, it may be that the software library of PlanetX has been damaged.
 
 ![](./images/AI-FAQ-01.png)
 
-Details of the corrupted might be these two reasons:
+There are two possible situations:
 
-(1)The version of the extension is not the newest, please try creating a new project and add the extensions again.
+(1) The software library is relatively old, please create a new project, re-add the software library and test again.
 
-(2)The conflict emerged due the adding of both the PlanetX and PlanetX-AI, please click the part circled in red in the picture “JaveScript”to switch the program screen, click the explorer and delete PlanetX or PlanetX-AI according to your demand.
+
+(2) To add conflicts between the PlanetX software library and the PlanetX-AI software library at the same time, please click the red box "JaveScript" in the figure to switch the programming interface, click the resource manager, and delete the PlanetX software library or PlanetX-AI software library as needed;
 
 ![](./images/AI-FAQ-03.png)
 
-After deleting, it should work now.
+After deletion, there should be no more error prompts in the explorer;
 
 ![](./images/AI-FAQ-04.png)
 
-After deleting, if you find the loss of the visual block, please try adding the extensions again. If it doesn’t work, please try resetting the MakeCode with the tips in below picture.
-
-***Note:*** all projects saved in MakeCode will be cleared after the reset, please save all of them in your computer if you need them.
+If you find that the building blocks are lost after deletion, please try to re-add the corresponding software library. If re-adding the software library does not solve the problem, please reset the makecode programming platform as shown in the figure below. Note: After resetting the platform, all projects saved on makecode will be cleared. Please save the project files to the computer if needed.
 
 ![](./images/AI-FAQ-05.png)

@@ -94,4 +94,4 @@ Search for wukong in the search box, click on wukong in the image and add the ex
 
 ![](./images/Wonder-Building-Kit-case-35-04.png)
 
-Link: [https://makecode.microbit.org/_FJEJecVXe8au](https://makecode.microbit.org/_FJEJecVXe8au)
+Link: [https://makecode.microbit.org/_Hj30v3fu208P](https://makecode.microbit.org/_Hj30v3fu208P)

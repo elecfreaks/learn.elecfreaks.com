@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-<!--# Products Introduction
+# Products Introduction
 
-## Introduction 
+## Introduction
 
 AI Accessories Pack combines advanced AI technology with rich hardware modules to bring kids a new programming experience. It includes an intelligent AI Lens that is able to achieve the funstions for the recognition of face, ball, colour, card, it also supports the line-following and one-click learning function. The voice recognition sensor can recognise pre-programmed utterances or self-learning utterances to improve kids' interactive experience. It is also paired with a fan module and rainbow light ring for more fun projects. AI Accessories Pack inspires creativity, improves hands-on skills and logical thinking, and lets kids enjoy the fun of AI technology.
 
-![](./images/ai-accessories-pack-01.png)
+<!-- ![](./images/ai-accessories-pack-01.png) -->
 
 ## Parameter
 

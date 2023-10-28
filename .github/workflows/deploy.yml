@@ -1,4 +1,4 @@
-name: Deploy
+name: wiki-Deploy
 
 on: workflow_dispatch
 
@@ -27,5 +27,5 @@ jobs:
       - name: Adding known hosts
         run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
 
-      - name: Deploy to https://www.elecfreaks.com/learn/
-      - run: rsync -avz ./build/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SERVER_PATH }}
+      - name: Deploy to https://wiki.elecfreaks.com
+        run: rsync -avz ./build/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SERVER_WIKI_PATH }}

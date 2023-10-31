@@ -19,7 +19,7 @@ AI Accessories Pack combines advanced AI technology with rich hardware modules t
 
 ## Packing List
 
-![](./images/nezha-inventors-kit-v2-02.png)
+<!-- ![](./images/nezha-inventors-kit-v2-02.png) -->
 
 | Items | QTY |
 |---|---|

@@ -95,14 +95,14 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '社媒',
+            title: 'Social Media',
             items: [
               {
-                label: '推特',
+                label: 'X',
                 href: 'https://twitter.com/elecfreaks',
               },
               {
-                label: '脸书',
+                label: 'Facebook',
                 href: 'https://www.facebook.com/ElecFreaksTech',
               },
               {
@@ -116,10 +116,10 @@ const config = {
             ],
           },
           {
-            title: '更多',
+            title: 'More',
             items: [
               {
-                label: '博客',
+                label: 'Blog',
                 href: 'https://www.elecfreaks.com/blog.html',
               },
               {

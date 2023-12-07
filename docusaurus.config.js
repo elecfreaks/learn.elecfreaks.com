@@ -95,7 +95,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Social Media',
+            title: 'Community',
             items: [
               {
                 label: 'X',

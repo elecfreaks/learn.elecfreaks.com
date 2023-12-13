@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: 产品介绍
+sidebar_label: Products Introduction
 ---
 
 # Products Introduction
@@ -20,10 +20,10 @@ Designed with RJ11 connection and easy to plug.
 ## Specification
 
 
-Items | Parameter 
+Items | Parameter
 :-: | :-:
 SKU|EF05045
-Weight(GW)| Approximately 170g 
+Weight(GW)| Approximately 170g
 Size|145mm × 92mm × 40mm（L× W× H）
 Connection|RJ11
 Connection Type|IIC
@@ -35,7 +35,7 @@ The origin of the AI Lens (0,0) is in the lower left corner of the screen, and t
 
 ## Packing List
 
-Items | QTY 
+Items | QTY
 :-: | :-:
 AI Lens|1
 Red ball|1
@@ -83,7 +83,7 @@ AI Lens will be updated with some new features and performance optimisation from
 
 ### How to check the firmware version
 
-There are AiCam V1.2 and V1.7 for the AI lens, and there is a firmware download button on the back of the AiCam V1.7  we are able to differentiate these two versions by the download button or the version number. 
+There are AiCam V1.2 and V1.7 for the AI lens, and there is a firmware download button on the back of the AiCam V1.7  we are able to differentiate these two versions by the download button or the version number.
 
 ![](./images/AI-gj-08.png)
 
@@ -150,7 +150,7 @@ Open right-click this computer and select Manage.
 
 ![](./images/AI-gj-09.png)
 
-Open the device manager 
+Open the device manager
 
 ![](./images/AI-gj-10.png)
 
@@ -212,7 +212,7 @@ Download and unzip [AiCam V1.7 software package v2.0.1](https://github.com/elecf
 
 ![](./images/AI-gj-07.png)
 
-Please visit [https://support.apple.com/zh-cn/HT202491](https://support.apple.com/zh-cn/HT202491) for solutions. 
+Please visit [https://support.apple.com/zh-cn/HT202491](https://support.apple.com/zh-cn/HT202491) for solutions.
 
 2. When using the AI lens, an error message appears when clicking download, it may be that the software library of PlanetX has been damaged.
 

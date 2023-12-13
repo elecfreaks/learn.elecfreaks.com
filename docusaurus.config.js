@@ -53,6 +53,7 @@ const config = {
           alt: 'ELECFREAKS Logo',
           src: 'img/logo.svg',
           href: 'https://www.elecfreaks.com/',
+          target:  '_self',
         },
         style: 'primary',
         items: [

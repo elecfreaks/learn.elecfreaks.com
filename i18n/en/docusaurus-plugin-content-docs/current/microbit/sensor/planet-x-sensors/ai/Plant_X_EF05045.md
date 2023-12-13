@@ -111,9 +111,9 @@ MacOS system download [CH34x_Install_V1.5.pkg](https://github.com/elecfreaks/lea
 
 2. Install the firmware download software kflash.
 
-Windows system download [kflash_gui_v1.6.5_2_windows.7z](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5 _2_windows.7z).
+Windows system download [kflash_gui_v1.6.5_2_windows.7z](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_windows.7z).
 
-MacOS system download [kflash_gui_v1.6.5_2_macOS.dmg](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_ macOS.dmg).
+MacOS system download [kflash_gui_v1.6.5_2_macOS.dmg](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_macOS.dmg).
 
 For windows system, open the folder kflash_gui after unzipping and find the kflash_gui.exe programme.
 
@@ -123,7 +123,7 @@ Once the download is complete for macOS, open the icon below.
 
 ![](./images/AI-gj-06.png)
 
-3. Double click to open the kflash_gui.exe programme, click on Open File, select and open the latest version of firmware v1.0.12 in the folder [click to download](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/v1.0 .12.kfpkg).
+3. Double click to open the kflash_gui.exe programme, click on Open File, select and open the latest version of firmware v1.0.12 in the folder [click to download](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/v1.0.12.kfpkg).
 
 ![](./images/AI-gj-02.png)
 

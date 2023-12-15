@@ -97,6 +97,13 @@ Support fast charge
 
 ![](./images/wukong_10.jpg)
 
+| Hardware version |  Buzzer switch |  Buzzer |
+| --- | --- | --- |
+| V1.0 | Yes | Yes |
+| V1.2 | None | None |
+| V1.4 | None | None |
+| V2.0 | None | Yes |
+
 ### 8 LEDs(reverse side)
 
 ![](./images/wukong_11.jpg)

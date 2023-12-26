@@ -31,7 +31,7 @@ Working Voltage|3.3V
 Working Current|300mA
 Core IC|V831
 
-The origin of the AI Lens (0,0) is in the lower left corner of the screen, and the X and Y axes range from: X (0,224), Y (0,224).
+The origin of the AI Lens (0,0) is in the lower left corner of the screen, and the X and Y axes range from: X (0 ~ 224), Y (0 ~ 224).
 
 ## Packing List
 
@@ -92,7 +92,7 @@ There are AiCam V1.2 and V1.7 for the AI lens, and there is a firmware download 
 
 The bottom right corner of the AI lens boot page will prompt the current version number, (if not prompted, it is the oldest version please update it)
 
-! [](. /images/AI-gj-05.png)
+! [](./images/AI-gj-05.png)
 
 AiCam V1.2 version firmware v1.0.12 [Click to download](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/v1.0.12.kfpkg).
 
@@ -172,7 +172,7 @@ Select "browse" my computer for searching drivers.
 
 Select the path as the `Drivers` folder in the `PhoenixSuit-master` folder, and then click the next page.
 
-![](./images/AI-gj-14.png)
+
 
 ### Update method for the firmware update
 

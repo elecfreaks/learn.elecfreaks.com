@@ -1,14 +1,14 @@
 ---
 sidebar_position: 6
-sidebar_label: Case 6 Remote Control Forklift Trucks
+sidebar_label: Case 06 Remote Control Forklift Trucks
 ---
 
-# Remote Control Forklift Trucks
+# Case 06 Remote Control Forklift Trucks
 
 ## Purpose
 
 
- To build a remote control Forklift truck with blocks. 
+ To build a remote control Forklift truck with blocks.
 
 
 ![](./images/cutebot-pro-extended-case-06-01.png)

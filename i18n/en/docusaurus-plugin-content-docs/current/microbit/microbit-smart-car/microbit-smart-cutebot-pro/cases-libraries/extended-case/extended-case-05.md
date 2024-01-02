@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-sidebar_label: Case5 Curling Robot
+sidebar_label: Case 05 Curling Robot
 ---
 
 # Case 05 The Curling Robot

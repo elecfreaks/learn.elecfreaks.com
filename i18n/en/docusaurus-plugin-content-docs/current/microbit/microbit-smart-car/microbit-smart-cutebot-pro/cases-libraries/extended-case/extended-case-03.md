@@ -1,14 +1,14 @@
 ---
 sidebar_position: 3
-sidebar_label: 案例三 积木机械爪小车
+sidebar_label: Case 03 Smart Cart with Bricks Mechnical Claw
 ---
 
-# Case 03: Smart Cart with Bricks Mechnical Claw
+# Case 03 Smart Cart with Bricks Mechnical Claw
 
 ## Purpose
 
 
-To build a smart Cutebot Pro cart with a mechnical claw with bricks. 
+To build a smart Cutebot Pro cart with a mechnical claw with bricks.
 
 
 ![](./images/cutebot-pro-extended-case-03-01.png)
@@ -56,7 +56,7 @@ To build a smart Cutebot Pro cart with a mechnical claw with bricks.
 
 ## Hardware Connections
 
-Connect the servo to the S1 port on Cutebot Pro. 
+Connect the servo to the S1 port on Cutebot Pro.
 
 ![](./images/cutebot-pro-extended-case-03-02.png)
 
@@ -69,15 +69,15 @@ Connect the servo to the S1 port on Cutebot Pro.
 ## Code
 
 
-Click "extensions" in the makecode drawer to see more choices. 
+Click "extensions" in the makecode drawer to see more choices.
 
 ![](./images/cutebot-pro-extended-case-02-03.png)
 
-We need to add a package for programming the Cutebot pro. Click "extensions" at the bottom of the drawer and seach with "cutebot pro" to download it. 
+We need to add a package for programming the Cutebot pro. Click "extensions" at the bottom of the drawer and seach with "cutebot pro" to download it.
 
 ![](./images/cutebot-pro-extended-case-02-04.png)
 
-We need to add a package for programming the Joystick:bit V2. Click "extensions" at the bottom of the drawer and seach with "joystickbit" to download it. 
+We need to add a package for programming the Joystick:bit V2. Click "extensions" at the bottom of the drawer and seach with "joystickbit" to download it.
 
 ![](./images/cutebot-pro-extended-case-02-05.png)
 
@@ -123,7 +123,7 @@ You may download it directly below:
 
 Link: [https://makecode.microbit.org/_dfmJjPJ1yMqp](https://makecode.microbit.org/_dfmJjPJ1yMqp)
 
-You may download it directly below: 
+You may download it directly below:
 
 <div
     style={{

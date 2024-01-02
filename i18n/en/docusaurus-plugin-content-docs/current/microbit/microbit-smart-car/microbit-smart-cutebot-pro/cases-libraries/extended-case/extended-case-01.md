@@ -1,14 +1,14 @@
 ---
 sidebar_position: 1
-sidebar_label: 案例一 AI路牌识别小车
+sidebar_label: Case 01 AI Road Signs Recognition Cart
 ---
 
-# AI Road Signs Recognition Cart 
+# Case 01 AI Road Signs Recognition Cart
 
 ## Purpose
 
 
-Build a Cutebot PRO cart that uses an AI Lens to recognise road signs. 
+Build a Cutebot PRO cart that uses an AI Lens to recognise road signs.
 
 
 ![](./images/cutebot-pro-extended-case-01-01.png)
@@ -55,12 +55,12 @@ Build a Cutebot PRO cart that uses an AI Lens to recognise road signs.
 
 ## Hardware Connections
 
-Connect the AI Lens to the IIC port on Cutebot Pro. 
+Connect the AI Lens to the IIC port on Cutebot Pro.
 
 ![](./images/cutebot-pro-extended-case-01-02.png)
 
 
-## Software 
+## Software
 
 [Microsoft makecode](https://makecode.microbit.org/#)
 
@@ -68,7 +68,7 @@ Connect the AI Lens to the IIC port on Cutebot Pro.
 ## Code
 
 
-Click "Extensions" in the makecode drawer to see more choices. 
+Click "Extensions" in the makecode drawer to see more choices.
 
 ![](./images/cutebot-pro-extended-case-01-03.png)
 
@@ -76,7 +76,7 @@ In order to programme the Cutebot Pro, we need to add an extension library. Find
 
 ![](./images/cutebot-pro-extended-case-01-04.png)
 
-For programming the AI Lens, we need to add the extension. Click  `Extensions`  at the bottom of the drawer and search with `PlanetX-AI` to download it. 
+For programming the AI Lens, we need to add the extension. Click  `Extensions`  at the bottom of the drawer and search with `PlanetX-AI` to download it.
 
 ![](./images/cutebot-pro-extended-case-01-05.png)
 

@@ -1,14 +1,14 @@
 ---
 sidebar_position: 4
-sidebar_label: Case 4 Ball Launching Vehicle
+sidebar_label: Case 04 Ball Launching Vehicle
 ---
 
-# Case 04: Ball Launching Vehicle
+# Case 04 Ball Launching Vehicle
 
 ## Purpose
 
 
- To create a ball launcher with blocks with the Cutebot Pro. 
+ To create a ball launcher with blocks with the Cutebot Pro.
 
 
 ![](./images/cutebot-pro-extended-case-04-01.png)
@@ -128,7 +128,7 @@ You can also download the links directly:
     />
 </div>
 
-### Cutebot Pro 
+### Cutebot Pro
 
 ![](./images/cutebot-pro-extended-case-03-07.png)
 

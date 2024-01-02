@@ -1,14 +1,14 @@
 ---
 sidebar_position: 2
-sidebar_label: 案例二 简易机械爪小车
+sidebar_label: Case 02 Simple Car with Mechnial Claw
 ---
 
-# Case 02: Simple Cart with Mechnial Claw
+# Case 02 Simple Car with Mechnial Claw
 
 ## Purpose
 
 
-Build a smart Cutebot Pro cart with a mechnical claw. 
+Build a smart Cutebot Pro cart with a mechnical claw.
 
 
 ![](./images/cutebot-pro-extended-case-02-01.png)
@@ -43,7 +43,7 @@ Build a smart Cutebot Pro cart with a mechnical claw.
 
 ## Hardware Connections
 
-Connect the claw to the S1 port on the Cutebot Pro. 
+Connect the claw to the S1 port on the Cutebot Pro.
 
 ![](./images/cutebot-pro-extended-case-02-02.png)
 
@@ -56,7 +56,7 @@ Connect the claw to the S1 port on the Cutebot Pro.
 ## Code
 
 
-Click "Extensions" in the makecode drawer to see more choices. 
+Click "Extensions" in the makecode drawer to see more choices.
 
 ![](./images/cutebot-pro-extended-case-02-03.png)
 

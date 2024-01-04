@@ -10,9 +10,7 @@ sidebar_label: Case 01 AI Road Signs Recognition Cart
 
 Build a Cutebot PRO cart that uses an AI Lens to recognise road signs.
 
-
 ![](./images/cutebot-pro-extended-case-01-01.png)
-
 
 ## Materials Requested
 

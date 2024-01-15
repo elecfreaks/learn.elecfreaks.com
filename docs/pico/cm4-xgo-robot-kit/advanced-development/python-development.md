@@ -9,6 +9,7 @@ XGO V2 内置了运动控制库文件 xgolib.py，教育库 xgoedu.py 和高级�
 
 运动库下载：[xgolib.py(26 KB)](https://www.elecfreaks.com/download/xgolib.py)
 
+
 ## 初始化
 
 以下为初始化代码：

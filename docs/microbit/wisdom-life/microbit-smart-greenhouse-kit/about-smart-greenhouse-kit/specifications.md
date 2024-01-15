@@ -1,3 +1,8 @@
+---
+sidebar_position: 3
+sidebar_label: 规格参数
+---
+
 # 规格参数
 
 | **产品信息**       |                  |

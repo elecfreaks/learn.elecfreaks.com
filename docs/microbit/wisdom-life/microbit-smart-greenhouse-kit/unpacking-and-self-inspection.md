@@ -1,3 +1,8 @@
+---
+sidebar_position: 3
+sidebar_label: 开箱自检
+---
+
 # 套件清单
 
 micro:bit(选配) × 1

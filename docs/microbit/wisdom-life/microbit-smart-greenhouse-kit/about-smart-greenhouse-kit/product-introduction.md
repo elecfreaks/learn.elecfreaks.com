@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+sidebar_label: 产品介绍
+---
+
 # 智能温室大棚套件
 
 ## 简介

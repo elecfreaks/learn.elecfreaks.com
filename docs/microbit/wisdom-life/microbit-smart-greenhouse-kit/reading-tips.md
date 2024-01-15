@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+sidebar_label: 阅读提示
+---
+
 # 阅读提示
 
 ## 符号说明

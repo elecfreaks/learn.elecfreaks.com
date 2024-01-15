@@ -18,6 +18,5 @@ sidebar_label: 安全说明
 9. 每次使用前，请务必检查 XGO-lite V2 四足关节处以及机械臂和夹爪的固定螺丝是否松动或者掉落。
 10. 请勿在给 XGO-lite V2 充电时使用。
 
-laskjdflkas
 
 ![](./images/microbit-xgo-lite2-safety-01.png)

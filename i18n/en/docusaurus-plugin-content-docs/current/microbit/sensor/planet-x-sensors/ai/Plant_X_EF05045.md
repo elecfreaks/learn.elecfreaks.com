@@ -100,6 +100,9 @@ AiCam V1.7 version firmware v2.0.1 [click to download](https://github.com/elecfr
 
 AiCam V1.7 version software package v2.0.1 [click to download](https://github.com/elecfreaks/learn-cn/releases/download/V2.0.1/AI-Cam-V1.7-V2.0.1.zip).
 
+AiCam V1.7 version software package v2.0.4 [click to download](https://www.elecfreaks.com/download/AI-Cam-V2.0.1-V2.0.4-Upgrade-File.zip)。
+
+
 ## AiCam V1.2 firmware update method
 
 1. Firstly install the camera serial driver:
@@ -201,6 +204,8 @@ Please wait patiently for the formatting to complete. When prompted that the fir
 ![](./images/AI-gj-21.png)
 
 ### Update package steps
+
+*** Here we take the V2.0.1 firmware upgrade as an example  ***
 
 Download and unzip [AiCam V1.7 software package v2.0.1](https://github.com/elecfreaks/learn-cn/releases/download/V2.0.1/AI-Cam-V1.7-V2.0.1.zip), open the disk, and copy the two files `maix_dist` and `res` in the `AI-Cam-V1.7-V2.0.1` folder to the disk , **wait for the copy to complete, and then manually uninstall the disk**. Then reconnect the AI Lens.
 

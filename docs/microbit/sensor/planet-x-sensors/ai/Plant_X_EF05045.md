@@ -104,7 +104,7 @@ AiCam V1.7版本固件 v2.0.4[点击下载](https://www.elecfreaks.com/download/
 
 AiCam V1.7版本软件包 v2.0.1[点击下载](https://github.com/elecfreaks/learn-cn/releases/download/V2.0.1/AI-Cam-V1.7-V2.0.1.zip)。
 
-
+AiCam V1.7版本软件包 v2.0.4[点击下载](https://www.elecfreaks.com/download/AI-Cam-V2.0.1-V2.0.4-Upgrade-File.zip)。
 
 ## AiCam V1.2固件更新方式
 
@@ -206,6 +206,8 @@ macOS系统下载完成后打开下图图标。
 ![](./images/AI-gj-21.png)
 
 ### 更新软件包步骤
+
+*** 此处以V2.0.1版本为例 ***
 
 下载并解压[AiCam V1.7版本软件包 v2.0.1](https://github.com/elecfreaks/learn-cn/releases/download/V2.0.1/AI-Cam-V1.7-V2.0.1.zip)，打开U盘,将`AI-Cam-V1.7-V2.0.1`文件夹中的`maix_dist`，`res`两个文件拷贝到U盘中,**等待拷贝完成,然后手动卸载U盘**.重新连接AI摄像头即可。
 

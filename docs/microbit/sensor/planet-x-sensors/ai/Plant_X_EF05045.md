@@ -100,6 +100,8 @@ AiCam V1.2版本固件 v1.0.12 [点击下载](https://github.com/elecfreaks/lear
 
 AiCam V1.7版本固件 v2.0.1[点击下载](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/PhoenixSuit-master.zip)。
 
+AiCam V1.7版本固件 v2.0.4[点击下载](https://www.elecfreaks.com/download/AI-Cam-V2.0.1-V2.0.4.zip)。
+
 AiCam V1.7版本软件包 v2.0.1[点击下载](https://github.com/elecfreaks/learn-cn/releases/download/V2.0.1/AI-Cam-V1.7-V2.0.1.zip)。
 
 
@@ -183,7 +185,9 @@ macOS系统下载完成后打开下图图标。
 
 ![](./images/AI-gj-16.png)
 
-点击`一键刷机`，点击`浏览`，选择[AI-Cam-V1.7-V2.0.1](https://github.com/elecfreaks/learn-cn/releases/download/V2.0.1/AI-Cam-V1.7-V2.0.1.zip)中的`tina_v831-sipeed_uart0_ov9732.img`，点击立即升级。
+点击`一键刷机`，点击`浏览`，根据需要升级的固件版本选择[AI-Cam-V1.7-V2.0.1](https://github.com/elecfreaks/learn-cn/releases/download/V2.0.1/AI-Cam-V1.7-V2.0.1.zip)中的`tina_v831-sipeed_uart0_ov9732.img`，或者[AiCam V1.7版本固件 v2.0.4](https://www.elecfreaks.com/download/AI-Cam-V2.0.1-V2.0.4.zip)中的`ef831-2.0.4-ov9732-2022-11-30.img`。点击立即升级。
+
+*** 这里以V2.0.1版本固件升级为例 ***
 
 ![](./images/AI-gj-18.png)
 
@@ -204,6 +208,7 @@ macOS系统下载完成后打开下图图标。
 ### 更新软件包步骤
 
 下载并解压[AiCam V1.7版本软件包 v2.0.1](https://github.com/elecfreaks/learn-cn/releases/download/V2.0.1/AI-Cam-V1.7-V2.0.1.zip)，打开U盘,将`AI-Cam-V1.7-V2.0.1`文件夹中的`maix_dist`，`res`两个文件拷贝到U盘中,**等待拷贝完成,然后手动卸载U盘**.重新连接AI摄像头即可。
+
 ![](./images/AI-gj-22.png)
 
 

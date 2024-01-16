@@ -180,7 +180,9 @@ Select `PhoenixSuit.exe` under the `PhoenixSuit-master` directory to open the fi
 
 ![](./images/AI-gj-16.png)
 
-Click `One-key Refresh`, click `Browse`, select `tina_v831-sipeed_uart0_ov9732.img` in [AI-Cam-V1.7-V2.0.1](https://github.com/elecfreaks/learn-cn/releases/download/V2.0.1/AI-Cam-V1.7-V2.0.1.zip), click to upgrade now.
+Click `One-click flash`, click `Browse`, and select [AI-Cam-V1.7-V2.0.1](https://github.com/elecfreaks/learn-cn/releases/download according to the firmware version you need to upgrade /V2.0.1/AI-Cam-V1.7-V2.0.1.zip), or [AiCam V1.7 version firmware v2.0.4](https://www.elecfreaks. `ef831-2.0.4-ov9732-2022-11-30.img` in com/download/AI-Cam-V2.0.1-V2.0.4.zip). Click to upgrade now.
+
+*** Here we take the V2.0.1 firmware upgrade as an example ***
 
 ![](./images/AI-gj-18.png)
 

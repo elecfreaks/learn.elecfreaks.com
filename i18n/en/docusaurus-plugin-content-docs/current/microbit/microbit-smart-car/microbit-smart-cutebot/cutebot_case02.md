@@ -2,7 +2,7 @@
 
 ## Purpose
 
-In case 01, we can find the  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) moves too fast to go steadily(the universal wheel goes off the ground) at the beginning.
+In case 01, we can find the Cutebot moves too fast to go steadily(the universal wheel goes off the ground) at the beginning.
 
 We will learn to gradually speed up the car for a steady move at the beginning in this case.
 
@@ -10,7 +10,7 @@ We will learn to gradually speed up the car for a steady move at the beginning i
 
 ## Materials
 
-1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+1 x Cutebot Kit
 
 ## Software Platform
 
@@ -24,7 +24,7 @@ Click the "Advanced" to see more choices in the MakeCode drawer.
 
 ![](./images/cutebot-pk-1.png)
 
-A codebase is required for  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
+A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
 ![](./images/cutebot-pk-11.png)
 
@@ -73,7 +73,7 @@ You can also download it directly below:
 
 ## Result
 
-The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) speeds up gradually and the universal wheel will not go off the ground due to the high speed.
+The Cutebot speeds up gradually and the universal wheel will not go off the ground due to the high speed.
 
 ![](./images/cutebot-case-02.gif)
 

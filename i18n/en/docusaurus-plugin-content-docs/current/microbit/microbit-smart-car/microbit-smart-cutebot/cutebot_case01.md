@@ -2,13 +2,13 @@
 
 ## Purpose
 
-Learn the basic functions of  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) move forward or reverse.
+Learn the basic functions of  Cutebot move forward or reverse.
 
 ![](./images/cutebot-case-01-01.png)
 
 ## Materials
 
-1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+1 x Cutebot
 
 ## Software Platform
 
@@ -21,7 +21,7 @@ Click the "Advanced" to see more choices in the MakeCode drawer.
 
 ![](./images/cutebot-pk-1.png)
 
-A codebase is required for  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
+A codebase is required for  Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
 ![](./images/cutebot-pk-11.png)
 

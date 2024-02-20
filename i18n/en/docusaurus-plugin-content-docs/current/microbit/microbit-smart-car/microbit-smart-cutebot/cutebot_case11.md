@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Use another micro:bit as a remote control for your [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html).
+Use another micro:bit as a remote control for your Cutebot
 
 Both micro:bit needs to be programmed.
 
@@ -10,7 +10,7 @@ Both micro:bit needs to be programmed.
 
 ## Materials
 
-1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+1 x Cutebot Kit
 
 1 x [micro:bit](https://www.elecfreaks.com/microbit_edu.html)
 
@@ -28,7 +28,7 @@ Click the "Advanced" to see more choices in the MakeCode drawer.
 
 ![](./images/cutebot-pk-1.png)
 
-A codebase is required for [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
+A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
 ![](./images/cutebot-pk-11.png)
 
@@ -71,7 +71,7 @@ You can also download it directly below:
     />
 </div>
 
-### Step 3: [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) Programming
+### Step 3: Cutebot Programming
 
 
 Drag "show icon" brick into the `On start` brick and set the "radio set group" to `1`. Items must be the same with the remote control for the correct match.
@@ -113,11 +113,11 @@ You can also download it directly below:
 
 ## Result
 
-When button A+B being pressed on the remote control, the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) goes straight.
+When button A+B being pressed on the remote control, the Cutebot goes straight.
 
-When button A being pressed on the remote control, the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) turns left.
+When button A being pressed on the remote control, the Cutebot turns left.
 
-When button B being pressed on the remote control, the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) turns right.
+When button B being pressed on the remote control, the Cutebot turns right.
 
 ![](./images/cutebot-case-11.gif)
 

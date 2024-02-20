@@ -2,15 +2,15 @@
 
 ## Purpose
 
-The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) runs along the black line.
+The Cutebot runs along the black line.
 
 ![](./images/cutebot-case-08-01.png)
 
 ## Materials
 
-1 x [Cutebot kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+1 x Cutebot kit
 
-1 x Line-tracking Map(Homemade or enclosed in the  [Cutebot kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+1 x Line-tracking Map(Homemade or enclosed in the Cutebot kit
 
 ## Software Platform
 
@@ -26,7 +26,7 @@ Click the "Advanced" to see more choices in the MakeCode drawer.
 
 ![](./images/cutebot-pk-1.png)
 
-A codebase is required for  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search ` [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)` in the dialogue box and download it.
+A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
 ![](./images/cutebot-pk-11.png)
 
@@ -48,7 +48,7 @@ Set the left wheel speed to `50` and right to `25`,  make a right turn by the di
 
 Judge if the status of line-tracking sensors is  ● ○ and make a left turn to go back to the black line.
 
-When the status is ● ● that means the  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) runs along with the black line at the speed of `50`.
+When the status is ● ● that means the Cutebot runs along with the black line at the speed of `50`.
 
 ![](./images/case_08_01.png)
 
@@ -81,13 +81,13 @@ You can also download it directly below:
 
 ## Result
 
-The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) runs along the black line and will adjust to run back to the black line if any deviation happens.
+The Cutebot runs along the black line and will adjust to run back to the black line if any deviation happens.
 
 ![](./images/cutebot-case-08.gif)
 
 ## Exploration
 
-How to program to make the  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) run in the  white background of the map excluding the black line circle part?
+How to program to make the Cutebot run in the  white background of the map excluding the black line circle part?
 
 ## FAQ
 ---

@@ -57,7 +57,7 @@ Build a forklift truck from building blocks according to your own design.
 
 #### Examples
 
-##### Assembly Steps 
+##### Assembly Steps
 
 ![](./images/nezha-inventors-kit-v2-step-21-01.png)
 
@@ -125,7 +125,7 @@ Build a forklift truck from building blocks according to your own design.
 
 ##### Hardware Connections
 
-Connect the motors to M1, M2 and the servo to S1 on Nezha expansion board. 
+Connect the motors to M1, M2 and the servo to S1 on Nezha expansion board.
 
 ![](./images/nezha-inventors-kit-v2-case-24-02.png)
 
@@ -151,7 +151,7 @@ Code
 ![](./images/nezha-inventors-kit-v2-case-21-07.png)
 
 
-Link: [https://makecode.microbit.org/_KPYeCC2Ds2Jd](https://makecode.microbit.org/_KPYeCC2Ds2Jd)
+Link: [https://makecode.microbit.org/_hPfKtjcHtgcv](https://makecode.microbit.org/_hPfKtjcHtgcv)
 
 You may download it directly below:
 
@@ -163,7 +163,7 @@ You may download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_KPYeCC2Ds2Jd"
+        src="https://makecode.microbit.org/_hPfKtjcHtgcv"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -176,7 +176,7 @@ You may download it directly below:
 
 
 
-### Demonstration 
+### Demonstration
 
 >Group presentation to try making a remote control forklift.
 

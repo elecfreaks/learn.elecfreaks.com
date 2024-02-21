@@ -1,5 +1,5 @@
 # FAQ 09
 
-## Q: 关于studio软件使用的3D模型文件下载路径。
+## Q: 使用joystick:bit时，发现按键失控。
 
-A：请点击此链接[https://www.elecfreaks.com/download/studio-3d-model-file.io](https://www.elecfreaks.com/download/studio-3d-model-file.io)下载模型文件.
+A：当使用joystick:bit时，如果使用micro:bit上的USB接口进行供电，则会出现按键失灵的情况，此时只需要将USB线拔掉，使用电池进行供电即可。

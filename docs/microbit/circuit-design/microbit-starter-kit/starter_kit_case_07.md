@@ -72,7 +72,7 @@ TMP36输出电压随温度变化的曲线是这样的：
 ![](./images/case_07_01.png)
 
 ### 参考程序
-请参考程序连接：[https://makecode.microbit.org/_AKuYFoDsLJ7D](https://makecode.microbit.org/_AKuYFoDsLJ7D)
+请参考程序连接：[https://makecode.microbit.org/_egPRVKivYFCc](https://makecode.microbit.org/_egPRVKivYFCc)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 
@@ -86,7 +86,7 @@ TMP36输出电压随温度变化的曲线是这样的：
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_AKuYFoDsLJ7D"
+        src="https://makecode.microbit.org/_egPRVKivYFCc"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

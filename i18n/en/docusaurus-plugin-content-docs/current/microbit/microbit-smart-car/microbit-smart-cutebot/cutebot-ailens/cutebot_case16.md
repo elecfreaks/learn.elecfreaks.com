@@ -2,20 +2,20 @@
 
 ## Purpose
 ---
-- Use the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) and the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) to achieve the line tracking function.
+- Use the Cutebot and the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) to achieve the line tracking function.
 
 ![](./images/cutebot-case-16-01.png)
 
 ## Materials required
 ---
 
-- 1 × [Cutebot V3.0](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+- 1 × [Cutebot V3.0]
 
 - 1 × [Cutebot lithium battery pack](https://www.elecfreaks.com/cutebot-lithium-battery-pack.html)
 
 - 1 × [AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
 
-***Note:*** The [AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) works with [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) V3.0 only(You can see the version number printed on the baseboard).
+***Note:*** The [AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) works with Cutebot V3.0 only(You can see the version number printed on the baseboard).
 
 ![](./images/cutebot-16-04.png)
 
@@ -125,7 +125,7 @@ You may also download it directly below:
 
 ## Result
 ---
-- The [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) car moves along with the black line.
+- The Cutebot car moves along with the black line.
 
 ![](./images/case-16-04.gif)
 

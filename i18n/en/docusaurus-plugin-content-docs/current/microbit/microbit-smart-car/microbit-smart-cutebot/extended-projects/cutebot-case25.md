@@ -8,7 +8,7 @@ Display the expressions through an 8 x 16 dot matrix screen.
 
 ## Materials
 
-1 × [Cutebot smart car](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+1 × Cutebot smart car
 
 1 × [ELECFREAKS 8x16 Matrix Module](https://www.elecfreaks.com/planetx-8x16-matrix.html)
 

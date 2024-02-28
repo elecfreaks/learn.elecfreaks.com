@@ -8,7 +8,7 @@ Working with the AI lens, the Cutebot car is able to be controlled by starting m
 
 ## Materials
 
-1 × [Cutebot car](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+1 × Cutebot car
 
 1 × [Cutebot lithium battery pack](https://www.elecfreaks.com/cutebot-lithium-battery-pack.html)
 

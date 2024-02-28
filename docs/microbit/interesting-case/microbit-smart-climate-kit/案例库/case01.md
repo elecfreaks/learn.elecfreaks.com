@@ -68,7 +68,7 @@ sidebar_label: 案例一：紫外线辐射监测装置
 
 *** 添加软件库 ***
 
-进入“[makecode.microbit.org](makecode.microbit.org)”，点击新建项目。
+进入“[makecode.microbit.org](https://makecode.microbit.org/)”，点击新建项目。
 
 ![](./images/smart-weather-station-kit-add-extension-01.png)
 

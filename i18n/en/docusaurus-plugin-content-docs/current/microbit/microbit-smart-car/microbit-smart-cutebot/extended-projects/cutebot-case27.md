@@ -6,7 +6,7 @@ Use the Cutebot smart car to create a cart that can push opponents off the playi
 ![](./images/cutebot-case-27-01.png)
 
 ## Materials
-1 × [Cutebot smart car](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+1 × Cutebot smart car
 
 1 × [Cutebot lithium battery expansion kit](https://www.elecfreaks.com/cutebot-lithium-battery-pack.html)
 

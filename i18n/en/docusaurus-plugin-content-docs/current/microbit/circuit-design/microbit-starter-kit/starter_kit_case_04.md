@@ -4,19 +4,19 @@
 
 ## Introduction:
 
-Photocell is a kind of special resistor based on internal photoelectric effect. Its value of resistance is opposite to the brightness of the light, the brighter of the light is,  the lower of the value of the resistance will be. Usually photocell is the core component of a photoswitch. In the following experiment, we are going to use photocell to control the brightness of 5*5 LED screen on micro:bit.
+The photodiode is a semiconductor device that converts light energy into electrical energy. In this experiment, we use a photodiode to control a micro:bit 5x5 LED screen to display a love icon.
 
 ## Components List:
 
 ### Hardware:
 
-- 1 x micro:bit Board
-- 1 x Micro-B USB Cable
+- 1 x micro:bit
+- 1 x USB Cable
 - 1 x micro:bit Breadboard Adapter
-- 1 x Transparent Breadboard - 83 * 55 mm
-- 1 x Photocell
-- 1 x 10kΩ Resistors
-- n x Breadborad jumper wire 65pcs pack
+- 1 x Transparent Breadboard--83 x 55 mm
+- 1 x Photodiode
+- 1 x 10kΩ Resistor
+- patchcords
 
 ***Tips: If you want to buy all components above, then you will need Elecfreaks micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html) .***
 
@@ -26,7 +26,7 @@ Photocell is a kind of special resistor based on internal photoelectric effect. 
 
 ### Photocell
 
-Photocell is a kind of special resistor made of semi-conductor materials like Cds or CdSe based on internal photoelectric effect. The brighter of the light is,  the lower of the value of the resistance will be. with the intensity of light increasing, its resistant value decreased sharply, and the minimum light resistant value can drop down to below 1KΩ. Photocell is very sensitive to light. When there is no light, its resistant value arrives to its maximum and its dark resistant value usually can reach 1.5MΩ at max.
+Photodiodes are special resistors made of semiconductor materials such as CdS or CdSe, and their working principle is based on the internal photoelectric effect. The stronger the light, the lower the resistance value, with the increase in light intensity, the resistance value is rapidly reduced, the bright resistance value can be as small as 1KΩ or less. Photodiode is very sensitive to light, its in the absence of light, was a high resistance state, dark resistance is generally up to 1.5MΩ.
 
 ![](./images/jS03zGQ.jpg)
 
@@ -35,12 +35,13 @@ Photocell is a kind of special resistor made of semi-conductor materials like Cd
 ### Hardware Connection
 Connect your components according to the picture below:
 
-- 1.Connect the Photocell to P0 port.
-- 2.Connect the 10kΩ resistor with the Photocell in parallel.
+- 1.Connect the photodiode to the P0 port
+
+- 2.Connect the 10kΩ resistor in parallel with the photodiode (note the orientation of the photodiode, the long end is positive)
 
 ![](./images/FtQDhiS.jpg)
 
-You would see as  below after you finish the connection:
+The connection is completed as shown:
 
 ![](./images/TMd3Fq8.jpg)
 
@@ -55,11 +56,12 @@ Click to open [Microsoft Makecode](https://makecode.microbit.org/), write the fo
 ![](./images/Hdxt7qd.png)
 
 ### Details for the code:
-- 1.Analog read the voltage as the reference value for the brightness in "on start"
+
+- 1.When the power is switched on, the analogue voltage is read as a reference value for the brightness.
 
 ![](./images/Oj48CCS.png)
 
-- 2.In the brick of "forever", analog read the voltage from P0 port repeatedly. Once the voltage lower than reference value minus 2( it shows if the intensity of light increases, the resistant value of photocell would decrease), then it tells the light has been turned off.  At the moment, an icon is showing on the micro:bit, the calibrationVal minus 2 is used to adjust the sensitivity,  the lower value is,  the higher of the sensitivity would be.
+- 2.In the infinite loop block, the analogue voltage of P0 port is scanned cyclically. Once the current voltage value is lower than the reference value minus 2 (indicating that the light intensity becomes lower, the photoresistor resistance drops), it means that the light has been switched off, and at this time, a heart icon is displayed. calibrationVal-2 is used to adjust the sensing sensitivity, and the smaller the value is, the higher the sensitivity is.
 
 ![](./images/bd9M5tC.png)
 
@@ -89,13 +91,13 @@ You can also download the links directly:
 
 ## Result
 
-Turn on the light, the LED screen on micro:bit shows nothing. Turn off light, the LED screen displays an icon.
+When the lights are on, the micro:bit LED screen shows nothing; when the lights are off, the screen shows a heart icon.
 
 ![](./images/1Xu4lBR.gif)
 
 
 ## Elploration
 
-If we want to use photocell to control a LED,  how to design circuit and program?
+If we want to use a photodiode to control an LED on and off, how do we design the circuit and program it?
 
 ## FAQ

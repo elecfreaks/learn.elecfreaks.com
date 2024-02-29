@@ -2,19 +2,19 @@
 
 ## Purpose
 ---
--  Control the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) with the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) by recognizing the signpost cards.
+-  Control the Cutebot with the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) by recognizing the signpost cards.
 
 ![](./images/cutebot-case-17-01.png)
 
 ## Materials required
 ---
-- 1 × [Cutebot V3.0](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+- 1 × Cutebot V3.0
 
 - 1 × [Cutebot lithium battery pack](https://www.elecfreaks.com/cutebot-lithium-battery-pack.html)
 
 - 1 × [AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
 
-***Note:*** The [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) kit works with [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) V3.0 only(You can see the version number printed on the baseboard).
+***Note:*** The [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) kit works with Cutebot V3.0 only(You can see the version number printed on the baseboard).
 
 ![](./images/cutebot-16-04.png)
 

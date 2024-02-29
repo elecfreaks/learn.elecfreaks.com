@@ -7,7 +7,7 @@ Use a cutebot smart car with mechanical claws to create a car with the ability t
 
 ## Materials
 
-1 × [Cutebot smart car](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+1 × Cutebot smart car
 
 1 × [ELECFREAKS Mechanical Catch](https://www.elecfreaks.com/elecfreaks-mechanical-catch-use-with-cutebot.html)
 

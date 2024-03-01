@@ -9,7 +9,7 @@ sidebar_label: Preparation
 
 ### Start up
 
-Put the robot dog in a prone position to avoid joints from being stuck, then press the power switch on the back of the robot dog, the power ring light on the switch flashes quickly and then stays on, the robot dog stands slowly, and the mechanical arm retracts automatically after opening, indicating Boot up successfully. **Note: Don’t hold it in your hand to turn it on. The shaking of the robot dog during the startup process will cause the robot dog to move abnormally. **
+Put the robot dog in a prone position to avoid joints from being stuck, then press the power switch on the back of the robot dog, the power ring light on the switch flashes quickly and then stays on, the robot dog stands slowly, and the mechanical arm retracts automatically after opening,the screen lights up to display content about 20 seconds after turning on, indicating Boot up successfully. **Note: Don’t hold it in your hand to turn it on. The shaking of the robot dog during the startup process will cause the robot dog to move abnormally. **
 
 ![](./../images/cm4-xgo-inspection-01.gif)
 

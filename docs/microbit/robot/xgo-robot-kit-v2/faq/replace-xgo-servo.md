@@ -2,7 +2,9 @@
 sidebar_position: 2
 sidebar_label: 更换 XGO 舵机
 ---
-## 更换 XGO 舵机
+
+
+# 更换 XGO 舵机
 
 以更换膝关节舵机为例，图示更换舵机。**注意：机器狗舵机共有15个不同的ID,必须使用相同ID替换**。
 

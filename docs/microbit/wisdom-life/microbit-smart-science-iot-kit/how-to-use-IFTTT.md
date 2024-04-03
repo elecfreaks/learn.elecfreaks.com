@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+*** 请注意，使用IOT:bit连接Wi-Fi网络的时候，请确保您的Wi-Fi网络运行在2.4GHz模式下 ***
+
 # 第四节：Iot套件搭配Thingspeak平台和IFTTT平台制作温度报警器
 
 ## 如何通过IFTTT发送温度阈值报警电子邮件

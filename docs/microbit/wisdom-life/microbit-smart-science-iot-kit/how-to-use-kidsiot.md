@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-*** 请注意，使用IOT:bit连接Wi-Fi网络的时候，请确保您的Wi-Fi网络运行在2.4GHz模式下 ***
+
 
 # 第一节：KidsIot平台使用手册
 ---
@@ -10,6 +10,8 @@ sidebar_position: 2
  平台链接：[KidsIoT云平台: https://www.kidsiot.cn/](https://www.kidsiot.cn/)
 
 ![](./images/kidsiot_01.jpg)
+
+*** 请注意，使用IOT:bit连接Wi-Fi网络的时候，请确保您的Wi-Fi网络运行在2.4GHz模式下 ***
 
 ## KidsIoT 平台账号注册
 

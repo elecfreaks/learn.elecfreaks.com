@@ -13,6 +13,7 @@ sidebar_label: micro:bit 物联网科学套件
 
 ![](./images/iot_kit_03.jpg)
 
+*** 请注意，使用IOT:bit连接Wi-Fi网络的时候，请确保您的Wi-Fi网络运行在2.4GHz模式下 ***
 
 ## 目录
 

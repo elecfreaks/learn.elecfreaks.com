@@ -7,6 +7,8 @@ sidebar_position: 6
 
 **HiveMQ 平台链接：[https://www.hivemq.com/](https://www.hivemq.com/).**
 
+**请注意，使用IOT:bit连接Wi-Fi网络的时候，请确保您的Wi-Fi网络运行在2.4GHz模式下**
+
 ## HiveMQ 平台账号注册
 
 进入**HiveMQ官网**，点击在右上角的菜单栏上的 **Cloud**。

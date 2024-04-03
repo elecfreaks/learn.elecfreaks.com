@@ -7,7 +7,7 @@ sidebar_position: 3
 
  平台链接：[thingspeak云平台: https://thingspeak.com/](https://thingspeak.com/)
 
- *** 请注意，使用IOT:bit连接Wi-Fi网络的时候，请确保您的Wi-Fi网络运行在2.4GHz模式下 ***
+**请注意，使用IOT:bit连接Wi-Fi网络的时候，请确保您的Wi-Fi网络运行在2.4GHz模式下**
 
 ## Thingspeak 平台账号注册
 

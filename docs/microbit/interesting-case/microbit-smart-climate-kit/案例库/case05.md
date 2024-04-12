@@ -59,7 +59,7 @@ sidebar_label: 案例五：智能气候站
 
 风速传感器连接到P1接口，紫外线传感器连接到P2接口，灰尘传感器的LED连接到P3接口，out连接到P4接口，DHT11温湿度传感器连接到P10接口，并将OLED显示屏安装在IoT:bit上。
 
-![](./images/microbit-smart-climate-kit-case-05-06.png)
+
 
 ### 代码编程
 

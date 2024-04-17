@@ -60,24 +60,24 @@ sidebar_label: 开箱自检
 
 如果您的智能手机的操作系统是安卓系统，您可以通过**百度手机助手**搜索“XGO”并安装即可；安装完成后打开 XGO APP 启动界面如图所示：
 
-![](.\images\microbit-xgo-lite-v2-app-1.png)
+![](./images/microbit-xgo-lite-v2-app-1.png)
 
 **注意**
 
 1. 截至该教程编写完成日期，所使用的 XGO APP 版本号为：2.4.0，请保证下载的 XGO APP 版本不低于2.4.0。
 2. 安装 XGO APP 完成后，请在设置中将 XGO APP 的权限打开，包括：位置信息、附近的设备，否则可能会搜索不到 XGO-lite V2。
 
-打开智能手机的蓝牙功能，并将 XGO-lite V2 开机，打开 XGO APP 在首页界面左上角有![](.\images\microbit-xgo-lite-v2-app-2.png)图标，点击蓝牙图标，按照提示将智能手机与 XGO-lite V2 连接。
+打开智能手机的蓝牙功能，并将 XGO-lite V2 开机，打开 XGO APP 在首页界面左上角有![](./images/microbit-xgo-lite-v2-app-2.png)图标，点击蓝牙图标，按照提示将智能手机与 XGO-lite V2 连接。
 
-![](.\images\microbit-xgo-lite-v2-app-3.png)
+![](./images/microbit-xgo-lite-v2-app-3.png)
 
-![](.\images\microbit-xgo-lite-v2-app-4.png)
+![](./images\microbit-xgo-lite-v2-app-4.png)
 
 
 
 回到主页面并进入“整机控制”页面，操作下图按钮，查看 XGO-lite V2 是否根据操作做出动作。若做出相应操作指令动作，则代表 XGO-lite V2 完好。
 
-![](.\images\microbit-xgo-lite-v2-app-5.png)
+![](./images/microbit-xgo-lite-v2-app-5.png)
 
 
 

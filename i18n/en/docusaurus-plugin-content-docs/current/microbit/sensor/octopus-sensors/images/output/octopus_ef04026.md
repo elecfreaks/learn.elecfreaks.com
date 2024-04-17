@@ -1,10 +1,10 @@
-# OCTOPUS 1Channel Relay  5V(EF04026)
+﻿# OCTOPUS 1Channel Relay  5V(EF04026)
 
 ##  Introduction
 
 OCTOPUS 1Channel Relay is a single relay electronic brick.
 
- ![](./images/1E9gHLP.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/1E9gHLP.jpg)
 
 ## Products Link
 
@@ -31,7 +31,7 @@ PCB location hole|Standard 3mm
 ## Outlook and Dimensions
 
 
- ![](./images/lgUM5rk.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/lgUM5rk.png)
 
 ## Quick to Start
 
@@ -42,12 +42,12 @@ PCB location hole|Standard 3mm
 
   Take sensor:bit for example
 
- ![](./images/xcHn45y.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/xcHn45y.png)
 
 ### Program as the picture shows
 
 
- ![](./images/hXlcnvg.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/hXlcnvg.png)
 
 ### Reference
 

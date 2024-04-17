@@ -1,4 +1,4 @@
-# Case 06: Create A Magic Wand
+﻿# Case 06: Create A Magic Wand
 
 ## Purpose
 ---
@@ -38,7 +38,7 @@ In case of any emergencies and incidents, Xiao En decides to set all the functio
 
 
 
-![](./images/magicwand_case_06_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_06_07.png)
 
 
 ### link

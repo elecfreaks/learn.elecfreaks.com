@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 10
 sidebar_label: 防跌落小车
 ---
@@ -10,7 +10,7 @@ sidebar_label: 防跌落小车
 
 想象一下，当我们驾驶车辆靠近边缘时，我们会注意到并采取相应的措施，比如减速或转向，以避免跌落。类似地，我们可以通过编程来使Cutebot智能赛车能够自动检测边缘并采取相应的行动。
 
-![](./images/cutebot-case-07-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-07-01.png)
 
 ## 使用材料
 
@@ -26,11 +26,11 @@ sidebar_label: 防跌落小车
 
 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](./images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
 
 为了给Cutebot套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索`Cutebot`，然后点击下载这个代码库。
 
-![](./images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -38,7 +38,7 @@ sidebar_label: 防跌落小车
 
 在`当开机时`积木块中显示一个图标。
 
-![](./images/case_07_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_07_01.png)
 
 ### 步骤 3
 
@@ -48,7 +48,7 @@ sidebar_label: 防跌落小车
 
 然后将左右轮速度设置为`0`，暂停一秒，重新前进。
 
-![](./images/case_07_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_07_02.png)
 
 ### 程序
 
@@ -80,7 +80,7 @@ sidebar_label: 防跌落小车
 
 沿着桌面边缘贴一圈黑色胶纸，小车检测到黑线时会迅速后退，然后换一个方向继续前进。
 
-![](./images/cutebot-case-07.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-07.gif)
 
 ## 思考
 

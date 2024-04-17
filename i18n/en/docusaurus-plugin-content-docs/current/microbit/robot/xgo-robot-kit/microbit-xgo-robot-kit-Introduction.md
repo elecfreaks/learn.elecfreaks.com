@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: micro:bit XGO Robot Kit Introduction
 ---
@@ -25,7 +25,7 @@ micro:bit XGO robot is an AI dog robot with 12 DOFs designed for the artificial 
 ---
 
 
-![](./images/microbit-xgo-robot-kit-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-16.png)
 
 
 
@@ -61,7 +61,7 @@ micro:bit XGO robot is an AI dog robot with 12 DOFs designed for the artificial 
 
 ## Packing List
 ---
-![](./images/microbit-xgo-robot-kit-square-27.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-27.png)
 
 
 
@@ -73,7 +73,7 @@ Put the XGO in the prone position in case of any stuck problems happening on the
 
 
 
-![](./images/microbit-xgo-kaiji.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-kaiji.gif)
 
 
 
@@ -83,7 +83,7 @@ Press the button on the back of the XGO, the ring lights starts flashing and the
 
 
 
-![](./images/microbit-xgo-guanji.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-guanji.gif)
 
 
 
@@ -93,7 +93,7 @@ When the battery runs out of the power, the ring light woud flash and the XGO ge
 
 
 
-![](./images/microbit-xgo-chongdian.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-chongdian.gif)
 
 
 

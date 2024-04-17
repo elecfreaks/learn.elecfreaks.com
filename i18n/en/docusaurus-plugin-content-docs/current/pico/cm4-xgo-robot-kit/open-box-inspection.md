@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 4
 sidebar_label: Unboxing Self-test
 ---
@@ -68,13 +68,13 @@ Check that the product is functioning properly.
 
 Put the robot dog in a prone position to avoid joints from being stuck, then press the power switch on the back of the robot dog, the power ring light on the switch flashes quickly and then stays on, the robot dog stands slowly, and the mechanical arm retracts automatically after opening, indicating Boot up successfully. **Note: Don’t hold it in your hand to turn it on. The shaking of the robot dog during the startup process will cause the robot dog to move abnormally. **
 
-![](./images/cm4-xgo-inspection-01.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-inspection-01.gif)
 
 ##### Shutdown detection
 
 Press the power switch on the back, the ring light flashes slowly, the robot dog slowly gets down, the mechanical arm retracts, and then the ring light goes out, indicating that the system is completely shut down.
 
-![](./images/cm4-xgo-inspection-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-inspection-02.gif)
 
 ### 5. iew manual
 

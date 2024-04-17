@@ -1,4 +1,4 @@
-# case 35 build your own microbit security Door
+﻿# case 35 build your own microbit security Door
 
 ## Build your own Micro:bit Security Door!
 ---
@@ -12,7 +12,7 @@
 
 ## Goals
 ---
-![](./images/vqMWfnf.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/vqMWfnf.jpg)
 
  1. Connect the wiring to interface the keypad with the microbit
  2. Set your own unique password for the lock
@@ -38,9 +38,9 @@
 ## Hardware Step 1 – Interfacing the Keypad
 ---
 
-![](./images/uRCXgx1.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/uRCXgx1.jpg)
 
-![](./images/ROsemNZ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/ROsemNZ.jpg)
 
 1. The membrane keypad has 16 different switches which have 16 different characters
 2. The switches are grouped together by row and column for example (R1,C1) corresponds to 1 and so on. When the     controller detects a 1 at Pin 1 and Pin 5  it would mean key 1 is pressed.This is called digital output
@@ -53,9 +53,9 @@
 ### Step 2 – Wire it Up
 
 
-![](./images/52Ven7Z.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/52Ven7Z.jpg)
 
-![](./images/SzNfkQZ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/SzNfkQZ.jpg)
 
 1. Attach the 3 pins of the Servo motor to P2 of the breakout board
 2. Attach Ground (Black pin) of the Micro:bit to the  10kOh resistor
@@ -64,7 +64,7 @@
 
   Connect GND,VCC,SCl and SDA of the breakout board to GND,VCC,SCl and SDA of the OLED respectively.
 
-![](./images/eqDfjDj.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/eqDfjDj.jpg)
 
 
 ### Step 3 – Coding the micro:bit
@@ -77,14 +77,14 @@ On start we have to:
 - Initialize a 4x1 array
 - Initialize the lockdown counter
 
-![](./images/k1XA7JO.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/k1XA7JO.jpg)
 
 -  Button A acts as the enter character button
 -  Every time you press a key on the 4x4 keypad you have to press Button A in order to key in a 4 digit Number
 
-![](./images/iGpTbFQ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/iGpTbFQ.jpg)
 
-![](./images/AM3svJ7.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/AM3svJ7.jpg)
 
 Now we need to set up the micro:bit to detect the key presses!
 
@@ -93,7 +93,7 @@ Now we need to set up the micro:bit to detect the key presses!
 - The value in the character is stored in the “TempString” variable
 - The code block is quite long,so the download link is provided below
 
-![](./images/RDiuQda.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/RDiuQda.jpg)
 
 - Button B acts as the final “Enter” button
 - Pressing button B causes the program to check if the entered string is equal to “369#” using the compare block
@@ -101,7 +101,7 @@ Now we need to set up the micro:bit to detect the key presses!
 - The number of wrong Attempts will increase by 1 every time an intruder enters the wrong password
 - Once 3 wrong attempts are detected,the program will enter a loop for 60 seconds
 
-![](./images/ciR6cN3.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/ciR6cN3.jpg)
 
 - To reset the number of attempts and the characters entered,press Button A+B
 - The reset button also resets the servo to the “Locked Position”
@@ -116,15 +116,15 @@ Now we need to set up the micro:bit to detect the key presses!
 5. Attach an ice-cream stick to the servo.This will serve as the lock
 6. Glue the servo with the ice-cream stick on the other side of the door
 
-![](./images/xGxfNtr.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/xGxfNtr.png)
 
-![](./images/gyFKK63.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/gyFKK63.jpg)
 
 ### Step 5 – Demo Time!
 
-![](./images/PQCmICX.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/PQCmICX.jpg)
 
-![](./images/7ocL6rB.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/7ocL6rB.jpg)
 
 1. Each time you press a key,the corresponding character will appear on the OLED
 2. To unlock the door key in 3,Button A,6,Button A,9,Button A,#

@@ -1,10 +1,10 @@
-# Octopus Push Lock ESwitch Brick OBPLock(EF04035)
+﻿# Octopus Push Lock ESwitch Brick OBPLock(EF04035)
 
 ## Introduction
 
 This is Push Lock ESwitch button brick, which detects your press action and it is ideal for beginners to learn.
 
- ![](./images/SMeQQyr.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/SMeQQyr.jpg)
 
 ## Products Link
 
@@ -27,7 +27,7 @@ Working Voltage|3.35V
 
 ## Outlook and Dimensions
 
- ![](./images/IYYxw8r.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/IYYxw8r.png)
 
 ## Quick to Start
 
@@ -38,13 +38,13 @@ Working Voltage|3.35V
 
   Take sensor:bit for example
 
-![](./images/tUcPhzM.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/tUcPhzM.png)
 
 ### Add Package
 
 Program as the picture shows
 
-![](./images/gkU4VNN.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/gkU4VNN.png)
 
 ### Reference
 

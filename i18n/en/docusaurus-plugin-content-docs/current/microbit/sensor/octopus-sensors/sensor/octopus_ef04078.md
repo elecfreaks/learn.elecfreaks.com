@@ -1,10 +1,10 @@
-# OCTOPUS Gesture Sensor PAJ7620U2(EF04078)
+﻿# OCTOPUS Gesture Sensor PAJ7620U2(EF04078)
 
 ## Introduction
 
 OCTOPUS Gesture Sensor is PAJ7620U2 that integrates gesture recognition function with general I2C interface into a single chip. It can recognize 9 gestures including move up, move down, move left, move right, etc with a simple swipe of your hand.
 
- ![](./images/AVBdYeR.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/AVBdYeR.jpg)
 
 
 ## Products Link
@@ -35,7 +35,7 @@ Size|23.48mm×31.28mm
 ## Outlook and Dimensions
 
 
- ![](./images/FW7bmzW.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/FW7bmzW.png)
 
 ## Quick to Start
 
@@ -43,21 +43,21 @@ Size|23.48mm×31.28mm
 
 Take sensor:bit for example
 
-![](./images/ef04078_08.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/ef04078_08.jpg)
 
 ### Add Package
 
 Click "Advanced"in the choice of the MakeCode to find more choices.
 
-![](./images/smtcNoB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
 
 Click “Extensions” to search with "https://github.com/elecfreaks/pxt-gesture" in the dialogue box and download the package of the Gesture sensor.
 
-![](./images/ef04078_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/ef04078_05.png)
 
 ### Program as the picture shows
 
-![](./images/ef04078_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/ef04078_06.png)
 
 ### Reference
 Links:[https://makecode.microbit.org/_2tdKR1cuxba3](https://makecode.microbit.org/_2tdKR1cuxba3)
@@ -88,7 +88,7 @@ You can also download the links below:
 ### Result
  The direction of the arrow displaying on the micro:bit changes with the different gestures of your hands.
 
-![](./images/ef04078_07.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/ef04078_07.gif)
 
 ## Relevant Cases
 

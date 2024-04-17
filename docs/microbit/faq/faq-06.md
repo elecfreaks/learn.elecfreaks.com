@@ -1,4 +1,4 @@
-# FAQ 06
+﻿# FAQ 06
 
 ## Q: Cutebot可以正常开机，但是无法行驶。
 
@@ -11,4 +11,4 @@ A：请按照以下步骤检查：
 
 **安装超声波传感器时，请注意区分插入接口，应插入SONAR接口**
 
-![](./images/FAQ-microbit-06-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/faq/images/FAQ-microbit-06-01.png)

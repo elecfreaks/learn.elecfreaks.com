@@ -1,4 +1,4 @@
-# Case 08: Auto Drinking Device
+﻿# Case 08: Auto Drinking Device
 
 
 ##  Introduction
@@ -17,14 +17,14 @@
 
 ## Picture
 ---
-![](./images/microbit-Smart-City-Kit-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-02.png)
 
 ## Hardware Connection
 ---
 
 Connect the sonar:bit to P1 and the servo to P2 port on IoT:bit.
 
-![](./images/microbit-Smart-City-Kit-case-03-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-03-03.png)
 
 ## Software Program
 
@@ -32,15 +32,15 @@ Connect the sonar:bit to P1 and the servo to P2 port on IoT:bit.
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](./images/microbit-Smart-City-Kit-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-04.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "iot-environment-kit" in the dialogue box to download it.
 
-![](./images/microbit-Smart-City-Kit-case-01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-05.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "servo" in the dialogue box to download it.
 
-![](./images/microbit-Smart-City-Kit-case-01-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-06.png)
 
 ***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -49,16 +49,16 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 ---
 Save the returned value of the of the ultrasonic sound sensor as the variable "ultrasonic_distance".
 
-![](./images/microbit-Smart-City-Kit-case-03-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-03-07.png)
 
 Judge if there is anyone approaching through the value of the "ultrasonic_distance", as the detection range of the of the ultrasonic sound sensor is 4~400cm, any detections not in this range should get a "0" as the returned value, thus, we need to set the max. and the min. value to the threshold.
 
-![](./images/microbit-Smart-City-Kit-case-03-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-03-08.png)
 
 If the returned value is in the threshold, it means there is someone approaching to get water, program to drive the servo to open the water valve; or program to close it.
 
 
-![](./images/microbit-Smart-City-Kit-case-03-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-03-09.png)
 
 Link: [https://makecode.microbit.org/_LP22ogi0t1KJ](https://makecode.microbit.org/_LP22ogi0t1KJ)
 

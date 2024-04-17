@@ -1,4 +1,4 @@
-# Case 01: Aircraft Battle
+﻿# Case 01: Aircraft Battle
 
 ## Purpose
 
@@ -11,7 +11,7 @@ Create a game of aircraft battle via the Retro.
 
 
 
-![](./images/retro-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-01.png)
 
 
 
@@ -25,15 +25,15 @@ Create a game of aircraft battle via the Retro.
 
 Create a spirite project, set move it with buttons and set it stay in screen with "on" and start screen with clouds.
 
-![](./images/retro-case-02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-02-01.png)
 
 Set life to 3 in the on start block. Choose on game update every seconds block and set it as 1 sec, set the projectile catapult  from side VX 0 VY 50. Set change life by -1 while crashing the enemy and destroy it.
 
-![](./images/retro-case-03-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-03-02.png)
 
 While pressing button A, launch the projectiles from the spirite, set the speed from X as 0 and Y as -70. Set the effect of the projectiles in fire, when that projectile crashes onto the enemies, both of them are destroyed and the score plus 1.
 
-![](./images/retro-case-03-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-03-03.png)
 
 
 
@@ -70,23 +70,23 @@ You may download it directly below:
 ## Downloading Program
 After programming, connect the computer with the Retro via the USB cable.
 
-![](./images/retro-case-01-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-10.png)
 
 Choose hardware "F4".
 
-![](./images/retro-case-01-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-11.png)
 
 Match the devices and get connected with "Arcade (app)".
 
-![](./images/retro-case-01-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-12.png)
 
 Click the reset button on the Retro and go to the downloading page.
 
-![](./images/retro-case-01-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-13.png)
 
 Click downloading to compile the program into the Retro.
 
-![](./images/retro-case-01-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-14.png)
 
 
 ## Conclusion

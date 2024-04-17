@@ -5,7 +5,7 @@
 
 It comes with 8 Rainbow full color LEDs. You can update it to a car with auto-headlights and rainbow lights.
 
-![](./images/Rainbow_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/Rainbow_01.png)
 
 ## Features
 
@@ -32,7 +32,7 @@ Each led can be programmed seperately with RGB color.
 
 ## Outlook and Dimensions
 
-![](./images/Rainbow_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/Rainbow_02.png)
 
 ---
 

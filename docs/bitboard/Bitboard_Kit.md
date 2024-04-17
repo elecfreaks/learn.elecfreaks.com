@@ -1,11 +1,11 @@
-# 哔啵小熊板
+﻿# 哔啵小熊板
 
 ## 简介
 ---
 
 哔啵小熊板可将万物化作键盘。使用它可以学习电路，创作音乐，制作游戏……有了它，世界万物都是你的创作工具。在思绪泉涌时运用手中的键盘敲击出你想要的画面和内容，通过小熊板都可以实现，只需要简单的图形益智类编程，简单易懂的思维逻辑语句，简单的拼接，可以自由选择的音量、颜色、画笔粗细、移动方向、魔术般变化，都可以通过小熊板化虚为实，体验极致的想象力盛宴。
 
-![](./images/Bitboard_Kit_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_01.png)
 
 ## 购买链接
 ---
@@ -30,7 +30,7 @@
 
 ## 发货清单
 
-![](./images/Bitboard_Kit_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_04.png)
 
 注意：
 1、拆封前，请检查是否出现破损或刮擦划痕等破损情况，可及时与售后人员联系
@@ -61,9 +61,9 @@ GND键：任何触发结果联动前必须将GND键接地，可以通过连接�
 
 导电材料：铜箔胶带
 
-![](./images/Bitboard_Kit_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_02.png)
 
-![](./images/Bitboard_Kit_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_03.png)
 
 
 ## 快速上手
@@ -79,49 +79,49 @@ GND键：任何触发结果联动前必须将GND键接地，可以通过连接�
 5、点击右上角框图小屏幕中的左上角的绿色旗按钮，点击后即可运行
 6、直接通过触碰各按钮运行程序各功能模块
 
-![](./images/Bitboard_Kit_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_05.png)
 
 ### 硬件快速上手图解
 
-![](./images/Bitboard_Kit_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_06.png)
 
 ### ecode网站编程上手图解
 
 1、点击下方图示界面的”开始创作按钮：
 
-![](./images/Bitboard_Kit_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_07.png)
 
 2、进入主界面
 
-![](./images/Bitboard_Kit_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_08.png)
 
 3、点击左上角代码按钮
 
-![](./images/Bitboard_Kit_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_09.png)
 
 4、左侧显示的是功能模块类型，可以自由选择想要输入的图形块代码的功能
 
-![](./images/Bitboard_Kit_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_10.png)
 
 5、代码类型右侧会显示代码具体所属类型的图形块代码，如下图是“运动”板块的代码，在此可以自由选择需要的代码块拖动至右侧代码设计界面
 
-![](./images/Bitboard_Kit_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_11.png)
 
 6、代码的右侧是代码设计界面，在此可以自由设计你将要运行的代码程序
 
-![](./images/Bitboard_Kit_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_12.png)
 
 7、右侧是最终展示界面（即主舞台），初始进入时默认显示一只猫，后面可以自由更改内容（包括图形、文字、图片等）
 
-![](./images/Bitboard_Kit_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_13.png)
 
 8、注意最终展示界面（即主舞台）左上角有绿旗和红色八边形按钮【绿旗：开始运行代码程序；红圈：停止运行代码程序】
 
-![](./images/Bitboard_Kit_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_14.png)
 
 9、右侧主舞台下方有针对对象的设置参数模块，可以自由设置想要设定的对象
 
-![](./images/Bitboard_Kit_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_15.png)
 
 10、默认选择的设置角色为初始的猫，可以自由添加想要的角色，可以在右侧中设置，设置方法如下图
 
@@ -129,61 +129,61 @@ GND键：任何触发结果联动前必须将GND键接地，可以通过连接�
 
 首先选择放大镜按钮
 
-![](./images/Bitboard_Kit_16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_16.png)
 
 再选择自己想要的对象
 
-![](./images/Bitboard_Kit_17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_17.png)
 
 2）绘制一个自定义对象
 
 首先点击绘制按钮
 
-![](./images/Bitboard_Kit_18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_18.png)
 
 再进入界面后自由绘制
 
-![](./images/Bitboard_Kit_19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_19.png)
 
 也可以在初始界面的左上角“代码”右侧的“造型”按钮直接绘制
 
-![](./images/Bitboard_Kit_20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_20.png)
 
 3）也可以选择随机选项，随机生成对象
 
-![](./images/Bitboard_Kit_21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_21.png)
 
 4）也可以选择“上传角色”
 
 首先点击“上传角色”按钮
 
-![](./images/Bitboard_Kit_22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_22.png)
 
 再点击自己想要的图片上传即可
 
-![](./images/Bitboard_Kit_23.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_23.png)
 
 11、背景模块也可以单击，进行全面设置，设置方式与基础人物或图片对象一样（即同上），其界面在右下角的人物/图片设置右侧：（单击“舞台”按钮可以切换至针对舞台设置的模式）
 
-![](./images/Bitboard_Kit_24.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_24.png)
 
 12、同理，也可以在声音界面找到设置的具体参数，自定义需要的声音
 
-![](./images/Bitboard_Kit_25.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_25.png)
 
 PS：
 
 另外，也可以设置你想要的语言体系
 
-![](./images/Bitboard_Kit_26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_26.png)
 
 也可以在电脑中上传已有的代码文件或保存已编辑好的文件放入电脑中，也可以插入新作品来覆盖原有内容
 
-![](./images/Bitboard_Kit_27.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_27.png)
 
 另外，也可以复原不小心删除的内容，也可以打开加速模式（加快代码的运行速度）
 
-![](./images/Bitboard_Kit_28.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/Bitboard_Kit_28.png)
 
 ## 常见问题
 

@@ -5,7 +5,7 @@ sidebar_label: 光敏二极管
 
 # 光敏二极管
 
-![](./images/pico-ed-starter-kit-case-04-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-04-01.png)
 
 ## 简介
 光敏二极管是一种半导体材料制成的电阻，其电导率随着光照强度的变化而变化。 利用这一特性制成不同形状和受光面积的光敏二极管。 光线越强阻值就越低，光控开关通常就是以光敏二极管为核心元件。光敏二极管广泛应用于玩具、灯具、照相机等行业。这节课程中，我们要根据光敏二极管收到的光照强度不同，在 Pico:ed 上面显示不同信息。
@@ -21,14 +21,14 @@ sidebar_label: 光敏二极管
 1 × 10k欧姆电阻
 若干杜邦线
 
-![](./images/pico-ed-starter-kit-case-04-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-04-02.png)
 
 ## 主要元件介绍
 
 ### 光敏二极管
 光敏二极管是用 CdS 或 CdSe 等半导体材料制成的特殊电阻器，其工作原理是基于内光电效应。光照愈强，阻值就愈低，随着光照强度的升高，电阻值迅速降低，亮电阻值可小至1KΩ以下。光敏二极管对光线十分敏感，其在无光照时，呈高阻状态，暗电阻一般可达1.5MΩ。
 
-![](./images/pico-ed-starter-kit-case-04-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-04-03.png)
 
 ## 实验步骤
 
@@ -38,11 +38,11 @@ sidebar_label: 光敏二极管
 1. 将光敏二极管与P0口连接；
 2. 将10kΩ电阻与光敏二极管串联。
 
-![](./images/pico-ed-starter-kit-case-04-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-04-04.png)
 
 连接完成后如图：
 
-![](./images/pico-ed-starter-kit-case-04-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-04-05.png)
 
 ## 程序编程
 编程环境准备请参考：[编程环境介绍](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
@@ -95,7 +95,7 @@ while True:
 ## 实验结果
 开灯时，Pico:ed的LED屏幕上显示“Bright”，而关灯后，屏幕上显示“Dark”。
 
-![](./images/pico-ed-starter-kit-case-04.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-04.gif)
 
 ## 思考
 如果想要用光敏二极管来控制一颗 LED 的开与关，那么我们该如何设计电路与编程？

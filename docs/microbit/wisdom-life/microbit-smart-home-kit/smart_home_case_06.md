@@ -1,4 +1,4 @@
-# 案例06 智能遥控开门器
+﻿# 案例06 智能遥控开门器
 
 ## 目的
 ---
@@ -11,7 +11,7 @@
 - 1 X [智能家居套件（含主板）](https://item.taobao.com/item.htm?ft=t&id=609328225464)
 - 剪刀，胶水，白纸和一些瓦楞纸板
 
-![](./images/NKJyemH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/NKJyemH.jpg)
 
 ## 背景知识
 ---
@@ -34,22 +34,22 @@
 - 准备剪刀，胶水和一些瓦楞纸板。
 - 在纸板上贴好你准备好的小纸片，并将瓦楞纸板剪裁成需要的样子。
 
-![](./images/CKIwMbh.jpg)
-![](./images/Svav9XC.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/CKIwMbh.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/Svav9XC.jpg)
 - 搭建成如图样式：
 
 正面：
 
-![](./images/cHJ6Tup.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/cHJ6Tup.jpg)
 
 
 背面：
 
-![](./images/oTuc2q4.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/oTuc2q4.jpg)
 
 将元器件按如图摆放黏贴。
 
-![](./images/ztjY4AQ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/ztjY4AQ.jpg)
 
 
 ## 硬件连接图
@@ -58,7 +58,7 @@
 扩展板P2口连接碰撞电子积木
 扩展板P8口连接180度舵机
 micro:bit连接上电池盒
-![](./images/p6ZtIJS.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/p6ZtIJS.jpg)
 
 ## 软件
 ---
@@ -71,11 +71,11 @@ micro:bit连接上电池盒
 
 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
-![](./images/smart_home_kit_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_01_01.png)
 
 为了给智慧家居套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索“smarthome"，然后点击下载这个代码库。
 
-![](./images/smart_home_kit_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_01_02.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可
 
@@ -91,7 +91,7 @@ micro:bit连接上电池盒
 最后将开门的变量设置为open，将开门这个变量的初始化值设置为不开门，即false。
 
 
-![](./images/smart_home_kit_case_06_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_06_03.png)
 
 ### 步骤 3
 初始化变量noise，用来保存接收到的噪声的数值；
@@ -99,7 +99,7 @@ micro:bit连接上电池盒
 判断噪声值是否大于70分贝，当大于70分贝，说明有人来敲门了，在OLED显示器上显示“somebody out”；
 拖入clear OLED display和show string 模块用来显示提示信息。
 
-![](./images/smart_home_kit_case_06_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_06_04.png)
 
 ### 步骤 4
 判断从碰撞传感器模块传来的值的变化，使用积木块“数字读取引脚”积木块读取碰撞传感器的值，即P2口的值的变化情况；
@@ -107,13 +107,13 @@ micro:bit连接上电池盒
 判断门是否应该被打开，open变量的值为true，使用“向伺服机构引脚”，将P8口的舵机的值设置为0；
 然后设置暂停时间三秒钟，即开门时间为三秒钟。
 
-![](./images/smart_home_kit_case_06_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_06_05.png)
 
 ### 步骤 5
 
 当前面两个的判断不成立时，设置舵机状态为舵机为180度状态，然后OLED显示屏显示nobody，即无需开门。
 
-![](./images/smart_home_kit_case_06_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_06_06.png)
 
 ### 程序
 
@@ -148,7 +148,7 @@ micro:bit连接上电池盒
 - 按下按钮，门自动打开3秒，三秒过后门自动关闭。
 - 没有检测到人时，OLED显示屏显示“Nobody”。
 
-![](./images/ioUPGkB.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/ioUPGkB.gif)
 
 ## 思考
 ---

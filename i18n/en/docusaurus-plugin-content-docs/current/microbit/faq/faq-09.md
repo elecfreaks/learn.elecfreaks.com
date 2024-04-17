@@ -1,4 +1,4 @@
-# FAQ 09
+﻿# FAQ 09
 
 ## Q: While using the joystick:bit, I found that the keys were out of control.
 

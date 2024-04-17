@@ -1,10 +1,10 @@
-# 声音传感器电子积木
+﻿# 声音传感器电子积木
 
 ## 简介
 ---
 - OCTOPUS声音传感器是一种基于MIC声音传感元件的传感器模块。声音传感器对声音强度特别敏感，它可用于检测环境声级，但无法识别声音的大小和特定的声音频率。 它可用于制作语音交换机和其他工作。
 
- ![](./images/RYuGvVY.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/RYuGvVY.jpg)
 
 ## 特性
 ---
@@ -37,7 +37,7 @@ SKU|EF04008
 
 ***以sensor:bit为例***
 
- ![](./images/ALobDLt.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/ALobDLt.png)
 
 
 
@@ -46,7 +46,7 @@ SKU|EF04008
 
 
 
-![](./images/04008_3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04008_3.png)
 
 
 

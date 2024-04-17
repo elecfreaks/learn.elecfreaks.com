@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 7
 sidebar_label: case 07 Walk The Grid
 ---
@@ -9,7 +9,7 @@ sidebar_label: case 07 Walk The Grid
 
 This course aims to enable students to learn and explore the relevant knowledge points of trolley motor control and program design and apply this knowledge to realize the function of the trolley driving according to the preset grid.
 
-![](./images/cutebot-pro-case-06-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-06-01.png)
 
 ## teaching objectives
 
@@ -31,7 +31,7 @@ We can control the car to travel according to a certain number of steps and step
 
 ### Sample Code
 
-![](./images/cutebot-pro-case-07-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-07-02.png)
 
 
 Link：[https://makecode.microbit.org/_V5pY4b6eJPhc](https://makecode.microbit.org/_V5pY4b6eJPhc)

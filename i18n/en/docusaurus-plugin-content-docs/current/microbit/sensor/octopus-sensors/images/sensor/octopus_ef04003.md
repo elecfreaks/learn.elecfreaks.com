@@ -1,11 +1,11 @@
-# Octopus Flame Sensor(EF04003)
+﻿# Octopus Flame Sensor(EF04003)
 
 ## Introduction
 
  It can be used to detect the source of fire.
 
 
-![](./images/04003_1.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04003_1.jpg)
 
 ## Products Link
 
@@ -45,7 +45,7 @@ Pins Definition|1-Signal 2-VCC 3-GND
 ### Programme as the picture shows
  It shows different icons according to the value detected from the Flame Sensor. If no source of fire being detected, the returned value is 0 and it shows a smile; or it shows other icons. 
 
-![](./images/04003_2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04003_2.png)
 
 ### Reference
 

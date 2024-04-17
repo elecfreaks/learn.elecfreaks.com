@@ -1,4 +1,4 @@
-# Case 05: Pedometer
+﻿# Case 05: Pedometer
 
 ## Purpose
 
@@ -9,7 +9,7 @@
  1 x [ELECFREAKS micro:bit Smart Coding Watch Kit](https://www.elecfreaks.com/micro-bit-smart-coding-kit.html)
 
 
-![](./images/smart_coding_kit_case_05_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_05_01.png)
 
 
 ## Software
@@ -23,7 +23,7 @@
 
 
 
-![](./images/smart_coding_kit_case_05_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_05_02.png)
 
 
 

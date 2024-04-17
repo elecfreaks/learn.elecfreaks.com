@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 5
 sidebar_label: remote door opener
 ---
@@ -10,7 +10,7 @@ sidebar_label: remote door opener
 
 When someone visits the house, press the crash sensor, at this time the micro:bit at the lock end sends a signal to inform the micro:bit at the remote control end, when it receives the signal, it will display a pattern, at this time, if you press button A of the remote control end, the micro:bit at the lock end will display a smiley face, and it will control the servo to open the door, and display "Welcome" on the OLED display. If press button B, the micro:bit on the door lock side will display the x icon and display "Refused to enter" on the OLED display.
 
-![](./images/remote-door-opener-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-01.png)
 
 ## Materials Requested
 
@@ -56,13 +56,13 @@ The control line is used to transmit the angle control signal. This angle is det
 >2.0ms———–135 degrees；
 >2.5ms———–180 degrees；
 
-![](./images/remote-door-opener-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-02.gif)
 
 ## Hardware Connections
 
 Connect the crash sensor to P2 and the servo to P1 on the IoT:bit board. 
 
-![](./images/remote-door-opener-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-02.png)
 
 ## Software Programming
 
@@ -72,15 +72,15 @@ Go to [makecode](https://makecode.microbit.org/)
 
 Click "Create Project" and give a name of your project, then click "Create". 
 
-![](./images/remote-door-opener-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-03.png)
 
 Click "Extensions"
 
-![](./images/remote-door-opener-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-04.png)
 
 Search with "servo" and download the servo extension. 
 
-![](./images/remote-door-opener-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-05.png)
 
 ### Installation Instructions
 
@@ -88,7 +88,7 @@ Before installing the servo, the servo angle needs to be adjusted.
 
 When button A is pressed, the servo connected to P1 is controlled to rotate to 90 degrees.
 
-![](./images/remote-door-opener-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-06.png)
 
 Program and download the program:
 
@@ -114,7 +114,7 @@ initialise the servo angle to 90°;
 
 set the P2 pin pull-up.
 
-![](./images/remote-door-opener-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-07.png)
 
 In the "Forever" block, judge if the crash sensor connected to pin P2 is pressed or not.
 
@@ -122,7 +122,7 @@ If yes, the number 1 is sent wirelessly with a delay of 200ms to prevent key jit
 
 Otherwise, the number 0 is sent wirelessly.
 
-![](./images/remote-door-opener-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-08.png)
 
 When a signal is received for wireless communication;
 
@@ -142,7 +142,7 @@ The micro:bit displays an error icon and pauses for 5000ms;
 
 clear the OLED display and the micro:bit shows the heart icon;
 
-![](./images/remote-door-opener-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-09.png)
 
 
 Program link: [https://makecode.microbit.org/S43729-79384-22654-20945](https://makecode.microbit.org/S43729-79384-22654-20945)
@@ -157,7 +157,7 @@ set the micro:bit displays the heart icon to ensure that the programm has been d
 
 set the variable `key` to false.
 
-![](./images/remote-door-opener-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-10.png)
 
 When a signal is received for wireless communication;
 
@@ -169,7 +169,7 @@ if the received signal is 0;
 
 then set the value of the variable `radio` to 0;
 
-![](./images/remote-door-opener-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-11.png)
 
 Judge the value of the variable `radio` in the "forever" block.
 
@@ -187,7 +187,7 @@ when key B is pressed, the micro:bit displays an error icon, wireless communicat
 
 when the variable `key` is false, the loop is automatically jumped out and the micro:bit displays the heart icon.
 
-![](./images/remote-door-opener-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-12.png)
 
 
 Link: [https://makecode.microbit.org/S60091-73106-37070-71707](https://makecode.microbit.org/S60091-73106-37070-71707)
@@ -198,4 +198,4 @@ When someone visits the house, press the crash sensor, at this time the micro:bi
 
 If press button B, the micro:bit on the door lock side will display the x icon and display "Refused to enter" on the OLED display.
 
-![](./images/remote-door-opener.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener.gif)

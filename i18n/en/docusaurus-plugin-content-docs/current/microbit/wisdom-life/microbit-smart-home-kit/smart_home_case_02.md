@@ -1,6 +1,6 @@
-# case 02 Smart Fan
+﻿# case 02 Smart Fan
 
-![](./images/abtHWmp.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/abtHWmp.jpg)
 ## Goal
 
 
@@ -23,30 +23,30 @@
 ### What is smart temperature control fan
  The room will at high temperature when temperature degree is higher than 30° and make people feel uncomfortable.The temperature sensor will send this signal to micro:bit，and micro:bit send this signal to the fan. Then, the fan will drive until the degree of room under 30° to keeping room at comfortable temperature.
 
-![](./images/06g0wlF.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/06g0wlF.png)
 
 ## Practical operation
 
 Materials: corrugated board and cutter
 
-![](./images/PuJE7uj.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/PuJE7uj.jpg)
 
 Build as below picture：
 
-![](./images/5sc9bid.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/5sc9bid.jpg)
 
 Side
 
-![](./images/hvnmUhO.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/hvnmUhO.jpg)
 
 Paste devices as below piture:
 
-![](./images/C1lu2Vz.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/C1lu2Vz.jpg)
 
 ## Hardware connect
 
 
-![](./images/hkOaYEu.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/hkOaYEu.png)
 
 ## Software
 
@@ -60,22 +60,22 @@ Edge Connector Data Sheet
 
 Go to MakeCode page, click Advanced in the code block and click on Extensions.
 
-![](./images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/2qCyzQ7.png)
 
 We need to add a new codebase for programming of smart home. Finding “Add Package” in the bottom of code block and click it. Then a message box will show up, search “smart home"， and download this new codebase.
 
-![](./images/QR2s7LD.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/QR2s7LD.png)
 
 ***Note:*** If there is a hint says some codebase will be deleted because of incompatibility. Don't worry. You could go ahead as the hint or build a new item in item menu bar.
 
 ### Step 2
 Drag on start block from Basic and drag initialize OLED block from OLED, change height to 64, width to 128.
 
-![](./images/NSOCUxe.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/NSOCUxe.png)
 
 Drag forever block from Basic, add temp variables in Variable, then drag set item to snap into forever, change item to temp and drag value of temperature behind it. Change value of temperature to ℃ and at pin to P1.
 
-![](./images/wPfZA5F.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/wPfZA5F.png)
 
 ### Step 3
 
@@ -83,19 +83,19 @@ Now let's start OLED code.
 
 Drag clear OLED display under set temp to. Then,drag show (without newline) string ‘Temperature’ under clear OLED display. Last, drag show(without newline) number temp."Without newline" is for newline displaying string and temperature value.
 
-![](./images/gZwzVGd.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/gZwzVGd.png)
 
 ### Step 4
 
 Our goal is using micro:bit driving the fan when the value of temperature is higher than 30°, so temp>30 is a judgement condition. In that way, we need drag "if else" from Logic, set temp>30.
 
-![](./images/Ys6Hcm3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/Ys6Hcm3.png)
 
 ### Step 5
 
 We add start melody repeating under if ,set melody to ba ding and repeat once，micro:bit will send signal to fan through P2. Then set fan works 5 seconds and stops 5 seconds. The temperature sensor judge whether go loop by gotting the temperature degree. Else means if above condistion were false, the fan will keep rest.
 
-![](./images/FHAWwTm.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/FHAWwTm.png)
 
 ### Programming
 
@@ -127,11 +127,11 @@ You also could directly download program visit website as below:
 
 When temperature degree is higher than 30°, buzzer "ba ding" , fan driving to keep room comfortable.
 
-![](./images/mv5oVws.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/mv5oVws.jpg)
 
 When temperature degree is less than 30°，the fan will automatically stop, and the room at comfortable temperature.
 
-![](./images/Rtptdzw.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/Rtptdzw.jpg)
 
 ## Think
 

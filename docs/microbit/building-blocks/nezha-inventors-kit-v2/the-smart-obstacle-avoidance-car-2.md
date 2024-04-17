@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 27
 ---
 
@@ -9,7 +9,7 @@ sidebar_position: 27
 在这个课程中，我们将一起制作一辆智能避障车，利用哪吒发明家套装V2、超声波传感器以及舵机控制转向的技术。我们将学习超声波传感器的工作原理，了解它如何帮助机器人感知周围的环境，同时探索汽车前桥结构的知识点，以实现车辆的转向功能。通过这个项目，我们将培养创造力、问题解决和团队合作的能力，同时了解机器人技术的应用和机械结构的原理。
 
 
-![](./images/nezha-inventors-kit-v2-case-26-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-26-01.png)
 
 
 
@@ -59,93 +59,93 @@ sidebar_position: 27
 
 ##### 搭建步骤
 
-![](./images/nezha-inventors-kit-v2-step-26-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-01.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-02.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-03.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-04.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-05.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-06.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-07.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-08.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-09.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-10.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-11.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-12.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-13.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-14.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-15.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-16.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-17.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-18.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-19.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-20.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-21.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-22.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-23.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-23.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-24.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-24.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-25.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-25.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-26.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-27.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-27.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-28.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-28.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-29.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-29.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-30.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-30.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-31.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-31.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-32.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-32.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-33.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-33.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-34.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-34.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-35.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-35.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-36.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-36.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-37.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-37.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-38.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-38.png)
 
-![](./images/nezha-inventors-kit-v2-step-26-39.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-26-39.png)
 
 **搭建完成**
 
-![](./images/nezha-inventors-kit-v2-case-26-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-26-01.png)
 
 ##### 硬件连接
 
 将超声波传感器连接到哪吒扩展板的J1接口，电机连接到哪吒扩展板的M1接口，舵机连接到哪吒扩展板的S1接口。
 
-![](./images/nezha-inventors-kit-v2-case-26-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-26-02.png)
 
 ##### 软件编程
 
@@ -153,23 +153,23 @@ sidebar_position: 27
 
 新建项目
 
-![](./images/nezha-inventors-kit-v2-case-19-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-03.png)
 
 点击扩展
 
-![](./images/nezha-inventors-kit-v2-case-19-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-04.png)
 
 在搜索栏搜索`PlanetX`添加行星系列传感器的扩展库
 
-![](./images/nezha-inventors-kit-v2-case-19-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-05.png)
 
 在搜索栏搜索`nezha`添加哪吒扩展板的扩展库
 
-![](./images/nezha-inventors-kit-v2-case-19-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-06.png)
 
 编写程序
 
-![](./images/nezha-inventors-kit-v2-case-26-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-26-07.png)
 
 
 程序链接:[https://makecode.microbit.org/_3TU8LhT3KWW6](https://makecode.microbit.org/_3TU8LhT3KWW6)
@@ -204,7 +204,7 @@ sidebar_position: 27
 
 当有障碍物阻挡在小车面前，小车会转向行驶。
 
-![](./images/nezha-inventors-kit-v2-case-26.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-26.gif)
 
 ### 反思
 

@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 4
 sidebar_label: 下载和安装软件
 ---

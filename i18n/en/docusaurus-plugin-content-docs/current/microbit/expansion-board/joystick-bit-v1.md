@@ -1,10 +1,10 @@
-# Joystick:bit V1(EF03407)
+﻿# Joystick:bit V1(EF03407)
 
 ## Introduction
 ---
 Joystick:bit is a game joystick based on Micro:bit. On the board, it has integrated a joystick and 6 undefined keys. It is very convenient for users to extend different communication modules because it has extended connectors like GVS, IIC, SPI, UART. Besides, it has built-in power switch and outer power connector. It is very good to use.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v1_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v1_01.jpg)
 
 
 ## Packing List
@@ -38,40 +38,40 @@ Joystick:bit is a game joystick based on Micro:bit. On the board, it has integra
 ## Definition of Pins
 ---
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v1_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v1_02.png)
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v1_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v1_03.png)
 
 ### More Details about Some Pin Connectors
 
 1.G / V(3.3V) / P3 / P4 / P6 are connectors for GVS electric bricks. Among it, P3 / P4 are connectors for analog / PWM / digital connectors, which can help you connect servos and various sensors conveniently.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v1_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v1_04.png)
 
 2.UART Connector: V (3.3V) / G / TX / RX / S are serial port connectors. It is compatible with the common wireless communication modules like HC08 / HC11.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v1_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v1_05.png)
 
 3.I2C Communication Connector: GND / VCC(3.3V) / SCL / SDA are standard I2C connector. It is compatible with 3.3V I2C sensors and devices.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v1_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v1_06.png)
 
 4.SPI Communication Connector：V / G / CS / RS / AO / DA / CK correspond to the connector of TFT 1.8 inch LCD module. It can directly compatible with TFT 1.8 inch LCD module, including SPI communication connector on micro:bit board.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v1_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v1_07.png)
 
 
 ## Dimensions
 ---
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v1_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v1_08.png)
 
 ## Program
 ---
 
 Code Example:
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v1_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v1_09.png)
 
 Press button "1", LED displays "1".
 

@@ -1,4 +1,4 @@
-# 案例04：计数器
+﻿# 案例04：计数器
 
 ## 目的
 ---
@@ -11,7 +11,7 @@
 
 
 
-![](./images/smart_coding_kit_case_04_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_04_01.png)
 
 
 
@@ -27,7 +27,7 @@
 - 当开机时显示爱心图标，并将变量`i`设为0；设置当按钮`A`被按下时使i=i+1，当按钮`B`被按下时使i=i-1，在无限循环中使用显示数字积木块显示变量`i`的值。
 
 
-![](./images/smart_coding_kit_case_04_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_04_02.png)
 
 
 

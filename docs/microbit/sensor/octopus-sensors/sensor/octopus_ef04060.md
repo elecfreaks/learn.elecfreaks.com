@@ -4,7 +4,7 @@
 MQ-3气体传感器所使用的气敏材料是在清洁空气中电导率较低的二氧化锡(SnO2)。当传感器所处环境中存在酒精蒸汽时，传感器的电导率随空气中酒精气体浓度的增加而增大。
 
 
-![](./images/04060_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04060_01.png)
 
 
 
@@ -33,7 +33,7 @@ SKU|EF04060
 
 
 
-![](./images/04060_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04060_02.png)
 
 
 
@@ -49,7 +49,7 @@ SKU|EF04060
 
 
 
-![](./images/04060_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04060_03.png)
 
 
 *注意：*由于器件耗电量过大，所以必须使用扩展板的USB接口供电，目前支持USB接口供电的扩展板有iot:bit和悟空扩展板。
@@ -58,7 +58,7 @@ SKU|EF04060
 
 
 
-![](./images/04060_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04060_04.png)
 
 
 ### 参考程序
@@ -99,13 +99,13 @@ SKU|EF04060
 下载压缩包并解压[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_07.png)
 
 为了给MQ3气体传感器编程，我们需要添加ethanol.py。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的Octopus_MicroPython-master文件夹，从中选择ethanol.py添加进来。
 
-![](./images/05001_08.png)
-![](./images/05001_09.png)
-![](./images/04060_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04060_10.png)
 
 ### 步骤 2
 ### 参考程序

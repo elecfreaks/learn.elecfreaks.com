@@ -1,4 +1,4 @@
-# Octopus Analog Capacitive Soil Moisture Sensor(EF04097)
+﻿# Octopus Analog Capacitive Soil Moisture Sensor(EF04097)
 
 ## Introduction
 
@@ -6,7 +6,7 @@ Octopus Analog Capacitive Soil Moisture Sensor is the soil moisture electric bri
 
 Adopted the capacitive sensing principle to detect the soil moisture, it perfectly avoids the problem of easy to be corroded of the resistive transducer and greatly extends its service time.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitSensor/sensor/images/04097_00.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04097_00.jpg)
 
 ## Products Link
 
@@ -29,7 +29,7 @@ Adopted the capacitive sensing principle to detect the soil moisture, it perfect
 
 ### Dimensions and Outlook
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitSensor/sensor/images/04097_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04097_01.png)
 
 ## Quick to Start
 
@@ -37,7 +37,7 @@ Adopted the capacitive sensing principle to detect the soil moisture, it perfect
 
 Connect the module with the wire(with buckle) to the PI pins on the Octopus:bit, insert the micro:bit to the Octopus:bit.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitSensor/sensor/images/04097_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04097_02.png)
 
 ### Software Programming
 

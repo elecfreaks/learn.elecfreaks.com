@@ -1,6 +1,6 @@
-# Ring:bit v2.0(EF03423)
+﻿# Ring:bit v2.0(EF03423)
 
-![](./images/zoH1NRm.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/zoH1NRm.jpg)
 ## Introduction of Ring:bit car 2
 ---
 
@@ -21,22 +21,22 @@ The ELECFREAKS Ring:bit Car is a small DIY smart car driven by the BBC micro:bit
 
 |Components|Numbers|Pictures|
 |:-:|:-:|:-:|
-|micro:bit|Optional| ![](https://www.elecfreaks.com/learn-en/_images/qd2qCry.png) |
-|Ring:bit Expansion Board|1| ![](https://www.elecfreaks.com/learn-en/_images/y42umRI.jpg) |
-|Ring:bit Car Expansion Board|1| ![](https://www.elecfreaks.com/learn-en/_images/FISsc91.jpg) |
-|Ring:bit Car Front Board|1| ![](https://www.elecfreaks.com/learn-en/_images/fsGQx7H.png) |
-|Ring:bit Car Back Board|1| ![](https://www.elecfreaks.com/learn-en/_images/wy2UOVu.jpg) |
-|Ring:bit Car Base Board|1| ![](https://www.elecfreaks.com/learn-en/_images/XmJFP0l.jpg) |
-|Ring:bit Car Side Board|2| ![](https://www.elecfreaks.com/learn-en/_images/N8GdGB3.jpg) |
-|Ring:bit Car Wheel|2| ![](https://www.elecfreaks.com/learn-en/_images/HnkSTMd.jpg) |
-|Binding Post|1| ![](https://www.elecfreaks.com/learn-en/_images/7gvcsGF.jpg) |
-|360° Servo|2| ![](https://www.elecfreaks.com/learn-en/_images/U3XGnyB.jpg) |
-|Castor Wheel|1| ![](https://www.elecfreaks.com/learn-en/_images/Ky220DU.jpg) |
-|Screw|5| ![](https://www.elecfreaks.com/learn-en/_images/LqTtuBl.jpg) |
-|Tapping Screw|5| ![](https://www.elecfreaks.com/learn-en/_images/SIgzxED.jpg)|
-|Rivet|2| ![](https://www.elecfreaks.com/learn-en/_images/dYrPAoC.jpg) |
-|Screwdriver|1| ![](https://www.elecfreaks.com/learn-en/_images/NbE9vox.jpg) |
-|Rubber Band|1| ![](https://www.elecfreaks.com/learn-en/_images/LKjqmwk.jpg) |
+|micro:bit|Optional| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/qd2qCry.png) |
+|Ring:bit Expansion Board|1| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/y42umRI.jpg) |
+|Ring:bit Car Expansion Board|1| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FISsc91.jpg) |
+|Ring:bit Car Front Board|1| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/fsGQx7H.png) |
+|Ring:bit Car Back Board|1| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wy2UOVu.jpg) |
+|Ring:bit Car Base Board|1| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/XmJFP0l.jpg) |
+|Ring:bit Car Side Board|2| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/N8GdGB3.jpg) |
+|Ring:bit Car Wheel|2| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/HnkSTMd.jpg) |
+|Binding Post|1| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/7gvcsGF.jpg) |
+|360° Servo|2| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/U3XGnyB.jpg) |
+|Castor Wheel|1| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ky220DU.jpg) |
+|Screw|5| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/LqTtuBl.jpg) |
+|Tapping Screw|5| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/SIgzxED.jpg)|
+|Rivet|2| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/dYrPAoC.jpg) |
+|Screwdriver|1| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NbE9vox.jpg) |
+|Rubber Band|1| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/LKjqmwk.jpg) |
 
 
 

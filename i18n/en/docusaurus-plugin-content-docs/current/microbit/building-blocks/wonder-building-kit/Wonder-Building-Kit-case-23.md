@@ -1,10 +1,10 @@
-# Case 23: The Locomotive
+﻿# Case 23: The Locomotive
 
 ## Purpose
 ---
 Make a locomotive.
 
-![](./images/Wonder-Building-Kit-case-23-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-23-01.png)
 
 ## Link:
 ---
@@ -12,79 +12,79 @@ Make a locomotive.
 
 ## Materials Required
 ---
-![](./images/Wonder-Building-Kit-step-case-23-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-01.png)
 
 ## Bricks build-up
 ---
-![](./images/Wonder-Building-Kit-step-case-23-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-02.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-03.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-04.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-05.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-06.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-07.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-08.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-09.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-10.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-11.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-12.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-13.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-14.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-15.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-16.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-17.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-18.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-19.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-20.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-21.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-22.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-23.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-23.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-24.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-24.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-25.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-25.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-26.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-27.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-27.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-28.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-28.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-29.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-29.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-30.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-30.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-31.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-31.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-32.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-32.png)
 
-![](./images/Wonder-Building-Kit-step-case-23-33.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-23-33.png)
 
 ## Hardware Connection
 
 Connect a [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html).
 
-![](./images/Wonder-Building-Kit-case-23-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-23-06.png)
 
 ## Software Platform
 ---
@@ -95,11 +95,11 @@ Connect a [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
 
-![](./images/Wonder-Building-Kit-case-21-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-21-02.png)
 
 Search with Wukong in the dialogue box to download it.
 
-![](./images/Wonder-Building-Kit-case-21-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-21-03.png)
 
 
 
@@ -107,7 +107,7 @@ Search with Wukong in the dialogue box to download it.
 
 ### Program
 
-![](./images/Wonder-Building-Kit-case-23-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-23-04.png)
 
 Link:[https://makecode.microbit.org/_5WjDde1jAF6R](https://makecode.microbit.org/_5WjDde1jAF6R)
 

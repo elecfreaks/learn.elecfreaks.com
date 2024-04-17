@@ -1,10 +1,10 @@
-# Octopus Tilt Sensor(EF04001) 
+﻿# Octopus Tilt Sensor(EF04001) 
 
 ## Introduction
 
 
  The Tilt sensor is to measure the  levelness of the object based on the tilt switch.
- ![](./images/PkfGPNo.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/PkfGPNo.jpg)
 
 
 ## Products Link
@@ -34,7 +34,7 @@ Stability|Stable and durable
 
 ## Outlook and Dimensions
 
- ![](./images/MOM6IH7.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/MOM6IH7.jpg)
 
 ## Quick to Start
 
@@ -43,7 +43,7 @@ Stability|Stable and durable
 
 Take sensor:bit for example
 
- ![](./images/z0jNU2D.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/z0jNU2D.png)
 
 
 
@@ -53,7 +53,7 @@ Program as the picture shows
  If the detected value is 0 and the the digital read pins is 0, the icon is shown on the screen.
  Or it shows a box.
 
- ![](./images/tVmLSAJ.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/tVmLSAJ.png)
 
 ### Reference
 

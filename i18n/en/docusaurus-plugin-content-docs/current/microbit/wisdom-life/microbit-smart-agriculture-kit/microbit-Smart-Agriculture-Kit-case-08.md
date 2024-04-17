@@ -1,4 +1,4 @@
-# Case 08: Auto Pick-up Device
+﻿# Case 08: Auto Pick-up Device
 
 
 ##  Introduction
@@ -16,14 +16,14 @@
 
 ## Picture
 ---
-![](./images/microbit-Smart-Agriculture-Kit-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-02.png)
 
 ## Hardware Connection
 ---
 
 Connect the servo to P1 on IoT:bit.
 
-![](./images/microbit-Smart-Agriculture-Kit-case-08-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-08-03.png)
 
 ## Software Programming
 
@@ -31,11 +31,11 @@ Connect the servo to P1 on IoT:bit.
 
 Click "Advanced" in the MakeCode to see more choices.
 
-![](./images/microbit-Smart-Agriculture-Kit-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-04.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "servo" in the dialogue box to download it.
 
-![](./images/microbit-Smart-Agriculture-Kit-case-01-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-06.png)
 
 ***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -45,7 +45,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 Set the servo to drive to 90°, pause for 200ms, then set it to drive to 0° and pause another 200ms.
 
-![](./images/microbit-Smart-Agriculture-Kit-case-08-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-08-07.png)
 
 
 

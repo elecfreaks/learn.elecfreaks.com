@@ -1,4 +1,4 @@
-# FAQ 09
+﻿# FAQ 09
 
 ## Q: 使用joystick:bit时，发现按键失控。
 

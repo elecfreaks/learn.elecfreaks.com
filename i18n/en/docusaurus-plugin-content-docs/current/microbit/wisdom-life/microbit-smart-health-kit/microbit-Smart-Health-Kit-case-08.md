@@ -1,4 +1,4 @@
-# Case 08: Step Counter
+﻿# Case 08: Step Counter
 
 
 ##  Introduction
@@ -17,7 +17,7 @@
 
 ## Picture
 ---
-![](./images/microbit-Smart-Health-Kit-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-02.png)
 
 
 
@@ -31,15 +31,15 @@
 ---
 Show number "MUM" on the micro:bit.
 
-![](./images/microbit-Smart-Health-Kit-case-08-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-08-07.png)
 
 Set NUM=NUM+1 while in shaking.
 
-![](./images/microbit-Smart-Health-Kit-case-08-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-08-08.png)
 
 While pressing button A, set "NUM" as 0.
 
-![](./images/microbit-Smart-Health-Kit-case-08-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-08-09.png)
 
 
 

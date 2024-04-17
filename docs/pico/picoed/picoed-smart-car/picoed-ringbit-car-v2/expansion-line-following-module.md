@@ -18,7 +18,7 @@
 | 净重 | 4.7g |  |
 
 ## 外形与安装定位尺寸
-![](./images/line_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/line_01.png)
 ## 快速上手
 ### 硬件连接
 

@@ -1,10 +1,10 @@
-# Octopus Rain/Steam Sensor
+﻿# Octopus Rain/Steam Sensor
 
 ## Introduction
 
 This is a Rain/steam sensor from ElecFreaks, the output voltage will increase when the humidity of the sensor surface goes up, thus to detect the change of the humidity.
 
- ![](./images/4tWL14e.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/4tWL14e.jpg)
 
 ## Products Link
 
@@ -32,7 +32,7 @@ Stablity|Stable and durable
 ## Outlook and Dimensions
 
 
- ![](./images/xpNQNBG.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/xpNQNBG.png)
 
 ## Quick to Start
 
@@ -41,12 +41,12 @@ Stablity|Stable and durable
 
 Take sensor:bit for example
 
- ![](./images/ai3lZZE.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/ai3lZZE.jpg)
 
 ### Program as the picture shows:
  Analog read to P1 port and show the value on the micro:bit.
 
- ![](./images/JQBCxSv.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/JQBCxSv.png)
 
 ### Reference
 Links:

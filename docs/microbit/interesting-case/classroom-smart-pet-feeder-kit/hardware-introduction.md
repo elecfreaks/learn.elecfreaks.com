@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: 硬件介绍
 ---
@@ -7,7 +7,7 @@ sidebar_label: 硬件介绍
 
 ### micro:bit 主板介绍
 
-![](./images/microbit-smart-maker-kit-case02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-case02-01.png)
 
 micro:bit 是一款专为青少年编程教育目的而设计的微型计算机，尺寸只有4cm x 5cm，但它拥有一系列的传感器和LED灯，可以用来控制和监测物理世界。
 
@@ -19,7 +19,7 @@ micro:bit 的设计简单易用，适合初学者使用。它可以用于各种�
 
 ## IOT:bit
 
-![](./images/hardware-introduction-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/hardware-introduction-01.png)
 
 IOT:bit扩展板是一款功能丰富的扩展板，专为micro:bit设计。下面是更详细的介绍：
 
@@ -41,7 +41,7 @@ IOT:bit扩展板的功能丰富，能够满足您在智能家居开发中的需�
 
 ### 八爪鱼系列人体红外传感器
 
-![](./images/microbit-smart-maker-kit-case03-01-3-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-case03-01-3-1.png)
 
 人体红外传感器模块是一种采用AM412热释电数字智能传感器的电子积木。这个模块设计用于感知和检测人体或动物的运动。当人体或动物接近传感器时，它能够检测到体温的变化并发出信号。该传感器的感应距离约为4-5米，意味着它能够在这个范围内检测到运动，并向系统发送相应的信号。这种传感器模块常用于安防系统、自动照明系统或其他需要感知和响应运动的应用中。
 
@@ -53,7 +53,7 @@ IOT:bit扩展板的功能丰富，能够满足您在智能家居开发中的需�
 
 ### 八爪鱼系列超声波传感器
 
-![](./images/microbit-smart-maker-kit-case03-01-3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-case03-01-3.png)
 
 Sonar:bit 是一款基于超声波传感技术的传感器模块，专为 micro:bit 教育开发板设计。
 
@@ -65,6 +65,6 @@ Sonar:bit 是一款基于超声波传感技术的传感器模块，专为 micro:
 
 ### 180° 舵机
 
-![](./images/microbit-smart-maker-kit-case03-01-4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-case03-01-4.png)
 
 伺服电机通常被称为舵机，它是一种带有输出轴的小装置。当我们向伺服器发送一个控制信号时，输出轴就可以转到特定的位置。只要控制信号持续不变，伺服机构就会保持轴的角度位置不改变。如果控制信号发生变化，输出轴的位置也会相应发生变化。日常生活中，舵机常被用于遥控飞机、遥控汽车、机器人等领域。

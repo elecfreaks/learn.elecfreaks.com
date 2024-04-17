@@ -1,4 +1,4 @@
-# Case 01: Get into Danger
+﻿# Case 01: Get into Danger
 
 ## Purpose
 ---
@@ -29,13 +29,13 @@ With the sound of footfalls approaching in a quiet and dark gorge, Xiao En and h
  Click "Advanced" in the MakeCode drawer to see more choices.
 
 
-![](./images/magicwand_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_02.png)
 
 
 We need to add a package for programming, . Click "Extensions" in the bottom of the drawer and search with "magicwand" in the dialogue box to download it. (Kindly note this package is still in the verifying process and pls search with "https://github.com/elecfreaks/pxt-magicwand " before it's ready)
 
 
-![](./images/magicwand_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_03.png)
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
@@ -43,7 +43,7 @@ We need to add a package for programming, . Click "Extensions" in the bottom of 
 
 Drag and set the magic level block as primary; and set the infrared sending connection to P1.
 
-![](./images/magicwand_case_01_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_04.png)
 
 
 ### Step 3
@@ -52,7 +52,7 @@ Drag the release magic once block into the while button P2 being pressed block a
 
 
 
-![](./images/magicwand_case_01_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_05.png)
 
 
 ### Link

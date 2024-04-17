@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 17
 sidebar_label: 可调速天蓬智能车
 ---
@@ -16,7 +16,7 @@ sidebar_label: 可调速天蓬智能车
 
 
 
-![](./images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_01_01.png)
 
 
 ## 硬件连接
@@ -24,7 +24,7 @@ sidebar_label: 可调速天蓬智能车
 将电位器连接到天蓬智能车的端口1。
 
 
-![](./images/TPBot_tianpeng_case_15_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_15_02.png)
 
 ## 软件
 ---
@@ -37,21 +37,21 @@ sidebar_label: 可调速天蓬智能车
 
 - 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](./images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_01_02.png)
 
 - 为了给天蓬智能车编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`tpbot`，然后点击下载这个代码库。
 
-![](./images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_01_03.png)
 
 - 为了给电位器模块编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索`PlanetX`，然后点击下载这个代码库。
 
-![](./images/TPBot_tianpeng_case_15_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_15_03.png)
 
 ##示例程序
 - `当开机时`设置micro:bit的LED矩阵显示图标。
 - 在`无限循环`中，将电位器模块的返回值由0~1023映射到0~100，然后将映射之后得到的值设置为天蓬智能车前进的速度。
 
-![](./images/TPBot_tianpeng_case_15_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_15_04.png)
 
 
 ### 程序

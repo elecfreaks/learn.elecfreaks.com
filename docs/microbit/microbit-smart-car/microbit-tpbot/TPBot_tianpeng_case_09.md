@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 16
 sidebar_label: 寻找光源
 ---
@@ -16,7 +16,7 @@ sidebar_label: 寻找光源
 
 
 
-![](./images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_01.png)
 
 
 
@@ -33,17 +33,17 @@ sidebar_label: 寻找光源
 
 - 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](./images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_02.png)
 
 - 为了给天蓬智能车编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`tpbot`，然后点击下载这个代码库。
 
-![](./images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_03.png)
 
 ##示例程序
 - `当开机时`设置天蓬智能车亮白色灯光。
 - 在`无限循环`中，判断亮度级别是否大于设定阈值，当亮度级别大于设定阈值时，天蓬智能车向前行驶，当亮度级别小于设定阈值时，小车原地转圈。
 
-![](./images/TPBot_tianpeng_case_09_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_09_04.png)
 
 ### 程序
 - 请参考程序连接：[https://makecode.microbit.org/_dLAeeX0HFDUj](https://makecode.microbit.org/_dLAeeX0HFDUj)

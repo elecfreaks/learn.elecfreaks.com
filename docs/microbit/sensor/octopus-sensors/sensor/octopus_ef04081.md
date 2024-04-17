@@ -4,7 +4,7 @@
 ---
 声音传感器对声音强度特别敏感，可用于检测环境声级，更大的噪声会有更大的输出正弦波振幅。
 
- ![](./images/hP4azP5.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/hP4azP5.png)
 
 ## 特性
 ---
@@ -19,7 +19,7 @@ SKU|EF04081
 输出电压|3.3V-5V
 正弦波|大声的噪声带来更大的输出正弦波振幅
 ## 外形与定位尺寸
- ![](./images/uPRIFLt.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/uPRIFLt.png)
 
 ## 快速上手
 ---
@@ -30,7 +30,7 @@ SKU|EF04081
 
 ***以sensor：bit为例***
 
- ![](./images/I9xA8Ms.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/I9xA8Ms.png)
 
 ### 添加Package
 
@@ -41,7 +41,7 @@ SKU|EF04081
 
 
 
-![](./images/04081_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04081_01.png)
 
 
 
@@ -82,13 +82,13 @@ SKU|EF04081
 下载压缩包并解压[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_07.png)
 
 为了给噪音传感器编程，我们需要添加noise.py。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的Octopus_MicroPython-master文件夹，从中选择noise.py添加进来。
 
-![](./images/05001_08.png)
-![](./images/05001_09.png)
-![](./images/04081_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04081_10.png)
 
 ### 步骤 2
 ### 参考程序

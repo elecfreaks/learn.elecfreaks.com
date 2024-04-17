@@ -1,10 +1,10 @@
-# Octopus Touch PAD Sensor(EF04011) 
+﻿# Octopus Touch PAD Sensor(EF04011) 
 
 ## Introduction
 
 Touch PAD Brick is a sensor module mainly through the capacitive touch TTP223-BA6 charge IC and the body of pressure, ceramics, glass and other dielectric materials, and the charge level is used to detect small changes in a touch switch of a sensor module.
 
- ![](./images/XLSIYQj.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/XLSIYQj.jpg)
 
 ## Products Link
 
@@ -30,7 +30,7 @@ Insulation characteristics|Insulating medium between 0MM~10MM
 
 ## Outlook and Dimensions
 
- ![](./images/uX6EyOO.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/uX6EyOO.png)
 
 ## Quick to Start
 
@@ -44,18 +44,18 @@ Insulation characteristics|Insulating medium between 0MM~10MM
 
 Connect to the P1 port.
 
- ![](./images/xqYKZ0r.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/xqYKZ0r.png)
  
 ### Add Package
 Click "Advanced"in the choice of the MakeCode to find more choices.
 
- ![](./images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/smtcNoB.png)
 
 Click "Extensions", search "iot"in the dialog box and then download it.
- ![](./images/qChMeYd.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/qChMeYd.png)
 
 ### Program as the picture shows
- ![](./images/vsoyhgH.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/vsoyhgH.png)
 
 ### Reference
 links:

@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 12
 sidebar_label: 圣诞树
 ---
@@ -10,7 +10,7 @@ sidebar_label: 圣诞树
 圣诞树，是指用灯烛和装饰品把枞树或洋松装点起来的常青树。作为是圣诞节重要的组成元素之一，近代圣诞树起源于德国，后来逐步在世界范围内流行起来，成为圣诞节庆祝中最有名的传统之一。
 据说圣诞树最早出现在古罗马12月中旬的所谓农神节。现在通常人们在圣诞前后把一棵常绿植物如松树弄进屋里或者在户外，并用圣诞灯和彩色的装饰物装饰。并把一个天使或星星放在树的顶上。
 
-![](./images/tooca-laser-1-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-01-01.png)
 
 
 ## 使用材料
@@ -39,4 +39,4 @@ sidebar_label: 圣诞树
 
 ## 效果展示
 
-![](./images/tooca-laser-1-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-01-01.png)

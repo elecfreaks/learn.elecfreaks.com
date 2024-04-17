@@ -1,4 +1,4 @@
-# Analog Rotation Brick(EF04085)
+﻿# Analog Rotation Brick(EF04085)
 
 ## Introduction
 
@@ -28,7 +28,7 @@ Size|See picture below
 NW|3.5g
 
 ### Dimension
-![](./images/X0thNO5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/X0thNO5.png)
 
 ## Quick to Start
 
@@ -36,7 +36,7 @@ NW|3.5g
 ### Hardware Connection
 Connect  to P1 port.(See below picture)
 
-![](./images/vbupjP9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/vbupjP9.png)
 
 ### Software Programme
 Click to open [Makecode](https://makecode.microbit.org/), write your code to control micro:bit LED screen with octopus analog rotation brick.

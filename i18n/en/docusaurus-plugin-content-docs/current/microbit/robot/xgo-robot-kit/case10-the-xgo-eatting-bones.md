@@ -1,11 +1,11 @@
----
+﻿---
 sidebar_position: 17
 sidebar_label: Case 10 - The XGO Eatting Bones
 ---
 
 # Case 10: The XGO Eatting Bones
 
-![](./images/xgo-10-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/xgo-10-1.png)
 
 ## Introduction
 
@@ -29,7 +29,7 @@ Hi guys, we know that dogs like bones very much, how can we program to achive a 
 ---
 Connect the micro:bit with the computer through the USB cable.
 
-![](./images/microbit-xgo-robot-kit-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-22.png)
 
 ## MakeCode  Programming
 ---
@@ -39,11 +39,11 @@ Click ” Advanced“ in the MakeCode drawer to see more choices.
 
 
 
-![](./images/microbit-xgo-robot-kit-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-10.png)
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "XGO" in the dialogue box to download it.
 
-![](./images/microbit-xgo-robot-kit-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-11.png)
 
 ***Note:***  If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -53,7 +53,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 ##### XGO Code
 
-![](./images/case10-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/case10-1.png)
 
 Link: [xgo](https://makecode.microbit.org/_Lhrhbp7dDb1M)
 
@@ -81,7 +81,7 @@ You may download it directly below:
 
 ##### “ Bones“ Code
 
-![](./images/xgo-10-2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/xgo-10-2.png)
 
 Link: [Bones](https://makecode.microbit.org/_dLc2HV21M64H)
 

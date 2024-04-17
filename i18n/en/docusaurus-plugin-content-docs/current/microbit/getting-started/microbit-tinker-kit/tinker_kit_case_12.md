@@ -1,6 +1,6 @@
-# case 12 Remote Control Everything
+﻿# case 12 Remote Control Everything
 
-![](./images/utimqzn.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/utimqzn.jpg)
 
 Do you already have a micro:bit project you’d like to control from afar?
 Partner up with a friend, or grab a spare micro:bit, to make a remote controlled project with 2 micro:bits. (Don’t grab a friend’s micro:bit. Be nice.)
@@ -42,7 +42,7 @@ You can find these blocks under the Radio drawer.
 Download this into the micro:bit you’ll use as your remote controller.
 Now each button on your micro:bit remote controller will send a different command!
 
-![](./images/7FMhilE.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/7FMhilE.png)
 
 
 ### Step 2
@@ -51,7 +51,7 @@ In your micro:bit car project (or the particular project you’re trying to remo
 
 This ensures the project you’re trying to remote control will listen to the right commands!
 
-![](./images/2yEuF4F.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/2yEuF4F.png)
 
 
 ### Step 3
@@ -63,7 +63,7 @@ Take the code that turns your micro:bit car left, and place it within this if-th
 We have also added an led indication pointing left just to show what was supposed to happen.
 Turn off the left servo afterward by digitally writing the pin to 0.
 
-![](./images/c8EQV91.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/c8EQV91.png)
 
 
 ### Step 4
@@ -73,7 +73,7 @@ Make sure you turn the right wheel off afterward.
 You can always choose to leave the wheels on without stop after receiving each command. But you’ll face with a situation that the car keeps spinning in circles.
 Download this program into your micro:bit car.
 
-![](./images/Z0xJGlt.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Z0xJGlt.png)
 
 If you don't want to type these code by yourself, you can download the whole program from the link below.
 

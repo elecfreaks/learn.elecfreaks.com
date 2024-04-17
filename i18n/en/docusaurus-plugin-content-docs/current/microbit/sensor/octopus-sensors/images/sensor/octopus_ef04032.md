@@ -1,10 +1,10 @@
-# Octopus Analog Photocell Brick OBPhotocell(EF04032) 
+﻿# Octopus Analog Photocell Brick OBPhotocell(EF04032) 
 
 ## Introduction
 
 Photocells are sensors that allow you to detect light. They are small, inexpensive, low-power, easy to use and don't wear out. For that reason they often appear in toys, gadgets and appliances. 
 
- ![](./images/sCid5Hu.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/sCid5Hu.jpg)
 
 ## Products Link
 
@@ -34,7 +34,7 @@ Stability|Stable and durable
 ## Outlook and Dimensions
 
 
- ![](./images/cdNd1Kw.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/cdNd1Kw.png)
 
 ## Quick to Start
 
@@ -45,11 +45,11 @@ Stability|Stable and durable
 
   Take sensor:bit for example
 
- ![](./images/XwQieks.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/XwQieks.png)
 
 ### Program as the picture shows
 
- ![](./images/4oRJ1Ub.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/4oRJ1Ub.png)
 
 ### Reference
 

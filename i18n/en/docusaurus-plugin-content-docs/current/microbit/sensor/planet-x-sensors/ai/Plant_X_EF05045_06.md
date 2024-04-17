@@ -1,10 +1,10 @@
-# Case 06: Characteristics Acquisition
+﻿# Case 06: Characteristics Acquisition
 
 ## Purpose
 
 To make the AI Lens be able to recognize and learn from the objects.
 
-![](./images/05035_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_01.png)
 
 ## Products Link
 
@@ -18,7 +18,7 @@ To make the AI Lens be able to recognize and learn from the objects.
  Connect the AI Lens to the IIC port on the Nezha expansion board as the picture shows.
 
 
-![](./images/05035_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_01_03.png)
 
 
 ## MakeCode Programming
@@ -28,11 +28,11 @@ To make the AI Lens be able to recognize and learn from the objects.
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](./images/05001_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05001_04.png)
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](./images/05001_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05001_05.png)
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
@@ -40,7 +40,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 ### Code as below:
 
-![](./images/05035_06_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_06_06.png)
 
 
 ### Link

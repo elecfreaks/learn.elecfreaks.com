@@ -1,4 +1,4 @@
-# case 02 Morse Code
+﻿# case 02 Morse Code
 
 ## Our Goal
 
@@ -19,14 +19,14 @@ Use basic kit to complete morse code.
 
 ### Table of Morse Code
 
-![](./images/VPkKcn8.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-basic-kit/images/VPkKcn8.jpg)
 
 
 ## Hardware Connection
 
 Connect the crash sensor to P1 port on basic:bit. See picture below.
 
-![](./images/PGUTQXA.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-basic-kit/images/PGUTQXA.jpg)
 
 
 ## Software
@@ -49,13 +49,13 @@ ADKeypad analog read the return value of I/O port. Here's the values:
 When start, display an image, set variable `item` to the data that ready to be sent, and set variable `flag` to the length of string.
 Set a radio group to 50.
 
-![](./images/9bHMIMQ.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-basic-kit/images/9bHMIMQ.png)
 
 ### Step 2
 
 Judge if the variable `flag`(string length) is 4. (in this case, we use English letters in Morse Code only, so the maximum length is 4.) If it is 4, then show string "A" to the user.
 
-![](./images/Erks47F.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-basic-kit/images/Erks47F.png)
 
 ### Step 3
 
@@ -65,13 +65,13 @@ When button C is pressed, increase the string length variable(`flag`) by 1, and 
 
 The event of button D is similar to button C, but it will display a dash (in morse code) on micro:bit screen, and write character "1" to the end of the string.
 
-![](./images/yjuFlPG.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-basic-kit/images/yjuFlPG.png)
 
 ### Step 4
 
 When button A is pressed, display the string and then send it. At the same time, set variable `item` and `flag` to 0 and initialize the program.
 
-![](./images/Y62aRmo.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-basic-kit/images/Y62aRmo.png)
 
 ### Program
 

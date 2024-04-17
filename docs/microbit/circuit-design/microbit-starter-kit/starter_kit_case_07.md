@@ -1,6 +1,6 @@
-# 课程_07 温度传感器
+﻿# 课程_07 温度传感器
 
-![](./images/fMCJitN.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/fMCJitN.jpg)
 
 ## 简介
 ---
@@ -18,7 +18,7 @@
 
 **温馨提示：如果你需要以上所有元件，你可以购买我们的[Elecfreaks小小科学家套件](https://item.taobao.com/item.htm?ft=t&id=597096675822)。**
 
-![](./images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
 
 ## 主要元件介绍
 ---
@@ -26,18 +26,18 @@
 
 TMP36是一种模拟温度传感器，它的输出电压与温度成线性关系，温度越高，输出电压越大。
 
-![](./images/SDoXRcM.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/SDoXRcM.jpg)
 
 **注意：**
 
 当我们正视TMP36芯片有文字的一面时，芯片最左边的引脚为VCC，中间引脚为Vout，最右边的引脚为GND。千万不要把芯片接反了，否则也能引起器件损坏。
 
-![](./images/P6ZkUDh.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/P6ZkUDh.jpg)
 
 TMP36输出电压随温度变化的曲线是这样的：
 
-![](./images/5R7izFc.jpg)
-![](./images/U2c4qdp.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/5R7izFc.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/U2c4qdp.jpg)
 
 由上图可知温度的计算公式为：
 
@@ -50,11 +50,11 @@ TMP36输出电压随温度变化的曲线是这样的：
 
 - 1.温度传感器与扩展板P0口连接
 
-![](./images/HnUeLBR.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/HnUeLBR.jpg)
 
 连接完成后如图:
 
-![](./images/IAor80B.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/IAor80B.jpg)
 
 ### 软件
 
@@ -63,13 +63,13 @@ TMP36输出电压随温度变化的曲线是这样的：
 
 ### 如图所示编写程序
 
-![](./images/case_07_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_07_01.png)
 
 ### 代码详解
 - 1.将P0通过传感器获取的数值，使用map函数，映射成0~1023之间的一个值，保存在voltage中
 - 2.将voltage中的值进行处理，转换成温度值，在点阵屏上面显示
 
-![](./images/case_07_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_07_01.png)
 
 ### 参考程序
 请参考程序连接：[https://makecode.microbit.org/_egPRVKivYFCc](https://makecode.microbit.org/_egPRVKivYFCc)
@@ -101,7 +101,7 @@ TMP36输出电压随温度变化的曲线是这样的：
 ---
 micro:bit屏幕上显示当前温度值。
 
-![](./images/b0w5PkN.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/b0w5PkN.gif)
 
 
 ## 思考

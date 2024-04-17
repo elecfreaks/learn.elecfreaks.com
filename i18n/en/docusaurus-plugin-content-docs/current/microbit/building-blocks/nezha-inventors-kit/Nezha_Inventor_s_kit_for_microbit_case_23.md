@@ -1,10 +1,10 @@
-# case 23 micro:bit Crawlers
+﻿# case 23 micro:bit Crawlers
 
 ## Introduction
 
 Let the children use the building blocks and micro:bit to make a crawling caterpillar. In this process, children could experience the fun of building blocks and get a preliminary understanding of the ratchet structure.
 
-![](./images/case_23_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_23_01.png)
 
 ## Quick Start
 
@@ -26,7 +26,7 @@ Bricks × n
 Connect the servo to S1 and the micro:bit to Nezha expansion board.
 
 
-![](./images/case_23_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_23_03.png)
 
 
 
@@ -36,35 +36,35 @@ Connect the servo to S1 and the micro:bit to Nezha expansion board.
 
 ### Assembly Steps
 
-![](./images/case_step_23_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_23_01.png)
 
-![](./images/case_step_23_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_23_02.png)
 
-![](./images/case_step_23_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_23_03.png)
 
-![](./images/case_step_23_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_23_04.png)
 
-![](./images/case_step_23_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_23_05.png)
 
-![](./images/case_step_23_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_23_06.png)
 
-![](./images/case_step_23_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_23_07.png)
 
-![](./images/case_step_23_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_23_08.png)
 
-![](./images/case_step_23_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_23_09.png)
 
-![](./images/case_step_23_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_23_10.png)
 
-![](./images/case_step_23_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_23_11.png)
 
-![](./images/case_step_23_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_23_12.png)
 
-![](./images/case_step_23_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_23_13.png)
 
-![](./images/case_step_23_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_23_14.png)
 
-![](./images/case_step_23_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_23_15.png)
 
 
 
@@ -75,14 +75,14 @@ Connect the servo to S1 and the micro:bit to Nezha expansion board.
 
 Click “Advanced” in the MakeCode drawer to see more choices.
 
-![](./images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
 
 
 
 
 We need to add a package for programming. Click “Extensions” in the bottom of the drawer and search with “nezha” in the dialogue box to download it.
 
-![](./images/case_03_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_03_09.png)
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
@@ -94,7 +94,7 @@ We need to add a package for programming. Click “Extensions” in the bottom o
 ### Programme as the picture shows:
 
 
-![](./images/case_23_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_23_10.png)
 
 
 
@@ -126,4 +126,4 @@ You may also downoad it directly below:
 ### Result
 The crawlers move forward after powering on.
 
-![](./images/case-gif-23.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case-gif-23.gif)

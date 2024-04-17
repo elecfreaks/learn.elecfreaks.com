@@ -1,11 +1,11 @@
-# 火焰传感器电子积木
+﻿# 火焰传感器电子积木
 
 ## 简介
 ---
 - 火焰传感器可以检测火焰。
 
 
-![](./images/04003_1.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04003_1.jpg)
 
 
 ## 特性
@@ -50,7 +50,7 @@ SKU|EF04003
 
 
 
-![](./images/04003_2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04003_2.png)
 
 
 

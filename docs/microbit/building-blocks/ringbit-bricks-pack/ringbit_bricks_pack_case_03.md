@@ -1,4 +1,4 @@
-# 案例03：温控风扇
+﻿# 案例03：温控风扇
 
 ## 目的
 ---
@@ -8,7 +8,7 @@
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_03_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_03_01.png)
 
 
 
@@ -17,7 +17,7 @@
 ---
 [六合一积木搭建套件（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=619734013239)
 
-![](./images/Ringbit_Bricks_Pack_case_03_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_03_02.png)
 
 
 ## 背景知识
@@ -27,50 +27,50 @@
 ## 积木搭建
 ---
 
-![](./images/Ringbit_Bricks_Pack_step_03_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_01.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_02.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_03.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_04.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_05.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_06.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_07.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_08.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_09.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_10.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_11.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_12.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_13.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_14.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_15.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_16.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_17.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_18.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_19.png)
 
-![](./images/Ringbit_Bricks_Pack_step_03_20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_20.png)
 
 ***注意：接线时黄色线需要连接在端口上方标有数字（0/1/2）的位置。
 
 
-![](./images/Ringbit_Bricks_Pack_step_03_21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_21.png)
 
 
 
@@ -92,7 +92,7 @@
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_03_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_03_03.png)
 
 
 
@@ -105,7 +105,7 @@
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_03_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_03_04.png)
 
 
 
@@ -120,7 +120,7 @@
 在`无限循环`中判断`温度`积木块的返回值，当温度大于28°C时，设置连接到P0的舵机转动，当温度小于26°C时，设置连接到P1的舵机停止转动。
 
 
-![](./images/Ringbit_Bricks_Pack_case_03_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_03_05.png)
 
 *注意：*由于我们使用的是360°舵机，而Makecode的servo扩展库是适用于180°舵机的，所以在使用360°舵机的时候，设置舵机转动到0°或者180°会使舵机顺时针转动或者逆时针转动，当设置舵机转动到90°时，舵机停止转动。
 

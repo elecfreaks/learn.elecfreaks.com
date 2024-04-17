@@ -1,10 +1,10 @@
-# case 24 Game bit
+﻿# case 24 Game bit
 
 ## Put together the Game:bit!
 ---
 - Let’s figure out where all those screws are supposed to go.
 
-![](./images/N3HnCBy.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/N3HnCBy.jpg)
 
 
 ## Products Link
@@ -27,13 +27,13 @@
 
 ### Step 1 – Buttons!
 
-![](./images/Ri5D7oe.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Ri5D7oe.png)
 
-![](./images/Fyw1aVA.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Fyw1aVA.png)
 
-![](./images/h4fNrgu.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/h4fNrgu.png)
 
-![](./images/wvYTQ5C.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/wvYTQ5C.png)
 
 1. Attach the ADKeypad first with the red buttons on top.
 
@@ -42,9 +42,9 @@
 
 ### Step 2 – Wire it up!
 
-![](./images/Gae1BQv.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Gae1BQv.png)
 
-![](./images/xRFjNlt.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/xRFjNlt.png)
 
 
 1. Thread the tri-coloured wire through the hole and attach it to ADKeypad. Brown to G (ground), red to V (voltage) and orange to S (signal).
@@ -53,11 +53,11 @@
 
 ### Step 3 – Wiring Firing
 
-![](./images/dV72K9F.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/dV72K9F.png)
 
-![](./images/ffNHfX7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/ffNHfX7.png)
 
-![](./images/kKuS4Qt.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/kKuS4Qt.png)
 
 
 
@@ -69,11 +69,11 @@
 
 ### Step 4 – Add a Buzzer
 
-![](./images/AXzsW5w.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/AXzsW5w.png)
 
-![](./images/xjGcQso.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/xjGcQso.png)
 
-![](./images/u9NEcEK.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/u9NEcEK.png)
 
 1. The buzzer has both a positive and negative wire! You can find markings on the green bottom of the buzzer. Take note of which colour is positive (+) and which is negative (-).
 The power supply capabilities and parameters, which better define how you can use the GND and 3V rings.
@@ -86,9 +86,9 @@ The power supply capabilities and parameters, which better define how you can us
 
 ### Step 5 – Battery Powered
 
-![](./images/TwHv0lF.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/TwHv0lF.png)
 
-![](./images/Jxc5HF2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Jxc5HF2.png)
 
 1. Last thing to go into your game:bit will be your battery pack!
 2. Add two AAA batteries into your battery pack.
@@ -98,20 +98,20 @@ The power supply capabilities and parameters, which better define how you can us
 
 ### Step 6 – Closing Time
 
-![](./images/mccKFUr.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/mccKFUr.png)
 
 1. Close up the game:bit and align the 4 holes at the back to the standoffs securing the ADKeypad.
 2. Screw down into the standoffs to secure the back.
 
 ### Step 7 – Closing Time
 
-![](./images/sBHbG0a.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/sBHbG0a.png)
 
-![](./images/xc6Kh9h.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/xc6Kh9h.png)
 
-![](./images/JXJA3ZR.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/JXJA3ZR.png)
 
-![](./images/xlTBeXt.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/xlTBeXt.png)
 
 1. Screw two screws into the two holes at the edge of the shell with the lock holder behind. Secure them with nuts.
 2. Repeat on the other edge of the shell.

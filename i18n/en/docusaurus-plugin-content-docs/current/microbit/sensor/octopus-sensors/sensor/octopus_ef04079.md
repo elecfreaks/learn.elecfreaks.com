@@ -1,10 +1,10 @@
-# Octopus Temperature Sensor Brick TMP36(EF04079)
+﻿# Octopus Temperature Sensor Brick TMP36(EF04079)
 
 ## Introduction
 
 Octopus TMP36 Temperature Sensor Brick is a temperature sensor with low voltage and accurate Celsius read. It can provide voltage output,which forms a linear relationship with Celsius temperature.
 
- ![](./images/zqYYROQ.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/zqYYROQ.jpg)
 
 
 ## Products Link
@@ -35,7 +35,7 @@ Turn Off Current|Max 0.5μA
 ## Outlook and Dimensions
 
 
- ![](./images/e5NlyhB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/e5NlyhB.png)
 
 ## Quick to Start
 
@@ -46,24 +46,24 @@ Connect to the P1 port
 
 Take sensor:bit for example
 
- ![](./images/bLgrtiX.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/bLgrtiX.png)
 
 ### Add Package
 
 Click "Advanced"in the choice of the MakeCode to find more choices.
 
- ![](./images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
 
 Click "Extensions", search "iot"in the dialog box and then download it.
 
- ![](./images/dsPDNvD.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/dsPDNvD.png)
 
 ### Program as the picture shows
 1. Choose the display brick for the micro:bit.
 2. Choose the function of showing the temperature from the IoT package.
 3. The temperature is showing on the micro:bit.
 
- ![](./images/PvPxhtr.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/PvPxhtr.png)
 
 ### Reference
 

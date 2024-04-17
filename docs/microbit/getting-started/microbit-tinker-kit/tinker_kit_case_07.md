@@ -1,11 +1,11 @@
-# 课程_07 喂鱼器
+﻿# 课程_07 喂鱼器
 
 > 不想自己亲手喂鱼? 这里刚好有一个适合你的micro:bit项目。在这篇文章中，我们将通过ADKeypad控制舵机的运动来喂鱼。
 
 ## 项目简介
 ---
 
-![](./images/QO4eC0H.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/QO4eC0H.png)
 
 在这个项目中，我们将会制作一个喂鱼器。我们用ADKeypad上面的2个红色按钮来控制舵机的转动，并通过OLED屏幕上显示的信息得知舵机的状态。    
 
@@ -33,36 +33,36 @@
 ---
 ### 步骤 1 – 元器件连接
 
-![](./images/FNUJhZ3.jpg)
-![](./images/BAovMFM.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/FNUJhZ3.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/BAovMFM.jpg)
 
 如上图所示，将micro:bit插入扩展板，并连接USB线，然后再插入OLED。你可以把OLED插入扩展板上3排排针插孔的任意一排。
 将ADKeypad连接到扩展板上的引脚P0，把舵机连接到 Pin 1。确保线的颜色和扩展板上的引脚的颜色一致。
 
-![](./images/FHD6oh8.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/FHD6oh8.jpg)
 
 
 ### 步骤 2 – 编程前的准备
 
 我们需要添加代码库来方便我们使用准备好的元器件。点击代码抽屉中的"高级"，查看更多的代码选项，并在下拉菜单底部点击"扩展"。
 
-![](./images/R5lx5Np.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/R5lx5Np.jpg)
 
 此时，将弹出一个对话框。在对话框中搜索“tinker kit”， 然后点击下载这个代码库。
 
-![](./images/pduH11r.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/pduH11r.png)
 
 ### 步骤 3 – 编程
 
-![](./images/Tinker_Kit_case_07_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_07_01.png)
 
 点击代码抽屉中的Tinkercademy， 找到与我们套件对应的积木块。
 
-![](./images/Tinker_Kit_case_07_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_07_02.png)
 
 你需要在开始的时候初始化OLED。64和128分别代表了OLED的长度和宽度。
 
-![](./images/Tinker_Kit_case_07_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_07_03.png)
 
 因为这里只有2个条件，所以我们只需要一个“else-if”语句。
 如果ADKeypad上的按钮A被按下，舵机将会旋转至70度，OLED上将会显示“Loading food”（加载食物）。

@@ -1,10 +1,10 @@
-# Octopus 5mm LED Brick  Red(EF04063)
+﻿# Octopus 5mm LED Brick  Red(EF04063)
 
 ## Introduction
 
 Octopus 5mmLED light Brick can be used in the interaction with the light works with micro:bit/Arduino.
 
- ![](./images/wFy2h7R.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/wFy2h7R.jpg)
 
 ## Products Link
 
@@ -25,7 +25,7 @@ Weight|5g
 
 ## Outlook and Dimensions
 
- ![](./images/XjX2TBL.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/XjX2TBL.png)
 
 ## Quick to Start
 
@@ -35,7 +35,7 @@ Weight|5g
 
   Take octupus:bit for example
 
-![](./images/iXIOMNJ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/iXIOMNJ.jpg)
 
 ### Add Package
 
@@ -43,7 +43,7 @@ Weight|5g
 
  Digital write pin P0 to 1 and 0 one second later.
 
-![](./images/AAzv9pn.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/AAzv9pn.png)
 
 ### Reference
 

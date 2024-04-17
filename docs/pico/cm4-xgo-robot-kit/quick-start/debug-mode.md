@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 6
 sidebar_label: 调试模式
 ---
@@ -9,15 +9,15 @@ sidebar_label: 调试模式
 
 首先拆除顶部、左右两侧、尾部的六颗螺丝。
 
-![](./../images/cm4-xgo-debug-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-debug-01.png)
 
-![](./../images/cm4-xgo-debug-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-debug-02.png)
 
-![](./../images/cm4-xgo-debug-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-debug-03.png)
 
 此时可将后盖拿起，注意不要断开开关线。
 
-![](./../images/cm4-xgo-debug-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-debug-04.png)
 
 
 
@@ -29,7 +29,7 @@ sidebar_label: 调试模式
 
 可以在端口栏目中看到名称为USB-SERIAL CH340的设备，COM4即为串口号
 
-![](./../images/cm4-xgo-debug-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-debug-05.png)
 
 
 

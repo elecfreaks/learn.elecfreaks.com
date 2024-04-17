@@ -1,4 +1,4 @@
-# 案例07 智能分贝测试器
+﻿# 案例07 智能分贝测试器
 
 ## 目的
 ---
@@ -45,23 +45,23 @@
 - 准备剪刀，胶水和一些瓦楞纸板。
 - 在纸板上贴好你准备好的小纸片，并将瓦楞纸板剪裁成需要的样子。
 
-![](./images/iNQDeE5.jpg)
-![](./images/lPcTNho.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/iNQDeE5.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/lPcTNho.jpg)
 
 - 搭建成如图样式：
 
 正面：
 
-![](./images/DU35Etf.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/DU35Etf.jpg)
 
 
 背面：
 
-![](./images/T9ucg1r.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/T9ucg1r.jpg)
 
 将元器件按如图摆放黏贴。
 
-![](./images/MMB2HnH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/MMB2HnH.jpg)
 
 
 ## 硬件连接图
@@ -69,7 +69,7 @@
 P1口连接模拟噪音传感器电子积木
 P2口连接彩虹LED电子积木
 
-![](./images/O4eOdnZ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/O4eOdnZ.jpg)
 
 ## 软件
 ---
@@ -81,11 +81,11 @@ P2口连接彩虹LED电子积木
 ### 步骤 1
 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
-![](./images/smart_home_kit_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_01_01.png)
 
 为了给智慧家居套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索“smarthome"，然后点击下载这个代码库。
 
-![](./images/smart_home_kit_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_01_02.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -94,7 +94,7 @@ P2口连接彩虹LED电子积木
 
 从“基本”中拖出一个“当开机时”积木块，然后从“流光溢彩灯”函数库中拖入“将‘strip设为’”积木块，初始化P2口的彩虹LED电子积木的颜色为RGB模式。
 
-![](./images/smart_home_kit_case_07_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_07_03.png)
 
 ### 步骤 3
 在“无限循环”中拖入一个基本块显示笑脸，即智能分贝测试器正常工作；
@@ -102,7 +102,7 @@ P2口连接彩虹LED电子积木
 当值大于30时（这里的30约等于室内安静的情况下的分贝值），拖入“显示颜色”积木块，将led彩灯显示为红色；
 重复以上代码，将值改为40,50,60...每一个等级分配一个颜色，共9种颜色。
 
-![](./images/smart_home_kit_case_07_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_07_04.png)
 
 
 
@@ -137,7 +137,7 @@ P2口连接彩虹LED电子积木
 
 - 不同的分贝值变化会让LED灯变换不同的颜色。
 
-![](./images/q2sED7W.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/q2sED7W.gif)
 
 ## 思考
 ---

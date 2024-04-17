@@ -1,4 +1,4 @@
-# Case 17: Alarm Device
+﻿# Case 17: Alarm Device
 
 ## Introduction
 
@@ -6,7 +6,7 @@ This is an alarm device. Press button A to make the red LED light on and flash, 
 
 
 
-![](./images/case_17_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_17_01.png)
 
 
 ## Quick to Start
@@ -32,7 +32,7 @@ Bricks × n
 Connect the red LED to the J1 port on Nezha expansion board.
 
 
-![](./images/case_17_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_17_03.png)
 
 
 ### Assembly Video
@@ -45,15 +45,15 @@ Video link:[https://youtu.be/bYN6-6PskHQ](https://youtu.be/bYN6-6PskHQ)
 ### Assembly Steps
 
 
-![](./images/case_step_17_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_17_01.png)
 
-![](./images/case_step_17_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_17_02.png)
 
-![](./images/case_step_17_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_17_03.png)
 
-![](./images/case_step_17_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_17_04.png)
 
-![](./images/case_step_17_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_17_05.png)
 
 
 
@@ -67,11 +67,11 @@ Video link:[https://youtu.be/bYN6-6PskHQ](https://youtu.be/bYN6-6PskHQ)
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](./images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](./images/case_01_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_11.png)
 
 
 
@@ -83,7 +83,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 ### Programme as the picture shows:
 
 
-![](./images/case_17_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_17_15.png)
 
 ### Link
 Link: [https://makecode.microbit.org/_A4CaHvTuJ7br](https://makecode.microbit.org/_A4CaHvTuJ7br)
@@ -113,4 +113,4 @@ You may also downoad it directly below:
 ### Result
 Press button A to alarm and the red LED flashes; press it again to stop the alarming and the LED turns off.
 
-![](./images/case-gif-17.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case-gif-17.gif)

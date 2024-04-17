@@ -1,8 +1,8 @@
-# Control the Wukong Manipulator Kit with the AI Lens
+﻿# Control the Wukong Manipulator Kit with the AI Lens
 
 
 
-![](./images/straw-manipulator-26.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/straw-manipulator/images/straw-manipulator-26.gif)
 
 ## Products Link
 
@@ -22,7 +22,7 @@ For more information please go to the wiki page of the AI Lens: [AI Lens Kit fil
 
 
 
-![](./images/straw-manipulator-08-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/straw-manipulator/images/straw-manipulator-08-1.png)
 
 
 ## Assembly
@@ -34,31 +34,31 @@ Please refer to: [Staw manipulator](./How-to-use-the-microbit-to-control-the-str
 
 a. Insert the 3 black pins on the beam frame 5X7 and Install the technic 15M beam as the picture shows
 
-![](./images/straw-manipulator-27.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/straw-manipulator/images/straw-manipulator-27.png)
 
 b. Install the technic 13M beam and the black pins as the picture shows.
 
-![](./images/straw-manipulator-28.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/straw-manipulator/images/straw-manipulator-28.png)
 
 c. Install the Modified H-shape Thick 3*5 Perpendiculor as the picture shows.
 
-![](./images/straw-manipulator-29.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/straw-manipulator/images/straw-manipulator-29.png)
 
 d. Connect the AI Lens with cables of the RJ11  connector to Dupont as the picture shows. Note: the connection sequence of the RJ11 cables to Wukong breakout board shall be followed as the picture shows.
 
-![](./images/straw-manipulator-30.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/straw-manipulator/images/straw-manipulator-30.png)
 
 ## Programming
 
 Go to  [Makecode](https://makecode.microbit.org) for programming, about the methods to add the wukong expansions and its programming reference, please refer to [Staw manipulator](https://www.elecfreaks.com/learn-cn/microbitKit/straw-manipulator/How-to-use-the-microbit-to-control-the-straw-manipulator.html).
 
-![](./images/straw-manipulator-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/straw-manipulator/images/straw-manipulator-18.png)
 
 ## Initialization
 
 The initial status of this wiki is: 0 degree represents the fully stretching out of the "fingers", 180 degrees represent the "curve" of the "fingers", thus, we need to adjust servo to its 0 degree before programming. Take off the white plate and program as below(or you can download it directly):
 
-![](./images/straw-manipulator-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/straw-manipulator/images/straw-manipulator-17.png)
 
 Code:
 
@@ -91,7 +91,7 @@ After adjusting the angel of the servo, install the white plate and run the belo
 
 
 
-![](./images/straw-manipulator-2-5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/straw-manipulator/images/straw-manipulator-2-5.png)
 
 
 

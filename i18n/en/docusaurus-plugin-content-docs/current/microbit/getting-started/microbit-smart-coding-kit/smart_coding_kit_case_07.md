@@ -1,4 +1,4 @@
-# Case 07: Wireless Communication
+﻿# Case 07: Wireless Communication
 
 ## Purpose
 
@@ -9,7 +9,7 @@
 2 x [ELECFREAKS micro:bit Smart Coding Watch Kit](https://www.elecfreaks.com/micro-bit-smart-coding-kit.html)
 
 
-![](./images/smart_coding_kit_case_07_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_07_01.png)
 
 
 ## Software
@@ -29,7 +29,7 @@
 
  Send number 2 when button B being pressed
 
-  ![](./images/smart_coding_kit_case_07_02.png)
+  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_07_02.png)
 
 ### Step 2
  Receiving end
@@ -42,7 +42,7 @@
 
  Judge the received number and display the icon accordingly.
 
-  ![](./images/smart_coding_kit_case_07_03.png)
+  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_07_03.png)
 
 
 

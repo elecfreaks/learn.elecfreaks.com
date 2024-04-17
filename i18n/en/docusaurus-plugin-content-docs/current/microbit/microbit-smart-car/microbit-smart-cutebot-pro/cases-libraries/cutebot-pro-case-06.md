@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 6
 sidebar_label: case 06 automatic headlights
 ---
@@ -9,7 +9,7 @@ sidebar_label: case 06 automatic headlights
 
 In this lesson, we will learn how to use cutebot pro and micro:bit to make an automatic car light. When the ambient light becomes dark, the headlights will automatically turn on, and when the ambient light is bright enough, the headlights will automatically turn off. This course will involve knowledge points such as light detection of micro:bit, RGB car light control and RGB three primary colors.
 
-![](./images/cutebot-pro-case-06-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-06-01.png)
 
 ## Teaching Objectives
 
@@ -46,7 +46,7 @@ How to control RGB lights?
 
 ### Sample Code
 
-![](./images/cutebot-pro-case-06-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-06-02.png)
 
 Tip: The light intensity threshold for turning on the lights needs to be adjusted according to the light intensity of the test environment.
 

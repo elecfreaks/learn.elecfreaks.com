@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: 案例一 AI路牌识别小车
 ---
@@ -11,7 +11,7 @@ sidebar_label: 案例一 AI路牌识别小车
 搭建一辆使用AI摄像头识别路牌的Cutebot Pro智能赛车。
 
 
-![](./images/cutebot-pro-extended-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-01-01.png)
 
 
 ## 使用材料
@@ -26,31 +26,31 @@ sidebar_label: 案例一 AI路牌识别小车
 
 ## 搭建步骤
 
-![](./images/cutebot-pro-extended-case-step-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-01-01.png)
 
-![](./images/cutebot-pro-extended-case-step-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-01-02.png)
 
-![](./images/cutebot-pro-extended-case-step-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-01-03.png)
 
-![](./images/cutebot-pro-extended-case-step-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-01-04.png)
 
-![](./images/cutebot-pro-extended-case-step-01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-01-05.png)
 
-![](./images/cutebot-pro-extended-case-step-01-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-01-06.png)
 
-![](./images/cutebot-pro-extended-case-step-01-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-01-07.png)
 
-![](./images/cutebot-pro-extended-case-step-01-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-01-08.png)
 
-![](./images/cutebot-pro-extended-case-step-01-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-01-09.png)
 
-![](./images/cutebot-pro-extended-case-step-01-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-01-10.png)
 
-![](./images/cutebot-pro-extended-case-step-01-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-01-11.png)
 
-![](./images/cutebot-pro-extended-case-step-01-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-01-12.png)
 
-![](./images/cutebot-pro-extended-case-step-01-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-01-13.png)
 
 
 
@@ -58,7 +58,7 @@ sidebar_label: 案例一 AI路牌识别小车
 
 将AI摄像头连接到Cutebot Pro智能赛车的IIC端口。
 
-![](./images/cutebot-pro-extended-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-01-02.png)
 
 
 ## 软件
@@ -71,15 +71,15 @@ sidebar_label: 案例一 AI路牌识别小车
 
 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](./images/cutebot-pro-extended-case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-01-03.png)
 
 为了给Cutebot Pro智能赛车编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`CutebotPro`，然后点击下载这个代码库。
 
-![](./images/cutebot-pro-extended-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-01-04.png)
 
 为了给AI摄像头编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`PlanetX-AI`，然后点击下载这个代码库。
 
-![](./images/cutebot-pro-extended-case-01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-01-05.png)
 
 
 ## 示例程序
@@ -90,7 +90,7 @@ sidebar_label: 案例一 AI路牌识别小车
 
 在`无限循环`中，`获取一帧图像`,当`识别到图像为向右转`并且`卡片尺寸大于100`时，`设置小车向右转90°`。
 
-![](./images/cutebot-pro-extended-case-01-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-01-06.png)
 
 
 ### 程序
@@ -123,7 +123,7 @@ sidebar_label: 案例一 AI路牌识别小车
 
 按下按键A后，小车向前行驶，当遇到向右转的路牌时，自动右转90°，并停止行驶。
 
-![](./images/cutebot-pro-extended-case-01.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-01.gif)
 
 
 ## 扩展知识

@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: 硬件介绍
 ---
@@ -7,7 +7,7 @@ sidebar_label: 硬件介绍
 
 ### micro:bit 主板介绍
 
-![](./images/microbit-smart-maker-kit-case02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-case02-01.png)
 
 micro:bit 是一款专为青少年编程教育目的而设计的微型计算机，尺寸只有4cm x 5cm，但它拥有一系列的传感器和LED灯，可以用来控制和监测物理世界。
 
@@ -19,7 +19,7 @@ micro:bit 的设计简单易用，适合初学者使用。它可以用于各种�
 
 ## IOT:bit
 
-![](./images/hardware-introduction-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-air-purifier-kit/images/hardware-introduction-01.png)
 
 IOT:bit扩展板是一款功能丰富的扩展板，专为micro:bit设计。下面是更详细的介绍：
 
@@ -41,7 +41,7 @@ IOT:bit扩展板的功能丰富，能够满足您在智能家居开发中的需�
 
 ### 八爪鱼系列灰尘传感器
 
-![](./images/microbit-smart-maker-kit-case02-01-4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-case02-01-4.png)
 
 灰尘传感器是一种空气质量传感器，用于检测空气中的微尘颗粒物浓度。
 
@@ -55,10 +55,10 @@ IOT:bit扩展板的功能丰富，能够满足您在智能家居开发中的需�
 
 ### 八爪鱼系列电机风扇
 
-![](./images/microbit-smart-maker-kit-case02-01-3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-case02-01-3.png)
 
 电机是依据电磁感应定律实现电能转换为动能的一种装置。该电机的基本部件包括电枢和定子。电枢线圈是电机的分类非常多，在本案例里，我们用到的是直流电机。当在电机两端加上直流电压时，电机会旋转，电压越高，旋转的速度越快。
 
-![](./images/microbit-smart-maker-kit-case02-01-2.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-case02-01-2.gif)
 
 关于更多电机风扇的信息，欢迎访问：[八爪鱼系列电机风扇介绍 Wiki 链接](http://wiki.elecfreaks.com/en/microbit/sensor/octopus-sensors/output/octopus_ef04059/)。

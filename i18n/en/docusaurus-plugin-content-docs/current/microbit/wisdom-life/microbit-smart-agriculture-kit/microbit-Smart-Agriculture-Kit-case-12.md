@@ -1,4 +1,4 @@
-# Case 12: Birds Anti-Collision Device
+﻿# Case 12: Birds Anti-Collision Device
 
 
 ##  Introduction
@@ -16,14 +16,14 @@
 
 ## Picture
 ---
-![](./images/microbit-Smart-Agriculture-Kit-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-02.png)
 
 ## Hardware Connection
 ---
 
 Connect the servo to P1 on IoT:bit.
 
-![](./images/microbit-Smart-Agriculture-Kit-case-08-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-08-03.png)
 
 ## Software Programming
 
@@ -31,11 +31,11 @@ Connect the servo to P1 on IoT:bit.
 
 Click "Advanced" in the MakeCode to see more choices.
 
-![](./images/microbit-Smart-Agriculture-Kit-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-04.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "servo" in the dialogue box to download it.
 
-![](./images/microbit-Smart-Agriculture-Kit-case-01-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-06.png)
 
 ***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -45,11 +45,11 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 In forever block, judge if the current light level is below 20.
 
-![](./images/microbit-Smart-Agriculture-Kit-case-12-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-12-07.png)
 
 If yes, program to set the servo connecting to P1 to drive to 180°; or to drive to 0°.
 
-![](./images/microbit-Smart-Agriculture-Kit-case-12-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-12-08.png)
 
 
 Link: [https://makecode.microbit.org/_dHgWHFfYvgTR](https://makecode.microbit.org/_dHgWHFfYvgTR)

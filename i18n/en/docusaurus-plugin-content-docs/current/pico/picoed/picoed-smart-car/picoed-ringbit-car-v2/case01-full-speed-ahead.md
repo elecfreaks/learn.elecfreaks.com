@@ -1,6 +1,6 @@
 # Case 01: Full Speed Ahead
 
-![](./images/case01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case01.png)
 
 ## Introduction
 
@@ -10,7 +10,7 @@ Hello, we are going to code to drive the [Ring:bit](https://shop.elecfreaks.com/
 
 Connect the left wheel servo to P1 of the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) expansion board and the right wheel servo to P2. You can also exchange the connections as long as you program with the equivlent connections in MakeCode, let's move on! 
 
-![](./images/case.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case.png)
 
 ## Software Programming
 

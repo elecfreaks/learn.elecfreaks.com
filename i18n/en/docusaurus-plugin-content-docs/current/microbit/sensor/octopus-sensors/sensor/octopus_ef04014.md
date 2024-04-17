@@ -1,10 +1,10 @@
-# Octopus Vibration Sensor(EF04014)
+﻿# Octopus Vibration Sensor(EF04014)
 
 ## Introduction
 
  Vibration Sensor Brick is a module based on vibration trigger switch.
 
- ![](./images/V5LWSTa.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/V5LWSTa.jpg)
 
 ## Products Link
 
@@ -28,7 +28,7 @@ Function|Achieve fun and interactive courses
 
 ## Outlook and Dimensions
 
- ![](./images/vw9iSOe.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/vw9iSOe.png)
 
 ## Quick to Start
 
@@ -37,12 +37,12 @@ Function|Achieve fun and interactive courses
 
 Take sensor:bit for example
 
- ![](./images/MCfIhfH.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/MCfIhfH.png)
 
 ### Program as the picture shows
  Show the returned value through P1 pin.
 
- ![](./images/5qzwCGO.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/5qzwCGO.png)
 
 ### Refaerence
 Links:

@@ -1,4 +1,4 @@
-# Octopus Analog Noise Sound Sensor Detection Module(EF04081) 
+﻿# Octopus Analog Noise Sound Sensor Detection Module(EF04081) 
 
 ## Introduction
 
@@ -7,7 +7,7 @@ Octopus Analog Noise Sound Sensor Detection Module  is particularly sensitive to
  ## Products Link
 
 [ELECFREAKS Octopus TMP36 Temperature Sensor](https://shop.elecfreaks.com/products/elecfreaks-octopus-analog-noise-sensor?_pos=1&_sid=f0d5208e1&_ss=r)
-![](./images/hP4azP5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/hP4azP5.png)
 
 ## Products Link
 
@@ -30,7 +30,7 @@ Sine Wave|Loud noise brings greater output sine wave
 
 ## Outlook and Dimensions
 
- ![](./images/uPRIFLt.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/uPRIFLt.png)
 
 ## Quick to Start
 
@@ -40,7 +40,7 @@ Connect to the P1 port
 
 Take sensor:bit for example
 
- ![](./images/I9xA8Ms.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/I9xA8Ms.png)
 
 ### Add Package
 
@@ -49,7 +49,7 @@ Take sensor:bit for example
 1. Choose the display brick for the micro:bit.
 2. The data of the sound is showing on the micro:bit.
 
- ![](./images/s2Rucs0.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/s2Rucs0.png)
 
 ### Reference
 

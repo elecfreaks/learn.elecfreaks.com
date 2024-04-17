@@ -1,4 +1,4 @@
-# 小小英雄（下）
+﻿# 小小英雄（下）
 
 ## 目的
 
@@ -10,7 +10,7 @@
 
 1 x [饼干游戏编程学习机](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
 
-![retro-case-01-01.png](./images/retro-case-01-01.png)
+![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-01-01.png)
 
 ## 软件
 
@@ -20,11 +20,11 @@
 
 设置当精灵碰到路途上的植物时则游戏失败，当精灵到达终点宝石处，则游戏胜利。
 
-![4.1.PNG](./images/4.1.PNG)
+![4.1.PNG](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/4.1.PNG)
 
-![4.2.PNG](./images/4.2.PNG)
+![4.2.PNG](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/4.2.PNG)
 
-![retro-case-05-01.png](./images/retro-case-05-01.png)
+![retro-case-05-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-05-01.png)
 
 ### 程序
 

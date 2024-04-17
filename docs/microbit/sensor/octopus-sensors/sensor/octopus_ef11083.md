@@ -3,7 +3,7 @@
 ## 简介
 带有夏普GP2Y1010AU0F的octupus通尘埃传感器检测模块采用夏普光学灰尘传感器（GP2Y1010AU0F）。 用于检测直径超过0.8μm的尘埃颗粒的密度，如香烟烟雾。
 
- ![](./images/Y1K9tuE.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/Y1K9tuE.jpg)
 
 ## 特性
 ---
@@ -28,7 +28,7 @@ SKU|EF11083
 ## 外形与定位尺寸
 ---
 
- ![](./images/Vo0h74k.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/Vo0h74k.png)
 
 ## 快速上手
 ---
@@ -40,22 +40,22 @@ SKU|EF11083
 
 ***以sensor：bit为例***
 
- ![](./images/ugY3XVu.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/ugY3XVu.png)
 
 ### 添加packege
 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
-![](./images/smtcNoB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
 
 点击“Extensions”，在弹出的对话框中搜索“iot"，下载iot代码库。
-![](./images/GAN7O4X.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/GAN7O4X.png)
 
 
 ### 如图所示编写程序
 
 
 
-![](./images/11083_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/11083_03.png)
 
 
 
@@ -95,13 +95,13 @@ SKU|EF11083
 下载压缩包并解压[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_07.png)
 
 为了给灰尘传感器编程，我们需要添加dust.py。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的Octopus_MicroPython-master文件夹，从中选择dust.py添加进来。
 
-![](./images/05001_08.png)
-![](./images/05001_09.png)
-![](./images/11083_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/11083_10.png)
 
 ### 步骤 2
 ### 参考程序

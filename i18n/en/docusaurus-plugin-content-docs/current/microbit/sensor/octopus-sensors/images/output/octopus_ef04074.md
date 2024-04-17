@@ -1,10 +1,10 @@
-# OCTOPUS Vibration Motor(EF04074)
+﻿# OCTOPUS Vibration Motor(EF04074)
 
 ## Introduction
 
 OCTOPUS Vibration Motor is a kind of electric brick module carrying with a small vibrator driven by high voltage. It can be used as vibrators for products like toys, mobiles and so on.
 
- ![](./images/d9jdEqa.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/d9jdEqa.jpg)
 
 
 
@@ -32,7 +32,7 @@ Size|31.28mm×23.48mm
 ## Outlook and Dimensions
 
 
-![](./images/72WTbmL.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/72WTbmL.png)
 
 
 
@@ -44,13 +44,13 @@ Size|31.28mm×23.48mm
 
   Take sensor:bit for example
 
-![](./images/opsGYQb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/opsGYQb.png)
 
 ### Add Package
 
 ### Program as the picture shows
 
-![](./images/Ga95B0U.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/Ga95B0U.png)
 
 ### Reference
 

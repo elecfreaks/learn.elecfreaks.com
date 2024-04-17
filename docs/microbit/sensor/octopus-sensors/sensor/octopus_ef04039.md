@@ -1,10 +1,10 @@
-# 电压检测电子积木
+﻿# 电压检测电子积木
 
 ## 简介
 ---
 分压器可以检测高达50V的电源电压。分压器模块基于电阻器（1K和15K精密电阻器）
 
- ![](./images/fl6I2w5.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/fl6I2w5.jpg)
 
 ## 特性
 ---
@@ -23,7 +23,7 @@ SKU|EF04039
 
 ## 外形与定位尺寸
 ---
- ![](./images/cdNd1Kw.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/cdNd1Kw.png)
 
 ## 快速上手
 ---
@@ -32,13 +32,13 @@ SKU|EF04039
 
 ***以sensor:bit为例***
 
- ![](./images/fcHzFyT.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/fcHzFyT.png)
 
 ### 添加Package
 
 ### 如图所示编写程序
 
- ![](./images/6DO11mU.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/6DO11mU.png)
 
 ### 参考程序
 请参考程序连接：[https://makecode.microbit.org/_AXD2gM3J36Jz](https://makecode.microbit.org/_AXD2gM3J36Jz)

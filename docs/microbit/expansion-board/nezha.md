@@ -4,7 +4,7 @@
 
 哪吒是一款全能型的micro:bit扩展板。板载4路舵机驱动，4路电机驱动，7路传感器扩展接口；传感器接口均采用RJ11接头，防呆防反插，方便学生们在课堂上快速准确连线；外壳设有乐高和慧鱼结构件兼容接口，可将电子模块与主流结构件结合起来，方便学生们搭建个性化的micro:bit创意编程作品。
 
-![](./images/03444_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/03444_01.png)
 
 ## 特性
 
@@ -12,7 +12,7 @@ RJ11端口设计，防止误插，易于使用。
 
 ## 技术规格
 
-![](./images/03444_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/03444_02.png)
 
 
 ## 外形与定位尺寸
@@ -47,17 +47,17 @@ RJ11端口设计，防止误插，易于使用。
 当处于开机状态下，连续按下两次电源开关即可关机，此时电源指示灯熄灭；
 当开机状态下，发现电源指示灯闪烁，则是电量不足，可以通过USB电源接口进行充电。
 
-![](./images/03444_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/03444_04.png)
 
 ## 添加专属扩展库
 
 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
-![](./images/03444_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/03444_05.png)
 
 为了给哪吒扩展板编程，我们需要添加一个扩展库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框，搜索“哪吒”，然后点击下载这个代码库。
 
-![](./images/03444_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/03444_06.png)
 
 *注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -70,7 +70,7 @@ RJ11端口设计，防止误插，易于使用。
 ### 如图所示编写程序
 
 
-![](./images/03444_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/03444_08.png)
 
 
 ### 参考程序
@@ -109,7 +109,7 @@ RJ11端口设计，防止误插，易于使用。
 ### 如图所示编写程序
 
 
-![](./images/03444_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/03444_10.png)
 
 
 ### 参考程序
@@ -150,15 +150,15 @@ RJ11端口设计，防止误插，易于使用。
 
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/05001_07.png)
 
 为了给哪吒扩展板编程，我们需要添加nezha.py文件。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的PlanetX_MicroPython文件夹，从中选择nezha.py文件添加进来。
 
-![](./images/03444_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/03444_11.png)
 
-![](./images/03444_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/03444_12.png)
 
-![](./images/03444_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/03444_13.png)
 
 ### 步骤 2
 ### 参考程序
@@ -200,7 +200,7 @@ music.play(music.NYAN)
 注释：import music是导入音乐库语句，调用music.play()函数，参数music.NYAN是内置的音乐。内置乐曲和旋律库如下表所示：
 
 
-![](./images/03444_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/03444_14.png)
 
 
 

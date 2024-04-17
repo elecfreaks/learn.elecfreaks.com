@@ -1,4 +1,4 @@
-# FAQ
+﻿# FAQ
 
 ## 1. How to turn on/off the device?
 Click the on/off button to start the product, double click the on/off button to turn off the product. (More product information can be found in [Product Profile](https://www.yuque.com/elecfreaks-learn/retro/gec7rs))

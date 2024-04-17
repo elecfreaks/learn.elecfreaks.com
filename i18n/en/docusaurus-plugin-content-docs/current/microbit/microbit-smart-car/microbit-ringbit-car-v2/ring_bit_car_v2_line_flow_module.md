@@ -1,11 +1,11 @@
-# Line flow module
+﻿# Line flow module
 
 ## Introduction
 
 - [Ring:bit car V2 line following module](https://www.elecfreaks.com/ring-bit-car-accessories-sonar-bit-tracking-module-and-led-light-bar.html) is a dedicated module designed for the [Ring:bit car V2](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board?_pos=4&_sid=66ba68dec&_ss=r), it is easy to be installed to achieve the line following function for the [Ring:bit car V2](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board?_pos=4&_sid=66ba68dec&_ss=r).
 - Equipped with double infrared probes, it can detect the distance between 2~12mm accurately that can achieve the function of line following around the circles, the detection of the black lines and the detection of the edge.
 
- ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_01.jpg)![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_02.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_line_01.jpg)![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_line_02.jpg)
 
 ## Features
 
@@ -31,7 +31,7 @@
 ## Dimensions:
 
 
- ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_03.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_line_03.png)
 
 
 ## Quick to Start
@@ -40,15 +40,15 @@
 
 - The first step is to insert this module to the baseboard of the Ring:bit car V2.
 
- ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_04.gif)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_line_04.gif)
 
 - The next step is to fix the module with the two screws.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_05.gif) ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_line_05.gif) ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_line_06.gif)
 
 - Completed.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_07.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_line_07.jpg)
 
 ### Software Programming
 
@@ -61,7 +61,7 @@
 
 - The right detection probe would work as the same as the way of the left detection probe works.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_line_08.png)
 
  Links:[https://makecode.microbit.org/_hYH1Rd697TFf](https://makecode.microbit.org/_hYH1Rd697TFf)
 
@@ -90,6 +90,6 @@ You can also download the code directly below:
 
 - The Ring:bit car runs around the circle slowly.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_09.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_line_09.gif)
 
 ## FAQ

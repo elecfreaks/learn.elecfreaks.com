@@ -1,4 +1,4 @@
-# BME280 Air Pressure Sensor(EF04087)
+﻿# BME280 Air Pressure Sensor(EF04087)
 
 ## Introduction
 
@@ -35,7 +35,7 @@ Temperature Tolerqance|±0.5℃ Max:±1℃；Resolution: 0.1℃
 Size|31 x 23 mm
 
 ### Outlook and Dimensions
-![](./images/ZCHyqrg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/ZCHyqrg.png)
 
 ## Quick to Start
 
@@ -43,7 +43,7 @@ Size|31 x 23 mm
 
 Connect the sensor to I2C connector on octopus:bit using a jumper cable. Insert micro:bit into the octopus:bit.
 
-![](./images/TGFmmNb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/TGFmmNb.png)
 
 ### Software Programming
 
@@ -53,13 +53,13 @@ Test the air pressure value and show it on the micro:bit.
 #### Add Package
 Click "Advanced"in the choice of the MakeCode to find more choices.
 
-![](./images/LjMR5IU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/LjMR5IU.png)
 
 Click "Add Package", search "weather"in the dialog box and then download weather-bit.
-![](./images/2pzeQRn.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/2pzeQRn.png)
 
 Program as the picture shows and read the air pressure value:
-![](./images/uzGqxBD.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/uzGqxBD.png)
 
 #### Links:
 [https://makecode.microbit.org/_cPih8ybrDXuz](https://makecode.microbit.org/_cPih8ybrDXuz)

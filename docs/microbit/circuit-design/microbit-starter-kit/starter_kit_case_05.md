@@ -1,6 +1,6 @@
-# 课程_05 三色LED
+﻿# 课程_05 三色LED
 
- ![](./images/mEAx3Tx.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/mEAx3Tx.jpg)
 
 ## 简介
 ---
@@ -19,7 +19,7 @@
 
 **温馨提示：如果你需要以上所有元件，你可以购买我们的[Elecfreaks小小科学家套件](https://item.taobao.com/item.htm?ft=t&id=597096675822)。**
 
-![](./images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
 
 ## 主要元件介绍
 ---
@@ -27,8 +27,8 @@
 
 三色LED是LED的一种，把红色LED、绿色LED、蓝色LED集合成一个元件，就是RGB LED。我们都知道，光的三原色分别为红色、绿色、蓝色，利用这三种颜色进行不同组份地组合，能够合成出万物所有的颜色。同样，利用RGB LED进行不同亮度的组合，能够形成无数种颜色。
 
-![](./images/9VLb4LB.jpg)
-![](./images/kaoHHJ2.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/9VLb4LB.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/kaoHHJ2.jpg)
 
 三色LED分为两种类型，分别为共阴极与共阳极：共阴极的RGB LED公共端接GND；共阳极的RGB LED公共端接VCC。在本实验中，我们选用共阴极的三色LED。
 
@@ -40,11 +40,11 @@
 - 1.将led灯的RGB信号引脚分别对应连接扩展板的P0，P1，P2口，并连接一个100Ω的电阻。
 - 2.将GND与扩展板GND通过面包板连接。
 
-![](./images/krrGHBs.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/krrGHBs.jpg)
 
 连接完成后如图:
 
-![](./images/DkfsnTs.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/DkfsnTs.jpg)
 
 ### 软件
 
@@ -57,12 +57,12 @@
 
 ### 如图所示编写程序
 
-![](./images/case_05_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_05_01.png)
 
 ### 代码详解
 - 1.当A按下时，设置R为1，G、B的值为0，同理，编写当B按下时，当A+B按下时的代码块。
 
-![](./images/case_05_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_05_02.png)
 
 ### 参考程序
 请参考程序连接：[https://makecode.microbit.org/_Th3Vum76F4Tr](https://makecode.microbit.org/_Th3Vum76F4Tr)
@@ -96,7 +96,7 @@
 按下按钮B，LED发出绿光。
 同时按下按钮A和B， LED发出蓝光。
 
-![](./images/fDTbmRK.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/fDTbmRK.gif)
 
 
 ## 思考

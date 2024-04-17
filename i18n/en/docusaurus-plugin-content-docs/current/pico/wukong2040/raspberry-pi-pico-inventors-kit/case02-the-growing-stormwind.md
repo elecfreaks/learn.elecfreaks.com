@@ -5,7 +5,7 @@ sidebar_label: Case 02 The Growing Stormwind
 
 # Case 02: The Growing Stormwind
 
-![](./images/wukong2040-inventors-case02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case02-01.png)
 
 ## Introduction
 
@@ -31,7 +31,7 @@ Sometimes we read in the news about tornadoes destroying houses and trees in a c
 
 An electric motor is a device that converts electrical energy into kinetic energy according to the laws of electromagnetic induction. The basic components of this motor include the armature and the stator. Armature coils are a very diverse classification of motor, in this case we are using a DC motor. When a DC voltage is applied to both ends of the motor, the motor rotates and the higher the voltage, the faster it rotates.
 
-![](./images/wukong2040-inventors-case02-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case02-02.gif)
 
 The coil is placed in a magnetic field and, through the flow of current, is repelled by the magnetic poles on one side and attracted to the poles on the other, spinning continuously under this effect. During the rotation, the current flowing in the coil is reversed so that it continues to rotate. A part of the motor called the "commutator" is powered by the "brushes", which are positioned above the "steering gear" and move continuously as it rotates. By changing the position of the brushes, the direction of the current can be changed. The commutator and brushes are essential to the rotation of the DC motor.
 
@@ -41,17 +41,17 @@ Ultrasonic sensors periodically emit short and high frequency sound waves which 
 
 The distance between the sensor and the object to be measured is calculated by measuring the time of flight of the sound wave, rather than by the intensity of the sound wave, and the ultrasonic sensor has a significant effect on background suppression. Almost any material that reflects sound waves, regardless of colour, can be detected by the ultrasonic sensor, including transparent materials or thin films.
 
-![](./images/wukong2040-inventors-case02-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case02-03.png)
 
 ### Hardware Connection
 
 Connect your components according to the following connection diagram:
 
-![](./images/wukong2040-inventors-case02-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case02-04.png)
 
 ### Graphical Programming
 
-![](./images/wukong2040-inventors-case02-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case02-05.png)
 
 ### Code
 
@@ -71,7 +71,7 @@ while True:
 
 ### Case Display
 
-![](./images/wukong2040-inventors-kit-case02-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-kit-case02-06.gif)
 
 ### Think
 

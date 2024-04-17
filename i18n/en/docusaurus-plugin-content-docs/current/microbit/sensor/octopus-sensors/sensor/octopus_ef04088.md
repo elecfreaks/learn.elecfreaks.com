@@ -1,4 +1,4 @@
-# Octopus 2 Channel Tracking Module(EF04088)
+﻿# Octopus 2 Channel Tracking Module(EF04088)
 
 ## Introduction
 
@@ -32,7 +32,7 @@ Size|22.74 x 37.45mm
 NW|4.8g
 
 ### Outlook and Dimensions
-![](./images/u76NzbX.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/u76NzbX.png)
 
 ## Packing List
 
@@ -45,9 +45,9 @@ NW|4.8g
 Connect this module to your micro:bit car.
 Connect the left port to P13 and the right port to P14. (Based on the driver's angle of view)
 
-![](./images/iNdkjrq.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/iNdkjrq.jpg)
 
-![](./images/Y7tolMD.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/Y7tolMD.jpg)
 
 ### Code Example
 Links: https://makecode.microbit.org/_Ep84RMKkhcHs

@@ -1,4 +1,4 @@
-# 课程_04 报警装置
+﻿# 课程_04 报警装置
 
 ## 目标:
 制作一个简易的报警装置
@@ -7,7 +7,7 @@
 ## 步骤 0: 项目简介
 ---
 
-![](./images/mNlJj4l.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/mNlJj4l.png)
 
 在这个项目中，我们将会制作一个简易的报警装置来提醒屋主有人偷东西。当碰撞传感器检测到物体被拿走，红色的LED将会闪烁。如果没有检测到物体被拿走，绿色的LED将会一直亮着。我们可以在 OLED 屏幕上看到这个装置的状态。
 
@@ -40,41 +40,41 @@
 
 ### 步骤 1 – 元器件连接
 
-![](./images/208tSHD.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/208tSHD.jpg)
 
 把LED模块连接到P1。
 
-![](./images/wGQpzcn.jpg)
-![](./images/9yVjSuC.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/wGQpzcn.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/9yVjSuC.jpg)
 
 如上图所示，用USB线连接micro:bit，再把micro:bit插入到扩展板上。然后，将碰撞传感器连接扩展板上的P0，LED模块连接P8。确保线的颜色和扩展板上的颜色一致。
 最后，将OLED模块插入扩展板上3排排针的任意一排插孔。
 
-![](./images/LQkLriL.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/LQkLriL.jpg)
 
 ### 步骤 2 – 编程前的准备
 我们需要添加代码库来方便我们使用准备好的元器件。点击代码抽屉中的"高级"，查看更多的代码选项，并在下拉菜单底部点击"扩展"。
 
-![](./images/R5lx5Np.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/R5lx5Np.jpg)
 
 此时，将弹出一个对话框。在对话框中搜索“tinker kit”， 然后点击下载这个代码库。
 
-![](./images/pduH11r.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/pduH11r.png)
 
 注意：如果你收到提示说一些代码库因为不兼容的问题将被删除，你可以选择根据提示操作，或者在项目文件的菜单中选择新建一个新项目。
 
 
 ### 步骤 3 – 编程
 
-![](./images/Tinker_Kit_case_04_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_04_01.png)
 
 接下来，使用Tinkercademy项下的积木块来初始化OLED和碰撞传感器。如上图所示。
 
-![](./images/Tinker_Kit_case_04_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_04_02.png)
 
 这个部分的代码可以使红色的LED灯持续闪烁。你可以通过改变暂停的间隔时间来调整LED灯闪烁的速度。
 
-![](./images/Tinker_Kit_case_04_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_04_03.png)
 
 因为这里只有2个条件，所以我们只需要一个“else-if”语句。当碰撞传感器上被按下，绿色的LED将被点亮。否则，红色的LED灯将会持续闪烁。
 
@@ -109,7 +109,7 @@
 
 接下来，让我们一起把代码下载到micro:bit，让代码运行吧！然后，再找本书或者其他什么东西放到装置的顶部，看一看下面会发生什么。我们可以看到绿灯被点亮，正如图中所示。然后，把书或者你放置的其他东西拿走，绿灯熄灭，红灯开始不停地闪烁。
 
-![](./images/wpyHSOF.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/wpyHSOF.jpg)
 
 
 ## 常见问题

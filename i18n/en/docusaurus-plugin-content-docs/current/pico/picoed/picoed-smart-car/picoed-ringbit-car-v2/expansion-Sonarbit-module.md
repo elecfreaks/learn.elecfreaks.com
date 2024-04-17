@@ -8,7 +8,7 @@ The measurement range of sonar:bit is 4cm-400cm. It can output stable and accura
 
 It can connect to the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) with an expansion board.
 
-![](./images/sonar_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/sonar_01.png)
 
 ## Features
 
@@ -31,7 +31,7 @@ Standard 3-wire GVS connecotr, which occupies 1 IO port only.
 
 ## Outlook and Dimensions
 
-![](./images/sonar_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/sonar_02.png)
 
 ---
 ## Quick to Start
@@ -40,15 +40,15 @@ Standard 3-wire GVS connecotr, which occupies 1 IO port only.
 
 Connect the acrylic transition board to the back board with the rivets.
 
-![](./images/sonar_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/sonar_03.png)
 
 Connect the Sonar:bit to the other side of the acrylic transition board with rivets.
 
-![](./images/sonar_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/sonar_04.png)
 
 Connect the Sonar:bit to the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) breakout board with a 3-pin wire.
 
-![](./images/sonar_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/sonar_05.png)
 
 
 

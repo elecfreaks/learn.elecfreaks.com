@@ -1,10 +1,10 @@
-# 光敏电阻电子积木
+﻿# 光敏电阻电子积木
 
 ## 简介
 ---
 - 光电池是可以检测光线的传感器。它们体积小，价格低廉，功率低，使用方便，不会磨损。因此，它们经常出现在玩具，小工具和电器中。
 
- ![](./images/sCid5Hu.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/sCid5Hu.jpg)
 
 ## 特性
 ---
@@ -30,7 +30,7 @@ SKU|EF04032
 ## 外形与定位尺寸
 ---
 
- ![](./images/cdNd1Kw.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/cdNd1Kw.png)
 
 ## 快速上手
 ---
@@ -40,11 +40,11 @@ SKU|EF04032
 
 ***以sensor:bit为例***
 
- ![](./images/XwQieks.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/XwQieks.png)
 
 ### 如图所示编写程序
 ---
- ![](./images/4oRJ1Ub.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/4oRJ1Ub.png)
 
 
 

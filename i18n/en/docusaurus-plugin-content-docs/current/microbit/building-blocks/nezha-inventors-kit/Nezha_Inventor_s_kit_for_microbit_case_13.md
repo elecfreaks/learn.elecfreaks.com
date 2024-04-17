@@ -1,10 +1,10 @@
-# Case 13: Lively Music
+﻿# Case 13: Lively Music
 
 ## Introduction
 
 We can adjust the frequency of the buzzer sound through the potentiometer. Try to create unique music by turning the potentiometer!
 
-![](./images/case_13_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_13_01.png)
 
 
 ## Quick to Start
@@ -30,7 +30,7 @@ Bricks × n
 Connect the trimpot to J1 port on the Nezha expansion board.
 
 
-![](./images/case_13_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_13_03.png)
 
 
 ### Assembly Video
@@ -43,19 +43,19 @@ Video reference for building:[https://youtu.be/G0hycQ2rxCk](https://youtu.be/G0h
 
 ### Assembly Steps
 
-![](./images/case_step_13_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_13_01.png)
 
-![](./images/case_step_13_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_13_02.png)
 
-![](./images/case_step_13_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_13_03.png)
 
-![](./images/case_step_13_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_13_04.png)
 
-![](./images/case_step_13_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_13_05.png)
 
-![](./images/case_step_13_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_13_06.png)
 
-![](./images/case_step_13_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_13_07.png)
 
 
 
@@ -69,11 +69,11 @@ Video reference for building:[https://youtu.be/G0hycQ2rxCk](https://youtu.be/G0h
 
 Click  "Advanced" in the makecode drawer to see more choices.
 
-![](./images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
 
 We need add a package for programming. Click "Extensions" in the bottom of the makecode drawer and search with "Planet X" to have the package downloaded.
 
-![](./images/case_01_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_11.png)
 
 ***Note:*** If you met a tip indicating it might be deleted due to incompatibility, you may continue as it indicates or create a new project in the menu.
 
@@ -81,7 +81,7 @@ We need add a package for programming. Click "Extensions" in the bottom of the m
 
 ### Programme
 
-![](./images/case_13_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_13_15.png)
 
 
 ### Link
@@ -112,4 +112,4 @@ You may download it directly below:
 ### Result
 The tones could be adjusted via the trimpot.
 
-![](./images/case-gif-13.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case-gif-13.gif)

@@ -1,10 +1,10 @@
-# 单路巡线电子积木
+﻿# 单路巡线电子积木
 
 ## 简介
 ---
 - 单路巡线电子积木是一种基于TCRT5000光电敏感元件的传感器，它可以灵敏地检测红外反射信号。
 
- ![](./images/H1J5LWu.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/H1J5LWu.jpg)
 
 ## 特性
 ---
@@ -27,7 +27,7 @@ SKU|EF04002
 ## 外形与定位尺寸
 ---
 
- ![](./images/cdNd1Kw.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/cdNd1Kw.png)
 
 ## 快速上手
 ---
@@ -36,7 +36,7 @@ SKU|EF04002
 
 ***以sensor:bit为例***
 
- ![](./images/md29vd4.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/md29vd4.png)
 
 ### 如图所示编写程序
 ---
@@ -44,7 +44,7 @@ SKU|EF04002
 - 当检测到有物体靠近返回值为0，数字读取引脚为0时，显示一颗心。
 - 否则显示一个方框。
 
- ![](./images/04002_03.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04002_03.png)
 
 ### 参考程序
 

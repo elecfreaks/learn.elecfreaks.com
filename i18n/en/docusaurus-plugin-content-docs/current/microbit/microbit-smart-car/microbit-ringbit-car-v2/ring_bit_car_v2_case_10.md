@@ -1,4 +1,4 @@
-# Case 10 Smart Crashproof Car
+﻿# Case 10 Smart Crashproof Car
 
 ## Purpose
 
@@ -15,7 +15,7 @@
 
 - Connect the left servo to P1, right servo to P2 and Sonar:bit to P0 of the Ring:bit.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/case_10_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_10_01.png)
 
 ## Software Programming
 
@@ -26,11 +26,11 @@
 ### Step 1
 - Click "Advanced" in the drawer of MakeCode to see more choices.
 
-![](./images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/2qCyzQ7.png)
 
 - We need to add a package for programming the kit. Click "Extensions" in the drawer and search “ringbit" in the dialogue box to download it.
 
-![](./images/1Wq2Mov.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/1Wq2Mov.jpg)
 
 - We also need to add a package for programming the Sonar:bit. Click "Extensions" in the drawer and search “`https://github.com/elecfreaks/pxt-sonarbit`" in the dialogue box to download it.
 
@@ -41,7 +41,7 @@
 - Drag the pins selection bricks for servos in the `On start` brick, the pins numbers are set according to the actual connection port.
 - Move forward at full speed.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/case_10_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_10_02.png)
 
 ### Step 3
 
@@ -50,7 +50,7 @@
 - If yes, set the speed of right wheel to 100 and the left to 0 to turn left with 500ms for obstacle avoidance.
 - If not, move forward at full speed.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/case_10_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_10_03.png)
 
 ### Reference
 

@@ -1,11 +1,11 @@
----
+﻿---
 sidebar_position: 13
 sidebar_label: Case 06 - Use Joystick:bit to Control the XGO
 ---
 
 # Case 06 -Use Joystick:bit to Control the XGO
 
-![](./images/xgo-6-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/xgo-6-1.png)
 
 ## Purpose
 
@@ -23,7 +23,7 @@ Hello, in the first few lessons, we basically programmed the program first and t
 
 We use a data cable (USB cable) to connect the computer with the micro:bit
 
-![](./images/microbit-xgo-robot-kit-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-22.png)
 
 
 
@@ -39,11 +39,11 @@ We use a data cable (USB cable) to connect the computer with the micro:bit
 
 Click Advanced in MakeCode to see more options.
 
-![](./images/microbit-xgo-robot-kit-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-10.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer, and search for "XGO" in the dialog to download.
 
-![](./images/microbit-xgo-robot-kit-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-11.png)
 
 ***Note:*** If you encounter a prompt that some codebases will be removed due to incompatibility, you can follow the prompt to continue or create a new project in the menu.
 
@@ -53,11 +53,11 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 ###### Program the Joystick:bit
 
-![](./images/case06-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/case06-01.png)
 
 ###### Program XGO
 
-![](./images/case06-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/case06-02.png)
 
 
 

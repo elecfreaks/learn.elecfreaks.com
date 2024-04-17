@@ -1,10 +1,10 @@
-# Octopus Sound Sensor(EF04008)
+﻿# Octopus Sound Sensor(EF04008)
 
 ## Introduction
 
  OCTOPUS Sound Sensor is a sensor module based on MIC sound sensing element. Sound Sensor is particularly sensitive to sound intensity,and it can be used to detect ambient sound level, but it can not identify the size of sound and the specific sound frequencies. It is available to make voice switches and other works.
 
- ![](./images/RYuGvVY.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/RYuGvVY.jpg)
 
 ## Characteristics
 
@@ -26,7 +26,7 @@ Stability|Stable and durable
 
 ## Outlook and Dimensions
 
- ![](./images/vSCVTwl.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/vSCVTwl.png)
 
 ## Quick to Start
 
@@ -36,23 +36,23 @@ Stability|Stable and durable
 
   Take sensor:bit for example
 
- ![](./images/ALobDLt.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/ALobDLt.png)
 
 ### Add Package
  Click "Advanced"in the choice of the MakeCode to find more choices.
 
- ![](./images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
 
  Click "Extensions", search "iot"in the dialog box and then download it.
 
- ![](./images/AaZxCEb.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/AaZxCEb.jpg)
 
- ![](./images/KBD2b39.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/KBD2b39.png)
 
 ### Program as the picture shows
  Show the current noise(dB)
 
- ![](./images/eGW5JbX.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/eGW5JbX.png)
 
 
 ### Reference

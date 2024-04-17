@@ -1,10 +1,10 @@
-# Case 74: The Happy Crab
+﻿# Case 74: The Happy Crab
 
 ## Introduction
 
 Whenever we think of a crab we think of its horizontal stride and we often see them in funny videos, in this course let's make a happy crab. We will use the RFID sensor as a switch, and when the RFID sensor detects the card, the little crab starts to play happily.
 
-![](./images/74_1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_1.png)
 
 ### Materials Required
 
@@ -30,47 +30,47 @@ Bricks × n
 
 Components Details
 
-![](./images/74_2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_2.png)
 
 Build it as the assembly steps suggest:
 
-![](./images/74_3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_3.png)
 
-![](./images/74_4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_4.png)
 
-![](./images/74_5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_5.png)
 
-![](./images/74_6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_6.png)
 
-![](./images/74_7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_7.png)
 
-![](./images/74_8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_8.png)
 
-![](./images/74_9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_9.png)
 
-![](./images/74_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_10.png)
 
-![](./images/74_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_11.png)
 
-![](./images/74_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_12.png)
 
-![](./images/74_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_13.png)
 
-![](./images/74_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_14.png)
 
-![](./images/74_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_15.png)
 
-![](./images/74_16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_16.png)
 
-![](./images/74_17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_17.png)
 
-![](./images/74_18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_18.png)
 
 ## Connection Diagram
 
 We need to connect the Motors to the M1 and M4 port, the Servos to the S1 and S4 port, and the RFID sensor to the IIC port.
 
-![](./images/74_19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_19.png)
 
 
 ##  MakeCode Programming
@@ -81,7 +81,7 @@ Click “Advanced” in the MakeCode drawer to see more choices.
 
 
 
-![](./images/49_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_10.png)
 
 
 
@@ -89,13 +89,13 @@ We need to add a package for programming. Click “Extensions” at the bottom o
 
 
 
-![](./images/49_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_11.png)
 
 
 
 We need to add a package for programming. Search with “PlanetX” in the dialogue box and click to download it.
 
-![](./images/49_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_12.png)
 
 
 
@@ -105,7 +105,7 @@ We need to add a package for programming. Search with “PlanetX” in the dialo
 
 The program is displayed below:
 
-![](./images/74_20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_20.png)
 
 Link: https://makecode.microbit.org/_Tvxc9aDKb4sW
 
@@ -134,4 +134,4 @@ You may also download it directly:
 
 When we put the card on the front of the RFID sensor, and the RFID sensor detects the card, the crab will start running sideways and swinging its two pincers in a circular motion.
 
-![](./images/74_21.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/74_21.gif)

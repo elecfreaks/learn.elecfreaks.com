@@ -1,11 +1,11 @@
-# Octopus Crash Sensor Brick(EF04013)
+﻿# Octopus Crash Sensor Brick(EF04013)
 
 ## Introduction
 
  Crash Sensor Brick is a sensor module based on crash switch, simple circuit design, high sensitivity.
 
 
- ![](./images/YR7t4Pj.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/YR7t4Pj.jpg)
 
 ## Products Link
 
@@ -34,7 +34,7 @@ Stability|Stable and durable
 ## Outlook and Dimensions
 
 
- ![](./images/vtK7bwP.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/vtK7bwP.png)
 
 ## Quick to Start
 
@@ -43,14 +43,14 @@ Stability|Stable and durable
 
 Take sensor:bit for example
 
- ![](./images/UUQlBRi.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/UUQlBRi.png)
 
 ### Quick to Start
  Set the P1 port to a higher level to initialize the module.
  After being pressed, the returned value is 0,  the digital read P1 pin is  0, then the icon is shown on the screen.
  Or it shows a box.
 
- ![](./images/Lp93T7L.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/Lp93T7L.png)
 
 ### Reference
 Links: https://makecode.microbit.org/_WMwRtRXFe2tw

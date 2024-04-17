@@ -9,7 +9,7 @@ The working principle of the smart pet feeder is as follows: firstly, the PIR se
 
 This smart pet feeder aims to cultivate primary and secondary school students' innovation and hands-on ability, and at the same time deepen students' understanding of programming knowledge by writing programmes to control the work of the feeder. In addition, this case is also conducive to cultivating students' awareness of caring for pets, so that they can care more about and take care of small animals at home.
 
-![](./images/microbit-smart-maker-kit-pet.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-pet.png)
 
 ## Catalogue
 

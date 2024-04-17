@@ -1,10 +1,10 @@
-# Octopus Soil Moisture Sensor Brick(EF04027)
+﻿# Octopus Soil Moisture Sensor Brick(EF04027)
 
 ## Introduction
 
  Octopus Soil Moisture Sensor Brick can read the amount of moisture present in the soil surrounding it.
 
- ![](./images/6eULTGI.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/6eULTGI.jpg)
 
 ## Products Link
 
@@ -32,7 +32,7 @@ Stability|Stable and durable
 ## Outlook and Dimensions
 
 
- ![](./images/fNkBc5w.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/fNkBc5w.png)
 
 ## Quick to Start
 
@@ -42,24 +42,24 @@ Stability|Stable and durable
 
   Take sensor:bit for example
 
- ![](./images/gcLtAb7.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/gcLtAb7.png)
 
  ### Add Package
 
   Click "Advanced"in the choice of the MakeCode to find more choices.
 
- ![](./images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
 
  Click "Extensions", search "iot"in the dialog box and then download it.
 
- ![](./images/AaZxCEb.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/AaZxCEb.jpg)
 
- ![](./images/KBD2b39.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/KBD2b39.png)
 
 ### Program as the picture shows
  The soil moisture is showing on the micro:bit circularly.
 
- ![](./images/RH35ccB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/RH35ccB.png)
 
 ### Reference
 Links: [https://makecode.microbit.org/_X3xXFcTkMUex](https://makecode.microbit.org/_X3xXFcTkMUex)

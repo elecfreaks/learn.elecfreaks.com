@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 2
 ---
 
@@ -10,7 +10,7 @@ sidebar_position: 2
 引体向上运动就是用自己的力量把自己的身体拉到一根横杆上，然后再放下来，重复多次。这是一种很好的锻炼身体的运动，可以让我们的背部、肩膀和手臂变得更强壮。引体向上运动还可以让我们的身体更挺拔，更有精神。这节课我们将用哪吒发明家套装 V2 来制作一个会做引体向上的机器人。
 
 
-![](./images/nezha-inventors-kit-v2-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-01-01.png)
 
 ## 教学目标
 
@@ -52,73 +52,73 @@ sidebar_position: 2
 
 ##### 搭建步骤
 
-![](./images/nezha-inventors-kit-v2-step-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-01.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-02.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-03.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-04.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-05.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-06.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-07.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-08.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-09.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-10.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-11.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-12.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-13.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-14.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-15.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-16.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-17.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-18.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-19.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-20.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-21.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-22.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-23.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-23.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-24.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-24.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-25.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-25.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-26.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-27.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-27.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-28.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-28.png)
 
-![](./images/nezha-inventors-kit-v2-step-01-29.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-29.png)
 
 **搭建完成**
 
-![](./images/nezha-inventors-kit-v2-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-01-01.png)
 
 ##### 硬件连接
 
 将电机连接到哪吒扩展板的M1接口。
 
-![](./images/nezha-inventors-kit-v2-case-07-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-07-02.png)
 
 ##### 软件编程
 
@@ -126,21 +126,21 @@ sidebar_position: 2
 
 新建项目
 
-![](./images/nezha-inventors-kit-v2-case-19-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-03.png)
 
 点击扩展
 
-![](./images/nezha-inventors-kit-v2-case-19-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-04.png)
 
 
 
 在搜索栏搜索`nezha`添加哪吒扩展板的扩展库
 
-![](./images/nezha-inventors-kit-v2-case-19-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-06.png)
 
 编写程序
 
-![](./images/nezha-inventors-kit-v2-case-01-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-01-07.png)
 
 
 程序链接:[https://makecode.microbit.org/_8bYg1C9v1WJA](https://makecode.microbit.org/_8bYg1C9v1WJA)
@@ -175,7 +175,7 @@ sidebar_position: 2
 
 按下micro:bit上的A键，机器人开始做引体向上运动，按下micro:bit上的B键，机器人停止做引体向上运动。
 
-![](./images/nezha-inventors-kit-v2-case-01.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-01.gif)
 
 ### 反思
 

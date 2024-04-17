@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 5
 sidebar_label: 均匀加速
 ---
@@ -15,7 +15,7 @@ sidebar_label: 均匀加速
 
 通过这个案例，我们将学习如何控制Cutebot智能赛车以平稳的方式起步。这个过程涉及到加速度的概念和编程技巧。编程可以帮助我们控制机器并实现我们的想法。继续保持好奇心和探索的精神，让我们一起享受这个充满创造力和想象力的编程之旅吧！
 
-![](./images/cutebot-case-02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-02-01.png)
 
 ## 使用材料
 
@@ -31,11 +31,11 @@ sidebar_label: 均匀加速
 
 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](./images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
 
 为了给Cutebot套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索`Cutebot`，然后点击下载这个代码库。
 
-![](./images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -45,7 +45,7 @@ sidebar_label: 均匀加速
 
 并且将速度变量`speed`设置为0，意味着初始速度为0。
 
-![](./images/case_02_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_02_01.png)
 
 ### 步骤 3
 
@@ -54,7 +54,7 @@ sidebar_label: 均匀加速
 
 并且判断如果`speed`速度等于`100`的时候，速度已经为最大值，将速度`speed`设置为0，重新起步。
 
-![](./images/case_02_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_02_02.png)
 
 ### 程序
 
@@ -86,7 +86,7 @@ sidebar_label: 均匀加速
 
 小车循环完成匀速起步，不会因为车速过快使前轮离地。
 
-![](./images/cutebot-case-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-02.gif)
 
 ## 思考
 

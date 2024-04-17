@@ -1,10 +1,10 @@
-# Rainbow LED Strip and GVS Connector -10 LEDs(EF04098)
+﻿# Rainbow LED Strip and GVS Connector -10 LEDs(EF04098)
 
 ## Introduction
 
  This is a colorful strip based on WS2812B beads, it can display the color of RGB and support multiple cascade at the same time.
 
- ![](./images/04098_0.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/04098_0.jpg)
 
 ## Products Link
 
@@ -33,7 +33,7 @@
 ## Outlook and Dimensions
 
 
- ![](./images/04098_2.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/04098_2.png)
 
 
 ## Quick to Start
@@ -42,20 +42,20 @@
 
  Connect to the P1 port of the extension board.
 
- ![](./images/04098_5.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/04098_5.png)
 
 ### Add Package
 
 Click "Advanced" in MakeCode to check more choices.
 
- ![](./images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/smtcNoB.png)
 
 Click "Extensions", and search "`neopixel`" in the dialogue box to download the codebase of LED beads.
 
 
 ### Programme as the Picture Shows
 
-  ![](./images/04098_3.png)
+  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/04098_3.png)
 
 ### Reference
 

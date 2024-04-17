@@ -14,13 +14,13 @@ sidebar_label: Cutebot智能赛车python使用示例
 下载压缩包并解压[EF_Produce_MicroPython-master](https://github.com/elecfreaks/EF_Produce_MicroPython/archive/refs/heads/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/cutebot-py-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-py-01.png)
 
 为了给酷比特智能赛车编程，我们需要添加Cutebot.py这个文件。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的EF_Produce_MicroPython-master文件夹，从中选择Cutebot.py这个文件添加进来。
 
-![](./images/cutebot-py-02.png)
-![](./images/cutebot-py-03.png)
-![](./images/cutebot-py-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-py-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-py-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-py-04.png)
 
 ## API
 

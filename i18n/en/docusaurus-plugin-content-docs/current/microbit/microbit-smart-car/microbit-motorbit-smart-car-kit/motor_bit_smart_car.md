@@ -1,4 +1,4 @@
-# Introduction
+﻿# Introduction
 
 
 motor:bit smart car kit is a tailor-made smart car for micro:bit and motor:bit. This kit includes a micro:bit, motor:bit, sonar:bit and 2 line tracking modules. You can use this kit to DIY a micro:bit two-wheel smart car.
@@ -29,7 +29,7 @@ Size of Finished Product|146mm x 124mm x 71mm
 
 ## Dimension
 
-![](./images/vehvUKJ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/vehvUKJ.jpg)
 
 
 ## Packing List
@@ -47,13 +47,13 @@ Size of Finished Product|146mm x 124mm x 71mm
 
 ### Assembly Overview
 
-![](./images/yeShOQZ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/yeShOQZ.jpg)
 
 ### Finished Product
 
-![](./images/jfltEih.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/jfltEih.jpg)
 
-![](./images/AuBmsFz.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/AuBmsFz.jpg)
 
 
 

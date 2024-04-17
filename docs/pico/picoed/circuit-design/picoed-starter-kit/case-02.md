@@ -1,11 +1,11 @@
----
+﻿---
 sidebar_position: 5
 sidebar_label: 按钮
 ---
 
 # 按钮
 
-![](./images/pico-ed-starter-kit-case-02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-02-01.png)
 
 ## 简介
 瞬时按钮开关是普遍使用的电子元件，在日常生活中使用主要用来连接和切断电路。在上一节课程中，我们已经学习了如何使用 Pico:ed 控制2颗 LED 灯交替闪烁。这节课我们将使用瞬时按钮开关来控制2颗 LED 灯的闪烁。当我们按下按钮，2颗 LED 灯会交替闪烁；松开按钮，LED 灯就会停止闪烁。
@@ -22,18 +22,18 @@ sidebar_label: 按钮
 1 × 瞬时按钮开关
 若干杜邦线
 
-![](./images/pico-ed-starter-kit-case-02-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-02-02.png)
 
 ## 主要元件介绍
 
 ### 瞬时按钮开关
 这是一个用来控制电子设备的普通元件。它大部分用于连接或者切断控制电路，从而实现电机或者其他电子设备的控制。 瞬时按钮开关通常是保持开启的。当它被按下的时候，电路就接通了；当它被弹起的时候，它就会跳回到未连接的状态。
 
-![](./images/pico-ed-starter-kit-case-02-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-02-03.png)
 
 瞬时按钮开关有4个引脚。这4个引脚可以被分为2组：引脚1短接引脚2，引脚3短接引脚4。
 
-![](./images/pico-ed-starter-kit-case-02-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-02-04.png)
 
 ## 实验步骤
 
@@ -43,11 +43,11 @@ sidebar_label: 按钮
 2.将 LED 灯的长引脚通过电阻，与 P0 口与 P1 口连接
 3.将瞬时开关与 P2 口连接
 
-![](./images/pico-ed-starter-kit-case-02-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-02-05.png)
 
 连接完成后如图：
 
-![](./images/pico-ed-starter-kit-case-02-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-02-06.png)
 
 ## 程序编写
 
@@ -137,7 +137,7 @@ while True:
 ## 实验结果
 当你按下按钮，你可以看到2颗 LED 灯交替闪烁；松开按钮，这两颗 LED 灯就停止闪烁。如果不是这样的话，请返回之前的步骤，检查你的操作。
 
-![](./images/pico-ed-starter-kit-case-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-02.gif)
 
 ## 思考
 如果我们想按下按钮点亮红色的 LED 灯，松开按钮点亮绿色的 LED 等，那么我们该如何编程呢？

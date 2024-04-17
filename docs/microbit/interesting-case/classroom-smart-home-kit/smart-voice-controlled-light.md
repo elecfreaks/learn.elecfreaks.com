@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 4
 sidebar_label: Smart Voice-Controlled Light
 ---
@@ -9,7 +9,7 @@ sidebar_label: Smart Voice-Controlled Light
 
 当光线变暗时，检测周围环境噪音，当周围环境噪音高于设定阈值时，自动打开RGB灯，开启十秒后自动关灯。
 
-![](./images/smart-voice-controlled-light-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light-01.png)
 
 ## 课前准备
 
@@ -73,7 +73,7 @@ sidebar_label: Smart Voice-Controlled Light
 
 将光线传感器连接到IOT:bit的P1端口，将噪音传感器连接到IOT:bit的P2端口，将彩虹灯连接到IOT:bit的P14端口。
 
-![](./images/smart-voice-controlled-light-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light-02.png)
 
 ## 软件编程
 
@@ -83,33 +83,33 @@ sidebar_label: Smart Voice-Controlled Light
 
 点击新建项目，在弹出的窗口填入项目名称并点击新建。
 
-![](./images/smart-voice-controlled-light-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light-03.png)
 
 点击扩展
 
-![](./images/smart-voice-controlled-light-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light-04.png)
 
 在弹出界面的搜索栏输入iot-environment-kit，点击搜索，在搜索结果中选择IOT:bit的软件库。
 
-![](./images/smart-voice-controlled-light-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light-05.png)
 
 ### 程序详解
 
 当开机时，设置彩虹灯数量为一颗，连接在P14端口。
 
-![](./images/smart-voice-controlled-light-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light-06.png)
 
 将连接至P1的光线传感器的返回值存入变量lightlevel，将连接至P2的噪音传感器的返回值存入变量noiselevel中。
 
-![](./images/smart-voice-controlled-light-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light-07.png)
 
 如果光线传感器的返回值小于60且噪音传感器的返回值大于80，则点亮白色灯光，等待十秒后，灯光自动熄灭。
 
-![](./images/smart-voice-controlled-light-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light-08.png)
 
 否则灯光熄灭。
 
-![](./images/smart-voice-controlled-light-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light-09.png)
 
 程序链接：[https://makecode.microbit.org/_2ve1HC6q5C5p](https://makecode.microbit.org/_2ve1HC6q5C5p)
 
@@ -118,4 +118,4 @@ sidebar_label: Smart Voice-Controlled Light
 
 当光线变暗时，检测周围环境噪音，当周围环境噪音高于设定阈值时，自动打开RGB灯，开启十秒后自动关灯。
 
-![](./images/smart-voice-controlled-light.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light.gif)

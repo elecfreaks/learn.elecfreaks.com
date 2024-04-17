@@ -1,10 +1,10 @@
-# 自锁按钮电子积木
+﻿# 自锁按钮电子积木
 
 ## 简介
 ---
 这是Push Lock E-Switch按钮模块，它可以检测您的按压动作，非常适合初学者使用。
 
-![](./images/04035.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/04035.jpg)
 
 ## 特性
 ---
@@ -24,7 +24,7 @@ SKU|EF04035
 ## 外形与定位尺寸
 ---
 
-![](./images/octopus_board.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/octopus_board.png)
 
 ## 快速上手
 ---
@@ -34,7 +34,7 @@ SKU|EF04035
 
 ***以sensor:bit为例***
 
-![](./images/04035-2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/04035-2.png)
 
 ### 添加packege
 

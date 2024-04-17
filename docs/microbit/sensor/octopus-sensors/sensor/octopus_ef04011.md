@@ -1,10 +1,10 @@
-# 触摸传感器电子积木
+﻿# 触摸传感器电子积木
 
 ## 简介
 ---
 Touch PAD Brick是一种传感器模块，主要通过电容式触摸TTP223-BA6充电IC和压力体，陶瓷，玻璃等介电材料，并且电荷水平用于检测传感器模块触摸开关的微小变化
 
- ![](./images/XLSIYQj.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/XLSIYQj.jpg)
 
 ## 特性
 ---
@@ -25,7 +25,7 @@ SKU|EF04011
 绝缘特性|绝缘介质可在0MM~10MM范围内
 ## 外形与定位尺寸
 ---
- ![](./images/uX6EyOO.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/uX6EyOO.png)
 
 ## 快速上手
 ---
@@ -39,18 +39,18 @@ SKU|EF04011
 
 连接到扩展板的P1口
 
- ![](./images/xqYKZ0r.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/xqYKZ0r.png)
 
 ### 添加Package
 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
- ![](./images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
 
 点击“Extensions”，在弹出的对话框中搜索“iot"，下载iot代码库。
- ![](./images/qChMeYd.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/qChMeYd.png)
 
 ### 如图所示编写程序
- ![](./images/04011_03.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04011_03.png)
 
 ### 参考程序
 请参考程序连接：

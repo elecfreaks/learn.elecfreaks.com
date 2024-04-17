@@ -1,11 +1,11 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: Ring:bit 二代小车套件
 ---
 
 # Ring:bit 二代小车套件
 
-![](./images/zoH1NRm.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/zoH1NRm.jpg)
 ## Ring:bit 二代小车套件简介
 ---
 
@@ -42,19 +42,19 @@ ELECFREAKS Ring:bit二代智能车是一款小型DIY智能车，由BBC micro:bit
 
 |元件|数量|图片|
 |:-:|:-:|:-:|
-|micro:bit|选配|![](./images/qd2qCry.png)|
-|Ring:bit 扩展板|1|![](./images/y42umRI.jpg)|
-|Ring:bit Car 扩展板|1|![](./images/FISsc91.jpg)|
-|Ring:bit Car 前板|1|![](./images/fsGQx7H.png)|
-|Ring:bit Car 后板|1|![](./images/wy2UOVu.jpg)|
-|Ring:bit Car 尾板|1|![](./images/XmJFP0l.jpg)|
-|Ring:bit Car 侧板|2|![](./images/N8GdGB3.jpg)|
-|Ring:bit Car 轮子|2|![](./images/HnkSTMd.jpg)|
-|连接轴|1|![](./images/7gvcsGF.jpg)|
-|360°舵机|2|![](./images/U3XGnyB.jpg)|
-|金属万向轮|1|![](./images/Ky220DU.jpg)|
-|平头螺丝钉|5|![](./images/LqTtuBl.jpg)|
-|自攻螺丝钉|5|![](./images/SIgzxED.jpg)|
-|R型塑料铆钉|2|![](./images/dYrPAoC.jpg)|
-|十字螺丝刀|1|![](./images/NbE9vox.jpg)|
-|橡皮筋|1|![](./images/LKjqmwk.jpg)|
+|micro:bit|选配|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/qd2qCry.png)|
+|Ring:bit 扩展板|1|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/y42umRI.jpg)|
+|Ring:bit Car 扩展板|1|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/FISsc91.jpg)|
+|Ring:bit Car 前板|1|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/fsGQx7H.png)|
+|Ring:bit Car 后板|1|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/wy2UOVu.jpg)|
+|Ring:bit Car 尾板|1|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/XmJFP0l.jpg)|
+|Ring:bit Car 侧板|2|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/N8GdGB3.jpg)|
+|Ring:bit Car 轮子|2|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/HnkSTMd.jpg)|
+|连接轴|1|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/7gvcsGF.jpg)|
+|360°舵机|2|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/U3XGnyB.jpg)|
+|金属万向轮|1|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/Ky220DU.jpg)|
+|平头螺丝钉|5|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/LqTtuBl.jpg)|
+|自攻螺丝钉|5|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/SIgzxED.jpg)|
+|R型塑料铆钉|2|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/dYrPAoC.jpg)|
+|十字螺丝刀|1|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/NbE9vox.jpg)|
+|橡皮筋|1|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/LKjqmwk.jpg)|

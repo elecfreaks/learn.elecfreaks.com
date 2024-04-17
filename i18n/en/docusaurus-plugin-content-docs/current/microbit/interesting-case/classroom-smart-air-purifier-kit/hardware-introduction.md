@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: Hardware Introduction
 ---
@@ -7,7 +7,7 @@ sidebar_label: Hardware Introduction
 
 ### micro:bit Introduction
 
-![](./images/microbit-smart-maker-kit-case02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-case02-01.png)
 
 The micro:bit is a miniature computer designed for educational programming purposes for young people, measuring only 4cm x 5cm, but with a range of sensors and LEDs that can be used to control and monitor the physical world.
 
@@ -19,7 +19,7 @@ For more information about micro:bit, please visit: [micro:bit official website]
 
 ## IOT:bit
 
-![](./images/hardware-introduction-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-air-purifier-kit/images/hardware-introduction-01.png)
 
 The IOT:bit expansion board is an expansion board with bountiful functions designed for micro:bit. You may find more details below:
 
@@ -41,7 +41,7 @@ For more information about IOT:bit, please visit: [IOT:bit IoT Expansion Board](
 
 ### Octopus Dust Sensor
 
-![](./images/microbit-smart-maker-kit-case02-01-4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-case02-01-4.png)
 
 A dust sensor is an air quality sensor used to detect the concentration of fine dust particles in the air.
 
@@ -55,10 +55,10 @@ For more information about dust sensors, welcome to visit: [Octopus Dust Sensor 
 
 ### Octopus Motor Fan
 
-![](./images/microbit-smart-maker-kit-case02-01-3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-case02-01-3.png)
 
 An electric motor is a device that converts electrical energy into kinetic energy based on the law of electromagnetic induction. The basic components of this motor include armature and stator. The armature coil is the motor is categorised in a very large number of ways, in this case we are using a DC motor. When a DC voltage is added to the ends of the motor, the motor will rotate, and the higher the voltage, the faster it will rotate.
 
-![](./images/microbit-smart-maker-kit-case02-01-2.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-case02-01-2.gif)
 
 For more information about motor fans, please visit: [Octopus Motor Fan Introduction Wiki Link](http://wiki.elecfreaks.com/en/microbit/sensor/octopus-sensors/output/octopus_ef04059/).

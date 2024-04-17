@@ -1,4 +1,4 @@
-# case 24 The Climbing LEDs
+﻿# case 24 The Climbing LEDs
 
 ## Introduction
 
@@ -26,7 +26,7 @@ Click "Advanced" in the MakeCode to see more choices.
 
 
 
-![](./images/case_23_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_23_10.png)
 
 
 

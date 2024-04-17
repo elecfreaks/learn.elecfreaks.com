@@ -1,11 +1,11 @@
-# Robit(EF03413)
+﻿# Robit(EF03413)
 
 ## Introduction
 ---
 
 Robit is a motherboard of smart car based on micro:bit. It is compatible with MBOT. Except for the integration of the simple and convinient RJ25 connector，motor connector and sensor on MBOT, we have extended 4 DC motor connectors, 2 stepping motor connectors(same with 4 DC motor connectors), 8 PWM signal output connectors on this board. You can use it to drive PWM signal driving devices like servo. It has 8 G-5V-S digital signal connectors(for connecting with OCTOPUS electric bricks). Robit can realize all current basic functions of MBOT. Besides, you can extend its usage with more sensors, motors, servos, stepping motors and so on.
 
-![](./images/ybkfOnk.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/ybkfOnk.jpg)
 
 
 ## Features
@@ -44,12 +44,12 @@ Net Weight | 46g
 ## Dimension
 ---
 
-![](./images/DHJWwCU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/DHJWwCU.png)
 
 ## Pins & Connectors
 ---
 
-![](./images/4ZNLceA.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/4ZNLceA.png)
 
 
 ## Introduction of Major Components
@@ -57,7 +57,7 @@ Net Weight | 46g
 
 ### RJ25 Connector
 
-![](./images/AiRvd9b.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/AiRvd9b.png)
 
 Robit has 4 RJ25 connectors. Each RJ25 connector has 6 touch points. These points respond to power, 2 IO ports and IIC ports separately. It is compatible with some sensors on MBOT.
 
@@ -70,79 +70,79 @@ J4 | SCL(P19)/SDA(P20)/GND/5V/P3/P4 (It supports 5V analog input sensor.)
 
 ### GVS Standard Electric Brick Connector
 
-![](./images/EX5gFN0.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/EX5gFN0.png)
 
 Except leading out to RJ25 connector, the IO port on micro:bit also lead out with the format of GVS. It is support 5V components. Besides, P1/P2/P3/P4 support 5V analog input sensors.
 
 ### GVS Standard Servo Connector: S0~S7
 
-![](./images/q60J0FD.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/q60J0FD.png)
 
 You can connect 8 servos at most. This connector leads out from the chip PCA9685 and extends from the IIC connector on micro:bit instead of normal I/O ports.
 
 ### DC Motor Connector: M1~M4
 
-![](./images/foGr3ds.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/foGr3ds.png)
 
 It allows you to connect 4 DC motors (max) at the same time. This connector leads out from the chip PCA9685 and extends from the IIC connector on micro:bit instead of normal I/O ports.
 
 ### Stepping Motor Connector: STEP1 & STEP2
 
-![](./images/SgFEXhW.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/SgFEXhW.png)
 
 It enables you to connect 2 stepping motors(28BYJ-48-5V) at most.
 
 ### Buzzer
 
-![](./images/OJuywhz.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/OJuywhz.png)
 
 The buzzer is connected to the P0 port on micro:bit.
 
 ### Light Sensor
 
-![](./images/GxtT0KK.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/GxtT0KK.png)
 
 The light sensor onboard is connected to the P10 port on micro:bit.
 
 ### Infrared Emitting Diode
 
-![](./images/iMOf8lZ.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/iMOf8lZ.png)
 
 This infrared emitting diode is connected to the P6 port on micro:bit.
 
 ### Infrared Receiving Diode
 
-![](./images/uw7fE9k.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/uw7fE9k.png)
 
 This infrared receiving diode is connected to the P8 port on micro:bit.
 
 ### Rainbow LED
 
-![](./images/aANe5pE.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/aANe5pE.png)
 
 Two rainbow LED beads are connected to the P12 port on micro:bit.
 
 ### DC Power Connector
 
-![](./images/5hUXn0Y.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/5hUXn0Y.png)
 
 DC power connector supports 3.7V~4.2V DC power. It is usually connected to a battery holder with 4 AAA batteries.
 
 ### Li-battery Connector
 
-![](./images/CX1F1jI.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/CX1F1jI.png)
 
 Li-battery connector supports 3.7V~4.2V li-battery.
 
 ### Li-battery Indicator
 
-![](./images/86v4GeD.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/86v4GeD.png)
 
 This indicator tells you battery power information. It is in blinking status. Blink once means 1 grid of power. And the full power has 4 grids. That means it will blink 4 times when the battery power is full.
 
 ### USB Connector
 
-![](./images/9xSHrjg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/9xSHrjg.png)
 
 This connector is only used to charge li-battery. It doesn't support data transmit and its charging current is 500mA.
 
@@ -155,17 +155,17 @@ This connector is only used to charge li-battery. It doesn't support data transm
 Fix robit onto mbot car.
 Connect left motor to M1 port, and right motor to M2 port.
 Once completed, it looks like the following picture showed.
-![](./images/sVvkB7S.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/sVvkB7S.jpg)
 
 ### Programming
 
 Click to open [makecode](https://makecode.microbit.org/), search the key word `robit` and add robit package.
 
-![](./images/C0LxMkP.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/C0LxMkP.png)
 
 Write your code to make the car forever move forth and back for 3 seconds respectively. Here's the code:
 
-![](./images/8WwA6Bp.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/8WwA6Bp.png)
 
 You can see the whole program from the link here: [https://makecode.microbit.org/_aXVAyx3dm585](https://makecode.microbit.org/_aXVAyx3dm585)
 
@@ -223,15 +223,15 @@ We can see our robit car moves forward for 3 seconds, and then backward 3 second
 
 When the transmitter emit ultrasonic wave in a certain direction, it starts time record simultaneously. The wave spreading in the air will be reflected back when encountering a barrier. Once the receiver has received the returned wave, it will stop time record immediately. You can calculate the distance according to the time when the reflected ultrasonic wave is received by the receiver. It is similar to the radar ranging principle.
 
-![](./images/jH37Ue8.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/jH37Ue8.jpg)
 
 
 ### Hardware Assembly
 
 Connect ultrasonic module to J1 port on Robit with RJ25 wire, just as the following picture showed.
 
-![](./images/pQI1cnx.png)
-![](./images/Bl7w1CP.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/pQI1cnx.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/Bl7w1CP.jpg)
 
 
 ### Software
@@ -246,11 +246,11 @@ Connect ultrasonic module to J1 port on Robit with RJ25 wire, just as the follow
 
 Click **Advanced** in the code drawer to see more code options.
 
-![](./images/LjMR5IU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LjMR5IU.png)
 
 In order to program for the ultrasonic module, we have to add a package. Find **Add Package** at the bottom of code drawer, and click on it. This will pop up a dialogue box. Search for **Robit**, and then click to download this package.
 
-![](./images/ISZ6w26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/ISZ6w26.png)
 
 **Note:**
 If you get a hint  that some packages will be deleted due to the problem of incompatibility, you can either follow the prompts, or create a new project in the project menue.
@@ -261,7 +261,7 @@ Drag out a **forever** brick from **Basic**, and embed it into brick **show numb
 
 Drag out the brick **ultrasonic pin** from Robit, and choose J1(P13,P14). This statement will read the return parameter of the ultrasonic module.
 
-![](./images/hwrw0c8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/hwrw0c8.png)
 
 
 #### Programming
@@ -295,7 +295,7 @@ Or, you can download directly from the page below.
 
 Ultrasonic module will measure return distance in real time and display it on micro：bit 5x5 LED grid. The unit of distance is centimeter(CM).
 
-![](./images/ei4UK7x.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/ei4UK7x.jpg)
 
 
 ### Think
@@ -333,9 +333,9 @@ In our last chapter Ultrasonic Distance Measurement, we have realized measuring 
 
 Connect the left motor to port M1 and the right motor to port M2. Same to the last chapter, the ultrasonic module shall be connected to J1 port.
 
-![](./images/foGr3ds.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/foGr3ds.png)
 
-![](./images/dVr2oEr.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/dVr2oEr.jpg)
 
 
 ### Software
@@ -351,11 +351,11 @@ Connect the left motor to port M1 and the right motor to port M2. Same to the la
 
 Click **Advanced** in the code drawer to see more code options.
 
-![](./images/LjMR5IU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LjMR5IU.png)
 
 To program for the ultrasonic module, we have to add a package. Find **Add Package** in the bottom of code drawer, and click it. This will pop up a dialogue box. Search **Robit** and then click it to download this package.
 
-![](./images/ISZ6w26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/ISZ6w26.png)
 
 **Note:**
 If you get a hint  that some packages will be deleted due to the problem of incompatibility, you can either follow the prompts, or create a new project in the project menue.
@@ -366,20 +366,20 @@ At the beginning of our program, we have defined an variable--away, which is use
 
 Assign the speed of both M1 and M2 to be 20.
 
-![](./images/cNxMb1t.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/cNxMb1t.png)
 
 #### Step 3
 
 Create a forever loop so that it can read the reflected ultrasonic data from J1 port in real time and assign values to away.
 
-![](./images/iNreh61.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/iNreh61.png)
 
 ##### Stop to Prevent Collision
 
 When the measured distance (away) is smaller than 8cm, stop the car. After 300ms, set a negative number to M1 and M2 respectively to realize reversing, and delay time for 600ms.
 
 
-![](./images/Axkwbms.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/Axkwbms.png)
 
 ##### Steer to Avoid Obstacle
 
@@ -389,11 +389,11 @@ When the random number is smaller than 50, the motor speed of M1 is negative, th
 
 When the random number is beyond 50, the motor speed of M2 is negative, the right wheel runs oppositely to complete a left turn.
 
-![](./images/DsDXQmg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/DsDXQmg.png)
 
 When the measured distance(away) is beyond 10cm and not equal to 0, set the speed of M1 and M2 to be 20, then the car will move forward.
 
-![](./images/7x5XG1k.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/7x5XG1k.png)
 
 #### Programming
 
@@ -465,7 +465,7 @@ Because the LED dot metrix will greatly decrease the running speed of the progra
 - This line tracking module has an infrared sensor, which consists of a **transmitter** and a **receiver**. The transmitter emits infrared light, while the receiver collects the inrared light reflected by the ground.
 - When encountering black ground or other objects that absorb infrared, the receiver can't receive infrared light, thus line tracking module will return 1.
 
-![](./images/3bf4rux.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/3bf4rux.jpg)
 
 
 ### Hardware Assembly
@@ -474,11 +474,11 @@ Because the LED dot metrix will greatly decrease the running speed of the progra
 Like the previous chapter, connect motors to port M1 and M2.
 Using RJ25 wire to connect line tracking module to port J2 on Robit just as pictures below.
 
-![](./images/pQI1cnx.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/pQI1cnx.png)
 
-![](./images/buHExmA.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/buHExmA.jpg)
 
-![](./images/LCkSCvZ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LCkSCvZ.jpg)
 
 
 ### Software
@@ -494,11 +494,11 @@ Using RJ25 wire to connect line tracking module to port J2 on Robit just as pict
 
 Click **Advanced** in the code drawer of Makecode to see more options.
 
-![](./images/LjMR5IU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LjMR5IU.png)
 
 To program for line tracking module, we have to add a package. Find **Add Package** at the bottom of code drawer and click it. This will pop up a dialogue box. Search **Robit**, and then click to download this package.
 
-![](./images/ISZ6w26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/ISZ6w26.png)
 
 **Note:**
 If you get a hint that some packages will be deleted due to the problem of incompatibility, you can either follow the prompts, or create a new project in the project menue.
@@ -507,20 +507,20 @@ If you get a hint that some packages will be deleted due to the problem of incom
 
 The initial line tracking module port at the beginning of our program is J2(P15,P16). Set the motor speed of M1 and M2 to be 15.
 
-![](./images/9yNapu4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/9yNapu4.png)
 
 Set the return value of the left and right infrared sensor to be variables: left and right. These variables can read the return parameters of the infrared sensors.
 
-![](./images/8Ez3dTm.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/8Ez3dTm.png)
 
 If one of these infrared sensors doesn't receive any feedback(detected edges), the motor speed is negative, and the car will reverse.
 Randomly generate a number from 0 to 100. If it is below 50, the motor M1 stops to complete a right turn. If it is beyond 50, the motor M2 stops to complete a left turn.
 
-![](./images/gpsfDps.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/gpsfDps.png)
 
 If both infrared sensors don't detect edges, set the motor speed to be 15 and the car continue to move forward.
 
-![](./images/OCspxD3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/OCspxD3.png)
 
 
 ### Programming
@@ -557,7 +557,7 @@ Or you can download it directly from the page below.
 
 Once detected table edges, mBot will move backward to prevent falling down.
 
-![](./images/u7fGgG1.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/u7fGgG1.gif)
 
 
 
@@ -582,11 +582,11 @@ Once detected table edges, mBot will move backward to prevent falling down.
 Like the previous chapter, connect motors to port M1 and M2.
 Using RJ25 wire to connect the line tracking module to port J2 on Robit just as pictures below.
 
-![](./images/pQI1cnx.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/pQI1cnx.png)
 
-![](./images/buHExmA.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/buHExmA.jpg)
 
-![](./images/LCkSCvZ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LCkSCvZ.jpg)
 
 
 ### Software
@@ -602,11 +602,11 @@ Using RJ25 wire to connect the line tracking module to port J2 on Robit just as 
 
 Click **Advanced** in the code drawer of Makecode to see more options.
 
-![](./images/LjMR5IU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LjMR5IU.png)
 
 To program for line tracking module, we have to add a package. Find **Add Package** at the bottom of code drawer and click it. This will pop up a dialogue box. Search **Robit**, and then click to download this package.
 
-![](./images/ISZ6w26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/ISZ6w26.png)
 
 **Note:**
 If you get a hint that some packages will be deleted due to the problem of incompatibility, you can either follow the prompts, or create a new project in the project menue.
@@ -615,19 +615,19 @@ If you get a hint that some packages will be deleted due to the problem of incom
 
 The initial line tracking module port at the beginning of our program is J2(P15,P16). Set the motor speed of M1 and M2 to be 15.
 
-![](./images/9yNapu4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/9yNapu4.png)
 
 Set the return value of the left and right infrared sensor to be variables: left and right. These variables can read the return parameters of the infrared sensors.
 
-![](./images/8Ez3dTm.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/8Ez3dTm.png)
 
 If the right infrared sensor has detected derailment from the black line, set the speed of left wheel to be 5 and the speed of right wheel to be 25, making the car turn left. And then create a loop to check if the car has returned to the black line. If not, then continue to turn left until return to the black line.
 
-![](./images/BPMSHwa.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/BPMSHwa.png)
 
 If the left infrared sensor has detected derailment from the black line, then the car will turn right to return to the black line.
 
-![](./images/4F0soRe.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/4F0soRe.png)
 
 #### Programming
 
@@ -663,7 +663,7 @@ Or you can directly download from the page below.
 
 The mBot car will move forward along the planned black line.
 
-![](./images/15YjRy5.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/15YjRy5.gif)
 
 
 
@@ -695,14 +695,14 @@ Inside the buzzer, it has integrated an oscillating system and amplified samplin
 
 - Here's the flow chart of active buzzer working principle:
 
-![](./images/sRjxQfi.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/sRjxQfi.jpg)
 
 - Working Principle of Passive Buzzer:
 Convert the square wave input into sound signal output via the resonantor.
 
 - Here's the flow chart of passive buzzer working principle:
 
-![](./images/Fd2YwUH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/Fd2YwUH.jpg)
 
 **Note:** In this experiment, what we have used is passive buzzer.
 
@@ -716,15 +716,15 @@ Convert the square wave input into sound signal output via the resonantor.
 
 Connect the left motor to M1 and the right motor to M2.
 
-![](./images/foGr3ds.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/foGr3ds.png)
 
 Plug in ultrasonic module to J1. In this project, our goal is to realize reversing alarm function. Therefore, the ultrasonic module needs to be installed at the tail of the mBot car.
 
-![](./images/aAEIPxi.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/aAEIPxi.jpg)
 
 The buzzer is marked in the picture below. It is connected to P0 port on micro:bit.
 
-![](./images/nYUOS8t.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nYUOS8t.png)
 
 
 ### Software
@@ -740,11 +740,11 @@ The buzzer is marked in the picture below. It is connected to P0 port on micro:b
 
 Click **Advanced** in the code drawer of Makecode to see more options.
 
-![](./images/LjMR5IU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LjMR5IU.png)
 
 To program for the ultrasonic module, we have to add a package. Find **Add Package** in the bottom of code drawer and click it. This will pop up a dialogue box. Search "Robit" in the box and click on it to download this package.
 
-![](./images/ISZ6w26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/ISZ6w26.png)
 
 **Note:**
 If you get a hint that some packages will be deleted due to the problem of incompatibility, you can either follow the prompts, or create a new project in the project menue.
@@ -753,7 +753,7 @@ If you get a hint that some packages will be deleted due to the problem of incom
 
 At the beginning of our program, we set the frequency of buzzer to be 400Hz and the motor speed to be -30.
 
-![](./images/5LdCdUM.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/5LdCdUM.png)
 
 #### Step 3
 
@@ -761,16 +761,16 @@ Create a forever loop and store the returned data of the ultrasonic module into 
 
 If the distance between the car and the wall is 10cm or less, the buzzer alarms and the motors stop at the same time.
 
-![](./images/HfwwKSH.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/HfwwKSH.png)
 
 
 If the distance is less than 50cm but beyond 10cm, the buzzer alarms in 1/2 beat and set the motor speed to be -15.
 
-![](./images/TaSRDb9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/TaSRDb9.png)
 
 If the distance is beyond 50cm, the buzzer alarm in 4 beats and set the motor speed to be -30.
 
-![](./images/ASwsTIA.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/ASwsTIA.png)
 
 ### Program
 

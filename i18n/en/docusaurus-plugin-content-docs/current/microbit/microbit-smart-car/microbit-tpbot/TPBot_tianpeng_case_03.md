@@ -1,4 +1,4 @@
----
+﻿---
 
 sidebar_position: 10
 sidebar_label: Line Tracking
@@ -18,7 +18,7 @@ sidebar_label: Line Tracking
 
 
 
-![](./images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_01.png)
 
 
 
@@ -35,17 +35,17 @@ sidebar_label: Line Tracking
 
 - Click "Advanced" to see more choices in the MakeCode drawer.
 
-![](./images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_02.png)
 
 - We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "tpbot" in the dialogue box to download it.
 
-![](./images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_03.png)
 
 ### Sample
 - Judge the status of the line-tracking sensors: if the black was detected on the left, set the speed of the left wheel in 0 and the right in 40; if the black was detected on the right, set the speed of the left wheel in 40 and the right in 0.
 
 
-![](./images/TPBot_tianpeng_case_03_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_03_04.png)
 
 ### Link
 

@@ -1,4 +1,4 @@
-# case 06 NTC
+﻿# case 06 NTC
 
 ## Introduction ##
 
@@ -11,13 +11,13 @@
 
 ## Hardware Connect ##
 
-![](./images/Tk7Ddy9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/Tk7Ddy9.png)
 
  Connect circuit as above picture and put 2 AAA batteries into batteries pack.
 
 ## Principles of Circuits ##
 
-![](./images/8pV3WaA.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/8pV3WaA.png)
 
  The GND of slot on micro:bit is into innards of batteries' GND to generate current loop.
 
@@ -27,7 +27,7 @@
  The NTC is an analog temperature sensor where the output voltage and temperature form a liner relationship. The higher the temperature, the larger the output voltage.
  The experiment box included a NTC.
 
-![](./images/M3k99Lj.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/M3k99Lj.png)
 
 ***Note:*** Please note the positive and the negative when you are connecting.
 
@@ -39,13 +39,13 @@
 
  Click on "New Project" and set a new Project.
 
-![](./images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/t34k5Zb.png)
 
 ### Step 2
 
  Reduction Formula：
 
-![](./images/sTfPnYc.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/sTfPnYc.png)
 
  The reading is an analog value of the IO port, we need a formula as above to convert the values into Celsius.
 
@@ -55,11 +55,11 @@
  Set "Temperature" as a variable to store the Celsius.
  As above formula, convert the values of P0 into Celsius.
 
-![](./images/N91GU48.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/N91GU48.png)
 
  Show the temperature value and pauce a second.
 
-![](./images/poCULlT.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/poCULlT.png)
 
 ### Program
 

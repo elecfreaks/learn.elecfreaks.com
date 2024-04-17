@@ -1,9 +1,9 @@
-# 18B20温度传感器
+﻿# 18B20温度传感器
 
 ## 简介
 18B20温度传感器是基于Maxim IC DS18B20 1-Wire的数字温度传感器。
 
-![](./images/05041_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05041_01.png)
 
 ## 特性
 ---
@@ -27,7 +27,7 @@ SKU|EF05041
 ---
 
 
-![](./images/05041_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05041_02.png)
 
 
 ## 快速上手
@@ -39,7 +39,7 @@ SKU|EF05041
 - 如下图所示，将18B20温度传感器连接到哪吒扩展板的J1端口，并将OLED显示屏连接到哪吒扩展板的IIC端口。
 
 
-![](./images/05041_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05041_03.png)
 
 
 
@@ -49,17 +49,17 @@ SKU|EF05041
 ### 步骤 1
 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
-![](./images/05001_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05001_04.png)
 
 为了给18B20温度传感器编程，我们需要添加一个扩展库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框，搜索”PlanetX“，然后点击下载这个代码库。
 
-![](./images/05001_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05001_05.png)
 
 *注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 ### 步骤 2
 ### 如图所示编写程序
 
-![](./images/05041_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05041_06.png)
 
 
 ### 参考程序

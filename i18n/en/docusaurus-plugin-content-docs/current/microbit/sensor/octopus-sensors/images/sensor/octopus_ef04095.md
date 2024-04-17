@@ -1,10 +1,10 @@
-# Octopus Water-proof Temperature Sensor(EF04095)
+﻿# Octopus Water-proof Temperature Sensor(EF04095)
 
 ## Introduction
 
  This sensor is a tempeterature detector used to test the liquid temperature based on 18b20.
 
- ![](./images/04095_0.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04095_0.jpg)
 ## Products Link
 
 [ELECFREAKS Octopus Waterproof Temperature Sensor (DS18B20)](https://shop.elecfreaks.com/products/elecfreaks-octopus-waterproof-temperature-sensor-ds18b20?_pos=1&_sid=fe1f005ab&_ss=r)
@@ -32,7 +32,7 @@
 ## Outlook and Dimensions
 
 
- ![](./images/04095_1.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04095_1.jpg)
 
 
 ## Quick to Start
@@ -41,20 +41,20 @@
 
  Connect to the P1 port of the extension board.
 
- ![](./images/04095_2.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04095_2.png)
 
 ###  Add Package
 
 Click "Advanced" in MakeCode to check more choices.
 
- ![](./images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/smtcNoB.png)
 
 Click "Extensions", and search “`https://github.com/elecfreaks/pxt-ds18b20`" in the dialogue box to download the codebase of 18b20.
 
 
 ### Programme as the Picture Shows
 
-  ![](./images/04095_3.png)
+  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04095_3.png)
 
 ### Reference
 

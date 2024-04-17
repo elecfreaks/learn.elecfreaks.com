@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 4
 sidebar_label: Smart Voice-Controlled Light
 ---
@@ -9,7 +9,7 @@ sidebar_label: Smart Voice-Controlled Light
 
 Detects ambient noise when the light is dimmed, the RGB light turns on when the ambient noise is higher than the set threshold, and it automatically turn off after ten seconds.
 
-![](./images/smart-voice-controlled-light-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light-01.png)
 
 ## Materials Requested
 
@@ -73,7 +73,7 @@ How do you ensure that sound triggers a light switch only when the light is low?
 
 Connect the light sensor to P1 and the noise sensor to P2 on IoT:bit board.
 
-![](./images/smart-voice-controlled-light-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light-02.png)
 
 ## Software Programming
 
@@ -83,33 +83,33 @@ Go to [makecode](https://makecode.microbit.org/)
 
 Click "Create projects" and give it a name in the box, then click "Create".
 
-![](./images/smart-voice-controlled-light-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light-03.png)
 
 Click "Extensions"
 
-![](./images/smart-voice-controlled-light-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light-04.png)
 
 Search with "iot-environment-kit" in the box and dowoload it.
 
-![](./images/smart-voice-controlled-light-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light-05.png)
 
 ### Code Interpretation
 
 While in the "On start" block, set the rainbow LED with 1 LED and get it connected with P14 port.
 
-![](./images/smart-voice-controlled-light-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light-06.png)
 
 Save the returned value from the light sensor connecting to P1 as the variable "lightlevel", save the returned value from the noise sensor connecting to P2 as the variable "noiselevel".
 
-![](./images/smart-voice-controlled-light-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light-07.png)
 
 If the light value is below 60 and the noise value over 80, set to light up in white and turn it off after 10S.
 
-![](./images/smart-voice-controlled-light-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light-08.png)
 
 Or turn it off.
 
-![](./images/smart-voice-controlled-light-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light-09.png)
 
 Link: [https://makecode.microbit.org/_2ve1HC6q5C5p](https://makecode.microbit.org/_2ve1HC6q5C5p)
 
@@ -118,4 +118,4 @@ Link: [https://makecode.microbit.org/_2ve1HC6q5C5p](https://makecode.microbit.or
 
 Detects ambient noise when the light is dimmed, the RGB light turns on when the ambient noise is higher than the set threshold, and it automatically turn off after ten seconds.
 
-![](./images/smart-voice-controlled-light.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/smart-voice-controlled-light.gif)

@@ -3,13 +3,13 @@
 ## 简介
 - - - - -
 
-![](./images/wukong_00.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_00.jpg)
 
 悟空 是一款基于micro:bit的高集成度多功能扩展板，它的大小与micro:bit相近，功能十分丰富，集成了蜂鸣器、舵机驱动、电机驱动等。
 自带400mAh锂电池包，板载电源管理系统，支持快速充电，充满仅需20分钟，满负载运行时间可达到40分钟以上。
 扩展板底座为乐高标准 7 X 5 方形积木块，完美接入乐高积木。
 
-![](./images/wukong_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_01.jpg)
 
 
 ## 购买链接
@@ -59,7 +59,7 @@
 ## 外型与定位尺寸
 - - - - -
 
-![](./images/wukong_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_02.png)
 
 
 ## 主要模块介绍
@@ -67,37 +67,37 @@
 
 ### 开关，usb供电口及电量指示灯
 
-![](./images/wukong_07.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_07.jpg)
 
 ### micro:bit主板插销
 
-![](./images/wukong_15.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_15.jpg)
 
 ### 电机驱动接口
 
-![](./images/wukong_03.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_03.jpg)
 
 ### 3V舵机驱动接口
 
-![](./images/wukong_04.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_04.jpg)
 
 ### 8路标准GVS接口及5v接口
 
-![](./images/wukong_05.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_05.jpg)
 
 ### I2C排母接口
 
-![](./images/wukong_06.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_06.jpg)
 
 ### 4颗Rainbow LED
 
-![](./images/wukong_08.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_08.jpg)
 
 ### 蜂鸣器(背面)
 
-![](./images/wukong_09.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_09.jpg)
 
-![](./images/wukong_10.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_10.jpg)
 
 *注意：*
 
@@ -111,15 +111,15 @@
 
 ### 8颗氛围灯(背面)
 
-![](./images/wukong_11.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_11.jpg)
 
 ### 锂电池接口(背面)
 
-![](./images/wukong_12.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_12.jpg)
 
 ### 乐高固定螺丝孔M3(背面)
 
-![](./images/wukong_13.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_13.jpg)
 
 
 ## 快速上手
@@ -130,7 +130,7 @@
 - 将micro:bit主板插入主板插销座，主板带LOGO一面，朝向蜂鸣器开关一侧。
 - 单击一次电源开关打开电源。
 
-![](./images/wukong_20.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_20.jpg)
 
 ### 软件编程平台（makecode）
 
@@ -142,12 +142,12 @@
 
 - 点击高级`Advanced`，在下拉菜单中点击扩展`Extensions`，进入添加积木块菜单。
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-1.png)
 
 - 在搜索框中搜索`wukong`，点击图片中`wukong`，添加扩展包。
 - 添加完成。
 
-![](./images/wukong_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_14.png)
 
 ## 使用方法
 - - - - -
@@ -157,7 +157,7 @@
 - 双击电源开关，关机，电源指示灯熄灭。
 - 将USB电源线连接至充电接口，常亮灯为当前所剩电量，剩余灯依次点亮则进入充电模式。
 
-![](./images/wukong_07.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_07.jpg)
 
 电源指示灯状态：
 
@@ -202,7 +202,7 @@
 
 - 悟空扩展板有两路电机驱动端口分别为M1和M2，可以连接市面上常用的电机。
 
-![](./images/wukong_03.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_03.jpg)
 
 参考程序连接：[https://makecode.microbit.org/_78keCLdmU1Ez](https://makecode.microbit.org/_78keCLdmU1Ez)，你也可以通过下方网页直接下载程序。
 
@@ -229,8 +229,8 @@
 
 - 悟空扩展板带有一个蜂鸣器，位置在底板下方，已经连接micro:bit主板的P0口，可以直接使用`音乐`积木块驱动，同时可以拨动正面的蜂鸣器开关来启用或者禁用蜂鸣器功能。
 
-![](./images/wukong_09.jpg)
-![](./images/wukong_10.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_09.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_10.jpg)
 
 参考程序连接：[https://makecode.microbit.org/_JmM5btU4dHUb](https://makecode.microbit.org/_JmM5btU4dHUb)
 
@@ -259,7 +259,7 @@
 
 - 悟空扩展板上拥有4颗彩虹灯，分为LED0、LED1、LED2、LED3，已经连接至micro:bit主板的P16口，可以使用悟空扩展库里流光溢彩灯积木块驱动使用。
 
-![](./images/wukong_08.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_08.jpg)
 
 参考程序连接：[https://makecode.microbit.org/_61T2w6cqTib0](https://makecode.microbit.org/_61T2w6cqTib0)
 
@@ -289,7 +289,7 @@
 - 180度舵机可以设置舵机角度0~180度。
 - 360度舵机设置0度为正转最大速度，180度为反转最大速度，90度为停止，0~90度和90~180度为速度调制范围。
 
-![](./images/wukong_04.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_04.jpg)
 
 参考程序连接：[https://makecode.microbit.org/_6Pw63w49u5qq](https://makecode.microbit.org/_6Pw63w49u5qq)
 
@@ -318,7 +318,7 @@
 
 - 在悟空扩展板的中间有一组3对5V的电源接口，可以驱动5V的传感器或者5V的舵机，只需要将5V模块的供电接口连接至5V电源接口，信号线连接至舵机信号线口或者传感器信号线口。
 
-![](./images/wukong_16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_16.png)
 
 ### 软件编程平台（Python editor）
 
@@ -329,13 +329,13 @@
 下载压缩包并解压[EF_Produce_MicroPython-master](https://github.com/lionyhw/EF_Produce_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/05001_07.png)
 
 为了给悟空扩展板编程，我们需要添加Wukong.py文件。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的EF_Produce_MicroPython-master文件夹，从中选择Wukong.py文件添加进来。
 
-![](./images/03444_11.png)
-![](./images/03444_12.png)
-![](./images/wukong_21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/03444_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/03444_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_21.png)
 
 ## 使用方法
 - - - - -

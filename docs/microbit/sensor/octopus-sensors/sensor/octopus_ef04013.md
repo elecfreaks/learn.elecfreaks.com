@@ -4,7 +4,7 @@
 ---
 - 碰撞传感器器是一种基于碰撞元件的传感器模块，电路设计简单，灵敏度高。
 
- ![](./images/YR7t4Pj.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/YR7t4Pj.jpg)
 
 ## 特性
 ---
@@ -29,7 +29,7 @@ SKU|EF04013
 ## 外形与定位尺寸
 ---
 
- ![](./images/cdNd1Kw.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/cdNd1Kw.png)
 
 ## 快速上手
 ---
@@ -38,14 +38,14 @@ SKU|EF04013
 
 ***以sensor:bit为例***
 
- ![](./images/UUQlBRi.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/UUQlBRi.png)
 
 ### 如图所示编写程序
 - 拉高P1口以初始化模块。
 - 当模块被按下时，返回值为0，数字读取P1口，当P1口为0时，显示一颗心。
 - 否则，显示一个方框。
 
- ![](./images/Lp93T7L.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/Lp93T7L.png)
 
 ### 参考程序
 请参考程序连接：[https://makecode.microbit.org/_WMwRtRXFe2tw](https://makecode.microbit.org/_WMwRtRXFe2tw)
@@ -84,13 +84,13 @@ SKU|EF04013
 下载压缩包并解压[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_07.png)
 
 为了给碰撞传感器编程，我们需要添加crash.py。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的Octopus_MicroPython-master文件夹，从中选择crash.py添加进来。
 
-![](./images/05001_08.png)
-![](./images/05001_09.png)
-![](./images/04013_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04013_10.png)
 
 ### 步骤 2
 ### 参考程序

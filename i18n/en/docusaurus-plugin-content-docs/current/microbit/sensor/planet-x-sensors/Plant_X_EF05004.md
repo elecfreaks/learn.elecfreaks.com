@@ -1,10 +1,10 @@
-# Temperature and Humidity Sensor(EF05004)
+﻿# Temperature and Humidity Sensor(EF05004)
 
 ## Introduction
 
 Temperature and humidity sensor is a module based on DHT11 digital temperature and humidity sensing element. It is sensitive to the ambient temperature and humidity changes and can be used for temperature alarm, humidity testing and other works.
 
-![](./images/05004_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05004_01.png)
 
 ## Products Link
 
@@ -29,7 +29,7 @@ Size|55.8 x 23.8 mm
 ## Outlook
 
 
-![](./images/05004_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05004_02.png)
 
 ## Quick to Start
 
@@ -39,7 +39,7 @@ Size|55.8 x 23.8 mm
  Connect the DHT11 Temperature and humidity sensor to J1 port and the OLED module to IIC port in the Nezha expansion board as the picture shows.
 
 
-![](./images/05004_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05004_03.png)
 
 ## MakeCode Programming
 
@@ -48,11 +48,11 @@ Size|55.8 x 23.8 mm
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](./images/05001_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_04.png)
 
 We need to add a package for programming, . Click "Extensions" in the bottom of the drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](./images/05001_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_05.png)
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
@@ -60,7 +60,7 @@ We need to add a package for programming, . Click "Extensions" in the bottom of 
 
 ### Code as below:
 
-![](./images/05004_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05004_06.png)
 
 ***Note:*** A delay of 3 seconds is required from detecting the temperature to the moisture while using the DHT11 temperature and moisture sensor.
 

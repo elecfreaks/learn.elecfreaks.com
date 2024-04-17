@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: 阅读提示
 ---
@@ -8,10 +8,10 @@ sidebar_label: 阅读提示
 
 ## 符号说明
 
-| ![](./images/smart-weather-station-kit-reading-tips-01.png) | 重要注意事项   | 忽略此类信息有可能引发产品故障、损坏或造成人身伤害。 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/images/smart-weather-station-kit-reading-tips-01.png) | 重要注意事项   | 忽略此类信息有可能引发产品故障、损坏或造成人身伤害。 |
 | -------------------------------------------------------- | -------------- | ---------------------------------------------------- |
-| ![](./images/smart-weather-station-kit-reading-tips-02.png) | 操作、使用提示 | 操作及使用过程中需要注意的细节。                     |
-| ![](./images/smart-weather-station-kit-reading-tips-03.png) | 提示及说明     | 有助于理解操作指引的提示信息。                       |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/images/smart-weather-station-kit-reading-tips-02.png) | 操作、使用提示 | 操作及使用过程中需要注意的细节。                     |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/images/smart-weather-station-kit-reading-tips-03.png) | 提示及说明     | 有助于理解操作指引的提示信息。                       |
 
 ## 使用建议
 

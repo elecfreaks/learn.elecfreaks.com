@@ -1,4 +1,4 @@
-# case 06 Bluetooth Control
+﻿# case 06 Bluetooth Control
 
 ## Our Goal
 
@@ -24,7 +24,7 @@ An event can be divided into a source and an event value. The receiver will obta
 
 Picture below is an event table for D-pad controlling joystick.
 
-![](./images/hrxqpWo.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/hrxqpWo.jpg)
 
 
 ## Software
@@ -38,15 +38,15 @@ Picture below is an event table for D-pad controlling joystick.
 
 1. Android Device: Download bitty controller app from Google play.
 
-![](./images/moQ7aYu.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/moQ7aYu.jpg)
 
 2. IOS Device: Download bitty controller app from APP store.
 
-![](./images/LqEfbhE.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/LqEfbhE.png)
 
   Below is the interface of this APP:
 
-![](./images/ZvHqv7T.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/ZvHqv7T.png)
 
 
 ***Note:*** Due to the limitation of IOS system, we need to download other software for Bluetooth connection.
@@ -57,22 +57,22 @@ For more information, please refer to [micro:bit IOS Bluetooth Connection User G
 
 To activate the Bluetooth mode of micro:bit, we need to press button "A+B" simultaneously and then press reset button. Later, micro:bit screen will display **PAIRING MODE！** and a special character. This character is unique to each micro:bit. It is the special indentifier for Bluetooth.
 
-![](./images/ceES90z.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/ceES90z.jpg)
 
 Once paired successfully with your Android or IOS device, your micro:bit screen will display a "√"(a tick).
 
-![](./images/5luUYc7.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/5luUYc7.jpg)
 
 ### Step 3: Add Package
 
 Click **Advanced** in the code drawer of MakeCode to see more options.
 
-![](./images/LjMR5IU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/LjMR5IU.png)
 
 To program for Bluetooth and motor:bit, we have to add two packages. Find **Add Package** in the bottom of code drawer and click it. This will pop up a dialogue box. Search for "Bluetooth" and "motorbit" and then click to download these packages.
 
-![](./images/4eJ7Jgx.png)
-![](./images/LTJUxsR.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/4eJ7Jgx.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/LTJUxsR.png)
 
 ***Note:*** If you get a hint that some packages will be deleted due to the problem of incompatibility, you can either follow the prompts, or create a new project in the project menu.
 
@@ -82,7 +82,7 @@ When startup, micro:bit will display a string "EF-motorbit". Once connected Blue
 
 To prevent bad result caused by error operations, we need to set the motor speed to 0 when Bluetooth is connected or disconnected.
 
-![](./images/LdDCffz.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/LdDCffz.png)
 
 Set event source block and name it `MES_DPAD_CONTROLLER_ID`, which is the joystick controlling panel of the APP.
 
@@ -92,7 +92,7 @@ If the event value is `MES_DPAD_BUTTON_A_DOWN`, we can know from the event table
 
 If the event value is `MES_DPAD_BUTTON_A_UP`, we know from the event table above that the left top circle button is released. Thus, the operation status is 0 (stop). At the same time, set the speed of both motors to 0 and the car stops.
 
-![](./images/a1tboRB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/a1tboRB.png)
 
 Create a variable and name is `flag`, which stands for the car movement status. When `flage` is 1, it means the car is moving forward.
 
@@ -102,17 +102,17 @@ If the event value is `MES_DPAD_BUTTON_4_DOWN` when `flag` is 1, we can know fro
 
 If none of the above two situations happened when `flag` is 1, then set the speed of both motors to 100 and the car will move forward at its full speed.
 
-![](./images/cvXAfCv.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/cvXAfCv.png)
 
 ### Step 5: Bluetooth Connection
 
 Once micro:bit Bluetooth mode is activated, let's start to pair. Click scan in the APP interface to search for micro:bit signal.
 
-![](./images/rLS50GM.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/rLS50GM.png)
 
 Click on the micro:bit obtained to enter into joystick mode. See picture below.
 
-![](./images/gaPL6bX.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/gaPL6bX.png)
 
 Enjoy yourself!
 

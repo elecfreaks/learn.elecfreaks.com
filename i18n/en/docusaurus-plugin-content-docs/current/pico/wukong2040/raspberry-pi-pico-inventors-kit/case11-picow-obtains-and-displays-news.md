@@ -5,7 +5,7 @@ sidebar_label: Case 11 Pico W gets news and displays
 
 # Case 11 Pico W gets news and displays
 
-![](./images/wukong2040-inventors-case11-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case11-01.png)
 
 ## Introduction
 
@@ -46,7 +46,7 @@ It should be noted that when crawling web pages, crawlers should abide by the ru
 
 Connect your components according to the connection diagram below:
 
-![](./images/wukong2040-inventors-case05-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case05-06.png)
 
 ## Programming Preparation
 
@@ -54,11 +54,11 @@ The firmware burning and settings.toml file settings of Pico W have been introdu
 
 In addition, additional library files need to be added, as shown in the following figure:
 
-![](./images/wukong2040-inventors-case12-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case12-04.png)
 
 You first need to go to the [CircuitPython Libraries website](https://circuitpython.org/libraries) to download the same version of the library bundle as the Pico W's firmware that you have burned.
 
-![](./images/wukong2040-inventors-case12-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case12-05.png)
 
 Unzip the archive and find the files and folders shown in the image above and copy them to the lib folder of the CIRCUITPY disk.
 
@@ -114,7 +114,7 @@ time.sleep(1800)
 
 ## Case presentation
 
-![](./images/wukong2040-inventors-kit-case12-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-kit-case12-06.gif)
 
 ## Thinking
 

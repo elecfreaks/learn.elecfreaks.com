@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: micro:bit Retro Arcade SE
 ---
@@ -17,7 +17,7 @@ sidebar_label: micro:bit Retro Arcade SE
 
 ### 套装清单
 
-<!--![](./images/microbit-retro-arcade-se-list.png)-->
+<!--![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/microbit-retro-arcade-se/open-box-inspection/images/microbit-retro-arcade-se-list.png)-->
 
 > Top：micro:bit retro arcade已经安装完成，安装电池后即可开机使用。
 

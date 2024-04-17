@@ -1,4 +1,4 @@
-# micro:bit Smart Agriculture Kit
+﻿# micro:bit Smart Agriculture Kit
 
 
 ##  Introduction
@@ -6,7 +6,7 @@
 
 - The micro:bit Smart Agriculture Kit has a well-selection of IoT:bit, DS18B20 temperature sensor, soil moisture sensor, water level sensor, PIR sensor, servos and etc., we could use it to build such themes as the smart insects repelling machine, the ecological greenhouse, the fish pond water level monitoring device and more, from which we can learn the modern agriculture and program and explore more possibilities to apply the information technology in agriculture.
 
-![](./images/microbit-Smart-Agriculture-Kit-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-01-01.png)
 
 ## Components List
 ---

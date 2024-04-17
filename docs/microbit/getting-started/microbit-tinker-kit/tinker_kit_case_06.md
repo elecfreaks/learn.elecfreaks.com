@@ -1,4 +1,4 @@
-# 课程_06 入侵检测
+﻿# 课程_06 入侵检测
 
 ## 入侵检测系统
 
@@ -34,41 +34,41 @@
 
 将micro:bit插入扩展板，并用USB线连接micro:bit。
 
-![](./images/cvJnbqE.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/cvJnbqE.jpg)
 
 然后，用跳线将蜂鸣器连接到扩展板上的引脚P0。如下图所示，插入OLED。你可以将它插入到扩展板上3排排针孔的任意一排。
 
-![](./images/3benydL.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/3benydL.jpg)
 
 将碰撞传感器连接到扩展板上的引脚P1。确保线的颜色和扩展板上引脚的颜色一致。
 
-![](./images/YvQkd81.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/YvQkd81.jpg)
 
 
 ### 步骤 2 – 编程前的准备
 
 我们需要添加代码库来方便我们使用准备好的元器件。点击代码抽屉中的"高级"，查看更多的代码选项，并在下拉菜单底部点击"扩展"。
 
-![](./images/R5lx5Np.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/R5lx5Np.jpg)
 
 此时，将弹出一个对话框。在对话框中搜索“tinker kit”， 然后点击下载这个代码库。
 
-![](./images/pduH11r.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/pduH11r.png)
 
 注意：如果你收到提示说一些代码库因为不兼容的问题将被删除，你可以选择根据提示操作，或者在项目文件的菜单中选择新建一个新项目。
 
 
 ### 步骤 3 – 编程
 
-![](./images/Tinker_Kit_case_06_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_06_01.png)
 
 点击代码抽屉中的Tinkercademy, 找到与我们元器件相应的积木块。
 
-![](./images/Tinker_Kit_case_06_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_06_02.png)
 
 你应该在开始的时候初始化OLED。64和128分别代表了OLED的高度和宽度。并初始化碰撞传感器。
 
-![](./images/Tinker_Kit_case_06_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_06_03.png)
 
 因为这里只有两个条件，所以我们只需要一个“else-if”语句。
 当碰撞传感器被触发，蜂鸣器响起，OLED屏幕上将会显示“Intruder Detected”（检测到入侵）。否则，蜂鸣器不会响起，OLED屏幕上显示“The house is safe”（房屋处于安全状态）。

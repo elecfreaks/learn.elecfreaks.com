@@ -1,4 +1,4 @@
-# 3V Relay Module(EF04086)
+﻿# 3V Relay Module(EF04086)
 
 ## Introduction
 
@@ -33,7 +33,7 @@ NW|8.5g
 ## Outlook and Dimensions
 
 
-![](./images/RucS13Z.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/RucS13Z.png)
 
 ## Quick to Start
 
@@ -41,11 +41,11 @@ NW|8.5g
 
 Connect the relay module to P1 on octopus:bit using a jumper cable. Insert micro:bit into the edge slot of octopus:bit.
 
-![](./images/cJGeHvd.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/cJGeHvd.png)
 
 While connecting the cables with the Relay, please use screwdrivers to loosen the screws on the Relay first to make sure the cables get connected properly.
 
-![](./images/smart_home_kit_case_05_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/smart_home_kit_case_05_06.png)
 
 ### Software Programming
 

@@ -1,10 +1,10 @@
-# 热电偶转换电子积木
+﻿# 热电偶转换电子积木
 
 ## 简介
 ---
 MAX6675是一款12位分辨率串行K型热电偶转换器，由美国MAXIM公司生产，具有冷端补偿，线性校正，热电偶断路检测等优点。基于芯片原理，我们的模块可用 测量温度，使用三线SPI通信，加上连接到Arduino主板的K型热电偶探头。测量结果可以在Arduino IDE中显示。（我们使用IIC / SPI_LCD模块显示测量结果）模块可以是 用于室温测量，也用于冰箱，动力室，纺织机械，空调等小空间工业设备的温度测量。
 
- ![](./images/69XJjkN.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/69XJjkN.jpg)
 
 ## 特性
 ---
@@ -25,7 +25,7 @@ SKU|EF04018
 ## 外形与定位尺寸
 ---
 
- ![](./images/cdNd1Kw.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/cdNd1Kw.png)
 
 ## 快速上手
 ---
@@ -35,7 +35,7 @@ SKU|EF04018
 
 ### 如图所示编写程序
 
- ![](./images/kVWtBcn.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/kVWtBcn.png)
 
 ### 参考程序
 请参考程序连接：

@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 10
 sidebar_label: TOOCA L1 Laser Engraver Firmware Update Method
 ---

@@ -5,7 +5,7 @@ sidebar_label: Case 06 Display Temperature and Humidity Value
 
 # Case 06: Display Temperature and Humidity Value
 
-![](./images/wukong2040-inventors-case06-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case06-01.png)
 
 ## Introduction
 
@@ -29,7 +29,7 @@ We all want to live in an environment with the right temperature and humidity. T
 
 ### Temperature and Humidity sensor
 
-![](./images/wukong2040-inventors-introduction-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-introduction-10.png)
 
 A temperature and humidity sensor is a sensor device equipped with moisture and heat sensitive elements that can be used to measure temperature and humidity, either with or without a live display. Due to their small size and stable performance, temperature and humidity sensors are widely used in all areas of production and life.
 
@@ -39,11 +39,11 @@ A temperature and humidity sensor is a sensor device equipped with moisture and 
 
 Connect your components according to the following connection diagram:
 
-![](./images/wukong2040-inventors-case06-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case06-07.png)
 
 ## MicroBlocks Graphical Programming
 
-![](./images/wukong2040-inventors-case06-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case06-03.png)
 
 ## CircuitPython Code
 
@@ -73,7 +73,7 @@ while True:
 
 ## Case display
 
-![](./images/wukong2040-inventors-kit-case06-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-kit-case06-06.gif)
 
 ## Think
 

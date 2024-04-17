@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: 开箱自检
 ---
@@ -48,36 +48,36 @@ sidebar_label: 开箱自检
 
 把机器狗按照卧姿摆放，避免关节卡死，然后按下机器狗背部的电源开关，开关上的电源环形灯快速闪烁后常亮，机器狗缓缓站立，机械臂打开后自动收回，表示开机成功。**注意：不要拿在手里开机，开机过程中机器狗晃动会导致机器狗运动异常。**
 
-![](./images/microbit-xgo-lite2-detection-01.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-detection-01.gif)
 
 ### 关机检测
 
 按下背部电源开关，环形灯缓慢闪烁，机器狗缓缓趴下，机械臂收回，然后环形灯熄灭，表示系统完全关机。
 
-![](./images/microbit-xgo-lite2-detection-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-detection-02.gif)
 
 ### 智能手机遥控检测
 
 如果您的智能手机的操作系统是安卓系统，您可以通过**百度手机助手**搜索“XGO”并安装即可；安装完成后打开 XGO APP 启动界面如图所示：
 
-![](.\images\microbit-xgo-lite-v2-app-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-1.png)
 
 **注意**
 
 1. 截至该教程编写完成日期，所使用的 XGO APP 版本号为：2.4.0，请保证下载的 XGO APP 版本不低于2.4.0。
 2. 安装 XGO APP 完成后，请在设置中将 XGO APP 的权限打开，包括：位置信息、附近的设备，否则可能会搜索不到 XGO-lite V2。
 
-打开智能手机的蓝牙功能，并将 XGO-lite V2 开机，打开 XGO APP 在首页界面左上角有![](.\images\microbit-xgo-lite-v2-app-2.png)图标，点击蓝牙图标，按照提示将智能手机与 XGO-lite V2 连接。
+打开智能手机的蓝牙功能，并将 XGO-lite V2 开机，打开 XGO APP 在首页界面左上角有![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-2.png)图标，点击蓝牙图标，按照提示将智能手机与 XGO-lite V2 连接。
 
-![](.\images\microbit-xgo-lite-v2-app-3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-3.png)
 
-![](.\images\microbit-xgo-lite-v2-app-4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-4.png)
 
 
 
 回到主页面并进入“整机控制”页面，操作下图按钮，查看 XGO-lite V2 是否根据操作做出动作。若做出相应操作指令动作，则代表 XGO-lite V2 完好。
 
-![](.\images\microbit-xgo-lite-v2-app-5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-5.png)
 
 
 
@@ -85,19 +85,19 @@ sidebar_label: 开箱自检
 
 (1) 按照下图所示，将 XGO-lite V2 使用 USB 数据线与电脑连接，并打开：[MakeCode](https://makecode.microbit.org/#)平台，点击“New Project”创建新文件。
 
-![](./images/microbit-xgo-lite2-examine-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-examine-01.png)
 
 
 
 (2) 按下图所示，添加'XGO'库文件。
 
-![](./images/microbit-xgo-lite-v2-makecode-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-02.png)
 
-![](./images/microbit-xgo-lite-v2-makecode-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-03.png)
 
 (3) 按编程案例操作并下载到 micro:bit 主板中，按照程序所示进行操作观看 XGO-lite V2 是否做出相应动作。若 XGO-lite V2 做出握手动作，则代表 XGO-lite V2 完好。
 
-![](./images/microbit-xgo-lite2-examine-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-examine-03.png)
 
 ## 5、查看说明书
 

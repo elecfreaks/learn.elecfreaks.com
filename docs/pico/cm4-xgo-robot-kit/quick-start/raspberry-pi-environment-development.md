@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 5
 sidebar_label: 树莓派环境开发
 ---
@@ -17,4 +17,4 @@ sidebar_label: 树莓派环境开发
 
 打开工具并输入机器狗IP
 
-![](./../images/cm4-xgo-vnc-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-vnc-01.png)

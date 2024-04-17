@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: 案例一：紫外线辐射监测装置
 ---
@@ -24,9 +24,9 @@ sidebar_label: 案例一：紫外线辐射监测装置
 | 图片 | 名称 |
 | :-: | :-: |
 |  | 智能气候套装 |
-| ![](./images/microbit-smart-climate-kit-case-01-03.png) | micro:bit V2 |
-| ![](./images/microbit-smart-climate-kit-case-01-04.png) | 个人电脑（PC） |
-| ![](./images/microbit-smart-climate-kit-case-01-05.png) | USB 数据线 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/microbit-smart-climate-kit-case-01-03.png) | micro:bit V2 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/microbit-smart-climate-kit-case-01-04.png) | 个人电脑（PC） |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/microbit-smart-climate-kit-case-01-05.png) | USB 数据线 |
 
 这些材料将为您提供一个完整的体验，确保您可以顺利地进行后续的操作和学习。如果您已准备好以上内容，我们可以继续进入下一步。
 
@@ -64,7 +64,7 @@ sidebar_label: 案例一：紫外线辐射监测装置
 
 将UV传感器连接到P1接口。
 
-![](./images/microbit-smart-climate-kit-case-01-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/microbit-smart-climate-kit-case-01-06.png)
 
 ### 代码编程
 
@@ -72,33 +72,33 @@ sidebar_label: 案例一：紫外线辐射监测装置
 
 进入“[makecode.microbit.org](https://makecode.microbit.org/)”，点击新建项目。
 
-![](./images/smart-weather-station-kit-add-extension-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/smart-weather-station-kit-add-extension-01.png)
 
 在弹出窗口输入项目名称并点击“创建”。
 
-![](./images/smart-weather-station-kit-add-extension-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/smart-weather-station-kit-add-extension-02.png)
 
 点击代码抽屉中的“扩展”。
 
-![](./images/smart-weather-station-kit-add-extension-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/smart-weather-station-kit-add-extension-03.png)
 
 在弹出界面输入“IOT”，按下回车键进行搜索，并选择加载IOT软件库。
 
-![](./images/smart-weather-station-kit-add-extension-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/smart-weather-station-kit-add-extension-04.png)
 
 *** 示例代码 ***
 
 1. 当开机时显示爱心图标。
 
-![](./images/microbit-smart-climate-kit-case-01-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/microbit-smart-climate-kit-case-01-07.png)
 
 2. 显示当前连接到P1接口的紫外线强度。
 
-![](./images/microbit-smart-climate-kit-case-01-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/microbit-smart-climate-kit-case-01-08.png)
 
 3. 当紫外线强度大于5时，显示哭泣图标，否则显示笑脸图标。
 
-![](./images/microbit-smart-climate-kit-case-01-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/microbit-smart-climate-kit-case-01-09.png)
 
 请参考程序连接：[https://makecode.microbit.org/_3XE2YF8hKbjs](https://makecode.microbit.org/_3XE2YF8hKbjs)
 
@@ -127,32 +127,32 @@ sidebar_label: 案例一：紫外线辐射监测装置
 
 使用USB线连接PC和micro:bit V2。
 
-![](./images/connect-microbit.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/connect-microbit.gif)
 
 连接成功后，电脑上会识别出一个名为`MICROBIT`的盘符。
 
-![](./images/microbit-drive.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/microbit-drive.png)
 
-点击左下角的![](./images/download-01.png)，选择`Connect Device`。
+点击左下角的![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/download-01.png)，选择`Connect Device`。
 
-![](./images/download-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/download-02.png)
 
-点击![](./images/download-03.png)。
+点击![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/download-03.png)。
 
-![](./images/download-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/download-04.png)
 
-点击![](./images/download-05.png)。
+点击![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/download-05.png)。
 
-![](./images/download-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/download-06.png)
 
 
 在弹出窗口选择`BBC micro:bit CMSIS-DAP`，然后选择连接，至此，我们的micro:bit就已经连接成功。
 
-![](./images/download-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/download-07.png)
 
 点击下载程序。
 
-![](./images/download-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/案例库/images/download-08.png)
 
 ### 团队合作与展示
 

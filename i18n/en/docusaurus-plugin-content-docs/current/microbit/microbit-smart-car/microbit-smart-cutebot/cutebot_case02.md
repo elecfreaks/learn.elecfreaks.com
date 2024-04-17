@@ -1,4 +1,4 @@
-# Case 02: Speed Up Gradually
+﻿# Case 02: Speed Up Gradually
 
 ## Purpose
 
@@ -6,7 +6,7 @@ In case 01, we can find the Cutebot moves too fast to go steadily(the universal 
 
 We will learn to gradually speed up the car for a steady move at the beginning in this case.
 
-![](./images/cutebot-case-02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-02-01.png)
 
 ## Materials
 
@@ -22,11 +22,11 @@ We will learn to gradually speed up the car for a steady move at the beginning i
 
 Click the "Advanced" to see more choices in the MakeCode drawer.
 
-![](./images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
 
 A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
-![](./images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
 
 ***Note:*** If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
@@ -36,14 +36,14 @@ Choose "show icon" in the `On start`brick.
 
 Set the `speed` variable to 0 which means the on start speed is 0.
 
-![](./images/case_02_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_02_01.png)
 
 ### Step 3
 
 Drag setting speed bricks for left and right wheel and set the value as `speed` in "forever" brick, then add one to `speed`.
 If `speed` is `100` which is the maximum speed, set `speed` to 0 and restart it.
 
-![](./images/case_02_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_02_02.png)
 
 ### Programming
 
@@ -75,7 +75,7 @@ You can also download it directly below:
 
 The Cutebot speeds up gradually and the universal wheel will not go off the ground due to the high speed.
 
-![](./images/cutebot-case-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-02.gif)
 
 ## Exploration
 

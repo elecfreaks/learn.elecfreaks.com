@@ -1,4 +1,4 @@
-# 圣诞树彩灯
+﻿# 圣诞树彩灯
 
 ## 介绍
 ---
@@ -32,7 +32,7 @@
 - 红色鳄鱼夹与micro:bit上3V端连接，红色鳄鱼夹另一端与圣诞树彩灯中间标示V端连接
 - 黄色鳄鱼夹与micro:bit上1端口连接，黄色鳄鱼夹另一端与圣诞树彩灯中间标示S端连接
 
-![](./images/8uQCfYE.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/8uQCfYE.jpg)
 
 ### 软件编程
 #### 步骤 1
@@ -41,24 +41,24 @@
 
 - 点击"高级"查看更多代码选项，并在底部找到"扩展"。
 
-![](./images/04098_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04098_01.png)
 
 - 搜索neopixel，添加neopixel代码库。
 
-![](./images/04098_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04098_02.png)
 
 #### 步骤 2
 
 - 从neopixel函数库中拖出 set strip to neopixel at pin with leds as 积木块加入'当开机时'中，设置引脚为P0，灯珠数为6，使用rgb模式。
 
-![](./images/03420_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/03420_01.png)
 
 #### 步骤 3
 
 - 从neopixel函数库中拖出strip rotate 积木块加入到'无限循环'中，将参数设置为1，设置为灯珠一个一个改变颜色。
 - 再拖出一个strip show积木块，用于使圣诞树发出七彩光芒。
 
-![](./images/03420_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/03420_02.png)
 
 ### 程序
 
@@ -89,6 +89,6 @@
 
 圣诞树彩灯发出七彩的光芒，为圣诞夜增添一分美丽。
 
-![](./images/fDvmCab.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/fDvmCab.gif)
 
 ## FAQ

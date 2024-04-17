@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: Software Problem
 ---
@@ -17,7 +17,7 @@ Software: [Raspberry Pi OS – Raspberry Pi](https://www.raspberrypi.com/softwar
 
 1. Start Raspberry Pi Imager
 
-![](./../images/cm4-xgo-faq-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-faq-09.png)
 
 2. [XGO2 image download](https://drive.google.com/drive/folders/1YJy-wIke6EJECcblV2LMFmRN6YSrPW-a ) The latest date of the robot dog image, click "Select Operating System" and choose to use the custom image and memory card path.
 

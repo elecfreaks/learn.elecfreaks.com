@@ -1,6 +1,6 @@
 # case 14 Flipping Pancakes
 
-![](./images/KAWV4hQ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/KAWV4hQ.jpg)
 
 Do you have what it takes to flip the perfect pancake?
 
@@ -28,7 +28,7 @@ We’re going to create a flippy pancake game where you must flip the pancake at
 - 2 x F-F Jumper Wires
 - 1 x ADKeypad
 
-![](./images/QXLEvIN.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/QXLEvIN.gif)
 
 
 ## How to Make
@@ -40,7 +40,7 @@ Plug in your Buzzer to Pin0. Make sure the positive lead is connected to the yel
 
 Plug in the ADKeypad to Pin1. Match the colours of the wires to the ones on the breakout board!
 
-![](./images/B8xs2c5.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/B8xs2c5.jpg)
 
 ### Step 2
 
@@ -54,7 +54,7 @@ When we start the game, we want to set our variable startTime to the running tim
 
 We also want to display a flat pancake on the screen with the LEDs.
 
-![](./images/I405Wwf.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/I405Wwf.png)
 
 ### Step 3
 
@@ -72,7 +72,7 @@ Once you have your function defined, you can run it anytime by using the new ‘
 
 Feel free to customise your own pancake-flipping animation. This is just one example!
 
-![](./images/G19eBMP.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/G19eBMP.png)
 
 ### Step 4
 
@@ -86,7 +86,7 @@ Now you’ll see something new in MakeCode – a bright green Tinkercademy categ
 
 Inside this category, you’ll find blocks to sense button press on the ADKeypad. This package importation only happens in current project. So if you start a new project, you’ll need to re-import it.
 
-![](./images/Y9DZFDh.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Y9DZFDh.png)
 
 ### Step 5
 
@@ -106,8 +106,8 @@ If totalTime is not less than 7000, we test if totalTime is less than 8000 milli
 
 Finally, if neither of the previous two conditions are true, then we know that totalTime must be greater than 8000. So we determine that the pancake is overcooked and display an angry face and a BURNT message.
 
-![](./images/FafT0oa.png)
-![](./images/Dd2ypuT.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/FafT0oa.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Dd2ypuT.png)
 
 ### Step 6
 
@@ -117,7 +117,7 @@ To do this, we’ll reset the game when button B is pressed on the ADKeypad. Onc
 
 What else do we need to do when we restart the game? In this case, all we need to do is to display a new pancake, and reset the starting time.
 
-![](./images/Oz44yck.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Oz44yck.png)
 
 ### Step 7
 
@@ -127,7 +127,7 @@ Micro:bit has lots of pre-programmed music melodies available for us to use. Let
 
 We need to set these melodies to play ‘once in the background’, otherwise it could pause the entire game until the melody is finished playing.
 
-![](./images/L6iOVxl.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/L6iOVxl.png)
 
 ### Step 8
 
@@ -135,7 +135,7 @@ Finally, let’s add some starting music and a starting message when we first st
 
 We can use the buzzer once again to play a melody (once again we want it to play ‘once in background’). We can also display the name of the game as well!
 
-![](./images/58yN3Cz.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/58yN3Cz.png)
 
 If you don't want to type these code by yourself, you can download directly from the link below.
 

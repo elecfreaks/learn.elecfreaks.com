@@ -1,4 +1,4 @@
-# FAQ 05
+﻿# FAQ 05
 ## Q：使用IOTbit连接MQTT需要注意什么？
 
 A:请按照wiki文档中的步骤操作，文档链接：[How to Apply with HiveMQ](https://wiki.elecfreaks.com/en/microbit/wisdom-life/microbit-smart-science-iot-kit/iot-mqtt)。

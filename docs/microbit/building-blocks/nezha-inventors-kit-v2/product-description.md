@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 ---
 
@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ELECFREAKS micro:bit Nezha Inventor’s Kit V2 是一款基于 Planet X 传感器设计的 BBC micro:bit 套件，它包含LED灯、电位器、土壤湿度传感器、超声波传感器、碰撞传感器、巡线传感器等多个传感器和模块。ELECFREAKS micro:bit Nezha Inventor’s Kit V2还搭配了400多颗积木，这些积木适合搭建各种案例，可以提高孩子们的动手能力和逻辑思维。它有32个主题案例和更多的扩展案例，旨在培养和激发孩子们的创造力和想象力。ELECFREAKS micro:bit Nezha Inventor’s Kit V2 是一款适合各个年龄段的编程教育套件，让每个孩子都能从中体验到发明的乐趣。
 
-![](./images/nezha-inventors-kit-v2-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-01.png)
 
 ## 参数
 
@@ -33,7 +33,7 @@ ELECFREAKS micro:bit Nezha Inventor’s Kit V2 是一款基于 Planet X 传感�
 
 ## 清单
 
-![](./images/nezha-inventors-kit-v2-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-02.png)
 
 | 产品名称 | 数量 |
 |---|---|

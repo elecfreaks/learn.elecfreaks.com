@@ -1,4 +1,4 @@
-# case 34 micropython
+﻿# case 34 micropython
 
 ## Getting Started
 ---
@@ -17,7 +17,7 @@
 
 ## Project 01: Music Machine
 ---
-![](./images/gXqhVI7.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/gXqhVI7.jpg)
 
 ### Pin Layout
 
@@ -31,36 +31,36 @@ The ADKeypad returns an analog signal when its buttons are pressed. Each button 
 However, it is not uncommon that each button would give a small range of values when pressed at different times and different ADKeypads might give different signals yet again. Hence, in this example code, we provide a range of possible values that your ADKeypad’s buttons are likely to return when pressed.
 Feel free to test out the values that your ADKeypad might return when pressed and change the values in the example code. ^ ^
 
-![](./images/8xVE2p6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/8xVE2p6.png)
 
 
 ## Project 02: Smart Light
 ---
 
-![](./images/qIQKK4y.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/qIQKK4y.jpg)
 
 ### Pin Layout
 
 - PIR Sensor: Pin0
 - LED: Pin1
 
-![](./images/7Dgi7Wt.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/7Dgi7Wt.png)
 
 ## Project 03: Electro-Theremin
 ---
-![](./images/Njalhk0.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Njalhk0.jpg)
 
 ### Pin Layout
 
 - Buzzer: Pin0
 - Potentiometer: Pin1
 
-![](./images/CBFkYTp.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/CBFkYTp.png)
 
 
 ## Project 04: Simple Alarm Box
 ---
-![](./images/gWAmEhW.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/gWAmEhW.jpg)
 
 ### Pin Layout
 
@@ -69,14 +69,14 @@ Feel free to test out the values that your ADKeypad might return when pressed an
 - OLED: I2C row (at the bottom of the BoB)
 
 
-![](./images/R4XO4S6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/R4XO4S6.png)
 
-![](./images/01GlIIR.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/01GlIIR.png)
 
 ## Project 05: Plant Monitoring Device
 ---
 
-![](./images/JBmCc6A.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/JBmCc6A.jpg)
 
 ### Pin Layout
 
@@ -84,9 +84,9 @@ Feel free to test out the values that your ADKeypad might return when pressed an
 - Soil Moisture Sensor: Pin1
 - OLED: I2C row (at the bottom of the BoB)
 
-![](./images/bOGavUM.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/bOGavUM.png)
 
-![](./images/guZyD53.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/guZyD53.png)
 
 
 ## Get Creative!

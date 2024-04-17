@@ -1,4 +1,4 @@
-# 案例10：石头剪刀布
+﻿# 案例10：石头剪刀布
 
 ## 目的
 ---
@@ -9,7 +9,7 @@
 
 - 1 x [手表套件Pro（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=582042009614)
 
-![](./images/smart_coding_kit_case_10_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_10_01.png)
 
 
 ## 软件
@@ -23,14 +23,14 @@
 - 设置无线设置组
 - 当按键‘A’、‘B’或者‘A+B’被按下时，将变量‘k’设置为相应数字，无线发送变量‘k’的值，并显示相应图案
 - 当无线接收到数据时，将数据存入变量`i`
-![](./images/smart_coding_kit_case_10_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_10_02.png)
 
 ### 步骤 2
 - 在无限循环中，判断‘i’和‘k’的值，如果都不等于0，则两名玩家都已经出拳
 - 通过对比变量‘i’和变量‘k’的值来判断胜负
 - 将变量‘i’和变量‘k’的值设为0，为下次游戏做好准备
 
-![](./images/smart_coding_kit_case_10_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_10_03.png)
 
 
 

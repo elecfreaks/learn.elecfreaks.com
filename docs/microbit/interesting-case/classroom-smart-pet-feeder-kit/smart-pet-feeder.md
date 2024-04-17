@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 4
 sidebar_label: 智能宠物喂食器
 ---
@@ -9,7 +9,7 @@ sidebar_label: 智能宠物喂食器
 
 首先，人体红外传感器负责检测是否是宠物靠近；其次，超声波传感器用于检测宠物是否到达木制小房子前20厘米以内的范围。当以上两个条件均满足时，舵机将会转动，从而使得存储宠物粮食的储粮箱将宠物粮食倾倒出来。在倾倒宠物粮食过程完成后，舵机将恢复到原来的位置，等待下一次喂食。
 
-![](./images/microbit-smart-maker-kit-pet.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-pet.png)
 
 ## 课前准备
 
@@ -65,7 +65,7 @@ sidebar_label: 智能宠物喂食器
 
 将人体红外传感器链接 IOT:bit 的 P2 端口，超声波传感器连接 IOT:bit 的 P1 端口，180°舵机连接 IOT:bit 的 P3 端口。
 
-![](./images/microbit-smart-maker-kit-pet-2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-pet-2.png)
 
 ## 开始编程
 
@@ -73,25 +73,25 @@ sidebar_label: 智能宠物喂食器
 
 本案例的控制程序将在 micro:bit 官方编程平台：MakeCode上完成编写。请点击并打开 MakeCode 官方链接：https://makecode.microbit.org/。如下图所示：
 
-![](./images/microbit-smart-maker-kit-case02-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-case02-02.png)
 
 
 
 第一步需要新建项目文件，请点击“New Project”，输入项目名称并点击“Create”。
 
-![](./images/microbit-smart-maker-kit-case02-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-case02-03.png)
 
 
 
 第二步需要添加 iot-environment-kit 库文件，点击积木库列表中的"Extensions"，输入“iot-environment-kit”搜索并添加。在返回的编程界面中看到已经将 iot-environment-kit 库文件添加成功。
 
-![](./images/microbit-smart-maker-kit-case02-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-case02-04.png)
 
 
 
 第三步需要添加 servo 库文件，同样在扩展库中输入“servo”搜索并添加。在返回的编程界面中看到已经将 servo 库文件添加成功。
 
-![](./images/microbit-smart-maker-kit-case03-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-case03-04.png)
 
 ### 180° 舵机设置初始角度
 
@@ -99,13 +99,13 @@ sidebar_label: 智能宠物喂食器
 
 #### 舵机初始设置程序
 
-![](./images/microbit-smart-maker-kit-case02-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-case02-06.png)
 
 舵机初始设置程序链接：https://makecode.microbit.org/S06902-77501-41447-67913。
 
 ### 编程示例
 
-![](./images/microbit-smart-maker-kit-case02-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-case02-05.png)
 
 
 
@@ -113,7 +113,7 @@ sidebar_label: 智能宠物喂食器
 
 ## 案例演示
 
-![](./images/smart-maker-kit-demo.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/smart-maker-kit-demo.gif)
 
 ## 思考
 

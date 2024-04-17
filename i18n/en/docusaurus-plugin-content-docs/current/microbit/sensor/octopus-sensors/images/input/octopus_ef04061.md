@@ -1,10 +1,10 @@
-# Octopus Linear Slider Potentiometer Brick(EF04061)
+﻿# Octopus Linear Slider Potentiometer Brick(EF04061)
 
 ## Introduction
 
 OCTOPUS Potentiometer is a simple linear sliding potentiometer electronic building block module which can be used for resistor divider output, HID control panel, electronic building block kit.
 
- ![](./images/zB1We7i.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/zB1We7i.jpg)
 
 ## Products Link
 
@@ -28,7 +28,7 @@ Size|51mm X 13.95mm
 ## Outlook and Dimensions
 
 
- ![](./images/dLwyWxY.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/dLwyWxY.jpg)
 
 ## Quick to Start
 
@@ -38,7 +38,7 @@ Size|51mm X 13.95mm
 
   Take sensor:bit for example
 
- ![](./images/ikkyw8U.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/ikkyw8U.png)
 
 ### Add Package
 
@@ -48,7 +48,7 @@ Size|51mm X 13.95mm
 
 
 
- ![](./images/Q7yiG9T.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/Q7yiG9T.png)
 
 ### Reference
 

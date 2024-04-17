@@ -1,4 +1,4 @@
-# Case 05: Magic Power Indicator
+﻿# Case 05: Magic Power Indicator
 
 ## Purpose
 
@@ -35,11 +35,11 @@ After recharging the magic wand, this is the only equipment left in his team. Xi
 
  Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](./images/magicwand_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_02.png)
 
 We need to add a package for programming, . Click "Extensions" in the bottom of the drawer and search with "magicwand" in the dialogue box to download it. (Kindly note this package is still in the verifying process and pls search with "https://github.com/elecfreaks/pxt-magicwand " before it's ready)
 
-![](./images/magicwand_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_03.png)
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
@@ -49,23 +49,23 @@ Choose the variables in the MakeCode drawer and write the letter "i" in the dial
 
 
 
-![](./images/magicwand_case_03_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_03_04.png)
 
 
-![](./images/magicwand_case_03_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_03_05.png)
 
 
 ### Step 3
 Initialize the RainbowLED strips to connect to P8 with 8 beads and set the variable to 7 and the strip in bule in the on start brick.
 
-![](./images/magicwand_case_05_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_05_07.png)
 
 
 ### Step 4
 
 While button in P2 being pressed, programme to set the pixel "i" in red, refresh the strip and set "i"="i"-1.
 
-![](./images/magicwand_case_05_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_05_08.png)
 
 ### Link
 

@@ -9,7 +9,7 @@ sidebar_position: 10
 ## 硬件安装
 将超声波传感器插入**sonar**的接口。
 **_注意：安装超声波传感器时，不能插入IIC接口，如果将超声波传感器插入IIC接口会导致程序无法运行，超声波传感器发热。_**
-![cutebot_01_02.jpg](https://cdn.nlark.com/yuque/0/2022/jpeg/12684684/1655258562310-73773cac-8981-40e2-aa47-34cff0a2327c.jpeg#clientId=u3b01b621-8dba-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=ufd839cc3&margin=%5Bobject%20Object%5D&name=cutebot_01_02.jpg&originHeight=600&originWidth=600&originalType=binary&ratio=1&rotation=0&showTitle=false&size=149116&status=done&style=none&taskId=u59db3aa4-bfb1-4e78-bb96-19ebf871d92&title=)
+![cutebot_01_02.jpg](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1655258562310-73773cac-8981-40e2-aa47-34cff0a2327c.jpeg#clientId=u3b01b621-8dba-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=ufd839cc3&margin=%5Bobject%20Object%5D&name=cutebot_01_02.jpg&originHeight=600&originWidth=600&originalType=binary&ratio=1&rotation=0&showTitle=false&size=149116&status=done&style=none&taskId=u59db3aa4-bfb1-4e78-bb96-19ebf871d92&title=)
 ## 准备编程环境
 准备编程环境请参考：[准备编程环境](https://www.yuque.com/elecfreaks-learn/picoed/gccnpl)
 ## 示例代码

@@ -1,4 +1,4 @@
-# Case 04：Recharge the Magic Wand
+﻿# Case 04：Recharge the Magic Wand
 
 ## Purpose
 ---
@@ -34,11 +34,11 @@ Xiao En has successfully cheered his team up, but the long battle with the insec
 
  Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](./images/magicwand_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_02.png)
 
 We need to add a package for programming, . Click "Extensions" in the bottom of the drawer and search with "magicwand" in the dialogue box to download it. (Kindly note this package is still in the verifying process and pls search with "https://github.com/elecfreaks/pxt-magicwand " before it's ready)
 
-![](./images/magicwand_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_03.png)
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
@@ -48,16 +48,16 @@ Choose the variables in the MakeCode drawer and write the letter "i" in the dial
 
 
 
-![](./images/magicwand_case_03_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_03_04.png)
 
 
-![](./images/magicwand_case_03_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_03_05.png)
 
 
 ### Step 3
 Initialize the RainbowLED strips to connect to P8 with 8 beads and set the variable to -1 in the on start brick.
 
-![](./images/magicwand_case_04_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_04_07.png)
 
 
 ### Step 4
@@ -65,7 +65,7 @@ Initialize the RainbowLED strips to connect to P8 with 8 beads and set the varia
 Drag the if...else... brick into the forever brick to judge the status of the button connecting to P2, while the button being pressed, it circulates to execute the command: “i" = "i" +1, and set the pixel "i" as blue, refresh to show the strip and pause for 500ms; while the button not being pressed, judge if  “i"< 7 and set it as -1, then set the strip of the color as red.
 
 
-![](./images/magicwand_case_04_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_04_08.png)
 
 ### Link
 

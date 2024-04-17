@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 8
 sidebar_label: Case 01 - Run in A Square Routine
 ---
@@ -21,7 +21,7 @@ Hello, in this class we are about to learn to program and control XGO, we will m
 ---
 Connect the micro:bit with the computer. Believe you are already very skilled.
 
-![](./images/microbit-xgo-robot-kit-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-22.png)
 
 ## MakeCode programming
 ---
@@ -29,11 +29,11 @@ Connect the micro:bit with the computer. Believe you are already very skilled.
 
 Click Advanced in MakeCode to see more options.
 
-![](./images/microbit-xgo-robot-kit-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-10.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer, search for "XGO" in the dialog to download.
 
-![](./images/microbit-xgo-robot-kit-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-11.png)
 
 ***Note:*** If you encounter a prompt that some codebases will be removed due to incompatibility, you can follow the prompt to continue or create a new project in the menu.
 
@@ -41,7 +41,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 #### sample program
 
-![](./images/xgo-1-2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/xgo-1-2.png)
 
 Link[Run in A Square Routine](https://makecode.microbit.org/_3WaJt82pkbqd)
 

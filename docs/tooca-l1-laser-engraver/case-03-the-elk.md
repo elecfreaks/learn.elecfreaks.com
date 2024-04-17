@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 14
 sidebar_label: 麋鹿
 ---
@@ -10,7 +10,7 @@ sidebar_label: 麋鹿
 麋鹿是一种大型食草动物，颈背上有一条黑色的纵纹，腹部和臀部为棕白色。9月以后体毛被较长而厚的灰色冬毛所取代。
 
 
-![](./images/tooca-laser-1-case-03-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-03-01.png)
 
 ## 使用材料
 
@@ -38,4 +38,4 @@ sidebar_label: 麋鹿
 
 ## 效果展示
 
-![](./images/tooca-laser-1-case-03-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-03-01.png)

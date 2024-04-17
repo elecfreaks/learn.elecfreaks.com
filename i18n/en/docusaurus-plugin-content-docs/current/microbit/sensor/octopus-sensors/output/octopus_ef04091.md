@@ -1,4 +1,4 @@
-# Octopus Single RGB Rainbow LED(EF04091)
+﻿# Octopus Single RGB Rainbow LED(EF04091)
 
 ## Introduction
 
@@ -33,7 +33,7 @@ NW|2.4g
 
 ### Outlook and Dimensions
 
-![](./images/w5nulIo.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/w5nulIo.png)
 
 ## Quick Start
 
@@ -41,16 +41,16 @@ NW|2.4g
 
 Connection note: Connect this to the P1 port in OCTOPUS:BIT, and insert the micro:bit into it.
 
-![](./images/AGdJhsV.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/AGdJhsV.png)
 
 ### Software Programming
 Click "Advanced"in the choice of the MakeCode to find more choices.
 
-![](./images/LjMR5IU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/LjMR5IU.png)
 
 We need to add a package for programming. Click "Add Package" on the bottom of the page, and search "neopixel" in the dialogue box, the package is pointed by the red arrow below.
 
-![](./images/meteyoR.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/meteyoR.png)
 
 Programme to use accelerometer to control the color of LED.
 Links: [https://makecode.microbit.org/_Fu0g597xD85g](https://makecode.microbit.org/_Fu0g597xD85g) [https://makecode.microbit.org/40248-92205-21488-21926](https://makecode.microbit.org/40248-92205-21488-21926)

@@ -1,4 +1,4 @@
-# 雪花蜂鸣器
+﻿# 雪花蜂鸣器
 
 ## 介绍
 ---
@@ -34,20 +34,20 @@
 - 红色鳄鱼夹与micro:bit上3V端连接，红色鳄鱼夹另一端与雪花峰鸣器标示V端连接
 - 黄色鳄鱼夹与micro:bit上0端口连接，黄色鳄鱼夹另一端与雪花峰鸣器标示S端连接
 
-![](./images/h65KyxW.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/h65KyxW.jpg)
 
 ### 软件编程
 #### 步骤 1
 
 - 在input函数库中选择当按钮A按下时。编写一小段音乐。
 
-![](./images/cPG4w9y.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/cPG4w9y.png)
 
 #### 步骤 2
 
 - 再从input函数库中选择当按钮B按下时。编写一小段音乐。
 
-![](./images/etnarAi.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/etnarAi.png)
 
 ### 程序
 

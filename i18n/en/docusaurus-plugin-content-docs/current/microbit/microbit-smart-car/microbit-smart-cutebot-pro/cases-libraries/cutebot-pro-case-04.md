@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 4
 sidebar_label: case 04 voice control
 ---
@@ -9,7 +9,7 @@ sidebar_label: case 04 voice control
 
 This course aims to let students learn and explore knowledge points such as car motor control, noise sensor, sound propagation and noise level by making a smart racing car, and apply these knowledge to control the driving of the car.
 
-![](./images/cutebot-pro-case-04-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-04-01.png)
 
 ## Teaching Objectives
 
@@ -43,7 +43,7 @@ Know the noise level.
 
 ### Sample Code
 
-![](./images/cutebot-pro-case-04-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-04-02.png)
 
 
 Link：[https://makecode.microbit.org/_CcwUMPfzEYRj](https://makecode.microbit.org/_CcwUMPfzEYRj)

@@ -1,4 +1,4 @@
-# 案例05：计步器
+﻿# 案例05：计步器
 
 ## 目的
 ---
@@ -9,7 +9,7 @@
 
 - 1 x [手表套件Pro（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=582042009614)
 
-![](./images/smart_coding_kit_case_05_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_05_01.png)
 
 
 ## 软件
@@ -23,7 +23,7 @@
 
 
 
-![](./images/smart_coding_kit_case_05_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_05_02.png)
 
 
 

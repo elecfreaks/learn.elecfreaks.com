@@ -1,11 +1,11 @@
----
+﻿---
 sidebar_position: 9
 sidebar_label: Case 02 - A Light-controlled Dog
 ---
 
 # Case 02 - A Light-controlled Dog
 
-![](./images/xgo-2-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/xgo-2-1.png)
 
 ## Purpose
 
@@ -29,7 +29,7 @@ Hello , after the last lesson, you must have learned to control XGO to make some
 ---
 We use a data cable (USB cable) to connect the computer with the micro:bit, I believe you are already very skilled.
 
-![](./images/microbit-xgo-robot-kit-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-22.png)
 
 ## MakeCode programming
 ---
@@ -37,11 +37,11 @@ We use a data cable (USB cable) to connect the computer with the micro:bit, I be
 
 Click Advanced in MakeCode to see more options.
 
-![](./images/microbit-xgo-robot-kit-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-10.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer, search for "XGO" in the dialog to download.
 
-![](./images/microbit-xgo-robot-kit-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-11.png)
 
 ***Note:*** If you encounter a prompt that some codebases will be removed due to incompatibility, you can follow the prompt to continue or create a new project in the menu.
 
@@ -49,7 +49,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 #### sample program
 
-![](./images/xgo-2-2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/xgo-2-2.png)
 
 Link: [A Light-controlled Dog](https://makecode.microbit.org/_YVJe8eefmbqo)
 

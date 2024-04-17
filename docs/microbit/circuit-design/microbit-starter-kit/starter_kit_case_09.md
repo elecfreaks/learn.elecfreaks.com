@@ -1,6 +1,6 @@
-# 课程_09 蜂鸣器
+﻿# 课程_09 蜂鸣器
 
-![](./images/nCSnCEt.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/nCSnCEt.jpg)
 
 ## 简介
 ---
@@ -20,7 +20,7 @@
 
 **温馨提示：如果你需要以上所有元件，你可以购买我们的[Elecfreaks小小科学家套件](https://item.taobao.com/item.htm?ft=t&id=597096675822)。**
 
-![](./images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
 
 ## 主要元件介绍
 ---
@@ -28,15 +28,15 @@
 
 蜂鸣器是一种发声器件，它由振动装置和谐振装置组成。按照控制方式分类，可把蜂鸣器又分为有源型与无源型。
 
-![](./images/KfDVHIk.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/KfDVHIk.jpg)
 
 有源型蜂鸣器的工作发声原理是：蜂鸣器内部集成振荡系统与放大取样电路，当有直流电源通过蜂鸣器时会使谐振装置产生声音信号，有源型蜂鸣器的工作发声原理图如下：
 
-![](./images/spNnKiB.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/spNnKiB.jpg)
 
 无源型蜂鸣器的工作发声原理是：方波信号输入谐振装置转换为声音信号输出，无源型蜂鸣器的工作发声原理图如下：
 
-![](./images/kNHyjjl.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/kNHyjjl.jpg)
 
 注：本次实验，我们使用的是无源蜂鸣器。
 
@@ -44,12 +44,12 @@
 
 三极管是一种控制电流的半导体器件，其作用是把微弱信号放大成幅度值较大的电信号。
 
-![](./images/LEvAFS5.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/LEvAFS5.jpg)
 
 如果直接把micro:bit产生的PWM信号输入至蜂鸣器，蜂鸣器只会发出微弱的声音，这是因为IO口的驱动电流通常都是非常微弱的，不足以直接驱动蜂鸣器这类器件。这时候，我们就需要用到三极管将PWM信号的电流放大，从而让蜂鸣器能发出正常的声响。
 用三极管驱动蜂鸣器，典型应用电路如下：
 
-![](./images/ZhQ3fhv.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/ZhQ3fhv.jpg)
 
 
 ## 实验步骤
@@ -59,11 +59,11 @@
 
 - 1.将蜂鸣器与100Ω电阻以及三级管串连，连接P0口
 
-![](./images/YTNuh7H.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/YTNuh7H.jpg)
 
 连接完成后如图:
 
-![](./images/iYiZM7O.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/iYiZM7O.jpg)
 
 ### 软件
 
@@ -73,12 +73,12 @@
 
 ### 如图所示编写程序
 
-![](./images/case_09_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_09_01.png)
 
 ### 代码详解
 - 1.发出一个C音，持续100ms，同理，编写EGE的音符代码
 
-![](./images/case_09_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_09_02.png)
 
 ### 参考程序
 请参考程序连接：[https://makecode.microbit.org/_DdPPjDCdmM1a](https://makecode.microbit.org/_DdPPjDCdmM1a)
@@ -109,7 +109,7 @@
 ---
 蜂鸣器发出的声响在低频与高频间来回循环，并且把频率以柱形图的形式显示在micro：bit屏幕上。
 
-![](./images/2AJXtVY.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/2AJXtVY.gif)
 
 
 ## 思考

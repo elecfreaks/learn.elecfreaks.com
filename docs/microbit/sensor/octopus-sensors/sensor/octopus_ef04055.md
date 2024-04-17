@@ -4,7 +4,7 @@
 ---
 OCTOPUS PIR传感器模块是一种基于AM412热释电数字智能传感器的电子积木。它可用于感知和检测人体或动物的运动，感应距离约4-5米。
 
- ![](./images/j1VO7pH.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/j1VO7pH.jpg)
 
 ## 特性
 ---
@@ -30,7 +30,7 @@ SKU|EF04055
 ## 外形与定位尺寸
 ---
 
- ![](./images/Ok6fmjF.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/Ok6fmjF.jpg)
 
 ## 快速上手
 ---
@@ -40,7 +40,7 @@ SKU|EF04055
 
 ***以sensor：bit为例***
 
-![](./images/5iwXCZp.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/5iwXCZp.png)
 ### 添加packege
 
 ### 如图所示编写程序
@@ -51,7 +51,7 @@ SKU|EF04055
 
 3.当信息为1显示一个矩形
 
- ![](./images/aMlPqo5.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/aMlPqo5.png)
 
 ### 参考程序
 
@@ -89,13 +89,13 @@ SKU|EF04055
 下载压缩包并解压[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_07.png)
 
 为了给人体红外传感器编程，我们需要添加pir.py。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的Octopus_MicroPython-master文件夹，从中选择pir.py添加进来。
 
-![](./images/05001_08.png)
-![](./images/05001_09.png)
-![](./images/04055_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04055_10.png)
 
 ### 步骤 2
 ### 参考程序

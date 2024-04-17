@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 5
 sidebar_label: Classroom Smart Home Kit
 ---
@@ -15,4 +15,4 @@ With the Classroom Smart Home Kit, you can enjoy hands-on fun while exploring sm
 
 Start your smart home journey now! Let's combine the creativity and technology for creating a smart, convenient and comfortable home environment.
 
-![](./images/classroom-smart-home-kit.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-home-kit/images/classroom-smart-home-kit.png)

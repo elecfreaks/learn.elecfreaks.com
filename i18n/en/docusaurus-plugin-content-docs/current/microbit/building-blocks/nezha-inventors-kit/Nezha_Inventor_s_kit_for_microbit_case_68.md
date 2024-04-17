@@ -1,10 +1,10 @@
-# Case 68: The Weather Stations
+﻿# Case 68: The Weather Stations
 
 ## Introduction
 
 In recent years, many places around the world have experienced major natural disasters, such as volcanic eruptions，floods，droughts。fires，etc., and in recent years, there have been more occurrences and greater damage, it is necessary for us to monitor the subtle changes in the data of the surrounding environment at all times in order to anticipate future changes in the surrounding environment. In this case, we will use the BME280 sensor to detect the data from the surrounding environment.
 
-![](./images/68_1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_1.png)
 
 ### Materials Required
 
@@ -34,51 +34,51 @@ Bricks × n
 
 Component Details
 
-![](./images/68_2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_2.png)
 
 Build it as the assembly steps suggest:
 
-![](./images/68_3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_3.png)
 
-![](./images/68_4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_4.png)
 
-![](./images/68_5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_5.png)
 
-![](./images/68_6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_6.png)
 
-![](./images/68_7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_7.png)
 
-![](./images/68_8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_8.png)
 
-![](./images/68_9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_9.png)
 
-![](./images/68_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_10.png)
 
-![](./images/68_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_11.png)
 
-![](./images/68_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_12.png)
 
-![](./images/68_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_13.png)
 
-![](./images/68_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_14.png)
 
-![](./images/68_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_15.png)
 
-![](./images/68_16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_16.png)
 
-![](./images/68_17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_17.png)
 
-![](./images/68_18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_18.png)
 
-![](./images/68_19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_19.png)
 
-![](./images/68_20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_20.png)
 
 ## Connection Diagram
 
 Connect the Speech recognition module, the OLED Screen and the BME280 sensor to the IIC ports，the LED Rainbow to J1 port and motor to M1 port as the diagram displays below:
 
-![](./images/68_21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_21.png)
 
 
 ##  MakeCode Programming
@@ -89,7 +89,7 @@ Click “Advanced” in the MakeCode drawer to see more choices.
 
 
 
-![](./images/49_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_10.png)
 
 
 
@@ -97,13 +97,13 @@ We need to add a package for programming. Click “Extensions” at the bottom o
 
 
 
-![](./images/49_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_11.png)
 
 
 
 We need to add a package for programming. Search with “PlanetX” in the dialogue box and click to download it.
 
-![](./images/49_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_12.png)
 
 
 
@@ -113,7 +113,7 @@ We need to add a package for programming. Search with “PlanetX” in the dialo
 
 The program is displayed below:
 
-![](./images/68_22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_22.png)
 
 Link: https://makecode.microbit.org/_D9k3XeYpUHL2
 
@@ -142,4 +142,4 @@ You may also download it directly:
 
 When we say "start device", the weather station will start itself, the motor will start to rotate, and the colored light ring will cycle through the rainbow lights. When we say the learning phrase (in this case, "show ambient data"), the OLED display will show the data. When we say "stop the device", the motor will stop rotating, the color ring will stop cycling the rainbow lights, and the OLED display will clear the data.
 
-![](./images/68_23.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/68_23.gif)

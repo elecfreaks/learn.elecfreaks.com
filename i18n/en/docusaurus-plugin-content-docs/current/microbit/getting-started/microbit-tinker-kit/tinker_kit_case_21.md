@@ -1,12 +1,12 @@
 # case 21 Flappy Bird
 
-![](./images/EWlMcgc.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/EWlMcgc.jpg)
 
 Take flight and achieve your pipe dreams with your own version of the notoriously challenging Flappy Bird game, using nothing but a micro:bit (no extras needed) and some Python code.
 
 Made by Cheryl from Raffles Institution. Warning: heavy dosage of bird puns included.
 
-![](./images/H6Kz8Ky.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/H6Kz8Ky.gif)
 
 
 
@@ -66,8 +66,8 @@ You might already know how to do some of these. Try covering these steps on your
 
 ### Step 1 – Hello, World!
 
-![](./images/EujWzha.gif)
-![](./images/DG97oWg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/EujWzha.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/DG97oWg.png)
 
 First step is to import the micro:bit library into Python. Then, let a ‘READY’ message scroll across the screen and initiate countdown that shows when the game starts.
 Line 1: This imports the micro:bit program
@@ -81,7 +81,7 @@ Congratulations! You finished the pre-game message! Next, we have to actually se
 
 ### Step 2 – Fly, Birdie!
 
-![](./images/TEgiQ62.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/TEgiQ62.png)
 
 Next, we have to create the image of the bird. For those who never analysed the game, Flappy Bird only allows the bird to move upwards and downwards, and pushes it at a constant speed towards the walls. Of course, our screen only has 5 rows of LED so it’s quite limited. To make the bird-flapping more realistic, we’ll be splitting these 5 segments into 100 different positions. This gives us more flexibility when adding speed of descent later on. In this case, the top of the screen is position y=0 and the button is position y=99 so there are 100 positions. The start position is y=50.
 Line 13: This sets the start position of the bird right in the middle, as y=0 is the top and y=99 is at the bottom.
@@ -93,7 +93,7 @@ Game check: At this point, a welcome message should appear, then disappear for a
 
 ### Step 3 – Leaving The Nest
 
-![](./images/Ezp6Je5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Ezp6Je5.png)
 
 The previous step only created the bird image, but it still can’t move! This is what we will do in the next step, by simulating realistic gravity.
 Firstly, let’s add a new variable ’speed’ right below the y-coordinate.
@@ -104,7 +104,7 @@ Terminal velocity: to make the motion of the bird more realistic, speed reaches 
 
 ### Step 4 – Defying Gravity
 
-![](./images/ZbTEnWI.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/ZbTEnWI.png)
 
 Now, we have to get the bird to hop by pressing button A. In this step, we also include a new ‘score’ variable to track the number of walls that the bird flies past. This can be accessed at any point using button B.
 To react to key-pressing of A, run ‘button_a.was_pressed()’ under an if-loop like in line 21. If, during that iteration, the A button was pressed at any time, we bring the bird up, reset the falling rate, then let it accelerate back down to the ground, giving the falling and flapping motion. Change the value of speed on flapping, which is currently -8, to see the visual changes to rate of bird’s descent.
@@ -115,7 +115,7 @@ Game check: Welcome message appears, disappears, then bird appears that falls do
 
 ### Step 5 – Pipe Blaster
 
-![](./images/ERqJM7p.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/ERqJM7p.png)
 
 We’re going to create our first pipe using a make_pipe function! Then we’ll assign it to variable i, and show pipe within the while loop. I know it’s complicated, but it’ll also be the start of owl/our game finally looking complete!
 Functions are blocks of code that are run conveniently under the function name. By calling a function, we can run the entire block of code within it. This makes it easier to understand what we’re doing at each step. In this case, we’ll name our function make_pipe() which runs code to make a new pipe each time. Let’s break down what each step of the make_pipe() function does
@@ -131,7 +131,7 @@ Game check: Same as step 4, and now there’s an unmoving wall with holes! Check
 
 ### Step 6 – Frame Rate
 
-![](./images/tL1Y2ML.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/tL1Y2ML.png)
 
 This step is where we set up the game constants. Here, the frame variable starts at 0, then increases by 1 every 20ms so it takes 400ms or 0.4s for the frames variable to increase by 20. Remember this, it’ll be easier for the incoming math. These constants aren’t used until Step 7, but let’s set them up first.
 Line 15 just indicates the time taken (in ms) for frame to increase by 1, which is added as part of the while loop in line 37 (frame += 1). You can change the sleep(20) at the bottom of the code to sleep(DELAY) so it corresponds.
@@ -144,7 +144,7 @@ Note: The game constants are in uppercase, differentiating them from the other v
 
 ### Step 7 – Pipe Dreams
 
-![](./images/BCHdRPp.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/BCHdRPp.png)
 
 Here, we will compare the frame value with game constants to move the wall left, create a new wall and increase the score. This is all within the while loop so it’s checked every 20ms. Ready? Let’s go.
 At this step, we’ll use the modulo sign (%). This provides the remainder when a number is divided by another number. So 4 % 2 returns 0 but 4 % 3 returns 3. Here, we’ll use it to check that the frame variable is equal to any of the game constants.
@@ -155,7 +155,7 @@ Game check: The game should be almost fully playable, with the welcome message, 
 
 ### Step 8 – Collision Course
 
-![](./images/s3dl5xU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/s3dl5xU.png)
 
 Phew, you made it to the last step! Ready to wing it? Now, we just need to add a collision reaction. This uses a get_pixel function that returns the LED brightness value at that position. ‘!=‘, the NOT function is also used. Let’s explain how it’s used below.
 Add this collision checking code to the while loop, between the bird-drawing and wall-shifting. This means it checks for collision before new walls are created so there’s no extra scores by error.

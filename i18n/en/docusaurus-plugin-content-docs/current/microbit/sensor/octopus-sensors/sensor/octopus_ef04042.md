@@ -1,10 +1,10 @@
-# Octopus DS18B20 Digital Temperature Brick(EF04042)
+﻿# Octopus DS18B20 Digital Temperature Brick(EF04042)
 
 ## Introduction
 
 This brick uses the DS18B20 1-Wire digital temperature sensor from Maxim IC.
 
- ![](./images/c8DrDnH.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/c8DrDnH.jpg)
 
 
 ## Products Link
@@ -27,7 +27,7 @@ Working Voltage|3.3-5V
 
 ## Outlook and Dimensions
 
- ![](./images/Bc8O78l.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/Bc8O78l.jpg)
 
 ## Quick to Start
 
@@ -36,21 +36,21 @@ Working Voltage|3.3-5V
 
 Take sensor:bit for example
 
- ![](./images/Sc5JwUT.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/Sc5JwUT.png)
 
 ### Add Package
 
  Click "Advanced"in the choice of the MakeCode to find more choices.
 
- ![](./images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
 
 Click "Extensions", search "iot"in the dialog box and then download it.
 
- ![](./images/qChMeYd.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/qChMeYd.png)
 
 ### Program as the picture shows
 
- ![](./images/kO6z0oE.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/kO6z0oE.png)
 
 ### Reference
 

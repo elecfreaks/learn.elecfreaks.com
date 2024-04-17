@@ -4,7 +4,7 @@
 ---
 octopus蓝色电位器电子积木是一个10K的电位器模块。通过旋转电位器旋钮来改变电阻值，既能实现分压，又能为单片机的模拟输入IO口提供模拟量信号。该模块接口采用3线防反插接口，可以方便使用GVS线连接。
 
-![](./images/04085.JPG)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/04085.JPG)
 
 ## 特性
 ---
@@ -27,7 +27,7 @@ SKU|EF04085
 
 ### 外型尺寸
 
-![](./images/octopus_board.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/octopus_board.png)
 
 ## 快速上手
 ---
@@ -35,7 +35,7 @@ SKU|EF04085
 ### 硬件连接
 将该模块连接至micro:bit扩展板P1口。（如下图）
 
-![](./images/04085.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/04085.png)
 
 ### 软件编程
 打开[Makecode在线编辑器](https://makecode.microbit.org/)，编写代码，使电位器控制micro:bit主板LED点阵灯的变化。
@@ -71,13 +71,13 @@ SKU|EF04085
 下载压缩包并解压[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/05001_07.png)
 
 为了给电位器模块编程，我们需要添加trimpot.py。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的Octopus_MicroPython-master文件夹，从中选择trimpot.py添加进来。
 
-![](./images/05001_08.png)
-![](./images/05001_09.png)
-![](./images/04041_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/04041_10.png)
 
 ### 步骤 2
 ### 参考程序

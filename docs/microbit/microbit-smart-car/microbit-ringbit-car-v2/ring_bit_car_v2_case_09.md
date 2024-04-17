@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 17
 sidebar_label: 加速度计远程控制
 ---
@@ -25,12 +25,12 @@ sidebar_label: 加速度计远程控制
 
  *新版和旧版micro:bit加速度计芯片有所区别。新版micro:bit将电子罗盘和加速度计合并为一个芯片，使用方法不变。*
 
- ![](./images/2n6TbVZ.png)  ![](./images/F0frwo6.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/2n6TbVZ.png)  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/F0frwo6.jpg)
 
 ## 硬件连接图
 ---
 - Ring:bit扩展版的P1口连接左轮舵机，P2口连接右轮舵机。
-![](./images/jBVHea8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/jBVHea8.png)
 
 ## 软件平台
 ---
@@ -41,11 +41,11 @@ sidebar_label: 加速度计远程控制
 ### 步骤 1
 - 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
-![](./images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/2qCyzQ7.png)
 
 - 为了给Ring:bit套件编程，我们需要添加一个代码库。在代码抽屉底部找到“Add Package”，并点击它。这时会弹出一个对话框。搜索“ringbit"，然后点击下载这个代码库。
 
-![](./images/1Wq2Mov.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/1Wq2Mov.jpg)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 

@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: Products Introduction
 ---
@@ -11,7 +11,7 @@ sidebar_label: Products Introduction
 
 The Smart Home Material Pack is a customised wooden accessory pack for the Octopus sensors. It is designed with fixing holes reserved for IOT:bit, Sensor:bit, Servo and Octopus sensors, which enables to show better results when building cases.
 
-<!--![](./images/smart-home-material-pack-01.png)-->
+<!--![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/smart-home-material-pack/images/smart-home-material-pack-01.png)-->
 
 ## Pre-positioned Holes
 
@@ -29,14 +29,14 @@ The Smart Home Material Pack is a customised wooden accessory pack for the Octop
 
 Reference
 
-![](./images/classroom-smart-home-kit.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/smart-home-material-pack/images/classroom-smart-home-kit.png)
 
 [Classroom Smart Home Kit](http://wiki.elecfreaks.com/en/microbit/interesting-case/classroom-smart-home-kit/)
 
-![](./images/classroom-smart-pet-feeder-kit.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/smart-home-material-pack/images/classroom-smart-pet-feeder-kit.png)
 
 [Classroom Smart Pet Feeder Kit](http://wiki.elecfreaks.com/en/microbit/interesting-case/classroom-smart-pet-feeder-kit/smart-pet-feeder)
 
-![](./images/classroom-smart-air-purifier-kit.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/smart-home-material-pack/images/classroom-smart-air-purifier-kit.png)
 
 [Classroom Smart Air Purifier Kit](http://wiki.elecfreaks.com/en/microbit/interesting-case/classroom-smart-air-purifier-kit/)

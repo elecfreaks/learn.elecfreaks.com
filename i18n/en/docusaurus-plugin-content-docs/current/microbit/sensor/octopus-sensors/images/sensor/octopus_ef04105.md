@@ -1,9 +1,9 @@
-# RFID Sensor(EF04105)
+﻿# RFID Sensor(EF04105)
 
 ## Introducion
 RFID sensor uses the wireless radio frequency method to read and write to the recording media (electronic tag or radio frequency card), so as to achieve the purpose of recognizing the target and data exchange.
 
-![](./images/04105_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04105_01.png)
 
 ## Products Link
 
@@ -28,7 +28,7 @@ Core IC|PN5321A3
 
 ## Outlook and Dimensions
 
-![](./images/04105_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04105_02.png)
 
 
 ## Quick to Start 
@@ -37,24 +37,24 @@ Core IC|PN5321A3
 
 Connect the RFID sensor with the IIC port on Sensor:bit as the picture shows. 
 
-![](./images/04105_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04105_03.png)
 
 ## MakeCode Programming
 
 ### Add Extensions
 Click `Extensions` in the MakeCode drawer to see more choices. 
 
-![](./images/04105_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04105_04.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with `https://github.com/elecfreaks/pxt-OctopusX` in the dialogue box to download it. 
 
-![](./images/04105_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04105_05.png)
 
 Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ###  Write Data via the RFID
 
-![](./images/04105_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04105_06.png)
 
 Reference link: [https://makecode.microbit.org/_19ePfj3idL1h](https://makecode.microbit.org/_19ePfj3idL1h)
 
@@ -67,7 +67,7 @@ After poweing on, put the electronic tag underneath the RFID, and the RFID shall
 
 ### RFID Reads Data
 
-![](./images/04105_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04105_07.png)
 
 Reference link: [https://makecode.microbit.org/_fXU8hWYc9Lhu](https://makecode.microbit.org/_fXU8hWYc9Lhu)
 

@@ -1,10 +1,10 @@
-# MQ3 Gas Sensor Brick(EF04060)
+﻿# MQ3 Gas Sensor Brick(EF04060)
 
 ## Introduction
 
 The gas sensitive material used in the MQ-3 gas sensor is tin dioxide (SnO2), which has a low conductivity in clean air. While the sensor being put in an environment that exists the alcohol vapor, the electrical conductivity of the sensor increases as the concentration of alcohol gas in the air increases.
 
-![](./images/04060_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04060_01.png)
 
 ## Products Link
 
@@ -30,7 +30,7 @@ Size|38x27mm
 ## Outlook and Dimension
 
 
-![](./images/04060_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04060_02.png)
 
 ## Quick to Start
 
@@ -44,7 +44,7 @@ Size|38x27mm
 
 
 
-![](./images/04060_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04060_03.png)
 
 
 ***Note：*** Due to the high power consumption, powering with the USB wires from the breakout board(you can use our IoT:bit or Wukong breakout board) is required. 
@@ -52,7 +52,7 @@ Size|38x27mm
 
 ### Program as the picture shows 
 
-![](./images/04060_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04060_04.png)
 
 
 ### Reference

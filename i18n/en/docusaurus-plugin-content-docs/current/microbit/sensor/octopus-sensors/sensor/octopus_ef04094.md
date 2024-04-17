@@ -1,4 +1,4 @@
-# Octopus Water level Sensor(EF04094)
+﻿# Octopus Water level Sensor(EF04094)
 
 ## Introduction
 
@@ -10,7 +10,7 @@ It can convert the water volume to analog signal easily and the output value can
 
 ***Notice:*** The components above the MAX water level are not waterproof, please do not put them in the water.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitSensor/sensor/images/04094_00.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04094_00.jpg)
 
 ## Products Link
 
@@ -33,7 +33,7 @@ It can convert the water volume to analog signal easily and the output value can
 
 ## Dimensions and Outlook
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitSensor/sensor/images/04094_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04094_01.png)
 
 ## Quick to Start
 
@@ -41,7 +41,7 @@ It can convert the water volume to analog signal easily and the output value can
 
 Connect the module with the wire(with buckle) to the PI pins on the Octopus:bit, insert the micro:bit to the Octopus:bit.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitSensor/sensor/images/04094_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04094_02.png)
 
 ### Software Programming
 

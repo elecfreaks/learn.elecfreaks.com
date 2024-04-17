@@ -1,4 +1,4 @@
----
+﻿---
 
 sidebar_position: 18
 sidebar_label: The Dazzling Lights
@@ -17,7 +17,7 @@ sidebar_label: The Dazzling Lights
 - 1 x [TPBot](https://www.elecfreaks.com/tpbot.html)
 
 
-![](./images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_01_01.png)
 
 
 ## Hardware connection
@@ -25,7 +25,7 @@ sidebar_label: The Dazzling Lights
 Connect rainbow led to port 1 on TPBot.
 
 
-![](./images/TPBot_tianpeng_case_16_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_16_03.png)
 
 
 
@@ -41,15 +41,15 @@ Connect rainbow led to port 1 on TPBot.
 
   Click "Advanced" to see more choices in the MakeCode drawer.
 
-![](./images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_01_02.png)
 
 - We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "tpbot" in the dialogue box to download it.
 
-![](./images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_01_03.png)
 
 - We need to add a package for programming. Click "Extensions" in the bottom of the drawer and seach with "PlanetX" in the dialogue box to download it.
 
-![](./images/TPBot_tianpeng_case_15_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_15_03.png)
 
 ### Sample
 
@@ -58,7 +58,7 @@ Connect rainbow led to port 1 on TPBot.
 - In forever brick, judge if the variable "i" is 1, if yes, set the led in red and pasue for 500ms, after in blue and pause another 500ms; or set it in black.
 
 
-![](./images/TPBot_tianpeng_case_16_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_16_04.png)
 
 
 ### Link

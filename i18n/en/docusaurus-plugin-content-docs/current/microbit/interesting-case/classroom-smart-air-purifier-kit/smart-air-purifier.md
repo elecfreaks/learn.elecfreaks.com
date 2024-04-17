@@ -9,7 +9,7 @@ sidebar_label: Smart-Air-Purifier
 
 The dust sensor detects the dust concentration in the indoor air in real time and transmits the data to the micro:bit, which sends a signal to the motor fan to start when the dust concentration exceeds a set threshold. The motor fan is mounted on the side of the tiny house and when it receives the signal, it automatically starts and starts blowing the air in the room. Through the operation of the fan, the indoor air is circulated, thus effectively purifying the indoor air and improving the air quality.
 
-![](./images/microbit-smart-maker-kit-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-01.png)
 
 ## Preparation
 
@@ -94,7 +94,7 @@ These methods can help improve indoor air quality, but specific measures should 
 
 Connect the LED IN of the Dust sensor to P1 and OUT to P2, connect the motor fan to P3 on the IoT:bit. 
 
-![](./images/microbit-smart-maker-kit-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-02.png)
 
 ## Programming
 
@@ -102,23 +102,23 @@ Connect the LED IN of the Dust sensor to P1 and OUT to P2, connect the motor fan
 
 Go to makecode editor: https://makecode.microbit.org/.
 
-![](./images/microbit-smart-maker-kit-case02-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-case02-02.png)
 
 
 
 Click "Create Proejects" and give it a name, then click "Create".
 
-![](./images/microbit-smart-maker-kit-case02-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-case02-03.png)
 
 
 
 Click "Extensions" in the drawer and search with "iot-environment-kit" to download it, you can find them in the drawer afterwards. 
 
-![](./images/microbit-smart-maker-kit-case02-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-case02-04.png)
 
 ### Samples Code
 
-![](./images/microbit-smart-maker-kit-case02-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-case02-05.png)
 
 
 
@@ -126,7 +126,7 @@ Link: https://makecode.microbit.org/S78289-58742-68994-22523
 
 ## Cases Display
 
-![](./images/smart-maker-kit-demo.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-air-purifier-kit/images/smart-maker-kit-demo.gif)
 
 ## Think
 

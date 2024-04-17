@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 2
 sidebar_label: Case 02 Patrol at a fixes distance
 ---
@@ -9,7 +9,7 @@ sidebar_label: Case 02 Patrol at a fixes distance
 
 This course is designed to introduce students to the concepts of graphical programming and encoder motors. Students will use the Cutebot Pro to learn how to write programs to control the distance travelled by the cart.
 
-![](./images/cutebot-pro-case-02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-02-01.png)
 
 ## Teaching objectives
 
@@ -47,7 +47,7 @@ What are the practical application scenarios for the technique of precise distan
 ### Samples
 
 
-![](./images/cutebot-pro-case-02-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-02-02.png)
 
 
 Reference: [https://makecode.microbit.org/_Ethe7heqtXbi](https://makecode.microbit.org/_Ethe7heqtXbi)

@@ -71,7 +71,7 @@ sidebar_label: 开箱自检
 
 ![](./images/microbit-xgo-lite-v2-app-3.png)
 
-![](./images\microbit-xgo-lite-v2-app-4.png)
+![](./images/microbit-xgo-lite-v2-app-4.png)
 
 
 

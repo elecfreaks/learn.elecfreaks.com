@@ -80,7 +80,7 @@ sidebar_label: 案例二：风速仪
 
 ![](./images/microbit-smart-climate-kit-case-02-08.png)
 
-3. 当紫外线强度大于5时，显示哭泣图标，否则显示笑脸图标。
+3. OLED显示屏显示当前风速。
 
 ![](./images/microbit-smart-climate-kit-case-02-09.png)
 

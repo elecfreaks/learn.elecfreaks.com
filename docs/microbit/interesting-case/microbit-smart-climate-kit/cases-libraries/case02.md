@@ -21,7 +21,7 @@ sidebar_label: 案例二：风速仪
 
 | 图片 | 名称 |
 | :-: | :-: |
-|  | 智能气候套装 |
+| ![](./images/microbit-smart-climate-kit-case-01-02.png) | 智能气候套装 |
 | ![](./images/microbit-smart-climate-kit-case-01-03.png) | micro:bit V2 |
 | ![](./images/microbit-smart-climate-kit-case-01-04.png) | 个人电脑（PC） |
 | ![](./images/microbit-smart-climate-kit-case-01-05.png) | USB 数据线 |

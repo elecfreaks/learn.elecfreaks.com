@@ -1,9 +1,9 @@
 ---
 sidebar_position: 5
-sidebar_label: Case 05: Smart Weather Station 
+sidebar_label: Case 05: Smart Weather Station
 ---
 
-# Case 05: Smart Weather Station 
+# Case 05: Smart Weather Station
 
 ## Introduction
 
@@ -27,7 +27,7 @@ Make sure you get below items ready before teaching:
 
 | Picture | Name |
 | :-: | :-: |
-|  | Smart Weather Station Kit |
+| ![](./images/microbit-smart-climate-kit-case-01-02.png) | smart climate kit |
 | ![](./images/microbit-smart-climate-kit-case-01-03.png) | micro:bit V2 |
 | ![](./images/microbit-smart-climate-kit-case-01-04.png) | PC |
 | ![](./images/microbit-smart-climate-kit-case-01-05.png) | USB Cable |
@@ -59,7 +59,7 @@ Discussion and summary: Students discuss the results of their data analysis in g
 
 ### Hardware Connection
 
-Connect the Wind speed sensor to P1, the UV sensor to P2, the LED on the Dust sensor to P3, the out to P4, the DHT11 Humidity and Temperature sensor to P10 and the OLED diplay on the IoT:bit board. 
+Connect the Wind speed sensor to P1, the UV sensor to P2, the LED on the Dust sensor to P3, the out to P4, the DHT11 Humidity and Temperature sensor to P10 and the OLED diplay on the IoT:bit board.
 
 ![](./images/microbit-smart-climate-kit-case-05-06.png)
 
@@ -71,7 +71,7 @@ Go to“[makecode.microbit.org](https://makecode.microbit.org/)”, click to cre
 
 ![](./images/smart-weather-station-kit-add-extension-01.png)
 
-Click "Create" in the dialogue box after giving your project a name. 
+Click "Create" in the dialogue box after giving your project a name.
 
 ![](./images/smart-weather-station-kit-add-extension-02.png)
 
@@ -79,7 +79,7 @@ Click "Extensions" in the makecode drawer.
 
 ![](./images/smart-weather-station-kit-add-extension-03.png)
 
-Search with "IOT" in the dialogue box and get it downloaded. 
+Search with "IOT" in the dialogue box and get it downloaded.
 
 ![](./images/smart-weather-station-kit-add-extension-04.png)
 
@@ -91,7 +91,7 @@ Search with "IOT" in the dialogue box and get it downloaded.
 
 Link: [https://makecode.microbit.org/_a7sXEcgtc1M3](https://makecode.microbit.org/_a7sXEcgtc1M3)
 
-You may download it directly below: 
+You may download it directly below:
 
 <div
     style={{
@@ -114,11 +114,11 @@ You may download it directly below:
 
 *** Download the program ***
 
-Connect the micro:bit V2 with your PC with the USB cable. 
+Connect the micro:bit V2 with your PC with the USB cable.
 
 ![](./images/connect-microbit.gif)
 
-There will be a disk named "MICROBIT" in your PC. 
+There will be a disk named "MICROBIT" in your PC.
 
 ![](./images/microbit-drive.png)
 
@@ -139,7 +139,7 @@ Select `BBC micro:bit CMSIS-DAP` in the jumped-out page, and select "Connect", n
 
 ![](./images/download-07.png)
 
-Click to download the program. 
+Click to download the program.
 
 ![](./images/download-08.png)
 

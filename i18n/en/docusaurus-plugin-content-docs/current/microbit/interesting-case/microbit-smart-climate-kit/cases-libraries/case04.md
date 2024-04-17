@@ -25,7 +25,7 @@ Before teaching, please make sure you have the following necessary materials rea
 
 | Picture | Name |
 | :-: | :-: |
-|  | Smart Weather Station Kit |
+| ![](./images/microbit-smart-climate-kit-case-01-02.png) | smart climate kit |
 | ![](./images/microbit-smart-climate-kit-case-01-03.png) | micro:bit V2 |
 | ![](./images/microbit-smart-climate-kit-case-01-04.png) | PC |
 | ![](./images/microbit-smart-climate-kit-case-01-05.png) | USB Cable |
@@ -62,11 +62,11 @@ Go to “[makecode.microbit.org](https://makecode.microbit.org/)", click to crea
 
 ![](./images/smart-weather-station-kit-add-extension-01.png)
 
-Click "Create" in the dialogue box. 
+Click "Create" in the dialogue box.
 
 ![](./images/smart-weather-station-kit-add-extension-02.png)
 
-Ckick "Extensions" in the drawer. 
+Ckick "Extensions" in the drawer.
 
 ![](./images/smart-weather-station-kit-add-extension-03.png)
 
@@ -76,7 +76,7 @@ Search with "IoT" and download the extension.
 
 *** Sample Code ***
 
-1. Show an icon of heart while on start. 
+1. Show an icon of heart while on start.
 
 ![](./images/microbit-smart-climate-kit-case-04-07.png)
 
@@ -84,7 +84,7 @@ Search with "IoT" and download the extension.
 
 ![](./images/microbit-smart-climate-kit-case-04-08.png)
 
-3. Obtain gthe concentration of the dust and have the value displayed on the OLED screen. 
+3. Obtain gthe concentration of the dust and have the value displayed on the OLED screen.
 
 ![](./images/microbit-smart-climate-kit-case-04-09.png)
 
@@ -114,11 +114,11 @@ You may download it directly below:
 
 *** Download Link ***
 
-Connect the micro:bit v2 with your PC via the USB cable. 
+Connect the micro:bit v2 with your PC via the USB cable.
 
 ![](./images/connect-microbit.gif)
 
-The PC shall have a disk name called "MICROBIT" after connection. 
+The PC shall have a disk name called "MICROBIT" after connection.
 
 ![](./images/microbit-drive.png)
 
@@ -139,7 +139,7 @@ Select `BBC micro:bit CMSIS-DAP`, and then select "connect", now the micro:bit i
 
 ![](./images/download-07.png)
 
-Click to download the program. 
+Click to download the program.
 
 ![](./images/download-08.png)
 
@@ -188,4 +188,3 @@ Allergy and asthma: Pollen, bacteria and fungal spores in dust may trigger aller
 Toxic substance exposure: Certain dusts may contain harmful chemicals and heavy metals, such as lead, mercury, asbestos, and so on. Long-term exposure to these harmful substances may cause damage to the body's internal organs, nervous system and immune system.
 
 Understanding the impact of dust on the environment and human health helps us to take appropriate measures to minimise dust generation and exposure. This includes regular cleaning, well-ventilated environments, wearing masks and avoiding exposure to harmful substances. Also, regular monitoring and assessment of dust concentration in the environment are important measures to protect our health and create a cleaner living environment.
-

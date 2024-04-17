@@ -21,7 +21,7 @@ Please make sure you have the following necessary materials ready:
 
 | Picture | Name |
 | :-: | :-: |
-|  | Smart Weather Station Kit |
+| ![](./images/microbit-smart-climate-kit-case-01-02.png) | smart climate kit |
 | ![](./images/microbit-smart-climate-kit-case-01-03.png) | micro:bit V2 |
 | ![](./images/microbit-smart-climate-kit-case-01-04.png) | PC |
 | ![](./images/microbit-smart-climate-kit-case-01-05.png) | USB cable |
@@ -139,7 +139,7 @@ Click to download the program.
 
 ![](./images/download-08.png)
 
-### ***\*Teamwork and Showcases\**** 
+### ***\*Teamwork and Showcases\****
 
 Students are divided into small groups and work together to create and program the case.
 
@@ -151,7 +151,7 @@ Each group will have the opportunity to show the cases they have made and demons
 
 （GIF动图）
 
-### **Reflection** 
+### **Reflection**
 
 Review the content of the lesson to remind students what knowledge and skills they have acquired.
 
@@ -159,9 +159,9 @@ Lead students in a discussion about the problems and difficulties they encounter
 
 Guide students to think about the effects of different temperatures and humidity on the human body
 
-## **Extended Knowledge** 
+## **Extended Knowledge**
 
-### **The Effect of Different Temperature and Humidity on the Human Body** 
+### **The Effect of Different Temperature and Humidity on the Human Body**
 
 Different temperature and humidity conditions have different effects on the human body. Here are some common temperature and humidity conditions and their effects on the human body:
 

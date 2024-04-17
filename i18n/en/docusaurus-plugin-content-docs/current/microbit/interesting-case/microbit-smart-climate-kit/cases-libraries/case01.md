@@ -20,7 +20,7 @@ Make sure you have the following necessary materials in place：
 
 | Picture | Name |
 | :-: | :-: |
-|  | Smart Weather Station Kit |
+| ![](./images/microbit-smart-climate-kit-case-01-02.png) | smart climate kit |
 | ![](./images/microbit-smart-climate-kit-case-01-03.png) | micro:bit V2 |
 | ![](./images/microbit-smart-climate-kit-case-01-04.png) | C） |
 | ![](./images/microbit-smart-climate-kit-case-01-05.png) | USB cable |
@@ -152,7 +152,7 @@ Students are encouraged to cooperate, communicate and share their experiences wi
 
 Each group will have the opportunity to show the cases they made and demonstrate to the other groups.
 
-**Expected results: when connected to the power supply, the micro:bit LED matrix displays a heart icon first, then a smiley face or crying face icon depending on the current UV intensity level.** 
+**Expected results: when connected to the power supply, the micro:bit LED matrix displays a heart icon first, then a smiley face or crying face icon depending on the current UV intensity level.**
 
 （GIF动图）
 

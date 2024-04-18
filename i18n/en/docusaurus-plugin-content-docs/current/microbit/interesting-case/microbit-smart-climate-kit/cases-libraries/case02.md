@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: Case 2: Anemometer
+sidebar_label: Case 02:Anemometer
 ---
 
 # **Case 2: Anemometer**

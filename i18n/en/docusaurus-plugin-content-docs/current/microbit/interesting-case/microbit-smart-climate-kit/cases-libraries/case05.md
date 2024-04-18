@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-sidebar_label: Case 05: Smart Weather Station
+sidebar_label: Case 05:Smart Weather Station
 ---
 
 # Case 05: Smart Weather Station

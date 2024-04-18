@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-sidebar_label: 智能气候套件
+sidebar_label: Smart climate Kit
 ---
 
-# Smart Weather Station Kit
+# Smart climate Kit
 
 ## Introduction
 

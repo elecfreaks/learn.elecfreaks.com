@@ -1,4 +1,4 @@
-# introduction 
+﻿# introduction 
 
 ## Introduction 
 
@@ -10,7 +10,7 @@ Use makecode - micro:bit’s graphic programming language, to control these comp
 
 Programming or designing circuits, the choice is up to you!
 
-![](./images/yg4f3xe.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/yg4f3xe.jpg)
 
 ## Products Link
 

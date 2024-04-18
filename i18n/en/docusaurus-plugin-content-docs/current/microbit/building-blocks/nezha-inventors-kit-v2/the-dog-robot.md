@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 14
 ---
 
@@ -10,7 +10,7 @@ Dogs are one of man's closest companions and are common pets. They come in diffe
 
 In this lesson, we will explore interesting facts about dogs together and make a mechanical puppy using the Nezha Inventor's Kit V2. Through this project, we will learn how to use motors and other components, understand the basic principles of mechanical dynamics, and develop our creativity and problem-solving skills.
 
-![](./images/nezha-inventors-kit-v2-case-13-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-13-01.png)
 
 
 ## Teaching Objectives 
@@ -56,70 +56,70 @@ Build a mechanical puppy out of blocks according to your own design.
 
 ##### Assembly Steps
 
-![](./images/nezha-inventors-kit-v2-step-13-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-01.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-02.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-03.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-04.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-05.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-06.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-07.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-08.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-09.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-10.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-11.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-12.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-13.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-14.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-15.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-16.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-17.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-18.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-19.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-20.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-21.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-22.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-23.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-23.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-24.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-24.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-25.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-25.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-26.png)
 
-![](./images/nezha-inventors-kit-v2-step-13-27.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-13-27.png)
 
 
 **Completed**
 
-![](./images/nezha-inventors-kit-v2-case-13-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-13-01.png)
 
 ##### Hardware Connections
 
 Connect the sonar:bit to J1 port and the motor to M1 port on Nezha expansion board. 
 
-![](./images/nezha-inventors-kit-v2-case-11-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-11-02.png)
 
 ##### Programming
 
@@ -127,20 +127,20 @@ Go to [makecode](https://makecode.microbit.org/#)
 
 Create new projects
 
-![](./images/nezha-inventors-kit-v2-case-19-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-03.png)
 
 Click extensions
 
-![](./images/nezha-inventors-kit-v2-case-19-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-04.png)
 
 
 Search wih `PlanetX` to add the package.
 
-![](./images/nezha-inventors-kit-v2-case-19-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-06.png)
 
 Code
 
-![](./images/nezha-inventors-kit-v2-case-13-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-13-07.png)
 
 
 Link: [https://makecode.microbit.org/_YLpbA6EebiM9](https://makecode.microbit.org/_YLpbA6EebiM9)
@@ -177,7 +177,7 @@ You can download it directly:
 
 The mechanical dog walks forward and stops automatically when it encounters an obstacle.
 
-![](./images/nezha-inventors-kit-v2-case-13.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-13.gif)
 
 ### Relection
 

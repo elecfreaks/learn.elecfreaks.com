@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 19
 sidebar_label: The Cutebot Unicorn
 ---
@@ -9,7 +9,7 @@ sidebar_label: The Cutebot Unicorn
 
 The unicorn appears in large numbers in June to August, with a tendency to light, mostly day and night, often gathered in the daytime at the sap flow of green oak, or in the light wax trees also often appear to gather hundreds of unicorns, at night, in mountainous areas with street lights, can often find their traces. They mainly feed on the sap of tree wounds, or ripe fruit, and basically do not cause harm to crops and trees.
 
-![](./images/tooca-laser-1-case-09-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/images/tooca-laser-1-case-09-01.png)
 
 ## Materials Requested
 
@@ -39,8 +39,8 @@ Please refer to the software operation method: [Get Started Quickly](http://)
 
 ## Effect Show
 
-![](./images/tooca-laser-1-case-09-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/images/tooca-laser-1-case-09-02.png)
 
-![](./images/tooca-laser-1-case-09-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/images/tooca-laser-1-case-09-03.png)
 
-![](./images/tooca-laser-1-case-09-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/images/tooca-laser-1-case-09-04.png)

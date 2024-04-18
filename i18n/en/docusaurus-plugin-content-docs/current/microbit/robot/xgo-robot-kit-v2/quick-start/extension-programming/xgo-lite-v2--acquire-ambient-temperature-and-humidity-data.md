@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: XGO-lite V2 Obtain ambient temperature and humidity data
 ---
@@ -27,23 +27,23 @@ Screwdrivers
 
 ## Hardware Connection
 
-1. First, you need to unscrew the two screws of the XGO Adapter expansion board with a screwdriver, and insert the 3pin electronic building block buckle cable through the bottom end of the robot arm as shown in the figure below and insert it into the pin header of the GPIO interface (note the order of the connection cables). As shown below:![](./../../images/microbit-xgo-lite-v2-DHT11-01.png)
+1. First, you need to unscrew the two screws of the XGO Adapter expansion board with a screwdriver, and insert the 3pin electronic building block buckle cable through the bottom end of the robot arm as shown in the figure below and insert it into the pin header of the GPIO interface (note the order of the connection cables). As shown below:![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-DHT11-01.png)
 
 2. Re-fix the XGO Adapter expansion board to the head of the XGO-lite V2 with screws. Stick the transparent glue on the bottom of the DHT11 sensor of the Octopus series, connect it to the buckle end of the 3pin electronic building block buckle cable, and fix it to the XGO-lite V2 body. (Pay attention to the two screw positioning holes below the XGO-lite V2 head where the XGO Adapter expansion board is installed)
 
-![](./../../images/microbit-xgo-lite-v2-DHT11-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-DHT11-02.png)
 
-![](./../../images/microbit-xgo-lite-v2-DHT11-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-DHT11-03.png)
 
 ## Start Programming
 
-This tutorial will program two devices through the graphical programming platform: MakeCode. Please open the official website link of the makecode platform: [MakeCode](https://makecode.microbit.org/#). And follow the steps below to prepare the programming environment.![](./../../images/microbit-xgo-lite-v2-makecode-01.png)
+This tutorial will program two devices through the graphical programming platform: MakeCode. Please open the official website link of the makecode platform: [MakeCode](https://makecode.microbit.org/#). And follow the steps below to prepare the programming environment.![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-01.png)
 
 ### Programming environment preparation
 
 1.  Click **New Project**, name the project and **Create**
 
-![](./../../images/microbit-xgo-lite-v2-makecode-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-02.png)
 
 
 
@@ -51,17 +51,17 @@ This tutorial will program two devices through the graphical programming platfor
 
    
 
-   ![](./../../images/microbit-xgo-lite-v2-makecode-03.png)
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-03.png)
 
-![](./../../images/microbit-xgo-lite-v2-makecode-03-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-03-1.png)
 
 3. Click **Extension** and search in the search bar, select **iot-environment-kit** library, you can load **iot-environment-kit** library into makecode platform programming environment
 
-![](./../../images/microbit-xgo-lite-v2-DHT11-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-DHT11-04.png)
 
 ### Programming Example
 
-![](./../../images/microbit-xgo-lite-v2-DHT11-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-DHT11-05.png)
 
 
 
@@ -69,4 +69,4 @@ Link: https://makecode.microbit.org/_KksKV6Hz7h5H
 
 ## Demo
 
-![](./../../images/microbit-xgo-lite-v2-DHT11-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-DHT11-06.gif)

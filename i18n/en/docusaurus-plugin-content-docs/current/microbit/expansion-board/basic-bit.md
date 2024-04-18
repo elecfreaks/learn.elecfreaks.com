@@ -1,4 +1,4 @@
-# Basic:bit(EF02053)
+﻿# Basic:bit(EF02053)
 
 ## Introduction
 ---
@@ -45,7 +45,7 @@
 
 ### Assembly
 
-![](./images/CIdYsAa.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/CIdYsAa.jpg)
 
 Fix your basic:bit onto micro:bit with screws and nuts.
 Connect Octopus LED module to P1 port on your basic:bit.

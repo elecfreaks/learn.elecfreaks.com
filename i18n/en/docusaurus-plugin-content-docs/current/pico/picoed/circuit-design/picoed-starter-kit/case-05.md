@@ -1,6 +1,6 @@
 # Case 05:RGB-LED
 
-![](./images/case0501.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0501.png)
 
 ## Introduction
 
@@ -29,15 +29,15 @@ RGB LED is a kind of LED that can emit light in three different colors: red, gre
 n x Breadboard jumper wire 65pcs pack
 
 
-![](./images/starter-kit01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/starter-kit01.png)
 
 ## Major Components Introduction
 ### RGB LED 
 RGB LED is a kind of LED, which combines red LED, green LED, and blue LED into one component, which is RGB LED. We all know that the three primary colors of light are red, green, and blue. Using these three colors to combine different components can synthesize all the colors of everything. Likewise, RGB LEDs can be combined with different brightness to create an infinite number of colors.
 
-![](./images/case0502.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0502.png)
 
-![](./images/case0503.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0503.png)
 
 
 There are two types of RGB LEDs, namely common cathode and common anode: the common terminal of RGB LED with common cathode is connected to GND; the common terminal of RGB LED with common anode is connected to VCC. In this experiment, we choose a common cathode tricolor LED.
@@ -47,11 +47,11 @@ Connect your components according to the picture below:
 1. Connect the RGB signal pins of the led light to the P0, P1, and P2 ports of the expansion board respectively, and connect a 100Ω resistor.
 2. Connect the GND to the expansion board's GND through the breadboard.
 
-![](./images/case05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case05.png)
 
 You would see as below after you finish the connection:
 
-![](./images/sanseled.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/sanseled.png)
 
 ## Software Programming
 For programming environment preparation, please refer to [Introduction to the programming environment](https://www.elecfreaks.com/learn-en/pico-ed/index.html)

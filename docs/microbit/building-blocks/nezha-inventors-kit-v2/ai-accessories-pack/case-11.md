@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 12
 ---
 
@@ -9,7 +9,7 @@ sidebar_position: 12
 
 本课程旨在引导学生使用哪吒发明家套装V2和AI扩展包来制作一个能够通过语音指令控制行驶路线的智能小车。通过这个项目，学生将学习如何将语音识别技术与机器人控制相结合，培养他们的STEAM（科学、技术、工程、艺术、数学）技能，提高问题解决和创造力。
 
-![](./images/ai-accessories-pack-case-11-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-11-01.png)
 
 ## 教学目标
 
@@ -52,58 +52,58 @@ sidebar_position: 12
 ##### 搭建步骤
 
 
-![](./images/ai-accessories-pack-step-11-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-01.png)
 
-![](./images/ai-accessories-pack-step-11-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-02.png)
 
-![](./images/ai-accessories-pack-step-11-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-03.png)
 
-![](./images/ai-accessories-pack-step-11-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-04.png)
 
-![](./images/ai-accessories-pack-step-11-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-05.png)
 
-![](./images/ai-accessories-pack-step-11-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-06.png)
 
-![](./images/ai-accessories-pack-step-11-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-07.png)
 
-![](./images/ai-accessories-pack-step-11-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-08.png)
 
-![](./images/ai-accessories-pack-step-11-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-09.png)
 
-![](./images/ai-accessories-pack-step-11-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-10.png)
 
-![](./images/ai-accessories-pack-step-11-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-11.png)
 
-![](./images/ai-accessories-pack-step-11-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-12.png)
 
-![](./images/ai-accessories-pack-step-11-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-13.png)
 
-![](./images/ai-accessories-pack-step-11-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-14.png)
 
-![](./images/ai-accessories-pack-step-11-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-15.png)
 
-![](./images/ai-accessories-pack-step-11-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-16.png)
 
-![](./images/ai-accessories-pack-step-11-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-17.png)
 
-![](./images/ai-accessories-pack-step-11-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-18.png)
 
-![](./images/ai-accessories-pack-step-11-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-19.png)
 
-![](./images/ai-accessories-pack-step-11-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-20.png)
 
-![](./images/ai-accessories-pack-step-11-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-11-21.png)
 
 
 **搭建完成**
 
-![](./images/ai-accessories-pack-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-01.png)
 
 ##### 硬件连接
 
 将两个电机分别连接到哪吒扩展板的M1和M2接口，将语音识别传感器连接到哪吒扩展板的IIC接口。
 
- ![](./images/ai-accessories-pack-case-11-02.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-11-02.png)
 
 ##### 软件编程
 
@@ -111,23 +111,23 @@ sidebar_position: 12
 
 新建项目
 
-![](./images/ai-accessories-pack-case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-03.png)
 
 点击扩展
 
-![](./images/ai-accessories-pack-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-04.png)
 
 在搜索栏搜索`nezha`添加哪吒多功能扩展盒的扩展库
 
-![](./images/ai-accessories-pack-case-01-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-06.png)
 
 在搜索栏搜索`planetx`添加行星系列传感器的扩展库
 
-![](./images/ai-accessories-pack-case-01-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-07.png)
 
 编写程序
 
-![](./images/ai-accessories-pack-case-11-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-11-08.png)
 
 
 程序链接:[https://makecode.microbit.org/_CuVMyCEKA9Um](https://makecode.microbit.org/_CuVMyCEKA9Um)
@@ -166,7 +166,7 @@ sidebar_position: 12
 
 通过语音即可控制小车的行驶路线。
 
-![](./images/ai-accessories-pack-case-11.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-11.gif)
 
 ### 反思
 

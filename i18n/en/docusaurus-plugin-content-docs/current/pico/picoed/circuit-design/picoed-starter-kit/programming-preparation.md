@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: Programming environment preparation
 ---
@@ -15,10 +15,10 @@ In the next cases, other relevant libraries are needed to ensure that you can co
 2. [CircuitPython_Motor](https://github.com/adafruit/Adafruit_CircuitPython_Motor/archive/refs/heads/main.zip).`CircuitPython_Motor`'s library file contains the control methods for motors and servos.
 3. Next, just follow the steps to add the picoed library files and place `adafruit_motor`, `adafruit_is31fl3731`in the lib folder of the CIRCUITPY disk, as shown below.
 
-![](./images/pico-ed-starter-kit-lib-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-lib-01.png)
 
 The code for the next cases is written in the code.py file on the CIRCUITPY disk, using the installed Thonny to open the code.py and write the code.
 
-![](./images/pico-ed-starter-kit-lib-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-lib-02.png)
 
-![](./images/pico-ed-starter-kit-lib-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-lib-03.png)

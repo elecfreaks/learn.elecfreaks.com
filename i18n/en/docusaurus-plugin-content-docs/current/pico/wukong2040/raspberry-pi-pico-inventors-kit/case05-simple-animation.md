@@ -6,7 +6,7 @@ sidebar_label: Case 05 Simple Animation
 
 # Case 05: Simple Animation
 
-![](./images/wukong2040-inventors-case05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case05-01.png)
 
 ## Introduction
 
@@ -26,7 +26,7 @@ As children we loved cartoons and when we watched them we could not help but put
 
 ### The principle of animation
 
-![](./images/wukong2040-inventors-case05-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case05-02.gif)
 
 The principle of animation is to create the illusion of movement by playing a series of still images in rapid succession. This illusion is caused by the visual retention effect of the human eye, which means that when an image disappears from the field of view, the human eye still retains the image of that image for a period of time until the next image appears. By playing a series of still images in rapid succession, each slightly different from the other, the human eye synthesises these images into continuous motion.
 
@@ -36,11 +36,11 @@ Animation can be implemented using techniques such as traditional hand-drawn ani
 
 Connect your components according to the following connection diagram:
 
-![](./images/wukong2040-inventors-case04-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case04-06.png)
 
 ## MicroBlocks Graphical Programming
 
-![](./images/wukong2040-inventors-case05-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case05-05.png)
 
 ## CircuitPython Code
 
@@ -67,7 +67,7 @@ while True:
 
 ## Case Display
 
-![](./images/wukong2040-inventors-kit-case05-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-kit-case05-06.gif)
 
 ## Think
 

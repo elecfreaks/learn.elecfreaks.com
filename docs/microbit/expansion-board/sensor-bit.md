@@ -1,4 +1,4 @@
-# 3V传感器扩展板（sensor:bit）
+﻿# 3V传感器扩展板（sensor:bit）
 
 ## 简介
 ---
@@ -21,43 +21,43 @@ sensor:bit是一款基于micro:bit的扩展板，它扩展了micro:bit上所有�
 
 ## 参数
 
-![](./images/0gP51cc.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/0gP51cc.png)
 
 ### 外型与定位尺寸
-![](./images/gB0wNrj.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/gB0wNrj.png)
 
 ## 引脚接口框图
-![](./images/GyigPRt.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/GyigPRt.png)
 
 ## 主要功能模块介绍
 ---
 
 ### 耳机插座
-![](./images/0iA1JlU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/0iA1JlU.png)
 
 耳机通过P0口控制，插入耳机时，蜂鸣器自动断开。
 
 ### 蜂鸣器
-![](./images/TyBn9U6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/TyBn9U6.png)
 
 蜂鸣器通过P0口控制，插入耳机时，蜂鸣器自动断开。
 
 ### 16路标准GVS接口
-![](./images/lu64mbc.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/lu64mbc.png)
 
 这是16路GVS标准接口，可扩展3v的电子积木模块。
 
 ### I2C接口
-![](./images/AzBhRRS.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/AzBhRRS.png)
 
 这是一组I2C接口排母接口，可直接接入OLED模块。
 
-![](./images/VEl3AeH.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/VEl3AeH.png)
 
 这是一组I2C接口排针接口。
 
 ### USB电源接口
-![](./images/sensor_bit_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/sensor_bit_01.png)
 
 这是USB电源接口，可以通过USB进行供电。
 
@@ -69,7 +69,7 @@ sensor:bit是一款基于micro:bit的扩展板，它扩展了micro:bit上所有�
 ### 硬件连接
 
 将micro:bit主板插入sensor:bit主板。
-![](./images/WLLJgP2.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/WLLJgP2.jpg)
 
 ### 软件编程
 

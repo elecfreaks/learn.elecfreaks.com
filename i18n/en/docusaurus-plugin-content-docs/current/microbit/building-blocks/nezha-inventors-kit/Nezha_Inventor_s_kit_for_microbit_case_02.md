@@ -1,10 +1,10 @@
-# Case 02: Flower-watering Prompter
+﻿# Case 02: Flower-watering Prompter
 
 ## Introduction
 
 Some plants can make people live healthier. For example, a pot of green dill in a room of 8-10 square meters is equivalent to an air purifier, which can effectively absorb harmful gases such as formaldehyde, benzene and trichloroethylene in the air. Thus, we can make a simple watering device to help us take care of plants.
 
-![](./images/case_02_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_02_01.png)
 
 ## Quick Start
 
@@ -31,7 +31,7 @@ RJ11 wires × 3
 Connect the green LED to J4, red LED to J3 and soil moisture sensor to J2 on the Nezha expansion board as the picture shows.
 
 
-![](./images/case_02_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_02_03.png)
 
 
 ### Assembly Video
@@ -46,21 +46,21 @@ Video reference:[https://youtu.be/YxEKEoDB6FQ](https://youtu.be/YxEKEoDB6FQ)
 
 
 
-![](./images/case_step_02_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_02_01.png)
 
-![](./images/case_step_02_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_02_02.png)
 
-![](./images/case_step_02_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_02_03.png)
 
-![](./images/case_step_02_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_02_04.png)
 
-![](./images/case_step_02_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_02_05.png)
 
-![](./images/case_step_02_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_02_06.png)
 
-![](./images/case_step_02_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_02_07.png)
 
-![](./images/case_step_02_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_02_08.png)
 
 
 
@@ -73,11 +73,11 @@ Video reference:[https://youtu.be/YxEKEoDB6FQ](https://youtu.be/YxEKEoDB6FQ)
 ### Step 1
 Click "Advanced" in the MakeCode to see more choices.
 
-![](./images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](./images/case_01_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_11.png)
 
 ***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -85,7 +85,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 ### Code as below:
 
-![](./images/case_02_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_02_10.png)
 
 
 ### Reference
@@ -117,4 +117,4 @@ You may also download it directly below:
 The red LED lights on for reminding of watering if the soil moisture sensors gets a low value from the earth, or the green LED lights on.
 
 
-![](./images/case-gif-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case-gif-02.gif)

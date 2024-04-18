@@ -1,10 +1,10 @@
-# 磁性开关电子积木
+﻿# 磁性开关电子积木
 
 ## 简介
 ---
 OCTOPUS磁力开关是一种带磁控开关的简易电子积木。通常与电磁铁或带磁铁的元件组合使用。可用于安全报警系统，门磁开关等。
 
- ![](./images/y2rEGSc.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/y2rEGSc.jpg)
 
 ## 特性
 ---
@@ -25,7 +25,7 @@ SKU|EF04075
 
 ## 外形与定位尺寸
 ---
- ![](./images/cdNd1Kw.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/cdNd1Kw.png)
 
 ## 快速上手
 ---
@@ -35,12 +35,12 @@ SKU|EF04075
 
 ***以sensor:bit为例***
 
-![](./images/YdMbHja.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/YdMbHja.jpg)
 ### 添加Package
 
 ### 如图所示编写程序
 
-![](./images/3k1UPiG.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/3k1UPiG.png)
 
 ### 参考程序
 

@@ -1,10 +1,10 @@
-# Case 02: Line-following Cars
+﻿# Case 02: Line-following Cars
 
 ## Purpose
 ---
 To make a line following car.
 
-![](./images/case-02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-02-01.png)
 
 ## Link
 ---
@@ -12,7 +12,7 @@ To make a line following car.
 
 ## Materials Required
 ---
-![](./images/case-02-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-02-02.png)
 
 Video link:
 [https://youtu.be/J2QKDKnTklw](https://youtu.be/J2QKDKnTklw)
@@ -23,33 +23,33 @@ Video link:
 ---
 
 
-![](./images/step-case-02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-02-01.png)
 
-![](./images/step-case-02-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-02-02.png)
 
-![](./images/step-case-02-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-02-03.png)
 
-![](./images/step-case-02-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-02-04.png)
 
-![](./images/step-case-02-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-02-05.png)
 
-![](./images/step-case-02-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-02-06.png)
 
-![](./images/step-case-02-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-02-07.png)
 
-![](./images/step-case-02-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-02-08.png)
 
 ## Installation Mthods of Hardwares
 
 Install the dual-line tracking sensor with the bricks.
 
-![](./images/Wonder-Building-Kit-step-line-following.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-line-following.png)
 
 ## Hardware Connection
 
 Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2, the [dual line-following](https://www.elecfreaks.com/octopus-2-channel-tracking-module.html) sensor to P1 and P2 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html).
 
-![](./images/Wonder-Building-Kit-case-02-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-02-06.png)
 
 
 ## Software Platform
@@ -61,16 +61,16 @@ Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-w
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
 
-![](./images/case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-01-03.png)
 
 Search with Wukong in the dialogue box to download it.
 
-![](./images/case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-01-04.png)
 
 
 ### Program
 
-![](./images/case-02-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-02-05.png)
 
 Link:[https://makecode.microbit.org/_RXCL9zU1pW5m](https://makecode.microbit.org/_RXCL9zU1pW5m)
 

@@ -1,4 +1,4 @@
-# case 31 morse code transmitter
+﻿# case 31 morse code transmitter
 
 ## Morse Code Transmitter
 ---
@@ -13,7 +13,7 @@ This tutorial was written by Anahita from the University of California at Berkel
 ## Goals
 ---
 
-![](./images/YOYd2Bm.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/YOYd2Bm.png)
 
 
  1. Connect two micro:Bits together.
@@ -41,7 +41,7 @@ This tutorial was written by Anahita from the University of California at Berkel
 ### Step 1 – Crocodile Clips
 
 
-![](./images/b7We5ZR.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/b7We5ZR.png)
 
 We want to send signals from pin 1 of the first micro:Bit to pin 2 of the second micro:Bit (and vice versa)
 
@@ -56,7 +56,7 @@ Connect:
 ### Step 2 – Sender: button A
 
 
-![](./images/6nlQFM9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/6nlQFM9.png)
 
 We want a signal to be sent when the A button is pressed. Let’s make this one the “dot” signal.
 
@@ -73,7 +73,7 @@ We want a signal to be sent when the A button is pressed. Let’s make this one 
 ### Step 3 – Sender: Button B
 
 
-![](./images/gtjlrr9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/gtjlrr9.png)
 
 We want a “dash” signal to be sent when the B button is pressed.
 
@@ -85,7 +85,7 @@ We want a “dash” signal to be sent when the B button is pressed.
 
 ### Step 4 – Receiver: detecting the signal
 
-![](./images/z13lhzA.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/z13lhzA.png)
 
 We want to record the duration of time between whenever the signal is received and when it stops. We will be using the running time (ms) block for this.
 
@@ -103,7 +103,7 @@ We want to record the duration of time between whenever the signal is received a
 
 ### Step 5 – Receiver: displaying the signal
 
-![](./images/Z4yzOpc.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Z4yzOpc.png)
 
 We want to display the correct signal on the screen.
 

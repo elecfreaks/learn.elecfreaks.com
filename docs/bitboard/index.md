@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 5
 sidebar_label: 哔啵小熊板
 ---

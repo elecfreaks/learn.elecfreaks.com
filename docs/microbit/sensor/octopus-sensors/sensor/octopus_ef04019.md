@@ -1,10 +1,10 @@
-# DHT11温湿度电子积木
+﻿# DHT11温湿度电子积木
 
 ## 简介
 ---
 - 温湿度传感器是基于DHT11数字温湿度传感元件的模块，对环境温度和湿度变化敏感，可用于温度报警，湿度测试等工作。
 
- ![](./images/b4CeLwq.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/b4CeLwq.jpg)
 
 ## 特性
 ---
@@ -29,7 +29,7 @@ SKU|EF04019
 ## 外形与定位尺寸
 ---
 
- ![](./images/cdNd1Kw.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/cdNd1Kw.png)
 
 ## 快速上手
 ---
@@ -39,21 +39,21 @@ SKU|EF04019
 
 ***以sensor:bit为例***
 
- ![](./images/jxvVgcK.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/jxvVgcK.png)
 
 ### 添加Package
 - 在MakeCode的代码抽屉中点击"高级"，查看更多代码选项。
 
- ![](./images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
 
 - 点击“扩展”，在弹出的对话框中搜索“iot"，下载iot-environment-kit代码库。
 
- ![](./images/IAZrNAy.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/IAZrNAy.png)
 
 ### 如图所示编写程序
 - 显示当前温度值。
 
-![](./images/04019_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04019_03.png)
 
 ### 参考程序
 请参考程序连接：[https://makecode.microbit.org/_4koD6gAKYhq3](https://makecode.microbit.org/_4koD6gAKYhq3)

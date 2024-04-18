@@ -1,4 +1,4 @@
-# 课程_13 micro:bit小车
+﻿# 课程_13 micro:bit小车
 
 一起来动动手制作一个属于你的micro:bit自驱车吧！
 (说明:这只是小车自己驱动就和一块石头自己从山顶滚下来一样 。)
@@ -30,8 +30,8 @@
 - 1 x 毛毡垫
 - 胶布
 
-![](./images/adwP5Zd.jpg)
-![](./images/vAquseh.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/adwP5Zd.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/vAquseh.jpg)
 
 **温馨提示: 如果你想要以上所有这些元器件，你可以购买我们的[micro:bit小小发明家套件](https://item.taobao.com/item.htm?spm=a230r.7195193.1997079397.9.z3IMPf&id=564707672256&abbucket=5)。**
 
@@ -46,10 +46,10 @@
 将舵机连接至扩展板上的引脚P0和P1.
 注意普通舵机的线的颜色并不一定和扩展板上的黄、红、黑颜色一致。将橙色的舵机线插入黄色的引脚，棕色的线插入黑色的引脚。
 
-![](./images/ip1yXX6.jpg)
-![](./images/GW3ty3N.jpg)
-![](./images/YgZeCEN.jpg)
-![](./images/raPJYlm.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/ip1yXX6.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/GW3ty3N.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/YgZeCEN.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/raPJYlm.jpg)
 
 
 ### 步骤 2
@@ -69,7 +69,7 @@
 为什么我们需要让一个舵机在某个时间停止转动呢？这是因为电池供电要求，micro:bit一次只能驱动一个电机。如果你有兴趣的话，你可以用一个直流电机和一个外接电源试试看。或者你也可以给我们来信获取更多解决方案!
 检查舵机的旋转方向，确保舵机的转动方向都是正确的。通过切换0和180的值，你就可以改变电机的前进方向。
 
-![](./images/iy5uy4V.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/iy5uy4V.jpg)
 
 如果你不想自己亲手编写代码，你可以通过下面这个链接直接下载程序的完整代码：
 

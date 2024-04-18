@@ -1,9 +1,9 @@
-# The Combat Cart-2
+﻿# The Combat Cart-2
 
 ## Purpose
 Use the Cutebot smart car to create a cart that can push opponents off the playing field or lose their ability to move.
 
-![](./images/cutebot-case-27-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-01.png)
 
 ## Materials
 1 × Cutebot smart car
@@ -16,78 +16,78 @@ n × Building block parts (block parts need to be prepared by yourself)
 
 ### The installation steps of lithium battery pack:
 
-![](./images/cutebot-step-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-step-01.png)
 
 ### Construction steps of the building blocks：
 
 Parts List:
 
-![](./images/cutebot-case-27-step-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-01.png)
 
 Build steps：
 
-![](./images/cutebot-case-27-step-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-02.png)
 
-![](./images/cutebot-case-27-step-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-03.png)
 
-![](./images/cutebot-case-27-step-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-04.png)
 
-![](./images/cutebot-case-27-step-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-05.png)
 
-![](./images/cutebot-case-27-step-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-06.png)
 
-![](./images/cutebot-case-27-step-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-07.png)
 
-![](./images/cutebot-case-27-step-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-08.png)
 
-![](./images/cutebot-case-27-step-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-09.png)
 
-![](./images/cutebot-case-27-step-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-10.png)
 
-![](./images/cutebot-case-27-step-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-11.png)
 
-![](./images/cutebot-case-27-step-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-12.png)
 
-![](./images/cutebot-case-27-step-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-13.png)
 
-![](./images/cutebot-case-27-step-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-14.png)
 
-![](./images/cutebot-case-27-step-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-15.png)
 
-![](./images/cutebot-case-27-step-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-16.png)
 
-![](./images/cutebot-case-27-step-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-17.png)
 
-![](./images/cutebot-case-27-step-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-18.png)
 
-![](./images/cutebot-case-27-step-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-19.png)
 
-![](./images/cutebot-case-27-step-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-20.png)
 
-![](./images/cutebot-case-27-step-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-21.png)
 
-![](./images/cutebot-case-27-step-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-22.png)
 
-![](./images/cutebot-case-27-step-23.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-23.png)
 
-![](./images/cutebot-case-27-step-24.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-24.png)
 
-![](./images/cutebot-case-27-step-25.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-25.png)
 
-![](./images/cutebot-case-27-step-26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-step-26.png)
 
 ### Build complete
 
-![](./images/cutebot-case-27-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-02.png)
 
-![](./images/cutebot-case-27-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27-03.png)
 
 
 ## Connection method
 
 Connect the servo to the S1 of the cutebot smart car.
 
-![](./images/cutebot-case-26-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-26-10.png)
 
 
 ## Software
@@ -99,15 +99,15 @@ Connect the servo to the S1 of the cutebot smart car.
 ### Add extension
 Click “Advanced” in the drawer of MakeCode to see more choices.
 
-![](./images/cutebot-case-24-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-24-01.png)
 
 For programming, we need to add a package. Click “Extensions” at the bottom of the drawer and then search `Cutebot` in the dialogue box to download it.
 
-![](./images/cutebot-case-24-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-24-02.png)
 
 For programming, we need to add a package. Click “Extensions” at the bottom of the drawer and then search `Joystick:bit V2` in the dialogue box to download it.
 
-![](./images/cutebot-case-22-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-22-03.png)
 
 ***Note:*** If you get a warning indicating some packages will be removed because of incompatibility issues, you can follow the prompts or create a new project in the menu.
 
@@ -115,7 +115,7 @@ For programming, we need to add a package. Click “Extensions” at the bottom 
 ### Cutebot
 
 
-![](./images/cutebot-case-26-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-26-04.png)
 
 
 Link: [https://makecode.microbit.org/_6kD6KAaEfA8W](https://makecode.microbit.org/_6kD6KAaEfA8W)
@@ -144,7 +144,7 @@ You can also download the program directly from the following webpage.
 ### Remote control
 
 
-![](./images/cutebot-case-26-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-26-05.png)
 
 
 Link: [https://makecode.microbit.org/_6fy3K4Xctdgz](https://makecode.microbit.org/_6fy3K4Xctdgz)
@@ -173,4 +173,4 @@ You can also download the program directly from the following webpage.
 
 If you control the driving direction of the car by the rocker of the remote control, press the C/D button of the remote control to control the servo action.
 
-![](./images/cutebot-case-27.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-27.gif)

@@ -1,4 +1,4 @@
-# FAQ 06
+﻿# FAQ 06
 
 ## Q: The Smart cutebot is powered on normally, but it cannot drive.
 
@@ -11,5 +11,5 @@ A: Please follow the steps below to check:
 
 **When installing the ultrasonic sensor, please pay attention to distinguish the insertion interface, should be inserted into the SONAR interface**
 
-![](./images/FAQ-microbit-06-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/faq/images/FAQ-microbit-06-01.png)
 

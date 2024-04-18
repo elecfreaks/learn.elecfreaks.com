@@ -1,10 +1,10 @@
-# Case 25: Colors of the Emotions
+﻿# Case 25: Colors of the Emotions
 
 ## Introduction
 
 This is an emotional micro:bit. It will show a smile to the color that it likes, and it will also express sadness or anger at the color it doesn't like. Let’s find out the favorite color of the small micro:bit.
 
-![](./images/case_25_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_25_01.png)
 
 ## Quick Start
 
@@ -31,7 +31,7 @@ Bricks × n
 Inset the micro:bit, and connect the color sensor to IIC port on Nezha expansion board.
 
 
-![](./images/case_25_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_25_03.png)
 
 
 
@@ -44,15 +44,15 @@ Video link: [https://youtu.be/5xkxc6J6AnI](https://youtu.be/5xkxc6J6AnI)
 
 ### Assembly Steps
 
-![](./images/case_step_25_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_25_01.png)
 
-![](./images/case_step_25_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_25_02.png)
 
-![](./images/case_step_25_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_25_03.png)
 
-![](./images/case_step_25_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_25_04.png)
 
-![](./images/case_step_25_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_25_05.png)
 
 
 
@@ -68,14 +68,14 @@ Video link: [https://youtu.be/5xkxc6J6AnI](https://youtu.be/5xkxc6J6AnI)
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](./images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
 
 
 
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "nezha" to download it.
 
-![](./images/case_03_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_03_09.png)
 
 
 ***Note:*** If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
@@ -86,7 +86,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 ### Programme as the pictures indicate
 
 
-![](./images/case_25_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_25_10.png)
 
 
 
@@ -118,4 +118,4 @@ You may download it directly below:
 ### Result
 After powering on, the micro:bit displays different emotions in accordance with the colors detected by the sensor.
 
-![](./images/case-gif-25.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case-gif-25.gif)

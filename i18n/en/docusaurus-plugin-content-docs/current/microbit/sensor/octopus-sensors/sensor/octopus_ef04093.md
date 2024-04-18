@@ -1,4 +1,4 @@
-# Octopus Analog UV sensor (GUVA-S12SD)(EF04093)
+﻿# Octopus Analog UV sensor (GUVA-S12SD)(EF04093)
 
 ## Introduction
 
@@ -6,7 +6,7 @@ Octopus Analog UV sensor (GUVA-S12SD) is the UV electric brick in our Octopus se
 
 It can measure the total UV intensity of the sunlight; linear signal voltage output; and it can be used as UV dosimeters, UV index instrument and flame detection,etc,.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitSensor/sensor/images/04093_00.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04093_00.jpg)
 
 ## Products Link
 
@@ -33,7 +33,7 @@ It can measure the total UV intensity of the sunlight; linear signal voltage out
 
 ## Dimensions and Outlook
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitSensor/output/images/eNbM5Kz.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/eNbM5Kz.png)
 
 ## Quick to Start
 
@@ -41,7 +41,7 @@ It can measure the total UV intensity of the sunlight; linear signal voltage out
 
 Connect the module with the wire(with buckle) to the PI pins on the Octopus:bit, insert the micro:bit to the Octopus:bit.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitSensor/output/images/04095_2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04095_2.png)
 
 ### Software Programming
 

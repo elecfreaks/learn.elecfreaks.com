@@ -1,4 +1,4 @@
-# case 08 simple spirometer
+﻿# case 08 simple spirometer
 
 ## Goal
 
@@ -42,11 +42,11 @@ Level | Parameters
  Stick the paper you prepared on the cardboard and clip it as you need.
  Set up as below：
 
-![](./images/rQS0zKm.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/rQS0zKm.jpg)
 
 Set and stick components as below:
 
-![](./images/psneHwU.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/psneHwU.jpg)
 
 
 ## Hardware Connect
@@ -54,7 +54,7 @@ Set and stick components as below:
 Connect the analog noise sensor to the P1 port of the expansion board.
 Connect the OLED screen the the IIC port of the expansion board.
 
-![](./images/oUij2k8.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/oUij2k8.jpg)
 
 ## Software
 
@@ -67,11 +67,11 @@ Connect the OLED screen the the IIC port of the expansion board.
 
  Click "Advanced" in the makecode code drawer for more codes.
 
-![](./images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/2qCyzQ7.png)
 
  We need to add a new codebase for programming of smart home. Finding “Extensions” at the bottom of code block and click it. Then a message box will show up, search “smart home"， and download this new codebase.
 
-![](./images/OY706rv.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/OY706rv.png)
 
 ***Note:*** If there is a hint says some codebase will be deleted because of incompatibility. Don't worry. You could go ahead as the hint or build a new item in the item menu bar.
 
@@ -82,7 +82,7 @@ Snap the on start from the Basic, snap the initialize OLED with block from the O
 Then set a smile icon on the micro:bit for micro:bit' boot animation.
 Show the welcome to the game string on the OLED screen which means the test starts.
 
-![](./images/LSqXvcg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/LSqXvcg.png)
 
 ### Step 3
 
@@ -92,7 +92,7 @@ The OLED scren will show different numbers for different levels. It will show nu
 Duplicate above codings and judge 5 levels.
 
 
-![](./images/QI33sHM.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/QI33sHM.png)
 
 
 
@@ -127,7 +127,7 @@ You also could directly download program by visiting website as below:
 
  Blow to the analog noise sensor, you will know your vital capacity
 
-![](./images/hXrR6VL.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/hXrR6VL.gif)
 
 ## Think
 

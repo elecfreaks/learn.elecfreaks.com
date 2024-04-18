@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 4
 sidebar_label: 电位器控制风扇转速
 ---
@@ -12,7 +12,7 @@ sidebar_label: 电位器控制风扇转速
 ## 硬件连线图 ##
 ---
 
-![](./images/VO9NEwe.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/VO9NEwe.png)
 
 - 使用香蕉线按如上图连接电路，电池盒内放入2颗7号AAA电池。
 
@@ -24,7 +24,7 @@ sidebar_label: 电位器控制风扇转速
 - 可变电阻器，阻值可以调整的电阻器，用于需要调节电路电流或需要改变电路阻值的场合。可变电阻器可以改变信号发生器的特性，使灯光变暗，启动电动机或控制它的转速。
 - 在电路原理图中使用如下电路符号表示。
 
-![](./images/H4BlhWs.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/H4BlhWs.jpg)
 
 
 ### N-MOS管 ###
@@ -33,19 +33,19 @@ sidebar_label: 电位器控制风扇转速
 
 - 在电路原理图中使用如下电路符号表示。
 
-![](./images/pAPvoYd.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/pAPvoYd.jpg)
 
 ### 直流电机 ###
 
 - 直流电动机是将直流电能转换为机械能的电动机。因其良好的调速性能而在电力拖动中得到广泛应用。直流电动机按励磁方式分为永磁、他励和自励3类。实验箱上板载了一颗3V永磁直流电机，电机转速与电压值成正比。启动电压为2V，额定电压为3V。
 - 在电路原理图中使用如下电路符号表示。
 
-![](./images/w9gVNIj.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/w9gVNIj.jpg)
 
 ## 电路分析 ##
 ---
 
-![](./images/HH1dh6R.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/HH1dh6R.png)
 
 - 电位器电阻值增大的时候，一方面做为电机分压电阻，一方面向mos管栅极(G)输出电压信号。
 - 当电位器旋至一定角度，mos管导通，电机电路连通，电机转动。

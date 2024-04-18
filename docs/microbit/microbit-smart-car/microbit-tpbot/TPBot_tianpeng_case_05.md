@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 12
 sidebar_label: 自动车大灯
 ---
@@ -16,7 +16,7 @@ sidebar_label: 自动车大灯
 
 
 
-![](./images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_01.png)
 
 
 
@@ -33,17 +33,17 @@ sidebar_label: 自动车大灯
 
 - 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](./images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_02.png)
 
 - 为了给天蓬智能车编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`tpbot`，然后点击下载这个代码库。
 
-![](./images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_03.png)
 
 ##示例程序
 - `当开机时`设置天蓬智能车以`100%`的速度前进。
 - 在`无限循环`中，判断当前环境光强度是否低于设定阈值，当环境光强度低于设定阈值时，则自动打开车大灯，如果检测到环境光强度高于设定阈值时，则自动关闭车大灯。
 
-![](./images/TPBot_tianpeng_case_05_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_05_04.png)
 
 ### 程序
 - 请参考程序连接：[https://makecode.microbit.org/_YV0LTr8KcKP3](https://makecode.microbit.org/_YV0LTr8KcKP3)

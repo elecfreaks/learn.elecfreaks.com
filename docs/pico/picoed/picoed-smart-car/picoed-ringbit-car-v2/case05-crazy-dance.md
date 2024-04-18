@@ -1,14 +1,14 @@
 # Case 05:疯狂舞蹈
 
 
-![](./images/case05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case05.png)
 
 ## 简介
 哈喽，经过四节课程的学习，我们应该认识到 Ring:bit 智能车功能强大，能做出非常多的事情，那么这节课我们来做一个比较简单的事情，就是让 Ring:bit 智能车“跳舞”，那么这节课我们将让 Ring:bit 智能车随心起舞，那我们开始吧。  
 ## 硬件连接
 将Ring:bit 套件拿出来，发挥你们灵动的小手将 Ring:bit 扩展版的P1口连接左轮舵机，P2口连接右轮舵机。  
 
-![](./images/case.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case.png)
 
 ## 程序编写
 编程环境准备是必须要的，如果你还没有准备，可以参考这篇文章：[编程环境准备](https://www.yuque.com/elecfreaks-learn/picoed/gxro38)

@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: XGO2 对照表
 ---
@@ -20,7 +20,7 @@ XGO系列产品功能对照表：
 |    电池    |             18650 2S 2500毫安             |                18650 2S 3500毫安                |
 |   充电器   |                  8.4V1A                   |                     8.4V1A                      |
 |  续航时间  |               综合工况2小时               |                  综合工况1小时                  |
-|    展示    |    ![](./../images/cm4-xgo-index.png)     |       ![](./../images/cm4-xgo-mini-index.png)       |
+|    展示    |    ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-index.png)     |       ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-mini-index.png)       |
 
 ## XGO-mini 与 XGO-lite 总线伺服舵机比较
 

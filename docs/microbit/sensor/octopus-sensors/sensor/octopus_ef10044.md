@@ -1,10 +1,10 @@
-# 可调光电传感器电子积木
+﻿# 可调光电传感器电子积木
 
 ## 简介
 ---
 可调灵敏度模拟光电积木块允许您调整模拟Photocel的灵敏度以获取数字信号或设置触发值。
 
- ![](./images/nJi2xZe.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/nJi2xZe.jpg)
 
 ## 特性
 ---
@@ -23,7 +23,7 @@ SKU|EF10044
 ## 外形与定位尺寸
 ---
 
- ![](./images/ZpGNMav.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/ZpGNMav.png)
 
 ## 快速上手
 ---
@@ -33,18 +33,18 @@ SKU|EF10044
 
 ***以sensor：bit为例***
 
-![](./images/bYOBa9A.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/bYOBa9A.png)
 
 ### 添加packege
 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
-![](./images/smtcNoB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
 
 点击“Extensions”，在弹出的对话框中搜索“oled"，下载oled-ssd1306代码库。
-![](./images/VGSLRXB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/VGSLRXB.png)
 
 ### 如图所示编写程序
-![](./images/afc0hr7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/afc0hr7.png)
 
 ### 参考程序
 

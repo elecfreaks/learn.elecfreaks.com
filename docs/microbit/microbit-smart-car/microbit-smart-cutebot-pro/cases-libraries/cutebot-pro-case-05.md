@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 5
 sidebar_label: case 05 彩虹车灯
 ---
@@ -9,7 +9,7 @@ sidebar_label: case 05 彩虹车灯
 
 本课程旨在通过制作智能赛车，让学生学习和探索小车电机控制、RGB灯的控制等知识点，并应用这些知识来实现小车在行驶过程中散发彩虹般的光芒。
 
-![](./images/cutebot-pro-case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-05-01.png)
 
 ## 教学目标
 
@@ -41,7 +41,7 @@ micro:bit × 1
 
 ### 示例代码
 
-![](./images/cutebot-pro-case-05-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-05-02.png)
 
 
 请参考程序连接：[https://makecode.microbit.org/S06214-20220-59579-42565](https://makecode.microbit.org/S06214-20220-59579-42565)

@@ -1,4 +1,4 @@
-# Walking the Maze
+﻿# Walking the Maze
 
 ## Purpose
 
@@ -8,7 +8,7 @@ Create a maze where the background changes as the light changes.
 
 1 x  [ELECFREAKS Retro Makecode Arcade For Education](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
 
-![retro-case-01-01.png](./images/retro-case-01-01.png)
+![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-01.png)
 
 ## Software
 
@@ -20,45 +20,45 @@ Since the light sensor is used in this case, you need to add the corresponding e
 
 Open `Advanced`, and select `Extend`.
 
-![retro-case-09-07.png](./images/retro-case-09-07.png)
+![retro-case-09-07.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-09-07.png)
 
 Search for `controller` in the popup window and select `controller extension library`.
 
-![retro-case-09-08.png](./images/retro-case-09-08.png)
+![retro-case-09-08.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-09-08.png)
 
 After the addition is complete, three block selection blocks appear in the block selection area.
 
 The blocks related to the current hardware using light sensors, accelerometers, and vibration motors can be found in the expansion plug-in section of the controller.
 
-![retro-case-09-09.png](./images/retro-case-09-09.png)
+![retro-case-09-09.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-09-09.png)
 
 `New sprite`, `set sprite initial position`, `move sprite by button`, `set map block`, `set camera to follow sprite movement`.
 
-![retro-case-10-01.png](./images/retro-case-10-01.png)
+![retro-case-10-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-10-01.png)
 
 First draw the maze entrance, exit, and walls.
 
-![retro-case-10-02.png](./images/retro-case-10-02.png)
+![retro-case-10-02.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-10-02.png)
 
 Then set the volume collision according to the wall.
 
-![retro-case-10-03.png](./images/retro-case-10-03.png)
+![retro-case-10-03.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-10-03.png)
 
 `When the brightness is darke`, `set the background color to black`, `when the brightness is brighter`, `set the background color to light blue`.
 
-![retro-case-10-04.png](./images/retro-case-10-04.png)
+![retro-case-10-04.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-10-04.png)
 
 `When the sprite touches the block at the entrance position`, `the countdown starts for ten seconds`, `and vibrates for 500m`.
 
-![retro-case-10-05.png](./images/retro-case-10-05.png)
+![retro-case-10-05.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-10-05.png)
 
 `When the sprite touches the block at the end position`, `stop the countdown`, `set the salute confetti effect`, `vibrate 500ms`, `set the game over`.
 
-![retro-case-10-06.png](./images/retro-case-10-06.png)
+![retro-case-10-06.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-10-06.png)
 
 Complete procedure:
 
-![retro-case-10-07.png](./images/retro-case-10-07.png)
+![retro-case-10-07.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-10-07.png)
 
 ### Procedures
 

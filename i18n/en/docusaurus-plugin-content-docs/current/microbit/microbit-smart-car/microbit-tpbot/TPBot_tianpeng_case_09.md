@@ -1,4 +1,4 @@
----
+﻿---
 
 sidebar_position: 16
 sidebar_label: Seeking light
@@ -18,7 +18,7 @@ sidebar_label: Seeking light
 
 - 1 x [TPBot](https://www.elecfreaks.com/tpbot.html)
 
-![](./images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_01.png)
 
 ## Software
 ---
@@ -31,17 +31,17 @@ sidebar_label: Seeking light
 
 - Click "Advanced" to see more choices in the MakeCode drawer.
 
-![](./images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_02.png)
 
 - We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "tpbot" in the dialogue box to download it.
 
-![](./images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_03.png)
 
 ### Sample
 - Set the headlights in white in the on start brick.
 - Judge if the light intensity is over the set point in the forever brick, if yes, set the TPBot moving forward; or it goes around in circles.
 
-![](./images/TPBot_tianpeng_case_09_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_09_04.png)
 
 ### Link
 - Link: [https://makecode.microbit.org/_by81v67kf8Ef](https://makecode.microbit.org/_by81v67kf8Ef)

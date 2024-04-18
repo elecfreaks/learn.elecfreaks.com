@@ -1,4 +1,4 @@
-# FAQ 07
+﻿# FAQ 07
 
 ## Q: Cutebot和TPbot无法走直线。
 

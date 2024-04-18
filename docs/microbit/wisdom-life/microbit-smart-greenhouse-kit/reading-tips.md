@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: 阅读提示
 ---
@@ -7,10 +7,10 @@ sidebar_label: 阅读提示
 
 ## 符号说明
 
-| ![img](./images/microbit-greenhouse-reading-tips-01.png) | 重要注意事项   | 忽略此类信息有可能引发产品故障、损坏或造成人身伤害。 |
+| ![img](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-reading-tips-01.png) | 重要注意事项   | 忽略此类信息有可能引发产品故障、损坏或造成人身伤害。 |
 | -------------------------------------------------------- | -------------- | ---------------------------------------------------- |
-| ![img](./images/microbit-greenhouse-reading-tips-02.png) | 操作、使用提示 | 操作及使用过程中需要注意的细节。                     |
-| ![img](./images/microbit-greenhouse-reading-tips-03.png) | 提示及说明     | 有助于理解操作指引的提示信息。                       |
+| ![img](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-reading-tips-02.png) | 操作、使用提示 | 操作及使用过程中需要注意的细节。                     |
+| ![img](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-reading-tips-03.png) | 提示及说明     | 有助于理解操作指引的提示信息。                       |
 
 ## 使用建议
 

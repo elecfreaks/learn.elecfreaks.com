@@ -1,59 +1,59 @@
----
+﻿---
 sidebar_position: 6
 sidebar_label: Introduction to the function modules
 ---
 
 # Introduction to the function modules
 
-![](./images/cutebot-pro-function-a.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/images/cutebot-pro-function-a.png)
 
-![](./images/cutebot-pro-function-b.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/images/cutebot-pro-function-b.png)
 
 ## Encoder motors
 
-![](./images/cutebot-pro-function-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/images/cutebot-pro-function-01.png)
 
 
 ## Interface for ultrasonic sensor
 
-![](./images/cutebot-pro-function-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/images/cutebot-pro-function-02.png)
 
 ## Buzzer
 
-![](./images/cutebot-pro-function-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/images/cutebot-pro-function-03.png)
 
 ## Infrared receiving module
 
-![](./images/cutebot-pro-function-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/images/cutebot-pro-function-04.png)
 
 ## RGB headlights
 
-![](./images/cutebot-pro-function-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/images/cutebot-pro-function-05.png)
 
 ## IIC expansion port
 
-![](./images/cutebot-pro-function-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/images/cutebot-pro-function-06.png)
 
 ## Servo expansion port
 
-![](./images/cutebot-pro-function-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/images/cutebot-pro-function-07.png)
 
 ## Motor expansion port
 
-![](./images/cutebot-pro-function-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/images/cutebot-pro-function-08.png)
 
 ## GPIO expansion port
 
-![](./images/cutebot-pro-function-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/images/cutebot-pro-function-09.png)
 
 ## Four-way infrared line following sensor
 
-![](./images/cutebot-pro-function-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/images/cutebot-pro-function-10.png)
 
 ## Learn button of four-way infrared line following sensor
 
-![](./images/cutebot-pro-function-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/images/cutebot-pro-function-11.png)
 
 ## Rainbow LEDs
 
-![](./images/cutebot-pro-function-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/images/cutebot-pro-function-12.png)

@@ -1,9 +1,9 @@
-# Kits Information
+﻿# Kits Information
 
 ## Introduction
 ---
 
-![](./images/instruction.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/instruction.png)
 
 
 

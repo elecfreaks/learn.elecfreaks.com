@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 2
 sidebar_label: 指示灯状态说明
 ---

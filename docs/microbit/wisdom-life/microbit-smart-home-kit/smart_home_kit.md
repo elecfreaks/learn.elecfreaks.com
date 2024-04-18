@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: 智能家居套件介绍
 ---
@@ -10,7 +10,7 @@ sidebar_label: 智能家居套件介绍
 smart home套件是ELECFREAKS团队研发的智能家居主题micro:bit套件。
 smart home套件精选TMP36温度传感器、声音传感器、碰撞传感器、舵机、电机等智能家居常用的传感器与执行部件。你可以自行搭建窗台、衣柜、鱼缸与实际生活场景结合起来，使编程变得更加实用与有趣！使用micro:bit图形化编程让这些场景智能化工作，创造属于自己的智能温馨家庭。
 
-![](./images/uucCMNM.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/uucCMNM.jpg)
 
 ## 淘宝购买链接
 [智能家居套件](https://item.taobao.com/item.htm?ft=t&id=609328225464)
@@ -35,10 +35,10 @@ smart home套件精选TMP36温度传感器、声音传感器、碰撞传感器�
 ## 应用场景
 ---
 ### 智能风扇
-![](./images/XJbqrkd.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/XJbqrkd.jpg)
 
 ### 智能灯
-![](./images/TjI8a2b.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/TjI8a2b.jpg)
 
 更多应用案例，请参考套件资料
 

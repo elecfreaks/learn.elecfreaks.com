@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 4
 sidebar_label: 专用灯条模块
 ---
@@ -10,7 +10,7 @@ sidebar_label: 专用灯条模块
 - Ring:bit car V2灯条模块，是Ring:bit二代小车的专用扩展模块，连接简单功能强大，一卡一锁为你的Ring:bit小车扩展更多灯带。
 - 搭载8颗Rainbow LED灯珠，全彩色，可以实现自动车灯、彩虹车灯等功能。
 
-![](./images/ring_bit_v2_Rainbow_01.jpg)![](./images/ring_bit_v2_Rainbow_02.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_v2_Rainbow_01.jpg)![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_v2_Rainbow_02.jpg)
 
 ## 淘宝购买链接
 ---
@@ -44,7 +44,7 @@ sidebar_label: 专用灯条模块
 ## 外形与安装定位尺寸
 ---
 
- ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_03.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_Rainbow_03.png)
 
 ## 快速上手
 ---
@@ -53,15 +53,15 @@ sidebar_label: 专用灯条模块
 
 - 首先将灯条模块插入Ring:bit小车底板插口。
 
- ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_04.gif)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_Rainbow_04.gif)
 
 - 随后在反面用两颗螺丝固定。
 
- ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_05.gif) ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_06.gif)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_Rainbow_05.gif) ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_Rainbow_06.gif)
 
 - 扩展完成。
 
- ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_07.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_Rainbow_07.jpg)
 
 ### 软件编程
 ---
@@ -72,7 +72,7 @@ sidebar_label: 专用灯条模块
 - 在forever中循环位移颜色。
 - 显示颜色。
 
- ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_08.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_Rainbow_08.png)
 
  程序代码链接：[https://makecode.microbit.org/_3Wc1k8Ckg9vF](https://makecode.microbit.org/_3Wc1k8Ckg9vF)
 

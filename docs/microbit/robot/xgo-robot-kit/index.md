@@ -13,7 +13,7 @@ sidebar_label: XGO Robot Kit
 
 ## 简介
 
-![](./images/microbit-xgo-robot-kit-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-16.png)
 
 XGO 是一款专为青少年人工智能教育而设计的仿生四足机器狗套装，XGO 拥有12个自由度，可以像真实的宠物狗一样实现全向移动与花式造型表演，让孩子们可以与它玩耍的过程中学习机械、电子、编程和AI，为适应未来人工智能生活打下基础。
 

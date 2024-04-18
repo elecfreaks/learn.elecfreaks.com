@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 10
 sidebar_label: TPbot Mechanical Claw
 ---
@@ -10,7 +10,7 @@ sidebar_label: TPbot Mechanical Claw
 To build a TPBot with the Mechanical claw.
 
 
-![](./images/tpbot-brick-expansion-case-10-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-case-10-01.png)
 
 ## Materials Requested
 
@@ -26,57 +26,57 @@ Bricks Pack
 ## Assembly Steps
 
 
-![](./images/tpbot-brick-expansion-step-10-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-01.png)
 
-![](./images/tpbot-brick-expansion-step-10-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-02.png)
 
-![](./images/tpbot-brick-expansion-step-10-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-03.png)
 
-![](./images/tpbot-brick-expansion-step-10-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-04.png)
 
-![](./images/tpbot-brick-expansion-step-10-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-05.png)
 
-![](./images/tpbot-brick-expansion-step-10-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-06.png)
 
-![](./images/tpbot-brick-expansion-step-10-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-07.png)
 
-![](./images/tpbot-brick-expansion-step-10-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-08.png)
 
-![](./images/tpbot-brick-expansion-step-10-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-09.png)
 
-![](./images/tpbot-brick-expansion-step-10-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-10.png)
 
-![](./images/tpbot-brick-expansion-step-10-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-11.png)
 
-![](./images/tpbot-brick-expansion-step-10-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-12.png)
 
-![](./images/tpbot-brick-expansion-step-10-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-13.png)
 
-![](./images/tpbot-brick-expansion-step-10-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-14.png)
 
-![](./images/tpbot-brick-expansion-step-10-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-15.png)
 
-![](./images/tpbot-brick-expansion-step-10-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-16.png)
 
-![](./images/tpbot-brick-expansion-step-10-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-17.png)
 
-![](./images/tpbot-brick-expansion-step-10-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-18.png)
 
-![](./images/tpbot-brick-expansion-step-10-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-19.png)
 
-![](./images/tpbot-brick-expansion-step-10-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-20.png)
 
-![](./images/tpbot-brick-expansion-step-10-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-21.png)
 
-![](./images/tpbot-brick-expansion-step-10-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-22.png)
 
-![](./images/tpbot-brick-expansion-step-10-23.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-23.png)
 
 ## Hardware Connections
 
 Connect the 360° servo to servo 1 port on the TPBot.
 
-![](./images/tpbot-brick-expansion-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-case-01-02.png)
 
 
 ## Software
@@ -90,11 +90,11 @@ Connect the 360° servo to servo 1 port on the TPBot.
 
 Click "Advanced" in the makecode drawer to see more choices.
 
-![](./images/tpbot-brick-expansion-case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-case-01-03.png)
 
 For programming the TPBot, we need to add the extensions. Click "Extensions" at the bottom of the drawer and search with `tpbot` in the box, then download it.
 
-![](./images/tpbot-brick-expansion-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-case-01-04.png)
 
 
 ## Samples program
@@ -102,7 +102,7 @@ For programming the TPBot, we need to add the extensions. Click "Extensions" at 
 While `on start`, set to show an icon, while pressing button A, set the servo connecting to S1 to drive to 225 degrees; while pressing button B, set the servo to drive to 255 degrees.
 
 
-![](./images/tpbot-brick-expansion-case-04-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-case-04-05.png)
 
 
 ### Program

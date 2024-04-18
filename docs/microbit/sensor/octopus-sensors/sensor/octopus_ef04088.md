@@ -4,7 +4,7 @@
 ---
 两路巡线模块电子积木集成了两组反射式红外对管，可通过它来识别黑线。通常应用该模块来做巡线智能小车，我们可以任意设计黑线轨迹，通过编程使小车按我们设计的黑线轨迹行驶。
 
-![](./images/04088_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04088_01.png)
 
 ## 特性
 ---
@@ -29,7 +29,7 @@ SKU|EF04088
 净重|4.8g
 
 ### 外型与定位尺寸
-![](./images/u76NzbX.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/u76NzbX.png)
 
 ## 包装清单
 ---
@@ -42,9 +42,9 @@ SKU|EF04088
 将模块安装在motor:bit小车上。
 将左边的接口接入P13，右边的接口接入P14。（均以驾驶员视角为参照）
 
-![](./images/iNdkjrq.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/iNdkjrq.jpg)
 
-![](./images/Y7tolMD.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/Y7tolMD.jpg)
 
 ### Micro:bit 示例代码
 程序链接：[https://makecode.microbit.org/_A5zAEjRw3Ez2](https://makecode.microbit.org/_A5zAEjRw3Ez2)
@@ -78,13 +78,13 @@ SKU|EF04088
 下载压缩包并解压[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_07.png)
 
 为了给双路巡线模块编程，我们需要添加tracking.py。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的Octopus_MicroPython-master文件夹，从中选择tracking.py添加进来。
 
-![](./images/05001_08.png)
-![](./images/05001_09.png)
-![](./images/04088_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04088_10.png)
 
 ### 步骤 2
 ### 参考程序

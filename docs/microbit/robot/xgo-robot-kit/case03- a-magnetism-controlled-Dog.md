@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 10
 sidebar_label: 案例03 - 觅食的XGO
 ---
@@ -24,7 +24,7 @@ sidebar_label: 案例03 - 觅食的XGO
 
 使用数据线将电脑与micro:bit 相连。
 
-![](./images/microbit-xgo-robot-kit-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-22.png)
 
 
 
@@ -32,7 +32,7 @@ sidebar_label: 案例03 - 觅食的XGO
 ---
 [Makecode](https://makecode.microbit.org/#)
 
-![](./images/microbit-xgo-robot-kit-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-10.png)
 
 
 
@@ -42,13 +42,13 @@ sidebar_label: 案例03 - 觅食的XGO
 
 将 XGO 的扩展库添加到 makecode 中。
 
-![](./images/microbit-xgo-robot-kit-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-11.png)
 
-![](./images/microbit-xgo-robot-kit-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-12.png)
 
-![](./images/microbit-xgo-robot-kit-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-13.png)
 
-![](./images/microbit-xgo-robot-kit-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-14.png)
 
 
 
@@ -59,7 +59,7 @@ sidebar_label: 案例03 - 觅食的XGO
 
 
 
-![](./images/microbit-xgot-robot-kit-case01-out-of-the-square-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgot-robot-kit-case01-out-of-the-square-03.png)
 
 
 

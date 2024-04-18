@@ -1,10 +1,10 @@
-# Case 14:  Guess the tones
+﻿# Case 14:  Guess the tones
 
 ## Introduction
 
 This is a gaming device. It displays a smiley face and plays a beep when it is turned on. Press the button A to select the corresponding number, and press the button B to confirm. If the confirmed number is the same as the prompt sound, the micro:bit displays √; if not, it displays ×.
 
-![](./images/case_14_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_14_01.png)
 
 
 ## Quick to Start
@@ -23,7 +23,7 @@ micro:bit × 1
 Connect the micro:bit to Nezha expansion board as the picture shows.
 
 
-![](./images/case_14_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_14_03.png)
 
 
 
@@ -35,25 +35,25 @@ Connect the micro:bit to Nezha expansion board as the picture shows.
 
 Program to show icon in the on start brick and set the variable K as 0.
 
-![](./images/case_14_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_14_11.png)
 
 In forever brick, set the variable j as true and the value of i as a random number among 1~7.
 
-![](./images/case_14_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_14_12.png)
 
 If i=1, programme to play the tone of C; if i=2, set to play the tone of D, and set the following 5 tones accordingly in the same way.
 
-![](./images/case_14_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_14_13.png)
 
 While the variable j is true, set k=k+1 after button A being pressed and display the value of K; while button B being pressed, if k=1, set to display √; if k≠i, set to display ×, and pause for 2000ms, then display the smile face; if k=0, set the variable of j as false.
 
 
-![](./images/case_14_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_14_14.png)
 
 
 ### Full Code:
 
-![](./images/case_14_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_14_15.png)
 
 ### Link
 

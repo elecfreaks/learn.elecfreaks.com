@@ -1,10 +1,10 @@
-# 雨水湿度电子积木
+﻿# 雨水湿度电子积木
 
 ## 简介
 ---
 雨水湿度传感器，当传感器表面的湿度提高时，输出电压会上升，从而检测湿度的变化值。
 
- ![](./images/4tWL14e.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/4tWL14e.jpg)
 
 ## 特性
 ---
@@ -28,7 +28,7 @@ SKU|EF04024
 ## 外形与定位尺寸
 ---
 
- ![](./images/xpNQNBG.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/xpNQNBG.png)
 
 ## 快速上手
 ---
@@ -37,12 +37,12 @@ SKU|EF04024
 
 ***以sensor:bit为例***
 
- ![](./images/ai3lZZE.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/ai3lZZE.jpg)
 
 ### 如图所示编写程序
 - 模拟读取P1口并显示。
 
- ![](./images/JQBCxSv.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/JQBCxSv.png)
 
 ### 参考程序
 请参考程序连接：

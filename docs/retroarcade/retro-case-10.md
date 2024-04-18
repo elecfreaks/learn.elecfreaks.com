@@ -1,4 +1,4 @@
-# 走迷宫
+﻿# 走迷宫
 
 ## 目的
 
@@ -8,7 +8,7 @@
 
 1 x [饼干游戏编程学习机](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
 
-![retro-case-01-01.png](./images/retro-case-01-01.png)
+![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-01-01.png)
 
 ## 软件
 
@@ -19,46 +19,46 @@
 由于在这个案例中使用了光线传感器，所以需要按照以下步骤添加对应扩展库。
 打开`高级`，选择`扩展`。
 
-![retro-case-09-07.png](./images/retro-case-09-07.png)
+![retro-case-09-07.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-09-07.png)
 
 在弹出窗口搜索`controller`，并选择`controller扩展库`。
 
-![retro-case-09-08.png](./images/retro-case-09-08.png)
+![retro-case-09-08.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-09-08.png)
 
 添加完成后，模块选择区出现三个积木选择模块。
 
 目前硬件上使用光线传感器、加速度计、振动马达的相关积木块，可以在控制器的扩展插件一栏中找到。
 
-![retro-case-09-09.png](./images/retro-case-09-09.png)
+![retro-case-09-09.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-09-09.png)
 
 `新建精灵`，`设置精灵初始位置`，`通过按键移动精灵`，`设置地图图块`，`设置镜头跟随精灵移动`。
 
-![retro-case-10-01.png](./images/retro-case-10-01.png)
+![retro-case-10-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-10-01.png)
 
 先画出迷宫入口，出口，以及墙体。
 
-![retro-case-10-02.png](./images/retro-case-10-02.png)
+![retro-case-10-02.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-10-02.png)
 
 再根据墙体设置体积碰撞。
 
-![retro-case-10-03.png](./images/retro-case-10-03.png)
+![retro-case-10-03.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-10-03.png)
 
 `当亮度较暗时`，`设置背景颜色为黑色`，`当亮度较亮时`，`设置背景颜色为浅蓝色`。
 
-![retro-case-10-04.png](./images/retro-case-10-04.png)
+![retro-case-10-04.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-10-04.png)
 
 
 `当精灵碰到入口位置的图块时`，`开始倒计时十秒`，`并振动500m`。
 
-![retro-case-10-05.png](./images/retro-case-10-05.png)
+![retro-case-10-05.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-10-05.png)
 
 `当精灵碰到终点位置的图块时`，`停止倒计时`，`设置礼炮纸屑特效`，`振动500ms`，`设置游戏结束`。
 
-![retro-case-10-06.png](./images/retro-case-10-06.png)
+![retro-case-10-06.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-10-06.png)
 
 完整程序：
 
-![retro-case-10-07.png](./images/retro-case-10-07.png)
+![retro-case-10-07.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-10-07.png)
 
 ### 程序
 

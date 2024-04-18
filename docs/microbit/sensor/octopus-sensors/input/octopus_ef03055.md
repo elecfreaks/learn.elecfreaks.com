@@ -1,11 +1,11 @@
-# 单个摇杆
+﻿# 单个摇杆
 
 ## 简介
 ---
 
 
 
-![](./images/03055_1.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/03055_1.jpg)
 
 
 ## 特性
@@ -44,14 +44,14 @@ SKU|EF03055
 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
 
-![](./images/03055_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/03055_02.png)
 
 
 点击“扩展”，在弹出的对话框中搜索“iot"，下载iot代码库。
 
 
 
-![](./images/03055_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/03055_03.png)
 
 
 ### 如图所示编写程序
@@ -60,7 +60,7 @@ SKU|EF03055
 
 
 
-![](./images/03055_3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/03055_3.png)
 
 
 

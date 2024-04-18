@@ -1,4 +1,4 @@
-# iot:kit case02: Environmental noise detection
+﻿# iot:kit case02: Environmental noise detection
 
 ## Our goal
 
@@ -29,7 +29,7 @@ Let the OLED screen be connected to `IIC`.
 
 Let the onboard RTC be connected to `IIC` Bus.
 
-![](./images/case_02_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_02_01.png)
 
 
 ## Software
@@ -43,11 +43,11 @@ Let the onboard RTC be connected to `IIC` Bus.
 ### Step 1
  Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
-![](./images/iot_bit_11.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_11.jpg)
 
  We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture)
 
-![](./images/iot_bit_12.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_12.jpg)
 
 ***Note：*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
@@ -57,7 +57,7 @@ Snap the `initialize OLED` in to the `on start`, initialize OLED screen pixels t
 
 Then snap the RTC timing block after the `initialize OLED`, set current time to 14:15.
 
-![](./images/case_02_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_02_02.png)
 
 
 ### Step 2
@@ -68,7 +68,7 @@ Display string: `Time:`for current hours and minutes.
 
 Then, snap into the `insert newline`.
 
-![](./images/case_02_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_02_03.png)
 
 
 ### Step 3
@@ -79,7 +79,7 @@ Display string `Noise:`and returned noise value.
 
 Pause 1 second.
 
-![](./images/case_02_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_02_04.png)
 
 ### Program
 

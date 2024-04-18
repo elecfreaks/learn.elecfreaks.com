@@ -8,16 +8,16 @@ Download the package and unzip it: [EF_Produce_MicroPython-master](https://githu
 
 Go to [Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/AI-py-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-py-01.png)
 
 For programming, we need to add the file of AILens.py. Click Load/Save first and again with Show Files(1), choose "add file" to get to the download page to find the file folder of EF_Produce_MicroPython-master, then add AILens.py.
 
 
-![](./images/AI-py-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-py-02.png)
 
-![](./images/AI-py-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-py-03.png)
 
-![](./images/AI-py-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-py-04.png)
 
 ## API
 

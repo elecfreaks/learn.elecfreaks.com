@@ -1,10 +1,10 @@
-# Case 16: Memory Test
+﻿# Case 16: Memory Test
 
 ## Introduction
 
 This is a memory testing device. The red and green lights on the device will light up randomly. After all the light instructions are displayed, you need to press the corresponding buttons according to the order of the lights, (A stands for red, B stands for green) , If in the correct order, the micro:bit displays "√", otherwise the micro:bit displays a sad face.
 
-![](./images/case_16_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_16_01.png)
 
 ## Quick to Start
 
@@ -29,7 +29,7 @@ Bricks × n
 Connect the green LED to J1 port and red LED to J2 port on the Nezha expansion board as the picture shows.
 
 
-![](./images/case_16_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_16_03.png)
 
 
 ### Assembly Video
@@ -40,15 +40,15 @@ Video link:[https://youtu.be/ie4sO5qNvfM](https://youtu.be/ie4sO5qNvfM)
 
 ### Assembly Steps
 
-![](./images/case_step_16_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_16_01.png)
 
-![](./images/case_step_16_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_16_02.png)
 
-![](./images/case_step_16_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_16_03.png)
 
-![](./images/case_step_16_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_16_04.png)
 
-![](./images/case_step_16_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_16_05.png)
 
 
 
@@ -62,11 +62,11 @@ Video link:[https://youtu.be/ie4sO5qNvfM](https://youtu.be/ie4sO5qNvfM)
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](./images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](./images/case_01_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_11.png)
 
 
 
@@ -78,7 +78,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 ### Programme as the picture shows:
 
-![](./images/case_16_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_16_15.png)
 
 
 ### Link
@@ -110,4 +110,4 @@ You may also downoad it directly below:
 The red and green LEDs light on at random, press button A while the red lights on; press button B while the green lights on, if you press them at the right sequence(A for red and B for green ), the micro:bit display a "√" or it displays a sad face.
 
 
-![](./images/case-gif-16.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case-gif-16.gif)

@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 7
 sidebar_label: Raspberry Pi Environment Development
 ---
@@ -17,4 +17,4 @@ Download the VNC tool from the following download link: https://www.realvnc.com/
 
 Open the tool and enter the IP of the XGO dog
 
-![](./../images/cm4-xgo-vnc-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-vnc-01.png)

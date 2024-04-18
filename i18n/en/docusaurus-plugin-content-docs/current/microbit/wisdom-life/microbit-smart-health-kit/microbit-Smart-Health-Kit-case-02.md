@@ -1,4 +1,4 @@
-# Case 02: UV Light Detection Device
+﻿# Case 02: UV Light Detection Device
 
 
 ##  Introduction
@@ -17,29 +17,29 @@
 
 ## Picture
 ---
-![](./images/microbit-Smart-Health-Kit-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-02.png)
 
 ## Hardware Connection
 ---
 
 Connect the UV sensor to P1 and the servo to P2 on sensor:bit.
 
-![](./images/microbit-Smart-Health-Kit-case-02-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-02-03.png)
 
 ## Software Programming
 ---
 
 Click "Advanced" in the MakeCode to see more choices.
 
-![](./images/microbit-Smart-Health-Kit-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-04.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "smarthome" in the dialogue box to download it.
 
-![](./images/microbit-Smart-Health-Kit-case-01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-05.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "servo" in the dialogue box to download it.
 
-![](./images/microbit-Smart-Health-Kit-case-01-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-06.png)
 
 ***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -48,11 +48,11 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 Save the value detected from the UV sensor connecting to P1 as the variable "UV" and display the value on the micro:bit.
 
-![](./images/microbit-Smart-Health-Kit-case-02-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-02-07.png)
 
 Judge if the variable is over 5, if yes, set the servo connecting to P2 to drive to 0°; or to drive to 90°.
 
-![](./images/microbit-Smart-Health-Kit-case-02-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-02-08.png)
 
 Link: [https://makecode.microbit.org/_exdb9fFJjeuj](https://makecode.microbit.org/_exdb9fFJjeuj)
 

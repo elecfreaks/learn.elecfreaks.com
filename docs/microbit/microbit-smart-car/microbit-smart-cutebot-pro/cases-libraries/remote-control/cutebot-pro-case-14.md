@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 14
 sidebar_label: case 14 joystick:bit手柄遥控
 ---
@@ -9,7 +9,7 @@ sidebar_label: case 14 joystick:bit手柄遥控
 
 本课程旨在通过利用joystick:bit游戏手柄实现智能赛车的遥控功能，让学生学习和探索小车的行驶控制、micro:bit的无线配对和通信等知识点。学生将学习joystick:bit游戏手柄的使用方式，掌握micro:bit的无线通信技术，通过实践操作掌握遥控赛车的制作和控制技巧。
 
-[](./images/cutebot-pro-case-14-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/remote-control/images/cutebot-pro-case-14-01.png)
 
 ## 教学目标
 
@@ -46,7 +46,7 @@ joystick:bit游戏手柄 × 1
 
 **手柄端**
 
-![](./images/cutebot-pro-case-14-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/remote-control/images/cutebot-pro-case-14-02.png)
 
 请参考程序连接：[https://makecode.microbit.org/_6LW3TzF0DYXX](https://makecode.microbit.org/_6LW3TzF0DYXX)
 
@@ -75,7 +75,7 @@ joystick:bit游戏手柄 × 1
 
 ### 案例展示
 
-![](./images/cutebot-pro-case-14-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/remote-control/images/cutebot-pro-case-14-03.png)
 
 请参考程序连接：[https://makecode.microbit.org/S07936-83398-83444-58201](https://makecode.microbit.org/S07936-83398-83444-58201)
 

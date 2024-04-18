@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 10
 sidebar_label: 寻找光源
 ---
@@ -29,11 +29,11 @@ sidebar_label: 寻找光源
 ### 步骤 1
  在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
-![](./images/Mecanum_wheel_car_kit_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_01_01.png)
 
 为了给麦克纳姆轮小车套件编程，我们需要添加一个扩展库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框，搜索”wukong”，然后点击下载这个代码库。
 
-![](./images/Mecanum_wheel_car_kit_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_01_02.png)
 
 *注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -43,7 +43,7 @@ sidebar_label: 寻找光源
 
 
 
-![](./images/Mecanum_wheel_car_kit_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_01_03.png)
 
 
 ### 步骤 3
@@ -52,7 +52,7 @@ sidebar_label: 寻找光源
 
 
 
-![](./images/Mecanum_wheel_car_kit_case_08_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_08_05.png)
 
 
 ### 步骤 4
@@ -61,7 +61,7 @@ sidebar_label: 寻找光源
 
 
 
-![](./images/Mecanum_wheel_car_kit_case_08_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_08_06.png)
 
 
 ### 程序

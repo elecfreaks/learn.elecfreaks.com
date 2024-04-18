@@ -1,6 +1,6 @@
-# 课程_11 七彩灯环
+﻿# 课程_11 七彩灯环
 
-![](./images/F2gbRrO.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/F2gbRrO.jpg)
 
 ## 简介
 ---
@@ -18,13 +18,13 @@ LED七彩灯环是基于ws2812b灯珠。它的最大特点是单IO控制与无�
 
 **温馨提示：如果你需要以上所有元件，你可以购买我们的[Elecfreaks小小科学家套件](https://item.taobao.com/item.htm?ft=t&id=597096675822)。**
 
-![](./images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
 
 ## 主要元件介绍
 ---
 ### LED七彩灯环(8颗灯珠)
 
-![](./images/NnNcXY9.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/NnNcXY9.jpg)
 
 LED七彩灯环（8颗灯珠）是由8颗ws2812b灯珠级联而成的灯环，ws2812b是一个集控制电路与发光电路于一体的智能外控LED光源，其外型与一个5050LED灯珠相同。
 
@@ -42,12 +42,12 @@ LED具有低电压驱动，环保节能，亮度高，散射角度大，一致�
 
 - 1.将七彩灯环的信号线与扩展板P0口连接起来
 
-![](./images/LAPXCJp.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/LAPXCJp.jpg)
 
 注意：灯环引出了两组线，一组是DI,另一组是DO，我们应当连接DI这一组。
 连接完成后如图:
 
-![](./images/lUdmz6q.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/lUdmz6q.jpg)
 
 ### 软件
 
@@ -57,25 +57,25 @@ LED具有低电压驱动，环保节能，亮度高，散射角度大，一致�
 ### 添加Package
 - 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](./images/case_11_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_11_01.png)
 
 点击`扩展`，在弹出的对话框中搜索“neopixel"，下载neopixel代码库。
 
-![](./images/case_11_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_11_02.png)
 
 
 ### 如图所示编写程序
 
-![](./images/case_11_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_11_03.png)
 
 ### 代码详解
 - 1.将8颗led设置成RGB模式，将引脚设置为P0口。
 
-![](./images/case_11_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_11_04.png)
 
 - 2.显示RGB颜色，设置颜色渐变。
 
-![](./images/case_11_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_11_05.png)
 
 ### 参考程序
 请参考程序连接：[https://makecode.microbit.org/_XdsavUFzaCyq](https://makecode.microbit.org/_XdsavUFzaCyq)
@@ -106,7 +106,7 @@ LED具有低电压驱动，环保节能，亮度高，散射角度大，一致�
 ---
 我们可以看到LED彩虹灯环实现了运动的彩虹渐变效果。
 
-![](./images/23vhDKK.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/23vhDKK.gif)
 
 
 ## 思考

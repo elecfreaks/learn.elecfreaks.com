@@ -1,11 +1,11 @@
-# Color Sensor Module(EF03047)
+﻿# Color Sensor Module(EF03047)
 
 ## Introduction
 
 
 Based on TCS3200, the Color sensor module is a programmable color light-to-frequency converter, it could filter RGB data from source light and convert it to a square wave(50% duty cycle) with frequency directly proportional to light intensity (irradiance). The full-scale output frequency can be scaled by one of three preset values via two control input pins(SO, S1 Selectable Options 2%, 20%, 100% frequency),and pin S2, S3 control the filter of RGB. Digital input and output allow interface to a microcontroller or other logic circuitry directly. Output enable (OE) places the output in the high-impedance state for multiple-unit sharing of a microcontroller input line. At last, user can calculate the color of the light by RGB values.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitOctopus/sensor/images/03047_00.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/03047_00.jpg)
 
 ## Characteristics
 
@@ -28,7 +28,7 @@ Based on TCS3200, the Color sensor module is a programmable color light-to-frequ
 ## Outlook and Dimmensions
 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitOctopus/sensor/images/03047_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/03047_01.png)
 
 ## Quick to Start
 
@@ -37,7 +37,7 @@ Based on TCS3200, the Color sensor module is a programmable color light-to-frequ
 Connect S0 to pin15,  S1 to P1,  S2 to P8,  S3 to P12,  OUT to P2,  VCC to the Power Supply and GND to the GND.  Then insert the micro:bit to Octopus:bit.
 Connect OLED to IIC port.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitOctopus/sensor/images/03047_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/03047_02.png)
 
 ### Software Programming
 

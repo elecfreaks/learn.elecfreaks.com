@@ -1,10 +1,10 @@
-# Case 57: An Unmanned Bus
+﻿# Case 57: An Unmanned Bus
 
 ## Introduction
 
 Now, with the maturity of artificial intelligence and driverless technology, driverless buses are beginning to appear, and the fares are lower. Therefore, in this class, we will make an unmanned bus work to experience the riding mode of unmanned bus and the convenience of future transportation.
 
-![](./images/57_1.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_1.jpg)
 
 ### Materials Required
 
@@ -28,67 +28,67 @@ Bricks × n
 
 Component Details
 
-![](./images/57_2.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_2.jpg)
 
 Build it as the assembly steps suggest:
 
-![](./images/57_3.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_3.jpg)
 
-![](./images/57_4.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_4.jpg)
 
-![](./images/57_5.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_5.jpg)
 
-![](./images/57_6.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_6.jpg)
 
-![](./images/57_7.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_7.jpg)
 
-![](./images/57_8.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_8.jpg)
 
-![](./images/57_9.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_9.jpg)
 
-![](./images/57_10.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_10.jpg)
 
-![](./images/57_11.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_11.jpg)
 
-![](./images/57_12.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_12.jpg)
 
-![](./images/57_13.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_13.jpg)
 
-![](./images/57_14.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_14.jpg)
 
-![](./images/57_15.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_15.jpg)
 
-![](./images/57_16.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_16.jpg)
 
-![](./images/57_17.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_17.jpg)
 
-![](./images/57_18.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_18.jpg)
 
-![](./images/57_19.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_19.jpg)
 
-![](./images/57_20.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_20.jpg)
 
-![](./images/57_21.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_21.jpg)
 
-![](./images/57_22.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_22.jpg)
 
-![](./images/57_23.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_23.jpg)
 
-![](./images/57_24.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_24.jpg)
 
-![](./images/57_25.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_25.jpg)
 
-![](./images/57_26.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_26.jpg)
 
-![](./images/57_27.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_27.jpg)
 
-![](./images/57_28.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_28.jpg)
 
 ## Connection Diagram
 
 Connect the four motors to the M1, M4,  the crash sensor to J1 port, the Ultrasonic sensor to J2 port.
 
-![](./images/57_29.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_29.jpg)
 
 
 ##  MakeCode Programming
@@ -99,7 +99,7 @@ Click “Advanced” in the MakeCode drawer to see more choices.
 
 
 
-![](./images/49_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_10.png)
 
 
 
@@ -107,13 +107,13 @@ For programming the servo, we need to add a package. Click “Extensions” at t
 
 
 
-![](./images/49_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_11.png)
 
 
 
 For programming the PIR sensor, we need to add a package. Search with “PlanetX” in the dialogue box and click to download it.
 
-![](./images/49_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_12.png)
 
 
 
@@ -123,7 +123,7 @@ For programming the PIR sensor, we need to add a package. Search with “PlanetX
 
 The program is shown in the figure below:
 
-![](./images/57_30.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/57_30.jpg)
 
 Link: https://makecode.microbit.org/_Cz7hETb9V9pL
 

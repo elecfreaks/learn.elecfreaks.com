@@ -1,10 +1,10 @@
----
+﻿---
 sidebar_position: 22
 sidebar_label: 圣诞相框
 ---
 # 圣诞相框
 
-![](./images/tooca-laser-1-case-11-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-11-01.png)
 
 ## 展示视频
 

@@ -1,14 +1,14 @@
 # Case 06:倒车入库
 
 
-![](./images/case06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case06.png)
 
 ## 简介
 哈喽，我们通过编程让 Ring:bit 智能车做出了很多的事情，那我们同样也可以让它实现自动的开到停车位停车。所以，这节课我们来实现 Ring:bit 智能车倒车入库的动作，那我们开始吧。  
 ## 硬件连接
 将Ring:bit 套件拿出来，发挥你们灵动的小手将 Ring:bit 扩展版的P1口连接左轮舵机，P2口连接右轮舵机。  
 
-![](./images/case.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case.png)
 
 ## 程序编写
 编程环境准备是必须要的，如果你还没有准备，可以参考这篇文章：[编程环境准备](https://www.yuque.com/elecfreaks-learn/picoed/gxro38)

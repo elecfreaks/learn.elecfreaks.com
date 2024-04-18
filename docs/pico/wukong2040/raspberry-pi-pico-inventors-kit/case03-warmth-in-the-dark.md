@@ -5,7 +5,7 @@ sidebar_label: 案例03 黑夜下的温暖
 
 # 案例03 黑夜下的温暖
 
-![](./images/wukong2040-inventors-case03-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case03-01.png)
 
 ## 简介
 
@@ -29,7 +29,7 @@ sidebar_label: 案例03 黑夜下的温暖
 
 ### 光线传感器
 
-![](./images/pico-beginner-kit-30.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/pico-beginner-kit-30.png)
 
 光线传感器是利用光敏元件将光信号转换为电信号的传感器，它的敏感波长在可见光波长附近，包括红外线波长和紫外线波长。光传感器不只局限于对光的探测，它还可以作为探测元件组成其他传感器，对许多非电量进行检测，只要将这些非电量转换为光信号的变化即可。
 
@@ -41,11 +41,11 @@ sidebar_label: 案例03 黑夜下的温暖
 
 按照下面连接示意图，将您的元器件连接起来：
 
-![](./images/wukong2040-inventors-case03-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case03-05.png)
 
 ### MicroBlocks 图形化编程
 
-![](./images/wukong2040-inventors-case03-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case03-04.png)
 
 ### CircuitPython 代码编程
 
@@ -65,7 +65,7 @@ while True:
 
 ### 案例演示
 
-![](./images/wukong2040-inventors-kit-case03-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-kit-case03-06.gif)
 
 ### 思考
 

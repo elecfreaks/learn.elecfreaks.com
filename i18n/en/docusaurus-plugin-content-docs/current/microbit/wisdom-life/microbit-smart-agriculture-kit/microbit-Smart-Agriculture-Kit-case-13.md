@@ -1,6 +1,6 @@
-# Case 13:The Smart Farm
+﻿# Case 13:The Smart Farm
 
-![](./images/microbit-Smart-Agriculture-Kit-13-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-13-01.png)
 
 ##  Introduction
 ---
@@ -25,13 +25,13 @@ Smart Agriculture Kit
 
 Link: [https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-agriculture-kit-without-micro-bit-board?_pos=2&_sid=2c86b7764&_ss=r](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-agriculture-kit-without-micro-bit-board?_pos=2&_sid=2c86b7764&_ss=r)
 
-![](./images/microbit-Smart-Agriculture-Kit-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-02.png)
 
 [Smart Agricultural Carton Model
 ](https://shop.elecfreaks.com/products/elecfreaks-smart-agriculture-carton-model?_pos=1&_psq=carton&_ss=e&_v=1.0)
 
 
-![](./images/microbit-Smart-Agriculture-Kit-13-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-13-02.png)
 
 Note: This cardboard model is not sent with the kit, please buy it as standalones here: [Smart Agricultural Carton Model
 ](https://shop.elecfreaks.com/products/elecfreaks-smart-agriculture-carton-model?_pos=1&_psq=carton&_ss=e&_v=1.0)
@@ -42,37 +42,37 @@ Double-sided tapes: Fix the sensors and the postion of the models.
 ---
 Step 1: Take out the cardboards and splice the baseboard.
 
-![](./images/microbit-Smart-Agriculture-Kit-13-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-13-03.png)
 
 Step 2: Fold the cardboards with the crease and fasten the buckles.
 
-![](./images/microbit-Smart-Agriculture-Kit-13-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-13-04.png)
 
 Finished models after the assembly：
 
 1.The baseboard
 
-  ![](./images/microbit-Smart-Agriculture-Kit-13-05.png)
+  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-13-05.png)
 
 2.The fish pond
 
-  ![](./images/microbit-Smart-Agriculture-Kit-13-06.png)
+  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-13-06.png)
 
 3.The cabbin
 
-  ![](./images/microbit-Smart-Agriculture-Kit-13-07.png)
+  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-13-07.png)
 
 4.The fence
 
-  ![](./images/microbit-Smart-Agriculture-Kit-13-08.png)
+  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-13-08.png)
 
 5.SThe plant
 
-  ![](./images/microbit-Smart-Agriculture-Kit-13-09.png)
+  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-13-09.png)
 
 Step 3: Put the models on the baseboard
 
-![](./images/microbit-Smart-Agriculture-Kit-13-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-13-10.png)
 
 ***Tip:*** Please can glue the models with the double-sided tapes.
 
@@ -88,47 +88,47 @@ the infrared sensor to P14;
 the sonar:bi to P15;
 and the OLED display to IIC on Iot:bit.
 
-![](./images/microbit-Smart-Agriculture-Kit-13-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-13-11.png)
 
 ## Add Extensions
 ---
 Click the "Advanced" in the MakeCode drawer to see more choices.
 
-![](./images/microbit-Smart-Agriculture-Kit-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-04.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "servo" in the dialogue box to download it.
 
-![](./images/microbit-Smart-Agriculture-Kit-case-01-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-06.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "neopixel" in the dialogue box to download it.
 
-![](./images/microbit-Smart-Agriculture-Kit-case-03-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-03-06.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "iot-environment-kit" in the dialogue box to download it.
 
-![](./images/microbit-Smart-Agriculture-Kit-case-01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-05.png)
 
 ## Programming
 ---
 Initialize the OLED screen and disable the LED functions on the micro:bit, initialize the rainbow LED.
 
-![](./images/microbit-Smart-Agriculture-Kit-13-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-13-12.png)
 
 Get the values from all sensors and display them on the OLED screen.
 
-![](./images/microbit-Smart-Agriculture-Kit-13-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-13-13.png)
 
 If the returned value from the soil moisture is below the threshold, make the servo rotate to 0 degree to simulate the opening of the water valve; or make it rotate to 180 degrees to simulate the closing of the water valve.
 
-![](./images/microbit-Smart-Agriculture-Kit-13-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-13-14.png)
 
 If there is any obstables detected among 4~400cm by the sonar:bit, detect if there is any movement with the infrared sensor, if yes, program to light on the red light or program to light on in green.
 
-![](./images/microbit-Smart-Agriculture-Kit-13-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-13-15.png)
 
 Code:
 
-![](./images/microbit-Smart-Agriculture-Kit-13-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-13-16.png)
 
 
 Reference link: [https://makecode.microbit.org/_eYRf5hcaDEeR](https://makecode.microbit.org/_eYRf5hcaDEeR)

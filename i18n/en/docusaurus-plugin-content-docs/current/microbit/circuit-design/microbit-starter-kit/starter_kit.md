@@ -1,4 +1,4 @@
-# Starter Kit
+﻿# Starter Kit
 
 ## Introduction
 
@@ -6,10 +6,10 @@
 The kit has provided some basic electronic components like LED, button, buzzer, temperature sensor, steering engine and motor etc.
 [Micro:bit Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html)  can help you enter a wonderful of electronic world.
 
-![](./images/XpixeEF.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/XpixeEF.jpg)
 
 ## Components
 
-![](./images/Micro-bit-Starter-Kit-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/Micro-bit-Starter-Kit-01.png)
 
 ## FAQ

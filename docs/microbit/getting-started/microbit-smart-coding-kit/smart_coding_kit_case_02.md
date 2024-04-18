@@ -1,4 +1,4 @@
-# 案例02：骰子
+﻿# 案例02：骰子
 
 ## 目的
 ---
@@ -11,7 +11,7 @@
 
 
 
-![](./images/smart_coding_kit_case_02_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_02_01.png)
 
 
 
@@ -27,7 +27,7 @@
 - 在输入模块中拖出一个 振动积木块，在其中插入随机选取1-6之间的数赋值给`num`变量，用于随机投掷骰子。
 - 之后插入判断积木块`如果...否则...`当随机数为`1`时，显示一个点，以此类推。
 
-![](./images/smart_coding_kit_case_02_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_02_02.png)
 
 
 

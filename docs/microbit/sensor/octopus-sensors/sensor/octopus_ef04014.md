@@ -1,10 +1,10 @@
-# 震动开关电子积木
+﻿# 震动开关电子积木
 
 ## 简介
 ---
 - 振动传感器模块是一个基于振动触发开关的模块。
 
- ![](./images/V5LWSTa.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/V5LWSTa.jpg)
 
 ## 特性
 ---
@@ -24,7 +24,7 @@ SKU|EF04014
 
 ## 外形与定位尺寸
 ---
- ![](./images/cdNd1Kw.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/cdNd1Kw.png)
 
 ## 快速上手
 ---
@@ -33,12 +33,12 @@ SKU|EF04014
 
 ***以sensor:bit为例***
 
- ![](./images/MCfIhfH.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/MCfIhfH.png)
 
 ### 如图所示编写程序
 - 显示P1口的返回值。
 
- ![](./images/5qzwCGO.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/5qzwCGO.png)
 
 ### 参考程序
 请参考程序连接：

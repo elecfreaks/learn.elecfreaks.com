@@ -1,4 +1,4 @@
-# Safety Instructions
+﻿# Safety Instructions
 
 Before operating the Pico:ed Smart Cutebot kit, please read and familiarize yourself with the following precautions for use. Users should strictly observe all precautions and ensure that the Pico:ed Smart Cutebot kit is properly assembled and in proper working condition.
 Please follow these operating principles：

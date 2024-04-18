@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 2
 ---
 
@@ -10,7 +10,7 @@ sidebar_position: 2
 This course will guide students to create an AI alarm using the Nezha Inventor Kit V2 and AI Expansion Pack. With the face recognition function of the AI Lens, a rainbow light effect will be triggered and accompanied by a buzzer alarm when someone approaches the predefined range. Students will learn how to combine hardware and AI technology to create an interesting device with practical applications.
 
 
-![](./images/ai-accessories-pack-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-01.png)
 
 ## Teaching Objectives
 
@@ -53,41 +53,41 @@ Follow your own design scheme to make an AI alarm using building block materials
 
 ##### Assembly Steps
 
-![](./images/ai-accessories-pack-step-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-01-01.png)
 
-![](./images/ai-accessories-pack-step-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-01-02.png)
 
-![](./images/ai-accessories-pack-step-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-01-03.png)
 
-![](./images/ai-accessories-pack-step-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-01-04.png)
 
-![](./images/ai-accessories-pack-step-01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-01-05.png)
 
-![](./images/ai-accessories-pack-step-01-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-01-06.png)
 
-![](./images/ai-accessories-pack-step-01-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-01-07.png)
 
-![](./images/ai-accessories-pack-step-01-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-01-08.png)
 
-![](./images/ai-accessories-pack-step-01-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-01-09.png)
 
-![](./images/ai-accessories-pack-step-01-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-01-10.png)
 
-![](./images/ai-accessories-pack-step-01-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-01-11.png)
 
-![](./images/ai-accessories-pack-step-01-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-01-12.png)
 
-![](./images/ai-accessories-pack-step-01-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-01-13.png)
 
 **Assembly Completed**
 
-![](./images/ai-accessories-pack-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-01.png)
 
 ##### Hardware Connections
 
 Connect the Rainbow LED to J1 and the AI lens to the IIC port on Nezha breakout board. 
 
-![](./images/ai-accessories-pack-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-02.png)
 
 ##### Software Programming
 
@@ -95,19 +95,19 @@ Go to [makecode](https://makecode.microbit.org/#)
 
 Create New Project
 
-![](./images/ai-accessories-pack-case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-03.png)
 
 Click "Extensions"
 
-![](./images/ai-accessories-pack-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-04.png)
 
 Search with `planetx` and have it downloaded. 
 
-![](./images/ai-accessories-pack-case-01-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-07.png)
 
 Programming
 
-![](./images/ai-accessories-pack-case-01-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-08.png)
 
 
 Link: [https://makecode.microbit.org/_YmxW714WyPii](https://makecode.microbit.org/_YmxW714WyPii)
@@ -146,7 +146,7 @@ Each group has the opportunity to present the cases they have produced to the ot
 
 When the AI lens detects a human face it will automatically sound an alarm and the rainbow light ring will flash.
 
-![](./images/ai-accessories-pack-case-01.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01.gif)
 
 ### Reflection
 

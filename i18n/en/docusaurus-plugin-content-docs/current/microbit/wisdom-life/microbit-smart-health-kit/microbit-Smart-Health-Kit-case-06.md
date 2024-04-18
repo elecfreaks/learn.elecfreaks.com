@@ -17,14 +17,14 @@
 
 ## Picture
 ---
-![](./images/microbit-Smart-Health-Kit-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-02.png)
 
 ## Hardware Connection
 ---
 
 Connect the servo to P1 port on sensor:bit.
 
-![](./images/microbit-Smart-Health-Kit-case-06-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-06-03.png)
 
 ## Software Programming
 
@@ -32,13 +32,13 @@ Connect the servo to P1 port on sensor:bit.
 
 Click "Advanced" in the MakeCode to see more choices.
 
-![](./images/microbit-Smart-Health-Kit-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-04.png)
 
 
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "servo" in the dialogue box to download it.
 
-![](./images/microbit-Smart-Health-Kit-case-01-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-06.png)
 
 ***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -47,15 +47,15 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 ---
 Judge if "i" is true in forever block, if yes, judge if the result caculated by running time dividing 60000 is 0, if yes, set "i" in false.
 
-![](./images/microbit-Smart-Health-Kit-case-06-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-06-07.png)
 
 If "i" is false, program to show icon and start palying the buzzer.
 
-![](./images/microbit-Smart-Health-Kit-case-06-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-06-08.png)
 
 While button A being pressed, program to set the variable "i" in true and program to drive the servo.
 
-![](./images/microbit-Smart-Health-Kit-case-06-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-06-09.png)
 
 
 

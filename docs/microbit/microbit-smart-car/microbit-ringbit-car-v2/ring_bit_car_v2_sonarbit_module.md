@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: 专用超声波扩展模块
 ---
@@ -10,7 +10,7 @@ sidebar_label: 专用超声波扩展模块
 - Sonar:bit是一个3线宽压超声波模块，它的工作电压为3.0V-5V，3.3v或5V的单片机系统均能使用；它只需要3根线（G、V、S）就可以工作，比常规的4线超声波模块节省一个IO口。Sonar:bit量程为4cm~400cm，测量数据稳定准确，误差仅为±1cm。
 - 它可以使用扩展片与Ring:bit连接，为Ring:bit小车扩展超声波功能。
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_sonar_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_sonar_01.jpg)
 
 
 ## 淘宝购买链接
@@ -42,7 +42,7 @@ sidebar_label: 专用超声波扩展模块
 ## 外形与安装定位尺寸
 ---
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_sonar_02.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_sonar_02.jpg)
 
 ## 快速上手
 ---
@@ -51,15 +51,15 @@ sidebar_label: 专用超声波扩展模块
 
 - 首先使用铆钉将扩展亚克力连接到Ring:bit小车后板插口。
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_sonar_03.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_sonar_03.jpg)
 
 - 再将Sonar:bit使用铆钉连接到扩展亚克力板上方。
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_sonar_04.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_sonar_04.jpg)
 
 - 使用3pin连接线连接到Ring:bit扩展板，扩展完成。
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_sonar_05.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_sonar_05.jpg)
 
 ### 软件编程
 ---
@@ -69,7 +69,7 @@ sidebar_label: 专用超声波扩展模块
 - 在[makecode](https://makecode.microbit.org/)在线编辑器中编写一段超声波测距代码。
 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_sonar_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_sonar_06.png)
 
  程序代码链接：[https://makecode.microbit.org/_2PWdxzfe8Ew3](https://makecode.microbit.org/_2PWdxzfe8Ew3)
 

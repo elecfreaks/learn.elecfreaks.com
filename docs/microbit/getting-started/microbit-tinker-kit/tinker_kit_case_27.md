@@ -1,4 +1,4 @@
-
+﻿
 # 课程_27 招财猫
 ---
 - 用micro:bit和迷你舵机做一个属于你的招财猫，按下按钮就能让它的手臂摆动。由新加坡国立大学的Tim设计。
@@ -8,7 +8,7 @@
 ## 目标
 ---
 
-![](./images/IduYkyz.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/IduYkyz.gif)
 
 
  1. 做一个纸板猫猫，安装可摇动手臂。
@@ -30,7 +30,7 @@
 ## 步棸 1 – 选择一只猫
 ---
 
-![](./images/ujaWK5w.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/ujaWK5w.jpg)
 
 - 找一只猫的图片，将纸板按照图片样式裁剪。
 - 选你自己喜欢的猫猫~
@@ -38,7 +38,7 @@
 ## 步棸 2 – 连接电子件
 ---
 
-![](./images/cTOOFfU.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/cTOOFfU.jpg)
 
 连接以下零件至扩展板
 
@@ -51,7 +51,7 @@
 ## 步棸 3 – 将电子件与你的猫猫连接
 ---
 
-![](./images/hxcVuc4.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/hxcVuc4.jpg)
 
 
 1. 将迷你舵机安装在纸板猫猫的右边。
@@ -61,7 +61,7 @@
 ## 步棸 4 – micro:bit编程
 ---
 
-![](./images/HINCWOv.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/HINCWOv.png)
 
 
 1. 如上图在MakeCode页面中编写micro:bit代码。

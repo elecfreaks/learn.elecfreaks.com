@@ -6,7 +6,7 @@
 
 
 
-![](./images/04056_1.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04056_1.jpg)
 
 
 
@@ -48,14 +48,14 @@ SKU|EF04056
 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
 
-![](./images/smtcNoB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
 
 
 点击“Extensions”，在弹出的对话框中搜索“TM1637"，下载TM1637代码库。
 
 
 
-![](./images/04056_3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04056_3.png)
 
 
 
@@ -66,7 +66,7 @@ SKU|EF04056
 
 
 
-![](./images/04056_5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04056_5.png)
 
 
 
@@ -105,13 +105,13 @@ SKU|EF04056
 下载压缩包并解压[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_07.png)
 
 为了给七段四位数码管编程，我们需要添加nixietube.py。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的Octopus_MicroPython-master文件夹，从中选择nixietube.py添加进来。
 
-![](./images/05001_08.png)
-![](./images/05001_09.png)
-![](./images/04056_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04056_10.png)
 
 ### 步骤 2
 ### 参考程序

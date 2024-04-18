@@ -1,11 +1,11 @@
-# Case 04：Smart Desk Lamp
+﻿# Case 04：Smart Desk Lamp
 ## Purpose
 
 
  To build a desk lamp.
 
 
-![](./images/Ringbit_Bricks_Pack_case_en_04_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_04_01.png)
 
 
 ## Products Link
@@ -17,7 +17,7 @@
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_en_04_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_04_02.png)
 
 
 
@@ -29,39 +29,39 @@
 ## Bricks build-up
 
 
-![](./images/Ringbit_Bricks_Pack_step_04_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_01.png)
 
-![](./images/Ringbit_Bricks_Pack_step_04_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_02.png)
 
-![](./images/Ringbit_Bricks_Pack_step_04_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_03.png)
 
-![](./images/Ringbit_Bricks_Pack_step_04_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_04.png)
 
-![](./images/Ringbit_Bricks_Pack_step_04_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_05.png)
 
-![](./images/Ringbit_Bricks_Pack_step_04_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_06.png)
 
-![](./images/Ringbit_Bricks_Pack_step_04_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_07.png)
 
-![](./images/Ringbit_Bricks_Pack_step_04_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_08.png)
 
-![](./images/Ringbit_Bricks_Pack_step_04_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_09.png)
 
-![](./images/Ringbit_Bricks_Pack_step_04_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_10.png)
 
-![](./images/Ringbit_Bricks_Pack_step_04_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_11.png)
 
-![](./images/Ringbit_Bricks_Pack_step_04_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_12.png)
 
-![](./images/Ringbit_Bricks_Pack_step_04_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_13.png)
 
-![](./images/Ringbit_Bricks_Pack_step_04_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_14.png)
 
-![](./images/Ringbit_Bricks_Pack_step_04_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_15.png)
 
-![](./images/Ringbit_Bricks_Pack_step_04_16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_16.png)
 
-![](./images/Ringbit_Bricks_Pack_step_04_17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_17.png)
 
 A detailed assembly instruction can be downloaded via the below links:
 [Githubdownload ](https://github.com/elecfreaks/learn-cn/raw/master/microbitKit/ring_bit_bricks_pack/files/Ringbit_Bricks_Pack_step_04_v1.1.pdf)
@@ -81,7 +81,7 @@ A detailed assembly instruction can be downloaded via the below links:
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_en_04_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_04_03.png)
 
 
 
@@ -93,7 +93,7 @@ In order to programme for the Ring:bit Bricks Pack, we need to add an extension.
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_en_04_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_04_04.png)
 
 
 ***Note:*** If you met a tip indicating codebase will be deleted due to incompatibility, you may continue as the tips tell or build a new project.
@@ -106,7 +106,7 @@ Drag the `set strip to NeoPixel at pin with led as` to `on start`, set the pin a
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_en_04_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_04_05.png)
 
 
 
@@ -116,7 +116,7 @@ Drag the `set strip to NeoPixel at pin with led as` to `on start`, set the pin a
 Judge the returned value from "light level" in "forever" block, if the value is less than 10, set the strip color in white; if the value is over 15, set the strip color in black.
 
 
-![](./images/Ringbit_Bricks_Pack_case_en_04_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_04_06.png)
 
 
 ### Code

@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 2
 sidebar_label: CM4 XGO-lite robot kit V2
 ---
@@ -10,31 +10,31 @@ sidebar_label: CM4 XGO-lite robot kit V2
 
 XGO-lite V2 is a desktop Al robot dog with 15 degrees of freedom, equipped with a robotic arm and end grippers on the back, built-in Raspberry Pi CM4 module to realize AI edge computing applications, and uses 2.3KG.CM bus serial servo as the joint , which can realize omnidirectional movement, six-dimensional attitude control, attitude stability, multiple motion gaits and clamping tasks, and is equipped with IMU, joint position sensors and current sensors to feed back its own attitude, joint rotation angle and torque, which are used for internal algorithms and two-dimensional secondary development. Support cross-platform graphics, Python programming and ROS programming.
 
-![](./../images/cm4-xgo-index.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-index.png)
 
-![](./../images/cm4-xgo-products-01.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-products-01.gif)
 
 ## Functional description
 
 1. It can realize AI edge computing graphical programming, such as face detection, object classification, speech recognition and other common programs.
 
-![](./../images/cm4-xgo-products-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-products-06.png)
 
 
 2. It can realize omnidirectional movement, six-dimensional attitude control, multiple sports gaits and superposition of sports, and a built-in gyroscope to maintain body self-balance.
 
-![](./../images/cm4-xgo-products-05.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-products-05.gif)
 
 
 
 3. The product supports cross-platform graphics and Python programming cloud platform, and there are related supporting courses.
 
-![](./../images/cm4-xgo-products-04.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-products-04.gif)
 
 
 4. The servo servo has a joint angle readback function, allowing it to remember the joint position of each action and execute the action group you designed, which can be used for teaching programming.
 
-![](./../images/cm4-xgo-products-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-products-02.gif)
 
 ## Product Features
 
@@ -68,7 +68,7 @@ The main structure of XGO-lite V2 is composed of aluminum alloy structural parts
 
 - The 18650 2S battery is glued to the driver board by Velcro, and the charging hole is fixed on the bottom board.
 
-![](./../images/cm4-xgo-index-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-index-02.png)
 
 
 
@@ -76,7 +76,7 @@ The main structure of XGO-lite V2 is composed of aluminum alloy structural parts
 
 The AI module adopts the Raspberry Pi CM4 technology solution, equipped with a 2.0-inch IPS color display screen and 4 programmable buttons, a 5-megapixel camera, a digital microphone and a cavity speaker. It is an AI terminal with human-computer interaction capabilities. It can realize image recognition, face detection, speech recognition and other functions to help students learn AI knowledge.
 
-![](./../images/cm4-xgo-index-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-index-03.png)
 
 ## XGO-Lite V2 driver board
 
@@ -103,6 +103,6 @@ By adopting this servo, the motion control of the XGO-lite2 robot dog is more pr
 
 In short, the 6V 2.3KG plastic shell metal teeth 300-degree dual-axis TTL serial servo is a high-quality, high-performance servo, which is suitable for motion control of various robots and smart devices. In the XGO-lite2 robot dog, it provides strong support for the motion control of XGO-lite V2, improving the performance and application value of XGO-lite V2.
 
-![](./../images/microbit-xgo-lite2-introduce-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/microbit-xgo-lite2-introduce-07.png)
 
-![](./../images/microbit-xgo-lite2-introduce-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/microbit-xgo-lite2-introduce-08.png)

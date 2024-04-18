@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 10
 ---
 
@@ -34,7 +34,7 @@ sidebar_position: 10
 
 180°舵机连接到`P10`口。
 
-![](./images/case_04_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_04_01.png)
 
 ## 软件
 ---
@@ -47,11 +47,11 @@ sidebar_position: 10
 ### 步骤 1
 - 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](./images/iot_bit_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_11.png)
 
 - 为了给IoT物联网环境科学套件编程，我们需要添加一个扩展库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索“IOT"，然后点击下载这个代码库。
 
-![](./images/iot_bit_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_12.png)
 
 *注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -59,20 +59,20 @@ sidebar_position: 10
 
 在`当开机时`中插入`servo write`积木块，参数填入`0`复位舵机到0度关闭水阀。
 
-![](./images/case_04_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_04_02.png)
 
 ### 步骤 3
 
 在`无限循环`中插入`将...设为...`积木块。
 读取水位值赋值给`water level`变量，读取土壤湿度值赋值给`soil humidity`变量。
 
-![](./images/case_04_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_04_03.png)
 
 ### 步骤 4
 
 之后判断水缸的水位是否低于10，如果低于10，播放`ba ding`提醒向自动灌溉水箱注水。
 
-![](./images/case_04_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_04_04.png)
 
 ### 步骤 5
 
@@ -80,7 +80,7 @@ sidebar_position: 10
 
 如果低于30，打开阀门浇水，如果不低于30，就关闭阀门。
 
-![](./images/case_04_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_04_05.png)
 
 ### 程序
 

@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: micro:bit远程控制
 ---
@@ -17,7 +17,7 @@ sidebar_label: micro:bit远程控制
 
 
 
-![](./images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_01_01.png)
 
 
 
@@ -34,18 +34,18 @@ sidebar_label: micro:bit远程控制
 
 - 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](./images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_01_02.png)
 
 - 为了给天蓬智能车编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`tpbot`，然后点击下载这个代码库。
 
-![](./images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_01_03.png)
 
 ##示例程序
 ### 遥控端
 - `当开机时`设置micro:bit的LED矩阵显示设定图标，设置无线设置组为1。
 - 当按钮`A`被按下时，无线发送数字1，当按钮`B`被按下时，无线发送数字2，当按钮`C`被按下时，无线发送数字3。
 
-![](./images/TPBot_tianpeng_case_12_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_12_04.png)
 
 ### 程序
 - 请参考程序连接：[https://makecode.microbit.org/_CCkPrcgJVguX](https://makecode.microbit.org/_CCkPrcgJVguX)
@@ -76,7 +76,7 @@ sidebar_label: micro:bit远程控制
 - 在无限接收到数据时，将接受到的数据存入变量`i`中。
 - 在`无限循环`中，判断变量`i`的值，如果变量`i`等于1，则小车以30%的速度向左转，如果变量`i`等于2，则小车以30%的速度向右转，如果变量`i`等于3，则小车以30%的速度向前行驶。
 
-![](./images/TPBot_tianpeng_case_12_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_12_05.png)
 
 ### 程序
 - 请参考程序连接：[https://makecode.microbit.org/_Pet2HkRtaYhb](https://makecode.microbit.org/_Pet2HkRtaYhb)

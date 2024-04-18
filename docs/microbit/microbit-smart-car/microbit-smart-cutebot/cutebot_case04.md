@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 7
 sidebar_label: 随便跑跑
 ---
@@ -13,7 +13,7 @@ sidebar_label: 随便跑跑
 
 想象一下，如果Cutebot能够根据自己的想法选择前进、后退和转向，那将是多么有趣！我们可以通过编程来实现这个想法。
 
-![](./images/cutebot-case-04-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-04-01.png)
 
 ## 使用材料
 
@@ -29,11 +29,11 @@ sidebar_label: 随便跑跑
 
 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](./images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
 
 为了给Cutebot套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索`Cutebot`，然后点击下载这个代码库。
 
-![](./images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -41,7 +41,7 @@ sidebar_label: 随便跑跑
 
 在`当开机时`积木块中显示图标，选择一颗心；
 
-![](./images/case_04_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_04_01.png)
 
 ### 步骤 3
 
@@ -50,7 +50,7 @@ sidebar_label: 随便跑跑
 然后将左右轮速度设置为这两个变量。
 
 
-![](./images/case_04_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_04_02.png)
 
 
 ### 程序
@@ -83,7 +83,7 @@ sidebar_label: 随便跑跑
 
 小车随机前进，后退或者转向。
 
-![](./images/cutebot-case-04.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-04.gif)
 
 ## 思考
 

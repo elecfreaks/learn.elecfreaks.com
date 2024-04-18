@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 11
 ---
 
@@ -32,7 +32,7 @@ sidebar_position: 11
 
 板载蜂鸣器，已经连接到`P0`口。
 
-![](./images/case_05_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_05_01.png)
 
 ## 软件
 ---
@@ -45,11 +45,11 @@ sidebar_position: 11
 ### 步骤 1
 - 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](./images/iot_bit_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_11.png)
 
 - 为了给IoT物联网环境科学套件编程，我们需要添加一个扩展库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索“IOT"，然后点击下载这个代码库。
 
-![](./images/iot_bit_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_12.png)
 
 *注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -61,7 +61,7 @@ sidebar_position: 11
 
 如果`ultrasonic`变量小于30，播放一声`ba ding`提示请勿靠近。
 
-![](./images/case_05_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_05_02.png)
 
 
 

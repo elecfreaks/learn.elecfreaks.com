@@ -7,7 +7,7 @@
 
 
 
-![](./images/04086_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04086_01.png)
 
 
 
@@ -35,7 +35,7 @@ SKU| EF04086
 
 
 
-![](./images/04086_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04086_02.png)
 
 
 
@@ -48,12 +48,12 @@ SKU| EF04086
 
 
 
-![](./images/04086_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04086_03.png)
 
 
 硬件连线时，应使用配套螺丝刀将继电器端子上的螺丝拧松。
 
-![](./images/smart_home_kit_case_05_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/smart_home_kit_case_05_06.png)
 
 
 ### 参考程序
@@ -96,13 +96,13 @@ SKU| EF04086
 下载压缩包并解压[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/05001_07.png)
 
 为了给3V继电器编程，我们需要添加relay.py。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的Octopus_MicroPython-master文件夹，从中选择relay.py添加进来。
 
-![](./images/05001_08.png)
-![](./images/05001_09.png)
-![](./images/04086_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04086_10.png)
 
 ### 步骤 2
 ### 参考程序

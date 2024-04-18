@@ -1,8 +1,8 @@
-# case 04 Simple Alarm Box
+﻿# case 04 Simple Alarm Box
 
 ## Step 0: Pre-build Overview
 ---
-![](./images/mNlJj4l.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/mNlJj4l.png)
 
 In this project, we are going to create a simple alarm device which will alert the owner if someone has stolen his or her property. The red LED will blink when the crash sensor detects that the object has been taken away. Otherwise, the green LED will light up continuously. The OLED will display the status of the device.
 
@@ -35,41 +35,41 @@ In this project, we are going to create a simple alarm device which will alert t
 
 ### Step 1 – Components
 
-![](./images/208tSHD.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/208tSHD.jpg)
 
 Connect LED module to pin 1.
 
-![](./images/wGQpzcn.jpg)
-![](./images/9yVjSuC.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/wGQpzcn.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/9yVjSuC.jpg)
 
 Connect the USB cable to the micro:bit and then to the breakout board as shown in the picture above. Making sure that the colour of the wire follows the colour of the pins on the break out board, plug in the crash sensor to Pin 0 and the Octopus LED to Pin 8.
 Lastly, plug in the OLED as shown in the picture above. You should be able to plug it into any of the three rows.
 
-![](./images/LQkLriL.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/LQkLriL.jpg)
 
 ### Step 2 – Pre-coding
 
 We’ll need to add a package of code to be able to use our kit components. Click on Advanced in the Code drawer to see more code sections and look at the bottom of the Code Drawer for Add Package.
 
-![](./images/W9LqWIQ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/W9LqWIQ.jpg)
 
 This will open up a dialog box. Search for "tinker kit" and then click it to download this package.
 
-![](./images/JjXJhoP.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/JjXJhoP.png)
 
 Note: If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Projects file menu.
 
 ### Step 3 – Coding
 
-![](./images/yVtxeb2.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/yVtxeb2.jpg)
 
 After that, use blocks under the Tinkercademy section to initialize the OLED and Crash Sensor as shown in the picture
 
-![](./images/z6Gzehg.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/z6Gzehg.jpg)
 
 This part of the code allows the red LED to blink continuously. You can adjust the speed of blinking by changing the pause period.
 
-![](./images/6avB2r8.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/6avB2r8.jpg)
 
 Since there are only two conditions, we need only one ‘else-if’ statement. When the Crash Sensor is pressed, the green Octopus LED will light up. Or else, if no force is applied to the Crash Sensor, the red LED will blink continuously.
 
@@ -103,4 +103,4 @@ Or, you can download from the page below:
 
 Let’s download code into it and run it. Let’s find a book or something else and place it on the top of device, then see what will happen. We can see the green light illuminates as showed in the picture below. When we take away the book or something else you placed, you can see the red light starts to flash while the green light turned off.
 
-![](./images/wpyHSOF.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/wpyHSOF.jpg)

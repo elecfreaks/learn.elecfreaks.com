@@ -1,10 +1,10 @@
-# Case 09: Invading Detection Device
+﻿# Case 09: Invading Detection Device
 
 ## Introduction
 
 This is an intrusion detection device. When the ultrasonic sensor detects that someone is approaching, it will automatically turn on a red light and alarm through the buzzer on the micro:bit. If the ultrasonic sensor does not detect anyone, it will automatically turn on green light.
 
-![](./images/case_09_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_09_01.png)
 
 ## Quick Start
 
@@ -31,7 +31,7 @@ RJ11 wires × 3
 Connect the sonar:bit to J1, red LED to J2 and green LED to J3 on the Nezha expansion board as the picture shows.
 
 
-![](./images/case_09_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_09_03.png)
 
 ### Assembly Video
 
@@ -45,23 +45,23 @@ Video Reference: [https://youtu.be/jw9_wlNIiHw](https://youtu.be/jw9_wlNIiHw)
 ### Assembly Steps
 
 
-![](./images/case_step_09_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_09_01.png)
 
-![](./images/case_step_09_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_09_02.png)
 
-![](./images/case_step_09_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_09_03.png)
 
-![](./images/case_step_09_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_09_04.png)
 
-![](./images/case_step_09_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_09_05.png)
 
-![](./images/case_step_09_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_09_06.png)
 
-![](./images/case_step_09_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_09_07.png)
 
-![](./images/case_step_09_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_09_08.png)
 
-![](./images/case_step_09_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_09_09.png)
 
 
 
@@ -74,11 +74,11 @@ Video Reference: [https://youtu.be/jw9_wlNIiHw](https://youtu.be/jw9_wlNIiHw)
 
 Click "Advanced" in the MakeCode to see more choices.
 
-![](./images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](./images/case_01_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_11.png)
 
 ***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -86,7 +86,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 ### Code as below:
 
-![](./images/case_09_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_09_08.png)
 
 
 ### Reference
@@ -117,4 +117,4 @@ You may also download it directly below:
 ### Result
 While the sonar:bit detects the object, the red LED lights up and the buzzer alarms.
 
-![](./images/case-gif-09.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case-gif-09.gif)

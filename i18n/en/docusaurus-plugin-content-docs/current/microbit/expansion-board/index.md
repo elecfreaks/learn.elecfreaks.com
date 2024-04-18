@@ -5,7 +5,7 @@ sidebar_label: Expansion Board
 
 
 
-import expansion_board_Icon from './images/expansion-board-icon.png';
+
 
 # Expansion Board
 ---

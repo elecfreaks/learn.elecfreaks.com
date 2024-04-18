@@ -1,10 +1,10 @@
-# Octopus Temperature And Humidity Sensor(EF04019) 
+﻿# Octopus Temperature And Humidity Sensor(EF04019) 
 
 ## Introduction
 
  Temperature and humidity sensor is a module based on DHT11 digital temperature and humidity sensing element. It is sensitive to the ambient temperature and humidity changes and can be used for temperature alarm, humidity testing and other works.
 
- ![](./images/b4CeLwq.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/b4CeLwq.jpg)
 
 ## Products Link
 
@@ -33,7 +33,7 @@ Service Life|Long(Stable and durable)
 ## Outlook and Dimensions
 
 
- ![](./images/aQIDnpP.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/aQIDnpP.png)
 
 ## Quick to Start
 
@@ -43,23 +43,23 @@ Service Life|Long(Stable and durable)
 
 Take sensor:bit for example
 
- ![](./images/jxvVgcK.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/jxvVgcK.png)
 
 ### Add Package
  Click "Advanced"in the choice of the MakeCode to find more choices.
 
- ![](./images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/smtcNoB.png)
 
 
 
  Click "Extensions", search "iot"in the dialog box and then download the "iot-environment-kit".
 
- ![](./images/IAZrNAy.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/IAZrNAy.png)
 
 ### Program as the picture shows
  The current temperature value is showing on the micro:bit.
 
- ![](./images/BOELw4G.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/BOELw4G.png)
 
 ### Reference
 Links: [https://makecode.microbit.org/_E2kTxL2wp42J](https://makecode.microbit.org/_E2kTxL2wp42J)

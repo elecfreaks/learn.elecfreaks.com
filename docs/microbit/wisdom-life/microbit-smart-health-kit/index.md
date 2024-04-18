@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 5
 sidebar_label: 智慧医疗套装
 ---

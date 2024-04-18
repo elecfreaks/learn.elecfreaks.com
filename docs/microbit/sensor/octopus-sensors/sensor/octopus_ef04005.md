@@ -4,7 +4,7 @@
 ---
 - OCTOPUS实时时钟是一个时钟模块，可以通过使用DS1307时钟芯片实现年、月、日、小时的计数。
 
- ![](./images/gqYrhXw.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/gqYrhXw.jpg)
 
 ## 特性
 ---
@@ -37,25 +37,25 @@ SKU|EF04005
 
 ***以sensor:bit为例***
 
- ![](./images/WrOpBWb.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/WrOpBWb.png)
 
 ### 添加Package
 ---
 - 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
- ![](./images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
 
 - 点击“扩展”，在弹出的对话框中搜索“iot"，下载iot代码库。
 
- ![](./images/AaZxCEb.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/AaZxCEb.jpg)
 
- ![](./images/pVEXZaA.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/pVEXZaA.png)
 
 ### 如图所示编写程序
 ---
 - 当开机时设置秒钟数为“10”，循环显示秒。每60秒循环一次。
 
- ![](./images/pOLA97P.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/pOLA97P.png)
 
 ### 参考程序
 [https://makecode.microbit.org/_4aj9yohK5Rm1](https://makecode.microbit.org/_4aj9yohK5Rm1)
@@ -92,13 +92,13 @@ SKU|EF04005
 下载压缩包并解压[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_07.png)
 
 为了给RTC时钟模块编程，我们需要添加ds1307.py。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的Octopus_MicroPython-master文件夹，从中选择ds1307.py添加进来。
 
-![](./images/05001_08.png)
-![](./images/05001_09.png)
-![](./images/04005_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04005_10.png)
 
 ### 步骤 2
 ### 参考程序

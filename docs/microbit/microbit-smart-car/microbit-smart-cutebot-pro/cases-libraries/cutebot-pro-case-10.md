@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 10
 sidebar_label: case 10 自动巡线
 ---
@@ -9,7 +9,7 @@ sidebar_label: case 10 自动巡线
 
 本课程旨在通过制作智能巡线小车，让学生了解巡线传感器的工作原理。
 
-![](./images/cutebot-pro-case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-05-01.png)
 
 ## 教学目标
 
@@ -43,7 +43,7 @@ micro:bit × 1
 
 ### 示例代码
 
-![](./images/cutebot-pro-case-10-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-10-02.png)
 
 
 请参考程序连接：[https://makecode.microbit.org/S49762-13483-65120-42720](https://makecode.microbit.org/S49762-13483-65120-42720)

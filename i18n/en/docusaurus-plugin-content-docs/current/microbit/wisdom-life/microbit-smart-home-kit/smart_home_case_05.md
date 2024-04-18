@@ -1,6 +1,6 @@
-# case 05 Water Level Alarming
+﻿# case 05 Water Level Alarming
 
-![](./images/ll8HfKH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/ll8HfKH.jpg)
 ## Goal
 
 
@@ -21,22 +21,22 @@
 ### Water level alarming operation
  When micro：bit received signal of soil moisture sensor,relay will drive and supply power to lift pump for pumping redundant water.
 
-![](./images/OsjzuWx.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/OsjzuWx.png)
 
 ## Practical operation
 
 Preparing a tank and paste devices as below piture:
 
-![](./images/ztW3W42.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/ztW3W42.jpg)
 
 ## Hardware connect
 
 
-![](./images/LRBAV68.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/LRBAV68.png)
 
 While connecting the cables with the Relay, please use screwdrivers to loosen the screws on the Relay first to make sure the cables get connected properly.
 
-![](./images/smart_home_kit_case_05_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_05_06.png)
 
 
 
@@ -54,11 +54,11 @@ Edge Connector Data Sheet
 ### Step 1
 Go to MakeCode page, click Advanced in the code block and click on Extensions.
 
-![](./images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/2qCyzQ7.png)
 
 We need to add a new codebase for programming of smart home. Finding “Add Package” in the bottom of code block and click it. Then a message box will show up, search “smart home"， and download this new codebase.
 
-![](./images/QR2s7LD.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/QR2s7LD.png)
 
 ***Note:*** If there is a hint says some codebase will be deleted because of incompatibility. Don't worry. You could go ahead as the hint or build a new item in item menu bar.
 
@@ -66,18 +66,18 @@ We need to add a new codebase for programming of smart home. Finding “Add Pack
 
 Snap if statement into forever,set analog read pin P2 > 500, that's say when P2 > 500, the water level is higher than security line.
 
-![](./images/xa3pCF4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/xa3pCF4.png)
 
 ### Step 3
 
 Set start melody "ba ding" repeating once as alarming voice, set digital write pin P1 to 1 as driving the pumping.
 
-![](./images/zhdgMcI.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/zhdgMcI.png)
 
 ### Step 4
 Else，set digital write pin P1 to 0 as turning off the pump.
 
-![](./images/lfQVbVh.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/lfQVbVh.png)
 
 ### Programming
 
@@ -110,11 +110,11 @@ When the water level over security line,micro:bit will control lift pump to pump
 
 Pumping:
 
-![](./images/991WoLx.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/991WoLx.jpg)
 
 Stop pumping:
 
-![](./images/hPf3xtQ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/hPf3xtQ.jpg)
 
 ## Think
 

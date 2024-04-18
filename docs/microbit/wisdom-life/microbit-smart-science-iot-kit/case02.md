@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 8
 ---
 
@@ -32,7 +32,7 @@ OLED屏幕连接`IIC`接口。
 
 板载RTC时钟模块，已连接到`IIC`总线
 
-![](./images/case_02_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_02_01.png)
 
 ## 软件
 ---
@@ -45,11 +45,11 @@ OLED屏幕连接`IIC`接口。
 ### 步骤 1
 - 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](./images/iot_bit_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_11.png)
 
 - 为了给IoT物联网环境科学套件编程，我们需要添加一个扩展库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索“IOT"，然后点击下载这个代码库。
 
-![](./images/iot_bit_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_12.png)
 
 *注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -61,7 +61,7 @@ OLED屏幕连接`IIC`接口。
 
 在它之后插入设定RTC时钟积木块，设置为当前时间的小时和分钟数。（以14:15为例）
 
-![](./images/case_02_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_02_02.png)
 
 ### 步骤 2
 
@@ -71,7 +71,7 @@ OLED屏幕连接`IIC`接口。
 
 插入`insert newline`积木块，另起一行。
 
-![](./images/case_02_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_02_03.png)
 
 ### 步骤 3
 再之后插入，`show string`积木块，`show number`积木块。
@@ -80,7 +80,7 @@ OLED屏幕连接`IIC`接口。
 
 暂停1秒。
 
-![](./images/case_02_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_02_04.png)
 ### 程序
 
 请参考程序连接：[https://makecode.microbit.org/_hMFEs1F7j3VF](https://makecode.microbit.org/_hMFEs1F7j3VF)

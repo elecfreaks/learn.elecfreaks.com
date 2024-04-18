@@ -1,6 +1,6 @@
-# case 17 Pitch Perfect
+﻿# case 17 Pitch Perfect
 
-![](./images/3UvMa0h.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/3UvMa0h.jpg)
 
 Do you think your ears are pitch perfect, then try my game. Or even better, create one!
 
@@ -15,7 +15,7 @@ Do you think your ears are pitch perfect, then try my game. Or even better, crea
 - Make something with a ADKeypad, OLED screen and the buzzer.
 - Learn the if-else statement functionality.
 
-![](./images/lNJbWPG.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/lNJbWPG.jpg)
 
 
 ## Materials Needed
@@ -41,19 +41,19 @@ Plug in the ADKeypad to Pin 1, making sure that the colour of the wire and break
 
 ### Step 2:
 
-![](./images/CmT2k2T.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/CmT2k2T.png)
 
 We will need to add a package to the code editor to use the kit components. Click on the advanced in the micro bit text editor and you will see a section that says Add Package.
 
 This will open up a dialog box. Search for OLED. Click on the search icon or press enter, then select the oled-ssd1306.
 
-![](./images/hykIyTd.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/hykIyTd.png)
 
 Note: If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the  Projects file menu.
 
 ### Step 3:
 
-![](./images/ZGzxDCO.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/ZGzxDCO.png)
 
 First, you have to initialise the OLED screen to a height of 64 and width of 128 so to run the screen in the proper sizing.
 
@@ -63,7 +63,7 @@ You need to write a simple instruction on how to start. Thus, a simple sentence 
 
 ### Step 4:
 
-![](./images/WmBJnOV.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/WmBJnOV.png)
 
 Since at step 3 we wrote that you need to press A to start, we need to write a condition for it. A condition basically means a requirement for a program to start loading its instructions. Thus, an if-else statement of the A button being pressed would suffice. Moreover, this will be nested on a forever bracket.
 
@@ -77,7 +77,7 @@ After that, I will put in a timeout so the user can process the pitch to the cor
 
 If you are wondering, why the intialise OLED display and show string block is repeated, it is because it would simulate a refresh in web browser. If you do not initalise the display, the text would just be brought down instead of new text being created.
 
-![](./images/8abBXgw.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/8abBXgw.png)
 
 ### Step 6:
 
@@ -91,15 +91,15 @@ To let the user know if they got the correct answer, you can display of an image
 
 Repeat this step so you can have many tests to play with!
 
-![](./images/CqWtEwD.png)
-![](./images/jl3ogKg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/CqWtEwD.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/jl3ogKg.png)
 
 ### Step 7:
 
 Once you are contempted with your tests, you can end the game by showing the latest scores. You can display in the OLED screen “Your score is:” with the variable score shown. Put a smiley for fun sake.
 And you are done! Enjoy the game.
 
-![](./images/a4LAQac.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/a4LAQac.png)
 
 If you don't want to type these code by yourself, you can directly download the whole program from the link below.
 

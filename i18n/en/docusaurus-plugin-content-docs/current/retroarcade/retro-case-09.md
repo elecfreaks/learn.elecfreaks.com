@@ -1,4 +1,4 @@
-# Aircraft battle (2）
+﻿# Aircraft battle (2）
 
 ## Purpose
 
@@ -8,7 +8,7 @@ Make an airplane battle mini-game using accelerometers to control the flight of 
 
 1 x  [ELECFREAKS Retro Makecode Arcade For Education](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
 
-![retro-case-01-01.png](./images/retro-case-01-01.png)
+![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-01.png)
 
 ## Software
 
@@ -23,39 +23,39 @@ Program of  [Aircraft battle(1)]: [https://makecode.com/_75rf2EgEPTW4](https://m
 Since the accelerometer is used in this case, you need to add the corresponding extension library according to the following steps.
 Open `Advanced`, and select `Extensions`.
 
-![retro-case-09-07.png](./images/retro-case-09-07.png)
+![retro-case-09-07.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-09-07.png)
 
 Search in the pop-up window `controller`, and select `controller Extended Library`.
 
-![retro-case-09-08.png](./images/retro-case-09-08.png)
+![retro-case-09-08.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-09-08.png)
 
 When the addition is complete, three building block selection modules appear in the module selection area.
 
 Current hardware using light sensors, accelerometers, vibration motors related blocks can be found in the expansion plug-in section of the controller.
 
-![retro-case-09-09.png](./images/retro-case-09-09.png)
+![retro-case-09-09.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-09-09.png)
 
 `New sprite`, To prevent the sprite from moving out of the screen, `set the sprite to be within screen range`, `set scene effects to star map`.
 
-![retro-case-09-01.png](./images/retro-case-09-01.png)
+![retro-case-09-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-09-01.png)
 
 In `infinite loop`, map`the value of x-axis returned by accelerometer from-800 to 160 to 0 and store it in variable x`, map`the value of y-axis returned by accelerometer from -1023 to 1023 to 0 to 120 and store it in variable y`, then `set the position of x-axis and y-axis of warplane to the value of variable x and the value of variable y respectively`. (The range of the accelerometer x-axis and y-axis return values is -1023 to 1023)
 
-![retro-case-09-06.png](./images/retro-case-09-06.png)
+![retro-case-09-06.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-09-06.png)
 
-![retro-case-09-02.png](./images/retro-case-09-02.png)
+![retro-case-09-02.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-09-02.png)
 
 `When the game is played every 1000ms`, then `shoot the projectile down from a random location at the top of the X screen at a speed of 50`, `set ejector type`, `-1 life when touching the enemy`, and automatically `destroy the enemy`.
 
-![retro-case-09-03.png](./images/retro-case-09-03.png)
+![retro-case-09-03.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-09-03.png)
 
 `When the game is played every 300ms`, `launch projectiles from the sprite with an x-axis speed of 0 and a y-axis speed of -70`, `projectiles set to flame effects`, `when projectiles and enemies collide`, `destroy projectiles and enemies`, `score+1`.
 
-![retro-case-09-04.png](./images/retro-case-09-04.png)
+![retro-case-09-04.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-09-04.png)
 
 Complete program:
 
-![retro-case-09-05.png](./images/retro-case-09-05.png)
+![retro-case-09-05.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-09-05.png)
 
 ### Procedures
 

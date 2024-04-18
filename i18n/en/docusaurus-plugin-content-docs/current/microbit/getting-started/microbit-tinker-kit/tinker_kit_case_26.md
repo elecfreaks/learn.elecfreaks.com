@@ -1,4 +1,4 @@
-# case 26 Coin Sorter with micro:bit
+﻿# case 26 Coin Sorter with micro:bit
 
 ## Coin Sorter with micro:bit
 ---
@@ -11,9 +11,9 @@
 
 ## Goals
 ---
-![](./images/L56NjeQ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/L56NjeQ.jpg)
 
-![](./images/J1bgV6r.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/J1bgV6r.jpg)
 
 
  1. Make a simple mechanical coin sorter.
@@ -42,25 +42,25 @@
 ## Hardware Step 1 – Creating the slots
 ---
 
-![](./images/Q3tDRhB.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Q3tDRhB.jpg)
 
-![](./images/05Q8SXV.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/05Q8SXV.jpg)
 
-![](./images/2Tmoiuy.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/2Tmoiuy.jpg)
 
-![](./images/nC0LL49.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/nC0LL49.jpg)
 
-![](./images/R4RXKnm.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/R4RXKnm.jpg)
 
-![](./images/3w0aAyr.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/3w0aAyr.jpg)
 
-![](./images/SCXUpJZ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/SCXUpJZ.jpg)
 
-![](./images/GKJzfj0.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/GKJzfj0.jpg)
 
-![](./images/WLSbqoZ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/WLSbqoZ.jpg)
 
-![](./images/S3hOX2t.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/S3hOX2t.jpg)
 
 
 1. Take a 5x25cm piece of cardboard (A) and draw a line 0.5cm away from the long edge of the cardboard.
@@ -78,11 +78,11 @@
 ### Step 2 – Creating the front piece
 
 
-![](./images/9tkKICy.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/9tkKICy.jpg)
 
-![](./images/jNQhPOn.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/jNQhPOn.jpg)
 
-![](./images/TEL40aR.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/TEL40aR.jpg)
 
 
 
@@ -96,9 +96,9 @@
 ### Step 3 – Creating the side piece
 
 
-![](./images/9Icgz5E.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/9Icgz5E.jpg)
 
-![](./images/Zj3PcbH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Zj3PcbH.jpg)
 
 
 1. Take a piece of 5x19cm piece of cardboard (D).
@@ -110,13 +110,13 @@
 ### Step 4 – Setting up the electronics
 
 
-![](./images/90FlPQV.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/90FlPQV.jpg)
 
-![](./images/78kEhmp.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/78kEhmp.jpg)
 
-![](./images/ag4LQ5b.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/ag4LQ5b.jpg)
 
-![](./images/eJt5gfu.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/eJt5gfu.jpg)
 
 
 1. Solder one male header jumper wire to a crocodile clip as shown. Insulate the exposed wire using either electrical tape or shrink tubing.
@@ -132,13 +132,13 @@
 
 ### Step 5 – Putting it altogether
 
-![](./images/yfmxLC4.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/yfmxLC4.jpg)
 
-![](./images/3ws35Ua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/3ws35Ua.jpg)
 
-![](./images/RCFGNSH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/RCFGNSH.jpg)
 
-![](./images/VHBLhJG.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/VHBLhJG.jpg)
 
 
 1. Paste the 6 5x5cm pieces of cardboard on B on its reference lines.
@@ -163,11 +163,11 @@
 ## Software Step 1 – Calibrating the ultrasound
 ---
 
-![](./images/OxqQe38.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/OxqQe38.png)
 
-![](./images/sede4dL.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/sede4dL.png)
 
-![](./images/ckIDXrX.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/ckIDXrX.png)
 
 
 - Every ultrasound is different and the environmental conditions at your place might be different from mine so the values I use might be different from yours. Calibration helps you find what values you should be using in your situation.
@@ -184,9 +184,9 @@
 ### Step 2 – Sum of the value of the coins
 
 
-![](./images/tCtEjj1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/tCtEjj1.png)
 
-![](./images/fy5hbL8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/fy5hbL8.png)
 
 1. Record the min and max values from above as variables.
 2. Initialise the sum of the coins to be 0.

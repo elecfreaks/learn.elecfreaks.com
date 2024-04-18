@@ -1,10 +1,10 @@
-# Case 75: The Magic Painter
+﻿# Case 75: The Magic Painter
 
 ## Introduction
 
 In nature, we usually see many beautiful shapes with regular patterns, such as snowflakes, plum blossoms, beehives, etc. When we see these beautiful shapes, we will admire the charm of nature and at the same time, we will want to draw them. Today we will make a piece that can draw many beautiful and regular shapes.
 
-![](./images/75_1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/75_1.png)
 
 ### Materials Required
 
@@ -28,37 +28,37 @@ Bricks × n
 
 Components Details
 
-![](./images/75_2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/75_2.png)
 
 Build it as the assembly steps suggest:
 
-![](./images/75_3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/75_3.png)
 
-![](./images/75_4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/75_4.png)
 
-![](./images/75_5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/75_5.png)
 
-![](./images/75_6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/75_6.png)
 
-![](./images/75_7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/75_7.png)
 
-![](./images/75_8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/75_8.png)
 
-![](./images/75_9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/75_9.png)
 
-![](./images/75_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/75_10.png)
 
-![](./images/75_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/75_11.png)
 
-![](./images/75_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/75_12.png)
 
-![](./images/75_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/75_13.png)
 
 ## Connection Diagram
 
 We need to connect the Motors to the M1 and M4 ports， and the UV sensor to the J1 port on Nezha expansion board.
 
-![](./images/75_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/75_14.png)
 
 
 ##  MakeCode Programming
@@ -69,7 +69,7 @@ Click “Advanced” in the MakeCode drawer to see more choices.
 
 
 
-![](./images/49_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_10.png)
 
 
 
@@ -77,13 +77,13 @@ We need to add a package for programming. Click “Extensions” at the bottom o
 
 
 
-![](./images/49_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_11.png)
 
 
 
 We need to add a package for programming. Search with “PlanetX” in the dialogue box and click to download it.
 
-![](./images/49_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_12.png)
 
 
 
@@ -93,7 +93,7 @@ We need to add a package for programming. Search with “PlanetX” in the dialo
 
 The program is displayed below:
 
-![](./images/75_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/75_15.png)
 
 Link: https://makecode.microbit.org/_dmJ3isbKLLYV
 
@@ -122,4 +122,4 @@ You may also download it directly:
 
 We can see that when the UV intensity changes, the graphics drawn by the painter are changed, and you can also improve the program to draw more graphics.
 
-![](./images/75_16.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/75_16.gif)

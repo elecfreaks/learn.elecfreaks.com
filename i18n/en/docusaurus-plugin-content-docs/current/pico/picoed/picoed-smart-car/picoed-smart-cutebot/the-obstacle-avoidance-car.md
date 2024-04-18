@@ -5,7 +5,7 @@ Make [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-smart-cut
 ## Hardware Installation
 Insert the ultrasonic sensor into the connector of **Sonar**.
 **Note: When you install the ultrasonic sensor, you cannot plug it into the IIC interface. If you plug it into the IIC interface, the Cutebot won't work and the ultrasonic sensor heats up. **
-![](./images/pico-cutebot-case-07-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-smart-cutebot/images/pico-cutebot-case-07-01.png)
 
 ## Programming Preparation
 Please refer to: [Preparing Programming Environment](http://www.elecfreaks.com/learn-en/pico-ed-kit/pico-ed-cutebot-kit/preparation-for-the-programming.html)

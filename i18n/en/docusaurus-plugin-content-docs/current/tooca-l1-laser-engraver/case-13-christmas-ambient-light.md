@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 24
 sidebar_label: Christmas ambient light
 ---

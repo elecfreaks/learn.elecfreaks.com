@@ -1,10 +1,10 @@
-# Case 04: Mini Table Lamps
+﻿# Case 04: Mini Table Lamps
 
 ## Introduction
 
 Use micro:bit to make a mini desk lamp, and control the LED light to turn on or off through a crash sensor.
 
-![](./images/case_04_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_04_01.png)
 
 ## Quick Start
 
@@ -31,7 +31,7 @@ RJ11 wires × 2
 Connect the crash sensor to J1 and the yellow LED to J2 on the Nezha expansion board as the picture shows.
 
 
-![](./images/case_04_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_04_03.png)
 
 ### Assembly Video
 
@@ -44,23 +44,23 @@ Video reference:[https://youtu.be/BBP1Nx6t090](https://youtu.be/BBP1Nx6t090)
 
 ### Assembly Steps
 
-![](./images/case_step_04_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_04_01.png)
 
-![](./images/case_step_04_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_04_02.png)
 
-![](./images/case_step_04_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_04_03.png)
 
-![](./images/case_step_04_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_04_04.png)
 
-![](./images/case_step_04_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_04_05.png)
 
-![](./images/case_step_04_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_04_06.png)
 
-![](./images/case_step_04_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_04_07.png)
 
-![](./images/case_step_04_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_04_08.png)
 
-![](./images/case_step_04_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_04_09.png)
 
 
 
@@ -69,11 +69,11 @@ Video reference:[https://youtu.be/BBP1Nx6t090](https://youtu.be/BBP1Nx6t090)
 ### Step 1
 Click "Advanced" in the MakeCode to see more choices.
 
-![](./images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](./images/case_01_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_11.png)
 
 ***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -81,7 +81,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 ### Code as below:
 
-![](./images/case_04_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_04_10.png)
 
 
 ### Reference
@@ -113,4 +113,4 @@ You may also download it directly below:
 The crash sensor controlls the on/off of the LED.
 
 
-![](./images/case-gif-04.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case-gif-04.gif)

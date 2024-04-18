@@ -1,4 +1,4 @@
-# 舵机和电机的使用
+﻿# 舵机和电机的使用
 
 ## 硬件连接
 
@@ -8,7 +8,7 @@
 
 将180°舵机连接到S1接口，将360度舵机连接到S2接口，将连续旋转舵机连接到S3接口。
 
-![](./images/servo-and-motor.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/servo-and-motor/images/servo-and-motor.png)
 
 
 
@@ -17,11 +17,11 @@
 
 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
-![](./images/03444_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/servo-and-motor/images/03444_05.png)
 
 为了给哪吒扩展板编程，我们需要添加一个扩展库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框，搜索“哪吒”，然后点击下载这个代码库。
 
-![](./images/03444_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/servo-and-motor/images/03444_06.png)
 
 *注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -32,7 +32,7 @@
 
 ### 如图所示编写程序
 
-![](./images/03444_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/servo-and-motor/images/03444_08.png)
 
 
 ### 参考程序
@@ -73,7 +73,7 @@
 ### 如图所示编写程序
 
 
-![](./images/03444_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/servo-and-motor/images/03444_10.png)
 
 
 ### 参考程序

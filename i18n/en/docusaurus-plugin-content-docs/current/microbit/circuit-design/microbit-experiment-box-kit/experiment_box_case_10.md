@@ -1,4 +1,4 @@
-# case 10 rainbow led ring
+﻿# case 10 rainbow led ring
 
 ## Introduction ##
 
@@ -10,14 +10,14 @@
 
 ## Hardware Connect ##
 
-![](./images/zm91HVe.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/zm91HVe.png)
 
  Connect circuit as above picture and put 2 AAA batteries into batteries pack.
 
 
 ## Principles of Circuits ##
 
-![](./images/plRaylG.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/plRaylG.png)
 
  The GND of slot on micro:bit is into innards of batteries' GND to generate the current loop.
 
@@ -28,7 +28,7 @@
  The first pixel receives 24bits of data through the DIN (Data IN) port, while the rest of the data is sent to the following pixels through the DOUT (Data OUT) port. With this automatic transformation forwarding technique, only the speed of data transmission is affected, not the quantity of data transmitted.
  The experiment box included a set of RGB Rainbow LED（8 LEDs）.
 
-![](./images/vCBPKXo.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/vCBPKXo.png)
 
 ***Note:*** Please note the positive and the negative when you are connecting.
 
@@ -40,27 +40,27 @@
 
  Click on "New Project" and set a new Project.
 
-![](./images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/t34k5Zb.png)
 
  Click Advanced for more code blocks and find the Extensions at the bottom of the column.
 
-![](./images/Zg0fO6x.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/Zg0fO6x.png)
 
  Search "neopixel" and add the neopixel.
 
-![](./images/pqB776X.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/pqB776X.png)
 
 ### Step 2
  Under the on start block, initialize the LED, set pin to P0 with 8 LEDs and use the RGB colour.
  Then, set the rainbow from 1 to 360.
 
-![](./images/aamdVlu.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/aamdVlu.png)
 
 ### Step 3
  Now the colour of the LED has been set, but we need a show block to make it works.
  Next, set rotate pixels to rotate the colour of the LED in a ring.
 
-![](./images/5juGvN5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/5juGvN5.png)
 
 ### Program
 
@@ -91,7 +91,7 @@
 ## Result
 
  We can see a rainbow rotates on the LED ring.
- ![](./images/23vhDKK.gif)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/23vhDKK.gif)
 
 ## Think
 

@@ -5,7 +5,7 @@ sidebar_label: 三色LED
 
 # 三色LED
 
-![](./images/pico-ed-starter-kit-case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-05-01.png)
 
 ## 简介
 三色 LED 是 LED 灯的一种。它能够发出红、绿、蓝三种不同颜色的光线。在这节课程中，我们将让 RGB LED 在红、绿、蓝三种颜色之间渐变转换。
@@ -21,7 +21,7 @@ sidebar_label: 三色LED
 3 × 100欧姆电阻
 若干杜邦线
 
-![](./images/pico-ed-starter-kit-case-05-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-05-02.png)
 
 
 ## 主要元件介绍
@@ -29,9 +29,9 @@ sidebar_label: 三色LED
 ### 三色 LED
 三色 LED 是 LED 的一种，把红色 LED、绿色 LED、蓝色 LED 集合成一个元件，就是 RGB LED。我们都知道，光的三原色分别为红色、绿色、蓝色，利用这三种颜色进行不同组份地组合，能够合成出万物所有的颜色。同样，利用 RGB LED 进行不同亮度的组合，能够形成无数种颜色。
 
-![](./images/pico-ed-starter-kit-case-05-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-05-03.png)
 
-![](./images/pico-ed-starter-kit-case-05-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-05-04.png)
 
 三色 LED分为两种类型，分别为共阴极与共阳极：共阴极的 RGB LED 公共端接 GND；共阳极的 RGB LED 公共端接 VCC。在本实验中，我们选用共阴极的三色 LED。
 
@@ -44,11 +44,11 @@ sidebar_label: 三色LED
 
 2.将GND与扩展板GND通过面包板连接。
 
-![](./images/pico-ed-starter-kit-case-05-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-05-05.png)
 
 连接完成后如图：
 
-![](./images/pico-ed-starter-kit-case-05-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-05-06.png)
 
 ## 程序编程
 编程环境准备请参考：[编程环境介绍](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
@@ -151,7 +151,7 @@ while True:
 ## 实验结果
 按下按钮 A，LED 发出红光， 按下按钮 B，LED 发出绿光， 同时按下按钮 A 和 B， LED 发出蓝光。
 
-![](./images/pico-ed-starter-kit-case-05.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-05.gif)
 
 
 ## 思考

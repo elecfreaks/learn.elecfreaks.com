@@ -1,11 +1,11 @@
-# Sonar:bit
+﻿# Sonar:bit
 
 ## Introduction
 
 - [Sonar:bit](https://www.elecfreaks.com/ring-bit-car-accessories-sonar-bit-tracking-module-and-led-light-bar.html) is a 3-wire ultrasonic module with the working voltage between 3-5V.  It is available to be used to 3.3V or 5V micro-controller system. With only one 3-wire(GVS) cable, it can work properly. Compared to the normal 4-wire ultrasonic module, it has saved one IO port. The measurement range of sonar:bit is 4cm-400cm. It can output stable and accurate measurement data with ±1cm tolerance only.
 - It can connect to the Ring:bit with an expansion board.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_sonar_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_sonar_01.jpg)
 
 ## Characteristics
 
@@ -30,7 +30,7 @@
 ## Outlook
 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_sonar_02.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_sonar_02.jpg)
 
 ## Quick to Start
 
@@ -39,15 +39,15 @@
 
 - Connect the acrylic transition board to the back board with the rivets.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_sonar_03.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_sonar_03.jpg)
 
 - Connect the Sonar:bit to the other side of the acrylic transition board with rivets.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_sonar_04.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_sonar_04.jpg)
 
 - Connect the Sonar:bit to the Ring:bit breakout board with a 3-pin wire.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_sonar_05.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_sonar_05.jpg)
 
 ### Software Programming
 
@@ -57,7 +57,7 @@
 - Programme to measure the distance with ultrasonic in [makecode](https://makecode.microbit.org/) on-line editor.
 
 
-![](./images/ring_bit_v2_sonar_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_v2_sonar_06.png)
 
 Links: [https://makecode.microbit.org/_RVrYuDaT9acp](https://makecode.microbit.org/_RVrYuDaT9acp)
 

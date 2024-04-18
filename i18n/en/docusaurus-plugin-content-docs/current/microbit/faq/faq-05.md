@@ -1,4 +1,4 @@
-# FAQ 05
+﻿# FAQ 05
 ## Q: What do I need to pay attention to when using IOTbit to link MQTT?
 
 A:Please follow the steps in the wiki documentation, link to the documentation:[How to Apply with HiveMQ](http://www.elecfreaks.com/learn-en/microbitKit/iot_kit/IOT_MQTT.html).

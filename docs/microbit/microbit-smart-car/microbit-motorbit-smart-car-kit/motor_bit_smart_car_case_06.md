@@ -1,4 +1,4 @@
-# 案例06 蓝牙控制
+﻿# 案例06 蓝牙控制
 
 基于motor:bit小车，使用手持移动设备通过蓝牙操控小车前进后退转弯。
 
@@ -22,7 +22,7 @@
 
 下图为D-Pad控制手柄事件表。
 
-![](./images/hrxqpWo.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/hrxqpWo.jpg)
 
 ## 软件环境
 ---
@@ -34,15 +34,15 @@
 
 1. 安卓设备：在Google play下载bitty controller应用软件；
 
-![](./images/G5QfQbn.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/G5QfQbn.jpg)
 
 2. IOS 设备：在 APP store 下载bitty controller应用软件。
 
-![](./images/TMzv3zK.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/TMzv3zK.png)
 
 -  APP界面如图所示：
 
-![](./images/ZvHqv7T.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/ZvHqv7T.png)
 
 
 **注意：** 因IOS系统限制，在IOS系统下连接蓝牙需要使用其他软件。
@@ -53,23 +53,23 @@
 
 开启micro:bit的蓝牙模式，需要同时按下按键A＋B然后按一下reset键，5X5点阵会显示 **PAIRING MODE！** 和一个特殊符号，特殊符号每个microbit都不同，为蓝牙的特殊标识符。
 
-![](./images/ceES90z.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/ceES90z.jpg)
 
 在IOS设备或者Android设备配对连接蓝牙后，micro:bit点阵显示屏显示一个对勾√。
 
-![](./images/5luUYc7.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/5luUYc7.jpg)
 
 ### 步骤3：添加Package
 
 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](./images/motor_bit_case_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_01.png)
 
 为了给蓝牙和Robit编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索“bluetooth"和“motorbit”，然后点击下载这两个代码库。
 
-![](./images/motor_bit_case_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_02.png)
 
-![](./images/motor_bit_case_06_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_06_03.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -79,7 +79,7 @@
 
 同时为了防止误操作导致不良后果，在蓝牙连接和断开的时候设置电机转速为0。
 
-![](./images/motor_bit_case_06_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_06_04.png)
 
 设置事件发生积木块，事件发生来源为`MES_DPAD_CONTROLLER_ID`，也就是手机APP的手柄控制板。
 
@@ -89,7 +89,7 @@
 
 如果信息事件为`MES_DPAD_BUTTON_A_UP`，查询蓝牙事件信息表，得知信息为左方向键上箭头抬起，故设置运行状态为0(停止状态)，同时设置左右轮电机全部停止。
 
-![](./images/motor_bit_case_06_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_06_05.png)
 
 在flag为1前进状态下的时候，如果事件信息为`MES_DPAD_BUTTON_3_DOWN`，查询蓝牙事件信息表，得知信息为右方向键右按钮按下，故右转
 
@@ -97,17 +97,17 @@
 
 如果在flag为1前进状态下的时候，收到的事件信息不为以上两种，则设置速度为100全速前进。
 
-![](./images/motor_bit_case_06_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_06_06.png)
 
 ### 步骤5：蓝牙连接
 
 将micro:bit设置为蓝牙模式后，连接蓝牙，在APP中点击scan获取micro:bit板。
 
-![](./images/rLS50GM.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/rLS50GM.png)
 
 点击获取到的micro:bit板，进入手柄模式，如下图所示。
 
-![](./images/gHhTTr9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/gHhTTr9.png)
 
 尽情操控吧！
 

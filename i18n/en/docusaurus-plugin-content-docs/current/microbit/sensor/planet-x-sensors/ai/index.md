@@ -10,7 +10,7 @@ sidebar_label: AI Lens
 
 The AI Lens is able to achieve the functions of face recognition, balls tracking, cards recognition and characteristics acquisition.
 
-![](./images/05035_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_01.png)
 
 ## Products Link
 

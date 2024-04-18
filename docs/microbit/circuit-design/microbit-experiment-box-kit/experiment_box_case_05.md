@@ -1,4 +1,4 @@
-# 软件编程案例05：光敏传感器
+﻿# 软件编程案例05：光敏传感器
 
 ## 简介 ##
 ---
@@ -6,13 +6,13 @@
 
 ## 硬件连线图 ##
 ---
-![](./images/YlThssw.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/YlThssw.png)
 
 - 使用香蕉线按如上图连接电路，电池盒内放入2颗7号AAA电池。
 
 ## 电路原理图 ##
 ---
-![](./images/Baf6k1C.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/Baf6k1C.png)
 
 - micro:bit插槽的GND端和电池GND相连内部，形成电流回路。
 
@@ -22,7 +22,7 @@
 - 光敏二极管，又叫光电二极管（英语：photodiode ）是一种能够将光根据使用方式，转换成电流或者电压信号的光探测器。管芯常使用一个具有光敏特征的PN结，对光的变化非常敏感，具有单向导电性，而且光强不同的时候会改变电学特性，因此，可以利用光照强弱来改变电路中的电流。
 - 在实验箱板子上我们配备了1颗光敏二极管。左边黑色端口为负极，右边红色端口为正极。
 
-![](./images/E1kmQUI.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/E1kmQUI.jpg)
 
 *- 连线时注意正负极。*
 
@@ -34,7 +34,7 @@
 
 - 点击New Project按钮，新建一个项目。
 
-![](./images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/t34k5Zb.png)
 
 ### 步骤 2
 
@@ -42,14 +42,14 @@
 - 当值大于100时（光线足够亮）。
 - 清空屏幕。
 
-![](./images/Ll1nPCC.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/Ll1nPCC.png)
 
 ### 步骤 3
 
 - 当值不大于100时（光线很暗）。
 - micro:bit 5X5 点阵显示屏显示一颗心。
 
-![](./images/5WMWzWe.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/5WMWzWe.png)
 
 ### 程序
 

@@ -13,7 +13,7 @@ Experiment box板载温度传感器、光线传感器、舵机、电机、LED等
 使用microbit图形化编程来驱动这些元件，同时可以在没有microbit的情况下学习基础的电路设计。
 编程设计或者电路设计，两者如何选择，这都看你！
 
-![](./images/yg4f3xe.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/yg4f3xe.jpg)
 
 ## 目录
 

@@ -1,4 +1,4 @@
-# 案例03：便携温度计
+﻿# 案例03：便携温度计
 
 ## 目的
 ---
@@ -12,7 +12,7 @@
 
 
 
-![](./images/smart_coding_kit_case_03_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_03_01.png)
 
 
 
@@ -28,7 +28,7 @@
 - 当开机时显示置顶图标并设置变量`i`为0。
 
 
-![](./images/smart_coding_kit_case_03_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_03_02.png)
 
 
 
@@ -39,7 +39,7 @@
 
 
 
-![](./images/smart_coding_kit_case_03_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_03_03.png)
 
 
 ### 步骤3
@@ -47,7 +47,7 @@
 - 当按钮`A`被按下时则将变量`i`设置为micro:bit主板的温度返回值。
 
 
-![](./images/smart_coding_kit_case_03_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_03_04.png)
 
 
 

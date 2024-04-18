@@ -5,7 +5,7 @@
 
 8x16 matrix module是一款可以显示数字、常用字母及符号的8x16点阵屏幕，支持屏幕滚动。采用IIC 总线协议控制，连接简单，控制方便。
 
-![](./images/03418.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/03418.jpg)
 
 ## 特性
 ---
@@ -30,23 +30,23 @@ SKU|EF03418
 
 ### 外型与定位尺寸
 
-![](./images/ECM5wGV.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/ECM5wGV.png)
 
 ## 引脚接口框图
 
-![](./images/lFzmU1D.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/lFzmU1D.png)
 
 ## 主要功能模块介绍
 ---
 
 ### 8x16点阵屏
 
-![](./images/VdJMQZM.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/VdJMQZM.png)
 每一颗LED均可独立开启与关闭，常用来显示数字、常用字母及符号。
 
 ### I2C通讯接口
 
-![](./images/g92phR3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/g92phR3.png)
 通过I2C通讯方式与单片机进行通讯。
 
 ## 快速上手
@@ -55,17 +55,17 @@ SKU|EF03418
 ### 硬件连接
 
 将micro:bit主板插入sensor:bit主板，将8x16 matrix module插入sensor:bit上的IIC通讯接口排母。
-![](./images/yWAKyvO.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/yWAKyvO.jpg)
 
 ### 添加Package
 - 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
- ![](./images/04098_01.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04098_01.png)
 
 - 点击“扩展”，在弹出的对话框中搜索"https://github.com/elecfreaks/pxt-Matrix-8x16
 "，下载8*16点阵代码库。
 
-![](./images/03418.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/03418.png)
 
 ### 软件编程
 
@@ -102,13 +102,13 @@ SKU|EF03418
 下载压缩包并解压[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/05001_07.png)
 
 为了给LED灯编程，我们需要添加led.py。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的Octopus_MicroPython-master文件夹，从中选择led.py添加进来。
 
-![](./images/05001_08.png)
-![](./images/05001_09.png)
-![](./images/03418_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/03418_10.png)
 
 ### 步骤 2
 ### 参考程序

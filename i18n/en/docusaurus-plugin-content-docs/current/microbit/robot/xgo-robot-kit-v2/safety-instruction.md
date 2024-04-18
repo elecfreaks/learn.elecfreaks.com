@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: Safety instructions
 ---
@@ -18,4 +18,4 @@ To avoid possible injury and damage before operating the XGO-lite V2, the user s
 9. Before each use, please be sure to check whether the fixing screws of the XGO-lite V2 quadruped joints, robotic arms and grippers are loose or fall off.
 10. Do not use while charging XGO-lite V2.
 
-![](./images/microbit-xgo-lite2-safety-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-safety-01.png)

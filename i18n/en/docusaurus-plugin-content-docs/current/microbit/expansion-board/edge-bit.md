@@ -1,11 +1,11 @@
-# Edge:bit(EF03414)
+﻿# Edge:bit(EF03414)
 
 ## Introduction
 ---
 
 [Edge:bit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-edge-bit?_pos=1&_sid=f433f8790&_ss=r) is a breakout board for protecting your micro:bit golden finger. The special designed golden finger brings more convenience to micro:bit extension. But, at the same time, it is easily abraised or scratched by aligator clip. Edge:bit can provide an all-around protection for your micro:bit, which makes your micro:bit life span become much longer.
 
-![](./images/s25RgSe.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/s25RgSe.jpg)
 
 
 ## Features
@@ -20,5 +20,5 @@
 ## Technical Parameter
 ---
 
-![](./images/fBSSy6i.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/fBSSy6i.png)
 

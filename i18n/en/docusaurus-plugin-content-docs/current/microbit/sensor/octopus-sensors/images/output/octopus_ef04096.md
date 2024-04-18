@@ -1,4 +1,4 @@
-# Octopus 3V laser sensor(EF04096)
+﻿# Octopus 3V laser sensor(EF04096)
 
 ## Introduction
 
@@ -9,7 +9,7 @@ It is made of a laser emission chip,  condensing lens and an adjustable sleeve, 
 
 Notice: Please do not shine the eyes. The laser emits a red laser beam that usually can be seen as a red dot,  but you can only see a slight red line under the condition of frog or other medium.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitSensor/output/images/04096_00.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04096_00.jpg)
 
 
 ## Products Link
@@ -38,7 +38,7 @@ Notice: Please do not shine the eyes. The laser emits a red laser beam that usua
 
 ### Dimensions and Outlook
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitSensor/output/images/eNbM5Kz.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/eNbM5Kz.png)
 
 ## Quick to Start  
 
@@ -48,7 +48,7 @@ Connect the module with the wire(with buckle) to the PI pins on the Octopus:bit,
 
 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitSensor/output/images/04095_2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04095_2.png)
 
 ### Software Programming
 

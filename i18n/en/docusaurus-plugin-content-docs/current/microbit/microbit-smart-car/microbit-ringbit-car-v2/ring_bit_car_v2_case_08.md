@@ -1,4 +1,4 @@
-# case 08 Light Follow
+﻿# case 08 Light Follow
 
 ## Our Goal
 
@@ -14,7 +14,7 @@
 
 - Connect the left wheel servo to P1 of the Ring:bit expansion board and the right wheel servo to P2.
 
-![](./images/jBVHea8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/jBVHea8.png)
 
 ## Software
 
@@ -26,11 +26,11 @@
 ### Step 1
 - Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
-![](./images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/2qCyzQ7.png)
 
 - Search for “ringbitcar” and click on the ring:bit car package to add it to your project. (As below picture)
 
-![](./images/1Wq2Mov.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/1Wq2Mov.jpg)
 
 ***Note：*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
@@ -38,14 +38,14 @@
 
 - Snap the `on start` block from the Basic and initialize the P1 port to left wheel and the P2 port to right wheel.
 
-![](./images/RFccHpJ.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/RFccHpJ.png)
 
 ### Step 3
 
 - Snap the `light level` from the Input. The car will move to the light source when the light level is greater than the defined value.
 - The car will spin around to find the light source when the light level is less than the defined value.
 
-![](./images/i1lAR3X.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/i1lAR3X.png)
 
 ### Program
 
@@ -78,7 +78,7 @@ If you don't want to type these code by yourself, you can directly download the 
 
 - The car spins around and will move to the light source when it is detecting the light.
 
-![](./images/ENMYgJm.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ENMYgJm.gif)
 
 ## Think
 

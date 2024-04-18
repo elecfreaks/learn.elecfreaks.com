@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 ---
 
@@ -8,7 +8,7 @@ sidebar_position: 1
 
 AI Accessories Pack combines advanced AI technology with rich hardware modules to bring kids a new programming experience. It includes an intelligent AI Lens that is able to achieve the funstions for the recognition of face, ball, colour, card, it also supports the line-following and one-click learning function. The voice recognition sensor can recognise pre-programmed utterances or self-learning utterances to improve kids' interactive experience. It is also paired with a fan module and rainbow light ring for more fun projects. AI Accessories Pack inspires creativity, improves hands-on skills and logical thinking, and lets kids enjoy the fun of AI technology.
 
-<!-- ![](./images/ai-accessories-pack-01.png) -->
+<!-- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-01.png) -->
 
 ## Parameter
 
@@ -19,7 +19,7 @@ AI Accessories Pack combines advanced AI technology with rich hardware modules t
 
 ## Packing List
 
-<!-- ![](./images/nezha-inventors-kit-v2-02.png) -->
+<!-- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/nezha-inventors-kit-v2-02.png) -->
 
 | Items | QTY |
 |---|---|

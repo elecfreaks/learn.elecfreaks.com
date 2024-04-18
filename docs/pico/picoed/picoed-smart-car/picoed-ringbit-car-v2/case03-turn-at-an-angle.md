@@ -1,18 +1,18 @@
 # Case 03:转弯画圆
 
 
-![](./images/case03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case03.png)
 
 ## 简介
 哈喽，上一节课我们让 Ring:bit 智能车跑出了一个形状，但是有时候我们需要画一个圆，而且需要将圆留在纸张或者地板上面，那么这节课我们实现让 Ring:bit 智能车顺时针画一个圈，那我们开始吧。  
 ## 硬件连接
  发挥你灵动的小手，将 Ring:bit 扩展板的 P1 口连接左轮舵机，P2口连接右轮舵机。  
 
-![](./images/case.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case.png)
 
  并且将铅笔绑定在 Ring:bit Car 的尾板上，相信你可以做到。  
 
-![](./images/case0301.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case0301.png)
 
 ## 程序编写
 编程环境准备是必须要的，如果你还没有准备，可以参考这篇文章：[编程环境准备](https://www.yuque.com/elecfreaks-learn/picoed/gxro38)

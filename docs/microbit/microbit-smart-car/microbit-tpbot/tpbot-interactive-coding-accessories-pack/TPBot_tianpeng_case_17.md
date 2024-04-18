@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 19
 sidebar_label: 手势控制天蓬智能车
 ---
@@ -16,7 +16,7 @@ sidebar_label: 手势控制天蓬智能车
 
 
 
-![](./images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_01_01.png)
 
 
 
@@ -24,7 +24,7 @@ sidebar_label: 手势控制天蓬智能车
 
 将手势识别传感器连接到天蓬智能车的IIC端口。
 
-![](./images/TPBot_tianpeng_case_17_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_17_03.png)
 
 
 
@@ -39,15 +39,15 @@ sidebar_label: 手势控制天蓬智能车
 
 - 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](./images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_01_02.png)
 
 - 为了给天蓬智能车编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`tpbot`，然后点击下载这个代码库。
 
-![](./images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_01_03.png)
 
 - 为了给手势识别传感器编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索`PlanetX`，然后点击下载这个代码库。
 
-![](./images/TPBot_tianpeng_case_15_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_15_03.png)
 
 
 ##示例程序
@@ -56,7 +56,7 @@ sidebar_label: 手势控制天蓬智能车
 - 通过手势识别传感器检测手势，当识别到手向上挥动的动作时，设置天蓬智能车以40%的速度向前行驶1s
 - 按同样的方式编写当识别到手向下挥动、向左挥动、向右挥动时的程序。
 
-![](./images/TPBot_tianpeng_case_17_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_17_04.png)
 
 
 ### 程序

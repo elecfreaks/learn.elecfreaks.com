@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: LightBurn-用户指南
 ---
@@ -18,7 +18,7 @@ sidebar_label: LightBurn-用户指南
 双击.exe文件安装LightBurn软件（TF卡内的安装程序仅兼容Windows 64位系统，其它版本请访问官网[https://lightburnsoftware.com/](https://lightburnsoftware.com/)下载。
 备注：该软件免费试用期为30天，购买序列号详情请访问[https://lightburnsoft-ware.com/collections/frontpage/products/lightburn-gcode](https://lightburnsoft-ware.com/collections/frontpage/products/lightburn-gcode)
 
-![](./images/lightburn-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-01.png)
 
 下载配置文件:[TOOCA-Laser-1.7z](https://github.com/elecfreaks/learn-en/raw/master/tooca-laser-1/file/TOOCA%20Laser%201.7z)，并解压。
 
@@ -27,39 +27,39 @@ sidebar_label: LightBurn-用户指南
 
 1.双击打开LightBurn软件，点击“设备”。
 
-![](./images/lightburn-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-02.png)
 
 2.点击“导入”导入TF卡中的.lbdev配置文件:[TOOCA-Laser-1.7z](https://github.com/elecfreaks/learn-en/raw/master/tooca-laser-1/file/TOOCA%20Laser%201.7z)，导入后在设备列表中既有对应机器，选中机器，点击OK即配置成功。
 
-![](./images/lightburn-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-03.png)
 
-![](./images/lightburn-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-04.png)
 
 3.点击“编辑-设置”。
 
-![](./images/lightburn-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-05.png)
 
 4.选择“毫米/分钟”，点击OK。
 
-![](./images/lightburn-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-06.png)
 
 ## LightBurn-平面加工
 
 1.在 LightBurn 的画布上画一个圆形。
 
-![](./images/lightburn-circle-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-circle-01.png)
 
 2.设置参数，请参考[推荐参数](http://www.elecfreaks.com/learn/tooca-laser-1/recommended-parameters)，并根据实际使用材料进行设置。
 
-![](./images/lightburn-circle-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-circle-02.png)
 
 3.点击边框，检查需要雕刻的图案是否在材料的预期区域内。
 
-![](./images/lightburn-circle-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-circle-03.png)
 
 4.选中需要切割的图形，点击保存GCode将雕刻文件保存至TF卡的根目录。
 
-![](./images/lightburn-circle-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-circle-04.png)
 
 5.将TF卡放入TOOCA L1 Laser Engraver的卡槽中。
 
@@ -72,29 +72,29 @@ sidebar_label: LightBurn-用户指南
 
 1.点击“文件-导入”导入图片。
 
-![](./images/lightburn-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-07.png)
 
 2.设置图片的位置、尺寸以及旋转角度。
 
-![](./images/lightburn-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-08.png)
 
 3.右键单击图像，选择Adjust Image。
 
-![](./images/lightburn-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-09.png)
 
 4.设置图像效果，然后点击OK.
 
-![](./images/lightburn-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-10.png)
 
 参考[Recommended parameters](http://www.elecfreaks.com/learn-en/tooca-laser-1/recommended-parameters.html)设置功率、速度以及次数。
 
-![](./images/lightburn-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-11.png)
 
 备注：功率越大，或速度越慢，雕刻效果越深；功率越小，或速度越快，雕刻效果越浅。功率一般调节Power Max即可。配套的椴木板雕刻推荐参数：最小功率-5.00 最大功率-70.00 速度（mm/m）-6000.
 
 5.点击保存GCode将雕刻文件保存至TF卡的根目录。
 
-![](./images/lightburn-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-12.png)
 
 备注：请确保导出来的文件格式为.gcode，其它格式例如.gc/.nc将不能被雕刻机识别。
 
@@ -108,21 +108,21 @@ sidebar_label: LightBurn-用户指南
 
 1. 点击“File-Import”导入图片，然后设置图片的位置、尺寸以及旋转角度。
 
-![](./images/lightburn-trace-image-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-trace-image-04.png)
 
 2. 右键单击图像，选择Trace Image设置图像效果，然后点击OK。
 
-![](./images/lightburn-trace-image-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-trace-image-05.png)
 
 3. 设置合适的功率%、速度以及次数。
 备注：功率%越大，或速度越慢，雕刻效果越深；功率%越小，或速度越快，雕刻效果越浅。功率%一般调节Power
 Max即可。配套的椴木板雕刻推荐参数：最小功率-5.00 最大功率-70.00 速度（mm/m）-6000.
 
-![](./images/lightburn-trace-image-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-trace-image-06.png)
 
 4. 最后点击保存GCode将雕刻文件保存至TF卡。
 
-![](./images/lightburn-trace-image-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-trace-image-07.png)
 
 备注：请确保导出来的文件格式为.gcode，其它格式例如.gc/.nc将不能被雕刻机识别。
 

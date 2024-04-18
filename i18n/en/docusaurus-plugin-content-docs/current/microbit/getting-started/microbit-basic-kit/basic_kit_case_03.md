@@ -1,4 +1,4 @@
-# case 03 Function Selector
+﻿# case 03 Function Selector
 
 ## Our Goal
 
@@ -14,7 +14,7 @@
 
  Connect the crash sensor to P0 port on basic:bit and connect the potentiometer to P1. See picture below.
 
-![](./images/F9hvl7u.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-basic-kit/images/F9hvl7u.jpg)
 
 
 ## Software
@@ -40,7 +40,7 @@
  If `itmmm` is under 80, it means button B is pressed. When button B is pressed, call function `func_B`and set variable `flag` to 0 after call.
  If `itmmm` is under 130, it means button C is pressed. When button B is pressed, call function`func_C`.
 
-![](./images/2lRCpIO.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-basic-kit/images/2lRCpIO.png)
 
 ### Step 2
 
@@ -49,7 +49,7 @@
  Function `func_C`: Clear the screen and finish the call of function.
 
 
-![](./images/HpH2rIY.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-basic-kit/images/HpH2rIY.png)
 
 ### Program
 

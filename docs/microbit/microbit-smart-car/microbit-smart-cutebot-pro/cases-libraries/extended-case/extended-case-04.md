@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 4
 sidebar_label: 案例四 小球发射车
 ---
@@ -11,7 +11,7 @@ sidebar_label: 案例四 小球发射车
 使用积木搭建的机械爪的Cutebot Pro智能赛车。
 
 
-![](./images/cutebot-pro-extended-case-04-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-04-01.png)
 
 
 ## 使用材料
@@ -27,53 +27,53 @@ sidebar_label: 案例四 小球发射车
 
 ## 搭建步骤
 
-![](./images/cutebot-pro-extended-case-step-04-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-01.png)
 
-![](./images/cutebot-pro-extended-case-step-04-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-02.png)
 
-![](./images/cutebot-pro-extended-case-step-04-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-03.png)
 
-![](./images/cutebot-pro-extended-case-step-04-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-04.png)
 
-![](./images/cutebot-pro-extended-case-step-04-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-05.png)
 
-![](./images/cutebot-pro-extended-case-step-04-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-06.png)
 
-![](./images/cutebot-pro-extended-case-step-04-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-07.png)
 
-![](./images/cutebot-pro-extended-case-step-04-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-08.png)
 
-![](./images/cutebot-pro-extended-case-step-04-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-09.png)
 
-![](./images/cutebot-pro-extended-case-step-04-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-10.png)
 
-![](./images/cutebot-pro-extended-case-step-04-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-11.png)
 
-![](./images/cutebot-pro-extended-case-step-04-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-12.png)
 
-![](./images/cutebot-pro-extended-case-step-04-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-13.png)
 
-![](./images/cutebot-pro-extended-case-step-04-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-14.png)
 
-![](./images/cutebot-pro-extended-case-step-04-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-15.png)
 
-![](./images/cutebot-pro-extended-case-step-04-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-16.png)
 
-![](./images/cutebot-pro-extended-case-step-04-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-17.png)
 
-![](./images/cutebot-pro-extended-case-step-04-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-18.png)
 
-![](./images/cutebot-pro-extended-case-step-04-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-19.png)
 
-![](./images/cutebot-pro-extended-case-step-04-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-20.png)
 
-![](./images/cutebot-pro-extended-case-step-04-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-04-21.png)
 
 ## 硬件连接
 
 将舵机连接到Cutebot Pro智能赛车的S1端口。
 
-![](./images/cutebot-pro-extended-case-03-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-03-02.png)
 
 
 ## 软件
@@ -86,22 +86,22 @@ sidebar_label: 案例四 小球发射车
 
 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](./images/cutebot-pro-extended-case-02-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-02-03.png)
 
 为了给Cutebot Pro智能赛车编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`CutebotPro`，然后点击下载这个代码库。
 
-![](./images/cutebot-pro-extended-case-02-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-02-04.png)
 
 为了给joystick:bit V2编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`joystickbit`，然后点击下载这个代码库。
 
-![](./images/cutebot-pro-extended-case-02-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-02-05.png)
 
 
 ## 示例程序
 
 ### 手柄端
 
-![](./images/cutebot-pro-extended-case-02-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-02-06.png)
 
 
 ### 程序
@@ -131,7 +131,7 @@ sidebar_label: 案例四 小球发射车
 
 ### 小车端
 
-![](./images/cutebot-pro-extended-case-03-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-03-07.png)
 
 
 ### 程序
@@ -164,7 +164,7 @@ sidebar_label: 案例四 小球发射车
 
 通过手柄摇杆控制小车行驶路线，按下手柄按键C可以控制小车发射器发射小球。
 
-![](./images/cutebot-pro-extended-case-04.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-04.gif)
 
 
 ## 扩展知识

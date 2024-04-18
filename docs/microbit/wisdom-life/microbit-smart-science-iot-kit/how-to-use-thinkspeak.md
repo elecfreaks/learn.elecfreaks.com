@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 ---
 # 第二节：如何适配ThingSpeak平台
@@ -13,27 +13,27 @@ sidebar_position: 3
 
 - 进入thingspeak 官网，点击Get Started For Free，或者Sing up进入注册新账号页面
 
-![](./images/case_ts_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_01.png)
 
 - 填好注册信息(邮箱、地区、名字)，点击continue继续。
 
-![](./images/case_ts_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_02.png)
 
 - 确认邮箱地址，勾选使用此邮箱作为登陆账号，点击继续按钮。
 
-![](./images/case_ts_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_03.png)
 
 - 验证MathWorks账号，thinggspeak会发送邮件至你邮箱中，点击邮件内链接验证后点击continue继续
 
-![](./images/case_ts_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_04.png)
 
 - 设置你的用户名与登录密码（注意：密码必须包含大小写字母），点击continue继续
 
-![](./images/case_ts_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_05.png)
 
 - 注册成功
 
-![](./images/case_ts_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_06.png)
 
 ## thingspeak使用操作指南
 
@@ -41,23 +41,23 @@ sidebar_position: 3
 
 - 点击 “Channels”-“MY Channels”-“New Channel，新建一个频道。
 
-![](./images/case_ts_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_07.png)
 
 - 出现项目参数设计列表
 
 - 填写如下内容，如果有多个参数，就选择多个field
 
-![](./images/case_ts_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_08.png)
 
 - 点击save channel 就可以了
 
 - 新建的channel没有任何内容，而我们上传的数据就会在这里显示。
 
-![](./images/case_ts_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_09.png)
 
 - 点击API KEY ，查看write key，就是我们编程时上传数据所需的地址。
 
-![](./images/case_ts_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_10.png)
 
 ## 软件
 ---
@@ -69,16 +69,16 @@ sidebar_position: 3
 ### 模块连接图
 - 将micro:bit连接到iot:bit上。
 
-![](./images/case_ts_17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_17.png)
 
 ### 步骤 1
 - 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
-![](./images/iot_bit_11.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_11.jpg)
 
 - 为了给IOT物联网环境科学套件编程，我们需要添加一个扩展库。在代码抽屉底部找到“Extension”，并点击它。这时会弹出一个对话框。搜索“IOT"，然后点击下载这个代码库。
 
-![](./images/iot_bit_12.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_12.jpg)
 
 ***注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -88,7 +88,7 @@ sidebar_position: 3
 
 然后插入`连接 wifi 无线网络`积木块，填入可用的wifi名称与密码，
 
-![](./images/case_ts_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_11.png)
 
 ***注意：8266模块暂时不支持5G路由器WIFI信号，请连接2.4G路由器WIKI信号***
 ### 步骤 3
@@ -97,7 +97,7 @@ sidebar_position: 3
 
 其中在`设置发送到ThingSpeak平台的数据`积木块中填入上一步获取的`write api key`在`field1`中插入`随机数`积木块。
 
-![](./images/case_ts_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_12.png)
 
 
 ### 程序
@@ -132,24 +132,24 @@ sidebar_position: 3
 
 thingspeak可以查看所有数据。
 
-![](./images/case_ts_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_13.png)
 
 ## Thingspeak 添加可视化
 - - - - -
 - 点击添加可视化按钮，可以选择三个可视化小器件，分别为:[码表]、[数值显示]、[阙值指示灯]。
 
-![](./images/case_ts_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_14.png)
 
-![](./images/case_ts_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_15.png)
 
 - 选择码表类型，点击NEXT，填写图表名字(Name)，图表通道(Field1)，最小值最大值。然后点击Create新建图表。
 
-![](./images/case_ts_16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_16.png)
 
 - 图表就会和通道1(Field 1)数值同时产生变化了。
 
-![](./images/case_ts_19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_19.png)
 
 - 同理添加数值显示和阙值指示灯图表。
 
-![](./images/case_ts_20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_20.png)

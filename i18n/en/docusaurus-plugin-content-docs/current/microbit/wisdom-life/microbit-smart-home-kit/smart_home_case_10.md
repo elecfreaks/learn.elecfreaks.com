@@ -1,4 +1,4 @@
-# case 10 simple alarm box
+﻿# case 10 simple alarm box
 
 ## Our Goal
 
@@ -36,11 +36,11 @@
  Prepare a scissors, a bottle of glue and a piece of cardboard.
  Set up as below：
 
-![](./images/w7D8Dw4.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/w7D8Dw4.jpg)
 
 Set and stick components as below:
 
-![](./images/CjEr1qT.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/CjEr1qT.jpg)
 
 
 ## Hardware Connect
@@ -48,7 +48,7 @@ Set and stick components as below:
 Connect the crash sensor to P1 port of the expansion board;
 Connect the rainbow LED to P2 port of the expansion board;
 
-![](./images/7ifVFg1.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/7ifVFg1.jpg)
 
 ## Software
 
@@ -61,11 +61,11 @@ Connect the rainbow LED to P2 port of the expansion board;
 
  Click "Advanced" in the makecode code drawer for more codes.
 
-![](./images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/2qCyzQ7.png)
 
  We need to add a new codebase for programming of smart home. Finding “Extensions” at the bottom of code block and click it. Then a message box will show up, search “smart home"， and download this new codebase.
 
-![](./images/OY706rv.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/OY706rv.png)
 
 ***Note:*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Projects file menu.
 
@@ -75,14 +75,14 @@ First of all, initialize the OLED using blocks in the OLED section as shown in t
 Snap the "set to Neopixel" from the Neopixel, set rainbow led of the P2 port to singel light in RGB mode.
 And snap the "setup crash sensor" from the Smarthome Libraries and set it to P1 port to detect the press of the crash sensor.
 
-![](./images/IYbClB8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/IYbClB8.png)
 
 ### Step 3
 
 Since there are only two conditions, we need only one ‘else-if’ statement. When the Crash Sensor is pressed, the green Octopus LED will light up. Or else, if no force is applied to the Crash Sensor, the red LED will blink continuously.
 
 
-![](./images/5cKcESh.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/5cKcESh.png)
 
 
 
@@ -119,7 +119,7 @@ You also could directly download program by visiting website as below:
 
  We can see the green light illuminates as showed in the picture below. When we take away the book or something else you placed, you can see the red light starts to flash while the green light turned off.
 
-![](./images/gUJKXeu.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/gUJKXeu.gif)
 
 ## Think
 

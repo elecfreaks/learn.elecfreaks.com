@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: CM4 XGO-mini robot kit V2
 ---
@@ -21,32 +21,32 @@ The power system of XGO-mini2 is also very reliable and safe. The charger has an
 
 In addition, XGO-mini2 supports cross-platform graphical programming, Python programming and ROS programming, which can realize rich artificial intelligence applications, such as face detection, object classification and speech recognition. Whether it is in the field of home entertainment, education or research, XGO-mini2 can show excellent performance and application potential.
 
-![](./../images/cm4-xgo-mini-index.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-mini-index.png)
 
-![](./../images/cm4-xgo-products-01.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-products-01.gif)
 
 ## Functional description
 
 1. It can realize AI edge computing graphical programming, such as face detection, object classification, speech recognition and other common programs.
 
-![](./../images/cm4-xgo-products-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-products-06.png)
 
 
 2. It can realize omnidirectional movement, six-dimensional attitude control, multiple sports gaits and superposition of sports, and a built-in gyroscope to maintain body self-balance.
 
-![](./../images/cm4-xgo-products-05.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-products-05.gif)
 
 
 
 3. The product supports cross-platform graphics and Python programming cloud platform, and there are related supporting courses.
 
 
-![](./../images/cm4-xgo-products-04.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-products-04.gif)
 
 
 4. The servo servo has a joint angle readback function, allowing it to remember the joint position of each action and execute the action group you designed, which can be used for teaching programming.
 
-![](./../images/cm4-xgo-products-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-products-02.gif)
 
 ## Product Features
 
@@ -80,7 +80,7 @@ The main structure of XGO-mini2 is composed of aluminum alloy structural parts, 
 
 - The 18650 2S battery is glued to the driver board by Velcro, and the charging hole is fixed on the bottom board.
 
-![](./../images/cm4-xgo-overview-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-overview-03.png)
 
 
 
@@ -88,7 +88,7 @@ The main structure of XGO-mini2 is composed of aluminum alloy structural parts, 
 
 The AI module adopts the Raspberry Pi CM4 technology solution, equipped with a 2.0-inch IPS color display screen and 4 programmable buttons, a 5-megapixel camera, a digital microphone and a cavity speaker. It is an AI terminal with human-computer interaction capabilities. It can realize image recognition, face detection, speech recognition and other functions to help students learn AI knowledge.
 
-![](./../images/cm4-xgo-index-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-index-03.png)
 
 ## XGO-mini2 driver board
 
@@ -111,4 +111,4 @@ Thanks to the high performance, low power consumption and rich features of the E
 
 The modular servo joint of XGO-mini is composed of a DC hollow cup motor, a metal reduction gear set, a 12-bit magnetic encoder and an integrated control circuit. It has its own closed-loop control and planning algorithm, high-speed bus communication, 360-degree angle control, and supports speed, position, current, temperature feedback and control parameter adjustment functions providing high-performance. The customized joints provides PID parameter adjustment, optimizes the joint impedance characteristics (compliance), and based on the basic kinematic gait planning, combined with the consideration of the center of gravity and the feedback of the IMU, as well as the requirements of the upper-level control commands, real-time adjustments can be performed. At the same time, a large speed ratio and high-efficiency reducer is used, which ensures lexibility and improves on the load-to-weight ratio.
 
-![](./../images/cm4-xgo-overview-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-overview-06.png)

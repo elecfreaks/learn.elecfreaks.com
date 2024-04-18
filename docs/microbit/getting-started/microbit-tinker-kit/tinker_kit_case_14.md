@@ -1,4 +1,4 @@
-# 课程_14 抛煎饼游戏
+﻿# 课程_14 抛煎饼游戏
 
 你知道制作一块好吃的煎饼需要什么吗？
 
@@ -22,7 +22,7 @@
 - 2 x 母对母跳线
 - 1 x ADKeypad
 
-![](./images/p2PN791.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/p2PN791.gif)
 
 **温馨提示: 如果你想要以上所有这些元器件，你可以购买我们的[micro:bit小小发明家套件](https://item.taobao.com/item.htm?spm=a230r.7195193.1997079397.9.z3IMPf&id=564707672256&abbucket=5)。**
 
@@ -36,7 +36,7 @@
 
 将ADKeypad插入到扩展板上的引脚P1,确保线的颜色和扩展板上引脚的颜色一致。
 
-![](./images/zAN4zfZ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/zAN4zfZ.jpg)
 
 
 ### 步骤 2
@@ -51,7 +51,7 @@
 
 此外，我们想用LED在屏幕上显示一个扁平的煎饼。
 
-![](./images/Tinker_Kit_case_14_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_14_01.png)
 
 
 ### 步骤 3
@@ -70,7 +70,7 @@
 
 你可以随意制作你自己的翻煎饼动画。这仅仅只是一个示例哦！
 
-![](./images/Tinker_Kit_case_14_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_14_02.png)
 
 
 ### 步骤 4
@@ -79,11 +79,11 @@
 
 点击代码抽屉中的"高级"，查看更多的代码选项，并在下拉菜单底部点击"扩展"。
 
-![](./images/R5lx5Np.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/R5lx5Np.jpg)
 
 此时，将弹出一个对话框。在对话框中搜索“tinker kit”， 然后点击下载这个代码库。
 
-![](./images/pduH11r.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/pduH11r.png)
 
 现在你将看到MakeCode中出现了一个新东西-一个鲜艳的绿色的Tinkercademy按钮就加载成功啦！
 
@@ -110,7 +110,7 @@
 
 最后，如果以上两个条件都不是true(真）， 那么我们知道totalTime（总时间）一定是大于8000毫秒。因此，我们判定煎饼煎的时间太长，并显示一个生气的表情和一则BURNT（烧糊）的信息。
 
-![](./images/Tinker_Kit_case_14_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_14_03.png)
 
 
 
@@ -122,7 +122,7 @@
 
 当我们重新启动游戏的时候，我们还需要做什么呢？在这个案例中，我们唯一需要做的就是显示一块新的煎饼以及重置游戏的起始时间。
 
-![](./images/Tinker_Kit_case_14_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_14_04.png)
 
 
 ### 步骤 7
@@ -133,7 +133,7 @@ micro:bit有很多未编程的音乐供我们使用。让我们给我们的游�
 
 我们需要把这些音乐设置为“once in the background”（在后台播放一次），否则它将会在音乐播放完后才开始启动游戏。
 
-![](./images/Tinker_Kit_case_14_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_14_05.png)
 
 
 ### 步骤 8
@@ -142,7 +142,7 @@ micro:bit有很多未编程的音乐供我们使用。让我们给我们的游�
 
 我们可以再次使用蜂鸣器来演奏一首乐曲（同样，我们想让它在后台播放一次)。我们也可以显示游戏的名称哦！
 
-![](./images/Tinker_Kit_case_14_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_14_06.png)
 
 如果你不想自己亲手编写代码，你可以通过下面这个链接直接下载程序的完整代码：
 

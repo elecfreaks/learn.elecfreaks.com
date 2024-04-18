@@ -1,6 +1,6 @@
-# 课程_10 电机
+﻿# 课程_10 电机
 
-![](./images/8KZyoCy.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/8KZyoCy.jpg)
 
 ## 简介
 ---
@@ -21,7 +21,7 @@
 - 若干跳线
 **温馨提示：如果你需要以上所有元件，你可以购买我们的[Elecfreaks小小科学家套件](https://item.taobao.com/item.htm?ft=t&id=597096675822)。**
 
-![](./images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
 
 ## 主要元件介绍
 ---
@@ -29,24 +29,24 @@
 
 电机是依据电磁感应定律实现电能转换为动能的一种装置。电机的分类非常多，在本案例里，我们用到的是直流电机。当在电机两端加上直流电压时，电机会旋转，电压越高，旋转的速度越快。
 
-![](./images/JesPIk4.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/JesPIk4.jpg)
 
 ### 二极管
 
 二极管是一种具有两个电极的原件，一端为阳极，一端为阴极，它只允许电流从阳极向阴极方向移动，可以把它想象成电子版的止逆阀。
 对于普通的二极管，可以通过管体表面颜色来区分正负极，有白线的一端为负极。
 
-![](./images/b1g3bBJ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/b1g3bBJ.jpg)
 
 ### 鳄鱼夹线
 
 鳄鱼夹线与跳线的作用一样。有些器件不方便用跳线连接，可以考虑用鳄鱼夹来连线。
 
-![](./images/EfkdKmY.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/EfkdKmY.jpg)
 
 本次实验，我们就是用鳄鱼夹线来连接我们的电机。
 
-![](./images/Oj1aUaf.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/Oj1aUaf.jpg)
 
 
 ## 实验步骤
@@ -55,7 +55,7 @@
 根据下面的图片将你的元件连接起来：
 
 
-![](./images/2MZA7bj.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/2MZA7bj.jpg)
 
 micro:bit的IO口的驱动电流非常微弱的，不足以直接驱动电机。这时候，我们就需要用到三极管将IO信号的电流放大，用三极管放大IO口信号电流的电路图与上一课驱动蜂鸣器的电路图非常类似，唯一的区别是在电机两端加上了一个二极管。该二极管在此电路中叫做续流二极管。
 
@@ -63,11 +63,11 @@ micro:bit的IO口的驱动电流非常微弱的，不足以直接驱动电机。
 
 三极管将IO信号的电流放大的局部电路图如下：
 
-![](./images/e4YL3hx.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/e4YL3hx.jpg)
 
 连接完成后如图:
 
-![](./images/RwH4uNp.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/RwH4uNp.jpg)
 
 ### 软件
 
@@ -77,16 +77,16 @@ micro:bit的IO口的驱动电流非常微弱的，不足以直接驱动电机。
 
 ### 如图所示编写程序
 
-![](./images/case_10_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_10_01.png)
 
 ### 代码详解
 - 1.将P0口写入数字信号1，将P1端口上拉至高电平，这样才能正常识别按钮信号
 
-![](./images/case_10_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_10_02.png)
 
 - 2.当按钮被按下，设置P0为1，放开时，设置为数字信号量0
 
-![](./images/case_10_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_10_03.png)
 
 ### 参考程序
 请参考程序连接：[https://makecode.microbit.org/_CAUDezEJrVtc](https://makecode.microbit.org/_CAUDezEJrVtc)
@@ -120,7 +120,7 @@ micro:bit的IO口的驱动电流非常微弱的，不足以直接驱动电机。
 按下按钮时，电机开始旋转，再按一次，电机停止旋转。
 注意：micro:bit的电源电压比较低，只有3V，按下按钮时，电机有可能不能启动，遇到这种情况，请用手拨动一下电机的扇叶，电机方能正常旋转。
 
-![](./images/UeWUgLi.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/UeWUgLi.gif)
 
 
 ## 思考

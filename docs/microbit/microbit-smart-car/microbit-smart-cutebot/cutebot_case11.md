@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 14
 sidebar_label: micro:bit远程控制
 ---
@@ -9,7 +9,7 @@ sidebar_label: micro:bit远程控制
 
 大家好，这节课我们将使用Cutebot智能赛车制作一辆可以使用micro:bit远程遥控的小车！
 
-``![](./images/cutebot-case-11-01.png)``
+``![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-11-01.png)``
 
 ## 使用材料
 
@@ -28,12 +28,12 @@ sidebar_label: micro:bit远程控制
 
 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](./images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
 
 
 为了给Cutebot套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索`Cutebot`，然后点击下载这个代码库。
 
-![](./images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -47,7 +47,7 @@ sidebar_label: micro:bit远程控制
 
 当`按钮A+B按下`时无线发送数字`3`；
 
-![](./images/case_11_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_11_01.png)
 
 #### 程序
 
@@ -86,7 +86,7 @@ sidebar_label: micro:bit远程控制
 
 当无线电收到的数字为`3`时，直行。
 
-![](./images/case_11_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_11_02.png)
 
 #### 程序
 
@@ -121,7 +121,7 @@ sidebar_label: micro:bit远程控制
 
 按下遥控端microbit的B按钮，小车右转
 
-![](./images/cutebot-case-11.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-11.gif)
 
 ## 思考
 ---

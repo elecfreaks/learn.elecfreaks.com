@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: micro:bit XGO Robot Kit 简介
 ---
@@ -27,7 +27,7 @@ XGO 是一款专为青少年人工智能教育而设计的仿生四足机器狗�
 ---
 
 
-![](./images/microbit-xgo-robot-kit-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-16.png)
 
 
 
@@ -63,7 +63,7 @@ XGO 是一款专为青少年人工智能教育而设计的仿生四足机器狗�
 
 ## 产品清单
 ---
-![](./images/microbit-xgo-robot-kit-square-27.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-27.png)
 
 
 
@@ -75,7 +75,7 @@ XGO 是一款专为青少年人工智能教育而设计的仿生四足机器狗�
 
 
 
-![](./images/microbit-xgo-kaiji.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-kaiji.gif)
 
 
 
@@ -85,7 +85,7 @@ XGO 是一款专为青少年人工智能教育而设计的仿生四足机器狗�
 
 
 
-![](./images/microbit-xgo-guanji.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-guanji.gif)
 
 
 
@@ -95,7 +95,7 @@ XGO 是一款专为青少年人工智能教育而设计的仿生四足机器狗�
 
 
 
-![](./images/microbit-xgo-chongdian.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-chongdian.gif)
 
 
 

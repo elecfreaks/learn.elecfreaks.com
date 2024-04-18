@@ -1,4 +1,4 @@
-# 软件编程案例11：直流电机
+﻿# 软件编程案例11：直流电机
 
 ## 简介 ##
 ---
@@ -6,13 +6,13 @@
 
 ## 硬件连线图 ##
 ---
-![](./images/rKbr0NQ.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/rKbr0NQ.png)
 
 - 使用香蕉线按如上图连接电路，电池盒内放入2颗7号AAA电池。
 
 ## 电路原理图 ##
 ---
-![](./images/cBDx8Qv.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/cBDx8Qv.png)
 
 - micro:bit插槽的GND端和电池GND相连内部，形成电流回路。
 
@@ -22,7 +22,7 @@
 - 电机是依据电磁感应定律实现电能转换为动能的一种装置。电机的分类非常多，最常见的为直流电机，当在电机两端加上直流电压时，电机会旋转，电压越高，旋转的速度越快。
 - 在实验箱板载了一个直流电机，连接了一个风扇来展示点击的转动。
 
-![](./images/case-13-4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/case-13-4.png)
 
 *- 连线时注意正负极。*
 
@@ -34,20 +34,20 @@
 
 - 点击New Project按钮，新建一个项目。
 
-![](./images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/t34k5Zb.png)
 
 
 ### 步骤 2
 
 - 在on start积木块中插入向P0口写入0，防止电机误启动，将P1引脚拉高，以等待按键信号。
 
-![](./images/mzyXAKf.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/mzyXAKf.png)
 
 ### 步骤 3
 
 - 判断数字读取P1口的值是否为0，如果是向P0口写入1启动电机，如果不等于0，则向P0口写入0停止电机。
 
-![](./images/3UfQLdB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/3UfQLdB.png)
 
 
 ### 程序

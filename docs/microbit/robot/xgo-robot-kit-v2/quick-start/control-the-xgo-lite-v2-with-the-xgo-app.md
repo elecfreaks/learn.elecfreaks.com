@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: XGO APP 操控 XGO-lite V2 体验
 ---
@@ -23,7 +23,7 @@ sidebar_label: XGO APP 操控 XGO-lite V2 体验
 
 如果您的智能手机的操作系统是安卓系统，您可以通过**百度手机助手**搜索“XGO”并安装即可。安装完成后打开 XGO APP 启动界面如图所示：
 
-![](./../images/microbit-xgo-lite-v2-app-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-1.png)
 
 **注意**：
 
@@ -34,38 +34,38 @@ sidebar_label: XGO APP 操控 XGO-lite V2 体验
 
 ### 连接 XGO-lite V2
 
-打开智能手机的蓝牙功能，并将 XGO-lite V2 开机，打开 XGO APP 在首页界面左上角有![](./../images/microbit-xgo-lite-v2-app-2.png)图标，点击蓝牙图标，并根据提示将智能手机与 XGO-lite V2 进行连接。
+打开智能手机的蓝牙功能，并将 XGO-lite V2 开机，打开 XGO APP 在首页界面左上角有![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-2.png)图标，点击蓝牙图标，并根据提示将智能手机与 XGO-lite V2 进行连接。
 
-![](./../images/microbit-xgo-lite-v2-app-6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-6.png)
 
 连接成功后如下图所示：
 
-![](./../images/microbit-xgo-lite-v2-app-4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-4.png)
 
 ## 控制模式
 
 在 XGO App 主界面我们可以看到有三种方式遥控 XGO-lite V2，分别是**表演模式**、**整机控制**、**单腿控制**。
 
-![](./../images/microbit-xgo-lite-v2-app-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-10.png)
 
 
 
 **表演模式**是集成预定指令，可以让 XGO-lite V2 做出预定好的动作，自由度低，操作性高；
 
-![](./../images/microbit-xgo-lite-v2-app-8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-8.png)
 
 
 
 **整机模式**可以自由控制 XGO-lite V2 的速度和方向，自由度高，操作灵敏；
 
-![](./../images/microbit-xgo-lite-v2-app-9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-9.png)
 
 
 
 **单腿控制**可以控制的颗粒度更小，对单只腿（左前腿、右前腿、右后腿、左后腿）进行控制，对单只腿的上中下舵机进行调节。一般用于对特定动作的微小调节；
 
-![](./../images/microbit-xgo-lite-v2-app-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-11.png)
 
 ## 演示
 
-![](./../images/microbit-xgo-lite-v2-app-12.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-12.gif)

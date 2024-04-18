@@ -1,4 +1,4 @@
-# Bitboard Kit
+﻿# Bitboard Kit
 
 ## Introduction
 ---
@@ -13,7 +13,7 @@ Change everything into a "keyboard"! The Bitboard helps to learn the electric ci
 ## Picture
 ---
 
-![](./images/Bitboard_Kit_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/bitboard/images/Bitboard_Kit_01.png)
 
 ## Parameter
 ---
@@ -39,7 +39,7 @@ Change everything into a "keyboard"! The Bitboard helps to learn the electric ci
 | USB cable | 1 |
 | Conductive stickers | 1 |
 
-![](./images/Bitboard_Kit_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/bitboard/images/Bitboard_Kit_02.png)
 
 ## Quick Start
 ---
@@ -47,33 +47,33 @@ Change everything into a "keyboard"! The Bitboard helps to learn the electric ci
 ### Programming
 1.Go to [https://www.ecode.cn/creative/](https://www.ecode.cn/creative/), and click "Events".
 
-![](./images/Bitboard_Kit_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/bitboard/images/Bitboard_Kit_06.png)
 
 2.Choose `when space key pressed`blcok, then click `right arrow`
 
-![](./images/Bitboard_Kit_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/bitboard/images/Bitboard_Kit_07.png)
 
 3.Click "Motion" and choose `move 10 steps` block.
 
-![](./images/Bitboard_Kit_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/bitboard/images/Bitboard_Kit_08.png)
 
 4.After programming, click the green flag to run it.
 
-![](./images/Bitboard_Kit_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/bitboard/images/Bitboard_Kit_09.png)
 
 ## Operation steps
 ---
 1.Connect the Bitboard with the computer through the USB cable.
 
-![](./images/Bitboard_Kit_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/bitboard/images/Bitboard_Kit_03.png)
 
 2.Connect the buttons and GND ports on the Bitboard with the conductots through the alligator clips.
 
-![](./images/Bitboard_Kit_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/bitboard/images/Bitboard_Kit_04.png)
 
 4.Hold the conductors of the buttons `→` and GND to complete the closed-loop circuit with your hands.
 
-![](./images/Bitboard_Kit_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/bitboard/images/Bitboard_Kit_05.png)
 
 ## Result
 ---

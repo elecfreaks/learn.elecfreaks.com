@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 10
 sidebar_label: TPbot机械爪
 ---
@@ -10,7 +10,7 @@ sidebar_label: TPbot机械爪
 搭建一辆有机械爪的TPbot。
 
 
-![](./images/tpbot-brick-expansion-case-10-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-case-10-01.png)
 
 ## 使用材料
 
@@ -25,57 +25,57 @@ sidebar_label: TPbot机械爪
 
 ## 搭建步骤
 
-![](./images/tpbot-brick-expansion-step-10-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-01.png)
 
-![](./images/tpbot-brick-expansion-step-10-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-02.png)
 
-![](./images/tpbot-brick-expansion-step-10-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-03.png)
 
-![](./images/tpbot-brick-expansion-step-10-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-04.png)
 
-![](./images/tpbot-brick-expansion-step-10-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-05.png)
 
-![](./images/tpbot-brick-expansion-step-10-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-06.png)
 
-![](./images/tpbot-brick-expansion-step-10-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-07.png)
 
-![](./images/tpbot-brick-expansion-step-10-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-08.png)
 
-![](./images/tpbot-brick-expansion-step-10-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-09.png)
 
-![](./images/tpbot-brick-expansion-step-10-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-10.png)
 
-![](./images/tpbot-brick-expansion-step-10-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-11.png)
 
-![](./images/tpbot-brick-expansion-step-10-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-12.png)
 
-![](./images/tpbot-brick-expansion-step-10-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-13.png)
 
-![](./images/tpbot-brick-expansion-step-10-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-14.png)
 
-![](./images/tpbot-brick-expansion-step-10-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-15.png)
 
-![](./images/tpbot-brick-expansion-step-10-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-16.png)
 
-![](./images/tpbot-brick-expansion-step-10-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-17.png)
 
-![](./images/tpbot-brick-expansion-step-10-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-18.png)
 
-![](./images/tpbot-brick-expansion-step-10-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-19.png)
 
-![](./images/tpbot-brick-expansion-step-10-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-20.png)
 
-![](./images/tpbot-brick-expansion-step-10-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-21.png)
 
-![](./images/tpbot-brick-expansion-step-10-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-22.png)
 
-![](./images/tpbot-brick-expansion-step-10-23.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-step-10-23.png)
 
 ## 硬件连接
 
 将360°舵机连接到天蓬智能车的SERVO1端口。
 
-![](./images/tpbot-brick-expansion-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-case-01-02.png)
 
 
 ## 软件
@@ -89,18 +89,18 @@ sidebar_label: TPbot机械爪
 
 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](./images/tpbot-brick-expansion-case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-case-01-03.png)
 
 为了给天蓬智能车编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`tpbot`，然后点击下载这个代码库。
 
-![](./images/tpbot-brick-expansion-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-case-01-04.png)
 
 
 ## 示例程序
 
 `当开机时`设置显示图标，当A键按下时，设置连接S1的舵机转动至225°，当B键按下时，设置连接S1的舵机转动至255°。
 
-![](./images/tpbot-brick-expansion-case-04-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-brick-expansion-case-04-05.png)
 
 
 ### 程序

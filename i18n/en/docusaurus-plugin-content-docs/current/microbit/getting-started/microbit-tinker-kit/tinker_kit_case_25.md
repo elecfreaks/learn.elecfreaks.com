@@ -4,7 +4,7 @@
 ---
 - Make a  Morse Code “Keyboard”/Editor the hard way.
 
-![](./images/aSEflPU.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/aSEflPU.jpg)
 
 ## Products Link
 
@@ -39,11 +39,11 @@
 ### Step 1 –  Development Envrioment
 ---
 
-![](./images/zjrnmEz.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/zjrnmEz.png)
 
-![](./images/X2ptgqb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/X2ptgqb.png)
 
-![](./images/oGUSLz2.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/oGUSLz2.jpg)
 
 
 
@@ -62,7 +62,7 @@
 ### Step 2 – Hello World
 ---
 
-![](./images/uheXNMS.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/uheXNMS.png)
 
 
 
@@ -75,7 +75,7 @@
 ### Step 3 – Buttons & Events
 ---
 
-![](./images/6LLZwvK.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/6LLZwvK.png)
 
 
 1. We will employ the two buttons on the Micro:Bit, namely button A & B in some combination of clicks & holds to trigger a specific functionality.
@@ -90,7 +90,7 @@
 ### Step 4 – Registering Morse Code
 ---
 
-![](./images/jFsKZ7k.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/jFsKZ7k.jpg)
 
 1. Morse code is made up of a variable combination short and long signals, or in this case, button presses.
 2. Expand the ‘Advanced’ section and scroll to the bottom and click on ‘Add Packages’
@@ -104,7 +104,7 @@
 ### Step 5
 ---
 
-![](./images/lC7Wxmq.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/lC7Wxmq.png)
 
 1. Now that we have our Tinkercademy category added, we can use the ADKeypad to move up, down, left, and right. In this example, we’ll set the A button to move up, the C button to move down, the D button to move left, and the E button to move right.
 2. To do this, we use if statments. If statements test to see if a condition is true; if it is true, then they run any blocks inside the if block. When we place an if statement inside a forever loop, we forever test to see if the condition is true.
@@ -116,7 +116,7 @@
 ### Step 6
 ---
 
-![](./images/YKu7lMQ.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/YKu7lMQ.png)
 
 1. Now that we can move our player around, let’s start creating our maze levels! Every time we start a level we need to do a few things: First we need to display the maze walls on the LED display. Second, we need to forever check if the player runs into a wall (if they do, it’s gameover!). And third, we need to forever check if the player makes it to the end of the maze level (if they do, let them know they succeeded and move onto the next level!).
 2. For each level, we’re going to use a forever loop. Inside the loop, we use an ‘if’ statement to check if the level variable equals 1. This means this code will only ever run if the level variable equals 1.
@@ -129,7 +129,7 @@
 ### Step 7
 ---
 
-![](./images/Wbwg8EH.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Wbwg8EH.png)
 
 
 1. Whew, setting up a level was a lot of work! Now that we have a single level, let’s make something happen when a player gets a game over. This will happen whenever they run into a wall, and it’s tracked by the ‘gameOn’ variable.
@@ -140,7 +140,7 @@
 ### Step 8
 ---
 
-![](./images/S1swrov.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/S1swrov.png)
 
 1. Speaking of pressing B to restart the game, we haven’t yet created the code to do that!
 2. Inside a forever loop, we test to see if button B on the ADKeypad is pressed. If it is, we want to set ‘level’ to 1, reset the player’s starting location by setting the ‘playerx’ and ‘playery’ variables to 0 and 3 respectively, and set the ‘gameOn’ variable back to ‘true’.
@@ -149,9 +149,9 @@
 ### Step 9
 ---
 
-![](./images/g2YtaTp.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/g2YtaTp.png)
 
-![](./images/LAyH6Jg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/LAyH6Jg.png)
 
 1. Now our game should be working as intended! The only thing missing is more levels!
 2. It’s quite easy to add more levels by duplicating our level 1 code from above. The only things that will change are the maze walls and the coordinates for our if statments (for testing if the player moves into a wall or completes the level.
@@ -162,7 +162,7 @@
 ### Step 10
 ---
 
-![](./images/5fiXvcU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/5fiXvcU.png)
 
 
 1. Once you’re done adding in levels, you can optionally create a victory section. In this example, once the player successfully completes the first 3 levels and level equals 4, we: unplot the player, play a victory melofy in the background, and show a victory message!

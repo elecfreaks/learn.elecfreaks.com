@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 2
 sidebar_label: 故障分析
 ---
@@ -9,7 +9,7 @@ sidebar_label: 故障分析
 
 机器狗按下电源开关后无法站立，此时可以根据机器狗的开关指示灯和板载指示灯来排除故障。
 
-![](./../images/cm4-xgo-faq-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-faq-08.png)
 
 #### 现象一：开关按下去机器狗没有任何反应
 

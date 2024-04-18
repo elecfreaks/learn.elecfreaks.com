@@ -1,4 +1,4 @@
-# 案例01：连接Scratch-Windows
+﻿# 案例01：连接Scratch-Windows
 
 ## 目的
 ---
@@ -20,7 +20,7 @@
 ### 什么是Scratch
 
 - [Scratch](https://baike.baidu.com/item/Scratch/15493636?fr=aladdin)是麻省理工学院的“终身幼儿园团队”（Lifelong Kindergarten Group）开发的图形化编程工具，主要面对青少年开放。
-![](https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=df7338639f8fa0ec6bca6c5f47fe328b/2cf5e0fe9925bc31e1c3fbc850df8db1ca1370c0.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2cf5e0fe9925bc31e1c3fbc850df8db1ca1370c0.jpg)
 
 
 ## 软件准备
@@ -44,37 +44,37 @@
 
 - 将micro:bit连接到你的电脑，将上一步准备的micro:bit固件直接发送到micro:bit盘。
 
-![](./images/case_01_01.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/case_01_01.gif)
 
 - 然后为micro:bit单独供电，micro:bit上会显示一串字符，为蓝牙识别码。
 
-![](./images/case_01_02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/case_01_02.gif)
 
 
 ### 步骤 2
 
 - 打开Scratch Link软件，你的状态栏显示一个Scratch Link图标。
 
-![](./images/case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/case_01_03.png)
 
 - 然后打开Scratch编程软件，在左下角点击`+`号，选择micro:bit扩展。
 
-![](./images/case_01_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/case_01_04.png)
 
-![](./images/case_01_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/case_01_07.png)
 
 - 在弹出的搜索框中选择你的micro:bit。
 
-![](./images/case_01_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/case_01_05.png)
 
-![](./images/case_01_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/case_01_06.png)
 
 ## 结束
 ---
 - 连接成功黄色感叹号变成绿色的对勾。
 - 就可以使用micro:bit和Scratch配合编程啦。
 
-![](./images/case_01_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/case_01_08.png)
 
 ## 常见问题
 ---

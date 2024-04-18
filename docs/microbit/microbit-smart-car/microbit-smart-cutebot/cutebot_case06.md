@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 9
 sidebar_label: 转向示廓灯
 ---
@@ -11,7 +11,7 @@ sidebar_label: 转向示廓灯
 
 想象一下，当我们在道路上驾驶时，转弯时打开转向灯可以提醒其他车辆我们的行驶意图。同时，开启转向示廓灯可以使我们在夜间或低能见度条件下更加可见。今天，我们将学习如何利用条件语句来实现这个功能。
 
-![](./images/cutebot-case-06-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-06-01.png)
 
 ## 使用材料
 
@@ -27,11 +27,11 @@ sidebar_label: 转向示廓灯
 
 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](./images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
 
 为了给Cutebot套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索`Cutebot`，然后点击下载这个代码库。
 
-![](./images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -43,20 +43,20 @@ sidebar_label: 转向示廓灯
 
 `left`左侧灯为从第`0`颗灯开始往后`1`颗灯。
 
-![](./images/case_06_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_06_01.png)
 
 ### 步骤 3
 
 在`当按钮A按下时`积木块中插入`循环`积木块，右侧示廓灯显示黄色，右侧LED大灯显示黄色(RGB控制)，延迟500ms后，关闭右侧示廓灯和LED大灯，完成一次闪烁。
 
-![](./images/case_06_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_06_02.png)
 
 
 ### 步骤 4
 
 在`当按钮B按下时`积木块中与右侧同理，只不过将右侧改为左侧。
 
-![](./images/case_06_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_06_03.png)
 
 ### 程序
 
@@ -90,7 +90,7 @@ sidebar_label: 转向示廓灯
 
 当按钮B按下时，左侧LED车灯和示廓灯闪烁5次
 
-![](./images/cutebot-case-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-06.gif)
 
 ## 思考
 

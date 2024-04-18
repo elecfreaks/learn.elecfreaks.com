@@ -1,6 +1,6 @@
-# 哪吒A 36合1 Arduino套装
+﻿# 哪吒A 36合1 Arduino套装
 
-![](./images/neza-a-36-in-1-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-36-in-1-01.png)
 
 ## 产品简介
 
@@ -9,4 +9,4 @@
 
 ## 套装清单
 
-![](./images/neza-a-36-in-1-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-36-in-1-02.png)

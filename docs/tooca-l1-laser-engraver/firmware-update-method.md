@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 10
 sidebar_label: ELECFREAKS TOOCA L1 Laser Engraver 固件更新方式
 ---

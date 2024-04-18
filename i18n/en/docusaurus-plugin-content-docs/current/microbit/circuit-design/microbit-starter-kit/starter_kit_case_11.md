@@ -1,6 +1,6 @@
-# Lesson 11 Rainbow LED
+﻿# Lesson 11 Rainbow LED
 
- ![](./images/F2gbRrO.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/F2gbRrO.jpg)
 
 ## Introduction
 
@@ -20,14 +20,14 @@
 
 ***Tips: If you want all components above, you may need Elecfreaks Micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html) .***
 
-![](./images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
 
 ## Major Component Introduction
 
 
 ### **8 RGB Rainbow LED Ring**
 
-![](./images/NnNcXY9.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/NnNcXY9.jpg)
 
 8 RGB Rainbow LED Ring is an LED ring made of 8 ws2812b beads in cascade connection. Ws2812b is an intelligent outer control LED source, which has integrated control circuit and light emitting circuit. It has same appearance with 5050LED bead.
 
@@ -44,41 +44,41 @@ Connect your components according to the picture below:
 
 - 1. Connect the signal wire of the LED ring to the P0 port of the breadboard adapter.
 
-![](./images/LAPXCJp.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/LAPXCJp.jpg)
 
 ***Note:*** There are two cables led out by the ring. One is DI and the other is DO. We should connect DI.
 After connection, we can see:
 
-![](./images/lUdmz6q.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/lUdmz6q.jpg)
 
 ### Software Programming
 
 Click to open Microsoft Makecode, write the following code in the editor.(https://makecode.microbit.org/)
 
-![](./images/JHZUvh2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/JHZUvh2.png)
 
 ### Add Package
 - Click "Advanced"in the choice of the MakeCode to find more choices.
 
-![](./images/smtcNoB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/smtcNoB.png)
 
 Click "Extensions", search "neopixel"in the dialog box and then download the "neopixel".
 
-![](./images/umQwUC2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/umQwUC2.png)
 
 
 ### Program as the picture shows:
 
-![](./images/z1YyT5w.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/z1YyT5w.png)
 
 ### Details for the code:
 - Set the 8 led to RGB mode and set the pins to P0 port.
 
-![](./images/fn6ojMc.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/fn6ojMc.png)
 
 - 2.Show the color of RGB and set color gradient.
 
-![](./images/3mxhY9h.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/3mxhY9h.png)
 
 ### Reference
 Links:[https://makecode.microbit.org/_LybdqfauX3TR](https://makecode.microbit.org/_LybdqfauX3TR)
@@ -108,7 +108,7 @@ You can also download the links directly:
 
 We can see the light of 8 RGB Rainbow LED Ring is rotating with rainbow color.
 
-![](./images/23vhDKK.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/23vhDKK.gif)
 
 
 ## Exploration

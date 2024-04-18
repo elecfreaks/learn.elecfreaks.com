@@ -1,10 +1,10 @@
-# Case 72: The Smoke Detection Fan
+﻿# Case 72: The Smoke Detection Fan
 
 ## Introduction
 
 Make a dust detection device to automatically turn on the fan for ventilation when the dust concentration is too high.
 
-![](./images/neza-inventor-s-kit-case-72-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-72-01.png)
 
 ## Case building
 
@@ -20,33 +20,33 @@ Make a dust detection device to automatically turn on the fan for ventilation wh
 
 Parts List
 
-![](./images/neza-inventor-s-kit-case-72-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-72-02.png)
 
 The structure is built as shown in the figure:
 
-![](./images/neza-inventor-s-kit-step-72-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-72-01.png)
 
-![](./images/neza-inventor-s-kit-step-72-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-72-02.png)
 
-![](./images/neza-inventor-s-kit-step-72-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-72-03.png)
 
-![](./images/neza-inventor-s-kit-step-72-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-72-04.png)
 
-![](./images/neza-inventor-s-kit-step-72-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-72-05.png)
 
-![](./images/neza-inventor-s-kit-step-72-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-72-06.png)
 
-![](./images/neza-inventor-s-kit-step-72-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-72-07.png)
 
-![](./images/neza-inventor-s-kit-step-72-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-72-08.png)
 
-![](./images/neza-inventor-s-kit-step-72-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-72-09.png)
 
-![](./images/neza-inventor-s-kit-step-72-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-72-10.png)
 
-![](./images/neza-inventor-s-kit-step-72-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-72-11.png)
 
-![](./images/neza-inventor-s-kit-step-72-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-72-12.png)
 
 ### Connection schematic
 
@@ -60,11 +60,11 @@ In the diagram below, connect the Dust Sensor to the J1 port and the Motor Fan t
 
 Click "Extensions" in the MakeCode Drawer.
 
-![](./images/neza-inventor-s-kit-case-37-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-37-04.png)
 
 In order to program the Dust sensor, we need to add an extension library. Search with "PlanetX" in the dialog box to download this library.
 
-![](./images/neza-inventor-s-kit-case-37-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-37-05.png)
 
 *Note: *If you get a prompt saying that some code libraries will be removed for incompatibility reasons, you can either follow the prompt and continue, or create a new project inside the project menu bar.
 
@@ -72,7 +72,7 @@ In order to program the Dust sensor, we need to add an extension library. Search
 
 ### Write the program as shown in the figure
 
-![](./images/neza-inventor-s-kit-case-72-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-72-06.png)
 
 ### Reference Program
 
@@ -105,4 +105,4 @@ You can also download the program directly from the following webpage and start 
 
 The dust sensor is used to detect the dust concentration of the current environment, and when the dust concentration is too high, the fan is turned on for automatic ventilation.
 
-![](./images/neza-inventor-s-kit-case-72.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-72.gif)

@@ -1,10 +1,10 @@
-# Case 26: The Volume Indicator
+﻿# Case 26: The Volume Indicator
 
 ## Introduction
 
 This is a sound warning device. As we all know, noise pollution seriously affects our lives. If we are exposed to a certain decibel noise for a long time, our physical and mental state will also be harmed. Thus, we can make a noise detection device. Different decibel values light up different colors of lights to remind people to keep quiet.
 
-![](./images/case_28_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_28_01.png)
 
 ## Quick Start
 
@@ -30,7 +30,7 @@ Bricks × n
 Inset the micro:bit, and connect the rainbow LED ring to IIC port on Nezha expansion board.
 
 
-![](./images/case_28_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_28_03.png)
 
 
 
@@ -47,15 +47,15 @@ Video link: [https://youtu.be/4tFv6rWx8uM](https://youtu.be/4tFv6rWx8uM)
 
 ### Assembly Steps
 
-![](./images/case_step_26_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_26_01.png)
 
-![](./images/case_step_26_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_26_02.png)
 
-![](./images/case_step_26_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_26_03.png)
 
-![](./images/case_step_26_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_26_04.png)
 
-![](./images/case_step_26_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_26_05.png)
 
 
 
@@ -68,14 +68,14 @@ Video link: [https://youtu.be/4tFv6rWx8uM](https://youtu.be/4tFv6rWx8uM)
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](./images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
 
 
 
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "nezha" to download it.
 
-![](./images/case_03_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_03_09.png)
 
 
 ***Note:*** If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
@@ -86,7 +86,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 ### Programme as the pictures indicate
 
 
-![](./images/case_28_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_28_10.png)
 
 
 
@@ -119,4 +119,4 @@ You may download it directly below:
 ### Result
 After powering on, the rainbow LED ring lights up in different colors reflecting with the ambient sound level.
 
-![](./images/case-gif-26.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case-gif-26.gif)

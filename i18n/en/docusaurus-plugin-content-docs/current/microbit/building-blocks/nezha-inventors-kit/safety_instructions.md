@@ -1,4 +1,4 @@
-##  Nezha Precautions for Use
+﻿##  Nezha Precautions for Use
 Nezha-A Master Control Box is an electronic product and we need to pay attention to the following issues in daily use, please read carefully and be aware of the relevant precautions.
 
 1. Do not use the Nezha-A Control Box while it is being charged. Using the Nezha-A control box while charging will not only shorten the life, but may also cause damage to the product.
@@ -10,7 +10,7 @@ Nezha-A Master Control Box is an electronic product and we need to pay attention
 ## 360° Gray Block Servo Precautions for Use
 For the first time to use the servo,please adjust the angles first before building in case of the possile stuck of the servo, please see the references debugging procedures are as follows:
 
-![](./images/nezha_001.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/nezha_001.png)
 
 ## Notes on the use of PlanetX series sensors
 The planetX series sensors are also electronic components, and the precautions for use are the same as those for items 2, 3, 4, 5, and 6 of the Nezha-A main control box.

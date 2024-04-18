@@ -1,10 +1,10 @@
-# 手势识别电子积木
+﻿# 手势识别电子积木
 
 ## 简介
 ---
 OCTOPUS手势传感器是PAJ7620U2，它将手势识别功能与通用I2C接口集成到一个芯片中。 它可以识别9个手势，包括向上移动、向下移动、向左移动、向右移动等，只需轻轻一挥你的手即可轻轻滑动等等。
 
- ![](./images/AVBdYeR.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/AVBdYeR.jpg)
 
 ## 特性
 ---
@@ -28,7 +28,7 @@ SKU|EF04078
 ## 外形与定位尺寸
 ---
 
- ![](./images/FW7bmzW.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/FW7bmzW.png)
 
 ## 快速上手
 ---
@@ -37,19 +37,19 @@ SKU|EF04078
 
 ***以sensor:bit为例***
 
-![](./images/ef04078_08.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/ef04078_08.jpg)
 
 ### 添加Package
 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
-![](./images/smtcNoB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
 
 点击“Extensions”，在弹出的对话框中搜索“https://github.com/elecfreaks/pxt-gesture”，下载手势识别传感器代码库。
-![](./images/ef04078_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/ef04078_05.png)
 
 ### 如图所示编写程序
 
-![](./images/ef04078_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/ef04078_06.png)
 
 ### 参考程序
 请参考程序连接：[https://makecode.microbit.org/_Dry9Rm7xpi2A](https://makecode.microbit.org/_Dry9Rm7xpi2A)
@@ -81,7 +81,7 @@ SKU|EF04078
 
 
 
-![](./images/ef04078_07.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/ef04078_07.gif)
 
 ## 相关案例
 ---

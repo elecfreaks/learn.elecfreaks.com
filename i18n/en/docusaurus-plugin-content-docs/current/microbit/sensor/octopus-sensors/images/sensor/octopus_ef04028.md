@@ -1,10 +1,10 @@
-# MQ2 Analog Gas Sensor Brick(EF04028)
+﻿# MQ2 Analog Gas Sensor Brick(EF04028)
 
 ## Introduction
 
  The analog gas sensor  MQ2 is used in gas leakage detecting equipments in consumer and industry markets, this sensor is suitable for detecting LPG, i-butane, propane, methane ,alcohol, hydrogen, smoke. It is of high sensitivity and fast response, the sensitivity can be adjusted by the potentiometer.
 
-![](./images/04028_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04028_01.png)
 
 
 ## Products Link
@@ -33,7 +33,7 @@ Size：
 
 
 
-![](./images/04028_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04028_02.png)
 
 
 ## Quick to Start 
@@ -48,12 +48,12 @@ Size：
 
 
 
-![](./images/04028_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04028_03.png)
 
 
 ### Program as the picture shows 
 
-![](./images/04028_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04028_04.png)
 
 
 ### Reference

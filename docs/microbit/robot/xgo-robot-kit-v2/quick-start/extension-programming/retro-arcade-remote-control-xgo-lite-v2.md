@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 2
 sidebar_label: micro:bit Retro Arcade 遥控 XGO-lite V2
 ---
@@ -25,25 +25,25 @@ micro:bit Retro Arcade 与 XGO Robot Kit V2 的结合将为您带来前所未有
 
 micro:bit Retro Arcade 与 micro:bit XGO Robot Kit V2 都是使用 micro:bit 为主控制器，可以基于 micro:bit V2 的蓝牙功能，让两块主控制器之间可以进行相互通信。所以，本教程将通过图形化编程平台：[MakeCode](https://makecode.microbit.org) 与 [MakeCode Arcade](https://arcade.makecode.com) 对两款设备进行编程。
 
-![](./../../images/microbit-xgo-lite-v2-makecode-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-01.png)
 
-![](./../../images/microbit-xgo-lite-v2-makecode-011.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-011.png)
 
 ### XGO-lite V2 编程环境准备
 
 1.  打开[MakeCode](https://makecode.microbit.org)官网，点击**新建项目**，给项目命名并**创建**
 
-![](./../../images/microbit-xgo-lite-v2-makecode-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-02.png)
 
 2.  点击**扩展**并在搜索栏搜索**XGO**，选择XGO库，即可将XGO库加载到makecode平台编程环境
 
-![](./../../images/microbit-xgo-lite-v2-makecode-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-03.png)
 
-![](./../../images/microbit-xgo-lite-v2-makecode-03-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-03-1.png)
 
 ### XGO-lite V2 编程示例
 
-![](./../../images/microbit-xgo-lite-v2-makecode-03-6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-03-6.png)
 
 程序链接：https://makecode.microbit.org/_ddT6ypdu34Ap
 
@@ -51,23 +51,23 @@ micro:bit Retro Arcade 与 micro:bit XGO Robot Kit V2 都是使用 micro:bit 为
 
 点击**新建项目**
 
-![](./../../images/microbit-retro-arcade-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-retro-arcade-10.png)
 
 输入项目名称新建项目。
 
-![](./../../images/microbit-retro-arcade-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-retro-arcade-11.png)
 
 添加无线通信扩展库，点击扩展。
 
-![](./../../images/microbit-retro-arcade-25.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-retro-arcade-25.png)
 
 在搜索栏输入“radio”，点击搜索，添加扩展库。
 
-![](./../../images/microbit-retro-arcade-26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-retro-arcade-26.png)
 
 ### Retro Arcade 程序示例
 
-![](./../../images/microbit-xgo-lite-v2-makecode-03-7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-03-7.png)
 
 
 
@@ -75,15 +75,15 @@ micro:bit Retro Arcade 与 micro:bit XGO Robot Kit V2 都是使用 micro:bit 为
 
 由于目前对于Arcade平台官方而言，micro:bit V2（nRF52833）还在测试阶段，所以我们需要首先去到平台的设置页面将还在试验版本的硬件选项开放出来。
 
-![](./../../images/microbit-retro-arcade-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-retro-arcade-17.png)
 
 确保Expermental Hardware是已启用状态（只需要设定一次即可）
 
-![](./../../images/microbit-retro-arcade-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-retro-arcade-18.png)
 
 接着返回到编程主页，点击左下角的下载按钮，在弹出的选择硬件窗口拉到最底部选择N3
 
-![](./../../images/microbit-retro-arcade-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-retro-arcade-19.png)
 
 
 
@@ -93,4 +93,4 @@ micro:bit Retro Arcade 与 micro:bit XGO Robot Kit V2 都是使用 micro:bit 为
 
 ## 案例演示
 
-![](./../../images/microbit-xgo-lite-v2-makecode-0112.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-0112.gif)

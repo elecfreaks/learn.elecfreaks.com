@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 14
 sidebar_label: case 14 Joystick:bit Handle Remote Control
 ---
@@ -9,7 +9,7 @@ sidebar_label: case 14 Joystick:bit Handle Remote Control
 
 This course aims to realize the remote control function of smart racing cars by using the joystick:bit game controller, so that students can learn and explore knowledge points such as car driving control, micro:bit wireless pairing and communication. Students will learn how to use the joystick:bit game controller, master the wireless communication technology of micro:bit, and master the production and control skills of remote control racing cars through practical operations.
 
-[](./images/cutebot-pro-case-14-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/remote-control/images/cutebot-pro-case-14-01.png)
 
 ## Teaching Objectives
 
@@ -46,7 +46,7 @@ In group discussions, students are encouraged to share their views and ideas.
 
 **Handle Side**
 
-![](./images/cutebot-pro-case-14-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/remote-control/images/cutebot-pro-case-14-02.png)
 
 Link：[https://makecode.microbit.org/_6LW3TzF0DYXX](https://makecode.microbit.org/_6LW3TzF0DYXX)
 
@@ -74,7 +74,7 @@ You can also download the program directly from the following web page.
 
 ### Case presentation
 
-![](./images/cutebot-pro-case-14-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/remote-control/images/cutebot-pro-case-14-03.png)
 
 Link：[https://makecode.microbit.org/_8ij0v4W5a562](https://makecode.microbit.org/_8ij0v4W5a562)
 

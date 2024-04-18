@@ -1,10 +1,10 @@
-# 光电开关电子积木
+﻿# 光电开关电子积木
 
 ## 简介
 ---
 - Photo Interrupter Sensor是一款基于ITR9608光电开关的传感器模块，可以配合micoro:bit使用。
 
- ![](./images/xxZhvK9.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/xxZhvK9.jpg)
 
 ## 特性
 ---
@@ -27,7 +27,7 @@ ITR9608光电开关|内置红外发射管和接收管。
 
 ## 外形与定位尺寸
 ---
- ![](./images/J7MA9tb.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/J7MA9tb.jpg)
 
 ## 快速上手
 ---
@@ -36,13 +36,13 @@ ITR9608光电开关|内置红外发射管和接收管。
 
 ***以sensor:bit为例***
 
- ![](./images/bh7oR62.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/bh7oR62.png)
 
 ### 如图所示编写程序
 - 显示变量`item`的值。
 - 每当光电开关读取到一次值，将变量`item`加一。
 
-![](./images/dii53A7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/dii53A7.png)
 
 ### 参考程序
 

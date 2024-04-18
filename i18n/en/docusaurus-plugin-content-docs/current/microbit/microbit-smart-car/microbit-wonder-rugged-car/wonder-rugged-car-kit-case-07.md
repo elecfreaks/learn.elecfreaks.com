@@ -1,4 +1,4 @@
-# Case 07: Remote Control
+﻿# Case 07: Remote Control
 
 ## Purpose
 ---
@@ -28,15 +28,15 @@
 
 Click "Advanced" in the drawer of MakeCode to see more choices.
 
-![](./images/Mecanum_wheel_car_kit_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_01_01.png)
 
 For programming the Wonder Rugged Kit, we need to add a package. Click "Extensions" at the bottom of the drawer and then search "Wukong" in the dialogue box to download it.
 
-![](./images/Mecanum_wheel_car_kit_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_01_02.png)
 
 For programming the Joystick:bit, we need to add a package. Click "Extensions" at the bottom of the drawer and then search "joystickbit" in the dialogue box to download it.
 
-![](./images/Mecanum_wheel_car_kit_case_07_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_07_04.png)
 
 
 
@@ -47,7 +47,7 @@ For programming the Joystick:bit, we need to add a package. Click "Extensions" a
 Below is the code for Wonder Rugged Kit:
 
 
-![](./images/Mecanum_wheel_car_kit_case_07_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_07_05.png)
 
 
 Begin with radio set group and initialize the servos. Save the radio received value in `I` to control the movement of the car.
@@ -58,7 +58,7 @@ Begin with radio set group and initialize the servos. Save the radio received va
 Below is the code for Joystick:bit:
 
 
-![](./images/Mecanum_wheel_car_kit_case_07_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_07_06.png)
 
 
 Begin with the radio set group and send number through the status of the joystick handle and the buttons.

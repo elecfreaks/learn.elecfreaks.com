@@ -4,7 +4,7 @@
 ---
 Nezha is an expanstion board for micro:bit with multuple functions available. It equips with four servos connections, four motors connections and seven sensors connections. All of the connections are required with RJ11 connectors that are fool-proofing and easy to plug. It is also compatible to Lego and Fischertechnik bricks and is available to get them connected with the electric modules,  thus it allows students to easily create their own amazing micro:bit projects.
 
-![](./images/03444_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/03444_01.png)
 
 ## Products Link
 
@@ -17,20 +17,20 @@ Nezha is an expanstion board for micro:bit with multuple functions available. It
 ## Specification
 ---
 
-![](./images/03444_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/03444_02.png)
 
 
 ## Outlook and Dimensions
 ---
 
 
-![](./images/03444_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/03444_03.png)
 
 
 ## Main Parts Introduction
 ---
 
-![](./images/03444_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/03444_04.png)
 
 
 download link:[https://github.com/elecfreaks/learn-en/raw/master/microbitExtensionModule/file/nezha-Main-Parts-Introduction.pdf](https://github.com/elecfreaks/learn-en/raw/master/microbitExtensionModule/file/nezha-Main-Parts-Introduction.pdf)
@@ -40,11 +40,11 @@ download link:[https://github.com/elecfreaks/learn-en/raw/master/microbitExtensi
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](./images/03444_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/03444_05.png)
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "nezha" in the dialogue box to download it.
 
-![](./images/03444_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/03444_06.png)
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
@@ -52,12 +52,12 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 ---
 ### TT Motor
 
-![](./images/03444_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/03444_07.png)
 
 ### Code as below:
 
 
-![](./images/03444_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/03444_08.png)
 
 
 ### Link
@@ -90,12 +90,12 @@ Press button A to drive both motors; press button B to stop the motor connecting
 
 ### Servo
 
-![](./images/03444_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/03444_09.png)
 
 ### Code as below:
 
 
-![](./images/03444_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/03444_10.png)
 
 
 ### Link
@@ -134,13 +134,13 @@ Download the package and unzip it: [PlanetX_MicroPython](https://github.com/lion
 
 Go to  [Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/05001_07.png)
 
 We need to add nezha.py for programming. Click "Load/Save" and then click "Show Files (1)" to see more choices, click "Add file" to add nezha.py from the unzipped package of PlanetX_MicroPython.
 
-![](./images/03444_11.png)
-![](./images/03444_12.png)
-![](./images/03444_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/03444_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/03444_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/03444_13.png)
 
 ### Step 2
 ### Reference

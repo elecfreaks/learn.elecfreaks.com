@@ -1,10 +1,10 @@
-# Case 08: Run Along the Black Line
+﻿# Case 08: Run Along the Black Line
 
 ## Purpose
 
 The Cutebot runs along the black line.
 
-![](./images/cutebot-case-08-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-08-01.png)
 
 ## Materials
 
@@ -24,11 +24,11 @@ The Cutebot runs along the black line.
 
 Click the "Advanced" to see more choices in the MakeCode drawer.
 
-![](./images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
 
 A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
-![](./images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
 
 ***Note:*** If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
@@ -36,7 +36,7 @@ A codebase is required for Cutebot programming, click “Add Package” at the b
 
 Choose "show icon" in the `On start`brick.
 
-![](./images/case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_01_02.png)
 
 ### Step 3
 
@@ -50,7 +50,7 @@ Judge if the status of line-tracking sensors is  ● ○ and make a left turn to
 
 When the status is ● ● that means the Cutebot runs along with the black line at the speed of `50`.
 
-![](./images/case_08_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_08_01.png)
 
 
 ### Programming
@@ -83,7 +83,7 @@ You can also download it directly below:
 
 The Cutebot runs along the black line and will adjust to run back to the black line if any deviation happens.
 
-![](./images/cutebot-case-08.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-08.gif)
 
 ## Exploration
 

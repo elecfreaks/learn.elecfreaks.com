@@ -1,10 +1,10 @@
-# Joystick:bit V1
+﻿# Joystick:bit V1
 
 ## 简介
 ---
 Joystick:bit是一款基于micro:bit 的游戏手柄。它包含了一个操纵杆手柄和6个可定义的按钮，同时内置GVS, IIC, SPI, UART接口，可实现多种功能。另外板载电源开关和外接电源接口，使用非常方便。
 
-![](./images/joystick_v1_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/joystick_v1_01.jpg)
 
 
 ## 包装清单
@@ -37,40 +37,40 @@ Joystick:bit是一款基于micro:bit 的游戏手柄。它包含了一个操纵�
 ## 引脚定义
 ---
 
-![](./images/joystick_v1_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/joystick_v1_02.png)
 
-![](./images/joystick_v1_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/joystick_v1_03.png)
 
 ### 引脚接口详情
 
 1. CVS电子积木块的对应接口是G / V(3.3V) / P3 / P4 / P6。其中， P3 / P4对应的是模拟/PWM/数字接口，可以控制连接舵机和其他多种传感器。
 
-![](./images/joystick_v1_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/joystick_v1_04.png)
 
 2. UART 接口： V (3.3V) / G / TX / RX 是串行接口，可以兼容普通的无线通信模块，如HC08 / HC11。
 
-![](./images/joystick_v1_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/joystick_v1_05.png)
 
 3.I2C 通信接口：GND / VCC(3.3V) / SCL / SDA是标准的I2C 接口，兼容3.3V 的I2C 传感器和设备等。
 
-![](./images/joystick_v1_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/joystick_v1_06.png)
 
 4. SPI 通信接口：V / G / CS / RS / AO / DA / CK 接口兼容TFT 1.8英寸 LCD 模块，包括micro:bit主板上的SPI通信接口。
 
-![](./images/joystick_v1_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/joystick_v1_07.png)
 
 
 ## 尺寸
 ---
 
-![](./images/joystick_v1_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/joystick_v1_08.png)
 
 ## 编程
 ---
 
 示例：
 
-![](./images/joystick_v1_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/joystick_v1_09.png)
 
 按下按钮“1”， LED 显示“1”
 

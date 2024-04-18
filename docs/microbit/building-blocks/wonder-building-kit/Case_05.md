@@ -1,9 +1,9 @@
-# Case 04:  旋转飞椅。
+﻿# Case 04:  旋转飞椅。
 ## 目的
 
 使用悟空创意搭建套装制作一个旋转飞椅。
 
-![](./images/case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-05-01.png)
 
 ## 购买链接
 
@@ -11,7 +11,7 @@
 
 ## 所需材料
 
-![](./images/case-05-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-05-02.png)
 
 搭建视频链接:
 [https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=5&page=5](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=5&page=5)
@@ -19,53 +19,53 @@
 ## 搭建步骤
 
 
-![](./images/step-case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-01.png)
 
-![](./images/step-case-05-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-02.png)
 
-![](./images/step-case-05-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-03.png)
 
-![](./images/step-case-05-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-04.png)
 
-![](./images/step-case-05-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-05.png)
 
-![](./images/step-case-05-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-06.png)
 
-![](./images/step-case-05-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-07.png)
 
-![](./images/step-case-05-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-08.png)
 
-![](./images/step-case-05-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-09.png)
 
-![](./images/step-case-05-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-10.png)
 
-![](./images/step-case-05-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-11.png)
 
-![](./images/step-case-05-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-12.png)
 
-![](./images/step-case-05-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-13.png)
 
-![](./images/step-case-05-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-14.png)
 
-![](./images/step-case-05-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-15.png)
 
-![](./images/step-case-05-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-16.png)
 
-![](./images/step-case-05-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-17.png)
 
-![](./images/step-case-05-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-18.png)
 
-![](./images/step-case-05-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-19.png)
 
-![](./images/step-case-05-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-20.png)
 
-![](./images/step-case-05-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-21.png)
 
-![](./images/step-case-05-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-22.png)
 
-![](./images/step-case-05-23.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-23.png)
 
-![](./images/step-case-05-24.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-24.png)
 
 
 ## 软件编程平台
@@ -77,16 +77,16 @@
 
 在MakeCode的代码抽屉中点击高级，查看更多代码选项，点击扩展。
 
-![](./images/case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-01-03.png)
 
 在搜索框中搜索wukong，点击图片中wukong，添加扩展包。
 
-![](./images/case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-01-04.png)
 
 
 
 ### 程序
 
-![](./images/case-05-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-05-05.png)
 
 程序链接：[https://makecode.microbit.org/_efMVCrH4RJ93](https://makecode.microbit.org/_efMVCrH4RJ93)

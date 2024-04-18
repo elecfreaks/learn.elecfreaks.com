@@ -1,4 +1,4 @@
-# Case 10: Finger-guessing game
+﻿# Case 10: Finger-guessing game
 
 ## Purpose
 
@@ -9,7 +9,7 @@
  1 x [ELECFREAKS micro:bit Smart Coding Watch Kit](https://www.elecfreaks.com/micro-bit-smart-coding-kit.html)
 
 
-![](./images/smart_coding_kit_case_10_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_10_01.png)
 
 
 ## Software
@@ -27,14 +27,14 @@
 
  After receiving the data, save the data as variable "i"
 
-  ![](./images/smart_coding_kit_case_10_02.png)
+  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_10_02.png)
 
 ### Step 2
  In the Forever block, judge the value of "i" and "k", if they are not 0, it means both the players give a “fist"
  The winner will be judged by the comparasion of "i" and "k"
  Set both the varibles "i" and "k" as 0 and be prepared for the next round
 
-![](./images/smart_coding_kit_case_10_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_10_03.png)
 
 
 

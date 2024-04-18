@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 9
 sidebar_label: case 09 Follow the car at a fixed distance
 ---
@@ -9,7 +9,7 @@ sidebar_label: case 09 Follow the car at a fixed distance
 
 This course aims to guide students to learn the application of graphical programming and sensor technology by using Cutebot Pro intelligent racing car to make a case. Students will learn how to program a car to follow the car in front while maintaining a certain distance. In the process of achieving this goal, students will involve knowledge points such as judgment, branching, and logic operations of program design, and understand the working principle of ultrasonic sensors.
 
-![](./images/cutebot-pro-case-09-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-09-01.png)
 
 ## Teaching Objectives
 
@@ -39,7 +39,7 @@ How to write a program to make the car follow the car in front and keep a certai
 
 ### Sample Code
 
-![](./images/cutebot-pro-case-09-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-09-02.png)
 
 
 Link：[https://makecode.microbit.org/_YJcR3hfW68kC](https://makecode.microbit.org/_YJcR3hfW68kC)

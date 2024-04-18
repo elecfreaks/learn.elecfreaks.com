@@ -1,4 +1,4 @@
-# Case 09: Noise Detection Device in the Library
+﻿# Case 09: Noise Detection Device in the Library
 
 
 ##  Introduction
@@ -18,14 +18,14 @@
 
 ## Picture
 ---
-![](./images/microbit-Smart-City-Kit-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-02.png)
 
 ## Hardware Connection
 ---
 
 Connect the green led to P1, the yellow to P2, the red to P9 and the OLED to the IIC  port on IoT:bit.
 
-![](./images/microbit-Smart-City-Kit-case-04-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-04-03.png)
 
 ## Software Program
 
@@ -33,11 +33,11 @@ Connect the green led to P1, the yellow to P2, the red to P9 and the OLED to the
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](./images/microbit-Smart-City-Kit-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-04.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "iot-environment-kit" in the dialogue box to download it.
 
-![](./images/microbit-Smart-City-Kit-case-01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-05.png)
 
 
 
@@ -49,11 +49,11 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 Initialize the OLED and display the sound level on the OLED screen.
 
-![](./images/microbit-Smart-City-Kit-case-09-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-09-07.png)
 
 If the sound level is below 100, program to light on the green led, if it's below 150, program to light on the yellow led; or to light on the red led.
 
-![](./images/microbit-Smart-City-Kit-case-09-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-09-08.png)
 
 
 Link: [https://makecode.microbit.org/_2D82PVTC2Vhr](https://makecode.microbit.org/_2D82PVTC2Vhr)

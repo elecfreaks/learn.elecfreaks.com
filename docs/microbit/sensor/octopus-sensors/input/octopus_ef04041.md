@@ -4,7 +4,7 @@
 ---
 Octopus模拟电位计旋转模块与micro:bit兼容，可以旋转300度。
 
-![](./images/04041.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/04041.jpg)
 
 ## 特性
 ---
@@ -27,7 +27,7 @@ SKU|04041
 ## 外形与定位尺寸
 ---
 
-![](./images/octopus_board.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/octopus_board.png)
 
 ## 快速上手
 ---
@@ -37,7 +37,7 @@ SKU|04041
 
 ***以sensor：bit为例***
 
- ![](./images/04041-3.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/04041-3.png)
 
 
 ### 参考程序
@@ -75,13 +75,13 @@ SKU|04041
 下载压缩包并解压[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/05001_07.png)
 
 为了给电位器模块编程，我们需要添加trimpot.py。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的Octopus_MicroPython-master文件夹，从中选择trimpot.py添加进来。
 
-![](./images/05001_08.png)
-![](./images/05001_09.png)
-![](./images/04041_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/04041_10.png)
 
 ### 步骤 2
 ### 参考程序

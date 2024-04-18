@@ -1,9 +1,9 @@
-# Joystick breakout module BKOUT_MD01(EF03055)
+﻿# Joystick breakout module BKOUT_MD01(EF03055)
 
 ## Introduction
 
 
-![](./images/03055_1.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/input/images/03055_1.jpg)
 
 
 ## Characteristics
@@ -53,7 +53,7 @@ Click "Extensions" to search "IoT" in the dialogue box and then download it.
  The current status of the joystick shows on the OLED screen.
 
 
-![](./images/03055_3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/input/images/03055_3.png)
 
 
 ### Reference

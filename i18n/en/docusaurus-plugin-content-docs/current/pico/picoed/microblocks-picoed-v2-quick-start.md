@@ -10,20 +10,20 @@ sidebar_position: 5
 
 ## MicroBlocks Introduction
 
-MicroBlocks is an open graphical programming platform that allows you to learn programming while interacting with your microcontroller. Although MicroBlocks is just one of many graphical programming platforms, what really makes MicroBlocks stand out is its combination of real-time compilation and autonomous operation.
+MicroBlocks is an open source blocks programming platform that allows you to learn programming while interacting with your microcontroller. Although MicroBlocks is just one of many graphical programming platforms, what really makes MicroBlocks stand out is its combination of live programming and autonomous operation.
 
 Its excellent features are listed below:
 
 * MicroBlocks is a real-time programming environment, no need to wait for the program to be compiled and downloaded, just click on the code block and see the result instantly.
-* MicroBlocks Individual scripts can be written for each component and run simultaneously.
-* MicroBlocks can run on a wide range of microcontroller motherboards, and it groups components with the same function on different machines and controls them in the same programming way, so the code you write is highly portable.
-* You can read the programs in the microcontroller's motherboard for your easy access and sharing.
+* MicroBlocks allows you to control each component by writing separate scripts for each and and running them at the same time.
+* MicroBlocks can run on a wide range of microcontroller boards. Scripts controlling various components run the same on different machines with similar components, and are ignored if any component is not present. So the code you write is highly portable.
+* MicroBlocks scripts are stored on the microcontroller like a memory stick. They can be shared by exchanging the microcontrollers and loading on-board scripts to the IDE for further editing, providing easy access and sharing.
 
 > For more information about MicroBlocks programming platform, you can visit its official website: [MicroBlocks official website](https://microblocks.fun/).
 
 ## Programming Preparation
 
-First, you need to open the MicroBlocks official website in your computer browser and click the "**Run**" button in the upper right corner to enter the graphical programming interface.
+First, you need to open the MicroBlocks official website in your computer browser and click the "**Run**" button in the upper right corner to enter the block programming interface.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/pico-microblocks-2.png)
 
@@ -35,7 +35,7 @@ Click on the small gear icon in the upper left corner of the MicroBlocks program
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/pico-microblocks-5.png)
 
-According to the pop-up window that appears, first you need to press the "**BOOTSEL**" button on the back of the Pico:ed v2 (* where ① is the BOOTSEL button and ② is the RESET button*), and connect the Pico:ed v2 to your computer using the USB cable, then click the "**OK**" button on the MicroBlocks platform pop-up window to save the driver to the "**RPI-RP2**" disk.
+According to the pop-up window that appears, first you need to press the "**BOOTSEL**" button on the back of the Pico:ed v2 (* where ① is the BOOTSEL button and ② is the RESET button*), and connect the Pico:ed v2 to your computer using the USB cable, then click the "**OK**" button on the MicroBlocks platform pop-up window to save the firmware to the "**RPI-RP2**" disk.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/pico-microblocks-6.png)
 
@@ -43,7 +43,7 @@ According to the pop-up window that appears, first you need to press the "**BOOT
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/pico-microblocks-8.png)
 
-After the above steps, you have finished burning the driver of Pico:ed v2 in MicroBlocks platform, you still need to connect MicroBlocks platform with Pico:ed v2 before you start programming. Click on the USB cable female icon in the menu bar, click on the "**connect**" option, and in the pop-up window, select "**PicoArduino**", (*COM19 is the recognized port number of this computer, the number shown on your computer may be different to the one shown on your computer). Then click "**connect**" you can see the menu bar USB cable female icon has a green background, which proves that it has been successfully connected, then you can enter the programming world happily.
+After you have finished loading the firmware of Pico:ed v2 to the microcontroller, you still need to connect MicroBlocks platform with Pico:ed v2 before you start programming. Click on the USB cable female icon in the menu bar, click on the "**connect**" option, and in the pop-up window, select "**PicoArduino**", (*COM19 is the recognized port number of this computer, the number shown here may be different than the one shown on your computer). When you click "**connect**" you can see the menu bar USB cable female icon change to a green background, which proves that it has been successfully connected. Now you can start programming.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/pico-microblocks-9.png)
 
@@ -53,19 +53,19 @@ After the above steps, you have finished burning the driver of Pico:ed v2 in Mic
 
 ## Start programming
 
-Next, we will learn to program the interaction of each programmable component on the Pico:ed v2 board, such as the A/B buttons, the 7*17 LED screen, the buzzer, the gold finger pins, and the LED indicator (pin number 25) that is unique to the Pico:ed v2. Let's get started.
+Next, we will learn to program each programmable component of the Pico:ed v2 board, such as the A/B buttons, the 7x17 LED screen, the buzzer, the gold finger pins, and the on-board LED indicator (pin number 25) that is unique to the Pico:ed v2. Let's get started.
 
-#### Light up the Pico:ed v2 logo indicator
+#### Light up the Pico:ed v2 on-board LED logo indicator
 
-Tap on the "**Output**" block library in the left block library menu, drag the "**set user LED** "  block to the right edit area, the "**set user LED**" block has two modes(on/off) corresponding to the Pico:ed v2 on-board LEDs(on/off), see them in the figure below:
+Tap on the "**Output**" category in the Block Categories menu and drag the "**set user LED** "  block to the edit area on the right. The "**set user LED**" block has two modes(on/off) corresponding to the Pico:ed v2 on-board LEDs(on/off) status, see them in the figure below:
 
-> Tip: To program in MicroBlocks platform, you don't need to download the program, just click on the blocks you have dragged to the editing area and you can see the running effect.
+> Tip: To program in MicroBlocks platform, you don't need to download your program to the microcontroller. Just click on the blocks in the Blocks Palette or the ones you have dragged to the editing area and you can see the results immediately.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/pico-microblocks-12.png)
 
 #### Light up the Pico:ed v2 LED light matrix screen
 
-To program the Pico:ed v2 LED light matrix screen you need to add the " **TFT**" library, click on the "**Libraries**" right side of the "**+** ", select "**Graphics**" from the options that appear, then double click on the "**TFT**" library, or click on "**Open** " and you're done adding the TFT library to it.
+To program the Pico:ed v2 LED light matrix screen you need to add the " **TFT**" library. Click on the "**Libraries**" right side of the "**+** ", select "**Graphics**" from the options that appear, then double click on the "**TFT**" library, or single-click and select "**Open** " and you're done adding the TFT library to the IDE.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/pico-microblocks-13.png)
 
@@ -83,7 +83,7 @@ Examples are as follows:
 
 [Link to demonstration programs such as lighting LEDs by coordinates](https://microblocks.fun/run/microblocks.html#scripts=GP%20Scripts%0Adepends%20%27TFT%27%0A%0Ascript%20549%2088%20%7B%0AwhenStarted%0Aforever%20%7B%0A%20%20%27%5Btft%3AsetPixel%5D%27%200%200%20%28colorSwatch%2035%20190%2030%20255%29%0A%20%20waitMillis%20500%0A%20%20%27%5Btft%3AsetPixel%5D%27%2016%200%20%28colorSwatch%2035%20190%2030%20255%29%0A%20%20waitMillis%20500%0A%20%20%27%5Btft%3AsetPixel%5D%27%2016%206%20%28colorSwatch%2035%20190%2030%20255%29%0A%20%20waitMillis%20500%0A%20%20%27%5Btft%3AsetPixel%5D%27%200%206%20%28colorSwatch%2035%20190%2030%20255%29%0A%20%20waitMillis%20500%0A%20%20%27%5Bdisplay%3AmbDisplayOff%5D%27%0A%20%20waitMillis%20500%0A%7D%0A%7D%0A%0A)
 
-There are also blocks for drawing shapes in the TFT block library, so you can try them out. Here is a very interesting case for reference:
+There are also blocks for drawing shapes in the TFT block library for you to try them out. Here is a very interesting case for reference:
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/pico-microblocks-1.gif)
 
@@ -93,15 +93,15 @@ There are also blocks for drawing shapes in the TFT block library, so you can tr
 
 #### A/B key programming
 
-Programming key interactions is relatively easy to learn. You can use the following commands directly from the "**Control**" and "**Input**" building blocks library.
+Programming button interactions is relatively easy to learn. You can use the following commands directly from the "**Control**" and "**Input**"  Blocks Categories menu.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/pico-microblocks-18.png)
 
-An example of A/B key programming is as follows.
+An example of A/B button programming is as follows.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/pico-microblocks-19.png)
 
-[A\B Key Programming Case Links](https://microblocks.fun/run/microblocks.html#scripts=GP%20Scripts%0Adepends%20%27TFT%27%0A%0Ascript%20725%20128%20%7B%0AwhenButtonPressed%20%27A%27%0A%27%5Btft%3Arect%5D%27%200%200%2017%207%20%28colorSwatch%2035%20190%2030%20255%29%0A%7D%0A%0Ascript%20727%20216%20%7B%0AwhenStarted%0Aforever%20%7B%0A%20%20if%20%28buttonB%29%20%7B%27%5Bdisplay%3AmbDisplayOff%5D%27%7D%0A%7D%0A%7D%0A%0A)
+[A\B Button Programming Case Links](https://microblocks.fun/run/microblocks.html#scripts=GP%20Scripts%0Adepends%20%27TFT%27%0A%0Ascript%20725%20128%20%7B%0AwhenButtonPressed%20%27A%27%0A%27%5Btft%3Arect%5D%27%200%200%2017%207%20%28colorSwatch%2035%20190%2030%20255%29%0A%7D%0A%0Ascript%20727%20216%20%7B%0AwhenStarted%0Aforever%20%7B%0A%20%20if%20%28buttonB%29%20%7B%27%5Bdisplay%3AmbDisplayOff%5D%27%7D%0A%7D%0A%7D%0A%0A)
 
 #### Buzzer Programming
 
@@ -109,13 +109,13 @@ To program the buzzer, you need to add the "**Ringtone**" block library and the 
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/pico-microblocks-20.png)
 
-The "**Ringtone**" block in the "**play ringtone**" library allows you to compose ringtones, so you can try to compose the ringtone you want. If you are looking for already written ringtones, the website link below has a collection of nearly 10,000 ringtones for you to choose from.
+The "**play ringtone**" block in the "**Ringtone**" library allows you to compose any ringtones you want. If you are looking for already written ringtones, the website link below has a collection of nearly 10,000 ringtones for you to choose from.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/pico-microblocks-21.png)
 
 [Ringtone Library Website Link](http://microblocks.fun/mbtest/NokringTunes.txt)
 
-The "**Tone**" block library allows you to set how long to play a specific note, and also how often to play it, etc.
+The "**Tone**" library allows you to set how long to play a specific note, and also how often to play it, etc.
 
 An example of how the buzzer is programmed is as follows.
 
@@ -125,7 +125,7 @@ An example of how the buzzer is programmed is as follows.
 
 #### Programming the Pico:ed v2 pins
 
-Next we will use the Pico:ed Starter Kit to demonstrate the control of LEDs on the MicroBlocks platform using the Pico:ed v2 gold finger pins. This example can also be reproduced if you have alligator wires, leds, 100Ω resistors and other components.
+Next we will use the Pico:ed Starter Kit to demonstrate the control of LEDs by the MicroBlocks platform, using the Pico:ed v2 gold finger pins. This example can also be reproduced if you have alligator wires, leds, 100Ω resistors and other components.
 
 Pico:ed Starter Kit purchasing link: [Pico:ed Starter Kit ](https://www.elecfreaks.com/elecfreaks-pico-ed-starter-kit.html).
 
@@ -133,9 +133,9 @@ Hardware Connections
 
 Connect your components according to the following pictures.
 
-1. connect the short pin of the LED to GND.
+1. connect the short pins of the LEDs to GND.
 
-2. Connect the long pin of the LED to the P0 and P1 ports through a resistor.
+2. Connect the long pins of the LEDs to the P0 and P1 ports through a resistor.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/pico-microblocks-23.png)
 
@@ -155,7 +155,7 @@ Case presentation
 
 #### Concluding remarks
 
-The above is a simple demonstration of how Pico:ed v2 is programmed in MicroBlocks platform, you can explore more interesting and fun programming cases, of course, we also welcome you to share the cases to us, the following is our official media account, we will update the interesting cases, welcome to follow and participate in the discussion:
+The above is a simple demonstration of how Pico:ed v2 is programmed in MicroBlocks platform. You can explore more interesting and fun programming cases. We also welcome you to share your programs with us at our official media account. We will update the collection with the selected programs and you are welcome to follow and participate in the discussion:
 
 Facebook: [https://www.facebook.com/ElecFreaksTech](https://www.facebook.com/ElecFreaksTech)
 

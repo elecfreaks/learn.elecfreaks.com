@@ -2,7 +2,7 @@
 哈喽，接下来你要使用的 Sonar:bit 是一个3线宽压超声波模块，它的工作电压为3.0V-5V，3.3V或5V的单片机系统均能使用；它只需要3根线（G、V、S）就可以工作，比常规的4线超声波模块节省一个 IO 口。Sonar:bit 量程为4cm~400cm，测量数据稳定准确，误差仅为±1cm。
 它可以使用扩展片与 Ring:bit 连接，为 Ring:bit 小车扩展超声波功能。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/sonar_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/sonar_01.png)
 
 ## 特性
 输入电压为3V~5V，Pico:ed 能直接驱动。
@@ -22,21 +22,21 @@
 
 ## 外形与安装定位尺寸
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/sonar_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/sonar_02.png)
 
 ## 快速上手
 ### 硬件连接
 首先使用铆钉将扩展亚克力连接到Ring:bit小车后板插口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/sonar_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/sonar_03.png)
 
 再将Sonar:bit使用铆钉连接到扩展亚克力板上方。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/sonar_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/sonar_04.png)
 
 使用3pin连接线连接到 Ring:bit 扩展板，扩展完成。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/sonar_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/sonar_05.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EFqFEwfLRyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

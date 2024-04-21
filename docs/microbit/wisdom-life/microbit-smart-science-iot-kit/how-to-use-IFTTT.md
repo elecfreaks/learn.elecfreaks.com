@@ -10,7 +10,7 @@ sidebar_position: 5
 
 ## 如何通过IFTTT发送温度阈值报警电子邮件
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_01.jpg)
 
 
 
@@ -21,7 +21,7 @@ IFTTT是“if this then that”的缩写。事实上，它会对您的网站行�
 通过 IFTTT 发送 micro:bit 温度报警电子邮件
 首先，请确保您已成功将温度数据从 micro:bit 上传到 Thingspeak。如果您不知道如何操作，可以阅读本文 如何将 Micro:bit Data 发送到 ThingSpeak IoT Platform 以获取帮助。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_02.png)
 
 ## 第1步：注册IFTTT帐户
 ---
@@ -29,100 +29,100 @@ IFTTT是“if this then that”的缩写。事实上，它会对您的网站行�
 
 打开 IFTTT 官网之后点击 "Start today",进入登录界面。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_03.png)
 
 你可以选择多种方式登录 IFTTT，但是我们推荐您通过经常使用的电子邮箱注册一个新的账号，点击“**sign up**”之后会出现注册页面。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_03_1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_03_1.png)
 
 在此输入邮箱账号和设置密码之后就会出现注册成功的页面。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_03_2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_03_2.png)
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_03_3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_03_3.png)
 
 ## 第2步：IFTTT Webhooks设置
 ---
 在主页面右上角选择”Create“，创建一个小程序。提示我们可以创建2个小程序。我们点击"If This"后面的”Add“,要添加一个触发器。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_04.png)
 
 **注意：如果后面您创建超过2个“Applets”，需要修改或者删除“Applets“，方便您下次创建不同的”Applets“，本文后面会介绍到如何删除或者修改"Applets"。**
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_05_1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_05_1.png)
 
 搜索“webhooks”。点击”Webhooks“。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_06.png)
 
 选择触发器。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_07.png)
 
 命名此任务。这里我们称之为“name”，其中"Event Name"可以自定义。点击”Create trigger“创建完成触发器。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_08.png)
 
 完成触发设置后，选择"Then That"后面的”Add“。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_09.png)
 
 搜索“email”并选择”Email“。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_10.png)
 
 
 
 选择”Send me an email“,然后选择”Create action“,然后点击”Continue“之后，最后选择”Finish“.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_10_1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_10_1.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_10_2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_10_2.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_10_3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_10_3.png)
 
 ## 第3步：Thingspeak设置
 ---
 在此之前，您必须将温度数据从micro：bit上传到Thingspeak。如果您不知道如何操作，请阅读本文 如何将Micro：bit Data发送到ThingSpeak IoT平台 以获取帮助。首先，创建一个新的ThingHTTP服务。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_15.png)
 
 这是与IFTTT连接的设置：
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_16.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_16.png)
 
 **注意：**
 其中①内容为URL，是Web请求的链接，可以从IFTTT中主页面搜索"webhooks"，点击“webhooks”。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_06.png)
 
 
 
 然后点击“Documentation”，将链接中的{event}改为触发事件名称，在本案例中使用的是“name”，将改好的链接复制到ThinkSpeak的①处。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_16_1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_16_1.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_16_2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_16_2.png)
 
 在Body中，您可以调用Channel中的任何数据。这是将发送到IFTTT的数据，格式如下：{“data”：“%% channel_2009185_field_1 %%”},其中②处数字ID是你已经建立好的 Channel ID.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_16_3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_16_3.png)
 
 有关ThingHTTP应用程序的更多详细信息，请参阅:[//ww2.mathworks.cn/help/thingspeak/thinghttp-app.html](https://ww2.mathworks.cn/help/thingspeak/thinghttp-app.html). 
 
 最后，创建一个 React 服务。在 Apps 选项下，选择 React，可以点击 New React，也可以编辑之前创建好的React。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_17.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_17.png)
 
 
 
 以下是设置：测试通道2009185（不同的帐户有不同的通道，请将其更改为您自己的通道）以查看温度值是否高于30.如果是，则触发 ThingHTTP 中的 Temp 服务。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_18.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_18.png)
 
 有关React APP的更多详细信息，请参阅 [https://ww2.mathworks.cn/help/thingspeak/react-app.html](https://ww2.mathworks.cn/help/thingspeak/react-app.html).
 
@@ -130,7 +130,7 @@ IFTTT是“if this then that”的缩写。事实上，它会对您的网站行�
 
 我们需要对micro:bit进行编程，参考代码如下：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_18_1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_18_1.png)
 
 程序参考链接：https://makecode.microbit.org/_aLe2ddHwFCs6
 
@@ -139,8 +139,8 @@ IFTTT是“if this then that”的缩写。事实上，它会对您的网站行�
 
 我们可以从Thingspeak频道的数据中看到温度超过30m度。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_19.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_19.png)
 
 检查您的电子邮箱，看看您是否收到了IFTTT的电子邮件！
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_20.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_20.png)

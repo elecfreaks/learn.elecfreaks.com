@@ -8,7 +8,7 @@ Learn to control the character's lateral movement, jumping, and scene creation.
 
 1 x  [ELECFREAKS Retro Makecode Arcade For Education](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
 
-![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-01.png)
+![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-01-01.png)
 
 ## Software
 
@@ -18,15 +18,15 @@ Learn to control the character's lateral movement, jumping, and scene creation.
 
 Set the background color and set the block map.
 
-![retro-case-04-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-04-01.png)
+![retro-case-04-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-04-01.png)
 
 Set the sprite, set the y-axis acceleration of the sprite, and set the y-axis velocity to 0 by moving the sprite with the button.
 
-![retro-case-04-03.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-04-03.png)
+![retro-case-04-03.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-04-03.png)
 
 Set the camera to follow the sprite movement and set the sprite jump function.
 
-![retro-case-04-04.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-04-04.png)
+![retro-case-04-04.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-04-04.png)
 
 ### Procedures
 

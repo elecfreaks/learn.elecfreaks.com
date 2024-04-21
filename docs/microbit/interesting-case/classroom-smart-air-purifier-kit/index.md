@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: 智能空气净化器
 ---
@@ -13,4 +13,4 @@ sidebar_label: 智能空气净化器
 
 通过这个案例，学生们将能够亲自动手制作一个简单而实用的智能设备，体验创客的乐趣，并且在实践中提升他们的科学技术能力和创新思维。
 
-![](./images/microbit-smart-maker-kit-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-01.png)

@@ -4,7 +4,7 @@
 
 The RFID sensor uses radio frequency to read and write the recording media (electronic tags or radio frequency cards) to achieve the purpose of identifying targets and data exchange.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05047_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05047_01.png)
 
 ## Products Link
 
@@ -33,7 +33,7 @@ Core IC|PN5321A3
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05047_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05047_02.png)
 
 
 ## Quick to Start
@@ -44,7 +44,7 @@ Core IC|PN5321A3
  Connect the RFID  to the IIC port on Nezha expansion board.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05047_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05047_03.png)
 
 
 ## MakeCode Program
@@ -53,11 +53,11 @@ Core IC|PN5321A3
 ### Step 1
 Click "Advanced" in the drawer of the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_04.png)
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_05.png)
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
@@ -65,7 +65,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 ### Code as below:
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05047_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05047_06.png)
 
 
 Link: [https://makecode.microbit.org/_fXU8hWYc9Lhu](https://makecode.microbit.org/_fXU8hWYc9Lhu)

@@ -7,7 +7,7 @@
 
 - IoT:bit是一款基于micro:bit的物联网micro:bit扩展板，它使用ESP8266为WIFI扩展模块，使用串口与micro:bit通信，同时扩展了micro:bit上所有可用的IO口，以GVS形式引出，通过它能扩展各种3V的电子积木模块，如LED灯、光敏、舵机等。并且板载了蜂鸣器能够播放外音。板载RTC时钟，断电也可以继续计时。使用makecode编程扩展专属代码库，可以方便接入thingspeak，快速搭建物联网智能设备。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/NGKCsKq.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NGKCsKq.jpg)
 
 ### 特性
 ---
@@ -29,7 +29,7 @@
 - PCB板厚：1.5mm
 - 开孔直径：2.4mm
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/5CDXW5R.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/5CDXW5R.png)
 
 ### 参数
 ---
@@ -53,12 +53,12 @@
 ### 引脚接口框图
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/3Pb4vCV.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/3Pb4vCV.png)
 
 ### 主体模块介绍
 ---
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/bkO3DMr.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/bkO3DMr.png)
 
 ## 软件支持
 ---
@@ -72,7 +72,7 @@
 
 - https://makecode.microbit.org
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/LczawXh.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/LczawXh.png)
 
 ### JavaScript代码编程
 ---
@@ -81,7 +81,7 @@
 
 - https://makecode.microbit.org
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/X7zJlwA.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/X7zJlwA.png)
 
 ### MicroPython代码编程
 ---
@@ -90,7 +90,7 @@
 
 - https://codewith.mu/
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/CJytOdT.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/CJytOdT.png)
 
 
 ## 快速上手
@@ -99,15 +99,15 @@
 
 - 首先安装CR1220纽扣电池为RTC时钟模块供电,
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/EkM7aP2.gif)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/EkM7aP2.gif)
 
 - 然后把Microbit插到Iot:bit上，注意插接方向
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/kFW4hB9.gif)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/kFW4hB9.gif)
 
 - 最后使用独立USB电源为扩展板供电，打开板载电源开关。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/DXB3mBI.gif)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/DXB3mBI.gif)
 
 ### 软件编程
 ---
@@ -122,11 +122,11 @@
 
 - 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/j31P9Bx.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/j31P9Bx.jpg)
 
 - 为了给IoT物联网环境科学套件编程，我们需要添加一个扩展库。在代码抽屉底部找到“Extension”，并点击它。这时会弹出一个对话框。搜索“IOT"，然后点击下载这个代码库。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/AaZxCEb.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AaZxCEb.jpg)
 
 **注意：**如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -136,11 +136,11 @@
 
 - IoT:bit板载一颗蜂鸣器，位置如图上所示，连接到micro:bit主板的P0口，可以直接用makecode积木块中`music`编程播放音乐。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/zBNYZsy.png) ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/lNibSJk.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/zBNYZsy.png) ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lNibSJk.png)
 
 - 在input函数库中选择当按钮A按下时。编写一小段音乐。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/cPG4w9y.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cPG4w9y.png)
 
 - 程序代码链接：[https://makecode.microbit.org/_4j6PCeV087AW](https://makecode.microbit.org/_4j6PCeV087AW)
 
@@ -150,7 +150,7 @@
 
 - IoT:bit板载DS1307RTC时钟模块，位置如上图所示，RTC时钟需要一颗CR1220纽扣电池持续供电，这样当IOT:bit断电时，RTC时钟模块也持续工作保证时间正确。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/Y76pQRh.jpg) ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/ivqmwe3.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Y76pQRh.jpg) ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ivqmwe3.png)
 
 ---
 
@@ -158,7 +158,7 @@
 
 - 将电源关闭一分钟后再打开电源，点阵显示屏会显示增加１分钟后的分钟数。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/t9fOHMT.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t9fOHMT.png)
 
 - 程序代码链接：[https://makecode.microbit.org/_AXXF9hA0049u](https://makecode.microbit.org/_AXXF9hA0049u)
 
@@ -168,13 +168,13 @@
 - IoT:bit最重要的功能为WIFI功能，板载`ESP-12F`WIFI模块，可以连接WIFI，发送数据，使用串口与micro:bit主板通信，板载默认连接引脚`RX-P8`，`TX-P12`。物联网使用
 - 使用thingspeak平台作为物联网云端，可以编写代码一键上传数据。thingspeak平台使用指南
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/CbzmpB1.jpg) ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/fLnI2rl.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/CbzmpB1.jpg) ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/fLnI2rl.png)
 
 - 当开机时初始化ESP8266默认连接到P8和P12端口。
 - 然后连接自己的WiFi，写入账号和密码。
 - 在永久循环中，连接thinkspeak平台，设置要发送的数据，然后发送数据，暂停一会。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/03PNnhW.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/03PNnhW.png)
 
 - 程序代码链接：[https://makecode.microbit.org/_JAXAmmHq4FhW](https://makecode.microbit.org/_JAXAmmHq4FhW)
 
@@ -183,23 +183,23 @@
 
 - IoT:bit同样支持elecfreaks出品的各种传感器，为了方便使用，扩展包里新增了Octopus积木块。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/hQwlIOW.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/hQwlIOW.png)
 
 ### 下载代码 ###
 ---
 - 首先将micro:bit单独连接USB线，另一端连接到电脑。（如果插在扩展板上可能会导致micro:bit连接不正常或者损坏）
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/DfE3smq.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/DfE3smq.jpg)
 
 - 将下载好的文件，点击鼠标右键发送到micro:bit盘，或者复制黏贴micro:bit盘。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/lIRbv15.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lIRbv15.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/JsGZrPa.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JsGZrPa.png)
 
 - 即可观察程序结果。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/YEGtIO7.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/YEGtIO7.jpg)
 
 ### 文档
 ---

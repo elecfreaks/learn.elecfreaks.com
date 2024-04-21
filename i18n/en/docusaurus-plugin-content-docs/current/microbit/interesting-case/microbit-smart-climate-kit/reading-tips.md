@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: 阅读提示
 ---
@@ -8,10 +8,10 @@ sidebar_label: 阅读提示
 
 ##  Symbols Explanation
 
-| ![](./images/smart-weather-station-kit-reading-tips-01.png) | Important Notes       | Ignoring such information may cause the product to malfunction, be damaged, or cause personal injury. |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/images/smart-weather-station-kit-reading-tips-01.png) | Important Notes       | Ignoring such information may cause the product to malfunction, be damaged, or cause personal injury. |
 | ----------------------------------------------------------- | --------------------- | ------------------------------------------------------------ |
-| ![](./images/smart-weather-station-kit-reading-tips-02.png) | Tips for operation    | Details to be noted during operation.                        |
-| ![](./images/smart-weather-station-kit-reading-tips-03.png) | Tips and Instructions | Prompt messages that help you understand the operating instructions. |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/images/smart-weather-station-kit-reading-tips-02.png) | Tips for operation    | Details to be noted during operation.                        |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/images/smart-weather-station-kit-reading-tips-03.png) | Tips and Instructions | Prompt messages that help you understand the operating instructions. |
 
 ## Recommendations
 

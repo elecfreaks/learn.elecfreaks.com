@@ -5,7 +5,7 @@ sidebar_label: Case 03 Warmth in the Dark
 
 # Case 03: Warmth in the Dark
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case03-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case03-01.png)
 
 ## Introduction
 
@@ -29,7 +29,7 @@ Being alone in a dark room is not only frightening but also gives you a feeling 
 
 ### The light sensor
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/pico-beginner-kit-30.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-beginner-kit-30.png)
 
 A light sensor is a sensor that uses a photosensitive element to convert a light signal into an electrical signal. It is sensitive to wavelengths around visible light wavelengths, including infrared wavelengths and ultraviolet wavelengths. A light sensor is not limited to the detection of light, it can also be used as a detection element to form other sensors that detect many non-electric quantities, as long as these non-electric quantities are converted into changes in the light signal.
 
@@ -41,11 +41,11 @@ Photosensitive sensors are mainly used in solar lawn lights, light-controlled ni
 
 Connect your components according to the following connection diagram:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case03-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case03-05.png)
 
 ### MicroBlocks Graphical Programming
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case03-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case03-04.png)
 
 ### CircuitPython Code
 
@@ -65,7 +65,7 @@ while True:
 
 ### Case Display
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-kit-case03-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-kit-case03-06.gif)
 
 ### Think
 

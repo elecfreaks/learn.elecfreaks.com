@@ -1,11 +1,11 @@
-# 魔法棒套件案例01：遭遇险情
+﻿# 魔法棒套件案例01：遭遇险情
 
 ## 目的
 ---
 
 - 使用魔法棒套件制作一根可以将蜘蛛打翻的魔法棒
 
-![](./images/magicwand_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_01.png)
 
 ## 使用材料（淘宝购买链接）
 [魔法棒套件](https://item.taobao.com/item.htm?ft=t&id=632389740329)
@@ -27,13 +27,13 @@
  在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
 
-![](./images/magicwand_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_02.png)
 
 
 为了给魔法棒套件编程，我们需要添加一个扩展库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框，搜索”magicwand“(因为目前这个库还在审核中，在正式上架之前先通过这个链接搜索"https://github.com/elecfreaks/pxt-magicwand“)，然后点击下载这个代码库。
 
 
-![](./images/magicwand_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_03.png)
 
 
 *注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
@@ -42,7 +42,7 @@
 
 在`当开机时`中插入`设置魔法等级`积木块，设置为`初级`，并设置红外发射连接口为'P1'。
 
-![](./images/magicwand_case_01_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_04.png)
 
 
 ### 步骤 3
@@ -51,7 +51,7 @@
 
 
 
-![](./images/magicwand_case_01_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_05.png)
 
 
 ### 程序

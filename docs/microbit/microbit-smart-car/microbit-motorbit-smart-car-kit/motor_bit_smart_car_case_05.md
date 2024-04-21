@@ -28,11 +28,11 @@
 ### 步骤 1
 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/motor_bit_case_01.png)
 
 为了给motorbit主板编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索“motorbit"，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/motor_bit_case_02.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -42,7 +42,7 @@
 - 上电启动时，设置无线组别为88，(接受需要和发射一致)。
 - 当按钮A按下时，无线发送数字1，当按钮B按下时，无线发送数字2。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_05_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/motor_bit_case_05_03.png)
 
 
 ### 步骤 3
@@ -55,7 +55,7 @@
 - 如果为 2 以 80 的速度右转。
 - 如果都不是，以 80 的速度前进。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_05_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/motor_bit_case_05_04.png)
 
 
 ### 程序

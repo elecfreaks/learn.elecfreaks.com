@@ -5,7 +5,7 @@ sidebar_label: Case 08 - The "Trembling" XGO
 
 # Case 08: The "Trembling" XGO
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/xgo-8-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xgo-8-1.png)
 
 ## Introduction
 Hi guys, you might know how to operate XGO already from the previous lessons. In this project, we will try programming XGO to give us the responses as a "real" pet dog, the dog would tremble if they feel cold, let's try making a "trembling" XGO!
@@ -22,7 +22,7 @@ Hi guys, you might know how to operate XGO already from the previous lessons. In
 ---
 We use a data cable (USB cable) to connect the computer with the micro:bit, I believe you are already very skilled.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-22.png)
 
 ## MakeCode Programming
 ---
@@ -30,11 +30,11 @@ We use a data cable (USB cable) to connect the computer with the micro:bit, I be
 
 Click "Advanced" in the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-10.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer, search for "XGO" in the dialog to download.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-11.png)
 
 ***Note:*** If you encounter a prompt that some codebases will be removed due to incompatibility, you can follow the prompt to continue or create a new project in the menu.
 
@@ -42,7 +42,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 #### sample program
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/xgo-8-2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xgo-8-2.png)
 
 Link: [A Light-controlled Dog](https://makecode.microbit.org/_YVJe8eefmbqo)
 

@@ -11,7 +11,7 @@
 
 ## Goals
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/rcEn7ay.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/rcEn7ay.jpg)
 
 
  1. Build your own wireless door security!
@@ -29,7 +29,7 @@
 ## Step 1 – Setting Up!
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/MszANln.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/MszANln.jpg)
 
 1. Slot one of the micro:bit into the breakout board.
 2. Connect the Buzzer to Pin 0 of the breakout board and the crash sensor to Pin 1.
@@ -40,7 +40,7 @@
 ### Step 2 – Code away!
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/lCXgiQs.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lCXgiQs.png)
 
 1. Drag these set of codes into your makecode platform and download it into the micro:bit connected to your breakout board.
 2. Give the crash sensor a few press to see if your code is working correctly!
@@ -49,7 +49,7 @@
 ### Step 3 – Almost there!
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/27It2Px.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/27It2Px.png)
 
 
 1. Download this set of codes for the second micro:bit (receiver).

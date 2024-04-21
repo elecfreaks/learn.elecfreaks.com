@@ -8,7 +8,7 @@
 
 1 x [饼干游戏编程学习机](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
 
-![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-01-01.png)
+![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-01-01.png)
 
 ## 软件
 
@@ -18,17 +18,17 @@
 
 设置背景颜色，设置图块地图。
 
-![retro-case-04-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-04-01.png)
+![retro-case-04-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-04-01.png)
 
-![retro-case-04-02.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-04-02.png)
+![retro-case-04-02.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-04-02.png)
 
 设置精灵，设置精灵的y轴加速度，通过按键移动精灵，设置y轴速度为0。
 
-![retro-case-04-03.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-04-03.png)
+![retro-case-04-03.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-04-03.png)
 
 设置镜头跟随精灵移动，设置精灵跳跃功能。
 
-![retro-case-04-04.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-04-04.png)
+![retro-case-04-04.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-04-04.png)
 
 ### 程序
 

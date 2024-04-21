@@ -5,7 +5,7 @@ sidebar_label: TOOCA L1 Laser Engraver
 
 # TOOCA L1 Laser Engraver
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/images/tooca-laser-1-icon.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-icon.png)
 
 
 

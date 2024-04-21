@@ -14,11 +14,11 @@ sidebar_label: 天蓬智能车-路牌引导
 
 - 1 x [天蓬智能车](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.41.68d15ccfBFHNPy&id=618758535761)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_01.png)
 
 - 1 x  [AI摄像头](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w5003-22951491260.9.196458b3TgHzio&ft=t&id=632538261754&scene=taobao_shop)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_02.png)
 
 
 
@@ -28,7 +28,7 @@ sidebar_label: 天蓬智能车-路牌引导
 
 将AI摄像头连接到天蓬智能车的IIC端口。（AI摄像头需要额外购买）
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_03.png)
 
 ## 软件
 ---
@@ -41,15 +41,15 @@ sidebar_label: 天蓬智能车-路牌引导
 
 - 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_04.png)
 
 - 为了给天蓬智能车编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`tpbot`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_05.png)
 
 - 为了给AI摄像头编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索 `https://github.com/elecfreaks/pxt-PlanetX-AI`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_06.png)
 
 
 
@@ -57,27 +57,27 @@ sidebar_label: 天蓬智能车-路牌引导
 
 - `当开机时`设置初始化AI摄像头，切换功能为`卡片识别`，然后显示图标。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_07.png)
 
 - 在`无限循环`中，从AI摄像头获取一帧图像，如果图像中包含前进交通符号卡片，则设置小车以40%的速度前进。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_08.png)
 
 - 如果图像中包含`向左转`交通符号卡片，则设置小车以30%的速度向左转弯0.5s，然后继续前进，因为AI摄像头有三个缓冲区，所以这里我们需要连续获取三帧并丢弃来清空缓冲区。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_09.png)
 
 - 如果图像中包含`向右转`交通符号卡片，则设置小车以30%的速度向右转弯0.5s，然后继续前进，因为AI摄像头有三个缓冲区，所以这里我们需要连续获取三帧并丢弃来清空缓冲区。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_10.png)
 
 - 如果图像中包含`停止`交通符号卡片，则设置小车立刻停车。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_11.png)
 
 - 完整程序：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_12.png)
 
 
 ### 程序

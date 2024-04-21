@@ -18,4 +18,4 @@ Change everything into a "keyboard"! The Bitboard helps to learn the electric ci
 ## Picture
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/bitboard/images/Bitboard_Kit_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Bitboard_Kit_01.png)

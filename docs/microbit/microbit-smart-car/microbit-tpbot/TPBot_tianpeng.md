@@ -17,23 +17,23 @@ sidebar_label: 天蓬智能车简介
 
 ## 产品图片
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_01.png)
 
 
 ## 技术参数
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_02.png)
 
 
 ## 接口说明
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_05.png)
 
 注意：舵机接口位置，舵机接线应竖着插入接口，最下方的线为接地线
 
@@ -42,17 +42,17 @@ sidebar_label: 天蓬智能车简介
 天蓬智能车可以在不安装micro:bit主板的时候使用，以下是相关的使用说明。
 按下电源开关，让天蓬智能车处于待机状态，此时电源指示灯点亮，并且车头LED灯显示绿色呼吸灯。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_07.png)
 
 当天蓬智能车处于待机状态时，按下电源开关，让天蓬智能车进入巡线避障模式，此时车头LED灯显示彩虹灯效，并进入巡线避障模式。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_08.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_08.gif)
 
 当天蓬智能车处于巡线避障模式时，如果遇到障碍物，则显示红色灯光，并停止行驶。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_09.png)
 
 当天蓬智能车处于巡线避障模式时，按下电源开关，则退出巡线避障模式，回到待机状态。
 

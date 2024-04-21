@@ -8,7 +8,7 @@ Create an animation of an early bird leaving the nest.
 
 1 x   [ELECFREAKS Retro Makecode Arcade For Education](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
 
-![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-01.png)
+![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-01-01.png)
 
 
 
@@ -20,7 +20,7 @@ Create an animation of an early bird leaving the nest.
 
 `New spirit`, `Set the background color`, `When the game is updated every 1000ms`, `Create a new proje"ctile "bird"` Fly out from the`spirit "big tree"`position in a `random direction`at `random speed`.
 
-![retro-case-07-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-07-01.png)
+![retro-case-07-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-07-01.png)
 
 
 

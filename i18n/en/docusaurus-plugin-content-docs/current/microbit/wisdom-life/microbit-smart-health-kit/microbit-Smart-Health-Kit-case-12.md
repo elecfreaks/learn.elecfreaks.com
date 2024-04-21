@@ -23,7 +23,7 @@ Noise can also cause irreversible damage to the ear canal and auditory system, s
 
 ## Picture
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-01-02.png)
 
 ## Hardware Connection
 ---
@@ -31,7 +31,7 @@ Noise can also cause irreversible damage to the ear canal and auditory system, s
 
 Connect the rainbow LED to P1 and the OLED to IIC port on sensor:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-12-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-12-03.png)
 
 ## Software Programming
 
@@ -39,11 +39,11 @@ Connect the rainbow LED to P1 and the OLED to IIC port on sensor:bit.
 
 Click "Advanced" in the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-01-04.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "smarthome" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-01-05.png)
 
 
 
@@ -54,11 +54,11 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 ---
 Initialize the OLED screen and display the sound level on it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-12-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-12-07.png)
 
 If the sound level is below 100, program to light on in green; if the sound level is less than 150, program to light on in red.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-12-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-12-08.png)
 
 
 Link: [https://makecode.microbit.org/_MbT02YXJbHoo](https://makecode.microbit.org/_MbT02YXJbHoo)

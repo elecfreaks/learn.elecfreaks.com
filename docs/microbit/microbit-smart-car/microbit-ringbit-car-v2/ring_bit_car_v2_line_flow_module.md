@@ -10,8 +10,8 @@ sidebar_label: 专用巡线模块
 - Ring:bit car V2巡线模块，是Ring:bit二代小车的专用扩展模块，连接简单功能强大，一卡一锁为你的Ring:bit小车扩展巡线功能。
 - 搭载双红外探头，有效探测距离2~12mm，可以完成巡线绕圈，黑线检测，边缘检测等功能。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_v2_line_01.jpg)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_v2_line_02.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_line_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_line_02.jpg)
 
 ## 淘宝购买链接
 ---
@@ -43,7 +43,7 @@ sidebar_label: 专用巡线模块
 ## 外形与安装定位尺寸
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_v2_line_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_line_03.png)
 
 
 ## 快速上手
@@ -53,16 +53,16 @@ sidebar_label: 专用巡线模块
 
 - 首先将巡线模块插入Ring:bit小车底板插口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_v2_line_04.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_line_04.gif)
 
 - 随后在反面用两颗螺丝固定。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_v2_line_05.gif)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_v2_line_06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_line_05.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_line_06.gif)
 
 - 扩展完成。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_v2_line_07.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_line_07.jpg)
 
 ### 软件编程
 ---
@@ -74,7 +74,7 @@ sidebar_label: 专用巡线模块
 - 右检测头同理。
 - 当两个检测头均检测到黑线，以100的速度向前行驶。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_car_v2_line_flow_module.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_car_v2_line_flow_module.png)
 
  程序代码链接：[https://makecode.microbit.org/_iaC7MacdWVco](https://makecode.microbit.org/_iaC7MacdWVco)
 
@@ -103,7 +103,7 @@ sidebar_label: 专用巡线模块
 ---
 - 可以实现缓慢的巡线绕圈跑。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_v2_line_09.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_line_09.gif)
 
 ## 常见问题
 ---

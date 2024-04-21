@@ -4,7 +4,7 @@
 ---
 - 该温度传感器是一种基于18b20的温度探测仪，用于测量液体温度。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04095_0.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04095_0.jpg)
 
 ## 特性
 ---
@@ -29,7 +29,7 @@
 ## 外形与定位尺寸
 ---
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04095_1.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04095_1.jpg)
 
 
 ## 快速上手
@@ -38,20 +38,20 @@
 
 - 连接扩展板的P1口。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04095_2.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04095_2.png)
 
 ### 添加packege
 ---
 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
 
 点击“Extensions”，在弹出的对话框中搜索“`https://github.com/elecfreaks/pxt-ds18b20`"，下载18b20代码库。
 
 
 ### 如图所示编写程序
 ---
-  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04095_3.png)
+  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04095_3.png)
 
 ### 参考程序
 ---

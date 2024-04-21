@@ -1,7 +1,7 @@
 ﻿# case 03 Auto Windows
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/krV05be.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/krV05be.jpg)
 ## Goal
 
 
@@ -22,34 +22,34 @@
 ### Smart wardrobe operation
  Controling crash detect module using micro:bit and receive crash signal.The micro:bit will control servo to open the door with light up when it received signal.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/Pq9yMxM.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Pq9yMxM.png)
 
 ## Practical operation
 
 Materials: corrugated board and cutter
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/PuJE7uj.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/PuJE7uj.jpg)
 
 Build as below picture：
 
 Front side：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/lNqGReU.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lNqGReU.jpg)
 
 Back side：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/mDXBxp3.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/mDXBxp3.jpg)
 
 
 Paste devices as below piture:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/8sS6pSt.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/8sS6pSt.jpg)
 
 
 ## Hardware connect
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/k1tNYcb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/k1tNYcb.png)
 
 
 
@@ -68,11 +68,11 @@ Edge Connector Data Sheet
 ### Step 1
 Go to MakeCode page, click Advanced in the code block and click on Extensions.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2qCyzQ7.png)
 
 We need to add a new codebase for programming of smart home. Finding “Add Package” in the bottom of code block and click it. Then a message box will show up, search “smart home"， and download this new codebase.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/QR2s7LD.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/QR2s7LD.png)
 
 ***Note:*** If there is a hint says some codebase will be deleted because of incompatibility. Don't worry. You could go ahead as the hint or build a new item in item menu bar.
 
@@ -83,7 +83,7 @@ Drag on start from Basic and snap into set pull pin P2 to up.
 
 Drag servo write pin from Pin, choose P7, set P7 to 180° and set door to -1 for closing the door。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/rNh3b8D.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/rNh3b8D.png)
 
 ### Step 3
 
@@ -91,14 +91,14 @@ If digital read P2, the door variables will be contrary.If door variables is tru
 white, servo turns 0 °with door opens and pause 2 seconds.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/N1sMg3r.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/N1sMg3r.png)
 
 ### Step 4
 
 If door variables is false, servo turns 180° with door closes, pause 2 seconds and the rainbow
 LED off.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/twe7XV2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/twe7XV2.png)
 
 
 ### Programming
@@ -132,11 +132,11 @@ Turning of the servo will drive the door open with rainbow led light up.
 
 Front side：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/XyAjCbV.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/XyAjCbV.jpg)
 
 Back side：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/mEbCjUQ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/mEbCjUQ.jpg)
 
 ## Think
 

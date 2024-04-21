@@ -4,7 +4,7 @@
 
 The Tomato Clock is a clock that uses the tomato work method to manage time, helping one to focus and improve efficiency, and is a great aid to work and study.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-76-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-case-76-01.png)
 
 ## Case building
 
@@ -20,39 +20,39 @@ The Tomato Clock is a clock that uses the tomato work method to manage time, hel
 
 Parts List
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-76-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-case-76-02.png)
 
 The structure is built as shown in the figure:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-76-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-76-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-76-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-76-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-76-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-76-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-76-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-76-04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-76-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-76-05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-76-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-76-06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-76-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-76-07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-76-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-76-08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-76-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-76-09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-76-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-76-10.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-76-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-76-11.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-76-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-76-12.png)
 
 ### Connection schematic
 
 In the diagram below, connect the Dust Sensor to the J1 port and the Motor Fan to the J2 port on the Nezha Board.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-76-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-case-76-04.png)
 
 ## Makecode Programming
 
@@ -60,11 +60,11 @@ In the diagram below, connect the Dust Sensor to the J1 port and the Motor Fan t
 
 Click "Extensions" in the MakeCode drawer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-37-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-case-37-04.png)
 
 In order to program the PlanetX sensor, we need to add an extension library. Search with "PlanetX" in the dialog box to download this library.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-37-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-case-37-05.png)
 
 *Note: *If you get a prompt saying that some code libraries will be removed for incompatibility reasons, you can either follow the prompt and continue, or create a new project.
 
@@ -72,7 +72,7 @@ In order to program the PlanetX sensor, we need to add an extension library. Sea
 
 ### Write the program as shown in the figure
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-76-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-case-76-06.png)
 
 ### Reference Program
 
@@ -105,4 +105,4 @@ You can also download the program directly from the following webpage and start 
 
 Countdown to 25 seconds, the device will play music and lighting effects after the countdown.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-76.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-case-76.gif)

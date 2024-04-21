@@ -7,7 +7,7 @@ sidebar_label: Hardware Introduction
 
 ## micro:bit
 
-![](./images/smart-weather-station-kit-hardware-introduction-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-hardware-introduction-01.png)
 
 Micro:bit is a pocket-sized computer designed for educational programming purposes for young people, measuring only 4cm x 5cm, but with a range of sensors and LEDs that can be used to control and monitor the physical world.
 
@@ -21,7 +21,7 @@ For more information about the micro:bit, please visit: [micro:bit official webs
 
 ## IoT:bit
 
-![](./images/smart-weather-station-kit-hardware-introduction-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-hardware-introduction-01.png)
 
 The IOT:bit Expansion Board is an expansion board with bountiful functions designed for micro:bit. Here is a more detailed description:
 
@@ -46,7 +46,7 @@ For more information about IoT:bit, please visit: [IoT:bit IoT Expansion Board](
 
 ## Wind Speed Sensor
 
-![](./images/smart-weather-station-kit-hardware-introduction-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-hardware-introduction-03.png)
 
 This is a waterproof design wind speed sensor that uses the standard connector of Octopus related products for easy connection with other devices. It is able to provide corresponding voltage output according to the change of wind speed. As the wind speed increases, the output voltage also increases, providing users with accurate wind speed measurement. This wind speed sensor can be applied in meteorological observation and environmental monitoring, and can be used to measure wind speed. Its waterproof design ensures reliability and durability in harsh environments.
 
@@ -54,7 +54,7 @@ For more information about the wind speed sensor, welcome to visit: [Octopus Ser
 
 ## Dust Sensor
 
-![](./images/smart-weather-station-kit-hardware-introduction-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-hardware-introduction-04.png)
 
 A dust sensor is an air quality sensor used to detect the concentration of fine dust particles in the air.
 
@@ -68,7 +68,7 @@ For more information about dust sensors, welcome to visit: [Octopus Series Dust 
 
 ## Temperature and Humidity Sensor
 
-![](./images/smart-weather-station-kit-hardware-introduction-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-hardware-introduction-05.png)
 
 A temperature and humidity sensor is a device used to measure and monitor temperature and humidity in the environment. It provides accurate temperature and humidity data to help people understand and control environmental conditions. Such sensors have a wide range of applications in many fields, including meteorological observations, indoor environmental monitoring, agriculture, warehouse management and automated control systems.
 
@@ -78,7 +78,7 @@ For more information about temperature and humidity sensors, welcome to visit: [
 
 ## UV Sensor
 
-![](./images/smart-weather-station-kit-hardware-introduction-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-hardware-introduction-06.png)
 
 A UV sensor is a device used to detect and measure UV radiation in the environment. It senses the intensity of UV light and converts it into an electrical signal output. UV sensors are important in many applications including environmental monitoring, UV radiation safety, medical devices and consumer electronics. The sensor captures UV light through a light-sensitive element or photosensitive material and then converts the light signal into an electrical signal for processing and analysis. It provides accurate UV intensity measurements to help users understand the level of UV in their environment and take appropriate protective measures. Featuring high sensitivity, fast response and high stability, UV sensors are an important tool for protecting human health and safety.
 
@@ -86,7 +86,7 @@ For more information about UV sensors, welcome to visit: [Octopus Series UV Sens
 
 ## OLED Display
 
-![](./images/smart-weather-station-kit-hardware-introduction-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-hardware-introduction-07.png)
 
 0.96" OLED display module adopts SSD1306 driver chip with 128x64 self-luminous white pixel dots. With the advantages of low power consumption and high contrast, it can be used in many display applications, such as: numerical value display of various types of sensors; mini game consoles; smart wearable devices and so on.
 

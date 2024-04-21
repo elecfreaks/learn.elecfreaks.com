@@ -13,7 +13,7 @@
  1 X glue
  1 X white paper,
  1 X cardboard
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/NKJyemH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NKJyemH.jpg)
 
 ## Background
 
@@ -36,23 +36,23 @@
  Prepare a scissors, a bottle of glue and a piece of cardboard.
  Stick the paper you prepared on the cardboard and clip it as you need.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/CKIwMbh.jpg)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/Svav9XC.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/CKIwMbh.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Svav9XC.jpg)
 
  Set up as below：
 
 The front side：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/cHJ6Tup.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cHJ6Tup.jpg)
 
 
 The back side：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/oTuc2q4.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/oTuc2q4.jpg)
 
 Set and stick components as below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/ztjY4AQ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ztjY4AQ.jpg)
 
 
 ## Hardware Connect
@@ -61,7 +61,7 @@ Connect the analog noise sensor to the P1 port of the expansion board.
 Connect the crash sensor to the P2 port of the expansion board.
 Conenct the 180 deg servo to the P8 port of the expansion board.
 Connect the micro:bit to the batteries pack.
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/p6ZtIJS.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/p6ZtIJS.jpg)
 
 ## Software
 
@@ -73,11 +73,11 @@ Connect the micro:bit to the batteries pack.
 ### Step 1
  Click "Advanced" in the makecode code drawer for more codes.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2qCyzQ7.png)
 
  We need to add a new codebase for programming of smart home. Finding “Extensions” at the bottom of code block and click it. Then a message box will show up, search “smart home"， and download this new codebase.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/OY706rv.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/OY706rv.png)
 
 ***Note：*** If there is a hint says some codebase will be deleted because of incompatibility. Don't worry. You could go ahead as the hint or build a new item in the item menu bar.
 
@@ -91,7 +91,7 @@ Snap into the servo write block.Set P8 to 180, it is to set initial state of the
 At last, set the variable to open and set its initialization value to flase for not open the door.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/mOFgABB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/mOFgABB.png)
 
 ### Step 3
 Initialize the variable noise to save the received noise value.
@@ -99,7 +99,7 @@ Under the forever loop, transmit the noise value of the P1 port to the noise var
 If the noise value is greater than the 70db, it means someone is knocking the door and the OLED is showing “somebody out”.
 Snap the clear OLED display block and the show string block to display message.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/OPIJLUx.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/OPIJLUx.png)
 
 ### Step 4
 To judge the value of the crash sensor, using the digital read block to read the value of the crash sensor. That is the value of the P2 port.
@@ -107,13 +107,13 @@ Set the value of the pin P2 to 0, and set the open variable to doors open. That 
 Set the varaible open to "true" and snap the servo write pin block, then set the value of the P8 port to 0.
 "pause(ms) 3000", which means the opening time is 3 seconds.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/tvZETjX.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tvZETjX.png)
 
 ### Step 5
 
 Else, set the servo write pin P8 to 180 and show string "nobody", which means it is not need to open the door.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/bXXcwA7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/bXXcwA7.png)
 
 ### Program
 
@@ -147,7 +147,7 @@ You also could directly download program by visiting website as below:
  Press the button, the door will open, after 3 seconds, the door will close.
  When it is not detecting the people signal, the OLED screen will show “Nobody”.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/ioUPGkB.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ioUPGkB.gif)
 
 ## Think
 

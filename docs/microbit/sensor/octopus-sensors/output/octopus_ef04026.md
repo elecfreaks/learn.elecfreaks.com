@@ -4,7 +4,7 @@
 ---
 OCTOPUS 1Channel Relay是一款单继电器电子积木块。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/1E9gHLP.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1E9gHLP.jpg)
 
 ## 特性
 ---
@@ -27,7 +27,7 @@ PCB定位孔|3mm标准定位孔
 ## 外形与定位尺寸
 ---
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/lgUM5rk.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lgUM5rk.png)
 
 ## 快速上手
 ---
@@ -38,12 +38,12 @@ PCB定位孔|3mm标准定位孔
 
 ***以sensor:bit为例***
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/xcHn45y.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xcHn45y.png)
 
 ### 如图所示编写程序
 ---
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04026_1.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04026_1.png)
 
 ### 参考程序
 ---

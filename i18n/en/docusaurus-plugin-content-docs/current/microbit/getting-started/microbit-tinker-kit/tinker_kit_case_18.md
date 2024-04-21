@@ -1,6 +1,6 @@
 # case 18 Finger Dexterity
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/6MlU9At.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/6MlU9At.jpg)
 
 Are your psychomotor skills as bad as mine?
 
@@ -18,7 +18,7 @@ We are going to create a game where the player must click on a key (on the ADKey
 - use while loops.
 - improve your finger dexterity!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/pPKW0KA.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pPKW0KA.jpg)
 
 
 ## Materials and Pre-requisites
@@ -39,14 +39,14 @@ You also need some experience about if-else statements, variables etc.
 
 ### Step 1
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/36IKWCb.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/36IKWCb.jpg)
 
 Plug in your ADkeypad to Pin0, making sure the positive lead is connected to the yellow signal pin and the negative lead is connected to the black ground pin on the breakout board.
 
 
 ### Step 2
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/ZElg0dw.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ZElg0dw.png)
 
 In order for the ease of randomisation of the LED that lights up, we will use a function recursively. A function used recursively will call itself (!) so as to acheive the end goal. I created the function plotLight for this reason. If you have not covered functions, go here.
 
@@ -60,7 +60,7 @@ I have created a bunch of if-else statements inside a loop. These statements per
 
 ### Step 3
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/0WIqH6P.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/0WIqH6P.png)
 
 Inside the if-else statement, we check to see which key was pressed and if it corresponds to the column of the LED (x-coordinate). If it was, we CALL THE FUNCTION AGAIN. This is how recursive programming works. By calling the function again, we basically start over with a new LED. Note that when we call the function again we decrease the value of the time variable and thus the pause duration will be shorter.
 
@@ -69,7 +69,7 @@ Interestingly, I have set bool to false. Why?
 
 ### Step 4
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/qKCa1J1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/qKCa1J1.png)
 
 The bool is set to false so as to terminate the above while loop. This is not strictly necessary and I initially disregarded this. However, it is important to note that terminating the while loop greatly improves the efficiency of your program and efficiency of our programs is something generally worth considering.
 
@@ -77,7 +77,7 @@ I have also created and called a function to handle the case where the player ty
 
 ### Step 5
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Bf7pG9W.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Bf7pG9W.png)
 
 That was quite a lot for one function! It can be quite a bit for a newbie at programming so let me go through that one more time.
 
@@ -89,7 +89,7 @@ We run our own homemade event listener (the name betrays its function – it sim
 
 ### Step 6
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Spxd5kb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Spxd5kb.png)
 
 Inside each if-else statement, we have decided to end the game if the wrong keypad was pressed and tell the player what we think of him/her.
 
@@ -98,7 +98,7 @@ Whilst going on to the next LED light, we make use of a concept called recursion
 
 ### Step 7
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/tqrKglq.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tqrKglq.png)
 
 That was a lot of work!!
 
@@ -106,14 +106,14 @@ But in the end, we have created a wonderful function that can be called recursiv
 
 ### Step 8
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/ijyeL83.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ijyeL83.png)
 
 Now we just want to tie up some loose strings.
 The lose function is one that we will call when the player presses the wrong key. It is mostly self-explanatory and if you could get past the previous parts, it should be obvious what the code does.
 
 ### Step 9
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Tn12M0k.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tn12M0k.png)
 
 Now to start the first LED.
 We call the function when the file loads. Due to the recursiveness of the function, the game will take care of itself thereafter with minimal effort from us. How is that for effeciency!
@@ -146,7 +146,7 @@ Or you can download from the page below.
 
 ### Wonderful!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/HVAtYai.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/HVAtYai.jpg)
 
 You have completed this tutorial! If you wish to challenge yourself further, go ahead and add a counter that counts the number of points a player gets before he/she loses. Clue: Create a variable called counter and increment it as you see fit. Remember to display it as well!
 

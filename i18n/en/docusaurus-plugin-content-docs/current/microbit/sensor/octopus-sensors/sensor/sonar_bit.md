@@ -4,7 +4,7 @@
 
 Sonar:bit is a 3-wire ultrasonic module with the working voltage between 3-5V. It is available to be used to 3.3V or 5V micro-controller system. With only one 3-wire(GVS) cable, it can work properly. Compared to the normal 4-wire ultrasonic module, it has saved one IO port. The measurement range of sonar:bit is 4cm-400cm. It can output stable and accurate measurement data with ±1cm tolerance only. It's available for short distance measuring in robtics device, micro:bit and Arduino etc.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04089_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04089_01.png)
 
 ## Products Link
 
@@ -35,12 +35,12 @@ Sonar:bit is a 3-wire ultrasonic module with the working voltage between 3-5V. I
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04089_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04089_03.png)
 
 
 ## Pins diagram
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/7E5ECzN.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/7E5ECzN.jpg)
 
 The probes send out and receive ultrasonic signals.
 
@@ -48,37 +48,37 @@ The probes send out and receive ultrasonic signals.
 
 ### Emitting probes
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/T1xDsne.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/T1xDsne.jpg)
 
 The emmiting probes send out ultrasonic signals.
 
 ### Receving probes
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/JxNrz8Q.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JxNrz8Q.jpg)
 
 The receiving probes receive ultrasonic signals.
 
 ### Chips MCU
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/2CjnvfP.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2CjnvfP.jpg)
 
 Core controlling chips
 
 ### Emitting signals driving chips
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/iOW0IN3.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iOW0IN3.jpg)
 
 The transmitting signal driving chip is used to provide the transmitting ultrasonic signal for driving the ultrasonic transmitting probe.
 
 ### Receiving signals driving chips
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/VxEZ5KQ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VxEZ5KQ.jpg)
 
 The receiving signal processing chip is used for receiving and processing the ultrasonic echo signal, and feeding back the processed signal to the main control chip.
 
 ### G-V-S controlling port
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/N9yc6Jm.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/N9yc6Jm.jpg)
 
 G-V-S are used for the controlling of the sonar:bit by other devices.
 
@@ -93,19 +93,19 @@ G-V-S are used for the controlling of the sonar:bit by other devices.
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04089_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04089_04.png)
 
 
 ### Step 1
  Click “Advanced“ in the MakeCode drawer and click “Extentions“ to see more choices.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04089_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04089_05.png)
 
 
 We need to add a package for programming, . Click “Extensions” in the bottom of the drawer and search with “https://github.com/elecfreaks/pxt-sonarbit” in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04089_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04089_06.png)
 
 
 Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
@@ -114,7 +114,7 @@ Note: If you met a tip indicating that the codebase will be deleted due to incom
 In forever block, show the returned value from Sonar:bit in digit.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04089_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04089_07.png)
 
 
 

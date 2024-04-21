@@ -1,6 +1,6 @@
 ﻿# 课程_03 电位器
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/eN8vvty.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/eN8vvty.jpg)
 
 ## 介绍
 ---
@@ -22,7 +22,7 @@
 **温馨提示：如果你需要以上所有元件，你可以购买我们的[Elecfreaks小小科学家套件](https://item.taobao.com/item.htm?ft=t&id=597096675822)。**
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/W4tseua.jpg)
 
 ### 软件：
 
@@ -36,7 +36,7 @@
 
 电位器是一种压力调节的元件。它包括了一个电阻和一个旋钮或者滑动系统。当添加一个外部的电压到电阻的两个固定接触点，通过使用旋钮或者滑动系统来改变电阻上的接触点的位置，一个和可移动的触点位置有特殊关系的电压就在可移动的触点和两个固定触点之间形成了。大部分时间，它就像一个分压器一样工作。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/uhr2hkg.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/uhr2hkg.jpg)
 
 
 ## 硬件连接
@@ -44,11 +44,11 @@
 
 按照下面的图片，将你的元件连接：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/ONL9HWv.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ONL9HWv.jpg)
 
 这是连接完成后的样子：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/dFGjHMH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/dFGjHMH.jpg)
 
 旋转电位器的按钮，然后输出电压会随着按钮的旋转在0V和3V之间变化。
 
@@ -101,7 +101,7 @@
 
 旋转定位器，电压的数值将会以柱形图的形式显示在micro:bit的5x5的LED屏幕上。当读取的电压为“0”，LED屏幕上只显示一个像素点。当电压变成3.3V的时候，LED屏幕将会被全部点亮。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/D5VDTS5.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/D5VDTS5.gif)
 
 
 

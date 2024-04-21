@@ -1,11 +1,11 @@
-# 魔法棒套件案例04：魔法棒充能
+﻿# 魔法棒套件案例04：魔法棒充能
 
 ## 目的
 ---
 
 - 使用魔法棒套件制作一根可以充能的魔法棒
 
-![](./images/magicwand_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_01.png)
 
 
 ## 使用材料（淘宝购买链接）
@@ -29,11 +29,11 @@
 ### 步骤 1
 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
-![](./images/magicwand_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_02.png)
 
 为了给魔法棒套件编程，我们需要添加一个扩展库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框，搜索”magicwand“(因为目前这个库还在审核中，在正式上架之前先通过这个链接搜索"https://github.com/elecfreaks/pxt-magicwand“)，然后点击下载这个代码库。
 
-![](./images/magicwand_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_03.png)
 
 *注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 ### 步骤 2
@@ -41,16 +41,16 @@
 
 
 
-![](./images/magicwand_case_03_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_03_04.png)
 
 
-![](./images/magicwand_case_03_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_03_05.png)
 
 
 ### 步骤 3
 在`当开机时`中，初始化流光溢彩灯，设置连接引脚`P8`，`8`颗LED灯，将变量'i'设为`-1`。
 
-![](./images/magicwand_case_04_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_04_07.png)
 
 
 ### 步骤 4
@@ -58,7 +58,7 @@
 如图所示，在`无限循环`中，判断在`P2`口的按钮是否被按下，当按钮被按下时，则循环执行，以1为幅度更改'i'，设置像素'i'颜色为蓝色，刷新显示并暂停500毫秒。当按钮没有被按下时，判断'i'的大小，当'i'小于7时，将变量'i'的值设为-1，设置灯环显示为红色。
 
 
-![](./images/magicwand_case_04_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_04_08.png)
 
 ### 程序
 

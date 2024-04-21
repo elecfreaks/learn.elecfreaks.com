@@ -5,7 +5,7 @@ sidebar_label: Case 05 - A Touch-controlled Dog
 
 # Case 05 - A Touch-controlled Dog
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/xgo-5-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xgo-5-1.png)
 
 ## Purpose
 
@@ -30,7 +30,7 @@ Hi guys, after getting along with XGO for a period of time, I think your "feelin
 ---
 We use a data cable (USB cable) to connect the computer with the micro:bit, I believe you are already very skilled.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-22.png)
 
 ## MakeCode programming
 ---
@@ -38,11 +38,11 @@ We use a data cable (USB cable) to connect the computer with the micro:bit, I be
 
 Click Advanced in MakeCode to see more options.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-10.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer, and search for "XGO" in the dialog to download.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-11.png)
 
 ***Note:*** If you encounter a prompt that some codebases will be removed due to incompatibility, you can follow the prompt to continue or create a new project in the menu.
 
@@ -50,7 +50,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 #### sample program
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/xgo-5-2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xgo-5-2.png)
 
 Link: [A Touch-controlled Dog](https://makecode.microbit.org/_DPCdXybUs7me)
 

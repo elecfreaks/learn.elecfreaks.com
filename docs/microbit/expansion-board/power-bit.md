@@ -32,9 +32,9 @@ power:bit纽扣电池板是一种最小尺寸的微型扩展板。它能够给mi
  |净重|10.7g |
 
 ### 外型与定位尺寸
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/BQCpLVu.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/BQCpLVu.png)
 ## 引脚接口框图
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/ONnPnR7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ONnPnR7.png)
 
 ## 主要功能模块介绍
 ---
@@ -45,19 +45,19 @@ I档打开电源，O档关闭电源。
 
 ### 1x4排针接口
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/9uskWP9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/9uskWP9.png)
 
 从排针引出P1、P2、3V、GND引脚，可以扩展使用。
 
 ### 两个CR2025电池座
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/RkOmiZc.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/RkOmiZc.png)
 
 可以便捷插入2025电池（3V锂锰扣式电池）供电
 
 ### 蜂鸣器
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/eNtjso8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/eNtjso8.png)
 
 蜂鸣器由P0口控制，能够播放音乐。
 

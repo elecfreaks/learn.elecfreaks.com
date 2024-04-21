@@ -5,7 +5,7 @@ sidebar_label: 自锁开关
 
 # 自锁开关
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-06-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-06-01.png)
 
 
 ## 简介清单
@@ -23,7 +23,7 @@ sidebar_label: 自锁开关
 1 × 100欧姆电阻
 若干杜邦线
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-06-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-06-02.png)
 
 
 ## 主要元件介绍
@@ -31,7 +31,7 @@ sidebar_label: 自锁开关
 ### 自锁开关
 自锁开关一般是指开关自带机械锁定功能，按下去，松手后按钮是不会完全跳起来的，处于锁定状态，需要再按一次，才解锁完全跳起来。它就叫自锁开关。早期的直接完全断电的电视机、显示器就是使用的这种类型的开关。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-06-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-06-03.png)
 
 **注意：**这种自锁开关包含两组刀双掷开关，本次试验只用到了其中一组，故剪去了其中一组的公共引脚。
 
@@ -44,11 +44,11 @@ sidebar_label: 自锁开关
 
 2.将led灯通过100Ω电阻连接扩展板的P2口
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-06-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-06-04.png)
 
 连接完成如图：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-06-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-06-05.png)
 
 
 ## 程序编程
@@ -119,7 +119,7 @@ while True:
 ## 实验结果
 按下自锁开关，LED 灯点亮；再按一下，LED 熄灭。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-06.gif)
 
 
 ## 思考

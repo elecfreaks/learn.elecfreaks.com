@@ -5,7 +5,7 @@ sidebar_label: 饼干游戏编程学习机
 
 # 饼干游戏编程学习机
 ## 产品简介
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-01-01.png)
 
 ## 概述
 饼干游戏编程学习机是全球首款超大、超清屏幕的游戏编程学习机。它针对孩子手掌大小专门设计，采用炫彩外壳和硅胶按键，手感舒适，防滑易握；它拥有320*240彩色超大超清屏幕，将分辨率提高到行业水平的4倍；它有丰富的内置传感器，可重力、可震动、声光电一体让编程更炫酷。

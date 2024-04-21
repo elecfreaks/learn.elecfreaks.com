@@ -1,6 +1,6 @@
 ﻿# Introduction to Wonder Rugged Kit
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Mecanum_wheel_car_kit_01.jpg)
 
 ## Introduction
 ---
@@ -27,7 +27,7 @@ The mecanum wheels in 8CM diameter make it possible to move in all directions an
 - N x blocks
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_02.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Mecanum_wheel_car_kit_02.jpg)
 
 
 ## FAQ

@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 4
 sidebar_label: Smart Pet Feeder
 ---
@@ -9,7 +9,7 @@ sidebar_label: Smart Pet Feeder
 
 Firstly, the PIR sensor is responsible for detecting whether it is a pet approaching; secondly, the SONAR:BIT  is used to detect whether the pet reaches within 20 cm in front of the wooden tiny house. When both of these conditions are met, the servo will rotate, which will cause the food storage box that stores the pet food to dump out the pet food. After the process of dumping the pet food is completed, the servo will return to its original position and wait for the next feeding.
 
-![](./images/microbit-smart-maker-kit-pet.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-pet.png)
 
 ## Preparation
 
@@ -65,7 +65,7 @@ Ultrasound has a wide range of applications. In medicine, doctors can use ultras
 
 Connect the PIR sensor to P2, the Sonar:bit to P1 and the 180 degrees servo to P3 on IoT:bit. 
 
-![](./images/microbit-smart-maker-kit-pet-2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-pet-2.png)
 
 ## Programming
 
@@ -73,25 +73,25 @@ Connect the PIR sensor to P2, the Sonar:bit to P1 and the 180 degrees servo to P
 
 Go to makecode ediator: https://makecode.microbit.org/
 
-![](./images/microbit-smart-maker-kit-case02-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-case02-02.png)
 
 
 
 Click create "New Project", give it a name and click "Create". 
 
-![](./images/microbit-smart-maker-kit-case02-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-case02-03.png)
 
 
 
 Click "Extensions" in the makecode drawer and search with "iot-environment-kit" to download the extension, you may find them in the drawer afterwards. 
 
-![](./images/microbit-smart-maker-kit-case02-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-case02-04.png)
 
 
 
 In the same way, search with "servo" and download the third extension in below picture. 
 
-![](./images/microbit-smart-maker-kit-case03-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-case03-04.png)
 
 ### 180° Servo Adjustment
 
@@ -99,13 +99,13 @@ For better subsequent programming, the initial angle and direction of rotation o
 
 #### Servo initial setting program
 
-![](./images/microbit-smart-maker-kit-case02-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-case02-06.png)
 
 Link: https://makecode.microbit.org/S06902-77501-41447-67913
 
 ### Samples program
 
-![](./images/microbit-smart-maker-kit-case02-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-case02-05.png)
 
 
 
@@ -113,7 +113,7 @@ Link: https://makecode.microbit.org/S05304-43123-83650-69002
 
 ## Cases display
 
-![](./images/smart-maker-kit-demo.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/smart-maker-kit-demo.gif)
 
 ## Think
 

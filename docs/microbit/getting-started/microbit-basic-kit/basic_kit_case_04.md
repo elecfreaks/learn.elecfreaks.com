@@ -31,42 +31,42 @@
 ---
 准备一把美工刀，溶胶枪，剪刀和一些瓦楞纸板。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/PuJE7uj.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/PuJE7uj.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/OsrstYv.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/OsrstYv.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/t6A0IwP.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t6A0IwP.jpg)
 
 搭建成如图样式：
 
 正面：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/lNqGReU.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lNqGReU.jpg)
 
 背面：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/CFhFVSw.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/CFhFVSw.jpg)
 
 将元器件按如图摆放黏贴。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/Ht61Ezt.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ht61Ezt.jpg)
 
 准备好要粘贴的图纸，将要粘贴的图纸粘贴在相应位置。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/x9URpgH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/x9URpgH.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/qWBA3jV.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/qWBA3jV.jpg)
 
 
 背面将图纸贴在相应位置，将线从另一边穿出去。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/8qVyDfP.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/8qVyDfP.jpg)
 
 ## 硬件连接图
 ---
 -  将舵机连接在P1口，将碰撞传感器连接在P2口，将连接好的micro:bit和bisic:bit连上电池盒，如下。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/ENM9JdP.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ENM9JdP.jpg)
 
 
 
@@ -90,7 +90,7 @@
 
 设置一个door变量，初值为false，用来保存贴纸板的状态。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/OR3keAM.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/OR3keAM.png)
 
 ### 步骤 2
 
@@ -100,13 +100,13 @@
 
 在这之后再拖入一个if判断语句，判断控制们开关变量door的值，即判断门的开关状态，如果door值为真，则将门（即贴纸板）移动（将P1值设为0）。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/9vPoaNI.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/9vPoaNI.png)
 
 ### 步骤 3
 
 当P2值不等于0时，即触碰开关未被按下，门（即贴纸板）变为关门状态（将P1值设为180）。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/DDbGunP.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/DDbGunP.png)
 
 
 
@@ -142,7 +142,7 @@
 ---
 当你按下触碰按钮，贴纸展板会移动展示。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/ZqjLRFB.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ZqjLRFB.gif)
 
 ## 思考
 ---

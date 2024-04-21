@@ -1,13 +1,13 @@
 # Case 01:全速行驶
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case01.png)
 
 ## 简介
  哈喽，接下来的课程中我们要使用代码编程驱动 Ring:bit 智能车做出一些有意思的动作，当然我们会由浅入深的讲解相关知识，本课程将实现 Ring:bit 智能车完成基本的前进后退动作，那我们开始吧。  
 ## 硬件连接
  其实硬件连接很简单，只需要将 Ring:bit 扩展版的 P1 口连接左轮舵机，P2 口连接右轮舵机，当然也可以接口交换，只需要在编程的时候改成相应的端口就行，但是作为初学者，建议和我们保持一致，那么发挥你灵巧的小手将它们连接起来吧。  
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case.png)
 
 ## 程序编写
 想必你应该已经准备好了编程环境，如果没有准备，可以参考这篇文章：[编程环境准备](https://www.yuque.com/elecfreaks-learn/picoed/gxro38)

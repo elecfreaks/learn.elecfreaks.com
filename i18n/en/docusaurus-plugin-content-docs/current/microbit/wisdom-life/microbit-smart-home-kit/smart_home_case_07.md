@@ -49,23 +49,23 @@ Blue|120db
  Prepare a scissors, a bottle of glue and a piece of cardboard.
  Stick the paper you prepared on the cardboard and clip it as you need.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/iNQDeE5.jpg)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/lPcTNho.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iNQDeE5.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lPcTNho.jpg)
 
  Set up as below：
 
 The front side：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/DU35Etf.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/DU35Etf.jpg)
 
 
 The back side：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/T9ucg1r.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/T9ucg1r.jpg)
 
 Set and stick components as below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/MMB2HnH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/MMB2HnH.jpg)
 
 
 ## Hardware Connect
@@ -73,7 +73,7 @@ Set and stick components as below:
 Connect the analog noise sensor to the P1 port of the expansion board.
 Connect the Rainbow LED to the P2 port of the expansion board.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/O4eOdnZ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/O4eOdnZ.jpg)
 
 ## Software
 
@@ -86,11 +86,11 @@ Connect the Rainbow LED to the P2 port of the expansion board.
 
  Click "Advanced" in the makecode code drawer for more codes.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2qCyzQ7.png)
 
  We need to add a new codebase for programming of smart home. Finding “Extensions” at the bottom of code block and click it. Then a message box will show up, search “smart home"， and download this new codebase.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/OY706rv.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/OY706rv.png)
 
 ***Note:*** If there is a hint says some codebase will be deleted because of incompatibility. Don't worry. You could go ahead as the hint or build a new item in the item menu bar.
 
@@ -98,7 +98,7 @@ Connect the Rainbow LED to the P2 port of the expansion board.
 
 Snap the on start block from the Basic, then snap the set to RainbowLED at pin with leds as from the RainbowLED. Initialize the rainbow LED to RGB of the P2 port.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/1912tDD.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1912tDD.png)
 
 ### Step 3
 
@@ -107,7 +107,7 @@ Then snap an if statement to judge the value the analog noise sensor at P1 port.
 When the value is greater than 30(in quiet situation), snap the strip show color block and set the color to red.
 Duplicate the above code and change the value to 40,50,60..., set different color to each value.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/EdCZok5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/EdCZok5.png)
 
 
 
@@ -141,7 +141,7 @@ You also could directly download program by visiting website as below:
 
  Different decibel makes rainbow LED in different colors.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/q2sED7W.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/q2sED7W.gif)
 
 ## Think
 

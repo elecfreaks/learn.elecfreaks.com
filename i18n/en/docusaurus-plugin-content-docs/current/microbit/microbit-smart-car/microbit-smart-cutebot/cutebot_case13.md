@@ -4,7 +4,7 @@
 
 Use the joystick:bit to control the Cutebot
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-13-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-13-01.png)
 
 ## Materials
 
@@ -24,15 +24,15 @@ Use the joystick:bit to control the Cutebot
 
 Click the "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-1.png)
 
 A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-11.png)
 
 A codebase is required for [Joystick:bit V2](https://www.elecfreaks.com/joystick-bit-2-for-micro-bit.html) programming, click “Add Package” at the bottom of the drawer, search `joystic` in the dialogue box and download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_13_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_13_01.png)
 
 ***Note:*** If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
@@ -48,7 +48,7 @@ Set `y` whose value is given by "acceleration (mg) y" exactly divides `10` to th
 
 The scope of the acceleration value is `0`~`1024` , which can be regarded roughly as the speed value in `0`~`100` after dividing `10`.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_13_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_13_02.png)
 
 ### Programming
 
@@ -88,7 +88,7 @@ If the radio received value `name` is `y`, it is the data for `y` and then save 
 
 In `forever` brick, set the left wheel speed to `yValue`+`xValue` and right wheel speed to `yValue`-`xValue`.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_12_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_12_02.png)
 
 ### Programming
 
@@ -119,7 +119,7 @@ You can also download it directly below:
 
 The rocker controls the movement of the Cutebot
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-13.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-13.gif)
 
 ## Exploration
 ---

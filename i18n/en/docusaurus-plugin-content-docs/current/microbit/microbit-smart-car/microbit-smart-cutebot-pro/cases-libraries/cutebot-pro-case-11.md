@@ -9,7 +9,7 @@ sidebar_label: case 11 PID line inspection
 
 This course aims to enable students to learn and explore concepts such as judgment, branching, and-or-not in program design by making smart racing cars, and understand the working principle of line-following sensors and the basic principles of PID control. Through the practical operation, students will master the PID line inspection algorithm, cultivate logical thinking, problem-solving, and teamwork skills, and further improve the effect of the car's line inspection.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-11-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-11-01.png)
 
 ## Teaching Objectives
 
@@ -46,7 +46,7 @@ Group discussions where students are encouraged to share their views and ideas
 
 ### Sample Code
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-11-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-11-02.png)
 
 
 Link：[https://makecode.microbit.org/_PCJdphi81XJc](https://makecode.microbit.org/_PCJdphi81XJc)

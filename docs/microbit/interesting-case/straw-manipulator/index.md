@@ -7,7 +7,7 @@ sidebar_label: 吸管机械手
 
 
 
-![](./images/straw-manipulator-01.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/straw-manipulator/images/straw-manipulator-01.gif)
 
 
 

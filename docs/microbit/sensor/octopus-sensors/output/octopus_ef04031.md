@@ -4,7 +4,7 @@
 ---
 - Octopus Passive蜂鸣器Brick基于无源蜂鸣器，它可以通过PWM控制音量.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/0G3EEXg.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/0G3EEXg.jpg)
 
 ## 特性
 ---
@@ -27,7 +27,7 @@ SKU|EF04031
 ## 外形与定位尺寸
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/bsmWrzk.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/bsmWrzk.jpg)
 
 ## 快速上手
 ---
@@ -37,13 +37,13 @@ SKU|EF04031
 
 ***以sensor:bit为例***
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/wqD4VuO.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wqD4VuO.png)
 
 ### 如图所示编写程序
 ---
 - 上电之后播放一段音乐。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04031_01.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04031_01.png)
 
 ### 参考程序
 

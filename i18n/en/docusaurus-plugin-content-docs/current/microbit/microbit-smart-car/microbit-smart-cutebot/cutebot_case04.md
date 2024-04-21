@@ -4,7 +4,7 @@
 
 Make your Cutebot move(move forward, reverse or change direction) as if in "his" mind.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-04-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-04-01.png)
 
 ## Materials
 
@@ -20,11 +20,11 @@ Make your Cutebot move(move forward, reverse or change direction) as if in "his"
 
 Click the "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-1.png)
 
 A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-11.png)
 
 ***Note:*** If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
@@ -32,7 +32,7 @@ A codebase is required for Cutebot programming, click “Add Package” at the b
 
 Choose "show icon" in the `On start`bricks.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_02.png)
 
 ### Step 3
 
@@ -40,7 +40,7 @@ Drag `left_speed` and `right_speed` bricks into `forever` brick to set a speed a
 
 Assign the two variables of the speed to the left and right wheels.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_04_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_04_01.png)
 
 
 ### Programming
@@ -73,7 +73,7 @@ You can also download it directly below:
 
 The Cutebot moves forward, reverses or changes its direction at random.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-04.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-04.gif)
 
 ## Exploration
 

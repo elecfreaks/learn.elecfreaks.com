@@ -29,7 +29,7 @@ Let the BME280 module be connected to `SCLP19` `SDAP20` of the `IIC`.
 
 Let the onboard RTC be connected to `IIC`.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_03_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_03_01.png)
 
 
 ## Software
@@ -43,11 +43,11 @@ Let the onboard RTC be connected to `IIC`.
 ### Step 1
  Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_11.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_11.jpg)
 
  We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_12.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_12.jpg)
 
 ***Note：*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
@@ -55,7 +55,7 @@ Let the onboard RTC be connected to `IIC`.
 
 Snap the `initialize OLED` in to the `on start`, initialize OLED screen pixels to `64*128`.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_03_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_03_02.png)
 
 ### Step 2
 
@@ -65,7 +65,7 @@ Display current light intensity, humidity and temperature.
 
 Then, snap into the `insert newline`.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_03_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_03_03.png)
 
 ### Program
 

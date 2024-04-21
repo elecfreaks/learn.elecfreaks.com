@@ -5,7 +5,7 @@ sidebar_label: Wonder Rugged Kit
 
 # Introduction to Wonder Rugged Kit
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Mecanum_wheel_car_kit_01.jpg)
 
 ## Introduction
 ---

@@ -1,6 +1,6 @@
 ﻿# 课程_13 指南针
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/xMxllOG.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xMxllOG.jpg)
 
 ## 简介
 ---
@@ -18,7 +18,7 @@
 
 **温馨提示：如果你需要以上所有元件，你可以购买我们的[Elecfreaks小小科学家套件](https://item.taobao.com/item.htm?ft=t&id=597096675822)。**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/W4tseua.jpg)
 
 ## 主要元件介绍
 ---
@@ -26,7 +26,7 @@
 
 这里，指南针实际上指的是一个磁力计。磁力计是一个单独的芯片，用于感应磁场强度。在标准运行时中的软件算法使用了板载的加速度计将这些读数转换成板子原始独立的指南针读数。在使用前，必须校准指南针。校准的过程由运行软件自动发起。这个元件通过I2C母线连接到了应用处理器上。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/jWLNeqO.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/jWLNeqO.jpg)
 
 ## 实验步骤
 ---
@@ -35,11 +35,11 @@
 
 - 将灯环的信号线接在P0口
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/8m3Efwt.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/8m3Efwt.jpg)
 
 连接完成后如图:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/L5VkXKE.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/L5VkXKE.jpg)
 
 ### 软件
 
@@ -49,28 +49,28 @@
 ### 添加Package
 - 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_13_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_13_01.png)
 
 点击`扩展`，在弹出的对话框中搜索“neopixel"，下载neopixel代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_13_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_13_02.png)
 
 ### 如图所示编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_13_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_13_03.png)
 
 ### 代码详解
 - 1.将P0口设置为灯环控制引脚，将它的色彩模式设置为RGB模式
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_13_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_13_04.png)
 
 - 2.设置函数将第1颗灯珠与第5颗灯珠设置为红、蓝两种颜色
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_13_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_13_05.png)
 
 - 3.读取对应的指南针返回值，对应不同的数值，将点亮的灯珠进行改变
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_13_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_13_06.png)
 
 ### 参考程序
 请参考程序连接：[https://makecode.microbit.org/_7cmF18FJccok](https://makecode.microbit.org/_7cmF18FJccok)
@@ -104,7 +104,7 @@
 注意：每次当你开始用指南针的时候（例如：如果你刚好启动了micro:bit),micro:bit将会开始校准指南针（自我调整）。倾斜micro:bit,它就会要求你画一个圆。
 如果你正在校准或者在金属附近使用指南针，这有可能会使micro:bit的方向感应出错。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/HI0MDIB.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/HI0MDIB.gif)
 
 
 

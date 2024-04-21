@@ -4,7 +4,7 @@
 
 This is a smart corridor light, which judges whether it needs to be turned on by the sound level and light level. Only when the light is dim and the sound of people walking is detected, the light will be automatically turned on, which saves more energy.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_28_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_28_01.png)
 
 ## Quick Start
 
@@ -31,7 +31,7 @@ Bricks × n
 Inset the micro:bit, and connect the rainbow led ring to J1 port on Nezha expansion board.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_28_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_28_03.png)
 
 
 
@@ -44,15 +44,15 @@ Video link: [https://youtu.be/9LZHzZaXf8Y](https://youtu.be/9LZHzZaXf8Y)
 
 ### Assembly Steps
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_28_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_28_01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_28_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_28_02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_28_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_28_03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_28_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_28_04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_28_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_28_05.png)
 
 
 
@@ -67,14 +67,14 @@ Video link: [https://youtu.be/9LZHzZaXf8Y](https://youtu.be/9LZHzZaXf8Y)
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_10.png)
 
 
 
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "nezha" to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_03_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_03_09.png)
 
 ***Note:*** If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -85,7 +85,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 ### Programme as the pictures indicate
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_26_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_26_10.png)
 
 
 
@@ -118,4 +118,4 @@ You may download it directly below:
 ### Result
 After powering on, the rainbow led ring lights on/off by its ambient light and sound level.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case-gif-28.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-gif-28.gif)

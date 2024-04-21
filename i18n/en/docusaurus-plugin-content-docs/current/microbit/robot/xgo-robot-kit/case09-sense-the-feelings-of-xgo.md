@@ -5,7 +5,7 @@ sidebar_label: Case 09 - "Sense" the Feelings of XGO
 
 # Case 09: "Sense" the Feelings of XGO
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/xgo-9-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xgo-9-01.png)
 
 ## Introduction
 
@@ -31,7 +31,7 @@ Hi guys, while we play with a pet dog, it's possible for us to know if it is hap
 
 We use a data cable (USB cable) to connect the computer with the micro:bit, I believe you are already very skilled.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-22.png)
 
 ## MakeCode programming
 ---
@@ -39,11 +39,11 @@ We use a data cable (USB cable) to connect the computer with the micro:bit, I be
 
 Click Advanced in MakeCode to see more options.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-10.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer, search for "XGO" in the dialog to download.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-11.png)
 
 ***Note:*** If you encounter a prompt that some codebases will be removed due to incompatibility, you can follow the prompt to continue or create a new project in the menu.
 
@@ -51,7 +51,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 #### Sample code-The sender end
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/xgo-9-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xgo-9-02.png)
 
 Link: [The happy XGO](https://makecode.microbit.org/_JeRJmU3dj44r)
 
@@ -78,7 +78,7 @@ You may also download it directly below:
 
 #### Sample code-The recevier end
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/xgo-9-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xgo-9-03.png)
 
 Link: [The program of the controller](https://makecode.microbit.org/_HFcRzH04KFv3)
 

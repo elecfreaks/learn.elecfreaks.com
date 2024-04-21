@@ -1,6 +1,6 @@
 ﻿# Lesson 06 Self-lock Switch
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/ogadD6b.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ogadD6b.jpg)
 
 ## Introduction
 
@@ -21,7 +21,7 @@ Self-lock switch is a kind of common button switch. When we press the button for
 
 ***Tips: If you want all components above, you may need Elecfreaks micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html) .***
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/W4tseua.jpg)
 
 ## Major Components Introduction
 
@@ -30,7 +30,7 @@ Self-lock switch is a kind of common button switch. When we press the button for
 
 Self-lock switch normally means switch with built-in mechanical lock function. Press down the switch and then release, it will not fully bounce up because it is locked. You have to press it again, then it will be unlocked and fully bounce up. This is the so-called Self-lock Switch. It is widely used to earlier televisions and monitors with function of directly completely power off.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/hareBrE.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/hareBrE.jpg)
 
 ****Note:**** This kind of self-lock switch contains two groups of double-throw switch. In this experiment, we use a group only. So we cut down the common footer of a group.
 
@@ -42,33 +42,33 @@ Connect them as the picture shows:
 - 1. Connect the self-lock switch to the P0 port of the breadboard adapter.
   2. Connect the LED to P2 port of the breadboard through 100Ω resistor.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/k4dfMBY.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/k4dfMBY.jpg)
 
 After connection, you will see:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/AuCiJU3.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AuCiJU3.jpg)
 
 ### Software
 
 Please open makecode.microbit.org(https://makecode.microbit.org/)  and write your code in the edit area.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/JHZUvh2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JHZUvh2.png)
 
 ### Add Package
 - Not Required
 
 ### Program as the picture shows:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/bCNErri.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/bCNErri.png)
 
 ### Details for the code:
 - 1.Set events monitor to P0 port and set it to high level.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/2jq655A.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2jq655A.png)
 
 - 2.Set the trigger for the event, when the self-lock switch is pressed down, the electric potential changes and the led lights on; while being pressed again, the electric potential changes again and the led lights off.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/TZcB7Jz.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TZcB7Jz.png)
 
 ### Reference
 Links: [https://makecode.microbit.org/_Dhy5i9KVeLAK](https://makecode.microbit.org/_Dhy5i9KVeLAK)
@@ -98,7 +98,7 @@ You can also download the links directly:
 
 Press down self-lock switch, LED lights on; press again, LED lights off.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/sCMwXXf.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/sCMwXXf.gif)
 
 
 ## Exploration

@@ -5,7 +5,7 @@ sidebar_label: Case 04 Fast Finger
 
 # Case 04: Fast Finger
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case04-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case04-01.png)
 
 ## Introduction
 
@@ -25,7 +25,7 @@ In some playgrounds we can see dancing machines where the challenger makes the a
 
 ### Button
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case04-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case04-02.png)
 
 The keypad principle on the Wukong 2040 expansion board is based on the working principle of electronic switches. There are two keys on the main board, the A and B buttons.
 
@@ -37,7 +37,7 @@ By reading the level of the GPIO pins, it is possible to determine whether a key
 
 ### OLED Display
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case04-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case04-03.png)
 
 The 0.96" OLED display module uses the SSD1306 driver chip with 128x64 self-luminous white pixels and uses both IIC/SPI communication methods, with the default setting being IIC.
 
@@ -47,11 +47,11 @@ The 0.96" OLED module supports 3.3V and 5V, internal power-on reset handling and
 
 Connect your components according to the following connection diagram:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case04-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case04-06.png)
 
 ## MicroBlocks Graphical Programming
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case04-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case04-05.png)
 
 ## CircuitPython Code
 
@@ -93,7 +93,7 @@ while True:
 
 ## Case Display
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-kit-case04-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-kit-case04-06.gif)
 
 ## Think
 

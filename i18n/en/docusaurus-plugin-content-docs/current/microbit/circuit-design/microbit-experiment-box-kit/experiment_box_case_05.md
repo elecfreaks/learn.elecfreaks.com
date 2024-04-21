@@ -10,13 +10,13 @@
 
 ## Hardware Connect ##
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/YlThssw.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/YlThssw.png)
 
  Connect circuit as above picture and put 2 AAA batteries to batteries pack.
 
 ## Principles of Circuits ##
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/Baf6k1C.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Baf6k1C.png)
 
  The GND of slot on micro:bit is into innards of batteries' GND to generate current loop.
 
@@ -26,7 +26,7 @@
  Photocells or photodiodes. They change their resistive value based on how much light shines on its face. The more light shines on it, the lower its resistance. The photocell is very sensitive to light, so we can use illumination intensity to change circuit of electricity.
  The experiment box included a phtocell. The black port on the left is negative pole and the red port on the right is positive pole.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/E1kmQUI.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/E1kmQUI.jpg)
 
 ***Note:*** Please note the positive and the negative when you are connecting.
 
@@ -38,7 +38,7 @@
 
  Click on "New Project" and set a new Project.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t34k5Zb.png)
 
 ### Step 2
 
@@ -46,14 +46,14 @@
  The value is more than 100(The light is very bright）.
  Clear screen.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/Ll1nPCC.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ll1nPCC.png)
 
 ### Step 3
 
  The value is less than or equal to 100(The light is dark).
  A heart icon will show on micro:bit 5X5 allay.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/5WMWzWe.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/5WMWzWe.png)
 
 ### Program
 
@@ -85,7 +85,7 @@
 
  When the light becomes dark, a heart icon shows.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/C577PsC.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/C577PsC.gif)
 
 ## Think
 

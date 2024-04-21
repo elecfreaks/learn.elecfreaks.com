@@ -19,7 +19,7 @@
 ## Hardware Connect
 
 - Connect the left wheel servo to P1 of the Ring:bit expansion board and the right wheel servo to P2.
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/jBVHea8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/jBVHea8.png)
 
 ## Software
 
@@ -30,11 +30,11 @@
 ### Step 1
 - Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2qCyzQ7.png)
 
 - Search for “ringbitcar” and click on the ring:bit car package to add it to your project. (As below picture)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/1Wq2Mov.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1Wq2Mov.jpg)
 
 ***Note：*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 

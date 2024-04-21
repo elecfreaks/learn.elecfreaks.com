@@ -4,7 +4,7 @@
 
 Octopus TMP36 Temperature Sensor Brick is a temperature sensor with low voltage and accurate Celsius read. It can provide voltage output,which forms a linear relationship with Celsius temperature.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/zqYYROQ.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/zqYYROQ.jpg)
 
 
 ## Products Link
@@ -35,7 +35,7 @@ Turn Off Current|Max 0.5μA
 ## Outlook and Dimensions
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/e5NlyhB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/e5NlyhB.png)
 
 ## Quick to Start
 
@@ -46,24 +46,24 @@ Connect to the P1 port
 
 Take sensor:bit for example
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/bLgrtiX.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/bLgrtiX.png)
 
 ### Add Package
 
 Click "Advanced"in the choice of the MakeCode to find more choices.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
 
 Click "Extensions", search "iot"in the dialog box and then download it.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/dsPDNvD.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/dsPDNvD.png)
 
 ### Program as the picture shows
 1. Choose the display brick for the micro:bit.
 2. Choose the function of showing the temperature from the IoT package.
 3. The temperature is showing on the micro:bit.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/PvPxhtr.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/PvPxhtr.png)
 
 ### Reference
 

@@ -12,7 +12,7 @@ sidebar_label: 硬件装配
 - 使用较短的平头螺丝将micro:bit安装到Ring:bit扩展板上面。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-17.png)
 
 
 
@@ -21,16 +21,16 @@ sidebar_label: 硬件装配
 - 使用较长的平头螺丝将七孔梁固定到 XGO 相应的螺孔上面。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-18.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-19.png)
 
 ### 步骤三
 
 - 将安装了 micro:bit 的 Ring:bit 扩展板使用长销安装到七孔梁上面。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-20.png)
 
 ### 步骤四
 
@@ -38,7 +38,7 @@ sidebar_label: 硬件装配
 -  将 XGO 预留的杜邦线连接到 Ring:bit 相应的端口上面，其中，黑色杜邦线连接到G端口，黄色杜邦线和蓝色杜邦线接在1号和2号端口上面，在编程的时候要选择相应的端口号。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-21.png)
 
 ### 步骤五
 
@@ -46,7 +46,7 @@ sidebar_label: 硬件装配
 - 使用数据线将电脑和 micro:bit 相连接；
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-22.png)
 
 
 
@@ -58,7 +58,7 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-10.png)
 
 
 
@@ -71,7 +71,7 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-11.png)
 
 
 
@@ -80,7 +80,7 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-12.png)
 
 
 
@@ -89,11 +89,11 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-13.png)
 
 注意：若通过搜索 XGO 没有得到相应的结果，可以输入：https://github.com/elecfreaks/pxt-xgo ，如下：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-23.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-23.png)
 
 
 
@@ -102,7 +102,7 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-14.png)
 
 
 
@@ -111,7 +111,7 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-15.png)
 
 
 
@@ -125,7 +125,7 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-24.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-24.png)
 
 
 
@@ -133,7 +133,7 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-01.png)
 
 
 
@@ -141,9 +141,9 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-03.png)
 
 
 
@@ -151,9 +151,9 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-05.png)
 
 
 
@@ -161,7 +161,7 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-06.png)
 
 
 
@@ -169,7 +169,7 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-07.png)
 
 
 
@@ -177,7 +177,7 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-08.png)
 
 
 
@@ -185,9 +185,9 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-10.png)
 
 
 
@@ -195,11 +195,11 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-11.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-12.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-13.png)
 
 
 
@@ -207,9 +207,9 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-14.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-15.png)
 
 
 
@@ -217,13 +217,13 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-16.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-17.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-18.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-19.png)
 
 
 
@@ -231,7 +231,7 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-20.png)
 
 
 
@@ -239,21 +239,21 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-21.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-22.png)
 
 设置 XGO 移动或旋转以及相应的速度；
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-23.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-23.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-26.png)
 
 
 
 设置 XGO 身体高度；
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-25.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-25.png)
 
 
 
@@ -263,7 +263,7 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-square-28.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-square-28.png)
 
 参考程序链接：[XGO](https://makecode.microbit.org/_Rs2MPv5uebYd)
 

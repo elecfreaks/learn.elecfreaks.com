@@ -4,7 +4,7 @@
 ---
 这是一款防水设计的风速传感器。它使用octopus相关产品的标准连接器，当风速变大，得到更大的输出电压。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/NsSeG42.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NsSeG42.jpg)
 
 ## 特性
 ---
@@ -35,18 +35,18 @@ SKU|EF04083
 ---
 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
 
 点击“Extensions”，在弹出的对话框中搜索“iot"，下载iot代码库。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/nOQkv8h.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nOQkv8h.png)
 
 ### 如图所示编写程序
 ---
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04083_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04083_03.png)
 
 
 

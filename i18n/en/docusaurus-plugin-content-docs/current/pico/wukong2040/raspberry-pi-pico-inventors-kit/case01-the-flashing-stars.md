@@ -5,7 +5,7 @@ sidebar_label: Case 01 The Flashing Stars
 
 # Case 01: The Flashing Stars
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case01-03.png)
 
 ## Introduction
 
@@ -36,23 +36,23 @@ LEDs are essentially also a type of diode. In the case of a normal diode, for ex
 Why does one emit heat and why does the other emit light? This depends entirely on the material of the semiconductor.
 The semiconductor material used in ordinary diodes is silicon, the outermost layer of the silicon atom has four electrons, the outermost layer of the atom of a pure silicon crystal can form a stable 8-electron structure, its N region is in the pure silicon atom doped with 5-valent phosphorus, so the outermost layer of an extra free electron, while its P region is in the pure silicon atom doped with 3-valent boron, which leads to the outermost layer of his lack of an electron to form a hole, when When we apply a positive voltage to it, the free electron will compound with the hole, and the compound will release heat at the same time. The reason why heat is released is determined by the substance, and the semiconductor material used in LEDs is not silicon but a compound, such as potassium nitride, which has five electrons in the outermost layer of the nitrogen atom and three electrons in the outermost layer of the potassium atom, so the nitrogen and potassium atoms in pure potassium nitride can also form a stable 8-electron structure in the outermost layer. The semiconductor structure of the LED is such that when we add a positive voltage to it, the free electrons compound with the holes, and after the compound produces photons, the LED is so luminous. This is how the LED emits its light, which is blue, due to the material gallium nitride. For other LED lamp colours, please consult the relevant information.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case01-01.png)
 
 ### The Trimpot
 
 A trimpot/potentiometer is an adjustable electronic component. It consists of a resistor body and a rotating or sliding system. When a voltage is applied between the two fixed contacts of the resistor body, the position of the contacts on the resistor body is changed by the rotation or sliding system and a voltage is obtained between the movable and fixed contacts in relation to the position of the movable contacts.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case01-02.png)
 
 ### Hardware Connection
 
 Connect your components according to the following connection diagram:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case01-05.png)
 
 ### Graphical Programming
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case01-04.png)
 
 ### Code
 
@@ -76,7 +76,7 @@ while True:
 
 ### Case Display
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-kit-case01-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-kit-case01-06.gif)
 
 ### Think
 

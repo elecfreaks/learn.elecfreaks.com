@@ -4,7 +4,7 @@
 ---
  这是一个数字按钮传感器，可以检测您的按压动作，适合初学者使用。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/04034.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04034.jpg)
 
 ## 特性
 ---
@@ -27,7 +27,7 @@ SKU|EF04034
 ## 外形与定位尺寸
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/octopus_board.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/octopus_board.png)
 
 ## 快速上手
 ---
@@ -37,11 +37,11 @@ SKU|EF04034
 
 ***以sensor:bit为例***
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/04034-2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04034-2.png)
 
 ### 如图所示编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/04034-3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04034-3.png)
 
 ### 参考程序
 
@@ -80,13 +80,13 @@ SKU|EF04034
 下载压缩包并解压[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_07.png)
 
 为了给按钮模块编程，我们需要添加button.py。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的Octopus_MicroPython-master文件夹，从中选择button.py添加进来。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/05001_08.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/05001_09.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/04034_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04034_10.png)
 
 ### 步骤 2
 ### 参考程序

@@ -17,7 +17,7 @@
 - 该巡迹模块使用的为[红外线传感器](https://baike.baidu.com/item/%E7%BA%A2%E5%A4%96%E7%BA%BF%E4%BC%A0%E6%84%9F%E5%99%A8/9007351?fr=aladdin),模块由一个**发射端**和一个**接收端**组成，发射端发射红外线由地面反射回来由接收端接收。
 - 遇到黑色地面或者其他吸收红外光材质的物品时，接收端无法接收到红外线，巡迹模块返回1。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/8UN8B88.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/8UN8B88.jpg)
 
 
 ## 硬件连接图
@@ -25,9 +25,9 @@
 
 如图所示，将巡线模块左边传感器(S1)连接到motor:bit主板的4号引脚，将右边传感器(S2)连接到motor:bit主板的3号引脚。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/BOpsVvF.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/BOpsVvF.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/kzPngGo.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/kzPngGo.jpg)
 
 ## 软件
 ---
@@ -38,11 +38,11 @@
 ### 步骤 1
 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/motor_bit_case_01.png)
 
 为了给motorbit主板编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索“motorbit"，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/motor_bit_case_02.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -51,7 +51,7 @@
 - 在`当开机时`积木块中插入 以...的速度前进 积木块，设置参数为80，表示上电时以80的速度前进。
 - 设置两个变量分别为`left`和`right`，用来分别巡线模块左右传感器的返回参数，并且将他们初始化为1。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/motor_bit_case_03.png)
 
 
 ### 步骤 3
@@ -61,7 +61,7 @@
 - 然后判断`left`变量和`right`变量是否有一个为0，也就是左右传感器其中一个检测到黑线。
 - 如果有一个为0，设置左右电机速度为0，停车。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/motor_bit_case_04.png)
 
 
 ### 程序

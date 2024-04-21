@@ -1,7 +1,7 @@
 # Case 03:Trimpot
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0301.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0301.png)
 
 ## Introduction
 
@@ -30,7 +30,7 @@ Trimpot is an adjustable electronic component. It consists of a resistive body a
 n x Breadborad jumper wire 65pcs pack
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/starter-kit01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/starter-kit01.png)
 
 ## Major Components Introduction
 
@@ -38,17 +38,17 @@ n x Breadborad jumper wire 65pcs pack
 
 Trimpot is a kind of adjustable electronic component. It consists of a resistor and a knob or slide system. When adding an external voltage to the two fixed contact points of the resistor, by using a knob or sliding system to change the position of the contact point on the resistor, a voltage with a special relationship to the position of the movable contact is placed on the movable contact. point and two fixed contacts are formed. Most of the time, it works like a voltage divider.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0302.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0302.png)
 
 ### Hardware Connection
 
 Connect your components according to the picture below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case03.png)
 
 This is what it looks like after the connection is complete:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/dianweiqi.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/dianweiqi.png)
 
 Rotate the button of the Trimpot, then the output voltage will vary between 0V and 3V as the button is rotated.
 

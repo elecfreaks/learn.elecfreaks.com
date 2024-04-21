@@ -29,7 +29,7 @@ Size of Finished Product|146mm x 124mm x 71mm
 
 ## Dimension
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/vehvUKJ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/vehvUKJ.jpg)
 
 
 ## Packing List
@@ -47,13 +47,13 @@ Size of Finished Product|146mm x 124mm x 71mm
 
 ### Assembly Overview
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/yeShOQZ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/yeShOQZ.jpg)
 
 ### Finished Product
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/jfltEih.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/jfltEih.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/AuBmsFz.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AuBmsFz.jpg)
 
 
 

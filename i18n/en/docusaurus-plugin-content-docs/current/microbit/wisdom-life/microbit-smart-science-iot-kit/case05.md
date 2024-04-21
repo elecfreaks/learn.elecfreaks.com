@@ -29,7 +29,7 @@ Let the human infrared sensor module be connected to `P10`.
 
 Let the onboard buzzer be connected to `P0`.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_05_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_05_01.png)
 
 ## Software
 
@@ -42,11 +42,11 @@ Let the onboard buzzer be connected to `P0`.
 ### Step 1
  Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_11.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_11.jpg)
 
  We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_12.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_12.jpg)
 
 ***Note：*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
@@ -58,7 +58,7 @@ If the `IR` parameter is equal to `1`, get the ultrasonic returned value again a
 
 If the `ultrasonic` variable is lower than 30, play a `ba ding` to warning.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_05_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_05_02.png)
 
 
 

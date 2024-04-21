@@ -6,13 +6,13 @@
 
 ## 硬件连线图 ##
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/Gca57tq.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Gca57tq.png)
 
 - 使用香蕉线按如上图连接电路，电池盒内放入2颗7号AAA电池。
 
 ## 电路原理图 ##
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/wnBLHqP.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wnBLHqP.png)
 
 micro:bit插槽的GND端和电池GND相连内部，形成电流回路。
 
@@ -23,7 +23,7 @@ micro:bit插槽的GND端和电池GND相连内部，形成电流回路。
 - RGB LED分为两种类型，分别为共阴极与共阳极：共阴极的RGB LED公共端接GND；共阳极的RGB LED公共端接VCC。
 - 实验箱板载一颗共阴极的RGB LED。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/KF4IVxu.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/KF4IVxu.jpg)
 
 - *连线时注意正负极。*
 
@@ -35,7 +35,7 @@ micro:bit插槽的GND端和电池GND相连内部，形成电流回路。
 
 - 点击New Project按钮，新建一个项目。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t34k5Zb.png)
 
 ### 步骤 2
 
@@ -43,13 +43,13 @@ micro:bit插槽的GND端和电池GND相连内部，形成电流回路。
 - 向RGB的R通道写入1，G和B通道写入0。
 - RGB LED亮红灯。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/sB2lvoi.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/sB2lvoi.png)
 
 - 同理写绿灯和蓝灯的代码。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/Rl1jlrI.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Rl1jlrI.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/JsaMcnR.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JsaMcnR.png)
 
 
 ### 程序

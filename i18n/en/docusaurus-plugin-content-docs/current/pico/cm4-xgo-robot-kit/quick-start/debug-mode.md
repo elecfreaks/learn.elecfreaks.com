@@ -9,15 +9,15 @@ sidebar_label: Debug Mode
 
 Remove the six screws at the top, left and right sides and tail.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-debug-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-debug-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-debug-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-debug-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-debug-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-debug-03.png)
 
 At this point the back cover can be picked up, taking care not to disconnect the switch wires.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-debug-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-debug-04.png)
 
 
 
@@ -26,7 +26,7 @@ Leave the xgo robot on, then plug in the TYPE-C cable and connect the xgo to the
 Open the device manager on the computer (search in the box at the bottom of the taskbar to open it directly)
 You will see the device name USB-SERIAL CH340 in the port section, COM4 is the serial port number
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-debug-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-debug-05.png)
 
 
 

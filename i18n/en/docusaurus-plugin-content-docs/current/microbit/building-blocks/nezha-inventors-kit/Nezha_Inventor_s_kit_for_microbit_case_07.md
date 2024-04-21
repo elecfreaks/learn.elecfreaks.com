@@ -4,7 +4,7 @@
 
 Use the light intensity of the micro:bit to make a smart light, which automatically turns on or off the LED light according to the light level.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_07_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_07_01.png)
 
 ## Quick Start
 
@@ -26,7 +26,7 @@ RJ11 wires × 1
 Connect the yellow LED on the Nezha expansion board as the picture shows.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_07_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_07_03.png)
 
 ### Assembly Video
 
@@ -37,19 +37,19 @@ Video reference: [https://youtu.be/oDzSJMKisO8](https://youtu.be/oDzSJMKisO8)
 
 ### Assembly Steps
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_07_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_07_01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_07_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_07_02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_07_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_07_03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_07_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_07_04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_07_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_07_05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_07_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_07_06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_07_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_07_07.png)
 
 
 
@@ -61,11 +61,11 @@ Video reference: [https://youtu.be/oDzSJMKisO8](https://youtu.be/oDzSJMKisO8)
 
 Click "Advanced" in the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_10.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_11.png)
 
 ***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -73,7 +73,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 ### Code as below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_07_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_07_10.png)
 
 
 ### Reference
@@ -105,4 +105,4 @@ You may also download it directly below:
 
 The LED lamps light on/off according to the light intensity.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case-gif-07.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-gif-07.gif)

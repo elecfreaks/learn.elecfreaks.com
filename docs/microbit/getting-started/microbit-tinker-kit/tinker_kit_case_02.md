@@ -1,6 +1,6 @@
 ﻿# 课程_02 智能灯
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/hEALUQr.jpg)  
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/hEALUQr.jpg)  
 
 在这个项目中，我们将使用micro:bit小小发明家套件来制作一个智能灯。我们将会用到章鱼系列的人体红外传感器和LED灯模块。 当检测到有人进入房间的时候，LED灯就会亮起来。
 
@@ -29,34 +29,34 @@
 ### 步骤 1： 元器件连接
 
 将micro:bit插入扩展板顶部的插口，并且将人体红外传感器模块插入扩展板上的引脚P0。
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/y4rPaD2.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/y4rPaD2.jpg)
 
 将LED模块插入扩展板上的引脚P1，确保线的颜色和扩展板上的引脚颜色相同。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/f2mpSkX.jpg)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/ZhIpbTH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/f2mpSkX.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ZhIpbTH.jpg)
 
 
 ### 步骤 2： 编程前的准备
 
 我们将在MakeCode中添加一个代码库以方便使用我们的元器件。在MakeCode的代码抽屉中点击“高级” 查看更多代码选项，然后在代码抽屉底部选择“扩展”。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/R5lx5Np.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/R5lx5Np.jpg)
 
 此时，将会弹出一个对话框。在对话框中搜索“tinker kit", 然后点击下载这个代码库。 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/pduH11r.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pduH11r.png)
 
 注意：如果你收到提示说一些代码库因为不兼容问题将被删除，你可以根据提示操作或者在项目文件的菜单中新建一个项目。
 
 
 ### 步骤 3: 编程
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_02_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_02_01.png)
 
 在MakeCode的代码抽屉中点击Tinkercademy，找到与我们套件元器件相关的积木块。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_02_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_02_02.png)
 
 在这个项目中，我们不需要初始化程序，而且这个程序的代码并不多。
 

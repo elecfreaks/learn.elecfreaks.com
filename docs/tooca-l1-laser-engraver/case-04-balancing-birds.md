@@ -11,7 +11,7 @@ sidebar_label: 平衡鸟
 平衡鸟之所以会平衡,那是因为整只鸟实际的重心在嘴尖这点的下方。虽然看起来鸟全身在空中，鸟的着力点在手指上，但是实际鸟的翅膀重量比较重，整只鸟重心却在嘴尖的正下方。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-04-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-04-01.png)
 
 ## 使用材料
 
@@ -38,4 +38,4 @@ sidebar_label: 平衡鸟
 
 ## 效果展示
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-04-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-04-01.png)

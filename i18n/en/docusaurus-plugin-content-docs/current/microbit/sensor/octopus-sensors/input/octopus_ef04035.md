@@ -4,7 +4,7 @@
 
 This is Push Lock ESwitch button brick, which detects your press action and it is ideal for beginners to learn.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/input/images/SMeQQyr.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/SMeQQyr.jpg)
 
 ## Products Link
 
@@ -27,7 +27,7 @@ Working Voltage|3.35V
 
 ## Outlook and Dimensions
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/input/images/IYYxw8r.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/IYYxw8r.png)
 
 ## Quick to Start
 
@@ -38,13 +38,13 @@ Working Voltage|3.35V
 
   Take sensor:bit for example
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/input/images/tUcPhzM.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tUcPhzM.png)
 
 ### Add Package
 
 Program as the picture shows
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/input/images/gkU4VNN.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/gkU4VNN.png)
 
 ### Reference
 

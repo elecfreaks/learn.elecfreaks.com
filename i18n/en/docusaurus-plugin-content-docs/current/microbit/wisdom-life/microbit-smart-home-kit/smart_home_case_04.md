@@ -1,6 +1,6 @@
 ﻿# case 04 Smart Wardrobe
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/1BOixPA.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1BOixPA.jpg)
 ## Goal
 
 
@@ -21,32 +21,32 @@
 ### Auto window operation
  Using micro:bit detect wether the the value of noise higher than 70dB and control servo to closing the door and the window.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/g674G7D.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/g674G7D.png)
 
 ## Practical operation
 
 Materials: corrugated board and cutter
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/PuJE7uj.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/PuJE7uj.jpg)
 
 Build as below picture：
 
 Front side：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/sPzbv3R.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/sPzbv3R.jpg)
 
 Back side：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/hvyJ9Ow.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/hvyJ9Ow.jpg)
 
 Paste devices as below piture:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/oSZrVnY.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/oSZrVnY.jpg)
 
 
 ## Hardware connect
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/hOlsKaR.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/hOlsKaR.png)
 
 
 
@@ -66,11 +66,11 @@ Edge Connector Data Sheet
 ### Step 1
 Go to MakeCode page, click Advanced in the code block and click on Extensions.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2qCyzQ7.png)
 
 We need to add a new codebase for programming of smart home. Finding “Add Package” in the bottom of code block and click it. Then a message box will show up, search “smart home"， and download this new codebase.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/QR2s7LD.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/QR2s7LD.png)
 
 ***Note：*** If there is a hint says some codebase will be deleted because of incompatibility. Don't worry. You could go ahead as the hint or build a new item in item menu bar.
 
@@ -80,24 +80,24 @@ We need to add a new codebase for programming of smart home. Finding “Add Pack
 Drag on start on from Basic, snap into servo write pin, set P1 to 0.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/cAwF1Yb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cAwF1Yb.png)
 
 ### Step 3
 
 Snap set item to into forever, assignment value of noise to noise variables.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/V2ptpb6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/V2ptpb6.png)
 
 ### Step 4
 
 If value of noise > 70dB, snap into servo write pin,set P1 to 0 and the window be closed.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/RGf9xF5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/RGf9xF5.png)
 
 ### Step 5
 If value of noise < 70dB，snap into servo write pin,set P1 to 100 and the window be opened.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/5VmbsGn.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/5VmbsGn.png)
 ### Programming
 
 Make code：[https://makecode.microbit.org/_Trh6x75hYcAT](https://makecode.microbit.org/_Trh6x75hYcAT)
@@ -128,10 +128,10 @@ You also could directly download program visit website as below:
 micro:bit driving servo open the window when value of noise > 70dB.
 
 Front side：
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/2JsAZKA.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2JsAZKA.jpg)
 
 Back side：
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/rGIkINB.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/rGIkINB.jpg)
 
 ## Think
 

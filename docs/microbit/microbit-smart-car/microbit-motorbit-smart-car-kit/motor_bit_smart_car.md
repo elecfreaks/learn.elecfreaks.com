@@ -28,7 +28,7 @@ motor:bit亚克力智能小车是为micro:bit两路电机驱动板量身打造�
 
 ### 组装后尺寸图
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/hCjLYAH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/hCjLYAH.jpg)
 
 ## 零件清单
 ---
@@ -45,12 +45,12 @@ motor:bit亚克力智能小车是为micro:bit两路电机驱动板量身打造�
 ### 底盘零件平铺图
 
 ### 组装爆炸图
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/K2LZAD4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/K2LZAD4.png)
 
 ### 成品示意图
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/hd42esf.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/hd42esf.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/vPsM3oe.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/vPsM3oe.jpg)
 
 ## 文档
 ---

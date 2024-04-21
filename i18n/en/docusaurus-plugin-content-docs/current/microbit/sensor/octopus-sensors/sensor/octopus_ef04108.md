@@ -3,7 +3,7 @@
 ## Introduction
 Speech recognition sensor can realize the voice recognition function, and support self-learning words. Combined with rainbow LED, intelligent cars and other hardware can realize voice recognition control lamps, voice recognition control cars and other interesting cases.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/EF04108-01.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/EF04108-01.png)
 
 ## Technical Specifications
 | Item | Parameter |
@@ -15,7 +15,7 @@ Speech recognition sensor can realize the voice recognition function, and suppor
 
 ## Outlook and Dimensions
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/EF04108-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/EF04108-02.png)
 
 ## Speech Recognition Sensor Preset Phrases and Feedback
 
@@ -88,23 +88,23 @@ The speech recognition sensor is connected to the IIC interface as shown in the 
 
 ***Take IOT:bit as an example***
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/EF04108-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/EF04108-03.png)
 
 ### Add Software Library
 Click "Advanced" in MakeCode's code drawer to see more code options.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/EF04108-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/EF04108-04.png)
 
 Click "Extension" and search "https://github.com/elecfreaks/pxt-ASR" in the pop-up dialog box to download the code base for speech recognition building blocks.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/EF04108-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/EF04108-05.png)
 
 
 ### Write the program as shown
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/EF04108-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/EF04108-06.png)
 
 
 

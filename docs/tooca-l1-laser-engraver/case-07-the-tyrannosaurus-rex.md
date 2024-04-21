@@ -9,7 +9,7 @@ sidebar_label: 霸王龙
 
 霸王龙即雷克斯暴龙，生存于白垩纪末期的马斯特里赫特期(MAA)距今约6850万年到6500万年前的白垩纪最末期，是白垩纪-第三纪灭绝事件前最后的非鸟类的恐龙种类之一。化石分布于北美洲的美国与加拿大，是最晚灭绝的恐龙之一。用激光切割机做一个霸王龙拼装模型。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-07-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-07-01.png)
 
 ## 使用材料
 
@@ -36,12 +36,12 @@ sidebar_label: 霸王龙
 
 ## 效果展示
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-07-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-07-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-07-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-07-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-07-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-07-04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-07-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-07-05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-07-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-07-06.png)

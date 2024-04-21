@@ -1,6 +1,6 @@
 ﻿# case 19 Electric Spirit Level
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/x8QD9mQ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/x8QD9mQ.jpg)
 
 Use this spirit level to quickly and easily display the tilt of any object attached!
 Created by Kaitlyn from Raffles Institution.
@@ -15,7 +15,7 @@ Created by Kaitlyn from Raffles Institution.
 - Learn to read tilt with micro:bit’s built-in accelerometer.
 - Learn to work with micro:bit’s 5x5 LED Display!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/b0zxOOu.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/b0zxOOu.png)
 
 
 ## Materials
@@ -51,7 +51,7 @@ A few additional functions we need to include are:
 Calibration for initial tilt position.
 Returning to default tilt calibration.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/cPWw6yl.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cPWw6yl.png)
 
 
 ## How to Make
@@ -66,7 +66,7 @@ tiltBoundary: Boundary of the first tilt level between 0 (no tilt) and 1 (slight
 prevState: Array that stores the tilt values of the micro:bit from a previous loop in the same format as tiltList, used to check for a change in tilt between iterations
 ledPlotList: Plot led coordinate arrays in the form (x, y). To define an array , we use the type number[][] to indicate a nested array of variables of type: number.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/dxySnVH.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/dxySnVH.png)
 
 ### Step 2: Convert tilt values to levels
 
@@ -78,7 +78,7 @@ Instead, a function tiltExtent() takes the parameter num, which refers to the ti
 
 Here, tiltBoundary and tiltSensitivity are used as the boundary values between tilt levels.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/qlNuqXy.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/qlNuqXy.png)
 
 ### Step 3: Compile tilt levels
 
@@ -88,7 +88,7 @@ Before using the tilt values, we calibrate them using a zeroed value for both pi
 
 As the accelerometer readings are negative for both left and forward tilt, we need to use the Math.abs() function to obtain the modulus of the negative value to be given to the tiltExtent() function as a parameter for these two directions.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/DdzPN5C.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/DdzPN5C.png)
 
 ### Step 4: Write LEDPlotList Functions
 
@@ -100,34 +100,34 @@ plotUnequal(): Tilt in two directions of different magnitudes, taking extent of 
 
 These plotting functions write an array of led coordinates to ledPlotList to be plotted later on.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/v49F5bk.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/3ueJy2X.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/hRWdNtS.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/v49F5bk.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/3ueJy2X.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/hRWdNtS.png)
 
 ### Step 5: Plot LED Matrix for Each Case
 
 Using the plotting functions from the three cases in step 4, we can now plot the actual LED matrix for the different possible combinations of tilt levels. As the three functions in step 4 do not discriminate with direction, we need to adjust the coordinate values passed to the LED matrix to plot the LEDs in the right directions.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/3pCbbkX.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/KkGJgEP.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/3pCbbkX.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/KkGJgEP.png)
 
 PlotResult() contains multiple if conditions that check the kind of tilt and plot the LED matrix accordingly using led.plot(x, y). The possible combinations of tilt are:
 
 Single direction: Left Only or Right Only.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/gGINyUC.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/gGINyUC.png)
 
 Single direction: Forward Only or Backward Only.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/8ifs068.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/8ifs068.png)
 
 Two directions: Forward-left or Backward-left.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/SyChxHQ.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/SyChxHQ.png)
 
 Two directions: Forward-right or Backward-right.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Ncgeroq.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ncgeroq.png)
 
 Note: For tilt in two directions, each combination can have the same or different magnitude (checked by comparing maxX and maxY), and hence plotted using plotDiagonal() or plotUnequal() respectively.
 
@@ -138,7 +138,7 @@ Having completed the bulk of the code, we now add in the calibTilt() and the res
 calibTilt() allows users to tare the tilt to zero at the micro:bit’s current position
 resetTilt() resets the calibration of the board to its original state.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/1CygCKv.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1CygCKv.png)
 
 ### Step 7: Write State Function
 
@@ -146,7 +146,7 @@ We add a simple function checkState() to check whether the tilt levels have chan
 
 If there is no change in tilt levels from a previous iteration i.e. stateChange == 0, we can directly move on to the next iteration and skip the plotting of the LED matrix, reducing computation needed.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/znXLpT1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/znXLpT1.png)
 
 ### Step 8: Putting It All Together Part 1!
 
@@ -154,7 +154,7 @@ Now we can finally place all the necessary functions into the micro:bit’s infi
 
 Firstly, we set button A and B on the micro:bit to the calibTilt() and resetTilt() functions respectively using input.onButtonPressed(), and plot a tick on the LED matrix when calibration is completed.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/SJQ48XN.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/SJQ48XN.png)
 
 ### Step 9: Putting it All Together Part 2!
 
@@ -162,7 +162,7 @@ Next run the necessary functions according to our code flow in Step 0 and check 
 
 If there is a change in tilt levels i.e. stateChange == 1, the code will update prevState to the new tilt levels and set stateChange back to 0 for the next iteration, and plot the updated tilt levels on the LED matrix using PlotResult().
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/sYU2wKx.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/sYU2wKx.png)
 
 If you don't want to type these code by yourself, you can directly download from the link below.
 
@@ -195,7 +195,7 @@ Or you can download from the page below.
 Flash the completed code to your micro:bit.
 Attach your micro:bit and the battery pack securely to any object and it is ready for use!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/pWejt7w.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pWejt7w.png)
 
 
 ### Awesome!

@@ -5,7 +5,7 @@ sidebar_label: 案例05 - 触摸XGO
 
 # 案例05 - 触摸XGO
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/xgo-5-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xgo-5-1.png)
 
 ## 目的
 ---
@@ -25,7 +25,7 @@ sidebar_label: 案例05 - 触摸XGO
 ---
 使用数据线将电脑与micro:bit 相连。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-22.png)
 
 
 
@@ -33,7 +33,7 @@ sidebar_label: 案例05 - 触摸XGO
 ---
 [Makecode](https://makecode.microbit.org/#)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-10.png)
 
 
 
@@ -43,13 +43,13 @@ sidebar_label: 案例05 - 触摸XGO
 
 将 XGO 的扩展库添加到 makecode 中。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-11.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-12.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-13.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-14.png)
 
 
 
@@ -60,7 +60,7 @@ sidebar_label: 案例05 - 触摸XGO
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgot-robot-kit-case01-out-of-the-square-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgot-robot-kit-case01-out-of-the-square-05.png)
 
 
 

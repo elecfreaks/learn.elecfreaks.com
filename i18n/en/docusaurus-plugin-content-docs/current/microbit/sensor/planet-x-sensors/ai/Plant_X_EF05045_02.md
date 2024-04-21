@@ -4,7 +4,7 @@
 
 To make the LED strip be able to adjust the color of the lights according to the recognized color from the AI Lens.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_01.png)
 
 
 ## Products Link
@@ -21,7 +21,7 @@ To make the LED strip be able to adjust the color of the lights according to the
  Connect the AI Lens to the IIC port and the LED strip to the J1 port on the Nezha expansion board as the picture shows.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_02_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_02_03.png)
 
 
 
@@ -32,11 +32,11 @@ To make the LED strip be able to adjust the color of the lights according to the
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05001_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_04.png)
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05001_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_05.png)
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
@@ -46,7 +46,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 ### Code as below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_02_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_02_06.png)
 
 
 ### Link

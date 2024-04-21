@@ -4,7 +4,7 @@
 
  OCTOPUS Real-time Clock is a clock module which can achieve counting for year, month, day, hour by using the DS1307 clock chip.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/gqYrhXw.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/gqYrhXw.jpg)
 
 
 ## Products Link
@@ -46,25 +46,25 @@ Pins Definition|1-GND 2-VCC 3-SCK 4-SDA 5-RST
 
 Take sensor:bit for example
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/WrOpBWb.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/WrOpBWb.png)
 
 ### Add Package
 
  Click "Advanced"in the choice of the MakeCode to find more choices.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
 
  Click "Extensions", search "iot"in the dialog box and then download it.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/AaZxCEb.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AaZxCEb.jpg)
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/pVEXZaA.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pVEXZaA.png)
 
 ### Program as the picture shows
 
  Set the number of second as "10" on start to show the second each minute.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/pOLA97P.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pOLA97P.png)
 
 ### Reference
 

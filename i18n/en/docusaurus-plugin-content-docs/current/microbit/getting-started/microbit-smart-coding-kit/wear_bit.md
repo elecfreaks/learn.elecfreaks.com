@@ -27,7 +27,7 @@ Upgrade the function by adding a switch for the buzzer.
 
 ## Outlook and Dimension
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/wear_bit_00.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wear_bit_00.jpg)
 
 ## Parameter
 
@@ -45,20 +45,20 @@ Upgrade the function by adding a switch for the buzzer.
 
 "I" to switch on, "O" to switch off.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/wear_bit_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wear_bit_01.png)
 
 ### Two CR2025 Battery Holders
 
 It is powered by 2025 button cells(3V Li-Mn button cells) with a simple installation method.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/wear_bit_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wear_bit_02.png)
 
 ### Buzzer and Switch
 
 
 The buzzer is controlled through P0 port that can play music. The switch powers the buzzer on or off.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/wear_bit_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wear_bit_03.png)
 
 
 ## Quick to Start
@@ -68,11 +68,11 @@ The buzzer is controlled through P0 port that can play music. The switch powers 
 
 Install two 3V 2025 button cells to the battery holder of the Wear:bit extension board.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_01.png)
 
 Fix the micro:bit to the button cell extension board Pro with screws.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_02.png)
 
 When switching on, the cells give power to the micro:bit and the Wear:bit, or the cells do not give power.
 

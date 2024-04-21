@@ -16,16 +16,16 @@
 - [超声波](https://zh.wikipedia.org/wiki/%E8%B6%85%E8%81%B2%E6%B3%A2)是一种频率高于20000赫兹的声波，它的方向性好，穿透能力强，易于获得较集中的声能，在水中传播距离远，可用于测距、测速、清洗、焊接、碎石、杀菌消毒等。超声波因其频率下限大于人的听觉上限而得名。
 ### 超声波测距原理
 - 超声波发射器向某一方向发射超声波，在发射时刻的同时开始计时，超声波在空气中传播，途中碰到障碍物就立即返回来，超声波接收器收到反射波就立即停止计时。根据接收器接到超声波时的时间计算距离，与雷达测距原理相似。
-- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/vSFTiuw.jpg)
+- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/vSFTiuw.jpg)
 
 ## 硬件连接图
 ---
 
 如图所示，将超声波模块连接到P5引脚。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/t4vFZ0y.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t4vFZ0y.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/kzPngGo.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/kzPngGo.jpg)
 
 ## 软件
 ---
@@ -36,11 +36,11 @@
 ### 步骤 1
 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/motor_bit_case_01.png)
 
 为了给motorbit主板编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索“motorbit"，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/motor_bit_case_02.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -49,19 +49,19 @@
 
 设置左轮右轮速度均为100。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_04_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/motor_bit_case_04_03.png)
 
 ### 步骤3
 
 创建一个无限循环循环，实时的读取超声波模块返回的数据，并且赋值给away。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_04_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/motor_bit_case_04_04.png)
 
 #### 防撞停车
 
 当检测距离(away)距离小于8cm时，停车，暂停300ms后，设置左右轮速度为负数实现倒车，延时600ms。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_04_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/motor_bit_case_04_05.png)
 
 #### 转向避障
 
@@ -71,11 +71,11 @@
 
 当随机数大于50的时候左轮赋负值，左轮倒转完成左转。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_04_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/motor_bit_case_04_06.png)
 
 如果检测距离(away)大于15cm，设置左右轮速度为100前进。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_04_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/motor_bit_case_04_07.png)
 
 ### 程序
 请参考程序连接：[https://makecode.microbit.org/_cRgUy3h7VApT](https://makecode.microbit.org/_cRgUy3h7VApT)

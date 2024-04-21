@@ -22,17 +22,17 @@ Upgrade the function by adding a switch for the buzzer.
 
  Install two 3V 2025 cells to the battery holder.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_01.png)
 
 Fix the micro:bit to the button cell extension board Pro with screws.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_02.png)
 
  Pass the longer watch strap through the hole in the button panel Pro to install the watch strap.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_04.png)
 
 
 

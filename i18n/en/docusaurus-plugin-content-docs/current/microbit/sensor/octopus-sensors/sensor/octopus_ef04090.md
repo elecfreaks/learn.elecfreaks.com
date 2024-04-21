@@ -4,7 +4,7 @@
 
 PM2.5 Electronic brick is one of the modules in OCTOPUS series to test the PM2.5 concentration . Based on ZH03 laser dust sensors, it can test the dust particle in the air with high consistency and stability. The PWM output and serial port design also make it easily to operate.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/a1gLsct.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/a1gLsct.jpg)
 
 ## Products Link
 
@@ -36,29 +36,29 @@ PM2.5 Electronic brick is one of the modules in OCTOPUS series to test the PM2.5
 
 ## Outlook and Dimension for Installment
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/dbSMKyl.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/dbSMKyl.png)
 
 ## Diagram for Pins Connector
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/MPjcy9E.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/MPjcy9E.png)
 
 ## Introduction to Main Function Modules
 
 ### ZH03B Sensor
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/B6tTW6k.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/B6tTW6k.png)
 
 ZH03B sensor is used to test the PM2.5 concentration in the air.
 
 ### 3PIN Standard GVS Electronic Brick Interfaces
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/XN3NRcN.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/XN3NRcN.png)
 
 With standard 3PIN electronic brick interfaces, "S" is the output pin for 3.3V PWM signal.
 
 ### 4PIN Serial Output Interfaces
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/VjMSbCQ.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VjMSbCQ.png)
 
 The output interfaces are used for 3.3V serial signal.
 
@@ -66,7 +66,7 @@ The output interfaces are used for 3.3V serial signal.
 
 ### Hardware Connection
  Connect PM2.5 electronic brick module to P1 port on micro:bit with a micro:bit expansion board.
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/icDTCQO.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/icDTCQO.png)
 
 ### Software Programming
 ####  Step 1  Start with Makecode
@@ -75,11 +75,11 @@ The output interfaces are used for 3.3V serial signal.
 
 ####  Step 2  Add Package
  Search the key word with "iot", and add the software package called "iot-environment-kit".
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/JVVC7Iw.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JVVC7Iw.png)
 
 #### Step 3  Programming
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/Y893J8M.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Y893J8M.png)
 
 ####  Step 4  Download
 The complete program is below: [https://makecode.microbit.org/_4TvKWEihahzh](https://makecode.microbit.org/_4TvKWEihahzh)

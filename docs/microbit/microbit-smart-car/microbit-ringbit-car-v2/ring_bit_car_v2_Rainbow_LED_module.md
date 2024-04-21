@@ -10,7 +10,7 @@ sidebar_label: 专用灯条模块
 - Ring:bit car V2灯条模块，是Ring:bit二代小车的专用扩展模块，连接简单功能强大，一卡一锁为你的Ring:bit小车扩展更多灯带。
 - 搭载8颗Rainbow LED灯珠，全彩色，可以实现自动车灯、彩虹车灯等功能。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_v2_Rainbow_01.jpg)![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_v2_Rainbow_02.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_Rainbow_01.jpg)![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_Rainbow_02.jpg)
 
 ## 淘宝购买链接
 ---

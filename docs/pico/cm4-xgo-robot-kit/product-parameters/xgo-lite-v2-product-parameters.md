@@ -25,7 +25,7 @@ sidebar_label: XGO-lite2 产品参数
 
 - 存储:Micro SD卡32G
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-products-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-products-01.png)
 
 ## AI 模组参数
 
@@ -43,7 +43,7 @@ sidebar_label: XGO-lite2 产品参数
 
 - PH2.0 4PIN串口通信及电源接口
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-index-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-index-03.png)
 
 
 ## 舵机参数

@@ -10,7 +10,7 @@ sidebar_label: 世界地图拼图
 
 世界地图（The World Map）是指描绘整个地球表面的地图，一般画有地形、经纬线等，并标注有地名等数据，使用者可以利用经纬线在世界地图上找出各个地方的具体位置，从而了解世界的全貌。有多种方法把地球表面投影到平面上。自己动手用TOOCA Laser 1制作一个世界地图拼图吧。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-02-01.png)
 
 ## 使用材料
 
@@ -37,4 +37,4 @@ sidebar_label: 世界地图拼图
 
 ## 效果展示
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-02-01.png)

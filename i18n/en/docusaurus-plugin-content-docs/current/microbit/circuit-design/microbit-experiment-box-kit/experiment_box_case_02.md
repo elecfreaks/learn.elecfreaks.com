@@ -12,13 +12,13 @@ In this case, we are going to use a button to control the flashing LED.
 
 ## Hardware Connect ##
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/fLSfez6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/fLSfez6.png)
 
  Connect circuit as above picture and put 2 AAA batteries to the batteries pack.
 
 ## Principles of Circuits ##
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/NSpS8c0.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NSpS8c0.png)
 
  The GND of slot on micro:bit is into innards of batteries' GND to generate current loop.
  When the button pressed, the circuit connects, P2 port of the micro:bit connects GND and level of P2 be pulled down.
@@ -30,7 +30,7 @@ In this case, we are going to use a button to control the flashing LED.
  This momentary push button switch is usually open. When it's pressed down, it completes the circuit and turns the device on. When it's released, it bounces back to the original state of disconnect.
  There is a button with blue hat on the experiment box.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/HgatY6t.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/HgatY6t.png)
 
 ## Software
 
@@ -40,26 +40,26 @@ In this case, we are going to use a button to control the flashing LED.
 
  Click on "New Project" and set a new Project.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t34k5Zb.png)
 
 ### Step 2
 
  Snap the set pull pin in to the on start and set pull pin P2 to up to let its default be 1. That's say,  default high level.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/VuZAOrz.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VuZAOrz.png)
 
 ### Step 3
 
  If P2 is in low voltage, which means the button is pressed, the program will start to run in block
 then.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/0EHwnci.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/0EHwnci.png)
 
 ### Step 4
 
  If the value of P2 is equal to 0, write 0 to P0 port and pause 500ms. Then, write 1 and pause 500ms, LED starts to flashing.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/z9Yqpi3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/z9Yqpi3.png)
 
 ### Program
 

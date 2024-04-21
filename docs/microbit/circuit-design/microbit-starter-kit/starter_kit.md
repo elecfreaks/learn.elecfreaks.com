@@ -14,7 +14,7 @@ Micro：bit小小科学家套件可以帮助您进入一个美好的电子世界
 
 ## 套件包含
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/Micro-bit-Starter-Kit-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Micro-bit-Starter-Kit-01.png)
 
 ## 常见问题
 ---

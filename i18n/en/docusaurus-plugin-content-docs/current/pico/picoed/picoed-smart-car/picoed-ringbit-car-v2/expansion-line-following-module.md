@@ -29,7 +29,7 @@ It uses the infrared light to detect with a strong anti-interference capability.
 
 ## Outlook and Dimensions
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/line_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/line_01.png)
 
 
 

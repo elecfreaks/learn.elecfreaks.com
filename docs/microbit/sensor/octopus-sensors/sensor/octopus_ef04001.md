@@ -3,7 +3,7 @@
 ## 简介
 ---
 - 该倾斜度传感器是一种基于倾斜开关的传感器，用于测量物体是否水平。
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/PkfGPNo.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/PkfGPNo.jpg)
 
 ## 特性
 ---
@@ -26,7 +26,7 @@ SKU|EF04001
 
 ## 外形与定位尺寸
 ---
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/MOM6IH7.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/MOM6IH7.jpg)
 
 ## 快速上手
 ---
@@ -35,14 +35,14 @@ SKU|EF04001
 
 ***以sensor:bit为例***
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/z0jNU2D.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/z0jNU2D.png)
 
 ### 如图编写程序代码
 - 将P1口拉高以初始化模块。
 - 当物体水平时返回值为0，数字读取引脚为0时，显示一颗心。
 - 否则显示一个方框。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04001_03.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04001_03.png)
 
 ### 参考程序
 

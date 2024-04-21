@@ -6,7 +6,7 @@ sidebar_label: 案例05 简易动画
 
 # 案例05 简易动画
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case05-01.png)
 
 ## 简介
 
@@ -26,7 +26,7 @@ sidebar_label: 案例05 简易动画
 
 ### 动画的原理
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case05-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case05-02.gif)
 
 动画的原理是通过快速连续播放一系列静止的图像，来营造出一种运动的错觉。这种错觉是因为人眼的视觉暂留效应所造成的，也就是说，当一个图像从视野中消失后，人眼仍然会保持该图像的影像一段时间，直到下一个图像出现。通过快速地播放一系列静止的图像，每个图像之间都略微不同，人眼就会将这些图像合成为连续的运动。
 
@@ -36,11 +36,11 @@ sidebar_label: 案例05 简易动画
 
 按照下面连接示意图，将您的元器件连接起来：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case04-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case04-06.png)
 
 ## MicroBlocks 图形化编程
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case05-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case05-05.png)
 
 ## CircuitPython 代码编程
 
@@ -67,7 +67,7 @@ while True:
 
 ## 案例演示
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-kit-case05-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-kit-case05-06.gif)
 
 ## 思考
 

@@ -16,7 +16,7 @@ Only batteries and ultrasonic sensor need to be assembled featuring easy install
 
 ## Pictures
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot_01_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot_01_01.jpg)
 
 ## Parameters
 
@@ -36,48 +36,48 @@ Only batteries and ultrasonic sensor need to be assembled featuring easy install
 
 Ultrasonic connection and micro:bit IIC port are placed in the front part of the  Cutebot.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot_01_02.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot_01_02.jpg)
 
 
 Two full color RGB lights controlled by the expansion board are placed on both side of the front part.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot_01_03.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot_01_03.jpg)
 
 
 An expansion board for 3x AA batteries is placed in the right above part of the  Cutebot.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot_01_04.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot_01_04.jpg)
 
 The IIC port and Servo Port(S1, S2), P1,P2 IO connections are equipped in the battery expansion board.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot_01_05.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot_01_05.jpg)
 
 The infrared probes connecting to P16 port of the micro:bit are placed on the tail part of the  Cutebot.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot_01_06.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot_01_06.jpg)
 
 The master switch are placed besides the infrared probes and with on/off status showing by the LED.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot_01_07.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot_01_07.jpg)
 
 The two wheels on both side are driven by DC micro gear deceleration motors(300 RPM).
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot_01_08.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot_01_08.jpg)
 
 
 The two line-tracking probes connecting to P13&P14 on the micro:bit are used to detect the black line and its edges.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot_01_09.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot_01_09.jpg)
 
 
 A universal wheel is placed in the front bottom of the  Cutebot, an all-direction drive can be realized by the different speed of the left and right wheels.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot_01_10.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot_01_10.jpg)
 
 
 The two full color  Rainbow LEDs programmed by  Rainbow LED connecting to P15 on the micro:bit are placed on both bottom side of the  Cutebot and can be used as the clearance lamps or others.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot_01_11.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot_01_11.jpg)
 ## Components list
 ---
 

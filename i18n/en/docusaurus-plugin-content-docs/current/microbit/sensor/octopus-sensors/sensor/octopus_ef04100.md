@@ -16,7 +16,7 @@ The CO2 probe is made with industrial grade which is high allergic to CO2 and an
 
  ***CO2 sensors need to be connected using an expansion board with an independent power supply interface: iot:bit with an independent USB power supply is recommended***
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04100_00.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04100_00.jpg)
 ## Products Link
 
 [ELECFREAKS Octopus CO2 Gas Sensor (MG811)](https://shop.elecfreaks.com/products/elecfreaks-octopus-co2-gas-sensor-mg811?_pos=1&_sid=e0bdf8a27&_ss=r)
@@ -43,7 +43,7 @@ The CO2 probe is made with industrial grade which is high allergic to CO2 and an
 ## Outlook and Dimension
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04100_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04100_02.png)
 
 ## Quick to Start
 
@@ -52,11 +52,11 @@ The CO2 probe is made with industrial grade which is high allergic to CO2 and an
 
 ***Take iot：bit for an example***
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04029_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04029_03.png)
 
 ### Code as below
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04100_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04100_04.png)
 
 ### Reference
 Link：[https://makecode.microbit.org/_KJVXj9Co2UXU](https://makecode.microbit.org/_KJVXj9Co2UXU)
@@ -96,13 +96,13 @@ You may also download it directly below:
 Download and unzip the package:[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 Go to [Python editor](https://python.microbit.org/v/2.0)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_07.png)
 
 For programming, we need to add a file of co2.py. Click Load/Save fisrt and again with Show Files(1), choose "add file" to and get to the download page to find the file folder of Octopus_MicroPython-master, then add co2.py.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/05001_08.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/05001_09.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04100_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04100_10.png)
 
 ### Step 2
 ### Reference
@@ -123,7 +123,7 @@ while True:
 
 Connect the sensor to pin A0 on Arduino UNO board with a buckled dupont wire, make sure the board be powered with a standalone power source(7.5V-9V).
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04100_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04100_01.jpg)
 
 ###  Software Programming
 

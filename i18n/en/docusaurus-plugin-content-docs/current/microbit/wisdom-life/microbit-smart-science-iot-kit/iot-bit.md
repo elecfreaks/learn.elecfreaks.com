@@ -7,7 +7,7 @@
 
  It uses ESP8266 as WIFI expansion board and serial port to communicate with micro:bit. It also has extended all available IO port of the micro:bit which is led by GVS and you can extent various 3V Eblocks as LED, photosensitive and servo by using it. At the same time, the IOT:bit with an onboard buzzer for outside sound and an onboard RTC clock for timing without power supply.The codebase for makecode can connect to Thingspeak conveniently and create your IoT project quickly.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_01.jpg)
 ##  Products Link
 
 [ELECFREAKS IOT:bit](https://www.elecfreaks.com/micro-bit-smart-science-iot-kit.html)
@@ -33,7 +33,7 @@
  PCB thickness：1.5mm
  Hole diameter：2.4mm
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_02.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_02.png)
 
 ### Parameters
 
@@ -56,12 +56,12 @@
 
 ### Pin interface drawing
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_03.png)
 
 ### Introduction of main module
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_04.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_04.png)
 
 ## Software support
 
@@ -75,7 +75,7 @@
 
   [https://makecode.microbit.org](https://makecode.microbit.org)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_05.png)
 
 ### JavaScript
 
@@ -84,7 +84,7 @@
 
  [https://makecode.microbit.org](https://makecode.microbit.org)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_06.png)
 
 ### MicroPython
 
@@ -93,7 +93,7 @@
 
   [https://codewith.mu/](https://codewith.mu/)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_07.png)
 
 
 ## Easy start
@@ -103,15 +103,15 @@
  Fisrt, install CR1220 button cell for power supply to the RTC timing.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_18.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_18.gif)
 
  Plug the micro:bit to the Iot:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_09.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_09.gif)
 
  Using single USB for power supply to expansion board and switch on.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_10.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_10.gif)
 
 ### Coding
 
@@ -125,11 +125,11 @@
 
  Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_11.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_11.jpg)
 
  We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture)
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_12.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_12.jpg)
 
 
 ***Note：*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
@@ -140,13 +140,13 @@
 
  There is onboard buzzer on the IOT:bit as below picture. Let the buzzer be connected to the PO of the micro:bit to play music by the `music` of the makecode.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_13.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_14.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_14.png)
 
  When button A be pressed in the "input", play a bit of music.
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_15.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_15.png)
 
  Program link：[https://makecode.microbit.org/_4j6PCeV087AW](https://makecode.microbit.org/_4j6PCeV087AW)
 
@@ -157,15 +157,15 @@
  There is onboard DS1307RTC timing on the IOT:bit as below picture. RTC timing need a CR1220 button cell for lasting power supply. We need the RTC timing keep accuracy in the event of a power outage.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_16.jpg)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_16.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_17.png)
 
 
  Press button A to set the time to the set time. On start with RTC function and the minutes be displayed on the 5*5 allay.
 
    Turn off the power after turning off the power for one minute, and the dot matrix display will show the number of minutes after another 1 minute.
 
-  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_18.png)
+  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_18.png)
 
  Program link：[https://makecode.microbit.org/_e9d3vW96bPe2](https://makecode.microbit.org/_e9d3vW96bPe2)
 
@@ -175,14 +175,14 @@
  The most important function of IOT:bit is WIKI. The onboard `ESP12F`WIFI module can connect WIFI and send information. To use port for communication with the micro:bit and the pin `RXP8`，`TXP12` is special for IoT.
  Using thingspeak as cloud to coding and data uploding.[thingspeak guidebook]()
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_19.jpg)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_19.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_20.png)
 
  On start, initialize ESP8266 to default connection with P8 & P12.
  Connect your own WiFi, input the key and the password.
  Under foever loop, connect the thinkspeak and set date to send, then pause.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_21.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_21.png)
 
  Program link：[https://makecode.microbit.org/_JAXAmmHq4FhW](https://makecode.microbit.org/_JAXAmmHq4FhW)
 
@@ -190,22 +190,22 @@
 
  IoT:bit also supports the other ELECFREAKS sensors can the new Octopus blocks are added in the package.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_22.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_22.png)
 
 ### Down load code
 
  Let your micro:bit be connected to one side of the USB, the other side to your computer.（Inserting on the expansion board may cause the micro:bit connection to be abnormal or damaged.）
 
-  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_23.jpg)
+  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_23.jpg)
 
 
  Then copy your documents to the micro:bit.
 
  Now, here is your observing time!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_24.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_24.jpg)
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_25.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_25.png)
 
 ## Documents
 
@@ -215,19 +215,19 @@ Question: After installing the button cells, why can't I get the correct data fo
 
 Solution: The nominal voltage for CR1220 button cells is 3V, while some of the cells in the market may have a higher voltage than 3V. The high voltage will make abnormal operation of the RTC happen, to solve this, you can use the used cells or discharge the brand new cells by yourself.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_27.jpg)
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_28.JPG)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_27.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_28.JPG)
 
 Cells Discharge Steps
 1. Connect the pins of the LED as the picture shows(Make sure the positive and negative anodes connect in the right way)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_29.JPG)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_29.JPG)
 
 2. The LED lights up after connection, the button cells in 3.4V would come down to 3V after around 10 seconds.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_30.JPG)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_30.JPG)
 
 
 3. Detect the cells voltage with a multimeter and it works well after deducing the voltage to about 3V.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/iot_bit_31.JPG)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iot_bit_31.JPG)

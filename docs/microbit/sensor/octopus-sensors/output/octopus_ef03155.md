@@ -4,7 +4,7 @@
 ---
 - 这是一款OLED显示屏，用于打印在屏幕想要显示的数据信息（不支持显示中文）。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/Xa4wAJ3.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Xa4wAJ3.jpg)
 
 ## 特性
 ---
@@ -33,7 +33,7 @@ OLED自发光|无背光
 ## 外形与定位尺寸
 ---
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/0C9CgFF.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/0C9CgFF.jpg)
 
 ## 快速上手
 ---
@@ -43,24 +43,24 @@ OLED自发光|无背光
 
 ***以sensor:bit为例***
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/JnrQKL9.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JnrQKL9.png)
 
 ### 添加Package
 - 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/03155_01.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/03155_01.png)
 
 - 点击“Extensions”，在弹出的对话框中搜索“oled"，下载oled-ssd1306代码库。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/03155_02.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/03155_02.png)
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/03155_03.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/03155_03.png)
 
 ### 如图所示编写程序
 - 初始化OLED屏幕为64*128像素。
 - 显示一行字符:“elecfreaks”
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/03155_04.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/03155_04.png)
 
 ### 参考程序
 ---
@@ -90,7 +90,7 @@ OLED自发光|无背光
 ### 结果
 - 显示器上显示了一个elecfreaks的字样。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/2ThINGK.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2ThINGK.jpg)
 
 
 ## Python 编程
@@ -99,13 +99,13 @@ OLED自发光|无背光
 下载压缩包并解压[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_07.png)
 
 为了给OLED编程，我们需要添加oled.py。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的Octopus_MicroPython-master文件夹，从中选择oled.py添加进来。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/05001_08.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/05001_09.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/03155_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/03155_10.png)
 
 ### 步骤 2
 ### 参考程序

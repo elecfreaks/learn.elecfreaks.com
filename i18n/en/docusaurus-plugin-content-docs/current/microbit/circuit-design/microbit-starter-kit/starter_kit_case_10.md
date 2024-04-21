@@ -1,6 +1,6 @@
 ﻿# Lesson 10 Motor
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/8KZyoCy.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/8KZyoCy.jpg)
 
 ## Introduction
 
@@ -25,7 +25,7 @@ Motor is a kind of device which can transfer electric energy into kinetic energy
 
 ***Tips: If you want all components above, you may need Elecfreaks Micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html)  .***
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/W4tseua.jpg)
 
 ## Major Component Introduction
 
@@ -34,24 +34,24 @@ Motor is a kind of device which can transfer electric energy into kinetic energy
 
 Motor is a kind of device that can transfer electric energy into kinetic energy according to the law of electromagnetic induction. Motor has a lot of categories. In our experiment, the motor we use is DC motor. When we supply DC voltage to the two terminals of motor, it will rotate. The higher the voltage, the faster it rotates.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/JesPIk4.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JesPIk4.jpg)
 
 ### Diodes
 
 Diode is a kind of component with two polarities: one is for positive and the other is negative. It allows current move from the positive end to the negative end only. We can regard it as an electronic check valve.
 For common diode, we can judge from the color of tube for its polarity. The terminal with white color is negative polar.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/b1g3bBJ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/b1g3bBJ.jpg)
 
 ### Alligator Clip Wires
 
 Similar to the usage of jumper cable, alligator clip wire is used when some components are not suitable to use jumper cable for connection.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/EfkdKmY.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/EfkdKmY.jpg)
 
 In this experiment, we use alligator clip wire to connect our motor.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/Oj1aUaf.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Oj1aUaf.jpg)
 
 ## Experimental Procedure
 
@@ -60,7 +60,7 @@ In this experiment, we use alligator clip wire to connect our motor.
 Connect your components according to the picture below:
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/2MZA7bj.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2MZA7bj.jpg)
 
 The drive current on micro:bit IO port is too feeble to connect motor directly. At this time, we have to use a triode to amplify the current of IO port. The circuit diagram of using triode to amplify current on IO port is very similar to the circuit diagram of our last chapter “micro:bit Experiment 09:Buzzer —— Elecfreaks mirco: bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html)  Course”. The only difference is the motor has two diodes on its both terminals. And the diode in this circuit is called Freewheel Diode.
 
@@ -68,30 +68,30 @@ Within the motor, there has a coil. When current flow passes through the coil, i
 
 Below is the partial circuit diagram of the usage of triode in amplifying the IO port current:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/e4YL3hx.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/e4YL3hx.jpg)
 
 You would see as below after you finish the connection:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/RwH4uNp.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/RwH4uNp.jpg)
 
 ### Software Programming
 
 Click to open Microsoft Makecode, write the following code in the editor.(https://makecode.microbit.org/)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/JHZUvh2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JHZUvh2.png)
 
 ### Program as the picture shows:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/imGjxBm.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/imGjxBm.png)
 
 ### Details for the code:
 - 1.Digital write pin P0 to 1 and set the P0 port in a high level to recognize the signal of the button normally.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/Qqjk2WB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Qqjk2WB.png)
 
 - 2.When the button is pressed, set P0 to 1; while released, set it to 0.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/lFdOZxr.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lFdOZxr.png)
 
 ### Reference
 Links:[https://makecode.microbit.org/_CAUDezEJrVtc](https://makecode.microbit.org/_CAUDezEJrVtc)
@@ -122,7 +122,7 @@ You can also download the links directly:
 Press down the button, the motor starts rotating. Press again, it will stop moving.
 Attention: The voltage of micro:bit power source is low. It is 3V only. Press down the button, the motor may not start. If this happens, please stir the fan blade of the motor so that it can move properly.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/UeWUgLi.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/UeWUgLi.gif)
 
 
 ## Exploration

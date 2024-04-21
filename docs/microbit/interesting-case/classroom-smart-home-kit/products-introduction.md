@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: Products Introduction
 ---
@@ -15,4 +15,4 @@ Classroom Smart Home Kit，让您在探索智能家居技术的同时，享受�
 
 现在就开始您的智能家居之旅吧！让创造力与技术相结合，打造一个智能、便捷和舒适的家居环境。
 
-![](./images/classroom-smart-home-kit.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/classroom-smart-home-kit.png)

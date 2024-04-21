@@ -4,7 +4,7 @@
 
 Make your Cutebot turn on its headlights automatically in the darkness.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-05-01.png)
 
 ## Materials
 
@@ -20,11 +20,11 @@ Make your Cutebot turn on its headlights automatically in the darkness.
 
 Click the "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-1.png)
 
 A codebase is required for  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search ` [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)` in the dialogue box and download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-11.png)
 
 ***Note:*** If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
@@ -32,14 +32,14 @@ A codebase is required for  [Cutebot](https://www.elecfreaks.com/micro-bit-smart
 
 Set go straight at full speed in `On start`.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_05_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_05_01.png)
 
 ### Step 3
 
 Drag "If...else..." brick into `forever` brick to judge if the light level is below `10`, if yes, set the value of both RGB LEDs as `255`, (The combined light is white).
 
 While the value is over `10`, set the value of both RGB LEDs as `0` to turn off the lights.
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_05_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_05_02.png)
 
 
 ### Programming
@@ -72,7 +72,7 @@ You can also download it directly below:
 
 The headlights turn on automatically  when going into the darkness and turn off after passing the darkness area.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-05.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-05.gif)
 
 ## Exploration
 

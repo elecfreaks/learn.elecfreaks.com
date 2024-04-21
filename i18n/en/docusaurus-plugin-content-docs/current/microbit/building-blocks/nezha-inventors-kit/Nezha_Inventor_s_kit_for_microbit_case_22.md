@@ -2,11 +2,11 @@
 
 ## Introduction
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_22_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_22_01.png)
 
  In this article, let’s learn how to draw a helix with micro:bit. Press the button A to draw a helix on the LED screen, and press button B to eliminate the helix as the same way:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_22_02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_22_02.gif)
 
 ## Principle
 
@@ -28,15 +28,15 @@ In addition, we also need to draw and clear graphics. The principle is also very
 
 2.Click “Advanced” to see more choices and click “Extensions”.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_10.png)
 
 3.Click microturtle to add it in the new project we just created.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_22_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_22_04.png)
 
 4.You can see a new item-turtle in the drawer now.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_22_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_22_05.png)
 
 ## Code
 
@@ -58,7 +58,7 @@ Draw a Helix function
 
 8.Drag a turn right module from the turtle category, which means to rotate 90 degrees to the right. Here you can also select turn left, the direction is opposite.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_22_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_22_06.png)
 
 Button response event
 
@@ -68,11 +68,11 @@ Button response event
 
 3.When button B is pressed, drag in a set brightness module from the turtle category, change it to set brightness 0, and then use the luoxuanxian function, so that the effect of clearing the graphics can be achieved.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_22_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_22_07.png)
 
 ## Code
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_22_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_22_08.png)
 
 Link:[https://makecode.microbit.org/_0z4Xuh0rshP1](https://makecode.microbit.org/_0z4Xuh0rshP1)
 

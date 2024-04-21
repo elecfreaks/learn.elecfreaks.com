@@ -4,7 +4,7 @@
 
 MQ-5 Gas sensor has a good sense to liquefied gas, natural gas and coal gas that are widely used in cities, but it doesn't work on ethanol or smoke. 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04029_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04029_01.png)
 
 ## Products Link
 
@@ -29,7 +29,7 @@ Size|38x27mm
 ## Outlook and Dimension
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04029_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04029_02.png)
 
 
 ## Quick to Start
@@ -44,7 +44,7 @@ Size|38x27mm
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04029_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04029_03.png)
 
 
 
@@ -53,7 +53,7 @@ Size|38x27mm
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04029_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04029_04.png)
 
 
 

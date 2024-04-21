@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: Introduction
 ---
@@ -9,4 +9,4 @@ Smart Weather Station Kit is an innovative product designed based on micro:bit V
 
 Explore the mysteries of climate, cultivate scientific thinking, and start the STEAM journey.
 
-![](./images/smart-weather-station-kit-products-introduction-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-products-introduction-01.png)

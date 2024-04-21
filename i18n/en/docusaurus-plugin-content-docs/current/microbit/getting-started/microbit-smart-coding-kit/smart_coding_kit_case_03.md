@@ -12,7 +12,7 @@
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_03_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_case_03_01.png)
 
 
 
@@ -28,7 +28,7 @@
  Create a variable `flag`. Initialize this variable to 0 when we startup our micro:bit.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_03_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_case_03_02.png)
 
 
 
@@ -39,7 +39,7 @@
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_03_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_case_03_03.png)
 
 
 ### Step 3
@@ -47,7 +47,7 @@
  When button A being pressed, set the returned value as `i` displaying on the micro:bit.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_03_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_case_03_04.png)
 
 
 

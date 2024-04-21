@@ -16,7 +16,7 @@ sidebar_label: 8字舞蹈
 
 让我们一起动手实践吧！我们将使用编程工具，编写一段程序来控制Cutebot按照8字轨迹运行。通过调整左右轮的速度差，我们可以实现转弯和直线行驶的切换。上传程序到Cutebot智能赛车上，看看它是如何沿着8字轨迹灵活运动的。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-03-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-03-01.png)
 
 ## 使用材料
 
@@ -32,11 +32,11 @@ sidebar_label: 8字舞蹈
 
 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-1.png)
 
 为了给Cutebot套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索`Cutebot`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-11.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -44,7 +44,7 @@ sidebar_label: 8字舞蹈
 
 在`当开机时`积木块中显示图标，选择一颗心；
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_03_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_03_01.png)
 
 ### 步骤 4
 
@@ -54,7 +54,7 @@ sidebar_label: 8字舞蹈
 
 同理，完成下半圆
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_03_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_03_02.png)
 
 ### 程序
 
@@ -86,7 +86,7 @@ sidebar_label: 8字舞蹈
 
 小车以8字的轨迹行进。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-03.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-03.gif)
 
 ## 思考
 ---

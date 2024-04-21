@@ -9,7 +9,7 @@ sidebar_label: case 06 自动车灯
 
 在本节课中，我们将学习如何使用cutebot pro和micro:bit来制作一个自动车灯。当周围环境光线变暗时，车大灯会自动打开，当周围环境光线足够明亮时，车大灯会自动关闭。本课程将涉及micro:bit的光线检测、RGB车灯控制以及RGB三原色等知识点。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-06-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-06-01.png)
 
 ## 教学目标
 
@@ -46,7 +46,7 @@ micro:bit × 1
 
 ### 示例代码
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-06-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-06-02.png)
 
 提示：开启车灯的光线强度阈值需要根据测试环境的光线强度进行调整。
 

@@ -1,4 +1,4 @@
-# 魔法棒套件案例06：魔法棒制作
+﻿# 魔法棒套件案例06：魔法棒制作
 
 ## 目的
 ---
@@ -6,7 +6,7 @@
 - 使用魔法棒套件制作一根多功能的魔法棒
 
 
-![](./images/magicwand_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_01.png)
 
 
 
@@ -35,7 +35,7 @@
 
 
 
-![](./images/magicwand_case_06_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_06_07.png)
 
 
 ### 程序

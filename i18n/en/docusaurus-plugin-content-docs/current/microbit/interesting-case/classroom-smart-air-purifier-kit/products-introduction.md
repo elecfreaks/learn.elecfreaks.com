@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: Products Introduction
 ---
@@ -13,4 +13,4 @@ This smart air purifier case not only helps students understand and learn about 
 
 Through this case, students will be able to build a simple but practical smart device with their own hands, experience the fun of creativity, and enhance their scientific and technological skills and innovative thinking in practice.
 
-![](./images/microbit-smart-maker-kit-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-01.png)

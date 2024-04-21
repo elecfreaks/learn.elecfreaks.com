@@ -31,35 +31,35 @@
 ---
 准备一把美工刀，溶胶枪，剪刀和一些瓦楞纸板。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/5fTCOyS.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/5fTCOyS.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/OsrstYv.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/OsrstYv.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/t6A0IwP.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t6A0IwP.jpg)
 
 搭建成如图样式：
 
 先做好一个四面贴上四张脸的四方小盒子，将它固定在舵机的转叶上，再将它固定在一张瓦楞纸板上：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/XUKaZuB.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/XUKaZuB.jpg)
 
 逐渐的将四个面都用中间挖好中间小盒子大小的中空纸板围起来，注意围的离舵机近一点，效果更好：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/ZzkorKa.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ZzkorKa.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/bhjsZG9.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/bhjsZG9.jpg)
 
 将多余的纸板裁掉，准备一张瓦楞纸板上面用小刀切一个能穿过线的小口，将灯线从中穿过，盖在小盒的顶部
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/EHVofkw.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/EHVofkw.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/xp7iEj5.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xp7iEj5.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/FwJVqmw.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FwJVqmw.jpg)
 
 将元器件按如图摆放黏贴。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/OJpRAKH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/OJpRAKH.jpg)
 
 
 
@@ -69,7 +69,7 @@
 
 将小灯连接在P0口，舵机连接在P1口，碰撞传感器连接在P2口，将连接好的micro:bit和bisic:bit连上电池盒，如下。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/qIxyiCc.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/qIxyiCc.jpg)
 
 
 ###注意要将bisic:bit的开关拨到P0位置。
@@ -92,7 +92,7 @@
 
 然后将舵机控制转动的状态设置一个初值为false的变量为door，用来控制人脸转动的状态。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/XGUcluA.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/XGUcluA.png)
 
 ### 步骤 2
 
@@ -102,13 +102,13 @@
 
 在这之后再拖入一个if判断语句，判断控制转动变量door的值，即判断转动的开关状态，如果door值为真，则将人脸转动（将P1值设为0），灯点亮。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/zZXlHV1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/zZXlHV1.png)
 
 ### 步骤 3
 
 当P2值不等于0时，即触碰开关未被按下，人脸转动回初始样式（将P1值设为180），灯熄灭。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/Q8LsMmq.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Q8LsMmq.png)
 
 
 
@@ -143,7 +143,7 @@
 ---
 当触碰模块作为按钮被点亮，舵机状态被设置为0，转动180度，转动人脸，然后换一个方向继续控制人脸转动。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/g0CMLx6.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/g0CMLx6.gif)
 
 ## 思考
 ---

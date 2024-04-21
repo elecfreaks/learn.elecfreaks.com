@@ -1,7 +1,7 @@
 # Case 04:警察来了
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case04.png)
 
 ## 简介
 哈喽，我们在日常生活中看见警车感觉很酷炫，特别是上面的彩灯的颜色变化，给我们紧张和时间紧迫的感觉，同时也想坐在上面感受一下，那么这节课就可以让我们实现拥有“警车”的心愿，接下来我们将让 Ring:bit 智能车化身警察车，那我们开始吧。  
@@ -9,11 +9,11 @@
 需要将 Ring:bit Car 套件拿出来，发挥你灵动的小手将 Ring:bit 扩展版的 P1 口连接左轮舵机，P2 口连接右轮舵机。
 P0口连接 Ring:bit Car 专用扩展板。  
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case0401.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0401.png)
 
 将专用扩展板上的拨片开关，拨到 Rainbow LED。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case0402.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0402.png)
 
 ## 程序编写
 编程环境准备是必须要的，如果你还没有准备，可以参考这篇文章：[编程环境准备](https://www.yuque.com/elecfreaks-learn/picoed/gxro38)

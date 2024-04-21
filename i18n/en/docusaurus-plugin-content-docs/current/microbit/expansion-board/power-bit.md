@@ -33,12 +33,12 @@ Power:bit button cell board is a micro expansion board in the smallest size equi
 ## Exterior dimension
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/BQCpLVu.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/BQCpLVu.png)
 
 ## Diagram for Pins
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/ONnPnR7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ONnPnR7.png)
 
 ## Introduction to main function modules
 ---
@@ -49,19 +49,19 @@ I for connecting the power, 0 for disconnecting.
 
 ### 1x4 Row needles connectors
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/9uskWP9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/9uskWP9.png)
 
 P1, P2, 3V and GND pins are led by row needles for extended use.
 
 ### Two CR2025 battery holders
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/RkOmiZc.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/RkOmiZc.png)
 
 Power can be supplied by 2025 cell(3V Li-Mn button cell ) with an easy installation.
 
 ### Buzzer
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/eNtjso8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/eNtjso8.png)
 
 Controlled with P0 port, it can play music.
 

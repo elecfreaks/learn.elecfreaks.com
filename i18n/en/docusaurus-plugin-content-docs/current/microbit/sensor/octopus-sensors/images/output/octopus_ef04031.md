@@ -4,7 +4,7 @@
 
  Octopus Passive Buzzer Brick is based on a passive buzzer, it could control the volume by PWM. 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/0G3EEXg.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/0G3EEXg.jpg)
 
 ## Products Link
 
@@ -31,7 +31,7 @@ Stability|Stable and durable
 ## Outlook and Dimensions
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/bsmWrzk.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/bsmWrzk.jpg)
 
 ## Quick to Start
 
@@ -42,13 +42,13 @@ Stability|Stable and durable
 
   Take sensor:bit for example
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/wqD4VuO.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wqD4VuO.png)
 
 ### Program as the picture shows
 
  Playing a melody when power is on.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/KjnioxB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/KjnioxB.png)
 
 ### Reference
 

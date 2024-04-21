@@ -4,7 +4,7 @@
 
 This is a distance detection device. In order to prevent the spread of the epidemic, people should maintain a certain social distance in public. This device can display the distance between the carrier and the person in front of it on the screen.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_27_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_27_01.png)
 
 ## Quick Start
 
@@ -28,7 +28,7 @@ Bricks × n
 Inset the micro:bit, and connect the sonar:bit to J1 port on Nezha expansion board.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_27_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_27_03.png)
 
 
 
@@ -42,15 +42,15 @@ Video link: [https://youtu.be/0HgP_YVgNJU](https://youtu.be/0HgP_YVgNJU)
 
 ### Assembly Steps
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_27_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_27_01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_27_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_27_02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_27_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_27_03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_27_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_27_04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_27_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_27_05.png)
 
 
 ## MakeCode Programming
@@ -62,14 +62,14 @@ Video link: [https://youtu.be/0HgP_YVgNJU](https://youtu.be/0HgP_YVgNJU)
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_10.png)
 
 
 
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "nezha" to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_03_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_03_09.png)
 
 ***Note:*** If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -79,7 +79,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 ### Programme as the pictures indicate
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_27_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_27_10.png)
 
 
 
@@ -112,4 +112,4 @@ You may download it directly below:
 ### Result
 After powering on, the detected distance displays on the micro:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case-gif-27.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-gif-27.gif)

@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: 开箱自检
 ---
@@ -18,4 +18,4 @@ Confirm that all accessories that come with the product are all complete and mat
 
 ## Packing List
 
-![](./images/smart-weather-station-kit-unpacking-and-checking-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/images/smart-weather-station-kit-unpacking-and-checking-01.png)

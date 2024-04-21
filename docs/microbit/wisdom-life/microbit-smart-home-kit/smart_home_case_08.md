@@ -41,11 +41,11 @@
 - 在纸板上贴好你准备好的小纸片，并将瓦楞纸板剪裁成需要的样子。
 - 搭建成如图样式：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/rQS0zKm.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/rQS0zKm.jpg)
 
 将元器件按如图摆放黏贴。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/psneHwU.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/psneHwU.jpg)
 
 
 ## 硬件连接图
@@ -53,7 +53,7 @@
 扩展板P1口连接模拟噪音传感器电子积木
 扩展板IIC口接OLED显示屏
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/oUij2k8.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/oUij2k8.jpg)
 
 ## 软件
 ---
@@ -65,11 +65,11 @@
 ### 步骤 1
 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_01_01.png)
 
 为了给智慧家居套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索“smarthome"，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_01_02.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -80,7 +80,7 @@
 然后设置一个笑脸显示在micro:bit上作为micro:bit专属开机动画。
 在OLED显示屏上显示welcome to the game 表示肺活量测试小游戏正常开始。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_08_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_08_03.png)
 
 ### 步骤 3
 
@@ -90,7 +90,7 @@
 复制前面代码，将5个等级的情况都一一判断，并做出不同显示。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_08_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_08_04.png)
 
 
 
@@ -125,7 +125,7 @@
 
 - 打开肺活量测试器，用嘴对噪声模块吹气，micro:bit检测到气流变化量，随气流的增加，柱状图上升，OLED显示屏显示相应的等级。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/hXrR6VL.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/hXrR6VL.gif)
 
 ## 思考
 ---

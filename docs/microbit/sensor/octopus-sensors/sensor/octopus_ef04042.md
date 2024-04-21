@@ -4,7 +4,7 @@
 ---
 是基于Maxim IC DS18B20 1-Wire的数字温度传感器。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/c8DrDnH.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/c8DrDnH.jpg)
 
 ## 特性
 ---
@@ -22,7 +22,7 @@ SKU|EF04042
 
 ## 外形与定位尺寸
 ---
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/Bc8O78l.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Bc8O78l.jpg)
 
 ## 快速上手
 ---
@@ -31,21 +31,21 @@ SKU|EF04042
 ---
 ***以sensor:bit为例***
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/Sc5JwUT.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Sc5JwUT.png)
 
 ### 添加Package
 ---
 在MakeCode的代码抽屉中点击“高级"，查看更多代码选项。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
 
 点击“扩展”，在弹出的对话框中搜索“iot"，下载iot代码库。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/qChMeYd.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/qChMeYd.png)
 
 ### 如图所示编写程序
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/kO6z0oE.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/kO6z0oE.png)
 
 ### 参考程序
 

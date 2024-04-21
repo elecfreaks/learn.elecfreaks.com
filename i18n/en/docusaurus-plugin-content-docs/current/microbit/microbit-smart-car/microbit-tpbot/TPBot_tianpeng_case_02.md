@@ -18,7 +18,7 @@ sidebar_label: Light Control
 - 1 x [TPBot](https://www.elecfreaks.com/tpbot.html)
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_01.png)
 
 
 
@@ -35,11 +35,11 @@ sidebar_label: Light Control
 
 - Click "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_02.png)
 
 - We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "tpbot" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_03.png)
 
 ### Sample A
 - The LED headlights are in black while on start, and the micro:bit shows an icon.
@@ -49,7 +49,7 @@ sidebar_label: Light Control
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_02_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_02_04.png)
 
 ### Link
 - Link: [https://makecode.microbit.org/_0RM5AJgos7C5](https://makecode.microbit.org/_0RM5AJgos7C5)
@@ -87,7 +87,7 @@ sidebar_label: Light Control
 ### Sample B
 - While on start, set the micro:bit showing an icon and the LED headlights in red for 2 seconds and then turning off.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_02_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_02_05.png)
 
 ### Link
 - Link: [https://makecode.microbit.org/_P5cJ7oV1664J](https://makecode.microbit.org/_P5cJ7oV1664J)

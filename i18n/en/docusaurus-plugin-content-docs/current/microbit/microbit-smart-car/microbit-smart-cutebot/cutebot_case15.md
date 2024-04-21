@@ -4,7 +4,7 @@
 
 Programme to make the Cutebot seek the light source automatically.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-15-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-15-01.png)
 
 ## Materials
 
@@ -20,11 +20,11 @@ Programme to make the Cutebot seek the light source automatically.
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-1.png)
 
 We need to add a package for programming, click "Extensions" on the bottom of the drawer and search with `Cutebot`in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-11.png)
 
 ***Note:*** If you met a tip indicating the codebase will be deleted due to incompatibility, you may continue as the tips tell or build a new project.
 
@@ -32,7 +32,7 @@ We need to add a package for programming, click "Extensions" on the bottom of th
 
 Judge the luminous intensity with the block "light level " in "forever" ; if the value is below the setting point, set the Cutebot turn left at its full speed; Or it moves forward at its full speed.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_15_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_15_01.png)
 
 
 ### Link
@@ -65,7 +65,7 @@ You can also download it directly below:
 
 The Cutebot spins if there is no light being detected or it drives forward to it at its full speed.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-15.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-15.gif)
 
 ## Exploration
 

@@ -6,7 +6,7 @@ Use another micro:bit as a remote control for your Cutebot
 
 Both micro:bit needs to be programmed.
 
-``![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-11-01.png)``
+``![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-11-01.png)``
 
 ## Materials
 
@@ -26,11 +26,11 @@ Both micro:bit needs to be programmed.
 
 Click the "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-1.png)
 
 A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-11.png)
 
 ***Note:*** If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
@@ -44,7 +44,7 @@ Send radio number in `2` when pressing button B.
 
 Send radio number in `3` when pressing button A+B.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_11_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_11_01.png)
 
 #### Programming
 
@@ -84,7 +84,7 @@ When the received number is `2`, turn right.
 
 When the received number is `3`, go straight.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_11_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_11_02.png)
 
 #### Programming
 
@@ -119,7 +119,7 @@ When button A being pressed on the remote control, the Cutebot turns left.
 
 When button B being pressed on the remote control, the Cutebot turns right.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-11.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-11.gif)
 
 ## Exploration
 ---

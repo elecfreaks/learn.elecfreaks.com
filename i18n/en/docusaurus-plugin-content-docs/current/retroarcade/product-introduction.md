@@ -1,6 +1,6 @@
 ﻿# Product Description
 
-![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-01.png)
+![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-01-01.png)
 
 ## Overview
 
@@ -17,7 +17,7 @@ The Retro Makecode Arcade for Education makes kids fall in love with programming
 
 ## Product Description
 
-![retro-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-01.png)
+![retro-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-01.png)
 
 
 
@@ -41,7 +41,7 @@ Click the on/off button to start the product and double click the on/off button 
 ### Charging Method
 Use the standard Type-C with data transfer interface, connect the USB port with your own USB charger to charge. Charger specifications should be DC5V/1A output and above. The power indicator flashes while charging, and the power indicator is always on when charging is complete. The expected charging time is 1.5H.
 
-![retro-gg-2.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-gg-2.png)
+![retro-gg-2.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-gg-2.png)
 
 ### Indicator Status
 | At work | Always bright | Plenty of power |

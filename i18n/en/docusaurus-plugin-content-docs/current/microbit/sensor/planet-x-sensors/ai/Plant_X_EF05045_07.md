@@ -4,7 +4,7 @@
 
 Build a line following car with the bricks and the AI lens.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_01.png)
 
 ## Products Link
 
@@ -20,19 +20,19 @@ Build a line following car with the bricks and the AI lens.
  Connect the AI Lens to the IIC port and the two motors on M1,M2 ports on the Nezha expansion board as the picture shows.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_07_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_07_07.png)
 
  Build a car with the bricks below.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_07_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_07_01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_07_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_07_02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_07_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_07_03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_07_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_07_04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_07_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_07_05.png)
 
 
 
@@ -43,11 +43,11 @@ Build a line following car with the bricks and the AI lens.
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05001_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_04.png)
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05001_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_05.png)
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
@@ -55,7 +55,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 ### Code as below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_07_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_07_06.png)
 
 
 ### Link

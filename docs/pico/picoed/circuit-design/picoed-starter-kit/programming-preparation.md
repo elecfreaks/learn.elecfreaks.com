@@ -15,10 +15,10 @@ sidebar_label: 编程环境准备
 2. [CircuitPython_Motor](https://github.com/adafruit/Adafruit_CircuitPython_Motor/archive/refs/heads/main.zip)。`CircuitPython_Motor`库文件包含对电机、舵机的控制方法。
 3. 接下来，请按照添加 picoed 库文件的步骤将`adafruit_motor`、`adafruit_is31fl3731`放在 CIRCUITPY盘的lib文件夹中即可，如下图。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-lib-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-lib-01.png)
 
 接下来案例的代码编写都是在 CIRCUITPY 盘的 code.py 文件中编写，使用安装好的 Thonny 打开 code.py 进行编写代码。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-lib-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-lib-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-lib-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-lib-03.png)

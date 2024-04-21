@@ -4,7 +4,7 @@
 
 A simple automatic sensor door. When the ultrasonic sensor detects that a person is approaching, the micro:bit controls the servo to automatically open the door. When no person is approaching, the micro:bit controls the servo to automatically close the door.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_03_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_03_01.png)
 
 ## Quick Start
 
@@ -27,7 +27,7 @@ RJ11 wire × 1
 Connect the 360° servo to S1 and the ultrasonic sound sensor to J1 on the Nezha expansion board as the picture shows.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_03_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_03_03.png)
 
 
 ### Assembly Video
@@ -42,27 +42,27 @@ Video reference: [https://youtu.be/nOh7YCmcotA](https://youtu.be/nOh7YCmcotA)
 ### Assembly Steps
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_03_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_03_01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_03_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_03_02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_03_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_03_03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_03_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_03_04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_03_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_03_05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_03_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_03_06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_03_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_03_07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_03_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_03_08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_03_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_03_09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_03_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_03_10.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_03_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_03_11.png)
 
 
 
@@ -73,15 +73,15 @@ Video reference: [https://youtu.be/nOh7YCmcotA](https://youtu.be/nOh7YCmcotA)
 ### Step 1
 Click "Advanced" in the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_10.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_11.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "nezha" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_03_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_03_09.png)
 
 ***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -89,7 +89,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 ### Code as below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_03_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_03_10.png)
 
 
 ### Reference
@@ -120,4 +120,4 @@ You may also download it directly below:
 ### Result
 While the ultrasonic sound sensor detects any object, the gate opens automatically.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case-gif-03.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-gif-03.gif)

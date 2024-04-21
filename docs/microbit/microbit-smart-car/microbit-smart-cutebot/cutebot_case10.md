@@ -11,7 +11,7 @@ sidebar_label: 定距跟车
 
 想象一下，当我们驾驶车辆跟随其他车辆时，我们需要保持一定的安全距离，以防止碰撞。现在，我们将学习如何使用传感器和编程来实现这一功能。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-10-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-10-01.png)
 
 ## 使用材料
 
@@ -29,11 +29,11 @@ sidebar_label: 定距跟车
 
 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-1.png)
 
 为了给Cutebot套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索`Cutebot`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-11.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -41,7 +41,7 @@ sidebar_label: 定距跟车
 
 在`当开机时`积木块中插入设置左右轮速度积木块；
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_10_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_10_01.png)
 
 ### 步骤 3
 
@@ -53,7 +53,7 @@ sidebar_label: 定距跟车
 
 如果都不是，则距离手太远了，前进追上手并且保持位置停止。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_10_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_10_02.png)
 
 
 ### 程序
@@ -86,7 +86,7 @@ sidebar_label: 定距跟车
 
 小车距离手太远会前进靠近，太近远离，当距离合适的时候就停止。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-10.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-10.gif)
 
 ## 思考
 

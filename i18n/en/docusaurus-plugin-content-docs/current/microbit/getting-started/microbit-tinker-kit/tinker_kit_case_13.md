@@ -1,6 +1,6 @@
 ﻿# case 13 micro:bit Car
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/qXSgwvG.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/qXSgwvG.jpg)
 
 Make your very own self-driving micro:bit car!
 (Disclaimer: It’s only “self-driving” inasmuch as a ball rolling down a hill is “self-rolling”.)
@@ -36,8 +36,8 @@ This activity uses extra parts not found in the Tinker Kit.
 - 1 x Felt Pad
 - Sticky Tape
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/VTMxrBt.jpg)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/kbTCeId.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VTMxrBt.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/kbTCeId.jpg)
 
 
 ## How to Make
@@ -50,10 +50,10 @@ If you’re using our car kit, follow the labels on the car body to insert the c
 Connect the servo connectors to Pin 0 and Pin 1 on the Breakout Board.
 Note that the colours of common servo cables don’t match the yellow, red, and black colour scheme of the breakout board exactly. Match the orange servo cable to the yellow pin, and the brown servo cable to the black pin.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/N0CAXqr.jpg)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/aNVKtdT.jpg)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/gAWDnSL.jpg)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/xFdqW9y.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/N0CAXqr.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/aNVKtdT.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/gAWDnSL.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xFdqW9y.jpg)
 
 
 ### Step 2
@@ -72,7 +72,7 @@ What’s happening here? We’re turning one servo clockwise (180), while turnin
 Why do we need to turn off one servo at a time? That’s because of battery power requirements—your micro:bit has trouble in powering both servos at once. If you’re interested, you can explore by using a DC motor with an external power source. Or you can email us to find out more!
 Make sure to check that your motors are facing the right directions—you can change the travel directions of the motors by swapping the 0 and 180 values.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/XVBWXPP.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/XVBWXPP.jpg)
 
 If you don't want to type these code by yourself, you can directly download from the link below.
 
@@ -104,6 +104,6 @@ Or you can download from the page below.
 
 When you’re ready to run your car, attach your battery pack to your micro:bit, and your car runs ! Besides, you can personalise your car with some craft material to improve its aerodynamic properties! For further extension, you can also hook up an ADKeyboard to control the motors manually, instead of having the car move autonomously.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Sbh6ZFt.jpg)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/1EK38a1.jpg)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/lCw46P9.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Sbh6ZFt.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1EK38a1.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lCw46P9.jpg)

@@ -7,12 +7,12 @@
 ## 硬件连线图 ##
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/LMsve7H.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/LMsve7H.png)
 - 使用香蕉线按如上图连接电路，电池盒内放入2颗7号AAA电池。
 
 ## 电路原理图 ##
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/VFmWZkG.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VFmWZkG.png)
 
 micro:bit插槽的GND端和电池GND相连内部，形成电流回路。
 
@@ -23,7 +23,7 @@ micro:bit插槽的GND端和电池GND相连内部，形成电流回路。
 - 电位器是一种压力调节的元件。它包括了一个电阻和一个旋钮或者滑动系统。当添加一个外部的电压到电阻的两个固定接触点，通过使用旋钮或者滑动系统来改变电阻上的接触点的位置，一个和可移动的触点位置有特殊关系的电压就在可移动的触点和两个固定触点之间形成了。
 - 在实验箱上板载一个10KΩ 电位器，向左旋转到底为0Ω，向右旋转到底为10KΩ。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/jHZQhOu.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/jHZQhOu.png)
 
 ## 软件编程设计
 ---
@@ -33,11 +33,11 @@ micro:bit插槽的GND端和电池GND相连内部，形成电流回路。
 
 - 点击New Project按钮，新建一个项目。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t34k5Zb.png)
 
 ### 步骤 2
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/3Ekc31T.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/3Ekc31T.png)
 
 - 在forever积木块中插入plot bar graph显示指定的数字的柱形图。（柱形图是一种图表，它可以用不同长度的线条来显示数字）
 
@@ -74,7 +74,7 @@ micro:bit插槽的GND端和电池GND相连内部，形成电流回路。
 ---
 - 旋转电位器，柱状图发生高低变化。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/WDagGas.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/WDagGas.gif)
 
 ## 思考
 ---

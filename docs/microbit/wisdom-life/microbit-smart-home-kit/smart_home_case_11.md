@@ -38,17 +38,17 @@
 
 正面：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/RL8DL2M.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/RL8DL2M.png)
 
 背面：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/K56Vqzl.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/K56Vqzl.jpg)
 
 ## 硬件连接图
 ---
 将P1口与触碰模块连接
 OLED显示器插入IIC接口中
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/MLFMqXq.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/MLFMqXq.jpg)
 
 ## 软件
 ---
@@ -61,11 +61,11 @@ OLED显示器插入IIC接口中
 
 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_01_01.png)
 
 为了给智慧家居套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索“smarthome"，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_01_02.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -74,7 +74,7 @@ OLED显示器插入IIC接口中
 
 - 从Basic中拖出一个start积木块，然后将P1口设置为触碰检测口，用来监测触碰信号。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_11_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_11_03.png)
 
 ### 步骤 3
 
@@ -83,7 +83,7 @@ OLED显示器插入IIC接口中
 当有人打开房门，触碰模块被弹起，使用show string 积木块，在OLED显示屏上显示“your treasure is not safe”。
 使用“播放旋律” 语句使蜂鸣器发出警报声。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_11_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_11_04.png)
 
 
 

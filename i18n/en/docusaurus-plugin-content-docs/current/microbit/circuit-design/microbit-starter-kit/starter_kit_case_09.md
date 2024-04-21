@@ -1,6 +1,6 @@
 ﻿# Lesson 09 Buzzer
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/nCSnCEt.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nCSnCEt.jpg)
 
 ## Introduction
 
@@ -21,7 +21,7 @@ Buzzer is a kind of electronic sound receiver with integrated structure. It is w
 
 ***Tips: If you want all components above, you will need Elecfreaks micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html)  .***
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/W4tseua.jpg)
 
 ## Major Component Introduction
 
@@ -30,16 +30,16 @@ Buzzer is a kind of electronic sound receiver with integrated structure. It is w
 
 Buzzer is a kind of voice device. It is made of vibration and resonance device. According to the difference of control method, we can divide buzzer into active type and passive type.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/KfDVHIk.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/KfDVHIk.jpg)
 
 Here’s the working principle of active buzzer:
 Because active buzzer has integrated amplify sampling circuit and resonance system, when DC power input passes through active buzzer, it will make resonance device generate sound signal. We can see the schematic diagram below for the working principle of active buzzer:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/spNnKiB.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/spNnKiB.jpg)
 
 The working principle of passive buzzer is: When square wave signal passes through the buzzer, its resonance device will transform the square wave signal input into sound signal output. Below is the schematic diagram for the working principle of passive buzzer:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/kNHyjjl.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/kNHyjjl.jpg)
 
 ****Note:**** In this experiment, we use passive buzzer only.
 
@@ -47,11 +47,11 @@ The working principle of passive buzzer is: When square wave signal passes throu
 
 Transistor is a kind of semi-conductor component for current control. It is used to amplify the weak signal to signal with larger frequency.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/LEvAFS5.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/LEvAFS5.jpg)
 
 If we input PWM signal produced by micro:bit into buzzer directly, the buzzer will send out feeble voice. This is because the drive current of I/O port is usually too weak to directly drive components like buzzer. At this time, we have to use transistor to amplify the current of PMW signal so that the buzzer can alarm properly. Here is the circuit diagram for a typical application of using transistor to drive buzzer:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/ZhQ3fhv.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ZhQ3fhv.jpg)
 
 
 ## Experimental Procedure
@@ -61,26 +61,26 @@ Connect your components according to the picture below:
 
 - 1.Connect the buzzer, the 100Ω resistor and the transistor in series, then connect to P0 port.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/YTNuh7H.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/YTNuh7H.jpg)
 
 You would see as  below after you finish the connection:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/iYiZM7O.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iYiZM7O.jpg)
 
 ### Software Programming
 
 Click to open Microsoft Makecode, write the following code in the editor.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/JHZUvh2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JHZUvh2.png)
 
 ### Program as the picture shows:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/6bZq6wz.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/6bZq6wz.png)
 
 ### Details for the code:
 - 1.Make a middle C sound in the code and pause 100s; Programme EGE in a similar way.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/PyomwJL.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/PyomwJL.png)
 
 ### Reference
 Links:[https://makecode.microbit.org/_DdPPjDCdmM1a](https://makecode.microbit.org/_DdPPjDCdmM1a)
@@ -110,7 +110,7 @@ You can also download the links directly:
 
 The sound sent out by buzzer changes between high frequency and low frequency. And we can see the bar chart of frequency on the micro:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/2AJXtVY.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2AJXtVY.gif)
 
 
 ## Exploration

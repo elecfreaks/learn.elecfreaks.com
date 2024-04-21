@@ -5,7 +5,7 @@ sidebar_label: 案例07 小小养鱼池
 
 # 案例07 小小养鱼池
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case07-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case07-01.png)
 
 ## 简介
 
@@ -49,11 +49,11 @@ sidebar_label: 案例07 小小养鱼池
 
 按照下面连接示意图，将您的元器件连接起来：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case07-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case07-05.png)
 
 ## MicroBlocks 图形化编程
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case05-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case05-04.png)
 
 ## CircuitPython 代码编程
 
@@ -81,7 +81,7 @@ while True:
 
 ## 案例演示
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-kit-case07-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-kit-case07-06.gif)
 
 ## 思考
 

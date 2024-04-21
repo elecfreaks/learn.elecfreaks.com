@@ -22,7 +22,7 @@ micro:bit × 1
 Insert the micro:bit to Nezha expansion board.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_18_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_18_03.png)
 
 
 
@@ -34,7 +34,7 @@ Insert the micro:bit to Nezha expansion board.
 ### Programme as the picture shows:
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_18_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_18_15.png)
 
 
 

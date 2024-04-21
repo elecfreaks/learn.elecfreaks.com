@@ -6,7 +6,7 @@ Octopus Dust Sensor Detector Module with Sharp GP2Y1010AU0F adopts Sharp optical
 
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/Y1K9tuE.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Y1K9tuE.jpg)
 
 ## Products Link
 
@@ -36,7 +36,7 @@ Vent Hole Size|9.0mm
 ## Outlook and Dimensions
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/Vo0h74k.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Vo0h74k.png)
 
 ## Quick to Start
 
@@ -48,23 +48,23 @@ Vent Hole Size|9.0mm
 
 ***Take sensor:bit for example***
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/ugY3XVu.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ugY3XVu.png)
 
 ### Add Package
 
 Click "Advanced"in the choice of the MakeCode to find more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/smtcNoB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
 
 Click "Extensions", search "iot"in the dialog box and then download the "iot".
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/GAN7O4X.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/GAN7O4X.png)
 
 
 ### Program as the picture shows
 1. Choose the LED on the micro:bit to show the bricks.
 2. Choose the dust brick in the IoT package to show it on the micro:bit.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/MF4stwK.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/MF4stwK.png)
 
 ***Reference***
 

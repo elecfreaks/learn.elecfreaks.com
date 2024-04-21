@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ELECFREAKS micro:bit Nezha Inventor's Kit V2 is a BBC micro:bit kit designed based on Planet X sensors, which contains several sensors and modules such as the LED lights, potentiometers, soil moisture sensors, ultrasonic sound sensors, crash sensors, line-following sensors, and etc. It comes with more than 400 blocks that are suitable for building various cases and it can improve children's hands-on skills and logical thinking. It has 32 thematic cases and more extensions designed to nurture and stimulate children's creativity and imagination. It is a programming education kit for all ages, so that every child can experience the fun of invention.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-01.png)
 
 ## Parameter
 
@@ -33,7 +33,7 @@ ELECFREAKS micro:bit Nezha Inventor's Kit V2 is a BBC micro:bit kit designed bas
 
 ## Packing List
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-02.png)
 
 | Item | QTY |
 |---|---|

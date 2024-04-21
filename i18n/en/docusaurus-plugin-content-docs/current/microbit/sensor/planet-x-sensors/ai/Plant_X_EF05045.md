@@ -11,7 +11,7 @@ The AI Lens is an easy-to-use AI camera that supports face recognition, colour r
 
 AI training can be completed with just one button, getting rid of tedious training and complex visual algorithms, allowing you to focus more on the conception and implementation of the project.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_01.png)
 
 ## Characteristic
 
@@ -48,7 +48,7 @@ Cards|41
 ## Outlook and dimensions
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_02.png)
 
 
 ## When using RJ11 to Dupont connector cable
@@ -57,11 +57,11 @@ If you use a micro:bit expansion board without RJ11 expansion port, due to the w
 
 When using micro:bit expansion boards without RJ11 expansion interface, you can use the RJ11 to DuPont cable to connect the RJ11 interface to the AI Lens, the black wire of the DuPont interface end connects to GND, the red wire connects to VCC, the green wire connects to the P19 (SCL) port, and the yellow wire connects to the P20 (SDA) port; if the AI Lens fails to start up in the process of using it, try to supply power to the AI Lens with separate power supply.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_03.png)
 
 Take IoT:bit for an example
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_04.png)
 
 Note:
 
@@ -85,14 +85,14 @@ AI Lens will be updated with some new features and performance optimisation from
 
 There are AiCam V1.2 and V1.7 for the AI lens, and there is a firmware download button on the back of the AiCam V1.7  we are able to differentiate these two versions by the download button or the version number.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-08.png)
 
 ### How to check the current firmware version
 
 
 The bottom right corner of the AI lens boot page will prompt the current version number, (if not prompted, it is the oldest version please update it)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-05.png)
 
 AiCam V1.2 version firmware v1.0.12 [Click to download](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/v1.0.12.kfpkg).
 
@@ -120,29 +120,29 @@ MacOS system download [kflash_gui_v1.6.5_2_macOS.dmg](https://github.com/elecfre
 
 For windows system, open the folder kflash_gui after unzipping and find the kflash_gui.exe programme.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-01.png)
 
 Once the download is complete for macOS, open the icon below.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-06.png)
 
 3. Double click to open the kflash_gui.exe programme, click on Open File, select and open the latest version of firmware v1.0.12 in the folder [click to download](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/v1.0.12.kfpkg).
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-02.png)
 
 Then use USB to connect the AI Lens.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-03.png)
 
 Finally, select the port (the port number may vary from computer to computer) and click download, then wait for the download to complete.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-04.png)
 
 ## AiCam V1.7 firmware update method
 
 Connect the AI lens with USB.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-03.png)
 
 When the AI Lens starts up, if the computer pops up a USB stick, you only need to update the software package to update. Otherwise, you need to update the driver first, then update the firmware, and finally update the software package.
 
@@ -151,27 +151,27 @@ When the AI Lens starts up, if the computer pops up a USB stick, you only need t
 Download AiCam V1.7 version firmware v2.0.1 [click to download](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/PhoenixSuit-master.zip) and unzip it.
 Open right-click this computer and select Manage.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-09.png)
 
 Open the device manager
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-10.png)
 
 Unplug the USB cable, press the firmware download button when the power is completely cut off, and then use the USB to connect the AI lens to enter the firmware download mode.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-15.png)
 
 After entering the firmware download mode, an unknown device will appear in the device manager.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-11.png)
 
 Right-click the unknown device and click Update Driver.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-12.png)
 
 Select "browse" my computer for searching drivers.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-13.png)
 
 Select the path as the `Drivers` folder in the `PhoenixSuit-master` folder, and then click the next page.
 
@@ -181,27 +181,27 @@ Select the path as the `Drivers` folder in the `PhoenixSuit-master` folder, and 
 
 Select `PhoenixSuit.exe` under the `PhoenixSuit-master` directory to open the firmware update software.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-16.png)
 
 Click `One-click flash`, click `Browse`, and select [AI-Cam-V1.7-V2.0.1](https://github.com/elecfreaks/learn-cn/releases/download according to the firmware version you need to upgrade /V2.0.1/AI-Cam-V1.7-V2.0.1.zip), or [AiCam V1.7 version firmware v2.0.4](https://www.elecfreaks. `ef831-2.0.4-ov9732-2022-11-30.img` in com/download/AI-Cam-V2.0.1-V2.0.4.zip). Click to upgrade now.
 
 *** Here we take the V2.0.1 firmware upgrade as an example ***
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-18.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-19.png)
 
 Unplug the USB cable, press the firmware download button when the power is completely cut off, and then use the USB to connect the AI lens to enter the firmware download mode.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-15.png)
 
 When the connection is successful, the firmware update software will prompt whether to format, please select `Yes`.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-17.png)
 
 Please wait patiently for the formatting to complete. When prompted that the firmware burning is complete, click OK and reconnect the AI lens.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-21.png)
 
 ### Update package steps
 
@@ -209,7 +209,7 @@ Please wait patiently for the formatting to complete. When prompted that the fir
 
 Download and unzip [AiCam V1.7 software package v2.0.1](https://github.com/elecfreaks/learn-cn/releases/download/V2.0.1/AI-Cam-V1.7-V2.0.1.zip), open the disk, and copy the two files `maix_dist` and `res` in the `AI-Cam-V1.7-V2.0.1` folder to the disk , **wait for the copy to complete, and then manually uninstall the disk**. Then reconnect the AI Lens.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-22.png)
 
 
 
@@ -217,13 +217,13 @@ Download and unzip [AiCam V1.7 software package v2.0.1](https://github.com/elecf
 
 1. If under the macOS system, during the process of installing the firmware download software, the installation fails because the developer cannot be verified.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-gj-07.png)
 
 Please visit [https://support.apple.com/zh-cn/HT202491](https://support.apple.com/zh-cn/HT202491) for solutions.
 
 2. When using the AI lens, an error message appears when clicking download, it may be that the software library of PlanetX has been damaged.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-FAQ-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-FAQ-01.png)
 
 There are two possible situations:
 
@@ -232,12 +232,12 @@ There are two possible situations:
 
 (2) To add conflicts between the PlanetX software library and the PlanetX-AI software library at the same time, please click the red box "JaveScript" in the figure to switch the programming interface, click the resource manager, and delete the PlanetX software library or PlanetX-AI software library as needed;
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-FAQ-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-FAQ-03.png)
 
 After deletion, there should be no more error prompts in the explorer;
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-FAQ-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-FAQ-04.png)
 
 If you find that the building blocks are lost after deletion, please try to re-add the corresponding software library. If re-adding the software library does not solve the problem, please reset the makecode programming platform as shown in the figure below. Note: After resetting the platform, all projects saved on makecode will be cleared. Please save the project files to the computer if needed.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-FAQ-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-FAQ-05.png)

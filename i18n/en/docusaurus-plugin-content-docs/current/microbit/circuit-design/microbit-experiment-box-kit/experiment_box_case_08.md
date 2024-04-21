@@ -10,13 +10,13 @@
 
 ## Hardware Connect ##
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/QpsN3Rk.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/QpsN3Rk.png)
 
  Connect circuit as above picture and put 2 AAA batteries into batteries pack.
 
 ## Principles of Circuits ##
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/yXHJ6zm.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/yXHJ6zm.png)
 
  The GND of slot on micro:bit is into innards of batteries' GND to generate the current loop.
 
@@ -26,7 +26,7 @@
  A servo is an automatic control system that consists of a DC motor, a reduction gear unit, a potentiometer and a control circuit. Generally, the servo has its the largest rotation angle (For example:180 deg).
  Our reference point at a 90deg middle position is defined by a signal frequency of 20ms and a pulse width of 1.5ms.
  The experiment box included a 180° servo.
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/uqmkhZ6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/uqmkhZ6.png)
 
 ***Note:*** You don't need to think out some complex questions like pulse width because micro:bit Foundation has converted the servo code to block.
 
@@ -40,19 +40,19 @@
 
  Click on "New Project" and set a new Project.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t34k5Zb.png)
 
 ### Step 2
 
  Snap the servo write pin and pause block into the forever and set P1 to 0.
  Pause 2000ms.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/rMTDGWP.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/rMTDGWP.png)
 
  Snap the servo write pin again after the first pause block and set P1 to 180.
  Pause 2000ms.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/rKePFnv.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/rKePFnv.png)
 
 ### Program
 

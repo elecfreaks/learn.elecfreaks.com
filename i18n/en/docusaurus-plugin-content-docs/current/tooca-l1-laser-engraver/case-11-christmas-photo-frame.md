@@ -4,7 +4,7 @@ sidebar_label: Christmas Photo Frame
 ---
 # Christmas Photo Frame
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/images/tooca-laser-1-case-11-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-11-01.png)
 
 ## Showcase Video
 

@@ -8,19 +8,19 @@ A:当我们打开一个过去一直可以顺利运行的程序，并试图点击
 
 点击右上角的齿轮图标，并点击About即可查看当前版本信息。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/faq/images/FAQ-microbit-03-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FAQ-microbit-03-02.png)
 
 版本信息
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/faq/images/FAQ-microbit-03-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FAQ-microbit-03-03.png)
 
 当出现程序过大的错误信息时，请在网页的地址栏中输入网址`https://makecode.microbit.org/v4.0.18#editor`来使用V4.0.18版本的makecode编译程序。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/faq/images/FAQ-microbit-03-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FAQ-microbit-03-04.png)
 
 修改完成后重新查看当前版本信息
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/faq/images/FAQ-microbit-03-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FAQ-microbit-03-05.png)
 
 
 

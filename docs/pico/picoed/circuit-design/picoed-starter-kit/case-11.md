@@ -7,7 +7,7 @@ sidebar_label: 七彩灯环
 # 七彩灯环
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-11-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-11-01.png)
 
 ## 简介
 LED 七彩灯环是基于 ws2812b 灯珠。它的最大特点是单 IO 控制与无限级联。在这节课程中，我们将用 Pico:ed来驱动 LED 七彩灯环实现色彩缤纷的效果。
@@ -22,13 +22,13 @@ LED 七彩灯环是基于 ws2812b 灯珠。它的最大特点是单 IO 控制与
 1 × LED七彩灯环（8颗灯珠）
 若干杜邦线
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-11-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-11-02.png)
 
 ## 主要元件介绍
 
 ### LED七彩灯环（8颗灯珠）
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-11-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-11-03.png)
 
 LED 七彩灯环（8颗灯珠）是由8颗 ws2812b 灯珠级联而成的灯环，ws2812b 是一个集控制电路与发光电路于一体的智能外控 LED 光源，其外型与一个 5050LED 灯珠相同。
 像素点内部包含了智能数字接口数据锁存信号整形放大驱动电路，还包含有高精度的内部振荡器和12V高压可编程定电流控制部分，有效保证了像素点光的颜色高度一致。
@@ -41,13 +41,13 @@ LED 具有低电压驱动，环保节能，亮度高，散射角度大，一致�
 根据下面的图片将你的元件连接起来：
 1.将七彩灯环的信号线与扩展板P0口连接起来
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-11-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-11-04.png)
 
 注意：灯环引出了两组线，一组是DI,另一组是DO，我们应当连接DI这一组。
 
 连接完成如下图所示：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-11-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-11-05.png)
 
 
 ## 程序编程
@@ -129,7 +129,7 @@ while True:
 ## 实验结果
 我们可以看到 LED 七彩灯环实现了色彩缤纷的效果。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-11.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-11.gif)
 
 ## 思考
 想象七彩灯环是一只大眼睛，让灯环显示眨眼睛的效果，那么我们该如何设计电路与编程？

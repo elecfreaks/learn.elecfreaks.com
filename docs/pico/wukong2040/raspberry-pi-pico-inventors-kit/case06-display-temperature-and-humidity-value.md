@@ -5,7 +5,7 @@ sidebar_label: 案例06 显示温湿度
 
 # 案例06 显示温湿度
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case06-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case06-01.png)
 
 ## 简介
 
@@ -29,7 +29,7 @@ sidebar_label: 案例06 显示温湿度
 
 ### 温湿度传感器
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-introduction-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-introduction-10.png)
 
 温湿度传感器是一种装有湿敏和热敏元件，能够用来测量温度和湿度的传感器装置，有的带有现场显示，有的不带有现场显示。温湿度传感器由于体积小，性能稳定等特点，被广泛应用在生产生活的各个领域。
 
@@ -39,11 +39,11 @@ sidebar_label: 案例06 显示温湿度
 
 按照下面连接示意图，将您的元器件连接起来：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case06-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case06-07.png)
 
 ## MicroBlocks 图形化编程
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case06-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case06-03.png)
 
 ## CircuitPython 代码编程
 
@@ -73,7 +73,7 @@ while True:
 
 ## 案例演示
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-kit-case06-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-kit-case06-06.gif)
 
 ## 思考
 

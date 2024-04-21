@@ -33,15 +33,15 @@ Don’t like people sneaking up on you? Here’s just the right micro:bit projec
 
 After connecting one end of the USB cable to your computer, connect the other end to the micro:bit as shown in the picture.Connect the side of the micro:bit where the pins are located to the breakout board.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/64lAG8S.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/64lAG8S.jpg)
 
 ### Step 2:
 
 Plug in the buzzer to Pin 0 (the pins beside the number ‘0’ on the breakout board) . Plug in the moisture sensor to Pin 3. Plug in the motion sensor to Pin 1.Make sure the colour of the wire of the buzzer and the ADKeyboard follows the colour of the pins on the breakout board.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/NuBmxhy.jpg)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Rj1DnJb.jpg)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/pHfDOO8.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NuBmxhy.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Rj1DnJb.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pHfDOO8.jpg)
 
 
 ### Step 3:
@@ -49,19 +49,19 @@ Plug in the buzzer to Pin 0 (the pins beside the number ‘0’ on the breakout 
 Click on “Advanced” in the code drawer to see more code sections.
 To code for our extra kit components (the ADKeyboard and the buzzer), we will need to add a package of code.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Lb5u8N0.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Lb5u8N0.jpg)
 
 Look at the bottom of the code drawer for “Add Package” and click it to open up a dialogue box. Search for "tinker kit" and then click on it to download this package.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/pBgBfAm.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pBgBfAm.png)
 
 Note: If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Projects file menu.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/SRt0dDo.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/SRt0dDo.png)
 
 Click on Tinkercademy inside the Code Drawer to find our custom blocks for the various components in your kit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/WC0lzLU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/WC0lzLU.png)
 
 For this project, we are going to use the blocks read value from moisture sensor and motion sensor.
 
@@ -70,7 +70,7 @@ For this project, we are going to use the blocks read value from moisture sensor
 In this step, we will code the Micro:bit with Block Editor. We begin by coding a starting screen, by placing the “Show Icon” block under the “On Start” block as shown in the picture on the right.
 This causes the icon to appear on the screen whenever the micro:bit is powered on.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/NFbqCkL.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NFbqCkL.png)
 
 ### Step 5
 
@@ -78,14 +78,14 @@ Next, let’s create some music using the moisture sensor values.
 Select the “Play Tone” block under the “Music” code section and place the value of Moisture Sensor code block in it
 The pitch can be adjusted by multiplying the sensor values by different numbers, as shown in the image on the left.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/DfFWFin.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/DfFWFin.png)
 
 ### Step 6
 
 Finally, make the buzzer sound when the motion sensor detects movements. The micro:bit will only show an icon on the screen if there is no movement.
 This can be done by using a conditional (if-then-else) statement and inserting the relevant blocks in the appropriate spots, as shown in the picture on the right.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/fbTZLgN.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/fbTZLgN.png)
 
 If you don't want to type these code by yourself, you can download the whole code directly from the link below.
 

@@ -3,7 +3,7 @@
 ## 简介
 两路巡线模块集成了两组反射式红外对管，可通过它来制作小车智能巡线项目。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05019_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05019_01.png)
 
 ## 特性
 ---
@@ -32,7 +32,7 @@ SKU|EF05019
 ---
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05019_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05019_02.png)
 
 
 ## 快速上手
@@ -44,7 +44,7 @@ SKU|EF05019
 - 如下图所示，将双路巡线模块连接到哪吒扩展板的J1端口。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05019_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05019_03.png)
 
 ## makecode编程
 ---
@@ -52,17 +52,17 @@ SKU|EF05019
 ### 步骤 1
 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05001_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_04.png)
 
 为了给双路巡线模块编程，我们需要添加一个扩展库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框，搜索”PlanetX“，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05001_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_05.png)
 
 *注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 ### 步骤 2
 ### 如图所示编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05019_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05019_06.png)
 
 
 ### 参考程序
@@ -104,15 +104,15 @@ SKU|EF05019
 
 推荐使用官方平台：[Python editor](https://python.microbit.org/v/2.0)进行编程
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_07.png)
 
 为了给双路巡线模块编程，我们需要添加enum.py和tracking.py两个文件。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的PlanetX_MicroPython文件夹，从中选择enum.py和tracking.py两个文件添加进来。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05019_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05019_10.png)
 
 ### 步骤 2
 ### 参考程序

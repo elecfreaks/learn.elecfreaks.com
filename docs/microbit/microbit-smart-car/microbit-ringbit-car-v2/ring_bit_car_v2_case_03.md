@@ -16,11 +16,11 @@ sidebar_label: 转弯画圆
 ## 硬件连接图
 ---
 - Ring:bit扩展版的P1口连接左轮舵机，P2口连接右轮舵机。
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/jBVHea8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/jBVHea8.png)
 
 - 将铅笔绑定在Ring:bit Car的尾板上。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/EfYkq79.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/EfYkq79.jpg)
 
 ## 软件平台
 ---
@@ -31,11 +31,11 @@ sidebar_label: 转弯画圆
 ### 步骤 1
 - 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2qCyzQ7.png)
 
 - 为了给Ring:bit套件编程，我们需要添加一个代码库。在代码抽屉底部找到“Add Package”，并点击它。这时会弹出一个对话框。搜索“ringbit"，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/1Wq2Mov.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1Wq2Mov.jpg)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -44,21 +44,21 @@ sidebar_label: 转弯画圆
 - 在On start积木块中插入设置左右轮舵机连接口积木块。
 - 端口号以实际舵机连接端口为准。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_car_v2_case_03_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_car_v2_case_03_01.png)
 
 ### 步骤 3
 
 - 在`on button A pressed`(当按钮A按下时)积木块中插入`set left wheel speed()right wheel speed()`(设置左右轮速度)积木块。
 - 将左轮速度设置为100，右轮速度设置为50。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_car_v2_case_03_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_car_v2_case_03_02.png)
 
 
 ### 步骤 4
 
 - 在`on button B pressed`(当按钮B按下时)积木块中插入`brake`(停车)积木块。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_car_v2_case_03_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_car_v2_case_03_03.png)
 
 
 ### 程序
@@ -93,7 +93,7 @@ sidebar_label: 转弯画圆
 - 按下按钮A，小车顺时针画了一个圈。
 - 按下按钮B，停车。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/HStJeJY.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/HStJeJY.jpg)
 
 ## 思考
 ---

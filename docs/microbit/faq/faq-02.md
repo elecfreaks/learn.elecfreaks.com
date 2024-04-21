@@ -19,6 +19,6 @@ A:当我们同时添加多个软件库时，需要注意检查多个软件库之
 
 将两个相互冲突的软件库中的一个删掉即可，这里以删除PlanetX软件库为例。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/faq/images/FAQ-microbit-02-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FAQ-microbit-02-05.png)
 
 

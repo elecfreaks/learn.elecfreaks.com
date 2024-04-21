@@ -4,7 +4,7 @@
 
  This is a digital push button sensor, which detects your press action and it is ideal for beginners to use.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/input/images/iM1rurh.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iM1rurh.jpg)
 
 
 ## Products Link
@@ -33,7 +33,7 @@ Stability|Stable and durable
 ## Outlook and Dimension
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/input/images/eNbM5Kz.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/eNbM5Kz.png)
 
 ## Quick to Start
 
@@ -44,11 +44,11 @@ Stability|Stable and durable
 
   Take sensor:bit for example
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/input/images/OkMNDbJ.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/OkMNDbJ.png)
 
 ### Program as the picture shows
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/input/images/HyjB47U.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/HyjB47U.png)
 
 ### Reference
 

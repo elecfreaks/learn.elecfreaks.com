@@ -12,11 +12,11 @@
 
 - Connect the left wheel servo to P1 of the Ring:bit expansion board and the right wheel servo to P2.
 - Connect the ring:bit car special expansion board to the P0.
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/D5sFydb.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/D5sFydb.jpg)
 
 - Slide the clip switch of the special expansion board to the Rainbow LED.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/s3rVwxZ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/s3rVwxZ.jpg)
 
 ## Software
 
@@ -27,11 +27,11 @@
 ### Step 1
 - Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2qCyzQ7.png)
 
 - Search for “ringbitcar” and click on the ring:bit car package to add it to your project. (As below picture)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/1Wq2Mov.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1Wq2Mov.jpg)
 
 ***Note：*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
@@ -41,7 +41,7 @@
 - Go straight at full speed.
 - Set the `2` Rainbow LED of the `P0` to `RGB` color.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/J7eFoDN.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/J7eFoDN.png)
 
 ### Step 3
 
@@ -51,7 +51,7 @@
 - `show color blue` block.
 - `pause(ms) 100` block.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/CqsUljq.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/CqsUljq.png)
 
 
 ### Program
@@ -84,7 +84,7 @@ If you don't want to type these code by yourself, you can directly download the 
 
 - The car goes straigt at full speed at red and blue flash.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/E4XxlGK.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/E4XxlGK.jpg)
 
 ## Think
 

@@ -4,7 +4,7 @@
 ---
 To make a basketball counter.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-07-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-07-01.png)
 
 ## Link:
 ---
@@ -12,7 +12,7 @@ To make a basketball counter.
 
 ## Materials Required
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-07-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-07-02.png)
 
 Video link:
 [https://youtu.be/0P88GP4RQaw](https://youtu.be/0P88GP4RQaw)
@@ -21,51 +21,51 @@ Video link:
 ---
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-07-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-07-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-07-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-07-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-07-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-07-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-07-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-07-04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-07-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-07-05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-07-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-07-06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-07-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-07-07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-07-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-07-08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-07-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-07-09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-07-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-07-10.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-07-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-07-11.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-07-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-07-12.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-07-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-07-13.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-07-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-07-14.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-07-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-07-15.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-07-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-07-16.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/step-case-07-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-07-17.png)
 
 ## Installation Mthods of Hardwares
 
 Install the sonar:bit with the bricks.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-sonar-bit-2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Wonder-Building-Kit-step-sonar-bit-2.png)
 
 ## Hardware Connection
 
 Connect a [sonar:bit](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html) to P1 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html).
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-07-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Wonder-Building-Kit-case-07-06.png)
 
 
 
@@ -78,21 +78,21 @@ Connect a [sonar:bit](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultraso
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-01-03.png)
 
 Search with Wukong in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-01-04.png)
 
  Search with https://github.com/elecfreaks/pxt-sonarbit in the dialogue box to add the sonar:bit extension.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-04-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-04-04.png)
 
 
 
 ### Program
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-07-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-07-03.png)
 
 Link:[https://makecode.microbit.org/_hueHXycJJgv1](https://makecode.microbit.org/_hueHXycJJgv1)
 

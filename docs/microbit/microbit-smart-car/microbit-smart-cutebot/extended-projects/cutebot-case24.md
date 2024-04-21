@@ -4,7 +4,7 @@
 
 我们将使用Cutebot智能赛车搭配AI摄像头来实现小车根据卡片颜色来自动启动和停车的功能！这个项目将结合人工智能和图像识别技术，让我们的小车能够通过识别卡片的颜色来自主地控制启动和停车。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-24.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-24.png)
 
 ## 使用材料
 
@@ -20,36 +20,36 @@
 ## 安装方式
 ### 锂电池安装步骤：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-step-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-step-01.png)
 
 ### 积木支架结构搭建步骤：
 
 零件清单：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-step-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-step-02.png)
 
 搭建步骤：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-step-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-step-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-step-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-step-04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-step-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-step-05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-step-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-step-06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-step-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-step-07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-step-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-step-08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-step-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-step-09.png)
 
 
 
 ### AI摄像头连线方式：
 将连接线的RJ11接口的一端连接到AI摄像头，另一端杜邦线接口的一端连接到下图所示的位置，需要注意连接线的接口是否正确。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-step-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-step-10.png)
 
 *注意：这个积木支架结构是可以活动的，我们可以手动调节AI摄像头的视角，在使用AI摄像头时，应该根据功能需求来调节角度。*
 
@@ -61,16 +61,16 @@
 ### 步骤 1
 在代码抽屉找到“扩展”，并点击它。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-24-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-24-01.png)
 
 为了给Cutebot套件编程，我们需要添加一个代码库。搜索`Cutebot`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-24-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-24-02.png)
 
 
 为了给AI摄像头编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索` PlanetX-AI`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-24-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-24-03.png)
 
 
 *注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。*
@@ -79,15 +79,15 @@
 
 在`当开机时`中，初始化AI摄像头，切换摄像头功能为颜色识别模式，初始化彩虹灯。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-24-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-24-04.png)
 
 在`无限循环`中，从摄像头获取一帧图像的信息，如果图像中包含红色卡片，则小车停止行驶并显示红色灯光，如果图像中包含绿色卡片，则小车向前行驶并显示绿色灯光。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-24-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-24-05.png)
 
 ### 程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-24-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-24-06.png)
 
 请参考程序连接：[https://makecode.microbit.org/_2781gFCseJMs](https://makecode.microbit.org/_2781gFCseJMs)
 
@@ -118,7 +118,7 @@
 AI摄像头检测到红色卡片时，小车停止行驶并显示红色灯光，AI摄像头检测到绿色卡片时，小车继续向前行驶并显示绿色灯光。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-24.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-24.gif)
 
 ## 思考
 

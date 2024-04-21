@@ -4,7 +4,7 @@
 
 To make the AI Lens be able to recognize the face and track it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_01.png)
 
 ## Products Link
 
@@ -19,22 +19,22 @@ To make the AI Lens be able to recognize the face and track it.
 
  Build a device with the bricks as below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_04_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_04_03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_04_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_04_04.png)
 
  Connect the device with a servo:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_04_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_04_05.png)
 
  Connect the AI Lens with the device:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_04_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_04_06.png)
 
  Connect the AI Lens to the IIC port and the two servos to S1 and S2 separately.(Here S1 controls the movement of "X", S2 controls the movement of "Y")
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_04_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_04_07.png)
 
 ## MakeCode Programming
 
@@ -43,11 +43,11 @@ To make the AI Lens be able to recognize the face and track it.
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05001_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_04.png)
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05001_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_05.png)
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
@@ -55,7 +55,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 ### Code as below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_04_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_04_08.png)
 
 
 ### Link

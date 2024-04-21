@@ -17,19 +17,19 @@ sidebar_label: 天蓬智能车python使用示例
 为了给天蓬智能车编程，我们需要添加TPBot.py这个文件。
 点击Load/Save。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPbot-py-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPbot-py-01.png)
 
 点击Show Files（1）下拉菜单。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPbot-py-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPbot-py-02.png)
 
 点击Add file在本地找到已经下载并解压完成的EF_Produce_MicroPython-master文件夹。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPbot-py-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPbot-py-03.png)
 
 从中选择TPBot.py这个文件添加进来。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPbot-py-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPbot-py-04.png)
 
 ### 示例代码
 ### 示例一     让小车全速前进

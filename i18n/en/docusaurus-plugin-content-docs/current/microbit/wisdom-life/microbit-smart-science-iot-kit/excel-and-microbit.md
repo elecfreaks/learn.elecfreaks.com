@@ -9,7 +9,7 @@ For this purpose, we will do with the below three steps:
 2. We will connect the micro:bit to the PC’s serial port.
 3. We will write a small program in Excel that reads the data from the serial port into the grid.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_excel_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_excel_01.jpg)
 
 ## The Experimentfrom micro:bit to Excel
 
@@ -22,7 +22,7 @@ All you have to do is, go to [www.makecode.com](http://www.makecode.com/), selec
 
 The program we’ll write for this experiment will simply collect data from two sensors that we can easily play with – acceleration and light level, and send a sampling of the sensors over the serial communication port every 100ms.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_excel_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_excel_02.png)
 
 ### The second step:download the program to the micro:bit
 
@@ -30,11 +30,11 @@ The program we’ll write for this experiment will simply collect data from two 
 All you have to do now is load the program into your Micro:Bit. 
 To do that, connect your micro:bit to the PC using a USB cable, which will make it appear like a removeable disk drive. 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_excel_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_excel_03.png)
 
 Then download the HEX file from within the MakeCode environment and save it onto the device. A few seconds later, the program will start running.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_excel_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_excel_04.png)
 
 You can also download it here:
 (https://makecode.microbit.org/_cjvC4RU1CVUD)
@@ -47,7 +47,7 @@ To do that, you’ll need to follow the instructions on [https://www.microbit.co
 1. Install a driver, which will make the micro:bit “appear” as a serial port on your PC.Youcan download it here:
 [Download drive program](https://github.com/elecfreaks/learncn/blob/master/microbitKit/iot_kit/file/teraterm4.102.rar?raw=true)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ifttt_21.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_ifttt_21.gif)
 
 
 2. The serial communication terminal simulator has to be used for the test.
@@ -55,19 +55,19 @@ You will need to configure the right COM port. On my environment, it was configu
 
 Once you do that, you should see a stream of data that looks something like this inside your emulator:
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_excel_05.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_excel_05.jpg)
 
 3.If it passes from the terminal simulator, go to "device manager"choose "port", find "USB serial device".
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_excel_10.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_excel_10.jpg)
 
 Right click the mouse to find propertities to choose the port setting, change the first data to "115200".
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_excel_11.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_excel_11.jpg)
 
 Click "Advanced", set the "COM port" to "1" or "2", click to confirm the setting in turns.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_excel_12.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_excel_12.jpg)
 
 **The incoming data flow  light level and acceleration**
 
@@ -89,7 +89,7 @@ One more point: When reading from the serial communication port in VBA, the most
 
 With no further ado, here’s a snippet from the main loop in the VBA code:
  
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_excel_06.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_excel_06.jpg)
 
 Few things to note in this code snippet:
 
@@ -125,21 +125,21 @@ The final piece of the puzzle – create two charts from the values. In both of 
 This is what it looks like:
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_excel_07.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_excel_07.jpg)
 
 The fifth step: Revise VBA code
 
 Click"view"to choose "macro".
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_excel_13.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_excel_13.jpg)
 
 Choose"StartBtnclick" to"edit".
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_excel_14.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_excel_14.jpg)
 
 Revise the value of "COM" to the former port value, here the example is "2" in this code.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_excel_15.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_excel_15.jpg)
 
 Clict to save the Excel in the right upper corner and reopen it.
 
@@ -147,6 +147,6 @@ Clict to save the Excel in the right upper corner and reopen it.
 
 All you have to do now is click “Start” and see the data coming in and being charted live! 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_excel_07.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_excel_07.jpg)
 
 

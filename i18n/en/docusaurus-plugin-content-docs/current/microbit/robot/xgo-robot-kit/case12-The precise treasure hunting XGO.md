@@ -29,7 +29,7 @@ magnet × 1
 
 Connect the micro:bit with the computer through the USB cable. I believe you are already very skilled.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-22.png)
 
 ## MakeCode  Programming
 ---
@@ -37,11 +37,11 @@ Connect the micro:bit with the computer through the USB cable. I believe you are
 
 Click ” Advanced“ in the MakeCode drawer to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-10.png)
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "XGO" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-11.png)
 
 Note: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -51,7 +51,7 @@ Note: If you met a tip indicating that some codebases would be deleted due to in
 
 ##### Treasure Hunt XGO Program
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/case12-2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case12-2.png)
 
 Link：[Treasure Hunt XGO Program](https://makecode.microbit.org/_HHPLrvRbvWFM)
 
@@ -79,7 +79,7 @@ You may download it directly below:
 
 ##### monitor program
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/case12-3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case12-3.png)
 
 Link：[monitor program](https://makecode.microbit.org/_Y2b7w5iYTEz2)
 

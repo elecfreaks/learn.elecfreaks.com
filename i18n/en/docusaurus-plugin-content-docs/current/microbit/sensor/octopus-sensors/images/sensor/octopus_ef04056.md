@@ -3,7 +3,7 @@
 ## Introduction
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04056_1.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04056_1.jpg)
 
 ## Products Link
 
@@ -46,14 +46,14 @@ Stability|Stable and durable
 Click "Advanced" to see more choices in the MakeCode drawer. 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/smtcNoB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
 
 
 Click "Extensions" to search "TM1637" in the dialogue box and then download it.
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04056_3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04056_3.png)
 
 
 
@@ -64,7 +64,7 @@ Click "Extensions" to search "TM1637" in the dialogue box and then download it.
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04056_5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04056_5.png)
 
 
 

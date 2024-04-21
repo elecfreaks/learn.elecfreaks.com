@@ -1,6 +1,6 @@
 # Case 04: Here Comes the Police
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case04.png)
 
 ## Introduction
 ---
@@ -13,11 +13,11 @@ Connect the left wheel servo to P1 of the [Ring:bit](https://shop.elecfreaks.com
 
 Connect the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car special expansion board to the P0.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case0401.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0401.png)
 
 Slide the clip switch of the special expansion board to the Rainbow LED.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case0402.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0402.png)
 
 ## Software Programming
 

@@ -18,7 +18,7 @@ sidebar_label: Obstacle-avoidance Driving
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_01.png)
 
 
 
@@ -35,17 +35,17 @@ sidebar_label: Obstacle-avoidance Driving
 
 - Click "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_02.png)
 
 - We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "tpbot" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_03.png)
 
 ### Sample
 - Set a triangle in the micro:bit and the TPBot moving forward at the speed of 50%; Set the LED headlights in green.
 - Save the variable of the distance from the TPBot to the obstacle in the forever brick, judge if the items of `i<15` and `i≠0` are both true, if yes, set TPBot stopping immediately and the headlights flashing three times; set it reversing for 1 second at the speed of 30% and then turning left for 0.5 second at the speed of 30%; finally set the headlights showing green and the TPBot moving forward at the speed of 50%.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_04_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_04_04.png)
 
 ### Link
 - Link: [https://makecode.microbit.org/_9A0XzETTzA54](https://makecode.microbit.org/_9A0XzETTzA54)

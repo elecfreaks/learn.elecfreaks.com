@@ -39,7 +39,7 @@
  Connect the red crocodile clip line to the 3V port of the micro:bit, the other side of the red crocodile clip line to the V port of the christmas tree rainbow LED.
  Connect the yellow crocodile clip line to the 0 port of the micro:bit, the other side of the yellow crocodile clip line to the S port of the christmas tree rainbow LED.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/8uQCfYE.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/8uQCfYE.jpg)
 
 ### Software
 #### Step 1
@@ -48,28 +48,28 @@
 
  Click on "New Project" and set a new Project.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t34k5Zb.png)
 
  Click on "Advanced" for more code blocks and click the Extensions at the bottom of the column.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/Zg0fO6x.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Zg0fO6x.png)
 
  Serch "neopixel" and add neopixel as a codebase.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/pqB776X.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pqB776X.png)
 
 #### Step 2
 
  Snap "set strip to RainbowLED at pin with leds as" from RainbowLED into the on start. Set pin to P1 with 6 LEDs in RGB pattern.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/qCgKGXD.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/qCgKGXD.png)
 
 #### Step 3
 
  Snap the strip rotate block from the RainbowLED under the forever. Set the rotate pixels to 1 and set the LEDs change its colour one by one.
  Then, snap a strip show block for colourful light.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/LMHM9JS.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/LMHM9JS.png)
 
 ### Program
 
@@ -101,6 +101,6 @@ You also could directly download program by visiting website as below:
 
 The christmas tree rainbow LED glows colourful light to bring beauty to the christmas night.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/fDvmCab.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/fDvmCab.gif)
 
 ## FAQ

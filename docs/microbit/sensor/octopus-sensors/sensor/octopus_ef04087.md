@@ -4,7 +4,7 @@
 ---
 Octopus BME280 Pressure Sensor 是基于数字湿度、压力和温度传感器的组合传感器，还能够根据气压值计算出海拔高度。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04087_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04087_01.png)
 
 
 ## 特性
@@ -33,7 +33,7 @@ SKU| EF04087
 尺寸|31 x 23 mm
 
 ### 外型与定位尺寸
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/ZCHyqrg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ZCHyqrg.png)
 
 ## 快速上手
 ---
@@ -41,7 +41,7 @@ SKU| EF04087
 
 将模块通过带扣杜邦线插入octopus:bit上的I2C接口上，将micro:bit主板插入octopus:bit中。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/TGFmmNb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TGFmmNb.png)
 
 ### 软件编程
 
@@ -51,18 +51,18 @@ SKU| EF04087
 ### 添加package
 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/LjMR5IU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/LjMR5IU.png)
 
 点击“Add Package”，在弹出的对话框中搜索“iot"，下载iot-environment-bit代码库。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/AaZxCEb.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AaZxCEb.jpg)
 
 
 如图所示编写程序，读取气压值。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04087_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04087_03.png)
 
 
 

@@ -11,7 +11,7 @@
 ## Hardware Connect
 
 - Connect the left wheel servo to P1 of the Ring:bit expansion board and the right wheel servo to P2.
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/jBVHea8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/jBVHea8.png)
 
 ## Software
 
@@ -22,11 +22,11 @@
 ### Step 1
 - Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2qCyzQ7.png)
 
 - Search for “ringbitcar” and click on the ring:bit car package to add it to your project. (As below picture)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/1Wq2Mov.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1Wq2Mov.jpg)
 
 ***Note：*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
@@ -35,21 +35,21 @@
 
 - Snap the block `set left wheel at pin P1 right wheel at pin P2` to the `On start` block.
 - The port number is based on the actual servo connection port.
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/igG5TVD.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/igG5TVD.png)
 
 ### Step 3
 - Snap blocks into `forever` block.
 - Set an varieble to `left` and an variable to `right`.
 - Generate a random number and assinment to the `left` and the `right`.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/2PPYJ0T.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2PPYJ0T.png)
 
 ### Step 4
 
 - Set the left wheel speed to the variable left abd the right wheel speed to the variable right.
 - Pause for one second.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/HSujBjF.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/HSujBjF.png)
 
 
 ### Program
@@ -81,7 +81,7 @@ If you don't want to type these code by yourself, you can directly download the 
 
 - The car runs at different speed.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/j6kX56N.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/j6kX56N.jpg)
 
 ## Think
 

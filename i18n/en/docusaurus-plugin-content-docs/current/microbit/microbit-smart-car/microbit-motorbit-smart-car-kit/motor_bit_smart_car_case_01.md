@@ -16,7 +16,7 @@
  The line tracking module in this kit has adopted an infrared sensor. It consists of a **transmitter** and a **receiver**. The transmitter emits infrared light, while the receiver collects the infrared light reflected by the ground.
  When contacting with black ground or other infrared light absorbing materials, the receiver can't receive the infrared light, then the light tracking module returns to 1.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/uPsoeBB.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/uPsoeBB.jpg)
 
 
 ## Hardware Connection
@@ -25,9 +25,9 @@
 Connect the left sensor(S1) on line tracking module to the 4th pin on motor:bit.
 And connect the right sensor(S2) to 3rd pin. See picture below.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/BOpsVvF.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/BOpsVvF.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/kzPngGo.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/kzPngGo.jpg)
 
 ## Software
 
@@ -38,11 +38,11 @@ And connect the right sensor(S2) to 3rd pin. See picture below.
 ### Step 1
 Click **Advanced** in the code drawer of MakeCode to see more options.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/LjMR5IU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/LjMR5IU.png)
 
 To program for motor:bit, we have to add a package. Find **Add Package** in the bottom of code drawer and click it. This will pop up a dialogue box. Search for "motorbit" and then click to download this package.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/XDlSfIS.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/XDlSfIS.png)
 
 ***Note:*** If you get a hint that some packages will be deleted due to the problem of incompatibility, you can either follow the prompts, or create a new project in the project menu.
 
@@ -51,7 +51,7 @@ To program for motor:bit, we have to add a package. Find **Add Package** in the 
  Insert a `move forward with speed` block below `on start`. Set the speed parameter to 80, which means the car will move forward at the speed of 80 when being powered on.
  Create two variables: `left` and `right`. They are used to collect the return values of the left or right sensor. set their initial value to 1.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/tYJS1aY.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tYJS1aY.png)
 
 ### Step 3
 
@@ -60,7 +60,7 @@ To program for motor:bit, we have to add a package. Find **Add Package** in the 
  Judge if `left` or `right` is 0, which means one of the two sensors has detected black line.
  If `left` or `right` is 0, set the motor speed to 0 and stop the car.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/p2WuniN.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/p2WuniN.png)
 
 ### Program
 

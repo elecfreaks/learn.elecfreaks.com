@@ -13,16 +13,16 @@
 ## LED
 让LED连接到引脚0
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/QNBkrOO.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/QNBkrOO.png)
 
 ### 示例：闪烁
 引脚布局
 
 - LED：Pin0
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/CLX7aZY.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/CLX7aZY.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/jNivIV0.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/jNivIV0.png)
 
 有关数字信号的更多信息，请单击[此](https://microbit-micropython.readthedocs.io/en/latest/pin.html)
 ## 舵机
@@ -48,31 +48,31 @@
 
 要启动舵机，请写入：“servo_name =舵机（pin0）＃将舵机连接到pin0”
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/lOHMxNj.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lOHMxNj.png)
 ### 示例：扫描
 引脚布局
 
 - 舵机：Pin0
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/aoNc802.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/aoNc802.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/YvGsNee.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/YvGsNee.png)
 
 ## OLED
 附加库：[oled.py](https://gist.github.com/yuliantoeric/2eff0ed8fd2457f7862a8ea9979073ca)
 使用其他库：将代码复制并粘贴到代码顶部的上述文件中
 启动OLED：来自oled import *
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/VV77qnk.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VV77qnk.png)
 
 ### 示例：Hello World！
 引脚布局
 
 - OLED：i2c
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/lI4CUIo.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lI4CUIo.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/ycmDQlJ.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ycmDQlJ.png)
 
 ## 蜂鸣器
 添加库：键入：代码顶部的“导入音乐”
@@ -106,7 +106,7 @@ a＃4：1＃音符一个八度音阶的尖锐音，持续1个音符
 
 让蜂鸣器连接到pin0
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/6LseEy3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/6LseEy3.png)
 
 ### 示例：门铃
 引脚布局
@@ -114,25 +114,25 @@ a＃4：1＃音符一个八度音阶的尖锐音，持续1个音符
 - 被动蜂鸣器：pin0
 - 碰撞传感器：pin1
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/hKTOrjG.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/hKTOrjG.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/LVLaEaF.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/LVLaEaF.png)
 
 ## PIR传感器
 基本上是一个运动检测器
 
 让PIR传感器连接到pin0
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/3myUkMT.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/3myUkMT.png)
 
 ### 示例：运动警报
 引脚布局
 - 无源蜂鸣器：Pin0
 - PIR传感器：pin1
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Qy0DPRH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Qy0DPRH.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/TSjFsXg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TSjFsXg.png)
 
 有关数字信号的更多信息，请单击[此](https://microbit-micropython.readthedocs.io/en/latest/pin.html)
 
@@ -145,7 +145,7 @@ a＃4：1＃音符一个八度音阶的尖锐音，持续1个音符
 
 让碰撞传感器连接到pin0
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/OQdYdeu.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/OQdYdeu.png)
 
 ### 示例：LED开关
 引脚布局
@@ -154,25 +154,25 @@ a＃4：1＃音符一个八度音阶的尖锐音，持续1个音符
 
 - LED：pin1
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Y1XOAvO.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Y1XOAvO.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/RlJGwnR.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/RlJGwnR.png)
 
 有关数字信号的更多信息，请单击[此](https://microbit-micropython.readthedocs.io/en/latest/pin.html)
 
 ## 土壤湿度传感器
 让土壤湿度传感器连接到pin0
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/VIA4cV0.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VIA4cV0.png)
 
 ### 示例：显示土壤湿度
 引脚布局
 
 - 土壤湿度传感器：pin0
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Z0k5gL3.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Z0k5gL3.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/c1fwe8D.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/c1fwe8D.png)
 
 有关模拟信号的更多信息，请单击[此](https://microbit-micropython.readthedocs.io/en/latest/pin.html)
 
@@ -193,16 +193,16 @@ ADKeypad有5个标记从A到E的按钮。按下每个按钮时，它们会提供
 
 让ADKeypad连接到pin0
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/apkhVjW.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/apkhVjW.png)
 
 ### 示例：图像弹出窗口
 引脚布局
 
 - ADKeypad：pin0
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Y02IwWW.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Y02IwWW.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/MkdDsB5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/MkdDsB5.png)
 
 有关模拟信号的更多信息，请单击[此](https://microbit-micropython.readthedocs.io/en/latest/pin.html)
 
@@ -211,7 +211,7 @@ ADKeypad有5个标记从A到E的按钮。按下每个按钮时，它们会提供
 
 让电位器连接到pin0
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/mehJx4h.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/mehJx4h.png)
 
 ### 示例：灯开关
 引脚布局
@@ -224,8 +224,8 @@ ADKeypad有5个标记从A到E的按钮。按下每个按钮时，它们会提供
 
 - 蓝色LED：pin8
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/J9TBUCI.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/J9TBUCI.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/HjPUc2Z.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/HjPUc2Z.png)
 
 有关模拟信号的更多信息，请单击[此](https://microbit-micropython.readthedocs.io/en/latest/pin.html)

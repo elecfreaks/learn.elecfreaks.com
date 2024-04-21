@@ -1,6 +1,6 @@
 ﻿# 产品简介
 
-![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-01-01.png)
+![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-01-01.png)
 
 ## 概述
 
@@ -16,9 +16,9 @@
 
 ## 产品说明
 
-![retro-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-01.png)
+![retro-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-01.png)
 
-![retro-02.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-02.png)
+![retro-02.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-02.png)
 
 ### 产品参数
 | 产品名称 | 饼干游戏编程学习机 |
@@ -40,7 +40,7 @@
 ### 充电方式
 使用标准Type-C 带数据传输接口，连接USB接口与自备的USB充电器给饼干游戏编程学习机充电。充电器规格应为输出DC5V/1A及以上。充电时电源指示灯闪烁，当充电完成时电源指示灯常亮。预计充电时长为1.5H。
 
-![retro-gg-2.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-gg-2.png)
+![retro-gg-2.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-gg-2.png)
 
 ### 指示灯状态
 | 工作中 | 常亮 | 电量充足 |

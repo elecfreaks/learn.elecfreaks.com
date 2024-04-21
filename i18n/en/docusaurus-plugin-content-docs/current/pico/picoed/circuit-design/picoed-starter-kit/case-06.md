@@ -1,7 +1,7 @@
 # Case 06:Self-Lock Switch
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0601.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0601.png)
 
 ## Introduction
 
@@ -33,7 +33,7 @@ The self-lock switch is a kind of common button switch. When we press the button
 n x Breadboard jumper wire 65pcs pack
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/starter-kit01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/starter-kit01.png)
 
 
 
@@ -43,7 +43,7 @@ n x Breadboard jumper wire 65pcs pack
 
 The self-locking switch generally refers to the switch with its own mechanical locking function. After pressing it, the button will not jump up completely after letting go. It is in a locked state and needs to be pressed again to unlock it and jump up completely. It's called a self-locking switch. This type of switch was used in early TVs and monitors that were directly powered off.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0602.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0602.png)
 
 ***Note：*** This self-locking switch consists of two sets of pole double throw switches, only one of which is used in this test, so the common pins of one of them are cut off.
 
@@ -55,11 +55,11 @@ Connect them as the picture shows:
 1.Connect the self-lock switch to the P0 port of the breadboard adapter.
 2.Connect the LED to the P2 port of the breadboard through 100Ω resistor.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case06.png)
 
 You would see as below after you finish the connection:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/zisuo.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/zisuo.png)
 
 ## Software Programming
 For programming environment preparation, please refer to [Introduction to the programming environment](https://www.elecfreaks.com/learn-en/pico-ed/index.html)

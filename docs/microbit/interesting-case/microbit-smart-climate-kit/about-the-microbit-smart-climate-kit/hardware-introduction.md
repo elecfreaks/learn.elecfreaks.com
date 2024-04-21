@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 4
 sidebar_label: 硬件介绍
 ---
@@ -7,7 +7,7 @@ sidebar_label: 硬件介绍
 
 ## micro:bit
 
-![](./images/smart-weather-station-kit-hardware-introduction-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-hardware-introduction-01.png)
 
 micro:bit 是一款专为青少年编程教育目的而设计的微型计算机，尺寸只有4cm x 5cm，但它拥有一系列的传感器和 LED 灯，可以用来控制和监测物理世界。
 
@@ -21,7 +21,7 @@ micro:bit 的设计简单易用，适合初学者使用。它可以用于各种�
 
 ## IOT:bit
 
-![](./images/smart-weather-station-kit-hardware-introduction-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-hardware-introduction-01.png)
 
 IOT:bit 扩展板是一款功能丰富的扩展板，专为 micro:bit 设计。下面是更详细的介绍：
 
@@ -45,7 +45,7 @@ IOT:bit 扩展板的功能丰富，能够满足您在智能系统开发中的需
 
 ## 风速传感器
 
-![](./images/smart-weather-station-kit-hardware-introduction-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-hardware-introduction-03.png)
 
 这是一款防水设计的风速传感器，采用Octopus相关产品的标准连接器，方便与其他设备进行连接。它能够根据风速的变化提供相应的电压输出。随着风速的增大，输出电压也随之增大，为用户提供准确的风速测量。该风速传感器可以应用于气象观测、环境监测，可用于测量风速。其防水设计保证了在恶劣环境下的可靠性和耐用性。
 
@@ -53,7 +53,7 @@ IOT:bit 扩展板的功能丰富，能够满足您在智能系统开发中的需
 
 ## 灰尘传感器
 
-![](./images/smart-weather-station-kit-hardware-introduction-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-hardware-introduction-04.png)
 
 灰尘传感器是一种空气质量传感器，用于检测空气中的微尘颗粒物浓度。
 
@@ -67,7 +67,7 @@ IOT:bit 扩展板的功能丰富，能够满足您在智能系统开发中的需
 
 ## 温湿度传感器
 
-![](./images/smart-weather-station-kit-hardware-introduction-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-hardware-introduction-05.png)
 
 温湿度传感器是一种用于测量和监测环境中温度和湿度的设备。它能够提供精确的温度和湿度数据，帮助人们了解和控制环境条件。这种传感器在许多领域有广泛应用，包括气象观测、室内环境监测、农业、仓储管理和自动化控制系统等。
 
@@ -77,7 +77,7 @@ IOT:bit 扩展板的功能丰富，能够满足您在智能系统开发中的需
 
 ## 紫外线传感器
 
-![](./images/smart-weather-station-kit-hardware-introduction-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-hardware-introduction-06.png)
 
 紫外线传感器是一种用于检测和测量环境中紫外线辐射的设备。它能够感知紫外线的强度并将其转化为电信号输出。紫外线传感器在许多应用领域具有重要作用，包括环境监测、紫外线辐射安全、医疗设备和消费电子产品等。该传感器通过感光元件或光敏材料来捕捉紫外线，然后将光信号转化为电信号进行处理和分析。它可以提供准确的紫外线强度测量，帮助用户了解环境中紫外线的水平，并采取适当的防护措施。紫外线传感器具有高灵敏度、快速响应和稳定性强的特点，是保护人类健康和安全的重要工具。
 
@@ -85,7 +85,7 @@ IOT:bit 扩展板的功能丰富，能够满足您在智能系统开发中的需
 
 ## OLED显示屏
 
-![](./images/smart-weather-station-kit-hardware-introduction-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-hardware-introduction-07.png)
 
 0.96寸 OLED 显示模块采用 SSD1306 驱动芯片，有128x64个自发光的白色像素点。具有功耗低、对比度高等优点，可用于许多显示应用，例如：各类传感器的数值显示；mini 小游戏机；智能穿戴设备等。
 

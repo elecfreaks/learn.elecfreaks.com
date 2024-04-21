@@ -10,13 +10,13 @@
 
 ## Hardware Connect ##
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/4EceRG6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/4EceRG6.png)
 
  Connect circuit as above picture and put 2 AAA batteries into batteries pack.
 
 ## Principles of Circuits ##
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/kl4b2QE.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/kl4b2QE.png)
 
  The GND of slot on micro:bit is into innards of batteries' GND to generate current loop.
  P0 port of the micro:bit outputs a square wave, and it be amplified when it through the audion to drive the buzzer.
@@ -27,22 +27,22 @@
  The buzzer a kind of voice device which consists of vibration device and resonance device. Sorting it by control method, the buzzer contains active and passive.
  Principle of active：The buzzer has integrated vibration system and sampling amplifier circuit. It generates voice when DC electrical source is getting through it. You can refer the picture as below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/spNnKiB.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/spNnKiB.jpg)
 
  Principle of passive：Turn the square signal to voice.You can refer the picture as below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/kNHyjjl.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/kNHyjjl.jpg)
 
  The experiment box included a passive buzzer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/xyNlKjk.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xyNlKjk.jpg)
 
 ### Mos Tube ###
 
  Audion is a semiconductor device to control the current. It is used to amplify the feeble signal to electronic signal with large amplitudes. The buzzer will in a feeble voice when it directly received PWM signal by micro:bit. This is because the currents of I/O port is usually weak which can’t directly drive buzzer. Now we need a transistor to amplify the currents of PMW signal for buzzer can alarm properly.
  The experiment box included a mos tube.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/NnmYwRp.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NnmYwRp.jpg)
 
 ***Note:*** Please note the positive and the negative when you are connecting.
 
@@ -54,11 +54,11 @@
 
  Click on "New Project" and set a new Project.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t34k5Zb.png)
 
 ### Step 2
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/vyb4j8a.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/vyb4j8a.png)
 
  Snap the ring tone block and pause block into the forever in order to play the GRE sound.
 

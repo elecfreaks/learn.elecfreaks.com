@@ -1,13 +1,13 @@
 # Case 02:跑出一个形状
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case02.png)
 
 ## 简介
  哈喽，经过上一节课的学习，我想你也体会到了 Ring:bit 智能车使用非常简单，那么我们再接再励，这节课程让  Ring:bit 智能车沿着类似五边形的路线行驶，那我们开始吧。  
 ## 硬件连接
  和上节课一样，发挥你灵巧的小手，将 Ring:bit 扩展版的 P1口 连接左轮舵机，P2 口连接右轮舵机。  
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case.png)
 
 ## 程序编写
 编程环境的准备是必须要的，如果你还没有准备好，请参考这篇文章：[编程环境准备](https://www.yuque.com/elecfreaks-learn/picoed/gxro38)

@@ -2,7 +2,7 @@
 # Case 08:Servo
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0801.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0801.png)
 
 ## Introduction
 
@@ -28,7 +28,7 @@ Servo is a position (angle) servo drive, suitable for those control systems that
 n x Breadboard Jumper Wire 65pcs Pack
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/starter-kit01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/starter-kit01.png)
 
 ## Major Component Introduction
 
@@ -36,18 +36,18 @@ n x Breadboard Jumper Wire 65pcs Pack
 
 The steering gear is an automatic control system composed of a DC motor, a reduction gear set, a potentiometer, and a control circuit. Specify the output shaft rotation angle by sending a signal. Generally speaking, the steering gear has a maximum rotation angle (such as 180 degrees). The main difference from the ordinary DC motor is that the DC motor rotates in circles, and the steering gear can only rotate within a certain angle, not in a circle (the digital steering gear can be switched between the steering gear mode and the motor mode, without this question). Ordinary DC motors cannot feed back rotational angle information, but servos can. The uses are also different. Ordinary DC motors are generally used for full rotation for power, and steering gears are used to control an object to rotate at a certain angle, such as the joints of a robot. The servo system of the steering gear is controlled by pulses of variable width, and the control line is used to transmit the pulses. Pulse parameters are minimum, maximum, and frequency. Generally speaking, the reference signal of the servo is 20ms in period and 1.5ms in width. The position defined by this reference signal is the intermediate position. The steering gear has a maximum rotation angle, and the definition of the middle position is that the amount from this position to the maximum angle and the minimum angle is board import the same. The most important point is that the maximum rotation angle of different servos may be different, but the pulse width at the middle position is certain, that is, 1.5ms.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0802.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0802.png)
 
 There are many specifications for servos, but all servos have three external wires, which are distinguished by three colors: brown, red, and orange (different brands may have slightly different colors), brown is the ground wire, and red is the positive pole of the power supply line, orange is the signal line.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0803.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0803.png)
 
 ## Experimental Procedure
 ### Hardware Connection
 Connect your components according to the picture below:
 1. Connect the servo to the P1 port of the expansion board
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case08.png)
 
 You would see as below after you finish the connection:
 

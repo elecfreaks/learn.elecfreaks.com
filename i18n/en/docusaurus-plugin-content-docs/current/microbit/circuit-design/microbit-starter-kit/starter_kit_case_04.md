@@ -1,6 +1,6 @@
 ﻿# Lesson 04 Photocell
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/MwngMAi.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/MwngMAi.jpg)
 
 ## Introduction:
 
@@ -20,7 +20,7 @@ The photodiode is a semiconductor device that converts light energy into electri
 
 ***Tips: If you want to buy all components above, then you will need Elecfreaks micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html) .***
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/W4tseua.jpg)
 
 ## Major Components Introduction
 
@@ -28,7 +28,7 @@ The photodiode is a semiconductor device that converts light energy into electri
 
 Photodiodes are special resistors made of semiconductor materials such as CdS or CdSe, and their working principle is based on the internal photoelectric effect. The stronger the light, the lower the resistance value, with the increase in light intensity, the resistance value is rapidly reduced, the bright resistance value can be as small as 1KΩ or less. Photodiode is very sensitive to light, its in the absence of light, was a high resistance state, dark resistance is generally up to 1.5MΩ.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/jS03zGQ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/jS03zGQ.jpg)
 
 ## Experimental Procedure
 
@@ -39,31 +39,31 @@ Connect your components according to the picture below:
 
 - 2.Connect the 10kΩ resistor in parallel with the photodiode (note the orientation of the photodiode, the long end is positive)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/FtQDhiS.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FtQDhiS.jpg)
 
 The connection is completed as shown:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/TMd3Fq8.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TMd3Fq8.jpg)
 
 ### Software Programming
 
 Click to open [Microsoft Makecode](https://makecode.microbit.org/), write the following code in the editor.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/JHZUvh2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JHZUvh2.png)
 
 ### Program as the picture shows:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/Hdxt7qd.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Hdxt7qd.png)
 
 ### Details for the code:
 
 - 1.When the power is switched on, the analogue voltage is read as a reference value for the brightness.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/Oj48CCS.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Oj48CCS.png)
 
 - 2.In the infinite loop block, the analogue voltage of P0 port is scanned cyclically. Once the current voltage value is lower than the reference value minus 2 (indicating that the light intensity becomes lower, the photoresistor resistance drops), it means that the light has been switched off, and at this time, a heart icon is displayed. calibrationVal-2 is used to adjust the sensing sensitivity, and the smaller the value is, the higher the sensitivity is.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/bd9M5tC.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/bd9M5tC.png)
 
 ### Reference
 Links:[https://makecode.microbit.org/_3tFFoPhLF7hX](https://makecode.microbit.org/_3tFFoPhLF7hX)
@@ -93,7 +93,7 @@ You can also download the links directly:
 
 When the lights are on, the micro:bit LED screen shows nothing; when the lights are off, the screen shows a heart icon.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/1Xu4lBR.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1Xu4lBR.gif)
 
 
 ## Elploration

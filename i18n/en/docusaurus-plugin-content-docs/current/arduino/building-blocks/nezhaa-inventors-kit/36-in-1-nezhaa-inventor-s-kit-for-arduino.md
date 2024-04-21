@@ -6,6 +6,6 @@
 Follow us and start with the 36 in 1 Nezha-A Inventor's kit for Arduino and let every child become an inventor!
 
 ## Pictures
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-01.png)
 ## Packing List
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-02.png)

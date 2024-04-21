@@ -15,7 +15,7 @@ sidebar_label: Remote Control with Joystick:bit
 
 - 1 x [TPBot](https://www.elecfreaks.com/tpbot.html)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_01.png)
 
 ## Software
 ---
@@ -28,15 +28,15 @@ sidebar_label: Remote Control with Joystick:bit
 
 - Click "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_02.png)
 
 - We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "tpbot" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_03.png)
 
 - We need to add a package for programming the Joystick also. Click "Extensions" in the bottom of the drawer and seach with "joystick" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_14_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_14_03.png)
 
 ### Sample
 
@@ -46,7 +46,7 @@ sidebar_label: Remote Control with Joystick:bit
 - Judge the value of x&y of the Joystick in the forever brick, if the value of the x is below 200, radio send number 4;  if the value of the x is over 800, radio send number 3; if the value of the y is below 200, radio send number 2; if the value of the y over 800, radio send number 1; or radio send number 0.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_14_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_14_04.png)
 
 ### Link
 - Link: [https://makecode.microbit.org/_7rzb5TEfrbu7](https://makecode.microbit.org/_7rzb5TEfrbu7)
@@ -78,7 +78,7 @@ sidebar_label: Remote Control with Joystick:bit
 - Save the received number as the variable in "on radio received..."block.
 - Judge if the value is 1, if yes, set the TPBot moving forward at the speed of 100%; if it's 2, set the TPBot reversing at the speed of 50%; if it's 3, set the TPBot turning left at the speed of 50%;  if it's 4, set the TPBot turning right at the speed of 50%; If it's 0, set the TPBot to stop.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_14_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_14_05.png)
 
 ### Link
 - Link: [https://makecode.microbit.org/_HPVCEx29zTPx](https://makecode.microbit.org/_HPVCEx29zTPx)

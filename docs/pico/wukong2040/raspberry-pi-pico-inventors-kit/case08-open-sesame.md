@@ -6,7 +6,7 @@ sidebar_label: 案例08 芝麻开门
 
 # 案例08 芝麻开门
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case08-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case08-01.png)
 
 ## 简介
 
@@ -30,7 +30,7 @@ sidebar_label: 案例08 芝麻开门
 
 ### 噪音传感器
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-introduction-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-introduction-12.png)
 
 噪声传感器正是由于传感器内置一个对声音敏感的电容式驻极体话筒,驻极体面与背电极相对，中间有一个极小的空气隙，形成一个以空气隙和驻极体作绝缘介质，以背电极和驻极体上的金属层作为两个电极构成一个平板电容器。电容的两极之间有输出电极。由于驻极体薄膜上分布有自由电荷。当声波引起驻极体薄膜振动而产生位移时；改变了电容两极版之间的距离，从而引起电容的容量发生变化，由于驻极体上的电荷数始终保持恒定，根据公式：Q =CU 所以当 C 变化时必然引起电容器两端电压 U 的变化，从而输出电信号，实现声音信号到电信号的变换。
 
@@ -50,17 +50,17 @@ sidebar_label: 案例08 芝麻开门
 >
 > 2.5ms———–180度；
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/pico-beginner-kit-61.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-beginner-kit-61.gif)
 
 ## 硬件连接
 
 按照下面连接示意图，将您的元器件连接起来：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case08-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case08-05.png)
 
 ## MicroBlocks 图形化编程
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case06-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case06-05.png)
 
 ## CircuitPython 代码编程
 
@@ -83,7 +83,7 @@ while True:
 
 ## 案例演示
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-kit-case08-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-kit-case08-06.gif)
 
 ## 思考
 

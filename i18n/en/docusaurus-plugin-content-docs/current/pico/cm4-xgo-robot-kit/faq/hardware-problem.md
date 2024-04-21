@@ -20,19 +20,19 @@ When you notice that your XGO posture is abnormal, such as when standing, one le
 
 1. Open the [XGOBOT APP](https://drive.google.com/drive/folders/1dKgBIZHAHC7wmxSXXiN11KBBO8YB_MlC )After connecting to the robot through WiFi, click the settings button to run as a developer, as shown in the following figure.
 
-   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-faq-01.png)
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-faq-01.png)
 
-2. Return to the main page and click on the calibration icon.![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-faq-02.png)
+2. Return to the main page and click on the calibration icon.![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-faq-02.png)
 
-3. Enter the calibration page and a pop-up prompt will appear.![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-faq-03.png)
+3. Enter the calibration page and a pop-up prompt will appear.![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-faq-03.png)
 
-4. Click on "Start Calibration", and the XGO's servo will no longer output torque and allow you to rotate all joints. Place the XGO in the position shown in the figure, paying attention to ensuring that each leg's shoulder is perpendicular to the body, thighs are perpendicular to the ground, and calves are perpendicular to the thighs. * * Open the gripper to the maximum range * *, fold the robotic arm on your back, and whether the placement is vertical will directly affect the posture of the XGO during operation.![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-faq-05.png)
+4. Click on "Start Calibration", and the XGO's servo will no longer output torque and allow you to rotate all joints. Place the XGO in the position shown in the figure, paying attention to ensuring that each leg's shoulder is perpendicular to the body, thighs are perpendicular to the ground, and calves are perpendicular to the thighs. * * Open the gripper to the maximum range * *, fold the robotic arm on your back, and whether the placement is vertical will directly affect the posture of the XGO during operation.![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-faq-05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-faq-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-faq-06.png)
 
 5. After placing the standard, click the "Complete Calibration" button in the calibration interface, and XGO will return to its initial standing position after 10 seconds.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-faq-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-faq-07.png)
 
 ## Replace the servo
 
@@ -40,44 +40,44 @@ Taking the replacement of the knee joint servo as an example, the diagram shows 
 
 Servo replacement video tutorial link: https://www.elecfreaks.com/download/xgo/XGO-LITE2_servo_replacement.mp4
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-faq-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-faq-10.png)
 
 XGO coordinate system, legs, servo, numbering diagram
 
 #### Step 1: Open the back cover of the robotic dog and remove the damaged knee joint servo cable from the drive board.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/microbit-xgo-lite2-faq-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-08.png)
 
 
 
 #### Step 2: Remove the servo wheel screws from the main and auxiliary servo wheels of the knee joint servo, and remove the lower legs.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/microbit-xgo-lite2-faq-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-09.png)
 
 
 
 #### Step 3: Remove the damaged servo and be careful not to pull the cable too hard.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/microbit-xgo-lite2-faq-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-10.png)
 
 
 
 #### Step 4: Thread the knee joint servo line through the corresponding position and fix the servo on the thigh sheet metal.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/microbit-xgo-lite2-faq-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-11.png)
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/microbit-xgo-lite2-faq-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-12.png)
 
 
 
 #### Step 5. Fix the lower legs on the main and auxiliary servo wheel, and note that the lower legs and thighs need to form a 90 ° right angle.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/microbit-xgo-lite2-faq-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-13.png)
 
 
 
 #### Step 6. Insert the cable onto the motherboard, close the upper cover of the machine dog, turn on the machine, and recalibrate the XGO.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/microbit-xgo-lite2-faq-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-14.png)

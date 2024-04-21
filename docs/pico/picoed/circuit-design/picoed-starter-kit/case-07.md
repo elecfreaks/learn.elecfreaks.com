@@ -5,7 +5,7 @@ sidebar_label: 温度传感器
 
 # 温度传感器
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-07-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-07-01.png)
 
 ## 简介
 温度传感器是指能感受温度并转换成可用输出信号的传感器。温度传感器是温度测量仪表的核心部分，品种繁多。在这节课程中，我们将学习模拟温度传感器 TMP36，并将它的数值读出显示在 Pico:ed 的 LED 屏幕上。
@@ -20,7 +20,7 @@ sidebar_label: 温度传感器
 1 × TMP36温度传感器
 若干杜邦线
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-07-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-07-02.png)
 
 
 ## 主要元件介绍
@@ -28,17 +28,17 @@ sidebar_label: 温度传感器
 ### TMP36
 TMP36是一种模拟温度传感器，它的输出电压与温度成线性关系，温度越高，输出电压越大。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-07-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-07-03.png)
 
 **注意：**当我们正视TMP36芯片有文字的一面时，芯片最左边的引脚为 VCC，中间引脚为 Vout，最右边的引脚为GND。千万不要把芯片接反了，否则也能引起器件损坏。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-07-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-07-04.png)
 
 TMP36输出电压随温度变化的曲线是这样的：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-07-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-07-05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-07-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-07-06.png)
 
 由上图可知温度的计算公式为：温度（℃）=（输出电压(mV) - 500 ) / 10
 
@@ -49,7 +49,7 @@ TMP36输出电压随温度变化的曲线是这样的：
 
 1. 温度传感器与扩展板P0口连接
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-07-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-07-07.png)
 
 
 ## 程序编程
@@ -116,7 +116,7 @@ while True:
 ## 实验结果
 Pico:ed 屏幕上显示当前温度值。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-07.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-07.gif)
 
 
 ## 思考

@@ -2,33 +2,33 @@
 ## 下载并安装Arduino IDE
 Arduino 官方网站上下载最新版本的 Arduino IDE： [https://www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software)，并根据系统选择下载安装。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-01.png)
 ## 软件编程
 下载哪吒A主控盒的库文件[NezhaA-main.zip](https://github.com/elecfreaks/NezhaA/archive/refs/heads/main.zip)下载哪吒A主控盒的依赖库文件[Adafruit_NeoPixel-master.zip](https://github.com/elecfreaks/MuZa/archive/refs/heads/main.zip)打开Arduino IDE 并选择工具-开发板-Arduino Uno。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-02.png)
 
 使用type-c数据线将哪吒A主控盒连接至电脑端。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-03.png)
 
 连接完成后，点击工具-端口，设置硬件连接的端口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-04.png)
 
 点击项目-加载库-添加.ZIP库…。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-05.png)
 
 选择NezhaA-main.zip，添加哪吒A主控盒的库文件。
 
-![添加库文件.PNG]![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-06.png)
+![添加库文件.PNG]![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-06.png)
 
 用同样的方法导入添加哪吒A主控盒的依赖库文件Adafruit_NeoPixel-master.zip。
 ## 硬件连接
 分别将两个电机和两个舵机连接到哪吒A主控盒的M1、M2和S1、S2。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-07.png)
 
 ## 编写程序
 ### 示例一：控制舵机和电机
@@ -59,15 +59,15 @@ void loop() {
 
 点击文件-保存，保存程序文件。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-08.png)
 
 选择保存路径，设置文件名并点击保存。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-09.png)
 
 点击上传按钮，将程序上传至哪吒A主控盒
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-10.png)
 
 ### 结果
 开启电源后，两个电机开始转动，并且两个舵机轮流转动到设定的角度。

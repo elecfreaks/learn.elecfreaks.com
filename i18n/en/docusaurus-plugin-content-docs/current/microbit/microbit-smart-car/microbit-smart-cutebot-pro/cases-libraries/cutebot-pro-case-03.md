@@ -9,7 +9,7 @@ sidebar_label: case 03 Go Square
 
 This course aims to let students learn and explore knowledge points such as car motor control and turning methods by making smart racing cars and applying this knowledge to let the car drive along a square track.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-03-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-03-01.png)
 
 ## Teaching Objectives
 
@@ -39,7 +39,7 @@ The difference between a right-angle turn and an arc turn.
 
 ### Sample Code
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-03-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-03-02.png)
 
 Link：[https://makecode.microbit.org/_A8KcTgaowc6P](https://makecode.microbit.org/_A8KcTgaowc6P)
 

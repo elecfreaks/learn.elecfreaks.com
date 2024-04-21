@@ -7,9 +7,9 @@
 ---
 首先，下面这两张图片是 Ring:bit 智能车的零件图，你可以先熟悉一下零件样式和名称，然后检查你的套件里面是否零件齐全，那我们开始吧。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/assembly01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/assembly01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/assembly02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/assembly02.png)
 
 
 
@@ -20,48 +20,48 @@
 
 首先将舵机使用自攻螺丝安装固定至侧板。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/assembly03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/assembly03.png)
 
 然后将轮子使用自攻螺丝安装固定在舵机。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/assembly04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/assembly04.png)
 
 ### 步骤2
 
 使用铆钉将万向轮安装固定在尾板。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/assembly05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/assembly05.png)
 
 ### 步骤3
 
 将前板、后板、尾板、专用扩展板拼插在侧板上。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/assembly06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/assembly06.png)
 
 ### 步骤4
 
 使用连接柱将小车锁紧。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/assembly07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/assembly07.png)
 
 ### 步骤5
 
 使用平头螺丝将 Pico:ed 主板安装在 Ring:bit 上。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/assembly08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/assembly08.png)
 
 ### 步骤6
 
 按如图接线，连接某个端口可以自定，在编程的时候需要确定。
 此处需注意：接线时，黄色线要对应端口上方标有数字（0/1/2）的位置插入。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/assembly09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/assembly09.png)
 
 ### Completed
 
 将组装好的 Ring:bit 插在前板上，完成组装。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/assembly10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/assembly10.png)
 
 
 恭喜你，经过你高超的组装技巧和持续的努力，终于将 Ring:bit 智能车组装好了。在接下来的课程中，我们一起通过编写代码驱动 Ring:bit 智能车体验全新的旅程吧。

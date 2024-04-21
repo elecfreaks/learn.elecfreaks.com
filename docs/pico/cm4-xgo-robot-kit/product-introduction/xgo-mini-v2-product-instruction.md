@@ -22,33 +22,33 @@ XGO-mini2的电源系统也是非常可靠和安全的。充电器具有过流�
 
 此外，XGO-mini2 支持跨平台图形化编程、Python 编程和 ROS 编程，可以实现丰富的人工智能应用，如人脸检测、物体分类和语音识别等。无论是在家庭娱乐、教育还是研究领域，XGO-mini2 都能够展现出出色的表现和应用潜力。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-mini-index.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-mini-index.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-products-01.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-products-01.gif)
 
 ## 功能描述
 
 1、可实现 AI 边缘计算图形化编程，例如人脸检测，物体分类，语音识别等常用程序。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-products-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-products-06.png)
 
 
 
 2、可实现全向移动，六维姿态控制，多种运动步态及运动叠加，内置陀螺仪，可保持身体自平衡。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-products-05.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-products-05.gif)
 
 
 
 3、产品配套跨平台图形化和 Python 编程云平台，有相关配套课程。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-products-04.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-products-04.gif)
 
 
 
 4、伺服舵机具有关节角度回读功能，允许它记住每个动作的关节位置并执行你设计的动作组，可用于示教编程。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-products-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-products-02.gif)
 
 ## 产品特性
 
@@ -82,7 +82,7 @@ XGO-mini V2 的主体结构是由厚度为1.5mm铝合金结构件，小腿和总
 
 - 18650 2S电池通过魔术贴粘在驱动板上，充电孔固定在底板。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-overview-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-overview-03.png)
 
 
 
@@ -90,7 +90,7 @@ XGO-mini V2 的主体结构是由厚度为1.5mm铝合金结构件，小腿和总
 
 AI 模组采用树莓派 CM4 技术方案，配有 2.0 寸 IPS 彩色显示屏幕和 4 个可编程按键，500 万像素摄像头,数字麦克风及腔体扬声器，是一款拥有人机交互能力的 AI 终端，可以实现图像识别，人脸检测，语音识别等功能，帮助学生学习 AI 知识。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-index-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-index-03.png)
 
 ## XGO-mini2 驱动板
 
@@ -115,4 +115,4 @@ XGO-mini2 选用 6V 4.5KG.CM 金属壳钢齿 360 度磁编码双轴 TTL 串口�
 
 由直流空心杯电机、减速齿轮组、12位磁编码器和集成控制电路组成，自带闭环控制与规划算法，高速总线通讯，360度角度可控，支持速度、位置、电流、温度反馈与控制参数调整功能，为机器人提供高性能伺服驱动 。定制的关节提供了 PID 参数调节，优化了关节阻抗特性（柔顺性），在基本的运动学步态规划基础上，结合对重心的考虑和IMU的反馈，以及上层控制指令的要求，可进行实时的调整。同时采用了大速比，高效率的减速器，保证了柔顺性的同时，提高了负载自重比。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-overview-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-overview-06.png)

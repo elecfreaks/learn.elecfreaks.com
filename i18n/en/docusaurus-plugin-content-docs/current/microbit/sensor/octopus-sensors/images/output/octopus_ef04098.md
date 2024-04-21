@@ -4,7 +4,7 @@
 
  This is a colorful strip based on WS2812B beads, it can display the color of RGB and support multiple cascade at the same time.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/04098_0.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04098_0.jpg)
 
 ## Products Link
 
@@ -33,7 +33,7 @@
 ## Outlook and Dimensions
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/04098_2.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04098_2.png)
 
 
 ## Quick to Start
@@ -42,20 +42,20 @@
 
  Connect to the P1 port of the extension board.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/04098_5.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04098_5.png)
 
 ### Add Package
 
 Click "Advanced" in MakeCode to check more choices.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
 
 Click "Extensions", and search "`neopixel`" in the dialogue box to download the codebase of LED beads.
 
 
 ### Programme as the Picture Shows
 
-  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/04098_3.png)
+  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04098_3.png)
 
 ### Reference
 

@@ -1,6 +1,6 @@
 # case 15 Maze Runner
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/NU4ZMjg.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NU4ZMjg.jpg)
 
 Can you make it through all levels?
 
@@ -28,7 +28,7 @@ We’re going to create a maze game where you must navigate a series of mazes wi
 - 2 x F-F Jumper Wires
 - 1 x ADKeypad
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/MFban0p.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/MFban0p.gif)
 
 
 ## How to Make
@@ -39,7 +39,7 @@ Plug in Buzzer to Pin0. Connect the positive lead to the yellow signal pin and t
 
 Plug in the ADKeypad to Pin1. Match wire colors to pin colors on the breakout board!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/K9JjTzn.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/K9JjTzn.jpg)
 
 
 ### Step 2
@@ -54,7 +54,7 @@ So let’s set these up. Inside ‘on start’ event, we (optionally) play a mel
 
 What do we set these variables to? We start at level 1 (of course), and we set gameOn to True because when we power on the micro:bit, we want to start the game right away. We can choose any starting point for our player location, but we’ll need to remember this location later on when we set up our maze level (we don’t want the player to start inside a wall!). In this example, I choose to start the player at x=0 and y=3.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/KQSw1s0.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/KQSw1s0.png)
 
 
 ### Step 3
@@ -67,7 +67,7 @@ We use the playerx and playery variables that we created above. Why? If we typed
 
 Remember the pause block is in milliseconds (so 300 ms = .3 seconds)! You can customize the speed at which it flashes by modifying the length of the pause.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/gXqB9qe.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/gXqB9qe.png)
 
 
 ### Step 4
@@ -82,7 +82,7 @@ Now you’ll see something new in MakeCode – a bright green Tinkercademy categ
 
 Inside this category you’ll find blocks to sense button press on the ADKeypad. Note that importing this package only happens in the current project. So if you start a new project and want to use the category, you’ll need to re-import it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Lrkqlkd.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Lrkqlkd.png)
 
 
 ### Step 5
@@ -95,7 +95,7 @@ To move the player, we simply change the player x or player y variables. Remembe
 
 We need to add a short 300ms pause after each button pressed, otherwise the player would move many spaces every time you pressed a button because the program runs so fast.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/m8bz9Sn.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/m8bz9Sn.png)
 
 
 ### Step 6
@@ -123,7 +123,7 @@ Second, we set the starting position of the player for the next level (in this e
 Third, we show a smile face to tell the player they succceeded!
 And fourth, we change the level variable by 1 (this will cause the next level to display).
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/GKCRdUQ.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/GKCRdUQ.png)
 
 
 ### Step 7
@@ -134,7 +134,7 @@ Inside a forever loop, we use an if statment to check the value of the ‘gameOn
 
 In this example, we play a sad melody in the background, reset the ‘level’, unplot the player LED, show an angry face, and finally display a string telling the player they can press B to restart the game.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/c2rRjIV.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/c2rRjIV.png)
 
 
 ### Step 8
@@ -143,7 +143,7 @@ Speaking of pressing B to restart the game, we haven’t yet created the code to
 
 Inside a forever loop, we test if button B on the ADKeypad is pressed. If it is, we want to set ‘level’ to 1, reset the player’s starting location by setting the ‘playerx’ and ‘playery’ variables to 0 and 3 respectively, and set the ‘gameOn’ variable back to ‘true’.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/bEAcQNv.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/bEAcQNv.png)
 
 
 ### Step 9
@@ -157,15 +157,15 @@ sometimes it can be complicated to create if statements to test for every wall. 
 
 One thing to watch out: after the player has completed a level, you have to reset its playerx and playery variables, making sure the position matches your next level. Otherwise it would start inside a wall!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/AuDRgkb.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Sf61L7z.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AuDRgkb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Sf61L7z.png)
 
 
 ### Step 10
 
 Once you have done this, you can optionally create a victory section. In this example, once the player have successfully completed the first 3 levels and level equals 4, we unplot the player by playing a victory melody in the background, and showing a victory message!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/urHVo35.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/urHVo35.png)
 
 
 If you don't want to type these code by yourself, you can download directly from the link below:

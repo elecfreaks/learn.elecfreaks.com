@@ -1,7 +1,7 @@
 # Case 07:Temperature Sensor
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0701.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0701.png)
 
 ## Introduction
 
@@ -29,7 +29,7 @@ The temperature sensor is a kind of sensor that can detect temperature and trans
 n x Breadborad Jumper Wire 65pcs Pack
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/starter-kit01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/starter-kit01.png)
 
 
 
@@ -38,18 +38,18 @@ n x Breadborad Jumper Wire 65pcs Pack
 ### TMP36
 TMP36 is a kind of analog temperature sensor. Its output voltage and temperature forms a linear relationship. That means higher temperature will have bigger output voltage.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0702.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0702.png)
 
 **Note：**
 When we look at the front side marked “TMP36”, the left side pin of the chip is VCC, middle is Vout, and the right side pin is GND. Do not connect it wrong or the components connected might be damaged.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0703.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0703.png)
 
 Here’s the curve chart for output voltage of TMP36 changing with temperature:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0704.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0704.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0705.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0705.png)
 
 We can know from the above chart that the temperature formula is:
 
@@ -63,7 +63,7 @@ Connect your components according to the picture below:
 
 1. Connect the sensor to P0 port of the breadboard adapter.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case07.png)
 
 You would see as below after you finish the connection:
 

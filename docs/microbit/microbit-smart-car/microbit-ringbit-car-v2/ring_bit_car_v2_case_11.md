@@ -45,7 +45,7 @@ sidebar_label: 游戏手柄控制小车行驶
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2qCyzQ7.png)
 
 
 
@@ -58,7 +58,7 @@ sidebar_label: 游戏手柄控制小车行驶
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/1Wq2Mov.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1Wq2Mov.jpg)
 
 
 
@@ -79,7 +79,7 @@ sidebar_label: 游戏手柄控制小车行驶
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/Ringbit_Bricks_Pack_case_cn_07_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_cn_07_05.png)
 
 ### 程序
 
@@ -116,7 +116,7 @@ sidebar_label: 游戏手柄控制小车行驶
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/Ringbit_Bricks_Pack_case_cn_07_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_cn_07_06.png)
 
 
 
@@ -135,7 +135,7 @@ X轴和Y轴的数值范围为0~1023，当摇杆位置在中心的时候，它的
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/Ringbit_Bricks_Pack_case_cn_07_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_cn_07_07.png)
 
 
 

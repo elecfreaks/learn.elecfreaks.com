@@ -6,7 +6,7 @@ Use the accelerometer in another micro:bit to remote control the Cutebot for the
 
 Both of the micro:bit need to be programmed.
 
-``![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-12-01.png)``
+``![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-12-01.png)``
 
 ## Materials
 
@@ -26,11 +26,11 @@ Both of the micro:bit need to be programmed.
 
 Click the "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-1.png)
 
 A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-11.png)
 
 ***Note:*** If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
@@ -44,7 +44,7 @@ Set `y` whose value is given by "acceleration (mg) y" exactly divides `10` to th
 
 The scope of the acceleration value is `0`~`1024` , which can be regarded roughly as the speed value in `0`~`100` after dividing `10`.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_12_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_12_01.png)
 
 ### Programming
 
@@ -83,7 +83,7 @@ If the radio received value `name` is `y`, it is the data for `y` and then save 
 
 In `forever` brick, set the left wheel speed to `yValue`+`xValue` and right wheel speed to `yValue`-`xValue`.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_12_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_12_02.png)
 
 ### Programming
 
@@ -116,7 +116,7 @@ The moving direction of the Cutebot is controlled by the tilt degree of the micr
 
 The tilt angle of the controlling micro:bit controls the speed of the Cutebot
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-12.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-12.gif)
 
 ## Exploration
 ---

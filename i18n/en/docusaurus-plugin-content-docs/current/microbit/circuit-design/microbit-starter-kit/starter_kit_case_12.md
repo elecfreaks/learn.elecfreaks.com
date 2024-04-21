@@ -1,6 +1,6 @@
 ﻿# Lesson 12 Accelerometer
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/5RJ1KJn.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/5RJ1KJn.jpg)
 
 ## Introduction
 
@@ -19,7 +19,7 @@ micro:bit has integrated multiple sensors including accelerometer. Today, we are
 
 ***Tips: If you want all components above, you may need Elecfreaks Micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html) .***
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/W4tseua.jpg)
 
 ## Major Component Introduction
 
@@ -27,11 +27,11 @@ micro:bit has integrated multiple sensors including accelerometer. Today, we are
 
 There is an accelerometer on your micro:bit which detects the speed change of micro:bit. It converts analog information into digital form that can be used in micro:bit programs. Output is in milli-g. The device will also detect a small number of standard actions, e.g. shake, tilt and free-fall.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/kzqAOK4.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/kzqAOK4.jpg)
 
 The corresponding X, Y, Z axle direction of accelerometer are showed below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/FQ6zBkH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FQ6zBkH.jpg)
 
 ## Experimental Procedure
 
@@ -40,40 +40,40 @@ Connect your components according to the picture below:
 
 - Connect the signal wire of the LED ring to the P0 port of the breadboard adapter.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/NPvcrUo.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NPvcrUo.jpg)
 
 After connection, we can see:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/SOD2TLb.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/SOD2TLb.jpg)
 
 ### Software Programming
 
 Click to open Microsoft Makecode, write the following code in the editor.(https://makecode.microbit.org/)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/JHZUvh2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JHZUvh2.png)
 
 ### Add Package
 
 Click "Advanced"in the choice of the MakeCode to find more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/smtcNoB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
 
 Click "Extensions", search "neopixel"in the dialog box and then download the "neopixel".
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/umQwUC2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/umQwUC2.png)
 
 ### Program as the picture shows:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/bGPUFxy.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/bGPUFxy.png)
 
 ### Details for the code:
 - Set P0 port as the pin for LED beads and set it in RGB mode, then light on all the LED.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/NcVWUhr.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NcVWUhr.png)
 
 - Set the color of the light is changed with the accelerated speed.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/GBBTLVt.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/GBBTLVt.png)
 
 ### Reference
 Links:[https://makecode.microbit.org/_0Y07f36Y77sa](https://makecode.microbit.org/_0Y07f36Y77sa)
@@ -104,7 +104,7 @@ You can also download the links directly:
 
 The RGB LED ring lights on in different color with the movement of the micro:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/iq9Hxs0.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iq9Hxs0.gif)
 
 
 ## Exploration

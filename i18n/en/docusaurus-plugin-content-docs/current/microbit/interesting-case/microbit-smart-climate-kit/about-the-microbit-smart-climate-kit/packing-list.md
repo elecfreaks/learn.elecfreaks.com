@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: Packing List
 ---
@@ -25,4 +25,4 @@ R4080 Rivets × 20
 
 USB Cable × 1
 
-![](./images/smart-weather-station-kit-packing-list-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-packing-list-01.png)

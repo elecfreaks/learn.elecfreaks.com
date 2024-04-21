@@ -1,8 +1,8 @@
-# AI摄像头控制吸管机械手
+﻿# AI摄像头控制吸管机械手
 
 
 
-![](./images/straw-manipulator-26.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/straw-manipulator/images/straw-manipulator-26.gif)
 
 
 
@@ -16,7 +16,7 @@
 
 ## 所需材料
 ---
-![](./images/straw-manipulator-08-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/straw-manipulator/images/straw-manipulator-08-1.png)
 
 ## 组装步骤
 ---
@@ -28,31 +28,31 @@
 
 1、首先使用3颗黑销插入孔壁圈上并将15孔梁安装到黑销上面，如图所示：
 
-![](./images/straw-manipulator-27.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/straw-manipulator/images/straw-manipulator-27.png)
 
 2、将13孔梁以及黑销按如图所示安装：
 
-![](./images/straw-manipulator-28.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/straw-manipulator/images/straw-manipulator-28.png)
 
 3、将H型孔壁按如图所示安装：
 
-![](./images/straw-manipulator-29.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/straw-manipulator/images/straw-manipulator-29.png)
 
 4、将AI摄像头和RJ11转杜邦线按如图所示连接，注意：RJ11连接悟空扩展板的连接顺序如图所示：
 
-![](./images/straw-manipulator-30.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/straw-manipulator/images/straw-manipulator-30.png)
 
 ## 开始编程
 ---
 micro:bit编程是使用 [Makecode](https://makecode.microbit.org) 编程平台，关于添加悟空扩展库和编程方法，参考上一篇案例文档：[吸管机械手](https://www.elecfreaks.com/learn-cn/microbitKit/straw-manipulator/How-to-use-the-microbit-to-control-the-straw-manipulator.html)。
 
-![](./images/straw-manipulator-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/straw-manipulator/images/straw-manipulator-18.png)
 
 ### 初始化
 
 本教程所使用的初始化状态是：0度代表“手指”完全伸展，180度代表“手指”弯曲，所以，在开始正式编程之前要将舵机角度调整到0度。将单摆臂取下，使用 [Makecode](https://makecode.microbit.org) 编程如下程序代码，同时也可以直接下载下方程序。
 
-![](./images/straw-manipulator-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/straw-manipulator/images/straw-manipulator-17.png)
 
 程序代码：
 
@@ -84,7 +84,7 @@ micro:bit编程是使用 [Makecode](https://makecode.microbit.org) 编程平台�
 
 
 
-![](./images/straw-manipulator-2-5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/straw-manipulator/images/straw-manipulator-2-5.png)
 
 
 

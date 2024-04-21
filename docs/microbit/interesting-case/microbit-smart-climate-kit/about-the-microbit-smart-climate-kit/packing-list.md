@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: 产品清单
 ---
@@ -25,4 +25,4 @@ R4080铆钉 × 20
 
 USB数据线 × 1
 
-![](./images/smart-weather-station-kit-packing-list-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-packing-list-01.png)

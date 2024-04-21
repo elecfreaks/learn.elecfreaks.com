@@ -5,7 +5,7 @@
 
 Ring:bit扩展板是基于micro:bit的简易模块。可以从micro:bit主板引出3个IO口，3个电源接口和3个地线接口。我们会用这个模块将P0/P1/P2接口转换为通用接口，适用于GVS接口。将P2接口扩展为GVS接口,创建有更多功能。Ring:bit扩展板上有一个可滑动的小开关。将开关拨到“S”，你就可以同时连接SR和SL2（数据信号模块）；将开关拨到“P2”，你可以选择连接数据模块，或者仿真模块（两者不可同时进行）。Ring:bit扩展板需用3节7号电池供电。这是一个实用简单好操作的扩展板，你可以用它操作各种GVS模块，如舵机，巡线模组及LED灯等。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/eEXC15e.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/eEXC15e.png)
 
 ## 硬件
 ---
@@ -40,9 +40,9 @@ Ring:bit扩展板是基于micro:bit的简易模块。可以从micro:bit主板引
 
 ### 连接器
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/MT6Y00d.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/MT6Y00d.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/mZ7nrlT.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/mZ7nrlT.png)
 
 
 ### 接口相关信息
@@ -51,51 +51,51 @@ Ring:bit扩展板是基于micro:bit的简易模块。可以从micro:bit主板引
 
 将开关拨动到S那端，表示与P2口连接的 SR和SL接通。同时，你可以将2个GVS模块分别连接至G-V-SR和G-V-SL。将开关拨动P2那端，表示只可用P2接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/fMOf2AN.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/fMOf2AN.png)
 
 #### G-V-S P2 connector 接口
 
 只有当开关拨动到P2端，以下2个连接器才可以使用。可与部分八爪鱼扩展板兼容。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/A88Nuff.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/A88Nuff.png)
 
 #### G-V-S SR/SL Connector 接口
 
 只有当开关拨动到S端，以下2个连接器才可以使用。可与部分八爪鱼扩展板兼容。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/4rhdleo.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/4rhdleo.png)
 
 #### 代码示例
 
 迷你小象车巡线电路
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/vglmizE.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/vglmizE.png)
 
 安装micro:bit主板
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/YVe6tRc.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/YVe6tRc.png)
 
 #### G-V-S P0 Connector 接口
 
 P0接口可作为数码IO口使用，模拟IO口或PWM输出信号。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/aBCvSfZ.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/aBCvSfZ.png)
 
 ### 参数
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/bsWtEid.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/bsWtEid.png)
 
 ## 软件
 
 组装micro:bit主板和舵机
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/C250Lyj.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/C250Lyj.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/6Cvdniy.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/6Cvdniy.png)
 
 编码示例
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/LPoVRtu.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/LPoVRtu.png)
 
 三个舵机先顺时针旋转，暂停1秒后逆时针旋转，再1秒后顺时针旋转。此代码嵌入“forever”指令中。
 

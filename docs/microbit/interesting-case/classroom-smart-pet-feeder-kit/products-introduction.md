@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: 产品介绍
 ---
@@ -11,4 +11,4 @@ sidebar_label: 产品介绍
 
 这款智能宠物喂食器旨在培养中小学生的创新能力和动手实践能力，同时通过编写程序控制喂食器的工作，加深学生对编程知识的理解。此外，这个案例还有利于培养学生们关爱宠物的意识，让他们更加关心和照顾家中的小动物。
 
-![](./images/microbit-smart-maker-kit-pet.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-pet-feeder-kit/images/microbit-smart-maker-kit-pet.png)

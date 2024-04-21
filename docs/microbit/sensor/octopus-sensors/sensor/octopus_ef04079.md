@@ -4,7 +4,7 @@
 ---
 Octopus TMP36温度传感器模块是一种温度传感器，具有低电压和精确的摄氏读数。 它可以提供电压输出，与摄氏温度形成线性关系
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/zqYYROQ.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/zqYYROQ.jpg)
 
 ## 特性
 ---
@@ -28,7 +28,7 @@ SKU|EF04079
 ## 外形与定位尺寸
 ---
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/cdNd1Kw.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cdNd1Kw.png)
 
 ## 快速上手
 ---
@@ -38,16 +38,16 @@ SKU|EF04079
 
 ***以sensor:bit为例***
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/bLgrtiX.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/bLgrtiX.png)
 
 ### 添加Package
 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
 
 点击“Extensions”，在弹出的对话框中搜索“smarthome"，下载smarthome代码库。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04079_02.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04079_02.png)
 
 
 
@@ -59,7 +59,7 @@ SKU|EF04079
 
 3.显示相关的温度
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04079_01.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04079_01.png)
 
 ### 参考程序
 ---

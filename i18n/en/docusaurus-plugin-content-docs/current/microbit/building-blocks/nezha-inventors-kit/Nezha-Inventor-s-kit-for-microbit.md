@@ -6,8 +6,8 @@ Based on Planet X sensors, [Nezha Inventor's Kit](https://www.elecfreaks.com/nez
 
 Make each kid be an inventor from [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html?_pos=2&_sid=ed1b6fbd2&_ss=r)!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/Nezha-Inventors-kit-for-microbit-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Nezha-Inventors-kit-for-microbit-01.png)
 
 ## Packing List
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/Nezha-Inventors-kit-for-microbit-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Nezha-Inventors-kit-for-microbit-02.png)

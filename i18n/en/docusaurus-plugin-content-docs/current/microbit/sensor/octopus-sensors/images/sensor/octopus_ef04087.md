@@ -35,7 +35,7 @@ Temperature Tolerqance|±0.5℃ Max:±1℃；Resolution: 0.1℃
 Size|31 x 23 mm
 
 ### Outlook and Dimensions
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/ZCHyqrg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ZCHyqrg.png)
 
 ## Quick to Start
 
@@ -43,7 +43,7 @@ Size|31 x 23 mm
 
 Connect the sensor to I2C connector on octopus:bit using a jumper cable. Insert micro:bit into the octopus:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/TGFmmNb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TGFmmNb.png)
 
 ### Software Programming
 
@@ -53,13 +53,13 @@ Test the air pressure value and show it on the micro:bit.
 #### Add Package
 Click "Advanced"in the choice of the MakeCode to find more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/LjMR5IU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/LjMR5IU.png)
 
 Click "Add Package", search "weather"in the dialog box and then download weather-bit.
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/2pzeQRn.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2pzeQRn.png)
 
 Program as the picture shows and read the air pressure value:  
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/uzGqxBD.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/uzGqxBD.png)
 
 #### Links:
 [https://makecode.microbit.org/_cPih8ybrDXuz](https://makecode.microbit.org/_cPih8ybrDXuz)

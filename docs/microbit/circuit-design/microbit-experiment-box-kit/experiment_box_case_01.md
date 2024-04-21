@@ -6,13 +6,13 @@ LED灯的应用非常广泛。在日常生活中，我们看到的大部分信�
 
 ## 硬件连线图 ##
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/jGkCj0K.png)、
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/jGkCj0K.png)、
 
 - 使用香蕉线按如上图连接电路，电池盒内放入2颗7号AAA电池。
 
 ## 电路原理图 ##
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/5DImBjP.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/5DImBjP.png)
 
 - micro:bit插槽的GND端和电池GND相连内部，形成电流回路。
 - 当P0端口数字写入1，也就是高电平，电路接通，LED灯亮起。
@@ -24,7 +24,7 @@ LED灯的应用非常广泛。在日常生活中，我们看到的大部分信�
 - LED是Light Emitting Diode（发光二极管）的缩写。这是一种半导体二极管。它可以将电能转换成光能。当电流经过的时候，它就会发光。
 - 在实验箱板子上我们配备了1颗红色的LED。左边黑色端口为负极，右边红色端口为正极。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/ks4hn2r.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ks4hn2r.png)
 
 *- 连线时注意正负极。*
 
@@ -32,7 +32,7 @@ LED灯的应用非常广泛。在日常生活中，我们看到的大部分信�
 - 电阻是一种用于控制电流的元件。它可以限制所连接的电路的电流。电阻不分正负极
 - 在实验箱中配备了3颗100 Ω电阻和1颗10KΩ电阻。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/fv1fyJm.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/fv1fyJm.png)
 
 - 在LED灯的电路中串联一个100Ω电阻以限流，如果不限制电流的话，可能会造成LED的损坏。
 
@@ -44,17 +44,17 @@ LED灯的应用非常广泛。在日常生活中，我们看到的大部分信�
 
 - 点击New Project按钮，新建一个项目。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t34k5Zb.png)
 
 ### 步骤 2
 
 - 首先在forever积木块中插入，向P0口数字写入1 积木块，以点亮LED灯，然后暂停500ms；
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/VOh783L.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VOh783L.png)
 
 - 再在后边插入，向P0口数字写入0 积木块，以关闭LED灯，然后暂停500ms；
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/D08SzOj.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/D08SzOj.png)
 
 ### 程序
 
@@ -87,7 +87,7 @@ LED灯的应用非常广泛。在日常生活中，我们看到的大部分信�
 ---
 - 打开开关，LED灯开始闪烁。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/KN0xKqX.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/KN0xKqX.gif)
 
 ## 思考
 ---

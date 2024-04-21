@@ -4,7 +4,7 @@ sidebar_label: 案例10 - 吃骨头的 XGO
 ---
 # 案例10 - 吃骨头的 XGO
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-case10-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-case10-01.png)
 
 ## 介绍
 
@@ -27,23 +27,23 @@ sidebar_label: 案例10 - 吃骨头的 XGO
 
 我们使用数据线（USB 线）将电脑与 micro:bit 相连，相信你已经很熟练了。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-22.png)
 
 ## MakeCode 编程
 
 XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进行; Makecode平台可以使用图形化编程，同时还可以使用python代码编程和JavaScript代码编程；
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-10.png)
 
 ### 步骤一
 
 - 新建项目，命名程序名后点击积木库中的**扩展**按钮，如下：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-12.png)
 
 - 在输入框输入：XGO 或者 XGO Robot Kit 搜索到 xgo 扩展库，如下：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-13.png)
 
 **_注意:_** 如果您遇到提示某些代码库由于不兼容而将被删除的提示
 
@@ -53,21 +53,21 @@ XGO 的程序编写是在 [Makecode](https://makecode.microbit.org/#) 平台进�
 
 #### XGO 程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-case10-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-case10-02.png)
 
 同时，可以直接下载下方程序：
 [https://makecode.microbit.org/_Lhrhbp7dDb1M](https://makecode.microbit.org/_Lhrhbp7dDb1M)
 
 #### “骨头”程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-case10-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-case10-03.png)
 
 同时，可以直接下载下方程序：
 [https://makecode.microbit.org/_dLc2HV21M64H](https://makecode.microbit.org/_dLc2HV21M64H)
 
 ### 效果演示
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-case10-04.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-case10-04.gif)
 
 ### 相关问题
 

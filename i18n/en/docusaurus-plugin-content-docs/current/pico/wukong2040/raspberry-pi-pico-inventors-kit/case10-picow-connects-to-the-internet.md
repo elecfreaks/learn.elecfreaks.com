@@ -5,7 +5,7 @@ sidebar_label: Case 10 Pico W connected to the Internet
 
 # Case 10 Pico W connected to the Internet
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case10-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case10-01.png)
 
 ## Introduction
 
@@ -48,15 +48,15 @@ The Raspberry Pi Pico W is a Raspberry Pi Pico-based microcontroller board that 
 
 The first thing to understand is that the Raspberry Pi Pico W is different from the CircuitPython UF2 file for the Raspberry Pi Pico. You need to download the latest Pico W UF2 file from the CircuitPython official website, as shown in the figure below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case15-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case15-04.png)
 
 
 
 Press and hold the BOOTSEL button on the Rasberry Pi Pico W and connect it to the computer with a USB cable. The RPI-RP2 disk will appear in the computer file explorer, just drag the UF2 file you downloaded to this disk, and the disk will become a disk named CIRCUITPY.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-program-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-program-06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-program-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-program-18.png)
 
 ### settings.toml file settings
 
@@ -71,7 +71,7 @@ DEMO_WIFI_PASSWORD = "elecfreaks2023"  # WiFi Password
 
 CIRCUITPY Disk：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case15-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case15-06.png)
 
 ### Access settings.toml information in code.py
 
@@ -84,7 +84,7 @@ print(os.getenv("DEMO_WIFI_SSID"))
 print(os.getenv("DEMO_WIFI_PASSWORD"))
 ```
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case15-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case15-05.png)
 
 ### Basic WiFi Test Validation
 
@@ -106,7 +106,7 @@ ipv4 = ipaddress.ip_address("8.8.4.4")
 print("Ping google.com: %f ms" % (wifi.radio.ping(ipv4) * 1000))
 ```
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case15-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case15-07.png)
 
 ## Think
 

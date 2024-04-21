@@ -1,6 +1,6 @@
 # case 23 Snake Game
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/jzfY1Q6.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/jzfY1Q6.jpg)
 
 Anyone remembers the Snake game that used to come with old Nokia phones? This micro:bit version in glorious 5×5 resolution is easy to make and fun to play!
 
@@ -9,7 +9,7 @@ Anyone remembers the Snake game that used to come with old Nokia phones? This mi
 
 In this step by step guide, we will build a snake game from scratch, handling controls, movement, win and lose conditions, as well as the drawing of the game board.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/97tlh6l.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/97tlh6l.gif)
 
 ## Materials
 ---
@@ -64,7 +64,7 @@ All necessary libraries for the project.
 
 Since the project is a fairly simple one, we just need the default micro:bit library and this nifty function called randint that produces the random numbers we need.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/K6mVRAt.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/K6mVRAt.png)
 
 
 ### Step 2 – Initialize
@@ -75,7 +75,7 @@ A point on the board is represented by a list [x, y] with x representing the col
 
 Each direction is represented by a list containing an increase/decrease in the column, or increase/decrease in the row (In essence, a vector). For example, right is represented by [1, 0] – an increase in the column by one, and no increase in the row. The snake is moving right by default, which is the first option in the list of directions. For the snake to turn leftwards, we simply go to the next direction in the list (right -> up -> left -> down -> right). For the snake to turn rightwards, we go to the previous direction in the list.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/NKceck9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NKceck9.png)
 
 
 ### Step 3 – Create
@@ -84,7 +84,7 @@ The main loop.
 
 The code within the loop repeats an infinite number of times, or until the loop is broken. Remember, this is Python, so all subsequent lines will have to be indented.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/h67k1b0.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/h67k1b0.png)
 
 
 ### Step 4 – Display
@@ -93,19 +93,19 @@ The snake and the food.
 
 First, we clear the display of anything that was previously drawn, so that we start with a blank slate. Next, we draw the food particle as a bright light on the display. After that, we loop through the snake list and draw every single pixel at medium brightness. Then, the program pauses for 0.8 second before redrawing the screen again.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/LFOxrrV.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/LFOxrrV.png)
 
 Run the code!
 It is important to constantly check that everything is as it should be. At this point, there should be two pixels on the board lighting up on the board. Press the reset button and the food particle will move to a different location.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/scaxgXR.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/scaxgXR.gif)
 
 
 ### Step 5 – Move
 
 The snake and figure out what happens next.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Md7Cw2s.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Md7Cw2s.png)
 
 The whole code should be placed on top of the previous display code. (See completed code for reference). The first line determines the next pixel the snake will move to. Based on the current location of the head of the snake and adding the direction (in terms of row and column), we can find the next pixel. By obtaining the modulo 5, we can wrap the snake around the edge of the board.
 
@@ -116,16 +116,16 @@ The next block is now made the new head of the snake. Next, we check if a piece 
 Run the code!
 Become infuriated as you realize that there is no way to win the game.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/QB2mtTE.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/QB2mtTE.gif)
 
 ### Step 6 – Win the game!
 
 This code should be placed on top of the display code, but below the movement code. (See completed code for reference). What it does it continually check if the snake contains twenty five pixels, which is the entire board. If that is the case, the player wins!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/HT3NoFN.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/HT3NoFN.png)
 
 ### Congratulations!
 
 Enjoy your fully functional snake game.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/4KFsrSE.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/4KFsrSE.gif)

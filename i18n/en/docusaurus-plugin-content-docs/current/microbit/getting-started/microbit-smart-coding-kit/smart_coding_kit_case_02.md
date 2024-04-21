@@ -12,7 +12,7 @@
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_02_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_case_02_01.png)
 
 
 
@@ -28,7 +28,7 @@
  Drag out an `on shake` block from `input`. Create a variable `num` and assign value to this variable with a random number among 1-6.
  Insert a `if` block. If the picked random number is 0, then display one point. If the random number is 2, then display two points. And so on.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_02_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_case_02_02.png)
 
 
 

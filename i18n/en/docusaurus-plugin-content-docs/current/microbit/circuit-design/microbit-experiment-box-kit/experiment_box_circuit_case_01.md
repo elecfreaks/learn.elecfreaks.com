@@ -11,7 +11,7 @@ We are going to use the experiment box to finish a pure circuit design and to co
 ## Hardware Connect ##
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/yz5xnRg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/yz5xnRg.png)
 
  Connect the circuit as above picture and put 2 AAA batteries into the batteries pack.
 
@@ -21,7 +21,7 @@ We are going to use the experiment box to finish a pure circuit design and to co
  The button switch means touch switch. It is a kind of electronic switch and it be classified into electronic components.When it is used, it needs to meet the operating force, the pressure switch function is closed and the switch function is closed. When the pressure is released, the switch is disconnected. Its internal construction switching is by metal shrapnel forces.
  The button switch is shown in the schemetics as below picture.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/a7hZ4QV.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/a7hZ4QV.jpg)
 
 
 ### LED ###
@@ -29,19 +29,19 @@ We are going to use the experiment box to finish a pure circuit design and to co
  LED, lightemitting diode, is a kind of LED semiconductor diode which can transfer electric energy to luminous energy. The luminous diode is same as diode which is consistuded by one PN and with unilateral conductivity. Please note that when using the diode, the positive and negative poles should be strictly distinguished, and the positive pole should be grounded to the negative pole of the power supply. Otherwise, the diode will be reversely broken and the component will be damaged.
  The LED is shown in the schemetics as below picture.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/X7Q3maG.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/X7Q3maG.jpg)
 
 ### Resistor ###
 
  The resistor is a current limiting element which always be calld resistance. When it installed into the circuit, it can limit the value of the current. The ideal resistor is the linear resistor. That is, the instantaneous current through the resistor is proportional to the applied instantaneous voltage. It is the ohm's law (The current through a conductor between two points is directly proportional to the voltage across the two points. )
  The ohm law is shown in the schemetics as below picture.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/97GAPYc.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/97GAPYc.png)
 
 ## Circuit Analysis ##
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/QjQIE0O.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/QjQIE0O.png)
 
  The voltage of two AAA batteries is 3v, so the nominal voltage is 3v. The nominal operating current of the LED is 30mA. According to the ohm law, the resistance value is 100Ω. Therefore, it is need to install a 100Ω resistance to limit the current. Otherwise, excessive current will cause a burnout of the LED. 
  When the button pressed, the circuit connects and the LED lights up. 

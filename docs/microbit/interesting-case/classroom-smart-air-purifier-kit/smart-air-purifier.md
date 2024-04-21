@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 4
 sidebar_label: 智能空气净化器
 ---
@@ -9,7 +9,7 @@ sidebar_label: 智能空气净化器
 
 灰尘传感器能够实时检测室内空气中的灰尘浓度，并将数据传输给 micro:bit。当灰尘浓度超过设定的阈值时，micro:bit 会发出信号，控制电机风扇启动。电机风扇被安装在小房子的一侧，当接收到信号后，它会自动启动并开始吹拂室内空气。通过风扇的运转，室内的空气得以循环流动，从而有效净化室内空气，提高空气质量。
 
-![](./images/microbit-smart-maker-kit-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-01.png)
 
 ## 课前准备
 
@@ -94,7 +94,7 @@ sidebar_label: 智能空气净化器
 
 将灰尘传感器的 LED IN 连接 IOT:bit  的 P1端口,OUT 连接 P2 端口，电机风扇连接 P3 端口。
 
-![](./images/microbit-smart-maker-kit-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-02.png)
 
 ## 开始编程
 
@@ -102,23 +102,23 @@ sidebar_label: 智能空气净化器
 
 本案例的控制程序将在 micro:bit 官方编程平台：MakeCode上完成编写。请点击并打开 MakeCode 官方链接：https://makecode.microbit.org/。如下图所示：
 
-![](./images/microbit-smart-maker-kit-case02-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-case02-02.png)
 
 
 
 第一步需要新建项目文件，请点击“New Project”，输入项目名称并点击“Create”。
 
-![](./images/microbit-smart-maker-kit-case02-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-case02-03.png)
 
 
 
 第二步需要添加 iot-environment-kit 库文件，点击积木库列表中的"Extensions"，输入“iot-environment-kit”搜索并添加。在返回的编程界面中看到已经将 iot-environment-kit 库文件添加成功。
 
-![](./images/microbit-smart-maker-kit-case02-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-case02-04.png)
 
 ### 编程示例
 
-![](./images/microbit-smart-maker-kit-case02-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-air-purifier-kit/images/microbit-smart-maker-kit-case02-05.png)
 
 
 
@@ -126,7 +126,7 @@ sidebar_label: 智能空气净化器
 
 ## 案例演示
 
-![](./images/smart-maker-kit-demo.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-air-purifier-kit/images/smart-maker-kit-demo.gif)
 
 ## 思考
 

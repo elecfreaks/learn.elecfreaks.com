@@ -30,11 +30,11 @@
 
 Click **Advanced** in the code drawer of MakeCode to see more options.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/LjMR5IU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/LjMR5IU.png)
 
 To program for motor:bit, we have to add a package. Find **Add Package** in the bottom of code drawer and click it. This will pop up a dialogue box. Search for "motorbit" and then click to download this package.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/XDlSfIS.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/XDlSfIS.png)
 
 ***Note:*** If you get a hint that some packages will be deleted due to the problem of incompatibility, you can either follow the prompts, or create a new project in the project menu.
 
@@ -45,7 +45,7 @@ To program for motor:bit, we have to add a package. Find **Add Package** in the 
  Press button A, radio send number 1.
  Press button B, radio send number 2.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/RubvVRM.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/RubvVRM.png)
 
 
 ### Step 3
@@ -59,7 +59,7 @@ To program for motor:bit, we have to add a package. Find **Add Package** in the 
  If it is 2, the car will turn right at the speed of 80 and delay time for 0.5s.
  If not both of them, the car just move forward at the speed of 80.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/TN6GnPt.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TN6GnPt.png)
 
 
 ## Program

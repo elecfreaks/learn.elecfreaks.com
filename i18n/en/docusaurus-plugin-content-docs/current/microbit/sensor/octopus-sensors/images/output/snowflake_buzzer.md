@@ -38,20 +38,20 @@
  Connect the red crocodile clip line to the 3V port of the micro:bit, the other side of the red crocodile clip line to the V port of the snowflake buzzer.
  Connect the yellow crocodile clip line to the 0 port of the micro:bit, the other side of the yellow crocodile clip line to the S port of the snowflake buzzer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/h65KyxW.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/h65KyxW.jpg)
 
 ### Software  
 #### Step 1
 
  Set "on button A pressed" and write a little bit of music(as below picture).
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/cPG4w9y.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cPG4w9y.png)
 
 #### Step 2
 
  Set "on button B pressed" and write a little bit of music(as below picture).
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/etnarAi.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/etnarAi.png)
 
 ### Program
 

@@ -5,7 +5,7 @@ sidebar_label: 瑞比特小车套件
 
 # Ring:bit V2小车套件
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/zoH1NRm.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/zoH1NRm.jpg)
 ## 产品简介
 
 

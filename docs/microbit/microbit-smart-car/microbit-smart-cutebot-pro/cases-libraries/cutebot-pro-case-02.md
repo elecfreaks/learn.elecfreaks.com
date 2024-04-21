@@ -9,7 +9,7 @@ sidebar_label: case 02 定距巡航
 
 本课程旨在向学生介绍图形化编程和编码电机的概念。学生将使用Cutebot Pro智能赛车学习如何编写程序来控制小车的行驶距离。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-02-01.png)
 
 ## 教学目标
 
@@ -47,7 +47,7 @@ micro:bit × 1
 ### 示例代码
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-02-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-02-02.png)
 
 
 请参考程序连接：[https://makecode.microbit.org/S45283-51305-89222-51523](https://makecode.microbit.org/S45283-51305-89222-51523)

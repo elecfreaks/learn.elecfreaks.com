@@ -9,7 +9,7 @@ sidebar_label: The Christmas Tree
 A Christmas tree is an evergreen tree decorated with lighted candles and decorations of firs or cedars. As one of the important components of Christmas, the modern Christmas tree originated in Germany and gradually became popular worldwide, becoming one of the most famous traditions in Christmas celebrations.
 It is said that the Christmas tree first appeared in ancient Rome in mid-December during the so-called Festival of the Gods of Agriculture. Nowadays it is common to get an evergreen plant such as a pine tree inside or outdoors around Christmas time and decorate it with Christmas lights and colorful decorations. An angel or star is placed at the top of the tree.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/images/tooca-laser-1-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-01-01.png)
 
 
 ## Materials Required
@@ -37,4 +37,4 @@ Note: This case takes a 2.8mm basswood board as an example. If you need to use d
 
 ## Effect Show
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/images/tooca-laser-1-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-01-01.png)

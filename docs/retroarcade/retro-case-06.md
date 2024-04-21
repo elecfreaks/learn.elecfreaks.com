@@ -8,7 +8,7 @@
 
 1 x [饼干游戏编程学习机](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
 
-![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-01-01.png)
+![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-01-01.png)
 
 ## 软件
 
@@ -18,11 +18,11 @@
 
 `设置背景颜色`，`新建精灵mySprite`，`类型设置为Player`，`新建精灵mySprite2`，`类型设置为Food`。`通过按键控制精灵mySprite移动`，`设置精灵mySprite在屏幕中`，`设置精灵mySprite2在随机位置出现`。
 
-![retro-case-06-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-06-01.png)
+![retro-case-06-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-06-01.png)
 
 `当玩家控制角色和食物重叠时`，`设置食物重新出现在随机位置`，`开始三秒倒计时`，`得分增加1`。
 
-![retro-case-06-02.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-06-02.png)
+![retro-case-06-02.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-06-02.png)
 
 ### 程序
 

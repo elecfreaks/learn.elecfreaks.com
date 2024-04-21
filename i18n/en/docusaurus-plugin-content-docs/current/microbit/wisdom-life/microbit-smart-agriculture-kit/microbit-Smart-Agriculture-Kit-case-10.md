@@ -16,14 +16,14 @@
 
 ## Picture
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-01-02.png)
 
 ## Hardware Connection
 ---
 
 Connect the water level sensor to P1, the rainbow LED to P2 and the OLED to IIC on IoT:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-10-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-10-03.png)
 
 ## Software Programming
 
@@ -31,15 +31,15 @@ Connect the water level sensor to P1, the rainbow LED to P2 and the OLED to IIC 
 
 Click "Advanced" in the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-01-04.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "iot-environment-kit" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-01-05.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "neopixel" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-03-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-03-06.png)
 
 ***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -48,15 +48,15 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 ---
 In the on start block, initialize the OLED display and set the rainbow LED connecting to P2 with 1 led.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-10-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-10-07.png)
 
 Save the returned value from the water level sensor connecting to P1 as the variable "water_level" and display the value on OLED screen.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-10-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-10-08.png)
 
 Judge if the current value is over the threshold, if yes, program to light on the LED in red.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-10-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-10-09.png)
 
 
 Link: [https://makecode.microbit.org/_dHJDqwUoDDTf](https://makecode.microbit.org/_dHJDqwUoDDTf)

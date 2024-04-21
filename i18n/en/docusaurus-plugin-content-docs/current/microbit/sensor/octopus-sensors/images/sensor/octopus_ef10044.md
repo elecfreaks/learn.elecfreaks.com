@@ -4,7 +4,7 @@
 
 Adjustable sensitivity Analog Photocell Brick allow you to adjust sensitivity of analog Photocel to get digital signal or set a trigger value. 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/nJi2xZe.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nJi2xZe.jpg)
 
 
 
@@ -25,7 +25,7 @@ Working Voltage|3.3-5V
 ## Outlook and Dimensions
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/ZpGNMav.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ZpGNMav.png)
 
 ## Quick to Start
 
@@ -35,18 +35,18 @@ Working Voltage|3.3-5V
 
   ***Take sensor:bit for example***
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/bYOBa9A.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/bYOBa9A.png)
 
 ### Add Package
 Click "Advanced"in the choice of the MakeCode to find more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/smtcNoB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
 
 Click "Extensions", search "oled"in the dialog box and then download the "oled-ssd1306".
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/VGSLRXB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VGSLRXB.png)
 
 ### Program as the picture shows
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/afc0hr7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/afc0hr7.png)
 
 ### Reference
 

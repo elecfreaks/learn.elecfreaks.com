@@ -4,7 +4,7 @@
 ---
 - 该灯条是一种基于WS2812B灯珠的多彩灯条，可以显示RGB颜色同时支持多级级联。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04098_0.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04098_0.jpg)
 
 
 ## 特性
@@ -30,7 +30,7 @@
 ## 外形与定位尺寸
 ---
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04098_2.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04098_2.png)
 
 
 ## 快速上手
@@ -39,21 +39,21 @@
 
 - 连接扩展板的P1口。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04098_5.PNG)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04098_5.PNG)
 
 ### 添加packge
 ---
 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04098_01.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04098_01.png)
 
 点击“Extensions”，在弹出的对话框中搜索“`neopixel`"，下载灯珠代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04098_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04098_02.png)
 
 ### 如图所示编写程序
 ---
-  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04098_03.png)
+  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04098_03.png)
 
 ### 参考程序
 ---

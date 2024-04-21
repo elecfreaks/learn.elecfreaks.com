@@ -15,7 +15,7 @@ sidebar_label: 软件问题
 
 1. 启动 Raspberry Pi Imager
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-faq-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-faq-09.png)
 
 2. [XGO2镜像下载](https://pan.baidu.com/s/1RblMq1C9kgc9VM74o_lccg?pwd=5416 ) 最新日期机器狗镜像， 点击”选择操作系统“后选择使用自定义镜像和存储卡路径。
 

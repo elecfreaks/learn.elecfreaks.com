@@ -1,6 +1,6 @@
 # Case 11:Rainbow LED
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case1101.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case1101.png)
 
 ## Introduction
 
@@ -29,7 +29,7 @@ n x Breadborad Jumper Wire 65pcs Pack
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/starter-kit01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/starter-kit01.png)
 
 
 
@@ -37,7 +37,7 @@ n x Breadborad Jumper Wire 65pcs Pack
 
 ### **8 RGB Rainbow LED Ring**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case1102.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case1102.png)
 
 8 RGB Rainbow LED Ring is an LED ring made of 8 ws2812b beads in cascade connection. Ws2812b is an intelligent outer control LED source, which has integrated control circuit and light emitting circuit. It has same appearance with 5050LED bead.
 
@@ -53,7 +53,7 @@ Connect your components according to the picture below:
 
 1.Connect the signal wire of the LED ring to the P0 port of the breadboard adapter.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case11.png)
 
 ***Note:*** There are two cables led out by the ring. One is DI and the other is DO. We should connect DI. After connection, we can see:
 

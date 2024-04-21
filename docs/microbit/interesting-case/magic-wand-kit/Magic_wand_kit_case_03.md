@@ -1,11 +1,11 @@
-# 魔法棒套件案例03：缓解压力
+﻿# 魔法棒套件案例03：缓解压力
 
 ## 目的
 ---
 
 - 使用魔法棒套件制作一根显示笑脸的法杖
 
-![](./images/magicwand_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_01.png)
 
 
 ## 使用材料（淘宝购买链接）
@@ -29,11 +29,11 @@
 ### 步骤 1
 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
-![](./images/magicwand_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_02.png)
 
 为了给魔法棒套件编程，我们需要添加一个扩展库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框，搜索”magicwand“(因为目前这个库还在审核中，在正式上架之前先通过这个链接搜索"https://github.com/elecfreaks/pxt-magicwand“)，然后点击下载这个代码库。
 
-![](./images/magicwand_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_03.png)
 
 *注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 ### 步骤 2
@@ -41,29 +41,29 @@
 
 
 
-![](./images/magicwand_case_03_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_03_04.png)
 
 
-![](./images/magicwand_case_03_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_03_05.png)
 
 
 ### 步骤 3
 在`当开机时`中，将变量'i'设为`0`。
 
-![](./images/magicwand_case_03_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_03_06.png)
 
 ### 步骤 4
 
 如图所示，在`无限循环`中插入`如果为...则...`积木块，判断变量'i'的值与连接P2端口的按钮的状态，当变量'i'=1且连接P2端口的按钮被按下时，则显示笑脸图标，延时5s，显示爱心图标，将变量'i'设为`0`。
 
 
-![](./images/magicwand_case_03_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_03_07.png)
 
 ### 步骤 5
 
 如图所示，选择输入模块中`当振动`积木块，设置为`6g`，插入显示数字变量'i'的值和将变量'i'设置为1.
 
-![](./images/magicwand_case_03_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magicwand_case_03_08.png)
 
 
 

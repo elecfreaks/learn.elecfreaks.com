@@ -4,7 +4,7 @@
 ---
 Octopus Single RGB Rainbow LED是我们OCTOPUS系列的单颗彩虹LED电子积木，它的基本设计是根据OCTOPUS电子积木系列设定的，它的外形、PCB固定孔、电子积木的接口的设定是相同的。板载的LED是一个集控制电路与发光电路与一体的智能外控led，具有低电压驱动、亮度高、散射角度大等优点。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04091.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04091.jpg)
 
 ## 特性
 ---
@@ -30,23 +30,23 @@ SKU|EF04091
 
 ### 外型与定位尺寸
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/w5nulIo.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/w5nulIo.png)
 
 ## 快速上手
 ---
 
 ### 硬件连接
 连线说明：将该模块连接在OCTOPUS:BIT扩展板的P1口上，将micro:bit主板插入OCTOPUS:BIT扩展板。
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/AGdJhsV.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AGdJhsV.png)
 
 ### 软件编程
 打开makecode,在MakeCode的代码抽屉中点击“高级"，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04098_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04098_01.png)
 
 为了给该模块编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索“neopixel"，然后点击下载这个代码库,下图红色箭头所指为代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04098_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04098_02.png)
 
 
 ### 参考程序

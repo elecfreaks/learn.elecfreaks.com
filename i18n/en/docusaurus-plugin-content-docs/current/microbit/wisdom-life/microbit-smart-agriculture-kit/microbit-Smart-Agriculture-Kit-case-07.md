@@ -16,14 +16,14 @@
 
 ## Picture
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-01-02.png)
 
 ## Hardware Connection
 ---
 
 Connect the sonar:bit to P1 and the OLED display to IIC on IoT:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-07-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-07-03.png)
 
 ## Software Programming
 
@@ -31,11 +31,11 @@ Connect the sonar:bit to P1 and the OLED display to IIC on IoT:bit.
 
 Click "Advanced" in the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-01-04.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "iot-environment-kit" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-01-05.png)
 
 ***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -45,19 +45,19 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 Initialize the OLED display as 128×64.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-07-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-07-07.png)
 
 Set the ultrasonic sound sensor to connect to P1 with unit in cm, save the returned value as the variable "ultrasonic_distance".
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-07-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-07-08.png)
 
 Clear the OLED display and display the value from the ultrasonic sound sensor.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-07-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-07-09.png)
 
 Judge if the returned value is in the scope of the threshold, if yes, it means the height of the plants is over the standards, prgram to display "x"; or program to display "√".
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-07-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-07-10.png)
 
 Link: [https://makecode.microbit.org/_4rfVpw74kVdW](https://makecode.microbit.org/_4rfVpw74kVdW)
 

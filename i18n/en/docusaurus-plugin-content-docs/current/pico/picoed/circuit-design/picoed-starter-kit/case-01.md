@@ -1,7 +1,7 @@
 
 # Case 01:LED
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0101.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0101.png)
 
 ## Introduction
 
@@ -28,32 +28,32 @@ LED lights are an important part of urban construction, such as traffic lights a
 
 n x Breadboard jumper wire 65pcs pack
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/starter-kit01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/starter-kit01.png)
 
 ## Major Components Introduction
 ### Breadboard Adapter
 
 The breadboard Adapter can extend all pins of  [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r) , so that we can create a simple circuit on a breadboard.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0102.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0102.png)
 
 This picture shows how [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r) Breadboard Adapter is plugged into the breadboard. It is suitable for all kinds of breadboards.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0103.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0103.png)
 
 ### LED
 LED is the abbreviation of Light Emitting Diode. It is a kind of semiconductor diode and can convert electricity into light(When the current passes, it will light on)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0104.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0104.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0105.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0105.png)
 
 If you check the LED with the care you would notice two features: one is that the legs are of different lengths, and another is that on one side of the LED, instead of it being cylindrical, it is flattened. These are indicators to show which leg is the Anode (Positive) and which is the Cathode (Negative). The longer leg gets connected to the Positive Supply (3.3v) and the leg with the flattened side goes to the Ground.
 
 ### Resistor
 The resistor is a component of current control. It can limit the current of the circuit connected. And in our experiment, we use 100Ω resistance, if there is no current limit, the LED might be damaged.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0106.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0106.png)
 
 Want to know resistor value by color circles? You can read this article: [How to Identify Color Circle Resistance Value](https://www.elecfreaks.com/blog/how-to-identify-color-circle-resistance-value.html/).
 ## Experimental Procedure
@@ -63,11 +63,11 @@ Connect your components according to the picture below:
 1.Connect the shorter leg with the GND.
 2.Connect the longer leg with the P0 and P1 ports through the Resistor.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case01.png)
 
 You would see as below after you finish the connection:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/led.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/led.png)
 
 ## Software Programming
 For programming environment preparation, please refer to [Introduction to the programming environment](https://www.elecfreaks.com/learn-en/pico-ed/index.html)

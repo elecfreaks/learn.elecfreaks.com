@@ -1,4 +1,4 @@
-# Case 02: Call the Team Members Together
+﻿# Case 02: Call the Team Members Together
 
 ## Purpose
 ---
@@ -30,13 +30,13 @@ Though the guard of the insects is expelled, the battle alarms their nest with s
  Click "Advanced" in the MakeCode drawer to see more choices.
 
 
-![](./images/magicwand_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_02.png)
 
 
 We need to add a package for programming, . Click "Extensions" in the bottom of the drawer and search with "magicwand" in the dialogue box to download it. (Kindly note this package is still in the verifying process and pls search with "https://github.com/elecfreaks/pxt-magicwand " before it's ready)
 
 
-![](./images/magicwand_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_03.png)
 
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
@@ -45,7 +45,7 @@ We need to add a package for programming, . Click "Extensions" in the bottom of 
 
 Drag and set the infrared sending connection to P1 in the on start block.
 
-![](./images/magicwand_case_02_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_02_04.png)
 
 
 ### Step 3
@@ -54,7 +54,7 @@ Drag the while tilting to the right side block, programme inside with the block 
 
 Drag the while tilting to the left side block, programme inside with the block if the button in P2 is pressed, then set the magic level as advanced and then release the magic once.
 
-![](./images/magicwand_case_02_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_02_05.png)
 ### Link
 
 Link: [https://makecode.microbit.org/_gyoc4bTf1cWL](https://makecode.microbit.org/_gyoc4bTf1cWL)

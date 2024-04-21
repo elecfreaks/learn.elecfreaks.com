@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-sidebar_label: Case 05: Smart Weather Station
+sidebar_label: Case 05-Smart Weather Station
 ---
 
 # Case 05: Smart Weather Station
@@ -27,11 +27,11 @@ Make sure you get below items ready before teaching:
 
 | Picture | Name |
 | :-: | :-: |
-| ![](./images/microbit-smart-climate-kit-case-01-02.png) | smart climate kit |
-| ![](./images/microbit-smart-climate-kit-case-01-03.png) | micro:bit V2 |
-| ![](./images/microbit-smart-climate-kit-case-01-04.png) | PC |
-| ![](./images/microbit-smart-climate-kit-case-01-05.png) | USB Cable |
-| ![](./images/microbit-smart-climate-kit-case-05-05.png) | ELECFREAKS Smart Home Material Pack |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-case-01-02.png) | smart climate kit |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-case-01-03.png) | micro:bit V2 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-case-01-04.png) | PC |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-case-01-05.png) | USB Cable |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-case-05-05.png) | ELECFREAKS Smart Home Material Pack |
 
 
 These materials will provide you with a complete experience and ensure that you can follow through and learn smoothly. If you are ready for the above, we can move on to the next step.
@@ -61,7 +61,7 @@ Discussion and summary: Students discuss the results of their data analysis in g
 
 Connect the Wind speed sensor to P1, the UV sensor to P2, the LED on the Dust sensor to P3, the out to P4, the DHT11 Humidity and Temperature sensor to P10 and the OLED diplay on the IoT:bit board.
 
-![](./images/microbit-smart-climate-kit-case-05-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-case-05-06.png)
 
 ### Programming
 
@@ -69,24 +69,24 @@ Connect the Wind speed sensor to P1, the UV sensor to P2, the LED on the Dust se
 
 Go to“[makecode.microbit.org](https://makecode.microbit.org/)”, click to create new projects.
 
-![](./images/smart-weather-station-kit-add-extension-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/smart-weather-station-kit-add-extension-01.png)
 
 Click "Create" in the dialogue box after giving your project a name.
 
-![](./images/smart-weather-station-kit-add-extension-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/smart-weather-station-kit-add-extension-02.png)
 
 Click "Extensions" in the makecode drawer.
 
-![](./images/smart-weather-station-kit-add-extension-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/smart-weather-station-kit-add-extension-03.png)
 
 Search with "IOT" in the dialogue box and get it downloaded.
 
-![](./images/smart-weather-station-kit-add-extension-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/smart-weather-station-kit-add-extension-04.png)
 
 *** Sample Code ***
 
 
-![](./images/microbit-smart-climate-kit-case-04-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-case-04-07.png)
 
 
 Link: [https://makecode.microbit.org/_a7sXEcgtc1M3](https://makecode.microbit.org/_a7sXEcgtc1M3)
@@ -116,32 +116,32 @@ You may download it directly below:
 
 Connect the micro:bit V2 with your PC with the USB cable.
 
-![](./images/connect-microbit.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/connect-microbit.gif)
 
 There will be a disk named "MICROBIT" in your PC.
 
-![](./images/microbit-drive.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-drive.png)
 
-Click ![](./images/download-01.png) on the down left corner, select `Connect Device`.
+Click ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-01.png) on the down left corner, select `Connect Device`.
 
-![](./images/download-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-02.png)
 
-Click ![](./images/download-03.png)。
+Click ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-03.png)。
 
-![](./images/download-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-04.png)
 
-Click ![](./images/download-05.png)。
+Click ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-05.png)。
 
-![](./images/download-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-06.png)
 
 
 Select `BBC micro:bit CMSIS-DAP` in the jumped-out page, and select "Connect", now the micro:bit board is successfully connected.
 
-![](./images/download-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-07.png)
 
 Click to download the program.
 
-![](./images/download-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-08.png)
 
 ### Teamwork and Showcases
 

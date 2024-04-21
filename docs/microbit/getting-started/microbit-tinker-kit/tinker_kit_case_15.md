@@ -22,7 +22,7 @@
 - 2 x 母对母跳线
 - 1 x ADKeypad
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/MFban0p.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/MFban0p.gif)
 
 **温馨提示: 如果你想要以上所有这些元器件，你可以购买我们的[micro:bit小小发明家套件](https://item.taobao.com/item.htm?spm=a230r.7195193.1997079397.9.z3IMPf&id=564707672256&abbucket=5)。**
 
@@ -36,7 +36,7 @@
 
 将ADKeypad连接到扩展板上的引脚P1。要保证线的颜色和扩展板上的引脚颜色一致哦！
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/h2opKHg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/h2opKHg.png)
 
 
 ### 步骤 2
@@ -51,7 +51,7 @@
 
 这些变量应该设置在哪里呢？ 当然是从游戏的第一关开始啦。此时，我们将gameOn设置为True（真）。因为当我们给micro:bit供电的时候，我们想要直接启动游戏。我们可以选择任意一个位置作为玩家的位置，但是当迷宫游戏的等级上升时，我们需要记住这个位置，因为我们不想让玩家在墙里面开始这个游戏。在这个例子中，我选择让坐标点（0,3）作为玩家的初始位置。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_15_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_15_01.png)
 
 
 ### 步骤 3
@@ -64,7 +64,7 @@
 
 记住pause（暂停）积木块的时间单位是毫秒，因此 300 ms = 0.3 seconds哦！你可以通过改变暂停的时间来控制它闪烁的速度哦！
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_15_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_15_02.png)
 
 
 ### 步骤 4
@@ -73,11 +73,11 @@
 
 点击代码抽屉中的"高级"，查看更多的代码选项，并在下拉菜单底部点击"扩展"。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/R5lx5Np.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/R5lx5Np.jpg)
 
 此时，将弹出一个对话框。在对话框中搜索“tinker kit”， 然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/pduH11r.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pduH11r.png)
 
 现在你可以在MakeCode里面看到一些新东西--一个鲜艳的绿色的Tinkercademy类目就已经添加完成了！
 
@@ -96,7 +96,7 @@
 
 在每个按钮被按下后，我们需要添加一个300ms的短暂的暂停。否则，当你每按下一个按钮的时候，由于程序运行的太快，玩家会移动很多步。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_15_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_15_03.png)
 
 
 ### 步骤 6
@@ -124,7 +124,7 @@
 再次，我们显示一个笑脸来告诉玩家闯关成功。
 最后，我们给变量level（等级）加1（这样下一关就会显示出来）。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_15_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_15_04.png)
 
 
 ### 步骤 7
@@ -135,7 +135,7 @@
 
 在这个案例中，我们在背景中播放一段悲伤的音乐，重置变量“level（等级），熄灭代表玩家的那颗LED灯，显示一个生气的表情，并在末尾显示一个字符串告诉玩家按下按钮B可以让游戏重新开始。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_15_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_15_05.png)
 
 
 ### 步骤 8
@@ -144,7 +144,7 @@
 
 在一个forever（永远）循环中，我们需要检验ADKeypad上的按钮B是否被按下。如果它被按下了，我们就将变量“level”（等级）设置为1，通过将“playerx”设置为0和“playery”设置为3来重置玩家的起始位置，并将变量“gameOn”设置为“true”。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_15_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_15_06.png)
 
 
 ### 步骤 9
@@ -158,15 +158,15 @@
 
 需要注意的一点是：在玩家成功通过这一关后，你需要重置变量playerx和playery，确保玩家的位置和下一关的位置一致。否则玩家的起始位置就会在墙里面哦！
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_15_07.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_15_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_15_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_15_08.png)
 
 
 ### 步骤 10
 
 当你完成了这些操作之后，你可以选择性地创建一个成功的环节。在这个案例中，一旦玩家已经成功完成了4关里面的前3关，我们就不再绘制玩家的位置，而是在后台播放一段胜利的音乐，并显示一条成功的消息！
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_15_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_15_09.png)
 
 如果你不想自己亲手编写代码，你可以通过下面这个链接直接下载程序的完整代码：
 

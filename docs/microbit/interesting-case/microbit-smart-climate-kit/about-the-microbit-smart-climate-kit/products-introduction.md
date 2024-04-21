@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: 产品简介
 ---
@@ -9,4 +9,4 @@ sidebar_label: 产品简介
 
 探索气候奥秘，培养科学思维，开启STEAM之旅。
 
-![](./images/smart-weather-station-kit-products-introduction-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-products-introduction-01.png)

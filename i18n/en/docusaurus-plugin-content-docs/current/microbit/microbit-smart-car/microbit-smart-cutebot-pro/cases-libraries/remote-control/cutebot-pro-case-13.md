@@ -9,7 +9,7 @@ sidebar_label: case 13 Infrared Remote Control Car
 
 This course aims to let students understand the way of infrared remote control by letting them make a case of infrared remote control car.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/remote-control/images/cutebot-pro-case-13-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-13-01.png)
 
 ## Teaching Objectives
 
@@ -36,7 +36,7 @@ How to use infrared remote control to control the driving of the car?
 
 ### Sample Code
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/remote-control/images/cutebot-pro-case-13-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-13-02.png)
 
 Link：[https://makecode.microbit.org/_hek2e375jWeM](https://makecode.microbit.org/_hek2e375jWeM)
 

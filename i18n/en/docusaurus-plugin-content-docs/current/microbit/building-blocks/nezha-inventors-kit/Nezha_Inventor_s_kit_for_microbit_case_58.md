@@ -4,7 +4,7 @@
 
 With the improvement of people's living standards and the upgrading of household appliances technology, we rely more and more on the washing machine for this chore, so we learn to make a smart washing machine in this lesson, and we can press different buttons to select different functions, let's start.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_1.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_1.jpg)
 
 ### Materials Required
 
@@ -24,63 +24,63 @@ Bricks × n
 
 Component Details
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_2.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_2.jpg)
 
 Build it as the assembly steps suggest:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_3.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_3.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_4.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_4.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_5.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_5.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_6.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_6.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_7.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_7.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_8.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_8.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_9.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_9.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_10.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_10.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_11.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_11.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_12.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_12.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_13.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_13.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_14.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_14.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_15.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_15.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_16.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_16.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_17.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_17.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_18.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_18.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_19.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_19.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_20.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_20.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_21.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_21.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_22.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_22.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_23.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_23.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_24.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_24.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_25.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_25.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_26.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_26.jpg)
 
 ## Connection Diagram
 
 Connect the four motors to the M1, M2.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_27.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_27.jpg)
 
 
 ##  MakeCode Programming
@@ -91,7 +91,7 @@ Click “Advanced” in the MakeCode drawer to see more choices.
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_10.png)
 
 
 
@@ -99,13 +99,13 @@ For programming the servo, we need to add a package. Click “Extensions” at t
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_11.png)
 
 
 
 For programming the PIR sensor, we need to add a package. Search with “PlanetX” in the dialogue box and click to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_12.png)
 
 
 
@@ -115,7 +115,7 @@ For programming the PIR sensor, we need to add a package. Search with “PlanetX
 
 The program is shown below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_28.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_28.jpg)
 
 Link: https://makecode.microbit.org/_fLAKpugFgdLW
 
@@ -143,7 +143,7 @@ You may also download it directly:
 
 The remote control program is shown below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/58_29.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/58_29.jpg)
 
 Link: https://makecode.microbit.org/_C6LAycMHibK1
 

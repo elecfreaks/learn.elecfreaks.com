@@ -13,7 +13,7 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
 ## Goals
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/m79il8J.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/m79il8J.png)
 
 
  1. Make the Krazy Kar.
@@ -36,7 +36,7 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
 ## Hardware Step 1 – Shell it!
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Dm0im8u.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Dm0im8u.png)
 
 - Fold up the cardboard shell where the line cuts are.
 - Tape it such that the sides stand 90 degrees to the base.
@@ -45,7 +45,7 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
 ### Step 2 – Put in the Innards.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/QFPRafF.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/QFPRafF.png)
 
 - Insert the two servo motors into the holes at the sides.
 
@@ -57,7 +57,7 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
 ### Step 3 – On to the Outside!
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/jcbfc8r.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/jcbfc8r.png)
 
 - Screw the wheels onto the continuous servo motors.
 
@@ -67,11 +67,11 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
 ### Step 4 – Upgrade the micro:bit
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/FCBt2rx.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FCBt2rx.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/QQX9HFg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/QQX9HFg.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/rnX6e5B.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/rnX6e5B.png)
 
 
 - Screw the micro:bit onto the basic:bit using the longer screws provided. Note that the holes should align, P0 to P0 and G to G.
@@ -85,7 +85,7 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
 ### Step 5 – On to the Outside!
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/36e1m2j.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/36e1m2j.jpg)
 
 - Using the 5 screws, fit the micro+basic:bit cyborg into the 5 holes on the top of the krazy kar.
 

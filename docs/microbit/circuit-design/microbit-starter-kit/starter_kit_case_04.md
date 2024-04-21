@@ -1,6 +1,6 @@
 ﻿# 课程_04 光敏二极管
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/MwngMAi.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/MwngMAi.jpg)
 
 ## 简介
 ---
@@ -19,7 +19,7 @@
 
 **温馨提示：如果你需要以上所有元件，你可以购买我们的[Elecfreaks小小科学家套件](https://item.taobao.com/item.htm?ft=t&id=597096675822)。**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/W4tseua.jpg)
 
 ## 主要元件介绍
 ---
@@ -27,7 +27,7 @@
 
 光敏二极管是用 CdS 或 CdSe 等半导体材料制成的特殊电阻器，其工作原理是基于内光电效应。光照愈强，阻值就愈低，随着光照强度的升高，电阻值迅速降低，亮电阻值可小至1KΩ以下。光敏二极管对光线十分敏感，其在无光照时，呈高阻状态，暗电阻一般可达1.5MΩ。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/jS03zGQ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/jS03zGQ.jpg)
 
 ## 实验步骤
 ---
@@ -38,11 +38,11 @@
 
 - 2.将10kΩ电阻与光敏二极管并连（**请注意光敏二极管的方向，长的一端为正极**）
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/FtQDhiS.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FtQDhiS.jpg)
 
 连接完成后如图:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/TMd3Fq8.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TMd3Fq8.jpg)
 
 ### 软件
 
@@ -52,16 +52,16 @@
 
 ### 如图所示编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_04_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_04_01.png)
 
 ### 代码详解
 - 1.当开机时，读取模拟电压作为亮度的参考值。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_04_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_04_02.png)
 
 - 2.在无限循环程序块中，循环扫描P0口的模拟电压。一旦当前电压值低于基准值减去2（表示光照强度变低，光敏电阻阻值下降），就说明已经关灯，此时显示一个爱心图标，calibrationVal-2用于调节感应灵敏度，数值越小灵敏度越高。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_04_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_04_03.png)
 
 ### 参考程序
 请参考程序连接：[https://makecode.microbit.org/_3tFFoPhLF7hX](https://makecode.microbit.org/_3tFFoPhLF7hX)
@@ -94,7 +94,7 @@
 ---
 开灯时，micro:bit的LED屏幕上什么都不显示；而关灯后，屏幕上显示了一个爱心图标。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/1Xu4lBR.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1Xu4lBR.gif)
 
 
 ## 思考

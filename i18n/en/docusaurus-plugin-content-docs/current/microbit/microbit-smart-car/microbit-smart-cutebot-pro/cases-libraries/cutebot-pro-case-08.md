@@ -9,7 +9,7 @@ sidebar_label: case 08 Intelligent obstacle avoidance
 
 This course is designed to introduce students to graphical programming and the application of ultrasonic sensors. Students will learn how to program the car to avoid obstacles. Through this case, students will deepen their understanding of knowledge points such as judgment, branching, and or not in program design, and understand the working principle of ultrasonic sensors.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-08-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-08-01.png)
 
 ## Teaching Objectives
 
@@ -46,7 +46,7 @@ How to write a program to let the car automatically turn to avoid collision when
 
 ### Sample Code
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-08-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-08-02.png)
 
 
 Link：[https://makecode.microbit.org/_KgLeP413s4yf](https://makecode.microbit.org/_KgLeP413s4yf)

@@ -3,7 +3,7 @@
 ## 简介
 RFID传感器利用无线射频方式对记录媒体（电子标签或射频卡）进行读写，从而达到识别目标和数据交换的目的。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04105_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04105_01.png)
 
 ## 特性
 
@@ -22,7 +22,7 @@ SKU|EF04105
 
 ## 外形与定位尺寸
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04105_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04105_02.png)
 
 
 ## 快速上手
@@ -31,24 +31,24 @@ SKU|EF04105
 
 如下图所示，将RFID传感器连接到sensor:bit的IIC端口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04105_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04105_03.png)
 
 ## makecode编程
 
 ### 添加扩展库
 在MakeCode的代码抽屉中点击`扩展`。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04105_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04105_04.png)
 
 为了给RFID传感器编程，我们需要添加一个扩展库。在弹出页面，搜索`https://github.com/elecfreaks/pxt-OctopusX`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04105_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04105_05.png)
 
 *注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
 ### RFID写入数据
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05047_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05047_06.png)
 
 请参考程序连接：[https://makecode.microbit.org/_19ePfj3idL1h](https://makecode.microbit.org/_19ePfj3idL1h)
 
@@ -78,7 +78,7 @@ SKU|EF04105
 
 ### RFID读取数据
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05047_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05047_07.png)
 
 请参考程序连接：[https://makecode.microbit.org/_fXU8hWYc9Lhu](https://makecode.microbit.org/_fXU8hWYc9Lhu)
 

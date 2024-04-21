@@ -21,7 +21,7 @@
 
  *The new version accelerometer chip of micro:bit is different from the old version. The new version has combined the electronic compass and the accelerometer. No change for usage.*
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/2n6TbVZ.png)  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/F0frwo6.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2n6TbVZ.png)  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/F0frwo6.jpg)
 
 
 ## Software
@@ -29,40 +29,40 @@
 
 [makecode](https://makecode.microbit.org/#) Online block coding [https://makecode.microbit.org/#](https://makecode.microbit.org/#)
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/cp88kPs.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cp88kPs.png)
 
 ## Coding
 
 ### Step 1：Add Coding Package
 - Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2qCyzQ7.png)
 
 - Search for “ringbitcar” and click on the ring:bit car package to add it to your project. (As below picture)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/1Wq2Mov.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1Wq2Mov.jpg)
 
 ***Note：*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
 ### Step 2：Principle of arithmetic
 
 - The accelerometer has 2 directions: x-axis and Y-axis. It is easy to understand when you put the micro:bit and the Ring:bit Car to a same three dimensional coordinate axis in a top view.
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/4jVn6rG.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/4jVn6rG.jpg)
 
  Move direction and speed of the car is controlling by micro:bit's direction.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/NGnp5Ya.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NGnp5Ya.jpg)
 
 - Move forward to the right, the value of x-axis and Y-axis are positive number. The speed of the left wheel should be greater than the right wheel and complete turn right.
 - Others in the same way.
 - Result: The value of Y-axis plus the x-axis is the value of the left wheel; the value of Y-axis minus the x-axis is the value of the right wheel.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/8oOCEWj.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/8oOCEWj.png)
 
 ### Step 3：Code Interpretation(The controlling end) ###
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/xxvSu1T.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xxvSu1T.png)
 
 - On start, set wireless to `90`, same with the car.
 - In the forever loop, send the acceleration magnitude of the X-axis. The scope of the acceleration magnitude is `-1024~+1024`, the car speed is `-100~+100`, so we need to divided by ten.
@@ -71,15 +71,15 @@
 ### Step 4：Code Interpretation(The car)
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/JsLkJ1t.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JsLkJ1t.png)
 
 - On start, set the left wheel to P1 and the right wheel to P2 (subject to the actual) and show an icon. Set wireless value to 90 (same with the sending side), to set variable XValue and variable yValue to save the value of X-axis and Y-axis.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/A5gqKjZ.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/A5gqKjZ.png)
 
 - On radio received the value, if it is X, save the data to `xValue`, if it is Y, save the data to `yValue`.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/a3uTwmH.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/a3uTwmH.png)
 
 - Then, calculating the speed value of the right and left wheel, set them to corresponding value.
 

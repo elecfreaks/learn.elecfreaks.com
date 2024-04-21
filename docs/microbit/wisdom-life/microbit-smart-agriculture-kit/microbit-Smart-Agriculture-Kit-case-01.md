@@ -17,14 +17,14 @@
 
 ## Picture
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-01-02.png)
 
 ## Hardware Connection
 ---
 
 Connect the soil moisture sensor to P1,  the water level sensor to P2 and the servo to P9 on IoT:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-01-03.png)
 
 ## Software Programming
 
@@ -32,11 +32,11 @@ Connect the soil moisture sensor to P1,  the water level sensor to P2 and the se
 
 Click "Advanced" in the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-01-04.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "iot-environment-kit" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-01-05.png)
 
 ***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -44,15 +44,15 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 ---
 Save the returned value from the soil moisture sensor and the water level sensor as the variable “soil_moisture” and the variable “water_level”.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-01-07.png)
 
 Display the value of the water level in the form of the bar graph on the micro:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-01-08.png)
 
 If the varible “soil_moisture is below the threshold, it means the moisture of the soil is in a low status, program to drive the servo for watering; or program to drive the servo for closing the valve.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-01-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Agriculture-Kit-case-01-09.png)
 
 
 Link: [https://makecode.microbit.org/_awoUMcbKA0Ct](https://makecode.microbit.org/_awoUMcbKA0Ct)

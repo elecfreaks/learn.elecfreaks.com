@@ -12,7 +12,7 @@
 - 如何使用while循环。
 - 如何提高你的手指的灵敏度。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/klcf1Gj.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/klcf1Gj.jpg)
 
 
 ## 所需材料和前期准备
@@ -33,14 +33,14 @@
 
 ### 步骤 1
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/wfEM1o5.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wfEM1o5.jpg)
 
 将你的ADKeypad插入扩展板上引脚P0，尽量确保正极连接到黄色的信号引脚，负极连接到黑的的接地引脚。
 
 
 ### 步骤 2
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_18_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_18_01.png)
 
 为了增加LED被点亮的随机性，我们将会递归地使用一个函数。一个被递归地使用的函数会自动调用函数自身来实现最终目标。出于这个原因，我创建了函数plotLight。如果你还没有涉及到函数，你可以在本文中学习。
 
@@ -54,7 +54,7 @@
 
 ### 步骤 3
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_18_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_18_02.png)
 
 在if-else语句中，我们将查看按键是否被按下以及它是否对应了LED的X坐标的那一列。如果是，则再次调用函数。这就是递归程序运行方式。通过再次调用函数，我们基本上点亮了另外一颗LED。记住，当我们再次调用函数时，我们需要减少时间变量的值，这样停顿的时间就会越短。
 
@@ -63,7 +63,7 @@
 
 ### 步骤 4
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_18_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_18_03.png)
 
 将布尔值设置为false是为了结束以上的while循环。这并不是非常必要的，而且我一开始忽略了这种做法。 但是，终止while循环将大大地提高程序运行的效率，这是非常重要的，而且也是值得我们需要考虑的。
 
@@ -71,7 +71,7 @@
 
 ### 步骤 5
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_18_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_18_04.png)
 
 这对于一个函数来说好像有点多哦！不过对于初学编程的人来说还是比较合适的。所以，让我们再次回顾一遍吧！
 我们在这里使用了0到4之间的整数来决定被点亮的LED灯。（记住我们使用了一个从0开始的指数，这就意味着左上角的左边是
@@ -83,7 +83,7 @@
 
 ### 步骤 6
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_18_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_18_05.png)
 
 在每个if-else语句中，如果按键错误，我们就会终止游戏，并告诉玩家我们对他的评价。
 如果正确的按键被按下，我们就会立刻跑到下一个LED灯，同时结束之前的while循环或者是为了提高程序运行效率的操作。(为了让你更加清楚，代码将会继续运行。但是最好不要养成这个坏习惯）。
@@ -92,7 +92,7 @@
 
 ### 步骤 7
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_18_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_18_06.png)
 
 这工作量真不小呀!!
 
@@ -100,14 +100,14 @@
 
 ### 步骤 8
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_18_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_18_07.png)
 
 现在我们可以把一些松散的字符串串起来。
 当玩家按错按键就调用这个lose函数。这基本上是不言而喻的。如果你能理解之前的部分，你就会明白代码在做什么。
 
 ### 步骤 9
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_18_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_18_08.png)
 
 现在开始点亮第一颗LED灯。
 当代码文件下载完成，程序就会调用这个函数。因为函数的递归性，游戏在我们玩家做出的最小的努力之后自行处理。这个效率真不错！
@@ -142,7 +142,7 @@
 
 ### 太棒啦!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/6FbHGqC.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/6FbHGqC.jpg)
 
 你已经完成了本教程了哦！如果你想进一步挑战自己，可以继续添加一个计数功能，来统计玩家的得分。提示：你可以创建一个counter的变量，在合适的时候增量。别忘了在micro:bit屏幕上显示得分哦！
 祝你成功!

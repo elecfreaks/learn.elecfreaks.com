@@ -8,7 +8,7 @@ Set up enemies that target the player.
 
 1 x  [ELECFREAKS Retro Makecode Arcade For Education](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
 
-![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-01.png)
+![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-01-01.png)
 
 ## Software
 
@@ -18,7 +18,7 @@ Set up enemies that target the player.
 
 Set when the genie touches the plants on the road, the game will fail, when the genie reaches the end of the gem, the game gets winning, the game will be every two seconds randomly refresh a monster to attack the little hero, the initial life value of 3, when the monster attack to life value -1, when the life value to zero, the game failed.
 
-![retro-case-08-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-08-01.png)
+![retro-case-08-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-08-01.png)
 
 
 

@@ -4,7 +4,7 @@
 
 四路巡线模块集成了四组光敏接收管及补光灯，统称探头。它能分辨黑线和白线。同时，巡线传感带自主学习功能，适应更多不同灰度的颜色。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05053_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05053_01.png)
 
 ## 特性
 
@@ -28,7 +28,7 @@ SKU|EF05053
 ## 外形与定位尺寸
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05053_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05053_02.png)
 
 
 ## 快速上手
@@ -37,13 +37,13 @@ SKU|EF05053
 
 如下图所示，将四路巡线传感器连接到哪吒扩展板的IIC 端口，并将两个电机分别连接至哪吒扩展板的 M1 和 M4 接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05053_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05053_03.png)
 
 ### 学习模式
 
 四路巡线传感器可通过按下传感器上的按键来学习地图背景和巡线轨迹（即黑色赛道）。按照以下步骤完成学习：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05053_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05053_04.png)
 
 ①将四路巡线传感器探头正对地图背景区域并按下学习按键；
 
@@ -63,22 +63,22 @@ SKU|EF05053
 ### 步骤 1
 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05001_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_04.png)
 
 为了给四路巡线传感器编程，我们需要添加一个扩展库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框，搜索”PlanetX“，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05001_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_05.png)
 
 为了给哪吒扩展板编程，我们需要添加一个扩展库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框，搜索”nezha“，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05053_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05053_05.png)
 
 *注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 ### 步骤 2
 ### 如图所示编写程序
 示例一：数字巡线示例代码
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05053_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05053_06.png)
 
 
 ### 参考程序
@@ -110,13 +110,13 @@ SKU|EF05053
 
 积木块介绍：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05053_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05053_08.png)
 
 返回值为四路巡线传感器中心点偏离黑线的偏移量，范围-3000~3000.
 
 示例程序：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05053_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05053_07.png)
 
 
 ### 参考程序

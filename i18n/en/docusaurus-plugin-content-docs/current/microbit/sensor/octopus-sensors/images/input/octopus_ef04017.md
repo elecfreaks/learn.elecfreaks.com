@@ -6,7 +6,7 @@
  This keyboard uses an analog input to read the five key state with one IO port. 
  It can achieve many amazing interactive projects.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/hgyC8t8.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/hgyC8t8.jpg)
 
 ## Products Link
 
@@ -32,7 +32,7 @@ Stability|Stable and durable
 
 ## Outlook and Dimensions
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/R0ARLff.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/R0ARLff.png)
 
 ## Quick to Start
 
@@ -41,7 +41,7 @@ Stability|Stable and durable
 
 Take sensor:bit for example
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/ox97wuD.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ox97wuD.png)
 
 
 ### Program as the picture shows
@@ -49,7 +49,7 @@ Take sensor:bit for example
  When returned value is between 0~20, it means the button A is pressed, an icon is shown on the micro:bit.
  By parity of reasoning.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/p4dwStN.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/p4dwStN.png)
 
 ### Reference
 

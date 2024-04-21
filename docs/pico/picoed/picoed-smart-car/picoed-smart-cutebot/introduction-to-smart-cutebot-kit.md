@@ -30,43 +30,43 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
 ## 功能模块描述
 小车正前方配备超声波接口和IIC接口
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-smart-cutebot/images/pico-cutebot-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-cutebot-01.png)
 
 前方左右两边各配备两颗RGB全彩色LED车灯，通过扩展板控制。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-smart-cutebot/images/pico-cutebot-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-cutebot-02.png)
 
 正上方装有三颗AA电池电池盒扩展板，用来驱动整个小车。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-smart-cutebot/images/pico-cutebot-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-cutebot-03.png)
 
 电池盒扩展板上同时扩展了S1、S2舵机接口和P1，P2 IO接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-smart-cutebot/images/pico-cutebot-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-cutebot-04.png)
 
 小车尾部带有红外线接收头（在电池盒下方），连接在P16接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-smart-cutebot/images/pico-cutebot-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-cutebot-05.png)
 
 小车配备可供AI摄像头连接的IIC接口
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-smart-cutebot/images/pico-cutebot-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-cutebot-06.png)
 
 尾部红外线接收头旁边为小车总电源开关，同时配有一颗LED灯指示开关状态。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-smart-cutebot/images/pico-cutebot-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-cutebot-07.png)
 
 左右两边为两个微型高速直流齿轮减速电机驱动的车轮，享受飞驰一般的速度。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-smart-cutebot/images/pico-cutebot-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-cutebot-08.png)
 
 小车底部前方有两个巡线头，用于检测黑线及边缘，连接到P13和P14接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-smart-cutebot/images/pico-cutebot-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-cutebot-09.png)
 
 小车底部前方装配一个金属万向轮，小车用左右轮速度差的方式完成360度全方向行驶。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-smart-cutebot/images/pico-cutebot-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-cutebot-10.png)
 
 底部两侧边安装了两颗Rainbow LED 全彩灯珠，连接到P15口，可以作为小车示廓灯或其他功能使用。
 

@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: Hardware Introduction
 ---
@@ -7,7 +7,7 @@ sidebar_label: Hardware Introduction
 
 ## IOT:bit
 
-![](./images/hardware-introduction-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/hardware-introduction-01.png)
 
 IOT:bit扩展板是一款功能丰富的扩展板，专为micro:bit设计。下面是更详细的介绍：
 
@@ -29,7 +29,7 @@ IOT:bit扩展板的功能丰富，能够满足您在智能家居开发中的需�
 
 ## 光线传感器
 
-![](./images/hardware-introduction-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/hardware-introduction-02.png)
 
 光线传感器是一种用于检测光线强度的传感器。它可以根据周围环境的光照变化输出相应的电信号。通过光敏传感器，您可以实时监测光线的强度，并根据需要自动调节灯光、触发其他设备或进行光照相关的应用。
 
@@ -37,7 +37,7 @@ IOT:bit扩展板的功能丰富，能够满足您在智能家居开发中的需�
 
 ## 噪音传感器
 
-![](./images/hardware-introduction-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/hardware-introduction-03.png)
 
 噪音传感器可以检测周围环境中的声音强度。它可以感应到声音的振动，并将其转化为相应的电信号。在智能声控灯案例中，噪音传感器可以与光敏传感器配合使用，检测到环境中的噪音和光线变暗时触发灯光的自动开启。
 
@@ -45,7 +45,7 @@ IOT:bit扩展板的功能丰富，能够满足您在智能家居开发中的需�
 
 ## 碰撞传感器
 
-![](./images/hardware-introduction-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/hardware-introduction-04.png)
 
 碰撞传感器能够检测物体的碰撞动作。它通过感应到外部的冲击力来触发信号输出，让您能够检测到门锁或其他设备是否受到碰撞的影响。在遥控开门器案例中，碰撞传感器可以作为门铃触发器，通知遥控端有人访问房屋。
 
@@ -53,7 +53,7 @@ IOT:bit扩展板的功能丰富，能够满足您在智能家居开发中的需�
 
 ## OLED显示屏
 
-![](./images/hardware-introduction-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/hardware-introduction-05.png)
 
 0.96寸 OLED 显示模块采用 SSD1306 驱动芯片，有128x64个自发光的白色像素点。具有功耗低、对比度高等优点，可用于许多显示应用，例如：各类传感器的数值显示；mini 小游戏机；智能穿戴设备等。
 
@@ -61,7 +61,7 @@ IOT:bit扩展板的功能丰富，能够满足您在智能家居开发中的需�
 
 ## 彩虹灯
 
-![](./images/hardware-introduction-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/hardware-introduction-06.png)
 
 彩虹灯可以产生丰富的颜色变化效果。可通过编程控制LED的亮度和颜色，以创造出令人愉悦的光效。
 
@@ -69,6 +69,6 @@ IOT:bit扩展板的功能丰富，能够满足您在智能家居开发中的需�
 
 ## 180度舵机
 
-![](./images/hardware-introduction-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/hardware-introduction-07.png)
 
 180度舵机是一种用于控制机械装置的电机驱动器。它可以通过电信号控制舵机转动到指定的角度，从而实现精确的运动控制。在遥控开门器案例中，180度舵机可以用来控制门的打开和关闭，以便实现自动开门的功能。

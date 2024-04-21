@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: 开箱自检
 ---
@@ -18,4 +18,4 @@ sidebar_label: 开箱自检
 
 ## 产品清单
 
-![](./images/smart-weather-station-kit-unpacking-and-checking-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/images/smart-weather-station-kit-unpacking-and-checking-01.png)

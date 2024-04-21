@@ -9,7 +9,7 @@ sidebar_label: case 07 走格子
 
 本课程旨在通过让学生学习和探索小车电机控制、程序设计的相关知识点，并应用这些知识来实现小车按照预设的格子行驶的功能。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-06-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-06-01.png)
 
 ## 教学目标
 
@@ -33,7 +33,7 @@ micro:bit × 1
 
 ### 示例代码
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-07-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-07-02.png)
 
 
 请参考程序连接：[https://makecode.microbit.org/S84220-50812-12042-42731](https://makecode.microbit.org/S84220-50812-12042-42731)

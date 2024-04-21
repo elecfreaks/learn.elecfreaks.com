@@ -4,7 +4,7 @@
 ---
 Octopus 5mmLED light Brick can be used in the interaction with the light works with micro:bit/Arduino.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/FJgPKrD.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FJgPKrD.jpg)
 
 ## Products Link
 
@@ -29,7 +29,7 @@ Weight|5g
 ## Outlook and Dimensions
 ---
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/G7swW1F.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/G7swW1F.png)
 
 ## Quick to Start
 ---
@@ -39,20 +39,20 @@ Weight|5g
 
   Take octupus:bit for example
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/n43XoAW.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/n43XoAW.jpg)
 
 ### Add Package
 Click "Advanced"in the choice of the MakeCode to find more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/smtcNoB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
 
 Click "Extensions", search "oled"in the dialog box and then download the "oled-ssd1306".
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/VGSLRXB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VGSLRXB.png)
 
 ### Program as the picture shows
 Digital write pin P0 to 1 and 0 one second later.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/AAzv9pn.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AAzv9pn.png)
 
 ### Reference
 

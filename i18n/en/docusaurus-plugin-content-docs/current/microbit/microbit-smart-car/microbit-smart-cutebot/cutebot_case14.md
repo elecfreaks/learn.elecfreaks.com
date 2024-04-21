@@ -4,7 +4,7 @@
 
 Use an infrared remote control to give orders to the Cutebot
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-14-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-14-01.png)
 
 ## Materials
 
@@ -23,12 +23,12 @@ Use an infrared remote control to give orders to the Cutebot
 
 Click "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-1.png)
 
 
 We need to add a package for programming, click "Extensions" on the bottom of the drawer and search with `Cutebot` in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-11.png)
 
 ***Note:*** If you met a tip indicating codebase will be deleted due to incompatibility, you may continue as the tips tell or build a new project.
 
@@ -37,14 +37,14 @@ We need to add a package for programming, click "Extensions" on the bottom of th
 
 Show an icon when on start.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_14_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_14_01.png)
 
 ### Step 3
 
 
 Judge the instructions given from the pressed buttons while receiving IR signals,Set the car to move at its full speed while button "up" being pressed on the remote controller;  to reverse at its full speed while button "down" being pressed; to turn left at its full speed while button "Left" being pressed; to turn right at its full speed while button "Right" being pressed and to stop immediately while button "OK" being pressed.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_14_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_14_02.png)
 
 ### Link
 
@@ -76,7 +76,7 @@ You can also download it directly below:
 
 Programme to use the IR Remote Control to give orders of moving forward, reversing, turning left/right and stopping to the car.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-14.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-14.gif)
 
 ## Exploration
 

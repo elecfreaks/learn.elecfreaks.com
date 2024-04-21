@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 5
 sidebar_label: remote door opener
 ---
@@ -10,7 +10,7 @@ sidebar_label: remote door opener
 
 当有人访问房子时，按动碰撞传感器，此时门锁端的micro:bit发送信号通知遥控端的micro:bit，当遥控端的micro:bit接收到信号时，显示图案，此时按下遥控端的micro:bit的A按键，则门锁端的micro:bit显示笑脸图标并控制舵机打开房门，并在OLED显示屏上显示“Welcome”，如果按下遥控端的micro:bit的B按键，则门锁端的micro:bit显示×图标，并在OLED显示屏上显示“Refused to enter”。
 
-![](./images/remote-door-opener-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-01.png)
 
 ## 课前准备
 
@@ -56,13 +56,13 @@ micro:bit的无线通信是否可以同时和多个micro:bit进行通信？
 >2.0ms———–135度；
 >2.5ms———–180度；
 
-![](./images/remote-door-opener-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-02.gif)
 
 ## 硬件连接
 
 碰撞传感器连接到IOT:bit的P2端口，将舵机连接到IOT:bit的P1端口。
 
-![](./images/remote-door-opener-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-02.png)
 
 ## 软件编程
 
@@ -72,15 +72,15 @@ micro:bit的无线通信是否可以同时和多个micro:bit进行通信？
 
 点击新建项目，在弹出的窗口填入项目名称并点击新建。
 
-![](./images/remote-door-opener-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-03.png)
 
 点击扩展
 
-![](./images/remote-door-opener-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-04.png)
 
 在弹出界面的搜索栏输入servo，点击搜索，在搜索结果中选择舵机的软件库。
 
-![](./images/remote-door-opener-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-05.png)
 
 ### 安装须知
 
@@ -88,7 +88,7 @@ micro:bit的无线通信是否可以同时和多个micro:bit进行通信？
 
 当按键A被按下时，控制连接到P1的舵机转动到90度。
 
-![](./images/remote-door-opener-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-06.png)
 
 编写并下载程序。
 
@@ -114,7 +114,7 @@ micro:bit的无线通信是否可以同时和多个micro:bit进行通信？
 
 设置P2引脚上拉。
 
-![](./images/remote-door-opener-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-07.png)
 
 在无限循环中判断连接在P2引脚的碰撞传感器是否被按下，
 
@@ -122,7 +122,7 @@ micro:bit的无线通信是否可以同时和多个micro:bit进行通信？
 
 否则无线发送数字0。
 
-![](./images/remote-door-opener-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-08.png)
 
 当无线通信接收到信号时；
 
@@ -142,7 +142,7 @@ micro:bit的LED矩阵显示错误图标，暂停5000ms；
 
 清除OLED显示屏显示信息，micro:bit的LED矩阵显示爱心图标；
 
-![](./images/remote-door-opener-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-09.png)
 
 
 程序链接：[https://makecode.microbit.org/S43729-79384-22654-20945](https://makecode.microbit.org/S43729-79384-22654-20945)
@@ -158,7 +158,7 @@ micro:bit的LED矩阵显示错误图标，暂停5000ms；
 
 设置变量`key`为false。
 
-![](./images/remote-door-opener-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-10.png)
 
 当无线通信接收到信号时；
 
@@ -170,7 +170,7 @@ micro:bit的LED矩阵显示错误图标，暂停5000ms；
 
 则设置变量`radio`的值为0；
 
-![](./images/remote-door-opener-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-11.png)
 
 在无限循环中判断变量`radio`的值，
 
@@ -188,7 +188,7 @@ micro:bit的LED矩阵显示错误图标，暂停5000ms；
 
 当变量`key`为false时，自动跳出循环，micro:bit的LED矩阵显示爱心图标。
 
-![](./images/remote-door-opener-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener-12.png)
 
 
 程序链接：[https://makecode.microbit.org/S60091-73106-37070-71707](https://makecode.microbit.org/S60091-73106-37070-71707)
@@ -198,4 +198,4 @@ micro:bit的LED矩阵显示错误图标，暂停5000ms；
 
 当有人访问房子时，按动碰撞传感器，此时门锁端的micro:bit发送信号通知遥控端的micro:bit，当遥控端的micro:bit接收到信号时，显示图案，此时按下遥控端的micro:bit的A按键，则门锁端的micro:bit显示笑脸图标并控制舵机打开房门，并在OLED显示屏上显示“Welcome”，如果按下遥控端的micro:bit的B按键，则门锁端的micro:bit显示×图标，并在OLED显示屏上显示“Refused to enter”。
 
-![](./images/remote-door-opener.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-smart-home-kit/images/remote-door-opener.gif)

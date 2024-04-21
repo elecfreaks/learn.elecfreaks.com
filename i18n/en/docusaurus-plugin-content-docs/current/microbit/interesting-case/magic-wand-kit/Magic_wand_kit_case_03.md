@@ -1,4 +1,4 @@
-# Case 03: Coping with Stress
+﻿# Case 03: Coping with Stress
 
 ## Purpose
 ---
@@ -32,11 +32,11 @@ Xiao En sends out the flying saucer and gets together with his partners, they fe
 
  Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](./images/magicwand_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_02.png)
 
 We need to add a package for programming, . Click "Extensions" in the bottom of the drawer and search with "magicwand" in the dialogue box to download it. (Kindly note this package is still in the verifying process and pls search with "https://github.com/elecfreaks/pxt-magicwand " before it's ready)
 
-![](./images/magicwand_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_01_03.png)
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
@@ -46,29 +46,29 @@ Choose the variables in the MakeCode drawer and write the letter "i" in the dial
 
 
 
-![](./images/magicwand_case_03_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_03_04.png)
 
 
-![](./images/magicwand_case_03_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_03_05.png)
 
 
 ### Step 3
 Drag the variable brick and set it as 0 into the on start brick.
 
-![](./images/magicwand_case_03_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_03_06.png)
 
 ### Step 4
 
 Drag the if...else... brick into the forever brick to judge the value of the variable and the status of the button connecting to P2. While "1"=1 and the button connecting to P2 is pressed, it shows a smile face, then set to pause for 500ms and show an icon, at last set the variable as 0.
 
 
-![](./images/magicwand_case_03_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_03_07.png)
 
 ### Step 5
 
 Drag the while vibrating brick and set it as 6g, choose the show number brick to show the variable "i" and set it to 1.
 
-![](./images/magicwand_case_03_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/magic-wand-kit/images/magicwand_case_03_08.png)
 
 
 

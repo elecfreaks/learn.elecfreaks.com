@@ -12,7 +12,7 @@ Create a game to make the player be chased by monsters.
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-01-01.png)
 
 
 
@@ -30,7 +30,7 @@ Create a game to make the player be chased by monsters.
 Set the game over if the sprite reaches onto the plants and the the sprite wins if it reaches the jewel. On the way of progressing, a monster comes out each two seconds to hit  the sprite, the life score starts from 3 and it decreases by 1 if the sprite gets hit by the monster and the game is over if the score decreases to 0.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-08-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-08-01.png)
 
 
 
@@ -67,23 +67,23 @@ You may download it directly below:
 
 After programming, connect the computer with the Retro via the USB cable.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-01-10.png)
 
 Choose hardware "F4".
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-01-11.png)
 
 Match the devices and get connected with "Arcade (app)".
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-01-12.png)
 
 Click the reset button on the Retro and go to the downloading page.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-01-13.png)
 
 Click downloading to compile the program into the Retro.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-01-14.png)
 
 
 

@@ -84,13 +84,13 @@ sidebar_label: 基于串口协议开发使用
 
 在初始站姿情况下，原点位于机身正下方，机器狗前进方向为X轴正向，左为Y轴正向，上为Z轴正向。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-xyz-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-xyz-01.png)
 
 ### 单腿坐标系
 
 单腿坐标系用于描述足端的位置，四条腿对应四个独立的单腿坐标系，大腿关节为原点，机器狗前进方向为x轴正向，左为Y轴正向，下为Z轴正向。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-xyz-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-xyz-02.png)
 
 ### 舵机编号
 

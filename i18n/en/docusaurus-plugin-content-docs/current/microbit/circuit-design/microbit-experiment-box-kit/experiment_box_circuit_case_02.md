@@ -11,7 +11,7 @@ We are going to use the experiment box to finish a pure circuit design and to co
 ## Hardware Connect ##
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/VO9NEwe.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VO9NEwe.png)
 
  Connect circuit as above picture and put 2 AAA batteries into the batteries pack.
 
@@ -23,7 +23,7 @@ We are going to use the experiment box to finish a pure circuit design and to co
  The variable resistor，its value could be adjusted and it can be used to adjust the situation for circuital current and resistance value change. The variable resistor can change the feature of the signal generator, dim the light and drive the motor to control its rotation. 
  The trimpot is shown in the schemetics as below picture.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/H4BlhWs.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/H4BlhWs.jpg)
 
 
 ### NMOS Tube ###
@@ -32,19 +32,19 @@ We are going to use the experiment box to finish a pure circuit design and to co
 
  The NMOS tube is shown in the schemetics as below picture. 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/pAPvoYd.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pAPvoYd.jpg)
 
 ### DC Motor ###
 
  A DC motor is an electric motor that converts direct current electrical energy into mechanical energy. Due to its good speed regulation performance, it is widely used in power drag. The DC motor is divided into three types according to the excitation mode: permanent magnet, other excitation and selfexcitation. The experiment box included a 3V permanent magnet DC motor, and the its speed is proportional to the voltage value. Starting voltage is 2V, rated voltage is 3V. 
  The DC motor is shown in the schemetics as below picture.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/w9gVNIj.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/w9gVNIj.jpg)
 
 ## Circuit Analysis ##
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/HH1dh6R.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/HH1dh6R.png)
 
  When the resistance value increases, it can be divider resistance for motor and  it outputs the signal to mos tube(G). 
  When the trimpot rotates to a certain angle, the mos tube conducts, the circuit of motor connects and the motor rotates. 

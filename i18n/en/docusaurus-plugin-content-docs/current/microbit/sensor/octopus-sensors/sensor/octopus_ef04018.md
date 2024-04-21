@@ -6,7 +6,7 @@ MAX6675 is a 12-bit resolution Serial K-type thermocouple converter, produced by
 
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/69XJjkN.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/69XJjkN.jpg)
 
 ## Characteristics
 
@@ -27,7 +27,7 @@ Circuit|Simple
 ## Outlook and Dimensions
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Zv69Fus.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/Zv69Fus.png)
 
 ## Quick to Start
 
@@ -37,7 +37,7 @@ Circuit|Simple
 
 ### Program as the picture shows:
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/kVWtBcn.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/kVWtBcn.png)
 
 ### Reference
 Links:

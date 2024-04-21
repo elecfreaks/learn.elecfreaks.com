@@ -4,7 +4,7 @@
 
 This is a simple car. I installed a cool rainbow light ring on the car, and we can display different lighting effects through this light ring.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_29_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_29_01.png)
 
 ## Quick Start
 
@@ -33,7 +33,7 @@ Bricks × n
 Insert the micro:bit, connect the motors to M1and M4, the color sensor to IIC port and the rainbow LED ring to J1 on the Nezha expansion board as the picture shows.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_29_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_29_03.png)
 
 
 
@@ -48,39 +48,39 @@ Link: [https://youtu.be/Am1ZEq1CqnY](https://youtu.be/Am1ZEq1CqnY)
 ### Assembly Steps
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_29_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_29_01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_29_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_29_02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_29_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_29_03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_29_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_29_04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_29_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_29_05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_29_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_29_06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_29_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_29_07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_29_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_29_08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_29_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_29_09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_29_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_29_10.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_29_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_29_11.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_29_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_29_12.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_29_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_29_13.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_29_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_29_14.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_29_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_29_15.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_29_16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_29_16.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_29_17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_29_17.png)
 
 
 
@@ -94,14 +94,14 @@ Link: [https://youtu.be/Am1ZEq1CqnY](https://youtu.be/Am1ZEq1CqnY)
 
 Click "Advanced" in the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
 
 
 
 
 For programming, we need to add a package, click "Extensions" at the bottom of the MakeCode drawer and search with "nezha" in the dialogue box to download it
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_03_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_03_09.png)
 
 
 ***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
@@ -111,7 +111,7 @@ For programming, we need to add a package, click "Extensions" at the bottom of t
 ### Code as below:
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_29_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_29_10.png)
 
 
 
@@ -143,4 +143,4 @@ You may also download it directly below:
 ### Result
 After powering on, press button A to drive the car foward and the LEDs light up in red and blue, press button B to stop the car and the LEDs light off.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-gif-29.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case-gif-29.gif)

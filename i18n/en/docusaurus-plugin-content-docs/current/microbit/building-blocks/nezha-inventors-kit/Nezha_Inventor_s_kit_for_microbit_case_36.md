@@ -4,7 +4,7 @@
 
 This is a unique code door because it uses colors as the password. The code door will only open when the color cards are placed in the correct order.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_36_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_36_01.png)
 
 ## Quick Start
 
@@ -33,7 +33,7 @@ Bricks × n
 Inset the micro:bit, connect the color sensor to IIC port, the 360 degrees servo to S1 and the crash sensor to J1 port on Nezha expansion board.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_36_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_36_03.png)
 
 
 
@@ -46,27 +46,27 @@ Video link: [https://youtu.be/WiSpnc5fPbA](https://youtu.be/WiSpnc5fPbA)
 
 ### Assembly Steps
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_36_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_36_01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_36_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_36_02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_36_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_36_03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_36_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_36_04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_36_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_36_05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_36_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_36_06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_36_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_36_07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_36_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_36_08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_36_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_36_09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_36_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_36_10.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_36_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_36_11.png)
 
 
 ## MakeCode Programming
@@ -78,14 +78,14 @@ Video link: [https://youtu.be/WiSpnc5fPbA](https://youtu.be/WiSpnc5fPbA)
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
 
 
 
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "nezha" to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_03_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_03_09.png)
 
 ***Note:*** If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -94,7 +94,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 ### Programme as the pictures indicate
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_36_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_36_10.png)
 
 
 
@@ -127,4 +127,4 @@ You may download it directly below:
 ### Result
 Sending the passwords via the colors, press the crash sensor to confirm after you choose the colors ready, the door would open if the two passwords are correct or the micro:bit displays "x" and the program reruns.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-gif-36.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case-gif-36.gif)

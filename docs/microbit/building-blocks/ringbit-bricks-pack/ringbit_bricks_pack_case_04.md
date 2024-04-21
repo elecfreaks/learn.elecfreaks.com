@@ -5,7 +5,7 @@
 - 使用Ring:bit六合一搭建套件制作智能台灯
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_04_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_04_01.png)
 
 
 
@@ -13,7 +13,7 @@
 ---
 [六合一积木搭建套件（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=619734013239)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_04_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_04_02.png)
 
 
 
@@ -23,43 +23,43 @@
 ## 积木搭建
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_04_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_04_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_04_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_04_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_04_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_04_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_04_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_04_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_04_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_04_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_10.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_04_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_11.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_04_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_12.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_04_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_13.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_04_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_14.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_04_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_15.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_04_16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_16.png)
 
 ***注意：接线时黄色线需要连接在端口上方标有数字（0/1/2）的位置。
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_04_17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_04_17.png)
 
 通过下面链接下载PDF文档即可获得详细的搭建步骤图
 [Github下载 ](https://github.com/elecfreaks/learn-cn/raw/master/microbitKit/ring_bit_bricks_pack/files/Ringbit_Bricks_Pack_step_04_v1.1.pdf)
@@ -79,7 +79,7 @@
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_04_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_04_03.png)
 
 
 
@@ -90,7 +90,7 @@
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_04_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_04_04.png)
 
 
 
@@ -103,7 +103,7 @@
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_04_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_04_05.png)
 
 
 
@@ -112,7 +112,7 @@
 
 在`无限循环`中判断`亮度级别`积木块的返回值，当亮度级别小于10时，设置灯带显示白色，当亮度级别大于15时，设置灯带显示黑色。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_04_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_04_06.png)
 
 ### 程序
 

@@ -37,7 +37,7 @@ Net Weight|28 g
 ### Operating Method 
 
 Put the water outlet into the water pipe , connect the power of the pump and the ground wire with 3V DC power, then put the pump into the water and it starts to work by drawing water or drawing off water after switching on. 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/KzORYOY.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/KzORYOY.png)
 
 ## FAQ
 

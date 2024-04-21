@@ -10,13 +10,13 @@
 
 ## Hardware Connect ##
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2hsQnmL.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/2hsQnmL.png)
 
   Connect circuit as above picture and put 2 AAA batteries into batteries pack.
 
 ## Principles of Circuits ##
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VT0SVKN.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/VT0SVKN.png)
 
  The GND of slot on micro:bit is into innards of batteries' GND to generate the current loop.
 
@@ -26,7 +26,7 @@
  The selflocking switch is usually a normal switch with a mechanical lock built in. When pressed down and released, it doesn't bounce back automatically. Only after a second press will it unlock and fully release.
  The experiment box included a selflocking button with a red hat.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/3iIZPHP.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/3iIZPHP.png)
 
 ***Note:*** Please note the positive and the negative when you are connecting.
 
@@ -38,29 +38,29 @@
 
  Click on "New Project" and set a new Project.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/t34k5Zb.png)
 
 ### Step 2
 
  Snap the set pin block into the on start to emit the edge events. Then, set pull pin P0 to up to set a default high level and to detect the edge of the level fluctuation.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/aIzHYGY.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/aIzHYGY.png)
 
  Every time you press the button, the voltage of P0 port P0 changes. From 0V to 3.3 V, we call this RISE. From3.3V to 0V, we call this FALL.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/kcnveNe.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/kcnveNe.jpg)
 
 ### Step 3
 
  Set a event to monitor rise and fall of P0 voltage. When the RISE comes, write 1 to P2 port to light up the LED.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/c6aX7T8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/c6aX7T8.png)
 
 ### Step 4
 
  When the FALL comes, write 0 to P2 port to turn off the LED.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/c6aX7T8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/c6aX7T8.png)
 
 ### Program
 

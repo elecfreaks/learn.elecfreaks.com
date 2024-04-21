@@ -6,7 +6,7 @@ sidebar_label: 案例09 噪音检测器
 
 # 案例09 噪音监测器
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case09-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case09-01.png)
 
 ## 简介
 
@@ -30,7 +30,7 @@ sidebar_label: 案例09 噪音检测器
 
 ### 噪音等级划分
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case09-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case09-02.png)
 
 根据国家环境法规定，城市五类区域的环境噪声最高限值：
 
@@ -57,11 +57,11 @@ sidebar_label: 案例09 噪音检测器
 
 按照下面连接示意图，将您的元器件连接起来：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case09-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case09-05.png)
 
 ## MicroBlocks 图形化编程
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case09-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case09-04.png)
 
 ## CircuitPython 代码编程
 
@@ -83,7 +83,7 @@ while True:
 
 ## 案例演示
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-kit-case09-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-kit-case09-06.gif)
 
 ## 思考
 

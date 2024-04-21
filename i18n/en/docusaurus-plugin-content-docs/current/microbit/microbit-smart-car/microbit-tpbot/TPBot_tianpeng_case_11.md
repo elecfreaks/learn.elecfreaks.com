@@ -16,7 +16,7 @@ sidebar_label: Following with A Fixed Distance
 
 - 1 x [TPBot](https://www.elecfreaks.com/tpbot.html)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_01.png)
 
 ## Software
 ---
@@ -29,17 +29,17 @@ sidebar_label: Following with A Fixed Distance
 
 - Click "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_02.png)
 
 - We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "tpbot" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_03.png)
 
 ### Sample
 - Set an icon on the micro:bit display.
 - Save the variable as the distance detected from the TPBot to its front car in the forever brick, judge if the the distance is between 10 and 20(exl. 10&20), if yes, set the speed of both wheels in 0; if the distance is below 10, set the speed of both wheels in -30%; or set the speed both in 30%.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_11_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_11_04.png)
 
 ### Link
 - Link: [https://makecode.microbit.org/_9ugK1pVyPE8M](https://makecode.microbit.org/_9ugK1pVyPE8M)

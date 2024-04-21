@@ -4,7 +4,7 @@
 
 This is an interesting lighting device that uses gesture recognition sensors to recognize human gesture commands and control the color of the light.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_32_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_32_01.png)
 
 ## Quick Start
 
@@ -33,7 +33,7 @@ Bricks × n
 Inset the micro:bit, connect the gesture sensor to IIC port and the rainbow led ring to S1 on Nezha expansion board.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_32_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_32_03.png)
 
 
 
@@ -47,19 +47,19 @@ Video link: [https://youtu.be/hq1rtbGvAwU](https://youtu.be/hq1rtbGvAwU)
 ### Assembly Steps
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_32_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_32_01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_32_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_32_02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_32_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_32_03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_32_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_32_04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_32_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_32_05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_32_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_32_06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_32_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_32_07.png)
 
 
 
@@ -74,14 +74,14 @@ Video link: [https://youtu.be/hq1rtbGvAwU](https://youtu.be/hq1rtbGvAwU)
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
 
 
 
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "nezha" to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_03_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_03_09.png)
 
 ***Note:*** If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -91,7 +91,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 ### Programme as the pictures indicate
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_32_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_32_10.png)
 
 
 
@@ -124,4 +124,4 @@ You may download it directly below:
 ### Result
 The lights color is able to be changed by hands gesture.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-gif-32.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case-gif-32.gif)

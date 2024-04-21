@@ -1,6 +1,6 @@
 ﻿# 课程_14 环境光
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NkZTTdv.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/NkZTTdv.jpg)
 
 ## 简介
 ---
@@ -18,7 +18,7 @@
 
 **温馨提示：如果你需要以上所有元件，你可以购买我们的[Elecfreaks小小科学家套件](https://item.taobao.com/item.htm?ft=t&id=597096675822)。**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
 
 ## 主要元件介绍
 ---
@@ -26,7 +26,7 @@
 
 micro:bit屏幕是由一个5x5的LED点阵构成。它作为一个3x9的矩阵连接到了micro:bit上。运行软件高速反复更新这个矩阵，正因为如此，它是位于用户视野范围内，并且不会检测到任何闪光。通过将一些LED驱动引脚反复切换成输入，并对电压衰减时间进行采样，这个LED矩阵也被应用于感应环境光，这和周围的环境光等级大致成正比。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1JzFZG3.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/1JzFZG3.jpg)
 
 真是太不可思议啦！除了它的发光能力，micro:bit居然可以感光！因为LED通常被作为发光器来使用，所以我们很容易忘记它是基本的光电二极管，而且也是光检测器。如果并入LED驱动电路中，那么它的功能就能够被很好地展现，而无须任何额外的硬件。
 
@@ -37,11 +37,11 @@ micro:bit屏幕是由一个5x5的LED点阵构成。它作为一个3x9的矩阵�
 
 - 将灯环的信号线与扩展板的P0口连接起来
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/fKgQRoW.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/fKgQRoW.jpg)
 
 连接完成后如图:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Hacl6BL.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/Hacl6BL.jpg)
 
 ### 软件
 
@@ -52,24 +52,24 @@ micro:bit屏幕是由一个5x5的LED点阵构成。它作为一个3x9的矩阵�
 ### 添加Package
 - 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_14_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_14_01.png)
 
 点击`扩展`，在弹出的对话框中搜索“neopixel"，下载neopixel代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_14_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_14_02.png)
 
 ### 如图所示编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_14_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_14_03.png)
 
 ### 代码详解
 - 1.将扩展板P0口设置为灯环信号输出口，将色彩模式设置为RGB模式。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_14_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_14_04.png)
 
 - 2.当micro:bit接收到的光照强度低于10，控制灯环发出七彩的光芒。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_14_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_14_05.png)
 
 ### 参考程序
 请参考程序连接：[https://makecode.microbit.org/_70bWD0iuK6AT](https://makecode.microbit.org/_70bWD0iuK6AT)
@@ -101,7 +101,7 @@ micro:bit屏幕是由一个5x5的LED点阵构成。它作为一个3x9的矩阵�
 ---
 在暗处，灯环点亮；在亮处，灯环熄灭。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/F9B9ySD.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/F9B9ySD.gif)
 
 
 ## 思考

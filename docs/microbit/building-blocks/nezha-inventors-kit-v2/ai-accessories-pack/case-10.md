@@ -9,7 +9,7 @@ sidebar_position: 11
 
 本课程旨在引导学生使用哪吒发明家套装V2和AI扩展包来制作一个具有语音识别功能的风扇控制系统。通过这个项目，学生将学习如何将科技与生活实际应用相结合，培养他们的STEAM（科学、技术、工程、艺术、数学）技能，提高问题解决和创造力。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-10-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-10-01.png)
 
 ## 教学目标
 
@@ -51,69 +51,69 @@ sidebar_position: 11
 
 ##### 搭建步骤
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-10.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-11.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-12.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-13.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-14.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-15.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-16.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-17.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-18.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-19.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-20.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-21.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-22.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-23.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-23.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-24.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-24.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-25.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-25.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-10-26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-10-26.png)
 
 
 
 **搭建完成**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-01.png)
 
 ##### 硬件连接
 
 将彩虹灯环连接到哪吒扩展板的J1接口，舵机连接到哪吒扩展板的J1接口，风扇连接到哪吒扩展板的J2接口，将语音识别传感器连接到哪吒扩展板的IIC接口。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-10-02.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-10-02.png)
 
 ##### 软件编程
 
@@ -121,23 +121,23 @@ sidebar_position: 11
 
 新建项目
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-03.png)
 
 点击扩展
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-04.png)
 
 在搜索栏搜索`nezha`添加哪吒多功能扩展盒的扩展库
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-01-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-06.png)
 
 在搜索栏搜索`planetx`添加行星系列传感器的扩展库
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-01-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-07.png)
 
 编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-10-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-10-08.png)
 
 
 程序链接:[https://makecode.microbit.org/_WoURtRcYmHk6](https://makecode.microbit.org/_WoURtRcYmHk6)
@@ -176,7 +176,7 @@ sidebar_position: 11
 
 通过语音即可控制风扇的开启、关闭、档位、是否摇头等功能。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-10.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-10.gif)
 
 ### 反思
 

@@ -6,7 +6,7 @@ When we enter some communities or companies, we will see that there are railings
 
 The human infrared sensor application is very wide, it can be used in shopping malls, hotels, scenic spots, and so on. Now let's do a small project with the infrared sensor to understand how it helps to improve our living experiences.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_1.png)
 
 ### Materials Required
 
@@ -28,27 +28,27 @@ Bricks × n
 
 Component Details
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_8.png)
 
 Build it as the assembly steps suggest:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_2.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_3.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_4.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_5.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_6.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_7.png)
 
 ## Connection Diagram
 
 Connect the PIR sensor to J1 and the servo to S1 as the picture indicates below.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_9.png)
 
 ##  MakeCode Programming
 
@@ -58,7 +58,7 @@ Click “Advanced” in the MakeCode drawer to see more choices.
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_10.png)
 
 
 
@@ -66,13 +66,13 @@ For programming the servo , We need to add a package. Click “Extensions” at 
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_11.png)
 
 
 
 For programming the PIR sensor, we need to add a package. Search with “PlanetX” in the dialogue box and click to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_12.png)
 
 
 
@@ -80,7 +80,7 @@ For programming the PIR sensor, we need to add a package. Search with “PlanetX
 
 ### Reference
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_13.png)
 
 Link: https://makecode.microbit.org/#editor
 
@@ -109,4 +109,4 @@ You may also download it directly:
 
 After powering on the NEZHA expansion board,  if the PIR sensor detects the arrival of someone, the railing will be raised automatically and it will drop after a while.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_2.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_2.gif)

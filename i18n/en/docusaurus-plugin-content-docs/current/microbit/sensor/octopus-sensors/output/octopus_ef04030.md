@@ -4,7 +4,7 @@
 
 Octopus Active Buzzer Brick is based on an active buzzer with a constant volume but can not be controlled  by PWM.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Gs5XBx1.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/Gs5XBx1.jpg)
 
 
 
@@ -31,7 +31,7 @@ Size|19x27mm
 
 ## Outlook and Dimensions
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/GV8xv7y.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/GV8xv7y.jpg)
 
 ## Quick to Start
 
@@ -41,12 +41,12 @@ Size|19x27mm
 
   Take sensor:bit for example
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/r3NAMg8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/r3NAMg8.png)
 
 ### Add Package
 
 ### Program as the picture shows
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/CjlZhvP.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/CjlZhvP.png)
 
 ### Reference
 Links: [https://makecode.microbit.org/_3KMCFREjmbYx](https://makecode.microbit.org/_3KMCFREjmbYx)

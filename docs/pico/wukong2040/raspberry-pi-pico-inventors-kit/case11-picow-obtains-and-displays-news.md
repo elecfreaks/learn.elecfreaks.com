@@ -5,7 +5,7 @@ sidebar_label: 案例11 Pico W 获取新闻并显示
 
 # 案例11 Pico W 获取新闻并显示
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case11-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case11-01.png)
 
 ## 简介
 
@@ -45,7 +45,7 @@ sidebar_label: 案例11 Pico W 获取新闻并显示
 
 按照下面连接示意图，将您的元器件连接起来：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case05-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case05-06.png)
 
 ## 编程准备
 
@@ -53,11 +53,11 @@ sidebar_label: 案例11 Pico W 获取新闻并显示
 
 在此之外，还需要添加额外的库文件，如下图所示：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case12-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case12-04.png)
 
 首先需要转到 [CircuitPython Libraries 网站](https://circuitpython.org/libraries)下载与已经烧录的 Pico W 的固件相同版本的库捆绑包。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case12-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case12-05.png)
 
 将压缩包解压并找到上图中显示的文件和文件夹复制到 CIRCUITPY 磁盘的 lib 文件夹中。
 
@@ -113,7 +113,7 @@ time.sleep(1800)
 
 ## 案例演示
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-kit-case12-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-kit-case12-06.gif)
 
 ## 思考
 

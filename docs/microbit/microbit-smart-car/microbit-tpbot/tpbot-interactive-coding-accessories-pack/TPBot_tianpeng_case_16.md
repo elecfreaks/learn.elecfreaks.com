@@ -16,7 +16,7 @@ sidebar_label: 炫彩灯光
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_01_01.png)
 
 
 
@@ -27,7 +27,7 @@ sidebar_label: 炫彩灯光
 将彩虹灯环连接到天蓬智能车的端口1。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_16_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_16_03.png)
 
 
 
@@ -42,15 +42,15 @@ sidebar_label: 炫彩灯光
 
 - 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_01_02.png)
 
 - 为了给天蓬智能车编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`tpbot`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_01_03.png)
 
 - 为了给彩虹灯环编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索`PlanetX`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_15_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_15_03.png)
 
 ##示例程序
 
@@ -59,7 +59,7 @@ sidebar_label: 炫彩灯光
 - 在`无限循环`中，判断变量`i`的值，当变量`i`等于1时，设置彩虹灯环显示红色灯光，延时500ms，显示蓝色灯光，再延时500ms；否则设置彩虹灯环显示黑色。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_16_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-interactive-coding-accessories-pack/images/TPBot_tianpeng_case_16_04.png)
 
 
 ### 程序

@@ -9,7 +9,7 @@ sidebar_label: 独角仙
 独角仙大量出现于6~8月，具有趋光性，多为昼出夜伏，白天常常聚集在青刚栎流出树液处，或是在光腊树上也常出现聚集上百只独角仙的盛况，到了晚上，在山区有路灯处，也往往可以发现他们的踪迹。他们主要以树木伤口处的汁液，或熟透的水果为食，对作物林木基本不造成危害。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-09-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-09-01.png)
 
 ## 使用材料
 
@@ -39,8 +39,8 @@ Please refer to the software operation method: [Get Started Quickly](http://)
 
 ## 效果展示
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-09-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-09-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-09-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-09-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-09-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-09-04.png)

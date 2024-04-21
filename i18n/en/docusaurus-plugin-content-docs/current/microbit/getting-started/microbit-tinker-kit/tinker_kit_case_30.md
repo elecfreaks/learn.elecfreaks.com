@@ -27,7 +27,7 @@
 ## Hardware Step 1 – Input/Output
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iEF8mjS.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/iEF8mjS.jpg)
 
 - Attach the MicroBit to the Breakout Board.
 - Connect the LED to pin 12, which is a digital pin.
@@ -42,9 +42,9 @@
 ### Step 2 – File Transfer
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/GTOykBX.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/GTOykBX.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/GheA49n.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/GheA49n.png)
 
 - We need to download some modules to be used in the project.
 - From This link, download the module as a zip file.
@@ -58,7 +58,7 @@
 ### Step 3 – Loading Screens
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/a673xL0.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/a673xL0.png)
 
 
 - This step isn’t really necessary , but it adds a little flair into your project.
@@ -71,7 +71,7 @@
 ### Step 4 – Code the Game
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FFzB46b.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/FFzB46b.png)
 
 - Here’s the actual test itself.
 - First, we have to have a time to wait before showing the indicator for the player to press the button.
@@ -84,13 +84,13 @@
 ### Step 5 – A Little More Logic
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/brOmadg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/brOmadg.png)
 
 - This is the step where we calculate and display the player’s reaction time.
 - This is done by calculating the time between when the indicator is displayed and when the player presses the button.
 - Then, we display the player’s reaction time to the OLED display.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/siPzaXf.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/siPzaXf.jpg)
 
 
 ## Bonus loading effects:

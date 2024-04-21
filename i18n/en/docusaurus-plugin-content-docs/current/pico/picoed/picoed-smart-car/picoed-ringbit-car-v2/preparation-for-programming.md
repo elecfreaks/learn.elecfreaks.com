@@ -23,7 +23,7 @@ In the following cases, other related libraries are needed to ensure that you ca
 3. [CircuitPython_Ringbit](https://github.com/elecfreaks/circuitpython_ringbit). The `CircuitPython_Ringbit` library file contains control methods for the ring:bit expansion board. 
 4. Next, just follow the steps for adding the picoed library files and place `adafruit_motor`, `adafruit_is31fl3731` `neopixel.py` `ringbit.py` in the lib folder of the CIRCUITPY disk, see the reference picture below.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/program.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/program.png)
 
 ## Ringbit Libraries
 For more operation and functions of ringbit, please refer to: [Usage for Ring:bit library](https://github.com/elecfreaks/learn-en/blob/master/pico-regular-libraries/pico-ringbit-libraries.md)

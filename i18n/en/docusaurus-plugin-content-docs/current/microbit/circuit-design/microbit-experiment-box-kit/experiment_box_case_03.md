@@ -10,13 +10,13 @@ The RGB LED is a kind of LED which creates light of red, green and blue. In this
 
 ## Hardware Connect ##
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Gca57tq.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/Gca57tq.png)
 
  Connect circuit as above picture and put 2 AAA batteries to batteries pack.
 
 ## Principles of Circuits ##
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wnBLHqP.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/wnBLHqP.png)
 
 The GND of slot on micro:bit is into innards of batteries' GND to generate current loop.
 
@@ -28,7 +28,7 @@ The GND of slot on micro:bit is into innards of batteries' GND to generate curre
 common port connects to GND. While in commonanode RGB LEDs, the common port connects to VCC.
   Our Experiment Box uses a commoncathode RGB LED.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/KF4IVxu.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/KF4IVxu.jpg)
 
 ***Note:*** Please note the positive and the negative when you are connecting.
 
@@ -40,7 +40,7 @@ common port connects to GND. While in commonanode RGB LEDs, the common port conn
 
  Click on "New Project" and set a new Project.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/t34k5Zb.png)
 
 ### Step 2
 
@@ -48,13 +48,13 @@ common port connects to GND. While in commonanode RGB LEDs, the common port conn
  It means write 1 to R channel of the RGB and write 0 to G & b channel of the RGB.
  RGB LED is the red light.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/sB2lvoi.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/sB2lvoi.png)
 
  Write code for the green light and the blue light in the same way.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Rl1jlrI.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/Rl1jlrI.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JsaMcnR.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/JsaMcnR.png)
 
 
 ### Program

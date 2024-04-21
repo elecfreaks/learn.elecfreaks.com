@@ -18,16 +18,16 @@
 
 ### 超声波测距原理
 - 超声波发射器向某一方向发射超声波，在发射时刻的同时开始计时，超声波在空气中传播，途中碰到障碍物就立即返回来，超声波接收器收到反射波就立即停止计时。根据接收器接到超声波时的时间计算距离，与雷达测距原理相似。
-- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/vSFTiuw.jpg)
+- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/vSFTiuw.jpg)
 
 ## 硬件连接图
 ---
 
 如图所示，将超声波模块连接到P5引脚。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t4vFZ0y.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/t4vFZ0y.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/kzPngGo.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/kzPngGo.jpg)
 
 ## 软件
 ---
@@ -38,11 +38,11 @@
 ### 步骤 1
 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/motor_bit_case_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_01.png)
 
 为了给motorbit主板编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索“motorbit"，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/motor_bit_case_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_02.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -54,7 +54,7 @@
 - 如果返回的参数小于10，设置电机以80的速度倒车。
 - 如果返回的参数都不符合，设置电机以80的速度前进。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/motor_bit_case_02_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motor_bit_case_02_03.png)
 
 
 ### 程序

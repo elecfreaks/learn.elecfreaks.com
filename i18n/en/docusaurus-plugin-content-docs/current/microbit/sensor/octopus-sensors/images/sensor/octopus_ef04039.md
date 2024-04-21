@@ -4,7 +4,7 @@
 
 The Voltage Divider can detect the supply voltage upto 50V and  is based on resistor(1K and 15K Precision resistors).
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/fl6I2w5.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/fl6I2w5.jpg)
 
 
 
@@ -25,7 +25,7 @@ Detection Scope|Upto 50V
 
 ## Outlook and Dimensions
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/doEjdcR.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/doEjdcR.png)
 
 ## Quick to Start
 
@@ -35,13 +35,13 @@ Detection Scope|Upto 50V
 
   Take sensor:bit for example
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/fcHzFyT.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/fcHzFyT.png)
 
 ### Add Package
 
 ### Program as the picture shows
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/6DO11mU.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/6DO11mU.png)
 
 ### Reference
 Links: [https://makecode.microbit.org/_AXD2gM3J36Jz](https://makecode.microbit.org/_AXD2gM3J36Jz)

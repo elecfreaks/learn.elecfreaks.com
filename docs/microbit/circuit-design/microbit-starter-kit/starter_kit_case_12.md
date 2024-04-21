@@ -1,6 +1,6 @@
 ﻿# 课程_12 加速度计
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/5RJ1KJn.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/5RJ1KJn.jpg)
 
 ## 简介
 ---
@@ -18,7 +18,7 @@ micro:bit上集成了丰富的传感器，其中就包含了加速度计。在�
 
 **温馨提示：如果你需要以上所有元件，你可以购买我们的[Elecfreaks小小科学家套件](https://item.taobao.com/item.htm?ft=t&id=597096675822)。**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
 
 ## 主要元件介绍
 ---
@@ -26,11 +26,11 @@ micro:bit上集成了丰富的传感器，其中就包含了加速度计。在�
 
 在你的micro:bit主板上有一个加速度计。它可以检测micro:bit的速度变化，将模拟信息转换成可以在micro:bit程序中使用的数字格式。输出的单位是毫克。这个装置也可以检测一小部分标准动作，例如：摇晃、倾斜以及自由落体。
  
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/kzqAOK4.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/kzqAOK4.jpg)
 
 加速度计对应的X、Y、Z三个方向如下图所示：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FQ6zBkH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/FQ6zBkH.jpg)
 
 ## 实验步骤
 ---
@@ -39,11 +39,11 @@ micro:bit上集成了丰富的传感器，其中就包含了加速度计。在�
 
 - 将RGB灯的信号线与扩展板的P0口连接
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NPvcrUo.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/NPvcrUo.jpg)
 
 连接完成后如图:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/SOD2TLb.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/SOD2TLb.jpg)
 
 ### 软件
 
@@ -54,24 +54,24 @@ micro:bit上集成了丰富的传感器，其中就包含了加速度计。在�
 ### 添加Package
 - 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_12_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_12_01.png)
 
 点击`扩展`，在弹出的对话框中搜索“neopixel"，下载neopixel代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_12_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_12_02.png)
 
 ### 如图所示编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_12_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_12_03.png)
 
 ### 代码详解
 - 将P0口设置为灯珠对应引脚，设置为RGB模式，将8颗灯珠全部点亮
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_12_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_12_04.png)
 
 - 将灯珠点亮的颜色，设置为随加速度变化而变化的不同颜色
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_12_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_12_05.png)
 
 ### 参考程序
 请参考程序连接：[https://makecode.microbit.org/_0Y07f36Y77sa](https://makecode.microbit.org/_0Y07f36Y77sa)
@@ -102,7 +102,7 @@ micro:bit上集成了丰富的传感器，其中就包含了加速度计。在�
 ---
 随着micro:bit被移动，8颗RGB灯显示出不一样的颜色。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iq9Hxs0.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/iq9Hxs0.gif)
 
 
 ## 思考

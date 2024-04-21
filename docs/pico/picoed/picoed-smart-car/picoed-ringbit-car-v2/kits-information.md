@@ -1,4 +1,4 @@
-﻿![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/instruction.png)
+﻿![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/instruction.png)
 ## 简介
 哈喽，你好，你手里拿到的 Ring:bit 二代智能车套件是 ELECFREAKS 独立研发的一款小型 DIY 智能车套件，由 Pico:ed 主板和 Ring:bit 扩展板以及相关配件组成，它采用模块化组装和代码编程驱动方式，简单易学，功能丰富，相信会给您的创造带来丰富的体验。接下来，先来了解一下 Ring:bit 二代智能车套件的详细信息吧。
 Ring:bit 扩展了 Pico:ed 的三个 GPIO 口，可以轻松的连接各种传感器和组件。一个基础的 Ring:bit 智能车可以很容易的编程去驱动。只要增加一个扩展模块，你的 Ring:bit 智能车就可以做更多事情，例如巡线，跟随，避障，绘图和更多玩法。

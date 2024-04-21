@@ -21,7 +21,7 @@
 
  The transmitter emits ultrasonic wave to a certain direction. At the same time, it starts timing when emitting. Once encountered with a barrier, the ultrasonic wave spread in the air will be reflected back immediately. When the receiver has received the reflected wave, it will stop timing immediately. We can calculate the distance according to the time since the receiver has received the reflected wave, which is similar to radar ranging principle.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/8K6u2ce.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/8K6u2ce.jpg)
 
 
 ## Hardware Connection
@@ -29,9 +29,9 @@
 
 Connect sonar:bit to P5 on motor:bit. See picture below.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t4vFZ0y.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/t4vFZ0y.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/kzPngGo.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/kzPngGo.jpg)
 
 
 ## Software
@@ -45,11 +45,11 @@ Connect sonar:bit to P5 on motor:bit. See picture below.
 ### Step 1
 Click **Advanced** in the code drawer of MakeCode to see more options.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/LjMR5IU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/LjMR5IU.png)
 
 To program for motor:bit, we have to add a package. Find **Add Package** in the bottom of code drawer and click it. This will pop up a dialogue box. Search for "motorbit" and then click to download this package.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/XDlSfIS.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/XDlSfIS.png)
 
 ***Note:*** If you get a hint that some packages will be deleted due to the problem of incompatibility, you can either follow the prompts, or create a new project in the project menu.
 
@@ -59,19 +59,19 @@ At the beginning of our program.
 
 Set the speed of both motors to 100.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/DaYNrl0.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/DaYNrl0.png)
 
 ### Step 3
 
 create a `forever` loop to read the return value of sonar:bit in real time and assign its value to `away`.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Gfg2LZo.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/Gfg2LZo.png)
 
 #### Stop to Prevent Crash
 
 When the distance detected (i.e. `away`) is under 8 cm, stop the car and delay time for 300 ms. After that, set the speed of both motors to a negative value(like -80) and delay time for 600 ms.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/QbwndAz.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/QbwndAz.png)
 
 #### Steer to Avoid Barrier
 
@@ -81,11 +81,11 @@ If the random number is under 50, assign a negative value to the right wheel. So
 
 If the random number is beyond 50, assign a negative value to the left wheel. So the left wheel will reverse and the car will turn left.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/F5WjT9e.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/F5WjT9e.png)
 
 If `away` is beyond 15 cm, set the speed of both motors to 100 and the car will move forward.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/WRmK7A5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/WRmK7A5.png)
 
 ### Program
 

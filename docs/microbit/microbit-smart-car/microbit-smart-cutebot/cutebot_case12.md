@@ -9,7 +9,7 @@ sidebar_label: micro:bit加速度计远程控制
 
 大家好！今天我要向大家介绍一个非常有趣且创新的项目，我们将使用Cutebot智能赛车制作一辆可以使用micro:bit的加速度计远程遥控的小车！让我们能够通过micro:bit的倾斜来控制小车的运动。
 
-``![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-12-01.png)``
+``![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-12-01.png)``
 
 ## 使用材料
 
@@ -27,11 +27,11 @@ sidebar_label: micro:bit加速度计远程控制
 ### 步骤 1
 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
 
 为了给Cutebot套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索`Cutebot`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -45,7 +45,7 @@ sidebar_label: micro:bit加速度计远程控制
 
 因为加速度值的范围是`0`~`1024`，整除`10`以后可以近似看为`0`~`100`的速度值。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_12_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_12_01.png)
 
 #### 程序
 
@@ -84,7 +84,7 @@ sidebar_label: micro:bit加速度计远程控制
 
 在`无限循环`积木块中，设置左轮速度为`yValue`+`xValue`，右轮速度为`yValue`-`xValue`。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_12_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_12_02.png)
 
 #### 程序
 
@@ -117,7 +117,7 @@ micro:bit控制主板向某一个方向倾斜控制Cutebot小车的前进方向�
 
 控制端的倾斜角度控制Cutebot小车的车速。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-12.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-12.gif)
 
 ## 思考
 

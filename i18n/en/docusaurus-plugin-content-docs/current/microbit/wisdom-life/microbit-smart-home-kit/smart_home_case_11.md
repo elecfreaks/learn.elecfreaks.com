@@ -40,18 +40,18 @@
 
 The front side：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/RL8DL2M.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/RL8DL2M.png)
 
 The back side：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/K56Vqzl.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/K56Vqzl.jpg)
 
 ## Hardware Connect
 
 Connect the crash sensor to the P1 port of the expansion board.
 Plug in the OLED as shown in the picture below.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/MLFMqXq.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/MLFMqXq.jpg)
 
 ## Software
 
@@ -64,11 +64,11 @@ Plug in the OLED as shown in the picture below.
 
  Click "Advanced" in the makecode code drawer for more codes.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/2qCyzQ7.png)
 
  We need to add a new codebase for programming of smart home. Finding “Extensions” at the bottom of code block and click it. Then a message box will show up, search “smart home"， and download this new codebase.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/OY706rv.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/OY706rv.png)
 
 ***Note:*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Projects file menu.
 
@@ -77,14 +77,14 @@ Plug in the OLED as shown in the picture below.
 
  Snap the on start block from Basic, set the P1 port to touch detect port.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/faLxLSQ.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/faLxLSQ.png)
 
 ### Step 3
 
  Since there are only two conditions, we need only one “else-if”statement.
 When crash sensor is triggered, the buzzer will sound and the OLED will display the message “Intruder Detected”. Or else, if there is no force is applied to the crash sensor, the buzzer will not sound and the OLED will display the message “The house is safe”.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/jt4jWwZ.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/jt4jWwZ.png)
 
 
 

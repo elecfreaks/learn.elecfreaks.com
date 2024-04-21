@@ -17,7 +17,7 @@ sidebar_label: micro:bit加速度计控制天蓬智能车
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_01_01.png)
 
 
 
@@ -34,11 +34,11 @@ sidebar_label: micro:bit加速度计控制天蓬智能车
 
 - 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_01_02.png)
 
 - 为了给天蓬智能车编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`tpbot`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_01_03.png)
 
 ##示例程序
 ### 遥控端
@@ -46,7 +46,7 @@ sidebar_label: micro:bit加速度计控制天蓬智能车
 - 在`无限循环`中，无线发送数据x，它的值为x轴加速度值整除10。
 - 在`无限循环`中，无线发送数据y，它的值为y轴加速度值整除10。
 -
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_13_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_13_04.png)
 
 ### 程序
 - 请参考程序连接：[https://makecode.microbit.org/_YzzEesUvv9Lu](https://makecode.microbit.org/_YzzEesUvv9Lu)
@@ -80,7 +80,7 @@ sidebar_label: micro:bit加速度计控制天蓬智能车
 - 当无线电收到的name值为`y`时，为加速度计Y轴数据，将value值保存到变量`y`；
 - 在`无限循环`中，设置左轮速度为y+x，右轮速度为y-x。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_13_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_13_05.png)
 
 ### 程序
 - 请参考程序连接：[https://makecode.microbit.org/_9KTDucTv91Wc](https://makecode.microbit.org/_9KTDucTv91Wc)

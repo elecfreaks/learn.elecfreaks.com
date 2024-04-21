@@ -11,7 +11,7 @@ A whisk is a common kitchen tool that quickly and efficiently breaks up eggs and
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-case-17-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-17-01.png)
 
 ## Teaching Objectives
 
@@ -50,64 +50,64 @@ Build an egg beater from blocks according to your own design.
 
 ##### Assembly Steps
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-10.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-11.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-12.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-13.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-14.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-15.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-16.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-17.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-18.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-19.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-20.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-21.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-22.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-23.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-23.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-17-24.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-17-24.png)
 
 **Completed**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-case-17-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-17-01.png)
 
 
 ##### Hardware Connections
 
 Connect the crash sensor to J1 and the motor to M1 on Nezha expansion board. 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-case-16-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-16-02.png)
 
 ##### Programming
 
@@ -115,24 +115,24 @@ Go to [makecode](https://makecode.microbit.org/#)
 
 Create new projects
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-case-19-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-03.png)
 
 Click extensions
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-case-19-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-04.png)
 
 
 Search with `PlanetX` to download the package. 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-case-19-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-05.png)
 
 Search with `nezha` to download the package.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-case-19-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-06.png)
 
 Code
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-case-17-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-17-07.png)
 
 
 Link: [https://makecode.microbit.org/_4pvKroATsiao](https://makecode.microbit.org/_4pvKroATsiao)
@@ -167,7 +167,7 @@ You may download it directly below:
 
 Start the device by pressing the crash sensor and release it to stop. 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-case-17.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-17.gif)
 
 ### Reflection
 

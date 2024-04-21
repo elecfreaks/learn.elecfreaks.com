@@ -1,6 +1,6 @@
 ﻿# case 22 Wire Transmission
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cke0jAl.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/cke0jAl.jpg)
 
 Communicate between two micro:bits using Morse code, fishing line, a servo and a sensor! Why use micro:bit’s radio when this is so much cooler?
 
@@ -16,7 +16,7 @@ Communicate between two micro:bits using Morse code, fishing line, a servo and a
 - Use dictionaries to encode and decode Morse code
 - Move the servo, and detect using the crash sensor
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cKy5xLl.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/cKy5xLl.gif)
 
 
 ## Materials
@@ -54,7 +54,7 @@ We’ll be using two micro:bits, one to transmit Morse code and one to receive M
 
 ## Physical Assembly
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Jraq386.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/Jraq386.jpg)
 
 Attach the servo to the cardboard sheet, and tie the string around the end of the rotor attached to the servo. Tie the other end of the string around the metal flap of the crash sensor. Attach the crash sensor at a distance such that when the servo turns, the string is pulled and the sensor is activated. If you don’t have a cardboard sheet, you could tape everything to a table. For the transmitting micro:bit, attach the servo to pin 0 on the breakout board. For the receiving micro:bit, attach the crash sensor to pin 0 on the breakout board.
 
@@ -72,7 +72,7 @@ Suppose we are given the text “HELLO WORLD”, and would like to convert this 
 
 We can use one of Python’s data structures, the dictionary, which allows us to associate keys to values. In this case, the keys should be the letters of the alphabet, and the values should be the Morse code representation of the corresponding letter.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/rRzdgEv.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/rRzdgEv.png)
 
 Here is a dictionary that should do the trick:
 
@@ -92,8 +92,8 @@ To move the servo, we’ll need to use a class, which can be obtained here. To u
 
 For each character (dit, dah or space), we should tug on the string for the appropriate length of time, and then release the string for a short period of time.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/N863fTN.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/yAghLJX.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/N863fTN.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/yAghLJX.jpg)
 
 
 ## Receiver
@@ -107,8 +107,8 @@ While we could use event listeners that trigger events when the flap is pressed,
 
 If in a cycle, the flap is being held down, we’ll increase the press_length by 100, to keep track of how long the flap has been pressed so far. If the flap is found to be released, we can use press_length to figure out how long the button has been pressed, and use it to determine what character (dit, dah or space) has been transmitted. We’ll add this to the variable cur_letter, which keeps track of the dits and dahs that have been sent over so far.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/uCvCiRx.jpg)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nXcUFnn.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/uCvCiRx.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/nXcUFnn.png)
 
 
 ### Step 2: Translating Morse Code into Letters
@@ -120,7 +120,7 @@ Here’s the code for the decoding dictionary:
 
 MORSE_DECODE = {'.-': 'A', '-...': 'B', '-.-.': 'C', '-..': 'D', '.': 'E', '..-.': 'F', '--.': 'G', '....': 'H', '..': 'I', '.---': 'J', '-.-': 'K', '.-..': 'L', '--': 'M', '-.': 'N', '---': 'O', '.--.': 'P', '--.-': 'Q', '.-.': 'R', '...': 'S', '-': 'T', '..-': 'U', '...-': 'V', '.--': 'W', '-..-': 'X', '-.--': 'Y', '--..': 'Z', '-----': '0', '.----': '1', '..---': '2', '...--': '3', '....-': '4', '.....': '5', '-....': '6', '--...': '7', '---..': '8', '----.': '9'}
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/v3kUjVN.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/v3kUjVN.png)
 
 Now, whenever a letter is detected (a space is pressed), we can look in the decode dictionary to obtain the original letter. However, sometimes the receiver may not correctly detect the sequence of string tugs, and so the sequence cannot be found in the dictionary. If we try to look for a sequence that cannot be found in the dictionary, Python will throw an error and the programme will stop executing.
 
@@ -143,4 +143,4 @@ To boost the “signal”, a third micro:bit can be used as an amplifier that co
 
 Morse code certainly isn’t the most efficient way to transmit data, nor is it the most reliable way. Experiment with different types of encodings (binary + ASCII, Hamming codes, etc.), as well as explore some error-correcting codes to detect and fix any losses/errors in transmission.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/m3fYEvK.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/m3fYEvK.png)

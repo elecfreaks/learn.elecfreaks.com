@@ -2,9 +2,6 @@
 sidebar_position: 2
 sidebar_label: Parameter
 ---
-
-# Parameter
-
 | **Production Information** |
 | :-: | :-: |
 | Name | Smart Weather Station Kit |

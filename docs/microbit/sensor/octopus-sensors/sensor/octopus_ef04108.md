@@ -3,7 +3,7 @@
 ## 简介
 语音识别模块，可以实现语音识别，支持自学习词条，结合彩虹灯环、智能小车等硬件可以实现语音识别控制灯、语音识别控制小车额趣味案例。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/EF04108-01.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/EF04108-01.png)
 
 ## 技术规格
 项目 | 参数
@@ -15,7 +15,7 @@ SKU|EF04108
 
 ## 外形与定位尺寸
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/EF04108-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/EF04108-02.png)
 
 ## 语音识别模块预设词条及反馈
 
@@ -88,23 +88,23 @@ SKU|EF04108
 
 ***以IOT：bit为例***
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/EF04108-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/EF04108-03.png)
 
 ### 添加软件库
 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/EF04108-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/EF04108-04.png)
 
 点击“扩展”，在弹出的对话框中搜索 “https://github.com/elecfreaks/pxt-ASR” ，下载语音识别电子积木的代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/EF04108-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/EF04108-05.png)
 
 
 ### 如图所示编写程序
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/EF04108-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/EF04108-06.png)
 
 
 

@@ -8,7 +8,7 @@ The [Nezha-A Breakout board](https://shop.elecfreaks.com/products/elecfreaks-nez
 ## Pictures
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/images/Arduino-3-in-1-box-01.png)
 
 ## Parameter
 ---
@@ -26,23 +26,23 @@ The [Nezha-A Breakout board](https://shop.elecfreaks.com/products/elecfreaks-nez
 ## Dimensions
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/images/Arduino-3-in-1-box-02.png)
 
 ## Quick to Start
 ---
 ### Main Modules
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/images/Arduino-3-in-1-box-15.png)
 
 ### Install the battery box
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/images/Arduino-3-in-1-box-16.png)
 
 ### Download and install Arduino IDE
 
 Get the newest version of Arduino IDE from: [https://www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software) and install it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/images/Arduino-3-in-1-box-03.png)
 
 ### Program
 
@@ -50,33 +50,33 @@ Download and unzip the file of 3 in  breakout board: (https://github.com/elecfre
 
 Open Arduino IDE, choose “tools"-"Development board-Arduino UNO".
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/images/Arduino-3-in-1-box-04.png)
 
 Connect the box with the computer through the USB cable.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/images/Arduino-3-in-1-box-05.png)
 
 Click "tools", select from the "ports".
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/images/Arduino-3-in-1-box-06.png)
 
 Click "project", select loading database to add the .ZIP file.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/images/Arduino-3-in-1-box-07.png)
 
 Open the file of Adafruit_NeoPixel, add the dependency libraries of the extensions of the Nezha-A breakout board.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/images/Arduino-3-in-1-box-08.png)
 
 Open the file of USmart, add the extensions.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/images/Arduino-3-in-1-box-09.png)
 
 ### Hardware Connection
 
  Connect the two motors and two servos to M1, M2, S1 and S2 on the breakout board.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/images/Arduino-3-in-1-box-11.png)
 
 ### Program
 
@@ -102,16 +102,16 @@ void loop() {
 ```
 Click file to save it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/images/Arduino-3-in-1-box-12.png)
 
 Select the save route, give it a name and save it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/images/Arduino-3-in-1-box-13.png)
 
 
 Click the save button, upload the program to the breakout board.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/images/Arduino-3-in-1-box-14.png)
 
 ## Result
 ---

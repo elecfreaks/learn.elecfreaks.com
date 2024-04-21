@@ -4,7 +4,7 @@
 ---
 Octopus有源蜂鸣器Brick基于有源蜂鸣器，无法通过PWM控制音量。音量恒定。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Gs5XBx1.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/Gs5XBx1.jpg)
 
 ## 特性
 ---
@@ -29,7 +29,7 @@ SKU|EF04030
 
 ## 外形与定位尺寸
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/GV8xv7y.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/GV8xv7y.jpg)
 
 ## 快速上手
 ---
@@ -38,11 +38,11 @@ SKU|EF04030
 
 ***以sensor:bit为例***
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/r3NAMg8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/r3NAMg8.png)
 
 
 ### 如图所示编写程序
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04030_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04030_01.png)
 
 ### 参考程序
 

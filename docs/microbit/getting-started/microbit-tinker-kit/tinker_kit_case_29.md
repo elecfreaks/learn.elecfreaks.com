@@ -10,7 +10,7 @@
 ## 目标
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/m79il8J.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/m79il8J.png)
 
 
  1. 做一个Krazy Kar
@@ -33,7 +33,7 @@
 ## 步棸 1 – 外壳
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Dm0im8u.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Dm0im8u.png)
 
 - 沿线折叠纸板外壳。
 
@@ -44,7 +44,7 @@
 ## 步棸 2 – 内部零件安装
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/QFPRafF.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/QFPRafF.png)
 
 - 在纸板小车两边的孔里安装舵机。
 
@@ -56,7 +56,7 @@
 ## 步棸 3 – 外部零件安装
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/jcbfc8r.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/jcbfc8r.png)
 
 - 在舵机上安装螺丝。
 
@@ -66,11 +66,11 @@
 ## 步棸 4 – 安装micro:bit
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FCBt2rx.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/FCBt2rx.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/QQX9HFg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/QQX9HFg.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/rnX6e5B.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/rnX6e5B.png)
 
 
 - 用长螺丝安装micro:bit至basic:bit。注意孔是按标识对应的，P0对P0，G对G。
@@ -84,7 +84,7 @@
 ## 步棸 5 – 整体完成！
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/36e1m2j.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/36e1m2j.jpg)
 
 - 用五个螺丝将micro:bit和basic:bit的合体安装在小车的顶盖上。
 

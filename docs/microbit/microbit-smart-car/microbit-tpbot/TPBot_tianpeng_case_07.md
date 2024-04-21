@@ -16,7 +16,7 @@ sidebar_label: 警察来了
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_01.png)
 
 
 
@@ -33,17 +33,17 @@ sidebar_label: 警察来了
 
 - 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_02.png)
 
 - 为了给天蓬智能车编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`tpbot`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_03.png)
 
 ##示例程序
 - `当开机时`micro:bit的LED矩阵显示笑脸图标，并设置天蓬智能车以`100%`的速度前进。
 - 在`无限循环`中，设置车头灯的颜色为红色，延时100ms，然后设置车头灯的颜色为蓝色，延时100ms。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_07_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_07_04.png)
 
 ### 程序
 - 请参考程序连接：[https://makecode.microbit.org/_VY6a5m5z1VVv](https://makecode.microbit.org/_VY6a5m5z1VVv)

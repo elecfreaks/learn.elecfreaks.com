@@ -21,13 +21,13 @@ sidebar_label: Joysticks 手柄遥控 XGO-lite V2
 
 Joystick:bit V2 与 micro:bit XGO Robot Kit V2 都是使用 micro:bit 为主控制器，可以基于 micro:bit V2 的蓝牙功能，让两块主控制器之间可以进行相互通信。所以，本教程将通过图形化编程平台：MakeCode 对两款设备进行编程。请打开 makecode 平台官网链接：[MakeCode](https://makecode.microbit.org/#). 并按下面操作方式进行编程环境准备。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-makecode-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-01.png)
 
 ### XGO-lite V2 编程环境准备
 
 1.  点击**新建项目**，给项目命名并**创建**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-makecode-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-02.png)
 
 
 
@@ -35,13 +35,13 @@ Joystick:bit V2 与 micro:bit XGO Robot Kit V2 都是使用 micro:bit 为主控�
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-makecode-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-makecode-03-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-03-1.png)
 
 ### XGO-lite V2 编程示例
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-makecode-03-4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-03-4.png)
 
 
 
@@ -51,13 +51,13 @@ XGO-lite V2 编程示例程序链接：https://makecode.microbit.org/_T55RLo30xT
 
 Joystick:bit V2 创建编程项目文件与 XGO-lite V2 创建编程项目文件步骤一致，这里不再赘述。不同的是在添加扩展库的步骤，需要添加的是 **joystickbit** 库文件。如下图所示：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-makecode-03-2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-03-2.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-makecode-03-3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-03-3.png)
 
 ### Joystick:bit V2 编程示例
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-makecode-03-5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-03-5.png)
 
 
 
@@ -67,4 +67,4 @@ Joystick:bit V2 编程示例程序链接：https://makecode.microbit.org/_WVyPzk
 
 ## 案例演示
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-makecode-0113.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-0113.gif)

@@ -19,14 +19,14 @@
 
 ## Picture
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-02.png)
 
 ## Hardware Connection
 ---
 
 Connect the red led to P1 port on IoT:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-12-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-12-03.png)
 
 ## Software Program
 
@@ -34,11 +34,11 @@ Connect the red led to P1 port on IoT:bit.
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-04.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "iot-environment-kit" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-05.png)
 
 
 
@@ -50,7 +50,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 Detect the magnetic intensity in the current field, if the returned value is below the threhold, program to send alarms and flash on the led.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-12-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-12-07.png)
 
 Link: [https://makecode.microbit.org/_0fiexRbyoKpE](https://makecode.microbit.org/_0fiexRbyoKpE)
 

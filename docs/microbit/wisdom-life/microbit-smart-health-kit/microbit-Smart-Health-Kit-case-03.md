@@ -17,25 +17,25 @@
 
 ## Picture
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-02.png)
 
 ## Hardware Connection
 ---
 
 Connect the DHT11 sensor to P1,  the motor fan to P2 and the OLED to IIC on sensor:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-03-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-03-03.png)
 
 ## Software Programming
 ---
 
 Click "Advanced" in the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-04.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "smarthome" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-05.png)
 
 
 
@@ -45,15 +45,15 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 ---
 Initialize the OLED display.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-03-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-03-07.png)
 
 Save the returned value as the variable "i" and display it on OLED screen.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-03-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-03-08.png)
 
 Judge the value of the variable "i", if it's over 29, program to turn on the fan; or to turn off.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-03-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-03-09.png)
 
 Link: [https://makecode.microbit.org/_7WLC6kVYXh9z](https://makecode.microbit.org/_7WLC6kVYXh9z)
 

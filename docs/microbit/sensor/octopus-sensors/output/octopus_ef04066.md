@@ -3,7 +3,7 @@
 ## 简介
 Octopus 5mmLED灯模块，能和micro:bit/Arduino扩展板搭配,实现调整环境光的功能。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/DSC04855.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/DSC04855.jpg)
 
 ## 特性
 ---
@@ -21,7 +21,7 @@ SKU|EF04066
 ## 外形与定位尺寸
 ---
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cdNd1Kw.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/cdNd1Kw.png)
 
 ## 快速上手
 ---
@@ -30,13 +30,13 @@ SKU|EF04066
 
 ***以sensor：bit为例***
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/fDm8yzB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/fDm8yzB.png)
 
 
 ### 如图所示编写程序
 向P0引脚中每隔一秒钟写入1或0
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AAzv9pn.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/AAzv9pn.png)
 
 ### 参考程序
 
@@ -73,13 +73,13 @@ SKU|EF04066
 下载压缩包并解压[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/05001_07.png)
 
 为了给LED灯编程，我们需要添加led.py。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的Octopus_MicroPython-master文件夹，从中选择led.py添加进来。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_08.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_09.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04036_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04036_10.png)
 
 ### 步骤 2
 ### 参考程序

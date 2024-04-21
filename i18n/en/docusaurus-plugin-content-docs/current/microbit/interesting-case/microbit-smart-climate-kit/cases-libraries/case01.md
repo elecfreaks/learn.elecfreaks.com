@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Case 1-Ultraviolet Radiation Monitoring Device
+sidebar_label: Case1-Ultraviolet Radiation Monitoring Device
 ---
 
 # **Case I: Ultraviolet Radiation Monitoring Device**

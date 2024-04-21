@@ -16,7 +16,7 @@ sidebar_label: 灯光控制
 - [天蓬智能车（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=627045784239)
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_01.png)
 
 
 
@@ -33,11 +33,11 @@ sidebar_label: 灯光控制
 
 - 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_02.png)
 
 - 为了给天蓬智能车编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`tpbot`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_03.png)
 
 ##示例程序一
 - 开机可编程眼罩没有灯光，micro:bit的LED矩阵显示爱心图案。
@@ -47,7 +47,7 @@ sidebar_label: 灯光控制
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_02_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_02_04.png)
 
 ### 程序
 - 请参考程序连接：[https://makecode.microbit.org/_FbWAurD4ohuV](https://makecode.microbit.org/_FbWAurD4ohuV)
@@ -85,7 +85,7 @@ sidebar_label: 灯光控制
 ##示例程序二
 - 开机micro:bit的LED矩阵显示爱心图案，并且天蓬智能车的可编程眼罩显示设定的灯光颜色两秒，然后关闭灯光
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_02_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_02_05.png)
 
 ### 程序
 - 请参考程序连接：[https://makecode.microbit.org/_YYA5bVdiTTDj](https://makecode.microbit.org/_YYA5bVdiTTDj)

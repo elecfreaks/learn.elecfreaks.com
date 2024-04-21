@@ -4,7 +4,7 @@
 
 Octopus 5mmLED light Brick can be used in the interaction with the light works with micro:bit/Arduino.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/SNPuLwe.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/SNPuLwe.jpg)
 
 ## Products Link
 
@@ -25,7 +25,7 @@ Weight|5g
 
 ## Outlook and Dimensions
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/S2mhxLt.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/S2mhxLt.png)
 
 ## Quick to Start
 
@@ -35,7 +35,7 @@ Weight|5g
 
   Take octupus:bit for example
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/KsTl0U6.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/KsTl0U6.png)
 
 ### Add Package
 
@@ -43,7 +43,7 @@ Weight|5g
 
  Digital write pin P0 to 1 and 0 one second later.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AAzv9pn.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/AAzv9pn.png)
 
 ### Reference
 Links:[https://makecode.microbit.org/_J82V5PgzghKR](https://makecode.microbit.org/_J82V5PgzghKR)

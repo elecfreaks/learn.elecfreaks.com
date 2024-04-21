@@ -16,7 +16,7 @@ sidebar_label: 定距跟车
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_01.png)
 
 
 
@@ -33,17 +33,17 @@ sidebar_label: 定距跟车
 
 - 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_02.png)
 
 - 为了给天蓬智能车编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`tpbot`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_03.png)
 
 ##示例程序
 - `当开机时`设置micro:bit的LED矩阵显示爱心图标。
 - 在`无限循环`中，将超声波传感器检测到小车与前方障碍物的距离的值存入变量`距离`中，然后判断变量`距离`的值，当`距离`>10且`距离`<20时，设置小车左右轮速度为0，否则如果`距离`<10，则设置小车左右轮速度都为-30%，否则设置左右轮速度为30%。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_11_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_11_04.png)
 
 ### 程序
 - 请参考程序连接：[https://makecode.microbit.org/_P6kVMjeWtiy4](https://makecode.microbit.org/_P6kVMjeWtiy4)

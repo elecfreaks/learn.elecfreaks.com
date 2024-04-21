@@ -25,7 +25,7 @@ sidebar_label: XGO-lite2 Product Parameters
 
 - SD Card: 32G
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-mini-products-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-mini-products-01.png)
 
 ### AI module parameters:
 
@@ -37,7 +37,7 @@ sidebar_label: XGO-lite2 Product Parameters
 
 - Micro HDMI, Type-C USB and PH2.0 4pin
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-index-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-index-03.png)
 
 ### Servo parameters:
 

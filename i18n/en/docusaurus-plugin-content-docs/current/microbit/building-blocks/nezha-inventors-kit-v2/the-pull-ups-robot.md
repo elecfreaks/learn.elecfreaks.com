@@ -10,7 +10,7 @@ sidebar_position: 2
 Pull-ups are exercises where you use your own strength to pull your body up to a bar and then lower it back down, repeating it several times. It is a great exercise for the body and can make our back, shoulders and arms stronger. Pull-up exercises also make our bodies more upright and toned. In this lesson we will use the Nezha Inventor's Kit V2 to create a robot that can do pull-ups.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-01-01.png)
 
 ## Teaching Objectives
 
@@ -52,73 +52,73 @@ Build a robot that does pull-ups from blocks according to your own design. For e
 
 ##### Assembly Steps
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-10.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-11.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-12.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-13.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-14.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-15.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-16.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-17.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-18.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-19.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-20.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-21.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-22.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-23.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-23.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-24.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-24.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-25.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-25.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-26.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-27.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-27.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-28.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-28.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-step-01-29.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-step-01-29.png)
 
 **Completed**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-01-01.png)
 
 ##### Hardware Connection
 
 Connect the motor to M1 on Nezha expansion board.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-case-07-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-07-02.png)
 
 ##### Programming 
 
@@ -126,21 +126,21 @@ Go to [makecode](https://makecode.microbit.org/#)
 
 Create new projects
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-case-19-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-03.png)
 
 Click extensions
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-case-19-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-04.png)
 
 
 
 Search with `nezha` to download the package. 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-case-19-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-06.png)
 
 Code
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-case-01-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-01-07.png)
 
 
 Link: [https://makecode.microbit.org/_8bYg1C9v1WJA](https://makecode.microbit.org/_8bYg1C9v1WJA)
@@ -175,7 +175,7 @@ You may download it directly below:
 
 Press A on the micro:bit to start the robot doing pull-ups, press B on the micro:bit to stop the robot doing pull-ups.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nezha-inventors-kit-v2-case-01.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-01.gif)
 
 ### Reflection
 

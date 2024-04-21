@@ -16,29 +16,29 @@
 
 ## Picture
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-02.png)
 
 ## Hardware Connection
 ---
 
 Connect the alcohol sensor to PI, the rainbow LED to P2, the crash sensor to P9 and the OLED to IIC on sensor:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-04-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-04-03.png)
 
 ## Software Programming
 ---
 
 Click "Advanced" in the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-04.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "smarthome" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-05.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "servo" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-01-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-06.png)
 
 ***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -46,15 +46,15 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 ---
 Drag the "on start" block from the drawer, set the crash sensor to connect to P9, initialize the OLED display and set the strip to connect to P2 with 1 led.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-04-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-04-07.png)
 
 While the crash sensor is pressed, save the returned value from the alcohol sensor connecting to P1 as the variable "i" and display it on the OLED screen.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-04-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-04-08.png)
 
 Judge the value of the variable "i", if it's over 50, set the rainbow LED to light on in red; or set it to light on in green.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-Health-Kit-case-04-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-04-09.png)
 
 
 

@@ -5,7 +5,7 @@
 
 ELECFREAKS Octopus:bit是一款micro:bit的扩展板。它扩展出了micro:bit的GPIO口、串口、IIC接口、SPI接口。它最大的特点是可对部分GPIO口的工作电压进行电平转换，使micro:bit能适配5V的传感器。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wcgxnG0.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/wcgxnG0.png)
 
 
 ## 包装清单
@@ -36,7 +36,7 @@ ELECFREAKS Octopus:bit是一款micro:bit的扩展板。它扩展出了micro:bit�
 ## 引脚接口框图
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wCWdoag.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/wCWdoag.jpg)
 
 
 ## 部分引脚接口详细介绍
@@ -44,34 +44,34 @@ ELECFREAKS Octopus:bit是一款micro:bit的扩展板。它扩展出了micro:bit�
 
 ### 标准GVS接口
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/gk3dN4E.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/gk3dN4E.png)
 
 标准GVS接口，其中黄色部分（P0~P7， P10）工作电压为3.3V，蓝色部分（P8, P9, P11~P16）工作电压可通过电平转换开关在3.3V与5V之间切换。
 每个I/O口下方都有VCC与GND的排针，并且用不同的颜色区分开来，用你可以很方便的连接你的扩展模块，该针脚的排布与章鱼系列完全兼容。
 
 ### 电平转换开关
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JoxT6k2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/JoxT6k2.png)
 
 该开关可对蓝色部分IO口（P8, P9, P11~P16）的工作电平进行3.3V/5V切换。
 
 该开关的作用范围如下图所示：
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/GHPffMl.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/GHPffMl.png)
 
 ### 串口
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/8aVYsja.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/8aVYsja.png)
 
 串口的工作电压可通过电平转换开关进行3.3V/5V切换。
 TX连接在P8，RX连接在P12，左边排针的部分为输入输出双向串口，右边排母为单向输出串口
 **注意** 要使用该串口，请先按照如下程序初始化串口：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1gnuYd5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/1gnuYd5.png)
 
 ## 外形与安装定位尺寸
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ZYrWREG.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/ZYrWREG.jpg)
 
 
 ## 软件
@@ -84,11 +84,11 @@ TX连接在P8，RX连接在P12，左边排针的部分为输入输出双向串�
 
 将无源蜂鸣器模块连接至PO口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Zc6ChwR.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Zc6ChwR.jpg)
 
 ### 示例代码
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/0MBprkk.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/0MBprkk.png)
 
 代码连接：[https://makecode.microbit.org/_fAmC3WERHdR2](https://makecode.microbit.org/_fAmC3WERHdR2)
 

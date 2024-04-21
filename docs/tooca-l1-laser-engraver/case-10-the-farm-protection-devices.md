@@ -38,7 +38,7 @@ sidebar_label: 农田防护装置
 
 将超声波传感器连接到IOT:bit的P1端口，将人体红外传感器连接到IOT:bit的P2端口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-10-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-10-02.png)
 
 ## 软件编程
 
@@ -46,11 +46,11 @@ sidebar_label: 农田防护装置
 
 点击扩展，
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-10-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-10-03.png)
 
 在弹出页面输入“iot-environment-kit”，点击搜索。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-10-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-10-04.png)
 
 
 
@@ -61,15 +61,15 @@ sidebar_label: 农田防护装置
 设置超声波传感器连接到P1端口，测距单位为cm，并保存返回值到变量“ultrasonic_distance”中，设置人体红外传感器连接到P2端口，并保存返回值到变量“IR”中。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-10-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-10-05.png)
 
 判断变量“ultrasonic_distance”的值是否在阈值内，如果是，则判断变量“IR”的返回值是否为1，如果变量“IR”的返回值为1，则设置LED矩阵显示图标，并且蜂鸣器发出警报声否则关闭灯光。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-10-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-10-06.png)
 
 如果变量“ultrasonic_distance”的值不在阈值内，则切换显示的图标。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-10-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-10-07.png)
 
 Link: [https://makecode.microbit.org/_5PbACb8kLcqr](https://makecode.microbit.org/_5PbACb8kLcqr)
 
@@ -97,6 +97,6 @@ Link: [https://makecode.microbit.org/_5PbACb8kLcqr](https://makecode.microbit.or
 
 ## 效果展示
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-10-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-10-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-10-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-case-10-08.png)

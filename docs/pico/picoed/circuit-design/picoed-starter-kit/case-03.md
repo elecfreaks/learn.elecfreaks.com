@@ -5,7 +5,7 @@ sidebar_label: 电位器
 
 # 电位器
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-03-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-03-01.png)
 
 ## 简介
 电位器是一种可调的电子元件。 它是由一个电阻体和一个转动或滑动系统组成。 当电阻体的两个固定触点之间外加一个电压时，通过转动或滑动系统改变触点在电阻体上的位置，在动触点与固定触点之间便可得到一个与动触点位置成一定关系的电压。 它大多是用作分压器，这时电位器是一个四端元件。在下面的课程中，我们将要读取电位器上的输出电压，并用波浪线的方式将它显示在 Pico:ed 7 * 17 的 LED 屏幕上。
@@ -20,23 +20,23 @@ sidebar_label: 电位器
 1 × 10KΩ电位器
 若干杜邦线
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-03-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-03-02.png)
 
 ## 主要元件介绍
 
 ### 电位器
 电位器是一种压力调节的元件。它包括了一个电阻和一个旋钮或者滑动系统。当添加一个外部的电压到电阻的两个固定接触点，通过使用旋钮或者滑动系统来改变电阻上的接触点的位置，一个和可移动的触点位置有特殊关系的电压就在可移动的触点和两个固定触点之间形成了。大部分时间，它就像一个分压器一样工作。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-03-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-03-03.png)
 
 ## 硬件连接
 按照下面的图片，将你的元件连接：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-03-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-03-04.png)
 
 这是连接完成后的样子：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-03-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-03-05.png)
 
 旋转电位器的按钮，然后输出电压会随着按钮的旋转在0V和3V之间变化。
 
@@ -129,7 +129,7 @@ while True:
 ## 实验结果
 旋转电位器，电压的数值将会以波浪线的形式显示在 Pico:ed 的7 * 17 的 LED 屏幕上。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-ed-starter-kit-case-03.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-03.gif)
 
 ## 思考
 如果我们想用电位器来调节 LED 灯的亮度，那么我们该如何设计电路和编程呢？欢迎和我们进行进一步讨论或给我们评论。

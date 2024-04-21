@@ -4,7 +4,7 @@
 
 In the previous case, we learned about speech recognition sensors. And we found that using voice to control the movement of the car is more natural and more in line with our daily life habits than using wireless to control the car. So in this lesson, we also use a speech recognition sensor to control the movement of the car, we add an 8*16 dot matrix screen to see the "expression" of the car, and our car can also be shifted like a traditional car, not just through programming. Let's start!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_1.png)
 
 ### Materials Required
 
@@ -32,67 +32,67 @@ Bricks × n
 
 Component Details
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_2.png)
 
 Build it as the assembly steps suggest:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_3.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_4.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_5.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_6.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_7.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_8.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_9.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_10.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_11.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_12.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_13.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_14.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_15.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_16.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_17.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_18.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_19.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_20.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_21.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_22.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_23.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_23.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_24.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_24.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_25.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_25.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_26.png)
 
 We can see that the construction is completed as shown in the following figure:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_30.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_30.png)
 
 ## Connection Diagram
 
 We connect two motors to M1, M2 interface, servo to S1 interface, voice recognition sensor to IIC interface, and 8*16 dot matrix screen to IIC interface, as shown in the following figure:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_27_1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_27_1.png)
 
 
 ##  MakeCode Programming
@@ -103,7 +103,7 @@ Click “Advanced” in the MakeCode drawer to see more choices.
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_10.png)
 
 
 
@@ -111,13 +111,13 @@ For programming the servos and the motors, we need to add a package.  Click “E
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_11.png)
 
 
 
 Since we need to use PlanetX Sensor, we need to add PlanetX extension. Search with “PlanetX” in the dialogue box and click to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_12.png)
 
 
 
@@ -127,7 +127,7 @@ Since we need to use PlanetX Sensor, we need to add PlanetX extension. Search wi
 
 The program is shown below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_28.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_28.png)
 
 Link: https://makecode.microbit.org/_RMM5pEJqV5Cr
 
@@ -156,4 +156,4 @@ You may also download it directly:
 
 When we say "increase one gear", the car will speed up, when we say "decrease one gear", the car will slow down, and when we say "stop", the car will be in neutral and stop.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/66_29.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/66_29.gif)

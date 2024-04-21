@@ -4,7 +4,7 @@
 
 This is a wind speed sensor with waterproof design. It has a standard connector for Octopus brick series’ products. Bigger wind speed brings higher output voltage.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NsSeG42.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/NsSeG42.jpg)
 
 ## Products Link
 
@@ -39,15 +39,15 @@ Working Voltage|3.3-5V
 
 Click "Advanced"in the choice of the MakeCode to find more choices.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
 
 Click "Extensions", search "iot"in the dialog box and then download it.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nOQkv8h.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/nOQkv8h.png)
 
 ### Program as the picture shows
 
-  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/BhIkHwg.png)
+  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/BhIkHwg.png)
 
 ### Reference
 

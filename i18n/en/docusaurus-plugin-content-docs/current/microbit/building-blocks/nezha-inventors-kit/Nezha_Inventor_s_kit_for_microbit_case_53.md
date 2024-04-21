@@ -4,7 +4,7 @@
 
 Since ancient times we have never stopped exploring the Moon, and before the development of spacecraft, we could only see it with the naked eye and with telescopes, but now we want to know more about the Moon. We have built lunar spacecraft and lunar rovers and brought back lunar soil samples, which have allowed us to learn more specific information about the Moon. In this lesson, let's build a simple lunar exploration rover and make a preliminary foray into the great interstellar journey of exploring the Moon.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_1.png)
 
 ### Materials Required
 
@@ -26,45 +26,45 @@ Bricks × n
 
 Component Details
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_2.png)
 
 Build it as the assembly steps suggest:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_3.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_4.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_5.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_6.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_7.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_8.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_9.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_10.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_11.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_12.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_13.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_14.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_15.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_16.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_17.png)
 
 ## Connection Diagram
 
 Connect the four motors to the M1, M4, and the ultrasonic sensor to the J1as the picture suggests.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_18.png)
 
 
 ##  MakeCode Programming
@@ -75,7 +75,7 @@ Click “Advanced” in the MakeCode drawer to see more choices.
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_10.png)
 
 
 
@@ -83,13 +83,13 @@ For programming the servo, we need to add a package. Click “Extensions” at t
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_11.png)
 
 
 
 For programming the PIR sensor, we need to add a package. Search with “PlanetX” in the dialogue box and click to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_12.png)
 
 
 
@@ -99,7 +99,7 @@ For programming the PIR sensor, we need to add a package. Search with “PlanetX
 
 Lunar exploration vehicle remote control program:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_19.png)
 
 Link: https://makecode.microbit.org/_LDD7oafxoHup
 
@@ -127,7 +127,7 @@ You may also download it directly:
 
 Lunar exploration vehicle remote control program:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/53_20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/53_20.png)
 
 Link: https://makecode.microbit.org/_EP6do6JC67tj
 

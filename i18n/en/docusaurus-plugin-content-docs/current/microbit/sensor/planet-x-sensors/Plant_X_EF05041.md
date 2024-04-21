@@ -4,7 +4,7 @@
 
 It is a digital tempeterature sensor based on 1Maxim IC DS18B20 1-Wire.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05041_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05041_01.png)
 
 ## Products Link
 
@@ -31,7 +31,7 @@ Working Voltage|3.3V
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05041_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05041_02.png)
 
 ## Quick to Start
 
@@ -42,7 +42,7 @@ Working Voltage|3.3V
  Connect the 18B20 Temperature sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05041_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05041_03.png)
 
 
 
@@ -53,11 +53,11 @@ Working Voltage|3.3V
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_04.png)
 
 We need to add a package for programming, . Click "Extensions" in the bottom of the drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_05.png)
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
@@ -65,7 +65,7 @@ We need to add a package for programming, . Click "Extensions" in the bottom of 
 
 ### Code as below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05041_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05041_06.png)
 
 
 ### Link

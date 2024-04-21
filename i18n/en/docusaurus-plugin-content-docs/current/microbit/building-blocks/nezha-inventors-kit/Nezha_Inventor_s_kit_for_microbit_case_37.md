@@ -4,7 +4,7 @@
 
 In our daily life, many traffic accidents should have been avoided. These traffic accidents are often caused by people not observing the traffic rules, thus, we must understand the traffic rules. For example, the common traffic lights in our lives, red light means not passing, yellow light means warning, and green light means permission to pass. Let's make a traffic light controlled by the micro:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_01.png)
 
 ## Quick Start
 
@@ -30,7 +30,7 @@ RJ11 wires × 3
 Connect the red LED to J1, yellow LED to J2 and green LED to J3 on the Nezha expansion board as the picture shows.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_03.png)
 
 
 
@@ -44,25 +44,25 @@ Video reference:[https://youtu.be/TmsDDWLcgcs](https://youtu.be/TmsDDWLcgcs)
 
 ### Assembly Steps
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_01_01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_01_02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_01_03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_01_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_01_04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_01_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_01_05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_01_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_01_06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_01_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_01_07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_01_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_01_08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_01_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_01_09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_01_10.png)
 
 
 
@@ -71,18 +71,18 @@ Video reference:[https://youtu.be/TmsDDWLcgcs](https://youtu.be/TmsDDWLcgcs)
 ### Step 1
 Click "Advanced" in the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_11.png)
 
 ***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
 ### Step 2
 ### Code as below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_12.png)
 
 
 ### Reference
@@ -112,4 +112,4 @@ You may also download it directly below:
 ### Result
 The red LED lights on for 5 seconds and then lights off; the yellow LED lights on for 2 seconds and off then; the green LED lights on for 5 seconds and off then.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-gif-01.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case-gif-01.gif)

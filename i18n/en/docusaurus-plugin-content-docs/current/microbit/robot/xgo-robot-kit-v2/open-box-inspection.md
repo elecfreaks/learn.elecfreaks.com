@@ -46,36 +46,36 @@ Check that the product functions as expected.
 
 Put the robot dog in a prone position to avoid joints from being stuck, then press the power switch on the back of the robot dog, the power ring light on the switch flashes quickly and then stays on, the robot dog stands slowly, and the mechanical arm retracts automatically after opening, indicating Boot up successfully. **Note: Don’t hold it in your hand to turn it on. The shaking of the robot dog during the startup process will cause the robot dog to move abnormally. **
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-detection-01.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-detection-01.gif)
 
 ### Shutdown detection
 
 Press the power switch on the back, the ring light flashes slowly, the robot dog slowly gets down, the mechanical arm retracts, and then the ring light goes out, indicating that the system is completely shut down.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-detection-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-detection-02.gif)
 
 ### Smartphone Remote Detection
 
 If the operating system of your smartphone is Android, you can search for "XGO" through **Gloogle Play** and install it; after the installation is complete, open the XGO APP startup interface as shown in the figure:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-app-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-1.png)
 
 **Notice**
 
 1. As of the completion date of this tutorial, the version number of the XGO APP used is: 2.4.0, please ensure that the downloaded XGO APP version is not lower than 2.4.0.
 2. After installing the XGO APP, please open the permissions of the XGO APP in the settings, including location information, and nearby devices, otherwise, XGO-lite V2 may not be searchable.
 
-Turn on the Bluetooth function of the smartphone, turn on the XGO-lite V2, and open the XGO APP, there is an ![](.\images\microbit-xgo-lite-v2-app-2.png) icon in the upper left corner of the home page click the Bluetooth icon, follow the prompts to connect the smartphone with XGO-lite V2.
+Turn on the Bluetooth function of the smartphone, turn on the XGO-lite V2, and open the XGO APP, there is an ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-2.png) icon in the upper left corner of the home page click the Bluetooth icon, follow the prompts to connect the smartphone with XGO-lite V2.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-app-3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-3.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-app-4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-4.png)
 
 
 
 Go back to the main page and enter the "Complete Machine Control" page, operate the button in the figure below to see if the XGO-lite V2 acts according to the operation. If the corresponding operation instructions are taken, it means that the XGO-lite V2 is intact.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-app-5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-5.png)
 
 
 
@@ -83,15 +83,15 @@ Go back to the main page and enter the "Complete Machine Control" page, operate 
 
 (1) As shown in the figure below, connect XGO-lite V2 to the computer with a USB data cable, open the [MakeCode](https://makecode.microbit.org/#) platform, and click "New Project" to create a new project. document.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-examine-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-examine-01.png)
 
 (2) Add the 'XGO' library file as shown below.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-examine-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-examine-02.png)
 
 (3) Operate according to the programming case and download it to the micro:bit mainboard, and operate according to the program to see if XGO-lite V2 makes corresponding actions. If XGO-lite V2 makes a handshake action, it means that XGO-lite V2 is intact.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-examine-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-examine-03.png)
 
 ## 5. Check the manual
 

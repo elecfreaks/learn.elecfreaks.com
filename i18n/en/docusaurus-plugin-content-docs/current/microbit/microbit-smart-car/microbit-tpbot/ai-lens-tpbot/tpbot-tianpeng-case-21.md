@@ -9,17 +9,17 @@
 
 - 1 x [TPBot](https://www.elecfreaks.com/tpbot.html)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_01.png)
 
 - 1 x  [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_02.png)
 
 ## Hardware Connections
 ---
 Connect the AI Lens to the IIC port on TPBot.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_03.png)
 
 ## Software
 ---
@@ -33,15 +33,15 @@ Connect the AI Lens to the IIC port on TPBot.
 
 - Click "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_04.png)
 
 - We need to add a package for programming. Click "Extensions" in the bottom of the drawer and seach with "tpbot" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_05.png)
 
 - We need to add a package for programming the AI Lens kit. Click "Extensions" in the bottom of the drawer and seach with `https://github.com/elecfreaks/pxt-PlanetX-AI` in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_06.png)
 
 
 
@@ -49,15 +49,15 @@ Connect the AI Lens to the IIC port on TPBot.
 
 - Initialize the AI lens kit in the On start brick and switch its function to color recognition, then show an icon.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_21_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_21_07.png)
 
 - In forever brick, get an image from the AI lens and adjust TPBot's headlights' color by the color recognized in the lens.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_21_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_21_08.png)
 
 - Complete Code:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_21_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_21_09.png)
 
 
 

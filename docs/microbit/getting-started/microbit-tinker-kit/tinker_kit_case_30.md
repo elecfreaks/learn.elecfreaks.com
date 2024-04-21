@@ -23,7 +23,7 @@
 ## 步棸 1 – 输入/输出
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iEF8mjS.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/iEF8mjS.jpg)
 
 - 将micro:bit和面包板连接。
 
@@ -44,9 +44,9 @@
 ## 步棸 2 – 文件转换
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/GTOykBX.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/GTOykBX.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/GheA49n.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/GheA49n.png)
 
 - 我们需要下载一些模块，将会用于此项目。
 
@@ -66,7 +66,7 @@
 ## 步棸 3 – 屏幕载入
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/a673xL0.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/a673xL0.png)
 
 
 - 此步棸不属于必须步棸, 但是可给你的程序加入一些基本性能。
@@ -83,7 +83,7 @@
 ## 步棸 4 – 编程
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FFzB46b.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/FFzB46b.png)
 
 - 这是它真实的自测。
 
@@ -100,7 +100,7 @@
 ## 步棸 5 – 加点逻辑吧
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/brOmadg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/brOmadg.png)
 
 - 此步棸为计算和显示游戏反应时间。
 
@@ -109,7 +109,7 @@
 - 然后，OLED显示屏上会显示玩家反应时间。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/siPzaXf.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/siPzaXf.jpg)
 
 
 

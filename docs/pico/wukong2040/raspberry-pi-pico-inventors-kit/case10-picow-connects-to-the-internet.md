@@ -5,7 +5,7 @@ sidebar_label: 案例10 Pico W 连接互联网
 
 # 案例10 Pico W 连接互联网
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case10-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case10-01.png)
 
 ## 简介
 
@@ -48,15 +48,15 @@ Raspberry Pi Pico W 是一款基于 Raspberry Pi Pico 的微控制器板，它�
 
 首先需要了解的是 Raspberry Pi Pico W 与 Raspberry Pi Pico 的 CircuitPython UF2 文件是不同的。您需要在CircuitPython 官网下载最新的 Pico W UF2 文件，如下图所示：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case15-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case15-04.png)
 
 
 
 按住 Rasberry Pi Pico W 的 BOOTSEL 按钮不松开，并使用 USB 数据线连接到电脑。电脑文件资源管理器中会出现 RPI-RP2 磁盘，将您下载的 UF2 文件拖入到该磁盘即可，该磁盘会变成名为 CIRCUITPY 磁盘。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-program-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-program-06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-program-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-program-18.png)
 
 ### settings.toml 文件设置
 
@@ -71,7 +71,7 @@ DEMO_WIFI_PASSWORD = "elecfreaks2023"  # WiFi 密码
 
 CIRCUITPY 磁盘：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case15-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case15-06.png)
 
 ### 在 code.py 中访问 settings.toml 信息
 
@@ -84,7 +84,7 @@ print(os.getenv("DEMO_WIFI_SSID"))
 print(os.getenv("DEMO_WIFI_PASSWORD"))
 ```
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case15-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case15-05.png)
 
 ### 基本 WiFi 测试验证
 
@@ -106,7 +106,7 @@ ipv4 = ipaddress.ip_address("8.8.4.4")
 print("Ping google.com: %f ms" % (wifi.radio.ping(ipv4) * 1000))
 ```
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case15-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case15-07.png)
 
 ## 思考
 

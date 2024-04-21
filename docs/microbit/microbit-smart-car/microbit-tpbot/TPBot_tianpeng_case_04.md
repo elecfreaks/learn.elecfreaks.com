@@ -16,7 +16,7 @@ sidebar_label: 避障行驶
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_01.png)
 
 
 
@@ -33,17 +33,17 @@ sidebar_label: 避障行驶
 
 - 在MakeCode的代码抽屉中点击`高级`，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_02.png)
 
 - 为了给天蓬智能车编程，我们需要添加一个扩展库。在代码抽屉底部找到`扩展`，并点击它。这时会弹出一个对话框，搜索`tpbot`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_03.png)
 
 ##示例程序
 - `当开机时`micro:bit的LED矩阵显示三角形图案，设置天蓬智能车以`50%`的速度前进，设置车头灯的颜色为`绿色`。
 - 在`无限循环`中，将超声波检测到车体与前方障碍物的距离存入变量i中。判断`i<15`和`i≠0`两个条件是否同时为真。如果两个条件同时为真，则天蓬智能车`立即停车`，然后车头灯颜色闪烁三次，再以`30%`的速度后退`1`秒，以`30%`的速度左转`0.5`秒，最后设置车头灯颜色为`绿色`，天蓬智能车继续以`50%`的速度向前行驶。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_04_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_04_04.png)
 
 ### 程序
 - 请参考程序连接：[https://makecode.microbit.org/_fddTCuTFc7eE](https://makecode.microbit.org/_fddTCuTFc7eE)

@@ -22,7 +22,7 @@ micro:bit × 1
 Connect the micro:bit to Nezha expansion board.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_18_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_18_03.png)
 
 
 
@@ -68,7 +68,7 @@ On start
 7.Set zhangai3 to create a wizard module, fill the x coordinate with the variable x + 2, and fill the y coordinate with 0
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_20_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_20_15.png)
 
 
 ## The bright spot part
@@ -77,7 +77,7 @@ On start
 
 2.Judge the acceleration in the x direction, if it is less than -200, subtract 1 from the spirt x coordinate, and pause for 200ms
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_20_16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_20_16.png)
 
 ## Obstacles part
 
@@ -96,14 +96,14 @@ On start
 7.Pause variable sudu time
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_20_17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_20_17.png)
 
 
 
 ### Programme as the picture shows:
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_20_18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_20_18.png)
 
 
 
@@ -135,4 +135,4 @@ You may download it directly here:
 ### Result
 It can control the spots by gravity to avoid the falling bricks. Once it touches the bricks, the game ends.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_20_19.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_20_19.gif)

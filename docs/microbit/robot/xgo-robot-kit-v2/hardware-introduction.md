@@ -19,11 +19,11 @@ XGO-lite V2 的主体结构是由铝合金结构件，小腿和总线舵机组�
 
 - 18650 2S电池通过魔术贴粘在驱动板上，充电孔固定在底板。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-hardward-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-hardward-01.png)
 
 ## micro:bit 主板
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-hardware-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-hardware-02.png)
 
 micro:bit XGO Robot Kit V2 是通过给 micro:bit V2 编写程序发出指令到下位机驱动板来控制 XGO-lite V2 运动。
 
@@ -31,11 +31,11 @@ micro:bit XGO Robot Kit V2 是通过给 micro:bit V2 编写程序发出指令到
 
 关于 micro:bit 的学习和使用，可以参考它官网教程，官网链接：[Micro:bit](https://microbit.org/)。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-hardward-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-hardward-02.png)
 
 ## XGO Adapter 扩展板
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-hardware-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-hardware-03.png)
 
 XGO Adapter 是一种扩展板，它可以与 micro:bit 主板配合使用，为用户提供更多的接口和功能。该扩展板包含micro:bit 主板插槽、4pin 信号线连接端口、扬声器连接端口、GPIO 和 IIC 接口，采用螺丝固定到 XGO-lite2 前盖上，为用户提供了更加便捷和稳定的固定方式。
 
@@ -81,6 +81,6 @@ XGO-lite2 机器狗选用了一款高品质的6V 2.3KG.塑料壳金属齿300度�
 
 总之，6V 2.3KG.塑料壳金属齿300度双轴TTL串口舵机是一款高品质、高性能的舵机，适用于各种机器人和智能设备的运动控制。在 XGO-lite2 机器狗中，它为 XGO-lite V2 的运动控制提供了强大的支持，提高了 XGO-lite V2 的性能和应用价值。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-introduce-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-introduce-07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-introduce-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-introduce-08.png)

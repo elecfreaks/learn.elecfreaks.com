@@ -1,6 +1,6 @@
 ﻿# Ring:bit v2.0(EF03423)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/zoH1NRm.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/zoH1NRm.jpg)
 ## Introduction of Ring:bit car 2
 ---
 

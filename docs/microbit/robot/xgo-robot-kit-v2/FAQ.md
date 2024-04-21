@@ -17,27 +17,27 @@ sidebar_label: FAQ
 
 1. 打开XGO APP，通过蓝牙连接上机器人后，点击设置按钮按钮，以开发者身份运行，如下图所示。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-faq-04.png)
 
 2. 返回主页面，点击标定图标。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-faq-05.png)
 
 3. 进入标定页面，点击开始标定。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-faq-07.png)
 
 4. 此时机器狗的舵机将不再输出力矩，允许您转动所有关节。将机器狗按照下图姿势摆放，注意，使每条腿肩部垂直于身体，大腿垂直于地面，小腿垂直于大腿,**将夹爪打开至最大量程**，机械臂折叠放在背上，摆放是否垂直将直接影响机器狗工作时的姿态。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-faq-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-faq-02.png)
 
 5. 摆放标准后，在标定界面中点击“完成标定”按钮，10秒后机器狗将恢复初始站立姿势。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-faq-06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-faq-03.png)
 
 ## 更换舵机
 
@@ -47,36 +47,36 @@ sidebar_label: FAQ
 
 步骤一，打开机器狗后盖，从驱动板上拔掉损坏的膝关节舵机线。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-faq-08.png)
 
 
 
 步骤二，拆掉膝关节舵机主副舵盘的舵盘螺丝，把小腿取下来。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-faq-09.png)
 
 
 
 步骤三，取下损坏的舵机，注意不要使劲拉扯舵机线。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-faq-10.png)
 
 步骤四，把膝关节舵机线穿过对应的位置，并把舵机固定在大腿钣金上。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-faq-11.png)
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-faq-12.png)
 
 
 
 步骤五，把小腿固定在主副舵盘上，注意小腿和大腿需要形成90°直角。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-faq-13.png)
 
 
 
 步骤六，把线插在主板上，关闭机器狗上盖，开机并重新标定机器狗。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-faq-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-faq-14.png)

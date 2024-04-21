@@ -11,7 +11,7 @@ sidebar_label: Case 02 Simple Car with Mechnial Claw
 Build a smart Cutebot Pro cart with a mechnical claw.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-02-01.png)
 
 
 ## Materials Requested
@@ -27,25 +27,25 @@ Build a smart Cutebot Pro cart with a mechnical claw.
 
 ## Assembly Steps
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-02-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-02-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-02-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-02-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-02-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-02-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-02-04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-02-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-02-05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-02-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-02-06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-02-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-02-07.png)
 
 ## Hardware Connections
 
 Connect the claw to the S1 port on the Cutebot Pro.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-02-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-02-02.png)
 
 
 ## Software
@@ -58,22 +58,22 @@ Connect the claw to the S1 port on the Cutebot Pro.
 
 Click "Extensions" in the makecode drawer to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-02-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-02-03.png)
 
 For programing the smart Cutebot Pro, we need to add a package. Click "extensions" in the bottom of the drawer and search with "Cutebot pro" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-02-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-02-04.png)
 
 For programing the Joystick:bit kit v2, we need to add a package. Click "extensions" in the bottom of the drawer and search with "joystickbit" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-02-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-02-05.png)
 
 
 ## Code Example
 
 ### For the Joystick bit
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-02-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-02-06.png)
 
 
 ### Program
@@ -103,7 +103,7 @@ You may download it directly below:
 
 ### Cutebot Pro
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-02-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-02-07.png)
 
 
 ### Program
@@ -135,7 +135,7 @@ You may download it directly below:
 
 Through the Joystick:bit to control the Cutebot Pro, press the handle button C can triger the function of clamping the objects by the claw; release button C, the claw would release the items.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-02.gif)
 
 ## Expanded Knowledge
 

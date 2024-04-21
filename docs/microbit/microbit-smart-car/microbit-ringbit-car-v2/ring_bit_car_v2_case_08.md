@@ -19,7 +19,7 @@ sidebar_label: 灯光寻路
 ---
 - Ring:bit扩展版的P1口连接左轮舵机，P2口连接右轮舵机。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/jBVHea8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/jBVHea8.png)
 
 ## 软件平台
 ---
@@ -31,11 +31,11 @@ sidebar_label: 灯光寻路
 ### 步骤 1
 - 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/2qCyzQ7.png)
 
 - 为了给Ring:bit套件编程，我们需要添加一个代码库。在代码抽屉底部找到“Add Package”，并点击它。这时会弹出一个对话框。搜索“ringbit"，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1Wq2Mov.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/1Wq2Mov.jpg)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -43,14 +43,14 @@ sidebar_label: 灯光寻路
 ---
 - 从Basic中拖出一个`on start`积木块，初始化ring:bit扩展板的P1，P2口分别对应小车左右轮胎。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_car_v2_case_08_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_car_v2_case_08_01.png)
 
 ### 步骤 3
 ---
 - 从input函数库中，拖入获取光线强度的函数`light level`，当强度大于设定的界定值，小车径直朝光源处行驶。
 - 当不强度值不足的时候，小车在原地旋转，寻找光源。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_car_v2_case_08_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_car_v2_case_08_02.png)
 
 
 
@@ -86,7 +86,7 @@ sidebar_label: 灯光寻路
 
 - 小车原地旋转寻找光源，当光源出现，小车径直向光源驶去。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ENMYgJm.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ENMYgJm.gif)
 
 ## 思考
 ---

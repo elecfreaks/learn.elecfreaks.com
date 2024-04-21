@@ -9,7 +9,7 @@ XGO Robot Kit V2 is a desktop Al quadruped robot dog with fifteen degrees of fre
 
 XGO Robot Kit V2 supports graphical programming and Python code programming. This makes it an ideal robot dog for learning, teaching and research.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-introduce-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-introduce-01.png)
 
 
 ## Catalog

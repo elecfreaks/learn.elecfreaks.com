@@ -9,7 +9,7 @@ sidebar_label: The Pencil Holder of the Minions
 
 A pen holder is a columnar container for holding pens or other long stationery, and comes in a variety of shapes and materials. Traditional penholders are made of wood, stone, pottery, bamboo, and other materials.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-08-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/images/tooca-laser-1-case-08-01.png)
 
 
 ## Materials used
@@ -37,8 +37,8 @@ Note: This case takes a 2.8mm basswood board as an example. If you need to use d
 
 ## Effect Show
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-08-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/images/tooca-laser-1-case-08-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-08-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/images/tooca-laser-1-case-08-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-08-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/images/tooca-laser-1-case-08-03.png)

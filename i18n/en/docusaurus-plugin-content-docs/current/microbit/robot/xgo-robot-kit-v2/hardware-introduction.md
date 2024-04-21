@@ -19,11 +19,11 @@ The main structure of XGO-lite V2 is composed of aluminum alloy structural parts
 
 - The 18650 2S battery is glued to the driver board by Velcro, and the charging hole is fixed on the bottom board.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-hardward-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-hardward-01.png)
 
 ## Micro:bit Board
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-hardware-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-hardware-02.png)
 
 Micro:bit XGO Robot Kit V2 controls the movement of XGO-lite V2 by writing a program for micro:bit V2 and sending instructions to the driver board of the lower computer.
 
@@ -31,11 +31,11 @@ The micro:bit is a microcomputer designed by the BBC (British Broadcasting Corpo
 
 For the learning and use of micro:bit, you can refer to its official website tutorial, official website link: [Micro:bit](https://microbit.org/).
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-hardward-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-hardward-02.png)
 
 ## XGO Adapter Expansion Board
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-hardware-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-hardware-03.png)
 
 XGO Adapter is an expansion board that can be used with micro:bit to provide users with more interfaces and functions. The expansion board includes a micro:bit slot, a 4pin signal cable connection port, a speaker connection port, GPIO and IIC interfaces, and is fixed to the XGO-lite2 front cover with screws, providing users with a more convenient and stable fixing method.
 
@@ -81,6 +81,6 @@ By adopting this servo, the motion control of the XGO-lite2 robot dog is more pr
 
 In short, the 6V 2.3KG. plastic shell metal teeth 300-degree dual-axis TTL serial servo is a high-quality, high-performance servo, which is suitable for motion control of various robots and smart devices. In the XGO-lite2 robot dog, it provides strong support for the motion control of XGO-lite V2, improving the performance and application value of XGO-lite V2.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-introduce-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-introduce-07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-introduce-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-introduce-08.png)

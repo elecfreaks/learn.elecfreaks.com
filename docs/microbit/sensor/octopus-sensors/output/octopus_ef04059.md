@@ -4,7 +4,7 @@
 ---
 OCTOPUS Motor Brick是一种简单的电子积木式风扇电机驱动模块
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/vu7ViBU.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/vu7ViBU.jpg)
 
 ## 特性
 ---
@@ -25,7 +25,7 @@ N-MOS| IRLML2502TRPBF具有高电流驱动能力
 ## 外形与定位尺寸
 ---
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/bFU1faL.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/bFU1faL.jpg)
 
 ## 快速上手
 ---
@@ -36,13 +36,13 @@ N-MOS| IRLML2502TRPBF具有高电流驱动能力
 
 ***以octupus：bit为例***
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ZBTdQp1.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/ZBTdQp1.png)
 
 
 ### 如图所示编写程序
 按A键向P16口写入1，按B键向P16口写入0
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04059_01.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04059_01.png)
 
 ### 参考程序
 请参考程序连接：[https://makecode.microbit.org/_fUURco9Rj8mH](https://makecode.microbit.org/_fUURco9Rj8mH)
@@ -79,13 +79,13 @@ N-MOS| IRLML2502TRPBF具有高电流驱动能力
 下载压缩包并解压[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/05001_07.png)
 
 为了给130带扇叶电机模块编程，我们需要添加fans.py。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的Octopus_MicroPython-master文件夹，从中选择fans.py添加进来。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_08.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_09.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04059_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04059_10.png)
 
 ### 步骤 2
 ### 参考程序

@@ -4,7 +4,7 @@
 
 MQ2 Gas sensor is used in gas leakage detecting equipments in consumer and industry markets, this sensor is suitable for detecting LPG, i-butane, propane, methane ,alcohol, hydrogen and smoke.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05031_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05031_01.png)
 ## Products Link
 
 [ELECFREAKS PlanetX MQ2 Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-mq2-sensor?_pos=1&_sid=04dea9287&_ss=r)
@@ -29,7 +29,7 @@ Working Voltage|3.3V
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05031_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05031_02.png)
 
 ## Quick to Start
 
@@ -39,7 +39,7 @@ Working Voltage|3.3V
  Connect the MQ2 Gas sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05031_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05031_03.png)
 
 ***Note:*** A preheating for 3 minutes after powering on is required before using.
 
@@ -50,11 +50,11 @@ Working Voltage|3.3V
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_04.png)
 
 We need to add a package for programming, . Click "Extensions" in the bottom of the drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_05.png)
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
@@ -62,7 +62,7 @@ We need to add a package for programming, . Click "Extensions" in the bottom of 
 
 ### Code as below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05031_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05031_06.png)
 
 
 ### Link
@@ -103,13 +103,13 @@ Download the package and unzip it: [PlanetX_MicroPython](https://github.com/lion
 
 Go to  [Python editor](https://python.microbit.org/v/2.0)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_07.png)
 
 We need to add enum.py and smoke.py for programming. Click "Load/Save" and then click "Show Files (1)" to see more choices, click "Add file" to add enum.py and smoke.py from the unzipped package of PlanetX_MicroPython.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_08.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_09.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05031_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05031_10.png)
 
 ### Step 2
 

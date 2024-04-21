@@ -11,7 +11,7 @@ sidebar_label: 自动车大灯
 
 想象一下，当天色变暗时，我们需要打开车辆的大灯以提供足够的照明。相反，当光线足够明亮时，我们又希望将大灯关闭以节省能源。这次，我们将学习如何使用micro:bit的光线检测功能和条件语句来实现这个功能。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-05-01.png)
 
 ## 使用材料
 
@@ -26,11 +26,11 @@ sidebar_label: 自动车大灯
 ### 步骤 1
 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
 
 为了给Cutebot套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索`Cutebot`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -38,7 +38,7 @@ sidebar_label: 自动车大灯
 
 在`当开机时`积木块中全速前进；
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_05_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_05_01.png)
 
 ### 步骤 3
 
@@ -46,7 +46,7 @@ sidebar_label: 自动车大灯
 
 当大于`10`的时候，设置左右车灯RGB值为`0`，关闭车灯。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_05_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_05_02.png)
 
 
 ### 程序
@@ -79,7 +79,7 @@ sidebar_label: 自动车大灯
 
 当小车经过黑暗的地方，车灯自动点亮，离开黑暗区，车灯自动关闭。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-05.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-05.gif)
 
 ## 思考
 

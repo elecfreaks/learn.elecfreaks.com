@@ -5,7 +5,7 @@ sidebar_label: 6合1积木搭建套装
 
 # Ring:bit 六合一搭建套件
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ringbit_bricks_pack_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/ringbit_bricks_pack_01.jpg)
 
 ## 简介
 ---

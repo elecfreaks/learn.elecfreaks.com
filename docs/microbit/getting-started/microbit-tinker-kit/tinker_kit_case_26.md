@@ -7,9 +7,9 @@
 
 ## 目标
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/L56NjeQ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/L56NjeQ.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/J1bgV6r.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/J1bgV6r.jpg)
 
 
  1. 做一个简单的硬币分类机
@@ -38,25 +38,25 @@
 ## 硬件 步棸 1 – 制作外箱体 
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Q3tDRhB.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Q3tDRhB.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05Q8SXV.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/05Q8SXV.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2Tmoiuy.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/2Tmoiuy.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/nC0LL49.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/nC0LL49.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/R4RXKnm.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/R4RXKnm.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/3w0aAyr.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/3w0aAyr.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/SCXUpJZ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/SCXUpJZ.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/GKJzfj0.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/GKJzfj0.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/WLSbqoZ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/WLSbqoZ.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/S3hOX2t.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/S3hOX2t.jpg)
 
 
 1. 拿一个5x25cm的纸板，在长边画一个0.5cm的线。
@@ -76,11 +76,11 @@
 ## 步棸 2 – 正面完工
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/9tkKICy.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/9tkKICy.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/jNQhPOn.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/jNQhPOn.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TEL40aR.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/TEL40aR.jpg)
 
 
 
@@ -96,9 +96,9 @@
 ## 步棸 3 – 完成侧面
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/9Icgz5E.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/9Icgz5E.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Zj3PcbH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Zj3PcbH.jpg)
 
 
 1. 拿一个5x19cm的纸板(D)。
@@ -111,13 +111,13 @@
 ## 步棸 4 – 电路连接
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/90FlPQV.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/90FlPQV.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/78kEhmp.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/78kEhmp.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ag4LQ5b.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/ag4LQ5b.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/eJt5gfu.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/eJt5gfu.jpg)
 
 
 1. 如上图，将跳线和鳄鱼夹焊接，裸露电线部分用胶带缠起来。
@@ -134,13 +134,13 @@
 ## 步棸 5 – 组装
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/yfmxLC4.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/yfmxLC4.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/3ws35Ua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/3ws35Ua.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/RCFGNSH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/RCFGNSH.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VHBLhJG.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/VHBLhJG.jpg)
 
 
 1. 根据基准线，将6个5x5cm黏贴在画有虚线的板子上。
@@ -163,11 +163,11 @@
 ## 软件 步棸 1 – 校准超声波传感器 
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/OxqQe38.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/OxqQe38.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/sede4dL.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/sede4dL.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ckIDXrX.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/ckIDXrX.png)
 
 
 - 每一个超声波都是独特的，会根据环境情况变化，显示数据也会有所不同。校准会帮你确认显示数据。
@@ -184,9 +184,9 @@
 ## 步棸 2 – 硬币总值
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tCtEjj1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/tCtEjj1.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/fy5hbL8.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/fy5hbL8.png)
 
 1. 在变量中输入上述最大值及最小值。
 2. 将硬币值初始化为0。

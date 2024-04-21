@@ -1,6 +1,6 @@
 ﻿# 案例03 智能衣柜
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1BOixPA.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/1BOixPA.jpg)
 
 ## 目的
 ---
@@ -21,33 +21,33 @@
 ### 智能衣柜原理
 - 通过micro：bit 控制碰撞检测模块，接收碰撞信号，当接收到信号，控制舵机模块打开衣柜门，同时打开照明灯，未接收到信号则保持不变，控制照明灯为熄灭状态。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ttxyao2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/ttxyao2.png)
 
 ## 结构场景搭建
 ---
 准备一把美工刀和一些瓦楞纸板。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/PuJE7uj.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/PuJE7uj.jpg)
 
 搭建成如图样式：
 
 正面：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lNqGReU.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/lNqGReU.jpg)
 
 背面：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/mDXBxp3.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/mDXBxp3.jpg)
 
 将元器件按如图摆放黏贴。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/miuzisu.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/miuzisu.jpg)
 
 
 ## 硬件连接图
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1ySeMXV.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/1ySeMXV.png)
 
 
 
@@ -66,11 +66,11 @@ IO口使用注意事项
 ### 步骤 1
 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_01_01.png)
 
 为了给智慧家居套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索“smarthome"，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_01_02.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -81,20 +81,20 @@ IO口使用注意事项
 
 从“引脚”中拖出“向伺服机构引脚”积木块，选择p7口，将p7口设为180度，将舵机设置为一个关门的状态。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_03_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_03_03.png)
 
 ### 步骤 3
 
 在“无限循环”积木块中，首先判断p2引脚的值是否为0，满足条件，将门这个变量的状态取反之后判断变量是否为高电平，如果满足高电平，点亮rainbow led，然后将舵机状态设置为0转动180度达到开门的效果。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_03_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_03_04.png)
 
 ### 步骤 4
 
 如果取反后不满足高电平，那么将舵机设置为180度的状态，并且将rainbow led保持熄灭状态。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_03_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_03_05.png)
 
 
 ### 程序
@@ -129,11 +129,11 @@ IO口使用注意事项
 
 正面：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/XyAjCbV.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/XyAjCbV.jpg)
 
 背面：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/mEbCjUQ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/mEbCjUQ.jpg)
 
 ## 思考
 ---

@@ -4,7 +4,7 @@
 
  This is an OLED display to show the data you want to print.(Chinese is not supported)
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Xa4wAJ3.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/Xa4wAJ3.jpg)
 
 ## Products Link
 
@@ -40,7 +40,7 @@ Dimension|27mm * 28mm
 ## Dimension
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/0C9CgFF.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/0C9CgFF.jpg)
 
 ## Quick to start
 
@@ -50,26 +50,26 @@ Dimension|27mm * 28mm
 
 Take sensor:bit for example:
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JnrQKL9.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/JnrQKL9.png)
 
 ###  Add package
  Click "Advanced"in the choice of the MakeCode to find more choices.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/smtcNoB.png)
 
 
 
  Click "Extensions", search "oled"in the dialog box and then download oledssd1306.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/25Cwyvf.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/25Cwyvf.png)
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/XWFXKaU.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/XWFXKaU.png)
 
 ### Program as the picture shows.
  Initialize the pixels of the OLED screen as 64*128.
  Show characters: "elecfreaks"
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/IK3ue9u.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/IK3ue9u.png)
 
 ### Reference
 
@@ -102,7 +102,7 @@ You can also download the links below:
 ### Result
  "elecfreaks" is displayed on the screen.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2ThINGK.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/2ThINGK.jpg)
 
 ## Relevant cases
 

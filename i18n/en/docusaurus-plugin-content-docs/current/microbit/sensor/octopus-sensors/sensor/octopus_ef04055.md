@@ -4,7 +4,7 @@
 
 OCTOPUS PIR Sensor module is a type of electronic building block based on AM412 pyroelectric digital smart sensor. It can be used in sensing and detection of human or animal motion, sensing distance is about 4-5 meters.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/j1VO7pH.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/j1VO7pH.jpg)
 
 ## Products Link
 
@@ -34,7 +34,7 @@ Size|32.00mm×24.00mm
 ## Outlook and Dimensions
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ok6fmjF.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/Ok6fmjF.jpg)
 
 ## Quick to Start
 
@@ -45,7 +45,7 @@ Size|32.00mm×24.00mm
 
   Take sensor:bit for example
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/5iwXCZp.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/5iwXCZp.png)
 ### Add Package
 
 ### Program as the picture shows
@@ -54,7 +54,7 @@ Size|32.00mm×24.00mm
 2. While the show number is 0, an icon is showing on the micro:bit.
 3. While the show number is 1, a rectangle is showing on the micro:bit.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/aMlPqo5.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/aMlPqo5.png)
 
 ### Reference
 

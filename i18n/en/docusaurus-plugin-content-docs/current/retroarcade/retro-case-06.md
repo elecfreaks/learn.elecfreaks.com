@@ -8,7 +8,7 @@ Make a simple Pac-Man mini-game.
 
 1 x  [ELECFREAKS Retro Makecode Arcade For Education]
 
-![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-01-01.png)
+![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-01.png)
 
 ## Software
 
@@ -18,11 +18,11 @@ Make a simple Pac-Man mini-game.
 
 `Set the background color`, `Create a new sprite mySprite`, `Type set to Player', `New sprite mySprite2`, `Type set to Food`.`Control the movement of the sprite mySprite with the keys`, `Set the sprite mySprite in the screen`, ``Set sprite mySprite2 to appear at a random location`.`
 
-![retro-case-06-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-06-01.png)
+![retro-case-06-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-06-01.png)
 
 `When the player controls the character and the food overlap`, `Set food to reappear in random locations`, `Start the three-second countdown`, `Score increase by 1`.
 
-![retro-case-06-02.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-06-02.png)
+![retro-case-06-02.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-06-02.png)
 
 ### Procedures
 

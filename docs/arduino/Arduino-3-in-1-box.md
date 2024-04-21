@@ -5,7 +5,7 @@
 
 ## 产品图片
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/images/Arduino-3-in-1-box-01.png)
 
 ## 产品参数
 
@@ -21,54 +21,54 @@
 
 ## 产品尺寸
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/images/Arduino-3-in-1-box-02.png)
 
 ## 快速上手
 ### 主要模块介绍
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/images/Arduino-3-in-1-box-15.png)
 
 ### 安装电池盒
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/images/Arduino-3-in-1-box-16.png)
 
 ### 下载并安装Arduino IDE
 Arduino 官方网站上下载最新版本的 Arduino IDE： [https://www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software)，并根据系统选择下载安装。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/images/Arduino-3-in-1-box-03.png)
 
 ### 软件编程
 下载并解压[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的库文件[Arduino-3-in-1-box](https://github.com/elecfreaks/learn-cn/raw/master/Arduino-3-in-1-box/Arduino-3-in-1-box.rar)
 
 打开Arduino IDE 并选择工具-开发板-Arduino Uno。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/images/Arduino-3-in-1-box-04.png)
 
 使用type-c数据线将[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)连接至电脑端。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/images/Arduino-3-in-1-box-05.png)
 
 连接完成后，点击工具-端口，设置硬件连接的端口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/images/Arduino-3-in-1-box-06.png)
 
 点击项目-加载库-添加.ZIP库...。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/images/Arduino-3-in-1-box-07.png)
 
 选择并打开Adafruit_NeoPixel文件夹，添加[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的扩展库的依赖库文件。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/images/Arduino-3-in-1-box-08.png)
 
 选择NezhaA-main.zip，添加[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的扩展库文件。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/images/Arduino-3-in-1-box-09.png)
 
 ### 硬件连接
 
 分别将两个电机和两个舵机连接到[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的M1、M2和S1、S2。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/images/Arduino-3-in-1-box-11.png)
 
 ### 编写程序
 
@@ -94,16 +94,16 @@ void loop() {
 ```
 点击文件-保存，保存程序文件。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/images/Arduino-3-in-1-box-12.png)
 
 选择保存路径，设置文件名并点击保存。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/images/Arduino-3-in-1-box-13.png)
 
 
 点击上传按钮，将程序上传至[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Arduino-3-in-1-box-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/images/Arduino-3-in-1-box-14.png)
 
 ## 结果
 

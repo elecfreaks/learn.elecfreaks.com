@@ -2,7 +2,7 @@
 ## 目的
 使用悟空创意搭建套装制作一辆避障车。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-04-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-04-01.png)
 
 ## 购买链接
 
@@ -10,7 +10,7 @@
 
 ## 所需材料
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-04-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-04-02.png)
 
 搭建视频链接:
 [https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=4&page=4](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=4&page=4)
@@ -18,21 +18,21 @@
 ## 搭建步骤
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-04-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-04-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-04-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-04-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-04-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-04-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-04-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-04-04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-04-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-04-05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-04-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-04-06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-04-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-04-07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/step-case-04-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-04-08.png)
 
 
 ## 软件编程平台
@@ -44,20 +44,20 @@
 
 在MakeCode的代码抽屉中点击高级，查看更多代码选项，点击扩展。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-01-03.png)
 
 在搜索框中搜索wukong，点击图片中wukong，添加扩展包。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-01-04.png)
 
 在搜索框中搜索https://github.com/elecfreaks/pxt-sonarbit，添加超声波传感器的扩展包。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-04-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-04-04.png)
 
 
 
 ### 程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-04-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-04-05.png)
 
 程序链接：[https://makecode.microbit.org/_Ph47qr3aM6cP](https://makecode.microbit.org/_Ph47qr3aM6cP)

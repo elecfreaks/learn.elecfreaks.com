@@ -86,13 +86,13 @@ The format of the returned data packet is:
 
 In the initial standing posture, the origin is directly below the fuselage, the forward direction of the robot dog is the positive direction of the X-axis, the left is the positive direction of the Y-axis, and the upward direction is the positive direction of the Z-axis.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-xyz-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-xyz-01.png)
 
 ### Single leg coordinate system
 
 The single-leg coordinate system is used to describe the position of the foot. The four legs correspond to four independent single-leg coordinate systems. The thigh joint is the origin. The forward direction of the robot dog is the positive direction of the x-axis, the left is the positive direction of the Y-axis, and the bottom is the positive direction of the Z-axis. Towards.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-xyz-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-xyz-02.png)
 
 ### Servo number
 

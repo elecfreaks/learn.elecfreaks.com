@@ -12,7 +12,7 @@ XGO Robot Kit V2 is a 15-degree-of-freedom desktop-level Al quadruped robot dog.
 
 The XGO Robot Kit V2 supports both graphical programming and Python code programming. This makes it the ideal machine for learning, teaching and research.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-introduce-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-introduce-01.png)
 
 ## Function Description
 
@@ -20,25 +20,25 @@ The XGO Robot Kit V2 supports both graphical programming and Python code program
 
 XGO Robot Kit V2 has a built-in 6-axis IMU, joint position sensor, and current sensor to feedback on its own posture and joint angle and torque, which can realize omnidirectional movement, six-dimensional posture control, multiple motion gait and motion superposition, built-in gyroscope to maintain body self-balance, and internal algorithm and secondary development.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-introduce-07.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-introduce-07.gif)
 
 ### With the Powerful XGO Adapter Expansion Board
 
 The XGO Adapter expansion board is powerful and compatible with a wide range of motherboards, including micro:bit v2 and more. It extends the commonly used GPIO interface and IIC interface to work with Planet Series sensors and Octopus Series sensors, such as AI lens, voice recognition sensors, rainbow light rings, etc. Moreover, the XGO-lite V2 body has block positioning holes to work with building blocks to explore more smart and interesting application cases.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-introduce-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-introduce-03.png)
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-introduce-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-introduce-04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-introduce-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-introduce-05.png)
 
 ### Variety of programming methods
 
 XGO Robot Kit V2 can be controlled through the XGO APP, which is easy to use and perfect for beginners who are experiencing its powerful functions for the first time. It also supports MakeCode graphical programming, which allows students with zero programming knowledge to quickly get started and learn about programming while playing with the XGO Robot Kit V2. For more advanced creators, XGO Robot Kit V2 also supports Python code programming to understand the underlying principles of each instruction and secondary development.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-introduce-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-introduce-06.png)
 
 ## Product Features
 
@@ -52,21 +52,21 @@ The XGO Robot Kit V2 body and thighs are made of aluminum alloy shell, covered w
 
 All servos of the body use 2.3KG.CM bus serial servos as joints, with joint angle readback function, which can be used for teaching programming.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-introduce-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-introduce-07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-introduce-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-introduce-08.png)
 
 ### IMU posture self-stabilization
 
 The attitude data obtained through the IMU is controlled by a closed-loop, and the robot dog remains stable no matter how the plane shakes.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-introduce-08.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-introduce-08.gif)
 
 ### Six degrees of freedom control of the whole machine
 
 The motion control of six degrees of freedom of the body is achieved without moving the toes.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-introduce-09.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-introduce-09.gif)
 
 
 
@@ -74,7 +74,7 @@ The motion control of six degrees of freedom of the body is achieved without mov
 
 The robot dog has three poses matching three speeds in low, medium and high, with different gait strategies and planning algorithms.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-introduce-10.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-introduce-10.gif)
 
 ### User communication and secondary programming interface
 

@@ -4,7 +4,7 @@
 ---
 - Octopus Soil Moisture 传感器可以读取土壤中的水分含量。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/6eULTGI.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/6eULTGI.jpg)
 
 ## 特性
 ---
@@ -28,7 +28,7 @@ SKU|EF04027
 ## 外形与定位尺寸
 ---
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/fNkBc5w.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/fNkBc5w.png)
 
 ## 快速上手
 ---
@@ -38,19 +38,19 @@ SKU|EF04027
 
 ***以sensor:bit为例***
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/gcLtAb7.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/gcLtAb7.png)
 
 ### 添加Package
 - 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
 
 - 点击“Extensions”，在弹出的对话框中搜索“iot"，下载iot代码库。
 
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AaZxCEb.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/AaZxCEb.jpg)
 
 
 
@@ -60,7 +60,7 @@ SKU|EF04027
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04027_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04027_03.png)
 
 
 
@@ -100,13 +100,13 @@ SKU|EF04027
 下载压缩包并解压[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_07.png)
 
 为了给土壤湿度传感器编程，我们需要添加soilhumidity.py。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的Octopus_MicroPython-master文件夹，从中选择soilhumidity.py添加进来。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_08.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_09.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04027_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04027_10.png)
 
 ### 步骤 2
 ### 参考程序

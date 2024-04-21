@@ -11,7 +11,7 @@ sidebar_label: Case 06 Remote Control Forklift Trucks
  To build a remote control Forklift truck with blocks.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-06-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-06-01.png)
 
 
 ## Materia Request
@@ -24,39 +24,39 @@ sidebar_label: Case 06 Remote Control Forklift Trucks
 
 ## Assembly Steps
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-06-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-06-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-06-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-06-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-06-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-06-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-06-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-06-04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-06-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-06-05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-06-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-06-06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-06-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-06-07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-06-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-06-08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-06-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-06-09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-06-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-06-10.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-06-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-06-11.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-06-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-06-12.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-06-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-06-13.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-step-06-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-step-06-14.png)
 
 ## Hardware Connection
 
 Connect the servo to the S1 port of the Smart Cutebot Pro.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-03-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-03-02.png)
 
 
 ## Software
@@ -69,22 +69,22 @@ Connect the servo to the S1 port of the Smart Cutebot Pro.
 
 Click `Advanced` in MakeCode's code drawer to see more code options.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-02-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-02-03.png)
 
 In order to programme Smart Cutebot Pro, we need to add an extension library. Find `Extensions` at the bottom of the code drawer and click on it. This will bring up a dialogue box to search for `CutebotPro` and click to download this code library.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-02-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-02-04.png)
 
 In order to programme the joystick:bit V2, we need to add an extension library. Find `Extensions` at the bottom of the code drawer and click on it. This will bring up a dialogue box to search for `joystickbit` and click it to have it downloaded.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-02-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-02-05.png)
 
 
 ## Code Example
 
 ### Joystick
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-02-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-02-06.png)
 
 
 ### Reference
@@ -114,7 +114,7 @@ You can also download the links directly:
 
 ### Cutebot Pro
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-06-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-06-07.png)
 
 
 ### Reference
@@ -147,7 +147,7 @@ You can also download the links directly:
 
 The trolley travelling route is controlled by the joystick, and press the button C to control the trolley to lift the items.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-extended-case-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-case/images/cutebot-pro-extended-case-06.gif)
 
 ##  Expanded knowledge
 

@@ -5,7 +5,7 @@ sidebar_label: 悟空装甲车套件
 
 # 麦克纳姆轮小车套件介绍
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Mecanum_wheel_car_kit_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_01.jpg)
 
 ## 简介
 ---

@@ -9,7 +9,7 @@
 
 - 1 x [手表套件Pro（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=582042009614)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_case_09_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_09_01.png)
 
 
 ## 软件
@@ -22,7 +22,7 @@
 - 当开机时显示设定图标，并设置变量`i`等于9。
 - 当`A`键被按下时，设置变量`i`等于9。
 - 当`B`键被按下时，则开始倒计时，当倒计时到0时，则显示设定图标
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_case_09_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_09_02.png)
 
 
 

@@ -8,7 +8,7 @@ Set map traps as well as endpoints.
 
 1 x  [ELECFREAKS Retro Makecode Arcade For Education](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
 
-![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-01-01.png)
+![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-01-01.png)
 
 ## Software
 
@@ -18,7 +18,7 @@ Set map traps as well as endpoints.
 
 Set the game to fail when the genie touches the plants on the path, and to win when the genie reaches the end of the game at the gem.
 
-![retro-case-05-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-05-01.png)
+![retro-case-05-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/images/retro-case-05-01.png)
 
 ### Procedures
 

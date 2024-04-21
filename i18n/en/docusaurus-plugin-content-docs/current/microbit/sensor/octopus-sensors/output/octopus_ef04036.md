@@ -4,7 +4,7 @@
 
  Octopus 5mm LED light Brick can be used in the interaction with the light works.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Raj46TF.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/Raj46TF.jpg)
 
 ## Products Link
 
@@ -26,7 +26,7 @@ Working Voltage|3.3-5V
 ## Outlook and Dimensions
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/oFiMInJ.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/oFiMInJ.png)
 
 ## Quick to Start
 
@@ -37,13 +37,13 @@ Working Voltage|3.3-5V
 
   Take sensor:bit for example
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/gPeDZkY.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/gPeDZkY.png)
 ### Add Package
 
 ### Program as the picture shows
  Digital write pin P1 to 1 and 0 repeatedly.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/vL9kUwl.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/vL9kUwl.png)
 
 ### Reference
 

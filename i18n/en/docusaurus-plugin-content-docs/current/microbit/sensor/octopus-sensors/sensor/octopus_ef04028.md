@@ -4,7 +4,7 @@
 
  The analog gas sensor  MQ2 is used in gas leakage detecting equipments in consumer and industry markets, this sensor is suitable for detecting LPG, i-butane, propane, methane ,alcohol, hydrogen, smoke. It is of high sensitivity and fast response, the sensitivity can be adjusted by the potentiometer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04028_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04028_01.png)
 
 
 ## Products Link
@@ -33,7 +33,7 @@ Size：
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04028_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04028_02.png)
 
 
 ## Quick to Start
@@ -48,12 +48,12 @@ Size：
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04028_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04028_03.png)
 
 
 ### Program as the picture shows
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04028_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04028_04.png)
 
 
 ### Reference

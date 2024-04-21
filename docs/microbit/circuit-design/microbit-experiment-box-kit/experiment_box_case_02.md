@@ -8,13 +8,13 @@
 
 ## 硬件连线图 ##
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/fLSfez6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/fLSfez6.png)
 
 - 使用香蕉线按如上图连接电路，电池盒内放入2颗7号AAA电池。
 
 ## 电路原理图 ##
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NSpS8c0.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/NSpS8c0.png)
 
 - micro:bit插槽的GND端和电池GND相连内部，形成电流回路。
 - 当按钮按下时电路接通，micro:bit的P2端口连接到GND，P2口电平被拉低。
@@ -26,7 +26,7 @@
 - 瞬时按钮开关通常是保持开启的。当它被按下的时候，电路接通；当它弹起的时候，电路会切换回断路的状态。
 - 在实验箱板子上我们配备了1个带有蓝色键帽的按钮开关。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/HgatY6t.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/HgatY6t.png)
 
 ## 软件编程设计
 ---
@@ -36,25 +36,25 @@
 
 - 点击New Project按钮，新建一个项目。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/t34k5Zb.png)
 
 ### 步骤 2
 
 - 首先在on start积木块中插入，将P2端口拉高，使其默认值为1，也就是默认高电平。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VuZAOrz.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/VuZAOrz.png)
 
 ### 步骤 3
 
 - 数字读取P2口的值，并且判断其是否等于0。（当按钮按下时电路接通，P2口接GND变为低电平，数字读取时值为0。）
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/0EHwnci.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/0EHwnci.png)
 
 ### 步骤 4
 
 - 如果P2口数值为0，则向P2口写入0，延时500ms，再写入1，延时500ms。LED灯闪烁。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/z9Yqpi3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/z9Yqpi3.png)
 
 ### 程序
 

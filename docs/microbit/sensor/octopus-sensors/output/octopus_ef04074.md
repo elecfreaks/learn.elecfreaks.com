@@ -4,7 +4,7 @@
 ---
 OCTOPUS振动电机电子模块，带有一个由高压驱动的小型振动器。 它可以用作玩具，手机等产品的振动器。
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/d9jdEqa.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/d9jdEqa.jpg)
 
 ## 特性
 ---
@@ -26,7 +26,7 @@ SKU|EF04074
 ## 外形与定位尺寸
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cdNd1Kw.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/cdNd1Kw.png)
 
 ## 快速上手
 ---
@@ -34,12 +34,12 @@ SKU|EF04074
 - 如图连接扩展板的P1口
 
 ***以sensor:bit为例***
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/opsGYQb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/opsGYQb.png)
 
 
 ### 如图所示编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04074_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04074_01.png)
 
 ### 参考程序
 请参考程序连接：[https://makecode.microbit.org/_K3ydU0V389k2](https://makecode.microbit.org/_K3ydU0V389k2)

@@ -9,7 +9,7 @@ Octopus Analog Capacitive Soil Moisture Sensor是我们OCTOPUS系列的土壤湿
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04097_00.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04097_00.jpg)
 
 
 
@@ -31,7 +31,7 @@ Octopus Analog Capacitive Soil Moisture Sensor是我们OCTOPUS系列的土壤湿
 ## 外型与定位尺寸
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04097_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04097_01.png)
 
 
 ## 快速上手
@@ -41,14 +41,14 @@ Octopus Analog Capacitive Soil Moisture Sensor是我们OCTOPUS系列的土壤湿
 将模块通过带扣杜邦线插入octopus:bit上的P1引脚，将micro:bit主板插入octopus:bit。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04097_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04097_02.png)
 
 
 ### 软件编程
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04027_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04027_03.png)
 
 
 程序代码链接：[https://makecode.microbit.org/_8EuFUqJA3Vff](https://makecode.microbit.org/_8EuFUqJA3Vff)

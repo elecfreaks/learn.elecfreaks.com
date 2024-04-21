@@ -10,7 +10,7 @@ sidebar_label: Pico:ed V2
 [Pico:ed V2](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=2a999fcf2&_ss=r) is an educational development board developed by ELECFREAKS based on Raspberry Pi Pico. [Pico:ed V2](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=2a999fcf2&_ss=r)  is based on the acclaimed RP2040 microcontroller which is the most popular microcontroller in the world, and we have added the resets button to make it easier for users to operate. [Pico:ed V2](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=2a999fcf2&_ss=r)  adopts a more rounded shape design: the head is changed to an arc, and the pin edge adopts a wavy beautiful design so that users are less likely to hurt their hands when using it. It is also good to see that there are more choices to the colors of the LED screen which are able to meet the demands for personalization on [Pico:ed V2](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=2a999fcf2&_ss=r) .
 [Pico:ed V2 ](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=2a999fcf2&_ss=r) retains two programmable buttons and a firmware burn-in button, a separate power supply, USB connection ports, and an onboard 7 x 17 LED dot matrix screen for additional graphics and text display. [Pico:ed V2](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=2a999fcf2&_ss=r) uses CircuitPython or C++ programming method, you can learn to program it alone or you can play it with other educational products from our company, such as Ring:bit Car V2, Cutebot Car V3, Starter Kit, and so on! Start your inventive and creative thinking while playing it!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Pico-ed-V2-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/Pico-ed-V2-01.png)
 
 ## Related Links
 
@@ -45,11 +45,11 @@ Purchase: [ELECFREAKS Pico:ed V2](https://shop.elecfreaks.com/products/elecfreak
 Pins are used as a way to physically connect to externally connected components and can be combined with the corresponding expansion boards or crocodile clip cables introduced by ELECFREAKS to extend the usability of the Pico:ed V2 even more.
 For detailed tutorials, please see: [Digitalio Module - Basic Digital Pin Support](http://www.elecfreaks.com/learn-en/pico-ed/digitalio-module-basic-digital-pin-support.html)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Pico-ed-V2-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/Pico-ed-V2-02.png)
 
 **Pin Diagram**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Pico-ed-V2-Pin-Diagram.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/Pico-ed-V2-Pin-Diagram.png)
 
 HD version download link：[Pico-ed-V2-Pin-Diagram.pdf](https://github.com/elecfreaks/learn-en/raw/master/pico-ed/file/Pico-ed-V2-Pin-Diagram.pdf)
 
@@ -59,25 +59,25 @@ HD version download link：[Pico-ed-V2-Pin-Diagram.pdf](https://github.com/elecf
 Pico:ed V2 has two programmable input buttons on the front. Each button can be programmed individually or used together. Generally used to trigger events.
 For detailed tutorials, please see: [Buttons](http://www.elecfreaks.com/learn-en/pico-ed/buttons.html)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Pico-ed-V2-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/Pico-ed-V2-03.png)
 
 ### Sign Indicator
 
 Programmable LED indicators.
 For detailed tutorials, please see: [Onboard LED](http://www.elecfreaks.com/learn-en/pico-ed/onboard-led.html)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Pico-ed-V2-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/Pico-ed-V2-04.png)
 
 ### 7×17 LED light matrix screen
 
 Consisting of 7 x 17 LEDs, it can display rich patterns.
 For detailed tutorials, please see: [LED dot-matrix screen](http://www.elecfreaks.com/learn-en/pico-ed/led-dot-matrix-screen.html)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Pico-ed-V2-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/Pico-ed-V2-05.png)
 
 ### Buzzer
 
 The buzzer is used in many devices as a common output device and can be programmed to control it to play different kinds of music.
 For detailed tutorials, please see: [Music](http://www.elecfreaks.com/learn-en/pico-ed/music.html)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Pico-ed-V2-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/images/Pico-ed-V2-06.png)

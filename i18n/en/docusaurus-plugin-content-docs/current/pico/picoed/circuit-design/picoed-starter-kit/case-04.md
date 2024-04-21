@@ -1,6 +1,6 @@
 # Case 04:Photocell
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0401.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0401.png)
 
 ## Introduction
 
@@ -31,7 +31,7 @@ Photocell is a kind of special resistor based on semiconductor materials. Its el
 n x Breadborad jumper wire 65pcs pack
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/starter-kit01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/starter-kit01.png)
 
 ## Major Components Introduction
 
@@ -39,7 +39,7 @@ n x Breadborad jumper wire 65pcs pack
 
 Photocell is a kind of special resistor made of semi-conductor materials like Cds or CdSe based on the internal photoelectric effect. The brighter the light is, the lower the value of the resistance will be. with the intensity of light increasing, its resistance value decreased sharply, and the minimum light-resistant value can drop down to below 1KΩ. Photocell is very sensitive to light. When there is no light, its resistant value arrives at its maximum and its dark resistant value usually can reach 1.5MΩ at max.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0403.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0403.png)
 
 ### Hardware Connection
 
@@ -48,11 +48,11 @@ Connect your components according to the picture below:
 1. Connect the photocell and the P0 port.
 1. Connect the 10kΩ resistor with the Photocell in parallel.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case04.png)
 
 You would see as below after you finish the connection:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/guangmin.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/guangmin.png)
 
 ### Software Programming
 

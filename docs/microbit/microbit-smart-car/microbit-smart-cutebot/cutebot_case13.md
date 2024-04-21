@@ -9,7 +9,7 @@ sidebar_label: joystick:bit手柄远程控制
 
 使用joystick:bit遥控器的摇杆和按钮完成远程遥控Cutebot。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-13-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-13-01.png)
 
 ## 使用材料
 
@@ -28,15 +28,15 @@ sidebar_label: joystick:bit手柄远程控制
 
 在MakeCode的代码抽屉中点击高级，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
 
 为了给Cutebot套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索`Cutebot`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
 
 为了给Joy:stick手柄编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索`joystick`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_13_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_13_01.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -53,7 +53,7 @@ sidebar_label: joystick:bit手柄远程控制
 通过无线发送值将变量`x`和变量`y`发送出去。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_13_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_13_02.png)
 
 #### 程序
 
@@ -93,7 +93,7 @@ sidebar_label: joystick:bit手柄远程控制
 在`无限循环`积木块中，设置左轮速度为`yValue`+`xValue`，右轮速度为`yValue`-`xValue`。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_12_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_12_02.png)
 
 #### 程序
 
@@ -124,7 +124,7 @@ sidebar_label: joystick:bit手柄远程控制
 
 用手柄摇杆可以控制小车前进后退转弯速度等。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-13.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-13.gif)
 
 ## 思考
 

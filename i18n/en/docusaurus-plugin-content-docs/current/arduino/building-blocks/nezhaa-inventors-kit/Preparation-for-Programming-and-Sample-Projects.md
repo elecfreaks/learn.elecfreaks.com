@@ -3,60 +3,60 @@
 ## Power supply method
 *Note: The Arduino 3 in 1 breakout board requires a battery pack and cable.*
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-power-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-power-01.png)
 
 ## Switching method
 After connecting the power supply, push the switch to ON to turn on the power.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-power-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-power-02.png)
 
 ## Power indicator status
 The power indicator lights green when there is sufficient power.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-power-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-power-03.png)
 
 When the power is low, the power indicator lights up red.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-power-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-power-04.png)
 
 ## Hardware connection method
 All sensor connections are RJ11 type with error-proof and plug-proof design, simplifying hardware connections and making classroom teaching easier.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-power-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-power-05.png)
 
 ## Preparation for Programming and Sample Projects
 ### Download and Install Arduino IDE
 The latest version of Arduino IDE is released from the official website:  [https://www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software), download by the system of your computer. 
 <br />
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-01.png)
 
 ### Software Programming
 Download the libraries for Nezha-A master board [NezhaA-main.zip](https://github.com/elecfreaks/NezhaA/archive/refs/heads/main.zip)<br />Download the subsidiary libraries for Nezha-A master board [Adafruit_NeoPixel-master.zip](https://github.com/adafruit/Adafruit_NeoPixel/archive/refs/heads/master.zip)<br />Open Arduino IDE, and choose tools- Board-Arduino Uno.
 <br />
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-02.png)
 <br />
 Connect Nezha-A master board with the computer via the type-c cable. 
 <br />
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-03.png)
 <br />
 Click tools- port, and set the connections. 
 <br />
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-04.png)
 <br />
 Click on Project - Load Library - Add .Click.
 <br />
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-05.png)
 <br />
 Select NezhaA-main.zip and add the libraries. 
 <br />
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-06.png)
 <br />
 In the same way, import the subsidiary libraries of Adafruit_NeoPixel-master.zip. 
 
 ### Hardware Connections
 Connect the motors and servos to M1, M2, S1, and S2 accordingly. 
 <br />
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-07.png)
 
 ### Programming
 ### Sample 1: Control the servos and motors
@@ -84,13 +84,13 @@ void loop() {
 ```
 Click file-save to save the file. 
 <br />
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-08.png)
 <br />
 Set the save routine, give it a name and click save. 
 <br />
 Click the upload button to upload the program to the Nezha-A master box. 
 <br />
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-programming-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-10.png)
 
 ### Result
 After powering on, the two motors start driving and the servos drive to the angle as we set in turn. 

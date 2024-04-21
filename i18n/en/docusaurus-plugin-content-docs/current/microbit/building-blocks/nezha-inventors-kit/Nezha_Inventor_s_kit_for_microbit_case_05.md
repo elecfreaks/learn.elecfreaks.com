@@ -4,7 +4,7 @@
 
 Put your hands under the air outlet of the automatic hand dryer, it will automatically send out the wind to dehumidify and dry your hands, and then automatically stop the wind and shut down. It can meet the requirements of not using towels to dry hands and preventing cross-infection of diseases. Thus, we can use micro:bit to make an automatic dryer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_05_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_05_01.png)
 
 ## Quick Start
 
@@ -27,7 +27,7 @@ RJ11 wires × 1
 Connect the sonar:bit to J1 and the motor to M1 on the Nezha expansion board as the picture shows.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_05_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_05_03.png)
 
 ### Assembly Video
 
@@ -41,29 +41,29 @@ Video reference: [https://youtu.be/5kB0bYEsJ1c](https://youtu.be/5kB0bYEsJ1c)
 ### Assembly Steps
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_05_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_05_01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_05_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_05_02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_05_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_05_03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_05_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_05_04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_05_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_05_05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_05_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_05_06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_05_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_05_07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_05_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_05_08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_05_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_05_09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_05_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_05_10.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_05_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_05_11.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_step_05_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_step_05_12.png)
 
 
 
@@ -75,17 +75,17 @@ Video reference: [https://youtu.be/5kB0bYEsJ1c](https://youtu.be/5kB0bYEsJ1c)
 
 Click "Advanced" in the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_10.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_01_11.png)
 
 
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "nezha" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_03_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_03_09.png)
 
 ***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -93,7 +93,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 ### Code as below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_05_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case_05_10.png)
 
 
 ### Reference
@@ -125,4 +125,4 @@ You may also download it directly below:
 While there is any object detected by the Sonar:bit, the fan moves automatically.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-gif-05.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/case-gif-05.gif)

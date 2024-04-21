@@ -15,7 +15,7 @@
 - 蜂鸣器：Pin0
 - ADKeypad：Pin2
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/6Fmls7e.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/6Fmls7e.jpg)
 
 关于ADKeypad的小注释
 按下按钮时，ADKeypad返回模拟信号。按下的每个按钮将返回一个唯一的整数值，范围从0（表示0V）到1023（表示3V）。 
@@ -57,7 +57,7 @@
 - PIR传感器：Pin0
 - LED：Pin1
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ZbReHPH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/ZbReHPH.jpg)
 
   			from microbit import *
  
@@ -79,7 +79,7 @@
 - 蜂鸣器：Pin0
 - 电位器：Pin1
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/HfvRrJ7.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/HfvRrJ7.jpg)
 
 	from microbit import *
 		import music
@@ -223,7 +223,7 @@
 - 土壤湿度传感器：Pin1
 - OLED：I2C行（位于BoB的底部）
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FbFpru8.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/FbFpru8.jpg)
 
 	from microbit import *
 		import time

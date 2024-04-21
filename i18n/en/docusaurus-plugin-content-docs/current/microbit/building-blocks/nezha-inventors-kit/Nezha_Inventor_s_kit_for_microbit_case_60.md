@@ -4,7 +4,7 @@
 
 We deeply love our country, and the symbols that best represent our country are the national flag that we often see and the national anthem that we often hear, in this lesson we will do the case of raising the national flag to express our love for our country, let's start.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/60_1.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/60_1.jpg)
 
 ### Materials Required
 
@@ -24,41 +24,41 @@ Bricks × n
 
 Component Details
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/60_2.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/60_2.jpg)
 
 Build it as the assembly steps suggest:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/60_3.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/60_3.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/60_4.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/60_4.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/60_5.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/60_5.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/60_6.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/60_6.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/60_7.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/60_7.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/60_8.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/60_8.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/60_9.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/60_9.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/60_10.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/60_10.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/60_11.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/60_11.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/60_12.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/60_12.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/60_13.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/60_13.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/60_14.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/60_14.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/60_15.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/60_15.jpg)
 
 ## Connection Diagram
 
 Connect the four motors to the M1.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/60_16.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/60_16.jpg)
 
 
 ##  MakeCode Programming
@@ -69,7 +69,7 @@ Click “Advanced” in the MakeCode drawer to see more choices.
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_10.png)
 
 
 
@@ -77,13 +77,13 @@ For programming the servo, we need to add a package. Click “Extensions” at t
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_11.png)
 
 
 
 For programming the PIR sensor, we need to add a package. Search with “PlanetX” in the dialogue box and click to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/49_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/49_12.png)
 
 
 
@@ -93,7 +93,7 @@ For programming the PIR sensor, we need to add a package. Search with “PlanetX
 
 The program is shown below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/60_17.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/60_17.jpg)
 
 Link: https://makecode.microbit.org/_e5L634aT28YU
 
@@ -122,4 +122,4 @@ You may also download it directly:
 
 We can see that when the A button is pressed, the music is played as the flag rises, and when the B button is pressed, the flag falls.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/60_18.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/60_18.gif)

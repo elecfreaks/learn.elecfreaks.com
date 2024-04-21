@@ -10,7 +10,7 @@
 3. [CircuitPython_Ringbit](https://github.com/elecfreaks/circuitpython_ringbit)。`CircuitPython_Ringbit`库文件包含对 ring:bit 扩展板的控制方法。
 4. 接下来，请按照添加 picoed 库文件的步骤将`adafruit_motor`、`adafruit_is31fl3731``neopixel.py``ringbit.py`放在 CIRCUITPY盘的lib文件夹中即可，如下图。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/program.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/program.png)
 
 ## ringbit 库使用
 关于 ringbit 相关的操作类和函数具体用法，请参考：[Ring:bit库使用说明](https://www.yuque.com/elecfreaks-learn/picoed/ayz5ki)

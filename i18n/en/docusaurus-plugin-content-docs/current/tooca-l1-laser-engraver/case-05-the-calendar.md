@@ -11,7 +11,7 @@ sidebar_label: The Calendar
 The calendar is a publication for daily use, recording dates and other relevant information.
 The creative combination of calendar and pen holder is not only practical but also saves space on the desktop.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/images/tooca-laser-1-case-05-01.png)
 
 ## Materials Required
 
@@ -38,6 +38,6 @@ Note: This case takes a 2.8mm basswood board as an example. If you need to use d
 
 ## Effect Show
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/images/tooca-laser-1-case-05-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-case-05-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/images/tooca-laser-1-case-05-02.png)

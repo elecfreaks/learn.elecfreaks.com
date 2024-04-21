@@ -4,7 +4,7 @@
 
 An electric current is a flow of electric charge.[1]:2 In electric circuits this charge is often carried by moving electrons in a wire. It can also be carried by ions in an electrolyte, or by both ions and electrons such as in an ionised gas
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/GnEGYeW.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/GnEGYeW.png)
 
 ### Ampere
 The SI unit for measuring an electric current is the ampere, which is the flow of electric charge across a surface at the rate of one coulomb per second. Electric current is measured using a device called an ammeter.
@@ -12,23 +12,23 @@ The SI unit for measuring an electric current is the ampere, which is the flow o
 ### Current Measurements
 Oriented movement of charge to form a current. Direction of current depends on regulation of positive charge orientation. The electric current is a physical quantity to signify strong and weak of the current. We should use an ampere meter to measure the current and it need to be connection in series with measured electrical appliance. Then, let the current flow into the positive terminal and out from the negative terminal. Please note that the measured current should not be over the maximum measurement value(range) of the ampere meter. 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/rCXsAAs.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/rCXsAAs.png)
 
 ### LED
  LED Summary LED (Light Emitting Diode), lightemitting diode, is a solid state semiconductor devices, which can be directly converted into electricity to light. Heart of LED is a chip of a semiconductor，the side of chip is attach to a bracket and the other side of chip is connect to positive pole of the supply. It is seem that the whole chip is sealed by epoxy coating.
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/oXFNxWD.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/oXFNxWD.jpg)
 
 
 ## Electric Circuit
 
 In physics, batteries and other appliances to supply the power are called power supply. And appliances for power consumptionbulbs, electromotors and buzzers are called electrical appliances. Hence, the power supply, the electrical appliances, the wire and the switch to form an electric circuit.**Note：There will be current flow into the circuit only when the circuit is closing.**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/3IRy0cN.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/3IRy0cN.jpg)
 
 ###  Circuit Diagram
 The circuit diagram means a diagram is drawed by symbol.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/z6ME0Lg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/z6ME0Lg.png)
 
 
 ### Access & Open circuit & Short circuit
@@ -41,11 +41,11 @@ The circuit diagram means a diagram is drawed by symbol.
 
  In series：As below picture，make two bulbs in turn and connect to the circuit, the 2 bulbs are series connection.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/qwOV7Bb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/qwOV7Bb.png)
 
  In parallel：As below picture，connect two sides of two bulbs in circuit, the 2 bulbs are parallel connection.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iPbUNsB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/iPbUNsB.png)
 
  Rules of series connection: Electric current are all same in the series connection.
 
@@ -55,7 +55,7 @@ The circuit diagram means a diagram is drawed by symbol.
 
  Voltage, which is also called electric potential difference. The difference in electric potential between two points (i.e., voltage) in a static electric field is defined as the work needed per unit of charge to move a test charge between the two points. n the International System of Units, the derived unit for voltage is named volt. mV, μV and kV is commonly used unit. This definition is similar to "water pressure". It is need to point that "voltage" is commonly use in circuit, "electric potential difference" is can be used at all electrical phenomena.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FnMr1SR.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/FnMr1SR.jpg)
 
 ### Law of voltage in series and parallel
 
@@ -70,13 +70,13 @@ The circuit diagram means a diagram is drawed by symbol.
 
 ## Resistance ##
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ThrRoWa.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/ThrRoWa.png)
 
  The electrical resistance of an object is a measure of its opposition to the flow of electric current. The inverse quantity is electrical conductance, and is the ease with which an electric current passes. Electrical resistance shares some conceptual parallels with the notion of mechanical friction. The SI unit of electrical resistance is the ohm (Ω), while electrical conductance is measured in siemens (S).
 1KΩ=1000Ω
 1MΩ1000000Ω
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/gcKRcXy.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/gcKRcXy.jpg)
 
 ## Ohm's law ##
 
@@ -100,5 +100,5 @@ The color ring resistance is the most using resistance type for different electr
  The tolerance indicates the value of the resistance. Fluctuating above the standard value of 1200 (5% × 1200) indicates that the resistance is acceptable, that is, the good resistance is between 11401260.The first and second rings with four color rings represent the first two digits of the resistance; the third ring represents the magnification; the fourth ring represents the tolerance. The key to rapid identification is to determine the resistance value within a certain order of magnitude according to the color of the third ring. For example, a few K or a few tens of K, and then enter the reading of the first two rings. This will allow you to read the numbers very quickly.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/7w0O33h.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/7w0O33h.png)
 

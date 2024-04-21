@@ -8,16 +8,16 @@
 
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-py-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai/images/AI-py-01.png)
 
 为了给AI摄像头编程，我们需要添加AILens.py这个文件。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的EF_Produce_MicroPython-master文件夹，从中选择AILens.py这个文件添加进来。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-py-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai/images/AI-py-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-py-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai/images/AI-py-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AI-py-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai/images/AI-py-04.png)
 ### API
 
 

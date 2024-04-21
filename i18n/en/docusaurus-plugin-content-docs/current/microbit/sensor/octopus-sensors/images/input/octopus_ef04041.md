@@ -4,7 +4,7 @@
 
 Octopus Analog Rotation Brick is micro:bit compatible and can be rotated up to 300degree. It is based on the potentiometer. 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/hkPYQxY.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/hkPYQxY.jpg)
 
 
 ## Products Link
@@ -33,7 +33,7 @@ Size|19x27mm
 ## Outlook and Dimensions
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/qj7G72X.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/qj7G72X.jpg)
 
 ## Quick to Start
 
@@ -44,14 +44,14 @@ Size|19x27mm
 
   Take sensor:bit for example
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/3Ltye1u.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/3Ltye1u.png)
 
 ### Add Package
 
 ### Program as the picture shows
 Use the brick in the led below, then a sector diagram comes out.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Afb6xov.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/Afb6xov.png)
 
 ### Reference
 Links:[https://makecode.microbit.org/_2hr1UMdcp0uj](https://makecode.microbit.org/_2hr1UMdcp0uj)

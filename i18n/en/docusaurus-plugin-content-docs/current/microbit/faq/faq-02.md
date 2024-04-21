@@ -19,5 +19,5 @@ In this case, please click "JaveScript" in the red box to switch the programming
 
 Just delete one of the two conflicting repositories, here is an example of deleting the PlanetX repository.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FAQ-microbit-02-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/faq/images/FAQ-microbit-02-05.png)
 

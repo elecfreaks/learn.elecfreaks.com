@@ -1,15 +1,11 @@
-﻿---
+---
 sidebar_position: 11
 sidebar_label: Case-library
 ---
 
 # TOOCA L1 案例库
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-icon.png)
-
-
-
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-icon.png)
 
 ## 案例库
 

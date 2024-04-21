@@ -5,7 +5,7 @@
 
  To build a car with the bricks in the kit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_02_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_02_01.png)
 
 
 ## Products Link
@@ -20,7 +20,7 @@
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_02_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_02_02.png)
 
 
 
@@ -34,33 +34,33 @@
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_02_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_02_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_02_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_02_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_02_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_02_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_02_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_02_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_02_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_02_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_10.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_02_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_11.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_02_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_12.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_02_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_13.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_02_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_02_14.png)
 
 
 
@@ -88,7 +88,7 @@ A detailed assembly instruction can be downloaded via the below links:
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_02_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_02_03.png)
 
 
 
@@ -101,7 +101,7 @@ In order to programme for the Ring:bit Bricks Pack, we need to add an extension.
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_02_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_02_04.png)
 
 
 
@@ -114,7 +114,7 @@ Drag "Set left wheel connects to P1 and right wheel connects to P2" brick in "on
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_02_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_02_05.png)
 
 
 
@@ -124,7 +124,7 @@ Programme as the picture shows: while pressing button A+B, the car moves at the 
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_02_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_02_06.png)
 
 
 

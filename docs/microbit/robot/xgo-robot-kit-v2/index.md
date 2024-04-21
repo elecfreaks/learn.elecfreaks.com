@@ -9,7 +9,7 @@ XGO Robot Kit V2 是一款具有十五自由度桌面级 Al 四足机器狗。�
 
 XGO Robot Kit V2 支持图形化编程和 Python 代码编程。这使它成为学习、教学和研究的理想机器狗。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-introduce-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-introduce-01.png)
 
 
 # 目录

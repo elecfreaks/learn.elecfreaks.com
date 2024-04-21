@@ -4,7 +4,7 @@
 
 This is a simple infrared receiver sensor,and mainly receives infrared signal through HS0038 infrared diode. HS0038 is particularly sensitive to the infrared signal, and it can receive the infrared signal very swiftly. 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04009_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04009_01.png)
 
 ## Products Link
 
@@ -30,7 +30,7 @@ Size:
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04009_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04009_02.png)
 
 
 ## Quick to Start 
@@ -45,7 +45,7 @@ Size:
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04009_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04009_03.png)
 
 ## Programming
 
@@ -53,17 +53,17 @@ Size:
 ### Step 1
 Click "Advanced" in the drawer of the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04009_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04009_04.png)
 
 We need to add a package for programming, click "Extensions" on the bottom of the drawer and search with "ir-receiver“ in the dialogue box to download it. 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04009_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04009_05.png)
 
 Note: If you met a tip indicating codebase will be deleted due to incompatibility, you may continue as the tips tell or build a new project. 
 ### Step 2
 ### Programming as the picture shows
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04009_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04009_06.png)
 
 
 ### Reference

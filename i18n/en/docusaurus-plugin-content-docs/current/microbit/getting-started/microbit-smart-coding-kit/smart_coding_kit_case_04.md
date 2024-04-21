@@ -10,7 +10,7 @@
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_case_04_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_04_01.png)
 
 
 
@@ -26,7 +26,7 @@
  Programme to show icon while on start and set the variable `i` as 0; Set i=i+1 while button A being pressed, Set i=i-1 while button B being pressed. Drag the show digital block to the Forever block and choose to display `i` of the value of the variable.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_case_04_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_04_02.png)
 
 
 

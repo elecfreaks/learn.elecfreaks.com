@@ -9,7 +9,7 @@ sidebar_position: 13
 
 The purpose of this lesson is to guide students to create a moving truck with voice recognition using the Nezha Inventor's Kit V2 and AI Accessories Pack. Through this project, students will learn how to integrate technology with real-life mechanical controls, develop their STEAM (Science, Technology, Engineering, Arts, and Mathematics) skills, and improve problem solving and creativity.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-12-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-12-01.png)
 
 ## Teaching Objectives
 
@@ -49,115 +49,115 @@ Follow your own design plan to build a voice-recognized moving truck using build
 ##### Building Step
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-10.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-11.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-12.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-13.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-14.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-15.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-16.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-17.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-18.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-19.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-20.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-21.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-22.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-23.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-23.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-24.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-24.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-25.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-25.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-26.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-27.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-27.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-28.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-28.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-29.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-29.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-30.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-30.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-31.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-31.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-32.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-32.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-33.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-33.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-34.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-34.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-35.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-35.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-36.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-36.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-37.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-37.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-38.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-38.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-39.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-39.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-40.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-40.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-41.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-41.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-42.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-42.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-43.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-43.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-44.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-44.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-45.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-45.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-46.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-46.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-47.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-47.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-48.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-48.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-49.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-49.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-12-50.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-12-50.png)
 
 **Completion of construction**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-01.png)
 
 ##### Hardware Connection
 
 Connect the two motors to the M1 and M2 ports, the servo to the S1 port, and the voice recognition sensor to the IIC port.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-12-02.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-12-02.png)
 
 ##### Hardware Program
 
@@ -165,23 +165,23 @@ Open the program platform [makecode](https://makecode.microbit.org/#)
 
 Create a new project
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-03.png)
 
 Click extensions
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-04.png)
 
 Search for `nezha` in the bar and add it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-01-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-06.png)
 
 Search for  `planetx` in the bar and add it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-01-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-07.png)
 
 Write the program
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-12-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-12-08.png)
 
 
 Link: [https://makecode.microbit.org/_cx7LAkCqofj3](https://makecode.microbit.org/_cx7LAkCqofj3)
@@ -220,7 +220,7 @@ Each group has the opportunity to present the cases they have produced to the ot
 
 By using your voice, you can control the route of the cart and control it to raise or lower the robotic arm.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-12.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-12.gif)
 
 ### Reflection
 

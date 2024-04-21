@@ -6,7 +6,7 @@ sidebar_label: Case 09 Noise Monitor
 
 # Case 09: Noise Monitor
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case09-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case09-01.png)
 
 ## Introduction
 
@@ -30,7 +30,7 @@ It is a painful and unpleasant experience to be surrounded by the annoying sound
 
 ### Noise level classification
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case09-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case09-02.png)
 
 According to the National Environmental Law, the maximum environmental noise limits for five types of urban areas are as follows:
 
@@ -57,11 +57,11 @@ Sound is essentially a wave that travels through the air to the human ear causin
 
 Connect your components according to the following connection diagram:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case09-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case09-05.png)
 
 ## MicroBlocks Graphical Programming
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case09-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case09-04.png)
 
 ## CircuitPython Code
 
@@ -83,7 +83,7 @@ while True:
 
 ## Case display
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-kit-case09-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-kit-case09-06.gif)
 
 ## Think
 

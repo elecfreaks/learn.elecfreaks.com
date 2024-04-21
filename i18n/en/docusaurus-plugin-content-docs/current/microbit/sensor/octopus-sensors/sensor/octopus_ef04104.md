@@ -4,7 +4,7 @@
 
 It is able to play the music.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04104_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04104_01.png)
 
 
 ## Products Link
@@ -27,7 +27,7 @@ Core IC|YX6300
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04104_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04104_02.png)
 
 ## Quick to Start
 
@@ -36,7 +36,7 @@ Core IC|YX6300
 
  Connect the MP3 module to P1 port on sensor:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04104_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04104_03.png)
 
 ## MakeCode Program
 
@@ -44,11 +44,11 @@ Core IC|YX6300
 ### Step 1
 Click “Advanced” in the drawer of the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
 
 We need to add a package for programming. Click “Extensions” in the bottom of the drawer and search with “https://github.com/elecfreaks/pxt-mp3player ” in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04104_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04104_05.png)
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
@@ -56,7 +56,7 @@ We need to add a package for programming. Click “Extensions” in the bottom o
 
 ### Code as below
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04104_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04104_06.png)
 
 
 ### Link

@@ -18,41 +18,41 @@ Insert the TF card into the PC.
 Double-click the .exe file to install the LightBurn software (the installer inside the TF card is only compatible with Windows 64-bit systems, for other versions, please visit the official website) [https://lightburnsoftware.com/](https://lightburnsoftware.com/)  to download。
 Note: The free trial period of the software is 30 days, please visit for details of purchasing serial number [https://lightburnsoft-ware.com/collections/frontpage/products/lightburn-gcode](https://lightburnsoft-ware.com/collections/frontpage/products/lightburn-gcode)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-01.png)
 
 Download the configuration file: [TOOCA-Laser-1.7z](https://github.com/elecfreaks/learn-en/raw/master/tooca-laser-1/file/TOOCA%20Laser%201.7z), and decompress it
 
 **Note: In order to protect the table or floor from being burned or smoked, please take care of protecting the table (such as matting the steel plate and other materials that the laser does not easily penetrate), and when laser cutting is carried out, the bottom of the cutting place should be overhanging to ensure the cutting effect.**
 
-1. Double-click to open the LightBurn software and click on "Devices".![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-02.png)
+1. Double-click to open the LightBurn software and click on "Devices".![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-02.png)
 2. Click "Import" to import the .lbdev configuration file from the TF card: [TOOCA-Laser-1.7z](https://github.com/elecfreaks/learn-en/raw/master/tooca-laser-1/file/TOOCA%20Laser%201.7z), after importing, there is a corresponding machine in the device list, select the machine and click OK to configure successfully.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-04.png)
 
 3. Click "Edit - Settings".
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-05.png)
 
 4. Select "mm/min" and click OK.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-06.png)
 
 ## LightBurn-Flat surface processing
 
-1. Draw a circle on LightBurn's canvas.![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-circle-01.png)
+1. Draw a circle on LightBurn's canvas.![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-circle-01.png)
 2. For setting parameters, please refer to [Recommended Parameters](http://www.elecfreaks.com/learn/tooca-laser-1/recommended-parameters), and set according to the actual material used.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-circle-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-circle-02.png)
 
 3. Click on the border to check if the pattern to be engraved is within the expected area of the material.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-circle-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-circle-03.png)
 
 4. Select the graphics to be cut and click Save GCode to save the engraving file to the root directory of the TF card
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-circle-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-circle-04.png)
 
 5. Put the TF card into the card slot of TOOCA L1 Laser Engraver.
 
@@ -65,29 +65,29 @@ Press the micro switch again to start engraving.
 
 1. Click "File - Import" to import pictures.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-07.png)
 
 2. Set the position, size and rotation angle of the image.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-08.png)
 
 3. Right-click the image and select Adjust Image.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-09.png)
 
 4. Set the image effect, and then click OK.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-10.png)
 
 Reference [Recommended parameters](http://www.elecfreaks.com/learn-en/tooca-laser-1/recommended-parameters.html) to set the power, speed, and number of times.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-11.png)
 
 Note: The greater the power is, or the slower the speed is, the deeper the carving effect will be; the smaller the power is, or the faster the speed is, the shallower the carving effect will be. Power Max can be adjusted in general. Matching recommended parameters for linden wood board carving: Minimum power-5.00 Maximum power-70.00 Speed (mm/m)-6000.
 
 5. Click Save GCode to save the engraving file to the root directory of the TF card.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-12.png)
 
 Note: Please make sure the file format is .gcode, other formats such as .gc/.nc will not be recognized by the plotter.
 
@@ -101,20 +101,20 @@ Press the micro switch again to start engraving.
 
 1. Click "File-Import" to import the image, and then set the position, size and rotation angle of the image.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-trace-image-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-trace-image-04.png)
 
 2. Right-click the image, select Trace Image to set the image effect, and then click OK.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-trace-image-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-trace-image-05.png)
 
 3. Set the appropriate power %, speed and number of times.
 Note: The larger the power% is, or the slower the speed is, the deeper the engraving effect will be; the smaller the power% is, or the faster the speed is, the shallower the engraving effect will be. Power% is generally adjusted to Power Max. Matching recommended parameters for linden wood board carving: Minimum power-5.00 Maximum power-70.00 Speed (mm/m)-6000.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-trace-image-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-trace-image-06.png)
 
 4. Finally, click Save GCode to save the engraving file to TF card.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lightburn-trace-image-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lightburn-trace-image-07.png)
 
 Note: Please make sure the file format is .gcode, other formats such as .gc/.nc will not be recognized by the plotter.
 

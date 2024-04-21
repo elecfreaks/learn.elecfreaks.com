@@ -22,7 +22,7 @@
 - 1 X 小金属铰链
 - 跳线
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2ECItdO.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/2ECItdO.jpg)
 
 ### 第一步-连接键盘
 
@@ -32,7 +32,7 @@
 - 让我们为4x4键盘创建驱动电路！
 - 按照图示如下：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VPvA8sx.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/VPvA8sx.jpg)
 
 ### 第2步 - 连线
 - 将伺服电机的3个引脚连接到分线板的P2
@@ -41,13 +41,13 @@
 - 将A0（黄色引脚）连接到10k欧姆电阻和1k欧姆电阻之间的点
 - 将分线板的GND，VCC，SC1和SDA 分别连接到OLED的GND，VCC，SC1和SDA 。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xWYS9pW.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/xWYS9pW.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JelDthp.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/JelDthp.jpg)
 
 - 初始化：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/7OVn4QK.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/7OVn4QK.png)
 
 ### 步骤3 - 编写Micro：bit
 一开始我们必须：
@@ -57,16 +57,16 @@
 - 初始化一个4x1阵列
 - 初始化锁定计数器
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/CxRPVEp.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/CxRPVEp.png)
 
 - 按钮A用作输入字符按钮
 - 每次按下4x4键盘上的某个键，您必须按下按钮A才能键入4位数字
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t7cmQdt.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/t7cmQdt.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/doIsFbr.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/doIsFbr.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2ZX6OzD.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/2ZX6OzD.png)
 
 现在我们需要设置micro:bit来检测按键！
 
@@ -75,7 +75,7 @@
 - 字符中的值存储在“TempString”变量中
 - 代码块很长，因此下面提供了下载链接。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/8ZqBKgz.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/8ZqBKgz.png)
 
 - 按钮D作为最后的“输入”按钮
 - 按下按钮D使程序使用比较块检查输入的字符串是否等于“369＃”
@@ -83,7 +83,7 @@
 - 每次入侵者输入错误的密码时，错误的尝试次数将增加1
 - 一旦检测到3次错误尝试，程序将进入循环60秒
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/IuKVMUB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/IuKVMUB.png)
 
 - 要重置尝试次数和输入的字符，请按下按钮D.
 - 复位按钮也将伺服复位到“锁定位置”
@@ -99,8 +99,8 @@
 - 将一个冰淇淋棒连接到伺服器上。这将作为锁
 - 在门的另一侧用冰淇淋棒粘贴舵机
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/kvJAeM5.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lzwcLZ5.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/kvJAeM5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/lzwcLZ5.jpg)
 
 ## 第5步 - 演示时间！
 

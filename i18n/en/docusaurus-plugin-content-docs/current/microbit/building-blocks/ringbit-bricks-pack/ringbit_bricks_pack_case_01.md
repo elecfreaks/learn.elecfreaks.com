@@ -8,7 +8,7 @@
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_01_01.png)
 
 ## Products Link
 
@@ -21,7 +21,7 @@
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_01_02.png)
 
 
 
@@ -33,33 +33,33 @@
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_01_01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_01_02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_01_03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_01_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_01_04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_01_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_01_05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_01_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_01_06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_01_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_01_07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_01_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_01_08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_01_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_01_09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_01_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_01_10.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_01_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_01_11.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_01_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_01_12.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_01_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_01_13.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_01_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_01_14.png)
 
 A detailed assembly instruction can be downloaded via the below links:
 [Github download ](https://github.com/elecfreaks/learn-cn/raw/master/microbitKit/ring_bit_bricks_pack/files/Ringbit_Bricks_Pack_step_01_v1.1.pdf)
@@ -81,14 +81,14 @@ A detailed assembly instruction can be downloaded via the below links:
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_01_03.png)
 
 
 
 In order to programme for the Ring:bit Bricks Pack, we need to add an extension. Click  "Extensions" at the bottom of the drawer. Search "Ringbit" in the dialogue box to download it.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_01_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_01_04.png)
 
 
 
@@ -100,7 +100,7 @@ Drag the `set strip to NeoPixel at pin with led as` to `on start`, set the pin a
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_01_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_01_05.png)
 
 
 ### Step 3
@@ -108,7 +108,7 @@ Drag the `set strip to NeoPixel at pin with led as` to `on start`, set the pin a
 Click "Advanced" to choose "Functions" and click "Make a Function" as the picture shows below.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_01_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_01_06.png)
 
 
 
@@ -117,14 +117,14 @@ Click "Advanced" to choose "Functions" and click "Make a Function" as the pictur
 Enter "Red LED lights on" and click "Done" to create a function, and create another two functions "Yellow LED lights on", "Green LED lights on" in the same way.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_01_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_01_07.png)
 
 ### Step 5
 
 In the function of "Red LED lights on", set the third LED in red and the other two in black;  in "Yellow LED lights on", set the second LED in yellow and the other two in black; in "Green LED lights on", set the first LED in green and the other two in black.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_01_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_01_08.png)
 
 
 
@@ -134,7 +134,7 @@ In the function of "Red LED lights on", set the third LED in red and the other t
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_01_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_01_09.png)
 
 
 

@@ -6,13 +6,13 @@
 
 ## 硬件连线图 ##
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/QpsN3Rk.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/QpsN3Rk.png)
 
 - 使用香蕉线按如上图连接电路，电池盒内放入2颗7号AAA电池。
 
 ## 电路原理图 ##
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/yXHJ6zm.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/yXHJ6zm.png)
 
 - micro:bit插槽的GND端和电池GND相连内部，形成电流回路。
 
@@ -22,7 +22,7 @@
 - 舵机由直流电机、减速齿轮组、电位器和控制电路组成的一套自动控制系统。通过发送脉冲信号，指定输出轴旋转角度。舵机一般而言都有最大旋转角度（比如180度）。
 - 一般而言，舵机的基准信号都是周期为20ms，宽度为1.5ms。这个基准信号定义的位置为中间位置。舵机有最大转动角度，中间位置的定义就是从这个位置到最大角度与最小角度的量完全一样。最重要的一点是，不同舵机的最大转动角度可能不相同，但是其中间位置的脉冲宽度是一定的，那就是1.5ms。
 - 在实验箱板载了一颗180°舵机。
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/uqmkhZ6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/uqmkhZ6.png)
 
 注意：micro:bit官方已经将舵机的控制代码封装成积木块，用Makecode编程时，无需考虑脉冲宽度之类的复杂信息。
 
@@ -36,19 +36,19 @@
 
 - 点击New Project按钮，新建一个项目。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/t34k5Zb.png)
 
 ### 步骤 2
 
 - 在forever积木块中插入，将伺服电机P1口设置为0°。
 - 暂停2秒。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/rMTDGWP.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/rMTDGWP.png)
 
 - 再在其后插入将伺服电机P1口设置为180°。
 - 暂停2秒。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/rKePFnv.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/rKePFnv.png)
 
 ### 程序
 

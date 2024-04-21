@@ -4,17 +4,17 @@
 ---
 Joystick:bit V2 is a game board based on micro:bit. It contains a 4-direction joystick and 4 undefined buttons. At the same time, it enhances the game experience with its on-board buzzer and vibration motor. Joystick:bit V2 can also be used as a remote control with a good apperance and comfortable feels.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v2_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/joystick_v2_01.png)
 
 ***Note：*** There are two versions of Joystick bit V2
 
 ### Joystick bit V2：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v2_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/joystick_v2_02.png)
 
 ### Joystick bit V2 Plus:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v2_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/joystick_v2_03.png)
 
 ### Products Link
 
@@ -40,9 +40,9 @@ Joystick:bit V2 is a game board based on micro:bit. It contains a 4-direction jo
 
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v2_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/joystick_v2_15.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v2_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/joystick_v2_04.png)
 
 
 ## Main parts introduction
@@ -50,29 +50,29 @@ Joystick:bit V2 is a game board based on micro:bit. It contains a 4-direction jo
 
 ### Handle
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v2_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/joystick_v2_05.png)
 
  X and Y connect to the P1 and P2 port on the micro:bit accordingly.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v2_16.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/joystick_v2_16.png)
 
  The coordinate information of X&Y
 
 ### Buzzer
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v2_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/joystick_v2_06.png)
 
 The buzzer connects to the P0 port on the micro:bit.
 
 ### Vibration Motor
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v2_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/joystick_v2_07.png)
 
 It connects to the P16 port on the micro:bit
 
 ### Buttons
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v2_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/joystick_v2_08.png)
 
  C、D、E&F connect to the P12、P13、P14 and P15 ports on the micro:bit accordingly.
 
@@ -85,11 +85,11 @@ Add “joystick:bit” package.
 
 Go to MakeCode and create a new project, then click "Extensions".
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v2_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/joystick_v2_09.png)
 
 Search with “ joystickbit” to add it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v2_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/joystick_v2_10.png)
 
 
 ## Programming
@@ -97,7 +97,7 @@ Search with “ joystickbit” to add it.
 
 Once you press the buttons on the joystick:bit, it comes about vibration feedback with buttons sign showing.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v2_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/joystick_v2_11.png)
 
 Link:  [https://makecode.microbit.org/_YUaM2rdcFFYx](https://makecode.microbit.org/_YUaM2rdcFFYx)
 
@@ -130,7 +130,7 @@ Push any one button on the Joysitick bit, it vibrates once.
 ## Project 1: Electronic organ
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v2_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/joystick_v2_12.png)
 
 Link:  [https://makecode.microbit.org/_DHgcRfb6oJp5](https://makecode.microbit.org/_DHgcRfb6oJp5)
 
@@ -161,7 +161,7 @@ It plays tones through the handle and the buttons.
 ## Project 2: Direction indicator
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v2_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/joystick_v2_13.png)
 
 Link:  [https://makecode.microbit.org/_YVdggwifHWEm](https://makecode.microbit.org/_YVdggwifHWEm)
 
@@ -192,7 +192,7 @@ The direction of the arrow on the micro:bit is controlled by the handle.
 ## Project 3: LED Controller
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/joystick_v2_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/joystick_v2_14.png)
 
 Link: [https://makecode.microbit.org/_KPMW36Pq0aLm](https://makecode.microbit.org/_KPMW36Pq0aLm)
 

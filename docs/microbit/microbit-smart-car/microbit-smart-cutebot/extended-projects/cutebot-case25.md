@@ -4,7 +4,7 @@
 
 大家好！今天我要向大家介绍一个有趣的项目，我们将使用Cutebot智能赛车搭配8×16点阵屏幕来显示表情！这个项目将让我们的小车能够通过点阵屏幕展示不同的表情，就像是具有情感一样。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-25-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-25-01.png)
 
 ## 使用材料
 
@@ -29,23 +29,23 @@
 ### 添加扩展
 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-24-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-24-01.png)
 
 为了给Cutebot套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索`Cutebot`，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-24-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-24-02.png)
 
 
 为了给8*16点阵屏编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索` https://github.com/elecfreaks/pxt-Matrix-8x16 `，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-25-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-25-03.png)
 
 
 *注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。*
 
 ### 程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-25-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-25-04.png)
 
 请参考程序连接：[https://makecode.microbit.org/_cK3FCa8vh2V3](https://makecode.microbit.org/_cK3FCa8vh2V3)
 
@@ -75,7 +75,7 @@
 
 当micro:bit V2的徽标被触摸，则8×16点阵屏显示表情，并且cutebot智能赛车向前行驶。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-25.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-25.gif)
 
 
 ## 思考

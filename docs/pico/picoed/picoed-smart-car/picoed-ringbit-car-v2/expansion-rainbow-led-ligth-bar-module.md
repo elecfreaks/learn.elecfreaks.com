@@ -1,7 +1,7 @@
 ## 简介
 哈喽，接下来你要使用的 Ring:bit Car V2灯条模块是 Ring:bit 二代小车的专用扩展模块，连接简单功能强大，一卡一锁为你的 Ring:bit 小车扩展更多灯带。
 搭载8颗 Rainbow LED 灯珠，全彩色，可以实现自动车灯、彩虹车灯等功能。
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Rainbow_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/Rainbow_01.png)
 
 ## 特性
 输入电压为3V~5V，Ring:bit 能直接驱动。
@@ -21,7 +21,7 @@
 | 净重 | 5.7g |  |
 
 ## 外形与安装定位尺寸
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Rainbow_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/Rainbow_02.png)
 
 ## 快速上手
 ### 硬件连接

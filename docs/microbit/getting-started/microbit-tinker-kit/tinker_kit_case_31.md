@@ -11,7 +11,7 @@
 ## 目标
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/YOYd2Bm.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/YOYd2Bm.png)
 
 
  1. 成功连接2台micro:bit
@@ -38,7 +38,7 @@
 ## 步棸 1 – 鳄鱼夹
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/b7We5ZR.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/b7We5ZR.png)
 
 我们希望通过第一台micro:bit上的pin1金手指发送信号，通过第二台micro:bit的pin2金手指接收（反之亦然）
 
@@ -53,7 +53,7 @@
 ## 步棸2 – 信号发送: 按钮 A
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/6nlQFM9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/6nlQFM9.png)
 
 按下按钮A即发送信号。把此信号定义为一个“小点”（如上图示）。
 
@@ -69,7 +69,7 @@
 ## 步棸 3 – 信号发送: 按钮 B
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/gtjlrr9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/gtjlrr9.png)
 
 按下按钮B即发送信号。把此信号定义为一个“三小点”。
 
@@ -82,7 +82,7 @@
 ## 步棸 4 – 接收: 感应信号
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/z13lhzA.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/z13lhzA.png)
 
 我们需要用到“running time (ms)”代码框记录信号接收和信号停止的时间。
 
@@ -100,7 +100,7 @@
 ## 步棸5 – 接收: 显示信号
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Z4yzOpc.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Z4yzOpc.png)
 
 在屏幕上显示正确信号。
 

@@ -1,6 +1,6 @@
 # Lesson 08 Servo
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/DuxosEs.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/DuxosEs.jpg)
 
 ## Introduction
 
@@ -21,7 +21,7 @@ Servo is a kind of driver for position (angle) servo. It is suitable to control 
 
 ***Tips: If you want all components above, you may need Elecfreaks Micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html)  .***
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
 
 ## Major Component Introduction
 
@@ -30,13 +30,13 @@ Servo is a kind of driver for position (angle) servo. It is suitable to control 
 
 Servo is a set of automatic control system, which consists of DC motor, reduction gear unit, potentiometer and control circuit. It can define rotate angle of output shaft by sending signals. Usually, a servo has a maximum rotate angle(e.g. 180 degrees). Compared with ordinary DC motor, servo rotates within a certain angle range only while ordinary DC motor rotates in circle. This is the major difference between ordinary DC motor and servo. Servo can not rotate in circle. (Note: digital servo do not have this problem because it can switch between servo mode and motor mode.) Ordinary DC motor can not give us feedback about rotate angle but servo can do it. Their usage are different too. Ordinary DC motor use a whole circle rotation as power while servo use certain angle of an object it controlled such as robot joint. The servo system can be controlled by impulse, which can change its width. We use control cable to transmit impulse. The parameter of impulse has maximum value, minimum value and frequency. Generally speaking, the cycle of servo reference signal is 20ms and the width is 1.5ms. The position defined by servo reference signal is middle position. Since servo has a maximum rotate angle, the definition of middle position is from this position the maximum value and the minimum value are the same. Most importantly, different servo may have different maximum rotate angle but the impulse width of middle position is the same and that is 1.5ms.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/btuF5m0.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/btuF5m0.jpg)
 
 ****Note:**** Micro:bit official has loaded servo control code into bricks. When using Makecode to program, you don’t have to take some complex information (e.g. the width of impulse) into consideration.
 
 Servo has many categories. However, all of servos have three cables connected externally. These cables usually have three different colors( brown, red, orange ) to differentiate each other. (Different servos brand may have different cable colors.) The brown cable is for connecting GND, red cable is for positive power cable and orange cable is for signal cable.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/8sQBiV7.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/8sQBiV7.jpg)
 
 ## Experimental Procedure
 
@@ -44,28 +44,28 @@ Servo has many categories. However, all of servos have three cables connected ex
 Connect your components according to the picture below:
 - 1.Connect the servo to P1 port of the breadboard adapter.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/csCETYN.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/csCETYN.jpg)
 
 You would see as below after you finish the connection:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ZaV3kW3.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/ZaV3kW3.jpg)
 
 ### Software Programming
 
 Click to open [Microsoft Makecode](https://makecode.microbit.org/), write the following code in the editor.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JHZUvh2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/JHZUvh2.png)
 
 ### Program as the picture shows:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/n3a7WcM.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/n3a7WcM.png)
 
 ### Details for the code:
 - 1.Analog write pin P1 to 0 in PWM, then pause 2s.
 - 2.Analog write pin P1 to 1 in PWM, then pause 2s.
 - 3.Show the PWM value repeatedly.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/n3a7WcM.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/n3a7WcM.png)
 
 ### Reference
 Links:[https://makecode.microbit.org/_52MVspRmRWjc](https://makecode.microbit.org/_52MVspRmRWjc)
@@ -95,7 +95,7 @@ You can also download the links directly:
 
 We can see the servo rotates with angle range from 0 degree to 180 degree.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/baPL7VS.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/baPL7VS.gif)
 
 
 ## Exploration

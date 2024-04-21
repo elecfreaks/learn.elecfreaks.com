@@ -67,13 +67,13 @@ sidebar_label: 开箱自检
 
 把机器狗按照卧姿摆放，避免关节卡死，然后按下机器狗背部的电源开关，开关上的电源环形灯快速闪烁后常亮，机器狗缓缓站立，机械臂打开后自动收回，表示开机成功。**注意：不要拿在手里开机，开机过程中机器狗晃动会导致机器狗运动异常。**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-inspection-01.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-inspection-01.gif)
 
 ##### 关机检测
 
 按下背部电源开关，环形灯缓慢闪烁，机器狗缓缓趴下，机械臂收回，然后环形灯熄灭，表示系统完全关机。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-inspection-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-inspection-02.gif)
 
 ### 5、查看说明书
 

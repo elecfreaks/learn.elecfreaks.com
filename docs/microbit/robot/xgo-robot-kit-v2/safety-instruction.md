@@ -19,4 +19,4 @@ sidebar_label: 安全说明
 10. 请勿在给 XGO-lite V2 充电时使用。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-safety-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite2-safety-01.png)

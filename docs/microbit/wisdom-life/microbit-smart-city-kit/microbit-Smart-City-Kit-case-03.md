@@ -17,14 +17,14 @@ Detect if there are humans approaching with the sonar:bit, program to open the l
 
 ## Picture
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-02.png)
 
 ## Hardware Connection
 ---
 
 Connect the sonar:bit to P1,  the servo to P2 on IoT:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-03-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-03-03.png)
 
 
 ## Software Programming
@@ -33,15 +33,15 @@ Connect the sonar:bit to P1,  the servo to P2 on IoT:bit.
 
 Click "Advanced" in the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-04.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "iot-environment-kit" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-05.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "servo" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-01-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-06.png)
 
 ## Program
 
@@ -49,15 +49,15 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 Save the returned ultrasonic distance value as the variable “ultrasonic_distance”.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-03-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-03-07.png)
 
 Detect if there are people near the trash cans through the sonar:bit(note the detection range is 4~400cm), if the object is not in this scope, the returned value would be 0, therefore, here we need to define both of the minum and maxium value.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-03-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-03-08.png)
 
 If the varible value is in the scope, it means there are people approching the cans, program to turn on the servo and open the lid, or it closes.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-03-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-03-09.png)
 
 Link: [https://makecode.microbit.org/_LP22ogi0t1KJ](https://makecode.microbit.org/_LP22ogi0t1KJ)
 

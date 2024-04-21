@@ -4,7 +4,7 @@
 
 Learn the basic functions of  Cutebot move forward or reverse.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-01-01.png)
 
 ## Materials
 
@@ -19,11 +19,11 @@ Learn the basic functions of  Cutebot move forward or reverse.
 ### Step 1
 Click the "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
 
 A codebase is required for  Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
 
 ***Note:*** If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
@@ -31,20 +31,20 @@ A codebase is required for  Cutebot programming, click “Add Package” at the 
 
 Choose "show icon" in the `On start`bricks.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_01_02.png)
 
 ### Step 3
 
 Drag `go straight at full speed` brick into `on button A pressed` brick.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_01_01.png)
 
 
 ### Step 4
 
 Drag ``reverse at full speed` brick into `on button B pressed` brick.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_01_03.png)
 
 ### Programming
 
@@ -79,7 +79,7 @@ After button A being pressed, the car moves forward at its full speed.
 After button B being presseD, the car reverses at its full speed。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-01.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-01.gif)
 
 ## Exploration
 

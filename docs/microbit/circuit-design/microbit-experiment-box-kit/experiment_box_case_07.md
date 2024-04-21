@@ -6,13 +6,13 @@
 
 ## 硬件连线图 ##
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/4EceRG6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/4EceRG6.png)
 
 - 使用香蕉线按如上图连接电路，电池盒内放入2颗7号AAA电池。
 
 ## 电路原理图 ##
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/kl4b2QE.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/kl4b2QE.png)
 
 - micro:bit插槽的GND端和电池GND相连内部，形成电流回路。
 - micro:bit的P0口输出一个方波，经过三极管放大后驱动蜂鸣器。
@@ -23,22 +23,22 @@
 - 蜂鸣器是一种发声器件，它由振动装置和谐振装置组成。按照控制方式分类，可把蜂鸣器又分为有源型与无源型。
 - 有源型蜂鸣器的工作发声原理是：蜂鸣器内部集成振荡系统与放大取样电路，当有直流电源通过蜂鸣器时会使谐振装置产生声音信号，有源型蜂鸣器的工作发声原理图如下：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/spNnKiB.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/spNnKiB.jpg)
 
 - 无源型蜂鸣器的工作发声原理是：方波信号输入谐振装置转换为声音信号输出，无源型蜂鸣器的工作发声原理图如下：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/kNHyjjl.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/kNHyjjl.jpg)
 
 - 在实验箱板载了一颗无源蜂鸣器。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xyNlKjk.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/xyNlKjk.jpg)
 
 ### Mos管 ###
 
 - 三极管是一种控制电流的半导体器件，其作用是把微弱信号放大成幅度值较大的电信号。如果直接把micro:bit产生的PWM信号输入至蜂鸣器，蜂鸣器只会发出微弱的声音，这是因为IO口的驱动电流通常都是非常微弱的，不足以直接驱动蜂鸣器这类器件。这时候，我们就需要用到三极管将PWM信号的电流放大，从而让蜂鸣器能发出正常的声响。
 - 实验箱板载了一颗mos管。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NnmYwRp.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/NnmYwRp.jpg)
 
 *- 连线时注意正负极。*
 
@@ -50,11 +50,11 @@
 
 - 点击New Project按钮，新建一个项目。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/t34k5Zb.png)
 
 ### 步骤 2
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/vyb4j8a.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/vyb4j8a.png)
 
 - 按顺序依次插入播放音调和延迟积木块，播放CEGE音调。
 

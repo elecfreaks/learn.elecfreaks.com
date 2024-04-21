@@ -8,7 +8,7 @@ With a built-in 400mAh Li-ion battery pack and the on-board power controlling sy
 
 The base board designs with standard 7x5 square bricks that can adapt perfectly to Lego.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong-01.png)
 
 
 ## Purchase link
@@ -57,7 +57,7 @@ Support fast charge
 ## Outlook and Dimensions
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_02.png)
 
 
 ##  Main modules
@@ -65,37 +65,37 @@ Support fast charge
 
 ### Power supply, USB power connection and power storage indicating LED
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_07.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_07.jpg)
 
 ### micro:bit adapter
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_15.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_15.jpg)
 
 ### Motor-drive connection
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_03.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_03.jpg)
 
 ### Servo-drive connection
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_04.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_04.jpg)
 
 ### 8 ways standard GVS connection and 5v connection
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_05.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_05.jpg)
 
 ### I2C female header conncetion
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_06.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_06.jpg)
 
 ### 4 Rainbow LEDs
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_08.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_08.jpg)
 
 ### Buzzer(reverse side) and switch
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_09.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_09.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_10.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_10.jpg)
 
 | Hardware version |  Buzzer switch |  Buzzer |
 | --- | --- | --- |
@@ -106,15 +106,15 @@ Support fast charge
 
 ### 8 LEDs(reverse side)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_11.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_11.jpg)
 
 ### Battery connection(reverse side)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_12.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_12.jpg)
 
 ### Fixed holes M3 for Lego (reverse side)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_13.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_13.jpg)
 
 ## Quick Start
 
@@ -123,7 +123,7 @@ Support fast charge
 Insert the micro:bit into the adapter(The logo side of the micro:bit stands towards the side for buzzer switch ).
 Click once to power on.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_20.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_20.jpg)
 
 ### Software Programming
 
@@ -140,7 +140,7 @@ Click `Extensions` in the drawer of `Advanced` to see bricks menu.
 Search `wukong` in the box and click it to add package.
 Completed.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_14.png)
 
 ## User Guide
 
@@ -151,7 +151,7 @@ Click the power switch to power on, the power indicator lights up.
 Double-click the power switch to turn off the power, the power indicator will be off.
 Connect the USB power cable to the charging port, the constant light is the current remaining power, the remaining light will be lit in turn to enter charging mode.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_07.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_07.jpg)
 
 Power indicator status: 1:
 
@@ -197,7 +197,7 @@ You can also download it below:
 
 There are two kinds of motor driving connections named M1 and M2 that can connect most motors in the market.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_03.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_03.jpg)
 
 Links:[https://makecode.microbit.org/_78keCLdmU1Ez](https://makecode.microbit.org/_78keCLdmU1Ez)
 
@@ -226,8 +226,8 @@ You can also download it below:
 
 There is an on-board buzzer that is connected to the P0 port of the micro:bit, it can be programmed by the `Music` brick and can be powered on/off with the on-board buzzer switch.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_09.jpg)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_10.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_09.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_10.jpg)
 
 Link: [https://makecode.microbit.org/_JmM5btU4dHUb](https://makecode.microbit.org/_JmM5btU4dHUb)
 
@@ -256,7 +256,7 @@ You can also download it below:
 
 There are 4 Rainbow LEDs named LED0、LED1、LED2、LED3 that are connected to P16 port of the micro:bit and they can be programmed by the `Neopixel` brick.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_08.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_08.jpg)
 
 Link：[https://makecode.microbit.org/_61T2w6cqTib0](https://makecode.microbit.org/_61T2w6cqTib0)
 
@@ -287,7 +287,7 @@ Connect the servos to their driving connections S0~S7, they can be programmed by
 180° servos can be set from 0°~180°.
 Set 0° as the maximum speed of positive rotation, 180° as the maximum speed of negative rotation and 90° as stop for 360° servos , 0°~90° and 90°~180° are the scape for adjusting the speed.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_04.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_04.jpg)
 
 Links: [https://makecode.microbit.org/_6Pw63w49u5qq](https://makecode.microbit.org/_6Pw63w49u5qq)
 
@@ -316,7 +316,7 @@ You can also download it below:
 
 There are 3 pairs on-board 5V power supply connections that can drive sensors or servos in 5V , it only requires to connect the connections for 5V modules to 5V power supply, and to connect the signal cables to the signal connections for servos or sensors.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_16.png)
 
 ## Software Programming（Python editor）
 
@@ -327,17 +327,17 @@ There are 3 pairs on-board 5V power supply connections that can drive sensors or
 Download to unzip it: [EF_Produce_MicroPython-master](https://github.com/lionyhw/EF_Produce_MicroPython/archive/master.zip)
 Go to  [Python editor](https://python.microbit.org/v/2.0)https://python.microbit.org/v/2.0)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/05001_07.png)
 
 We need to add Wukong.py for programming.Click "Load/Save" and then click "Show Files (1)" to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/03444_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/03444_11.png)
 
 click "Add file" to add Wukong.py from the unzipped package of EF_Produce_MicroPython-master.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/03444_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/03444_12.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong_21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/wukong_21.png)
 
 ## User Guide
 

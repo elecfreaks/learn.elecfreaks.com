@@ -9,7 +9,7 @@ sidebar_label: Case 01 Drive forward
 
 This course is designed to introduce students to the concepts of graphical programming and encoder motors. Students will learn how to write programs to control the speed of the two wheels of the cart using the Cutebot Pro.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-01-01.png)
 
 ## Teaching objectives
 
@@ -39,7 +39,7 @@ Can the trolley be programmed to do anything other than move forward?
 
 ### Samples
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-01-02.png)
 
 Reference: [https://makecode.microbit.org/_XD8U42Lwc83W](https://makecode.microbit.org/_XD8U42Lwc83W)
 

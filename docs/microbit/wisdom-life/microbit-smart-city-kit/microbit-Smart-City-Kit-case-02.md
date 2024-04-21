@@ -20,7 +20,7 @@ Detect the moisture value of the soil from the soil moisture sensor and display 
 ## Picture
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-02.png)
 
 
 ## Hardware Connection
@@ -29,7 +29,7 @@ Detect the moisture value of the soil from the soil moisture sensor and display 
 Connect the soil moisture sensor to P1,  the servo to P2 and the OLED to IIC on IoT:bit.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-02-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-02-03.png)
 
 
 ## Software Programming
@@ -38,15 +38,15 @@ Connect the soil moisture sensor to P1,  the servo to P2 and the OLED to IIC on 
 
 Click "Advanced" in the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-04.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "iot-environment-kit" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-01-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-05.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "servo" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-01-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-06.png)
 
 ***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -55,15 +55,15 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 ---
 Save the returned soil moisture value as the variable “soil_moisture”.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-02-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-02-07.png)
 
 Display the value on the OLED screen.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-02-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-02-08.png)
 
 If the “soil_moisture” value is below the threshold, it means the landscapes need to be watered, program to turn on the servo to water; or program to turn off to stop watering.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-case-02-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-02-09.png)
 
 
 Link: [https://makecode.microbit.org/_e36JXPW3r31t](https://makecode.microbit.org/_e36JXPW3r31t)

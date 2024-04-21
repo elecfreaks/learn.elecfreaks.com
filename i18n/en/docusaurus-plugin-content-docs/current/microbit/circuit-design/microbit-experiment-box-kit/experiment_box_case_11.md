@@ -10,13 +10,13 @@
 
 ## Hardware Connect ##
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/rKbr0NQ.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/rKbr0NQ.png)
 
  Connect circuit as above picture and put 2 AAA batteries into batteries pack.
 
 ## Principles of Circuits ##
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cBDx8Qv.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/cBDx8Qv.png)
 
  The GND of slot on micro:bit is into innards of batteries' GND to generate the current loop.
 
@@ -26,7 +26,7 @@
  There are many categories of motors, but a motor basically transforms electric energy into kinetic energy according to the rule of electromagnetic induction. When the direct voltage was added on the two sides of the motor, the motor turns. The higher the voltage, the faster the rotation.
  The experiment box included a DC motor, and it connects a fan to show rotation.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case-13-4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/case-13-4.png)
 
 ***Note:*** Please note the positive and the negative when you are connecting.
 
@@ -38,20 +38,20 @@
 
  Click on "New Project" and set a new Project.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/t34k5Zb.png)
 
 
 ### Step 2
 
  Under the on start block, Wirte 0 to the P0 port to prevent motor from mis operated. Set pull pin P1 to up for waiting button signal.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/hHQ0Ayz.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/hHQ0Ayz.png)
 
 ### Step 3
 
  Judge the value of P1 if it is equal to 0. If it is, write 1 to the P0 port for starting the servo; If it is not, write 0 to the P0 port to stopping the servo.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/3UfQLdB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/3UfQLdB.png)
 
 
 ### Program

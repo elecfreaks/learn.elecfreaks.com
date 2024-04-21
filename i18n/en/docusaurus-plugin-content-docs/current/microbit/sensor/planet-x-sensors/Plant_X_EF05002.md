@@ -4,7 +4,7 @@
 
 PIR Sensor is a type of electronic building block based on AM412 pyroelectric digital smart sensor. It can be used in sensing and detection of human or animal motion, sensing distance is about 4-5 meters.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05002_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05002_01.png)
 ## Products Link
 
 [ELECFREAKS PlanetX PIR Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-pir-sensor?_pos=1&_sid=a0b4ec6ae&_ss=r)
@@ -29,7 +29,7 @@ Size|55.8 x 23.8 mm
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05002_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05002_02.png)
 
 
 ## Quick to Start
@@ -41,7 +41,7 @@ Size|55.8 x 23.8 mm
  Connect the PIR sensor to J1 port and the LED  to J2 port in the Nezha expansion board as the picture shows.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05002_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05002_03.png)
 
 ## MakeCode Programming
 
@@ -49,18 +49,18 @@ Size|55.8 x 23.8 mm
 ### Step 1
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_04.png)
 
 We need to add a package for programming, . Click "Extensions" in the bottom of the drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_05.png)
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 ### Step 2
 
 ### Code as below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05002_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05002_06.png)
 
 
 ### Link
@@ -101,13 +101,13 @@ Download the package and unzip it: [PlanetX_MicroPython](https://github.com/lion
 
 Go to  [Python editor](https://python.microbit.org/v/2.0)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_07.png)
 
 We need to add enum.py and pir.py for programming. Click "Load/Save" and then click "Show Files (1)" to see more choices, click "Add file" to add enum.py and pir.py from the unzipped package of PlanetX_MicroPython.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_08.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_09.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05002_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05002_10.png)
 
 ### Step 2
 

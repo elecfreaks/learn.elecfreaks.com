@@ -16,7 +16,7 @@
 - 5 x 螺丝
 - 3 x AAA电池
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/jO5FmOT.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/jO5FmOT.jpg)
 
 ### 第一步-整理你的城镇！
 
@@ -28,7 +28,7 @@
 
 - 将舵机电线穿入孔中，然后从前面的盒子中取出。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/yIvsH2B.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/yIvsH2B.jpg)
 
 ### 第2步 - 安装你的micro:bit
 
@@ -36,14 +36,14 @@
 - 将所有3节电池插入电池组背面。
 - 将左侧开关切换到P2，右侧开关切换到OFF。在我们编写micro：bit之后我们将打开它。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xSYrnfh.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/xSYrnfh.jpg)
 
 
 ### 步骤3 - 连接所有器材!!
 1.将舵机连接到ring：bit上的P2口。并确保棕色线到达G，黄色线到达P2。
 2.将光敏传感器连接到ring:bit上的P1口。黑线应连接到G.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ckgI5h7.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/ckgI5h7.jpg)
 
 ### 步骤4 - 编码！
 - 如果您从未尝试使用micro：bit进行编码，请查看我们的[入门教程！](https://tinkercademy.com/tutorials/getting-started-with-microbit/)
@@ -57,7 +57,7 @@
 - 按下按钮A后，将伺服臂放在伺服头上，观察按下按钮B时的位置。如果伺服臂指向太远或向侧面，请调整臂并减小编码角度。（例如调整0 - 180度至20 - 160度）
 - 用相同角度的龙臂更换舵机  并拧紧它。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cbyTwL5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/cbyTwL5.png)
 
 ### 第6步 - 校准第2部分
 
@@ -67,7 +67,7 @@
 - 将光传感器放入龙的嘴中，然后将其放下以固定它。
 - 对micro：bit进行编码，按下按钮时，通过光传感器检测光线水平。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/U6cIHOa.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/U6cIHOa.jpg)
 
 ### 第7步 - 全部放在一起。
 现在我们希望能够在龙被击中时阻止龙并且还能增加得分！

@@ -8,7 +8,7 @@ sidebar_label: 产品介绍
 
 TOOCA L1 Laser Engraver 采用突破性技术，能够大面积雕刻金属和几乎所有类型的材料，让您的所有项目（包括学校项目）栩栩如生。 按下发光按钮可控制工作状态，包括预览、雕刻/切割、暂停和重启。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-01.png)
 
 ## 购买链接
 
@@ -36,4 +36,4 @@ TOOCA L1 Laser Engraver 采用突破性技术，能够大面积雕刻金属和�
 
 ## 产品清单
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-02.png)

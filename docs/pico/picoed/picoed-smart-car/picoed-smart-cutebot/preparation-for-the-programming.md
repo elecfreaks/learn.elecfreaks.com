@@ -11,7 +11,7 @@ sidebar_position: 3
 下载并解压[Adafruit_CircuitPython_NeoPixel-main.zip](https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel/archive/refs/heads/main.zip)，将文件夹中的neopixel.py文件放在CIRCUITPY文件夹下的lib文件下面。
 下载并解压[Adafruit_CircuitPython_IRRemote-main.zip](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/download/20220510/adafruit-circuitpython-bundle-7.x-mpy-20220510.zip)，将文件夹中的adafruit_irremote.mpy文件放在CIRCUITPY文件夹下的lib文件下面。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-cutebot-programming-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-smart-cutebot/images/pico-cutebot-programming-01.png)
 
 ## circuitpython_cutebot库使用
 关于circuitpython相关的操作类和函数具体用法，请参考：[circuitpython_cutebot库使用说明](https://www.yuque.com/elecfreaks-learn/picoed/fciy6o)

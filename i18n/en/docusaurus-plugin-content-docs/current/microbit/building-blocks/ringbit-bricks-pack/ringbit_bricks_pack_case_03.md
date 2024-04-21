@@ -7,7 +7,7 @@ To build a fan that is controlled by the temperature.
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_03_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_03_01.png)
 
 
 
@@ -20,7 +20,7 @@ To build a fan that is controlled by the temperature.
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_03_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_03_02.png)
 
 
 
@@ -32,47 +32,47 @@ To build a fan that is controlled by the temperature.
 ## Bricks build-up
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_10.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_11.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_12.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_13.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_14.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_15.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_16.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_17.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_18.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_19.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_20.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_step_03_21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_step_03_21.png)
 
 
 
@@ -95,7 +95,7 @@ A detailed assembly instruction can be downloaded via the below links:
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_03_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_03_03.png)
 
 
 
@@ -105,7 +105,7 @@ In order to programme for the Ring:bit Bricks Pack, we need to add an extension.
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_03_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_03_04.png)
 
 
 
@@ -116,7 +116,7 @@ In order to programme for the Ring:bit Bricks Pack, we need to add an extension.
 Judge the returned value from the temperature sensor in "Forever" block, if the value is over 28 degrees, set the servos connected to P0 port turning;  while less than 26 degrees, set the servos connected to P1 stopping turning.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ringbit_Bricks_Pack_case_en_03_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/Ringbit_Bricks_Pack_case_en_03_05.png)
 
 
 

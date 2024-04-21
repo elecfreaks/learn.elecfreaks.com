@@ -8,7 +8,7 @@
 
 1 x [饼干游戏编程学习机](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.82.51a95ccfE1IJt1&id=644090757603)
 
-![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-case-01-01.png)
+![retro-case-01-01.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-case-01-01.png)
 
 ## 软件
 
@@ -18,9 +18,9 @@
 
 设置当精灵碰到路途上的植物时则游戏失败，当精灵到达终点宝石处，则游戏胜利，游戏中会每两秒随机刷新一个怪物来攻击小小英雄，初始生命值为3，当被怪物攻击到时生命值-1，当生命值归零时，游戏失败。
 
-![8.1.PNG](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/8.1.PNG)
+![8.1.PNG](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/8.1.PNG)
 
-![retro-gg-7.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/retro-gg-7.png)
+![retro-gg-7.png](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retro-gg-7.png)
 
 ### 程序
 

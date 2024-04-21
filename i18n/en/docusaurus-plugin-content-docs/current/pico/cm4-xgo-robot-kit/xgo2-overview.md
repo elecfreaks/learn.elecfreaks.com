@@ -9,7 +9,7 @@ sidebar_label: XGO 2 Overview
 
 The XGO2 robot dog features a core architecture comprised of two main components. The first is the Raspberry XGO-CM4, an artificial intelligence module serving as the host computer responsible for all AI tasks. The second is a slave computer developed with ESP32, which manages the power system, servo drive, and core gait algorithm of the robot dog. Communication between the host and slave occurs through a serial port.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-overview-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-overview-01.png)
 
 XGO2 architecture
 
@@ -23,19 +23,19 @@ XGO-lite2  3D : [XGO-lite2 3D model Download](https://drive.google.com/drive/fol
 
 XGO-mini2 3D: [XGO-mini2 3D model Download](https://drive.google.com/drive/folders/15PVrd4aRQLLVUnuNcEL2TR3LvbrGuc87?usp=share_link) .
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-overview-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-overview-02.png)
 
 
 
 XGO-lite2
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-overview-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-overview-03.png)
 
 
 
 XGO-mini2
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-overview-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-overview-04.png)
 
 
 
@@ -49,7 +49,7 @@ XGO-CM4 also includes a high-speed expansion interface with 4 programmable keys,
 
 [XGO-CM4 carrier board schematic Download](https://drive.google.com/file/d/1QnI0QfcOz2QENuufSl5sco3uHnJT6hEt/view?usp=share_link).
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-overview-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-overview-05.png)
 XGO-CM4
 
 ## XGO2 Driver
@@ -64,10 +64,10 @@ This is a bus servo control board based on [ESP32](https://drive.google.com/file
 
 The modular servo joint of XGO-mini is composed of a DC hollow cup motor, a metal reduction gear set, a 12-bit magnetic encoder and an integrated control circuit. It has its own closed-loop control and planning algorithm, high-speed bus communication, 360-degree angle control, and supports speed, position, current, temperature feedback and control parameter adjustment functions providing high-performance. The customized joints provides PID parameter adjustment, optimizes the joint impedance characteristics (compliance), and based on the basic kinematic gait planning, combined with the consideration of the center of gravity and the feedback of the IMU, as well as the requirements of the upper-level control commands, real-time adjustments can be performed. At the same time, a large speed ratio and high-efficiency reducer is used, which ensures lexibility and improves on the load-to-weight ratio.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-overview-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-overview-06.png)
 
 ## XGO-lite2 Servo
 
 The steering gear adopts plastic shell, metal gear box, iron core motor, TTL control board and high-quality potentiometer, and the output head adopts 25T type. It has a stall torque of 2.3kg.cm, an effective control angle of 300 degrees, and can switch between servo mode and continuous motor operation mode. In addition, the steering gear can also feedback position, speed, voltage, temperature and load parameters, so as to realize overload protection.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite2-introduce-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/microbit-xgo-lite2-introduce-07.png)

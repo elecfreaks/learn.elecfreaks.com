@@ -1,6 +1,6 @@
 ﻿# 课程_06 自锁开关
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ogadD6b.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/ogadD6b.jpg)
 
 ## 简介
 ---
@@ -20,7 +20,7 @@
 
 **温馨提示：如果你需要以上所有元件，你可以购买我们的[Elecfreaks小小科学家套件](https://item.taobao.com/item.htm?ft=t&id=597096675822)。**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
 
 ## 主要元件介绍
 ---
@@ -28,7 +28,7 @@
 
 自锁开关一般是指开关自带机械锁定功能，按下去，松手后按钮是不会完全跳起来的，处于锁定状态，需要再按一次，才解锁完全跳起来。它就叫自锁开关。早期的直接完全断电的电视机、显示器就是使用的这种类型的开关。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/hareBrE.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/hareBrE.jpg)
 
 注意：这种自锁开关包含两组刀双掷开关，本次试验只用到了其中一组，故剪去了其中一组的公共引脚。
 
@@ -40,11 +40,11 @@
 - 1.将自锁开关连接到扩展板的P0口
 - 2.将led灯通过100Ω电阻连接扩展板的P2口
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/k4dfMBY.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/k4dfMBY.jpg)
 
 连接完成后如图:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AuCiJU3.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/AuCiJU3.jpg)
 
 ### 软件
 
@@ -54,16 +54,16 @@
 
 ### 如图所示编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_06_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_06_01.png)
 
 ### 代码详解
 - 1.对扩展板P0口设置事件监听，并将其设置为高电平
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_06_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_06_02.png)
 
 - 2.设置事件触发入口，当自锁开关被按下，电位改变，点亮led，再按一次，电位再次改变，熄灭led。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_06_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_06_03.png)
 
 ### 参考程序
 请参考程序连接：[https://makecode.microbit.org/_Dhy5i9KVeLAK](https://makecode.microbit.org/_Dhy5i9KVeLAK)
@@ -96,7 +96,7 @@
 ---
 按下自锁开关，LED点亮；再按一次，LED熄灭。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/sCMwXXf.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/sCMwXXf.gif)
 
 
 ## 思考

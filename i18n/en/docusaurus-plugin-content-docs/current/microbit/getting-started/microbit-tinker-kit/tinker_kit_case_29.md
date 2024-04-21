@@ -13,7 +13,7 @@ This here is the formula to get your own tabletop shooter arcade working in good
 ## Goals
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pkEku1R.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/pkEku1R.jpg)
 
 
  1. Connect all the parts of the Shoot Em Up Kit.
@@ -34,11 +34,11 @@ This here is the formula to get your own tabletop shooter arcade working in good
 ## Hardware Step 1 – Put your town in order!
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cxAVaIH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/cxAVaIH.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cBXfEsN.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/cBXfEsN.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pkEku1R.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/pkEku1R.jpg)
 
 - Insert all the mountain cutouts and bushes around the path to your town.
 - Fit the servo motor into the hole at the pop-up center.
@@ -47,13 +47,13 @@ This here is the formula to get your own tabletop shooter arcade working in good
 ### Step 2 – Attach your ring:bit
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/IvxKim4.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/IvxKim4.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/B42jRGl.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/B42jRGl.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/bXQOoHv.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/bXQOoHv.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/qMtjTo0.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/qMtjTo0.jpg)
 
 
 - Attach the micro:bit atop the ring:bit and screw it down with all 5 screws.
@@ -63,9 +63,9 @@ This here is the formula to get your own tabletop shooter arcade working in good
 ### Step 3 – Connect all the parts!!
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/BwWywZd.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/BwWywZd.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cZw9X3l.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/cZw9X3l.jpg)
 
 - Connect the servo to P2 on the ring:bit. And make sure that the brown wire goes to G and the yellow wires go to P2.
 - Connect the light sensor to P1 on the ring:bit. The black wire should connect to G.
@@ -73,14 +73,14 @@ This here is the formula to get your own tabletop shooter arcade working in good
 
 ### Step 4 – Code it up!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ZJtL5s2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/ZJtL5s2.png)
 
 
 
 ### Step 5 – The real challenge – calibration.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/L7jsEBr.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/L7jsEBr.png)
 
 Calibrate your dragon to make sure it’s flying back and forth in the sky and not face flat into the ground repeatedly.
 - With your servo firmly in place – code the micro:bit to turn your servo to 0 deg when button A is pressed, and to turn to 180 deg when button B is pressed.
@@ -93,11 +93,11 @@ Calibrate your dragon to make sure it’s flying back and forth in the sky and n
 ### Step 6 – Calibration Part 2
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/MQQNOFH.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/MQQNOFH.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AVha4O3.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/AVha4O3.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/hDnLJaj.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/hDnLJaj.png)
 
 On to the light sensor. We’ve got to capture the current light levels and when a laser passes over, the sensor will alert the micro:bit that the light levels has suddenly gone way up.
 -  Thread the light sensor through the hole under the pop-up and to the front of the box.
@@ -108,7 +108,7 @@ On to the light sensor. We’ve got to capture the current light levels and when
 ### Step 7 – Putting it all together.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/S74dBUC.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/S74dBUC.png)
 
 Now we want to be able to stop the dragon when it gets hit and also score points!
 -  So we should combine the two pieces of code and use an IF logic block to check if we got hit.

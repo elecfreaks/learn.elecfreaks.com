@@ -57,7 +57,7 @@
 - Programme to measure the distance with ultrasonic in [makecode](https://makecode.microbit.org/) on-line editor.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_v2_sonar_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_v2_sonar_06.png)
 
 Links: [https://makecode.microbit.org/_RVrYuDaT9acp](https://makecode.microbit.org/_RVrYuDaT9acp)
 

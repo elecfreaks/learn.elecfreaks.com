@@ -6,7 +6,7 @@ sidebar_label: Case 08 Open Sesame
 
 # Case 08: Open Sesame
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case08-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case08-01.png)
 
 ## Introduction
 
@@ -30,7 +30,7 @@ The spell "Open Sesame", which opens the door to the treasure cave of the Forty 
 
 ### Noise Sensor
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-introduction-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-introduction-12.png)
 
 The noise sensor is precisely due to the fact that the sensor has a built-in sound-sensitive capacitive electret microphone, with an electret face opposite the back electrode and a very small air gap in the middle, forming a flat capacitor with the air gap and the electret as the insulating medium, with the back electrode and the metal layer on the electret as the two electrodes. The capacitor has an output electrode between the two poles. Due to the electret film there is a free charge distributed on it. When the sound waves cause the electret film to vibrate and produce displacement, the distance between the two electrodes of the capacitor changes, thus causing the capacitance of the capacitor to change, as the number of charges on the electret remains constant, according to the formula: Q = CU, so when C changes, it inevitably causes the voltage U at both ends of the capacitor to change, thus outputting an electrical signal and realising the transformation from sound signal to electrical signal.
 
@@ -50,17 +50,17 @@ The control line is used to transmit the angle control signal. This angle is det
 >
 > 2.5ms———–180°；
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-beginner-kit-61.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/pico-beginner-kit-61.gif)
 
 ## Hardware connections
 
 Connect your components according to the following connection diagram:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case08-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case08-05.png)
 
 ## MicroBlocks Graphical Programming
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case06-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case06-05.png)
 
 ## CircuitPython Code
 
@@ -83,7 +83,7 @@ while True:
 
 ## Case display
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-kit-case08-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-kit-case08-06.gif)
 
 ## Think
 

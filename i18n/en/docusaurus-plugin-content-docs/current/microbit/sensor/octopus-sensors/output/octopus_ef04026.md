@@ -4,7 +4,7 @@
 
 OCTOPUS 1Channel Relay is a single relay electronic brick.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1E9gHLP.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/1E9gHLP.jpg)
 
 ## Products Link
 
@@ -31,7 +31,7 @@ PCB location hole|Standard 3mm
 ## Outlook and Dimensions
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lgUM5rk.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/lgUM5rk.png)
 
 ## Quick to Start
 
@@ -42,12 +42,12 @@ PCB location hole|Standard 3mm
 
   Take sensor:bit for example
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xcHn45y.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/xcHn45y.png)
 
 ### Program as the picture shows
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/hXlcnvg.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/hXlcnvg.png)
 
 ### Reference
 

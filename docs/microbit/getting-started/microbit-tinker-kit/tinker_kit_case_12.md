@@ -34,7 +34,7 @@
 把这些代码下载到micro:bit, 你的遥控器就做好了。
 现在遥控器上的每个按键都可以发送一个不同的指令了哦！
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/GK13ZiA.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/GK13ZiA.png)
 
 
 ### 步骤2
@@ -43,7 +43,7 @@
 
 这能确保你的项目可以接收正确的指令哦!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/KsZS4Mg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/KsZS4Mg.png)
 
 
 ### 步骤3
@@ -55,7 +55,7 @@
 同时，我们需要添加一个指向左的LED指示来展示执行我们设定的动作。
 将P0设置为0，让左边的舵机停止转动。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/9buZPoA.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/9buZPoA.png)
 
 
 ### 步骤4
@@ -63,7 +63,7 @@
 要让你的micro:bit小车向右转，你只需要按照上面的代码进行类似的设置就行了。向右转了之后，要让轮子停下来。你也可以选择在接收每个指令之后，让轮子不停地滚动。但是你会发现小车将不停地旋转。
 将代码下载至你的micro:bit小车中。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/8jAmhRg.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/8jAmhRg.png)
 
 
 如果你不想自己亲手编写代码，你可以通过下面这个链接下载程序的完整代码：

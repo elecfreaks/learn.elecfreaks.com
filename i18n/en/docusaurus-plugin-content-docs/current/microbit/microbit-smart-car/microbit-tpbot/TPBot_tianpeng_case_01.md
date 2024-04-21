@@ -18,7 +18,7 @@ sidebar_label: Running Control
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_01.png)
 
 
 ## Software
@@ -32,17 +32,17 @@ sidebar_label: Running Control
 
 - Click "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_02.png)
 
 -  We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "tpbot" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_03.png)
 
 ### Sample A
 
 - Drag the brick of setting the speed in both 100 for both wheels of TPBot into the "On Start".
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_04.png)
 
 ### Link
 - Link: [https://makecode.microbit.org/_0r5C5L029L9m](https://makecode.microbit.org/_0r5C5L029L9m)
@@ -76,7 +76,7 @@ sidebar_label: Running Control
 ### Sample B
 - Drag and set the brick of moving forward at the speed of 100 and lasting for 3 seconds into the "On Start".
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_05.png)
 
 ### Link
 - Link: [https://makecode.microbit.org/_XXH3yP66oRRp](https://makecode.microbit.org/_XXH3yP66oRRp)
@@ -111,7 +111,7 @@ sidebar_label: Running Control
 ### Sample C
 - Drag and set the brick of moving forward at the speed of 100 into the brick of "while button A being pressed", then set to pause for 2000ms, and drag the stops immediately brick as the pic says.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_01_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_06.png)
 
 ### Link
 - Link: [https://makecode.microbit.org/_6i4awR07MA7E](https://makecode.microbit.org/_6i4awR07MA7E)

@@ -9,7 +9,7 @@ sidebar_label: case 05 Rainbow Lights
 
 This course aims to let students learn and explore knowledge points such as car motor control and RGB light control by making smart racing cars and applying this knowledge to realize the rainbow-like light of the car during driving.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-05-01.png)
 
 ## Teaching Objectives
 
@@ -41,7 +41,7 @@ How can we control the brightness and color of rainbow lights?
 
 ### Sample Code
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-05-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-05-02.png)
 
 
 Link：[https://makecode.microbit.org/_MqxCqxJquPAs](https://makecode.microbit.org/_MqxCqxJquPAs)

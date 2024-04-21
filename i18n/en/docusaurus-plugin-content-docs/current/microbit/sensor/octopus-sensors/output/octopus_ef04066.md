@@ -4,7 +4,7 @@
 
 Octopus 5mmLED light Brick can be used in the interaction with the light works with micro:bit/Arduino.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/FJgPKrD.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/FJgPKrD.jpg)
 
 ## Products Link
 
@@ -26,7 +26,7 @@ weight|5g
 ## Outlook and Dimensions
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/D93Zvpm.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/D93Zvpm.png)
 
 ## Quick to Start
 
@@ -36,21 +36,21 @@ Connect to the P1 port as the picture shows
 
 Take sensor:bit for example
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/fDm8yzB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/fDm8yzB.png)
 ### Add Package
 
 Click "Advanced"in the choice of the MakeCode to find more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/smtcNoB.png)
 
 Click "Extensions", search "oled"in the dialog box and then download the "oled-ssd1306".
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VGSLRXB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/VGSLRXB.png)
 
 ### Program as the picture shows
 
 Digital write pin P0 to 1 and 0 one second later.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AAzv9pn.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/AAzv9pn.png)
 
 ### Reference
 

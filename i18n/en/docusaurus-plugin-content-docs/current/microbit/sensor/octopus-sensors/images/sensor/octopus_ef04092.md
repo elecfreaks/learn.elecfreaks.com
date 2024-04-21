@@ -4,7 +4,7 @@
 
  Octopus Light Sensor Brick can detect the light value of the current environment. It is in a small volume with a low power consumption and it is very easy to operate with good performance.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04092_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04092_01.jpg)
 
 ## Products Link
 
@@ -30,7 +30,7 @@ Stability|Stable and durable
 ## Outlook and Dimension
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cdNd1Kw.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/cdNd1Kw.png)
 
 ## Quick to Start
 
@@ -38,21 +38,21 @@ Stability|Stable and durable
 ### Materials required and connections diagram 
  Connect to P1 port as the picture shows. 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04092_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04092_02.png)
 ### Program as the picture shows 
 
 Click "Advanced" in the drawer of the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04092_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04092_03.png)
 
 We need to add a package for programming, click "Extensions" on the bottom of the drawer and search with "smarthomer“ in the dialogue box to download it. 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04092_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04092_04.png)
 
 Note: If you met a tip indicating codebase will be deleted due to incompatibility, you may continue as the tips tell or build a new project. 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04092_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/04092_05.png)
 ### Reference
 
 Link：[https://makecode.microbit.org/_iMH0jK6quc2j](https://makecode.microbit.org/_iMH0jK6quc2j)

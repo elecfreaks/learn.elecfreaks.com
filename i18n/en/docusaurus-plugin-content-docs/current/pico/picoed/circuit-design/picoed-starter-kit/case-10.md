@@ -1,6 +1,6 @@
 # Case 10:Motor
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case1001.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case1001.png)
 
 ## Introduction
 
@@ -38,7 +38,7 @@ n x Breadboard Jumper Wire 65pcs Pack
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/starter-kit01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/starter-kit01.png)
 
 
 
@@ -48,23 +48,23 @@ n x Breadboard Jumper Wire 65pcs Pack
 
 The motor is a kind of device that can transfer electric energy into kinetic energy according to the law of electromagnetic induction. The motor has a lot of categories. In our experiment, the motor we use is a DC motor. When we supply DC voltage to the two terminals of the motor, it will rotate. The higher the voltage, the faster it rotates.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case1002.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case1002.png)
 
 ### Diodes
 
 A diode is a kind of component with two polarities: one is positive and the other is negative. It allows the current move from the positive end to the negative end only. We can regard it as an electronic check valve. For a common diode, we can judge from the color of the tube for its polarity. The terminal with white color is negative polar.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case1003.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case1003.png)
 
 ### Alligator Clip Wires
 
 Similar to the usage of the jumper cable, alligator clip wire is used when some components are not suitable to use jumper cable for connection.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case1004.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case1004.png)
 
 In this experiment, we use an alligator clip wire to connect our motor.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case1005.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case1005.png)
 
 ## Experimental Procedure
 
@@ -72,14 +72,14 @@ In this experiment, we use an alligator clip wire to connect our motor.
 
 Connect your components according to the picture below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case10.png)
 
 The drive current of the IO port of the [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r) is very weak, not enough to directly drive the motor. At this time, we need to use a triode to amplify the current of the IO signal. The circuit diagram of using a triode to amplify the signal current of the IO port is very similar to the circuit diagram of driving the buzzer in the previous lesson. The only difference is that one is added at both ends of the motor. diode. This diode is called a freewheeling diode in this circuit.
 
 There is a coil in the motor, and when the coil passes current, an induced electromotive force is generated at both ends of the coil. When the current disappears, the induced electromotive force will generate a reverse voltage on the components in the circuit, which may damage the device. The freewheeling diode is connected in reverse parallel to both ends of the coil in the circuit. When the inductance coil is powered off, the electromotive force at both ends will not disappear immediately, and the residual electromotive force is released through the diode at this time. This is a classic protection design.
 The schematic diagram is as follows:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case1006.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case1006.png)
 
 You would see as below after you finish the connection:
 

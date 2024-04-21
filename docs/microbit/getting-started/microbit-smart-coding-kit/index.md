@@ -16,7 +16,7 @@ micro:bit手表套件Pro基于一代手表套件进行了升级，
 
 增加了蜂鸣器开关，功能再升级。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart-coding-kit-icon.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart-coding-kit-icon.png)
 
 
 ## 目录

@@ -9,7 +9,7 @@
 
 - 2 x [手表套件Pro（淘宝购买链接）](https://item.taobao.com/item.htm?ft=t&id=582042009614)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_case_07_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_07_01.png)
 
 
 ## 软件
@@ -25,7 +25,7 @@
 - 当按钮`A`被按下时无线发送数字1
 - 当按钮`B`被按下时无线发送数字2
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_case_07_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_07_02.png)
 
 ### 步骤 2
 - 接收端
@@ -34,7 +34,7 @@
 - 将接收到的数字存入变量`i`
 - 判断变量`i`的值，并显示相应图标
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_coding_kit_case_07_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart_coding_kit_case_07_03.png)
 
 
 

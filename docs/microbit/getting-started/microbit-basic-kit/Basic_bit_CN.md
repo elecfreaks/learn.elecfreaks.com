@@ -47,7 +47,7 @@ basic:bit是micro:bit基础扩展板。它板载了蜂鸣器，有P0、P1、P2�
 
 ### 组装
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/CIdYsAa.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/CIdYsAa.jpg)
 用螺丝将basic:bit固定到micro:bit上。
 将Octopus LED模块连接至P1口。
 开关拨至蜂鸣器一端。

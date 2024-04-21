@@ -4,7 +4,7 @@
 
 The right amount of UV rays has a boosting effect on plant growth, but too much UV rays can prevent many of the plant's life activities from going on properly. So we can make a UV shade and open it when the UV index is high to prevent the plants from being sunburned.。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-case-73-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-73-01.png)
 
 ## Case building
 
@@ -19,32 +19,32 @@ The right amount of UV rays has a boosting effect on plant growth, but too much 
 
 Parts List
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-case-73-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-73-02.png)
 
 The structure is built as shown in the figure:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-73-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-73-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-73-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-73-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-73-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-73-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-73-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-73-04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-73-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-73-05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-73-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-73-06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-73-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-73-07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-step-73-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-step-73-08.png)
 
 
 ### Connection schematic
 
 In the diagram below, connect the UV sensor to the J1 port and the servo to the S1 port of the Nezha Board.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-case-73-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-73-03.png)
 
 
 ## Makecode Programming
@@ -52,15 +52,15 @@ In the diagram below, connect the UV sensor to the J1 port and the servo to the 
 ### Step1
 In the code drawer of MakeCode click on "Extensions".
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-case-37-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-37-04.png)
 
 In order to program the UV sensor, we need to add an extension library. Type "PlanetX" in the dialog box and click Search, then click to download this library.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-case-37-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-37-05.png)
 
 In order to program the Nezha expansion board, we need to add an expansion library. Type "Nezha" in the dialog box and click Search, then click to download this library.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-case-37-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-37-06.png)
 
 *Note: *If you get a prompt saying that some code libraries will be removed for incompatibility reasons, you can either follow the prompt and continue, or create a new project inside the project menu bar.
 
@@ -68,7 +68,7 @@ In order to program the Nezha expansion board, we need to add an expansion libra
 
 ### Write the program as shown in the figure
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-case-73-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-73-06.png)
 
 ### Reference Program
 
@@ -100,4 +100,4 @@ You can also download the program directly from the following webpage and start 
 ### Results
 The UV sensor is used to detect the current ambient UV index, and the shade is opened when the UV index is too high.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-inventor-s-kit-case-73.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-73.gif)

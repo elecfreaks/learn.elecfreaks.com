@@ -9,7 +9,7 @@ sidebar_position: 6
 
 This lesson will take students through the process of creating a colour recognition light using the Nezha Inventor's Kit V2 and the AI Accessories Pack. By learning about colour recognition techniques, students will be able to make the light change according to the recognised colours to create unique lighting effects.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-05-01.png)
 
 ## Teaching Objectives
 
@@ -51,43 +51,43 @@ Make a colour recognition lamp from building blocks according to your own design
 
 ##### Building Steps
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-05-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-05-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-05-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-05-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-05-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-05-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-05-04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-05-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-05-05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-05-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-05-06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-05-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-05-07.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-05-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-05-08.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-05-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-05-09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-05-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-05-10.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-05-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-05-11.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-05-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-05-12.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-05-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-05-13.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-step-05-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-step-05-14.png)
 
 **Assembly Completed**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-05-01.png)
 
 ##### Hardware Connections
 
 Connect the rainbow LED to J1 and the AI lens to the IIC port on Nezha expansion board. 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-05-02.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-05-02.png)
 
 ##### Software Programming
 
@@ -95,19 +95,19 @@ Go to [makecode](https://makecode.microbit.org/#)
 
 Create New Project
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-03.png)
 
 Click Extensions
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-04.png)
 
 Search with `planetx` and download the package. 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-01-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-01-07.png)
 
 Code
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-05-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-05-08.png)
 
 Link: [https://makecode.microbit.org/_6F4VKTMWicoq](https://makecode.microbit.org/_6F4VKTMWicoq)
 
@@ -145,7 +145,7 @@ Each team will have the opportunity to present the cases they have produced to t
 
 Drop a colour card under the lens and the rainbow ring of lights will automatically change colour according to the recognised colour.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ai-accessories-pack-case-05.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/ai-accessories-pack/images/ai-accessories-pack-case-05.gif)
 
 ### Reflection
 

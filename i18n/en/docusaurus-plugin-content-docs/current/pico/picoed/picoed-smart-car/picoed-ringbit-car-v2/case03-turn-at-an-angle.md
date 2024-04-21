@@ -1,6 +1,6 @@
 # Case 03: Turn at An Angle
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case03.png)
 
 ## Introduction
 ---
@@ -11,11 +11,11 @@ Hello, we've learnt how to run a shape in case 02, but how can we draw a circle 
 
 Also with the same assembly steps with former practices, connect the left wheel servo to P1 of the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) board and the right wheel servo to P2.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case.png)
 
 Use a rubber band to fix a pencil on the base board of the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0301.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/case0301.png)
 
 ## Software Programming
 

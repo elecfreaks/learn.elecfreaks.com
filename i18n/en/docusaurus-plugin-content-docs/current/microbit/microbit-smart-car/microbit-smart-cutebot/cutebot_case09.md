@@ -4,7 +4,7 @@
 
 The Cutebot avoids the obstacles automatically to move forward.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-09-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-09-01.png)
 
 ## Materials
 
@@ -22,11 +22,11 @@ The Cutebot avoids the obstacles automatically to move forward.
 
 Click the "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-1.png)
 
 A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pk-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-pk-11.png)
 
 ***Note:*** If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
@@ -34,7 +34,7 @@ A codebase is required for Cutebot programming, click “Add Package” at the b
 
 Drag "go straight at full speed" brick into the `On start` brick.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_09_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_09_01.png)
 
 ### Step 3
 
@@ -44,7 +44,7 @@ If the detected value is between `2` and `20` which means there is obstacle bein
 
 If not, move forward at its full speed.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_09_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/case_09_02.png)
 
 
 ### Programming
@@ -77,7 +77,7 @@ You can also download it directly below:
 
 The Cutebot moves forward at its full speed and will make a right turn to keep going if any obstacle being detected.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-case-09.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-09.gif)
 
 ## Exploration
 

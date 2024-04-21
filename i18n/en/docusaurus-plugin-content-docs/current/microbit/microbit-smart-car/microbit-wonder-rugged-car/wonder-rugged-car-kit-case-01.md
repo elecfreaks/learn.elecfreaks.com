@@ -23,11 +23,11 @@
 ### Step 1
 Click "Advanced" in the drawer of MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Mecanum_wheel_car_kit_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_01_01.png)
 
 For programming, we need to add a package. Click "Extensions" at the bottom of the drawer and then search "Wukong" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Mecanum_wheel_car_kit_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_01_02.png)
 
 ***Note:*** If you get a warning indicating some packages will be removed because of incompatibility issues, you can follow the prompts or create a new project in the menu.
 
@@ -37,7 +37,7 @@ Click `Wukong` to choose `mecanum ` block.
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Mecanum_wheel_car_kit_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_01_03.png)
 
 
 ### Step 3
@@ -46,7 +46,7 @@ Drag `mecanum` into `on start`  block and set the connection for servos accordin
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Mecanum_wheel_car_kit_case_01_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_01_04.png)
 
 
 ### Step 4
@@ -55,7 +55,7 @@ Set the car moving left while pressing button`A` , right while pressing button `
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Mecanum_wheel_car_kit_case_01_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_01_05.png)
 
 
 ### Program

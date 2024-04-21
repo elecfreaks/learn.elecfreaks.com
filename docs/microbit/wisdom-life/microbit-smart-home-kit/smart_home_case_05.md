@@ -1,6 +1,6 @@
 ﻿# 案例05 水位监测器
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/r7N0vxc.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/r7N0vxc.jpg)
 
 ## 目的
 ---
@@ -20,24 +20,24 @@
 ### 水位监测器原理
 - 通过micro：bit接收土壤湿度传感器的信号，当接收到信号，控制继电器模块打开，给抽水泵供电，抽取多余的水。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/YBkcXZq.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/YBkcXZq.png)
 
 ## 结构场景搭建
 ---
 准备一个小水池，搭建成如图样式，将原件如图摆放粘贴：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/86tb1yO.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/86tb1yO.jpg)
 
 ## 硬件连接图
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ZoIRMwZ.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/ZoIRMwZ.png)
 
 
 
 
 硬件连线时，应使用配套螺丝刀将继电器端子上的螺丝拧松。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_05_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_05_06.png)
 
 
 
@@ -54,11 +54,11 @@ IO口使用注意事项
 ### 步骤 1
 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_01_01.png)
 
 为了给智慧家居套件编程，我们需要添加一个代码库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框。搜索“smarthome"，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_01_02.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -67,18 +67,18 @@ IO口使用注意事项
 在“无限循环”积木块中，加入循环判断条件积木块，从“引脚”函数块中加入“模拟读取引脚” 读取p2的值，判断是否大于500，也就是是否达到警戒水位，从土壤湿度传感器中传入的数值大于500为达到警戒水位，条件成立，低于500说明还未达到警戒水位。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_05_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_05_03.png)
 
 ### 步骤 3
 
 条件成立后，发出警戒警报声，拖入“播放旋律”积木块设置为ba ding 发出一次，拖入“向引脚数字写入值”积木块，将p1口的继电器开关打开，抽水泵工作。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_05_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_05_04.png)
 
 ### 步骤 4
 条件不成立，拖入“向引脚数字写入值”积木块，依旧将p1口置0，使继电器关闭，抽水泵不工作。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smart_home_kit_case_05_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart_home_kit_case_05_05.png)
 
 ### 程序
 
@@ -111,10 +111,10 @@ IO口使用注意事项
 当水位达到警戒水位，micro：bit接收到土壤湿度传感器信号，发送指令给继电器模块，继电器打开，抽水泵导电，将多余的水抽出，当水被抽出，水位低于警戒值，micro：bit关闭继电器，抽水泵停止抽水。
 
 抽水：
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/991WoLx.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/991WoLx.jpg)
 
 停止抽水：
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/hPf3xtQ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/hPf3xtQ.jpg)
 
 ## 思考
 ---

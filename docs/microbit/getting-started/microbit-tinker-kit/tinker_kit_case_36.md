@@ -13,7 +13,7 @@
 - 1 x 碰撞传感器
 - 1 x 蜂鸣器
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Boaq8eL.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Boaq8eL.jpg)
 
 ### 第一步-设置！
 
@@ -21,13 +21,13 @@
 - 将蜂鸣器连接到分线板的引脚0，将碰撞传感器连接到引脚1。
 - 在继续执行第2步之前，请确保下载“tinkercademy-tinker-kit”软件包。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VvnoXBN.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/VvnoXBN.jpg)
 
 ### 第2步 - 信号发送端
 - 将这些代码集拖到makecode平台中，然后将其下载到连接到分线板的micro：bit中。
 - 按下碰撞传感器几下，看看你的代码是否正常工作！
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/QawJArj.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/QawJArj.png)
 
 ### 步骤3 - 信号接收端
 - 下载第二个micro：bit（接收器）的这组代码。
@@ -35,7 +35,7 @@
 - 现在您已经设置了第一个无线门安全装置，您可以使用超过1个门进行尝试！
 - 随意添加其他形式的警报接收micro：bit以增强您自己的安全性。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/u5wwVjt.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/u5wwVjt.png)
 
 - 完成！
 

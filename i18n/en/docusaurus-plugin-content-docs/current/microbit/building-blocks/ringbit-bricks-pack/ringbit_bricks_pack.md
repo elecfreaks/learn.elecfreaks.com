@@ -1,6 +1,6 @@
 ﻿# Ring:bit Bricks Pack
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ringbit_bricks_pack_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/ringbit-bricks-pack/images/ringbit_bricks_pack_01.jpg)
 
 ## Introduction
 

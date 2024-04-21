@@ -3,7 +3,7 @@
 ## Purpose
 ---
 Make a bricks catapult with [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r).
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-case-07-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-case-07-01.png)
 
 ## Purchse
 ---
@@ -11,50 +11,50 @@ Make a bricks catapult with [NezhaA Inventor's Kit](https://shop.elecfreaks.com/
 
 ## Materials Required
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-case-07-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-case-07-02.png)
 
 ## Assembly Steps
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-01.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-02.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-03.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-04.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-05.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-06.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-07.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-08.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-09.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-10.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-11.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-12.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-13.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-14.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-15.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-16.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-17.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-18.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-19.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-20.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-21.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-22.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-23.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-24.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-25.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-26.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-27.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-28.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-29.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-30.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-31.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-32.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-33.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-step-07-34.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-16.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-23.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-24.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-25.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-27.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-28.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-29.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-30.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-31.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-32.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-33.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-step-07-34.png)
 
 ## Hardware Connections
 ---
 Connect the [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 port and the[two buttons](https://www.elecfreaks.com/planetx-button.html) to J1 port on [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html). 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/neza-a-case-07-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-case-07-03.png)
 
 ## Programming
 ---

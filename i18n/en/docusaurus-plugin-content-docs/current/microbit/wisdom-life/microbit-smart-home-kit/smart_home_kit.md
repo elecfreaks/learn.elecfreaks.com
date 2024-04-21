@@ -3,7 +3,7 @@
 Smart home Kit is a product about smart home project based on micro:bit which is developed by ELECFREAK. We selected executed components commonly used at home as TMP36 temperature sensor, sound sensor, crash sensor, servo, motor. You can build scene like windowsill, wardrobe and fish tank, create yourself smart sweet home and programming to intelligently driving them using micro:bit.
 Smart home is what makes life more practical and playing with it is what makes life more interesting.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/uucCMNM.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/uucCMNM.jpg)
 
 ## Products Link
 
@@ -12,10 +12,10 @@ Smart home is what makes life more practical and playing with it is what makes l
 ## Application Scene
 
 ### Smart fan
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/XJbqrkd.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/XJbqrkd.jpg)
 
 ### Voice-activatied light
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TjI8a2b.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-home-kit/images/TjI8a2b.jpg)
 
 For more practical case, please refer to the materials.
 

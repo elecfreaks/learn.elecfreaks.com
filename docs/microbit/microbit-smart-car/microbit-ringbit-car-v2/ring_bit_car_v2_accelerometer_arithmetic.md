@@ -27,7 +27,7 @@ sidebar_label: 加速度计算法
 
  *新版和旧版micro:bit加速度计芯片有所区别。新版micro:bit将电子罗盘和加速度计合并为一个芯片，使用方法不变。*
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2n6TbVZ.png)  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/F0frwo6.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/2n6TbVZ.png)  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/F0frwo6.jpg)
 
 
 ## 软件准备
@@ -35,40 +35,40 @@ sidebar_label: 加速度计算法
 
 [微软makecode](https://makecode.microbit.org/#)在线积木块编程[https://makecode.microbit.org/#](https://makecode.microbit.org/#)
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cp88kPs.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/cp88kPs.png)
 
 ## 程序
 ---
 ### 步骤 1：添加代码包
 - 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/2qCyzQ7.png)
 
 - 为了给Ring:bit套件编程，我们需要添加一个代码库。在代码抽屉底部找到“Add Package”，并点击它。这时会弹出一个对话框。搜索“ringbit"，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1Wq2Mov.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/1Wq2Mov.jpg)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
 ### 步骤 2：算法原理
 
 - 加速度计分为X轴和Y轴两个方向，在俯视图上，将micro:bit和Ring:bit Car放在同一个三维坐标轴中就很好理解。
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/4jVn6rG.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/4jVn6rG.jpg)
 
  以控制端micro:bit的方向来同步控制Ring:bit小车的行驶方向及速度。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NGnp5Ya.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/NGnp5Ya.jpg)
 
 - 向右前方行驶，X轴和Y轴数据均为正数，左轮速度应大于右轮速度，依次完成左转。
 - 同理左前方，左后方，右后方均如此分析。
 - 得出结论为：左轮数据为Y轴数据加上X轴数据，右轮数据位Y轴数据减去X轴数据。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/8oOCEWj.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/8oOCEWj.png)
 
 ### 步骤 3：代码解释(控制端) ###
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xxvSu1T.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/xxvSu1T.png)
 
 - 在开机的时候设置无线电组别为`90`,需要和接收端(小车)设置为一致。
 - 循环发送数据X，值为X轴加速度值。加速度值范围为`-1024~+1024`，而小车转速为`-100~+100`，故需要除以`10`以符合范围。
@@ -77,15 +77,15 @@ sidebar_label: 加速度计算法
 ### 步骤 4：代码解释(小车端)
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JsLkJ1t.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/JsLkJ1t.png)
 
 - 开机的时候，设置小车左右轮连接为P1和P2(以小车实际连接端口为准)，显示一个图标，设置无线电组别为90(与发送端一致)，用来设置XValue和yValue两个变量存储X轴数据和Y轴数据。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/A5gqKjZ.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/A5gqKjZ.png)
 
 - 当接收到无线电数据时，判断如果为X值，将数据存入`xValue`，如果为y值，将数据存入`yValue`。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/a3uTwmH.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/a3uTwmH.png)
 
 - 将上边得出的公式带入，算出左右轮速度值，将左右轮速度设置为相应值。
 

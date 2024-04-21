@@ -9,7 +9,7 @@ sidebar_label: case 04 声音控制
 
 本课程旨在通过制作智能赛车，让学生学习和探索小车电机控制、噪音传感器、声音的传播和噪音等级等知识点，并应用这些知识来控制小车的行驶。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-04-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-04-01.png)
 
 ## 教学目标
 
@@ -43,7 +43,7 @@ micro:bit V2 × 1
 
 ### 示例代码
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-04-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-04-02.png)
 
 
 请参考程序连接：[https://makecode.microbit.org/S25223-56312-37429-50965](https://makecode.microbit.org/S25223-56312-37429-50965)

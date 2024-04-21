@@ -5,7 +5,7 @@ sidebar_label: 案例02 暴风的成长
 
 # 案例02 暴风的成长
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case02-01.png)
 
 ## 简介
 
@@ -31,7 +31,7 @@ sidebar_label: 案例02 暴风的成长
 
 电机是依据电磁感应定律实现电能转换为动能的一种装置。该电机的基本部件包括电枢和定子。电枢线圈是电机的分类非常多，在本案例里，我们用到的是直流电机。当在电机两端加上直流电压时，电机会旋转，电压越高，旋转的速度越快。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case02-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case02-02.gif)
 
 具体我们从动图就能很好理解，在磁场中放置线圈，通过流动的电流，线圈会被一侧的磁极排斥，同时被另一侧磁极所吸引，在这种作用下不断旋转。在旋转过程中令通向线圈中的电流反向流动，使其持续旋转。电机中有个叫"换向器"的部分是靠"电刷"供电的，"电刷"的位置在"转向器"上方，随着旋转不断移动。通过改变电刷的位置，可使电流方向发生变化。换向器和电刷是 DC 电机的旋转所不可或缺的结构。
 
@@ -41,17 +41,17 @@ sidebar_label: 案例02 暴风的成长
 
 传感器和被测物体之间的距离是通过测量声波飞行的时间来计算的，而不是靠声波的强度，超声波传感器对背景抑制效果明显。几乎所有反射声波的材料，不管是什么颜色，都能被超声波传感器检测到，包括透明材料或薄膜。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case02-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case02-03.png)
 
 ### 硬件连接
 
 按照下面连接示意图，将您的元器件连接起来：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case02-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case02-04.png)
 
 ### 图形化编程
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case02-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case02-05.png)
 
 ### 代码编程
 
@@ -71,7 +71,7 @@ while True:
 
 ### 案例演示
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-kit-case02-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-kit-case02-06.gif)
 
 ### 思考
 

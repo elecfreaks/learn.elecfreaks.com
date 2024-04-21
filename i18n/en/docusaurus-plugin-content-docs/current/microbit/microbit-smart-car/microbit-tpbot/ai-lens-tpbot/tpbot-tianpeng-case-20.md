@@ -9,11 +9,11 @@
 
 - 1 x [TPBot](https://www.elecfreaks.com/tpbot.html)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_01.png)
 
 - 1 x  [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_02.png)
 
 
 
@@ -23,7 +23,7 @@
 ---
 Connect the AI Lens to the IIC port on TPBot.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_03.png)
 
 ## Software
 ---
@@ -37,15 +37,15 @@ Connect the AI Lens to the IIC port on TPBot.
 
 - Click "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_04.png)
 
 - We need to add a package for programming. Click "Extensions" in the bottom of the drawer and seach with "tpbot" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_05.png)
 
 - We need to add a package for programming the AI Lens kit. Click "Extensions" in the bottom of the drawer and seach with `https://github.com/elecfreaks/pxt-PlanetX-AI` in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_06.png)
 
 
 
@@ -53,27 +53,27 @@ Connect the AI Lens to the IIC port on TPBot.
 
 - Initialize the AI lens kit in the On start brick and switch its function to cards recognition.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_07.png)
 
 - In forever brick, get an image from the AI lens, if the image contains the traffic signals of driving forward, set the TPBot to drive at the speed of 40%.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_08.png)
 
 - If the image says turn left, set the TPBot to turn left at the speed of 30% for 0.5s and keep driving forward. As the AI Lens has three buffer zones, here we need to repeat collecting image for three times and discard to clear the buffer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_09.png)
 
 - If the image says turn right, set the TPBot to turn right at the speed of 30% for 0.5s and keep driving forward. As the AI Lens has three buffer zones, here we need to repeat collecting image for three times and discard to clear the buffer.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_10.png)
 
 - If the card says stop, stop the TPBot immediately.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_11.png)
 
 - Complete code:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TPBot_tianpeng_case_20_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/ai-lens-tpbot/images/TPBot_tianpeng_case_20_12.png)
 
 
 ### Reference

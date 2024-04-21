@@ -3,7 +3,7 @@
 ## Introduction
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/03055_1.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/03055_1.jpg)
 
 
 ## Characteristics
@@ -39,21 +39,21 @@ Stability|Stable and durable
 Click "Advanced" to see more choices in the MakeCode drawer. 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/smtcNoB.png)
 
 
 Click "Extensions" to search "IoT" in the dialogue box and then download it. 
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AaZxCEb.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/AaZxCEb.jpg)
 
 
 ### Programme as the picture shows
  The current status of the joystick shows on the OLED screen.  
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/03055_3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/input/images/03055_3.png)
 
 
 ### Reference

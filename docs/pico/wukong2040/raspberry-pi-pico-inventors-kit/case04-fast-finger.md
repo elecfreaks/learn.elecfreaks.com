@@ -5,7 +5,7 @@ sidebar_label: 案例04 眼疾手快
 
 # 案例04 眼疾手快
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case04-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case04-01.png)
 
 ## 简介
 
@@ -25,7 +25,7 @@ sidebar_label: 案例04 眼疾手快
 
 ### 按键
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case04-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case04-02.png)
 
 Wukong2040 扩展板上的按键原理是基于电子开关的工作原理。主板上有两个按键，分别是 A 和 B 按键。
 
@@ -37,7 +37,7 @@ Wukong2040 扩展板上的按键原理是基于电子开关的工作原理。主
 
 ### OLED 显示屏幕
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case04-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case04-03.png)
 
 0.96寸 OLED 显示模块采用 SSD1306 驱动芯片，有128x64个自发光的白色像素点，采用 IIC/SPI 两种通信方式，默认设置为 IIC。具有功耗低、对比度高等优点，可用于许多显示应用，例如：各类传感器的数值显示；mini 小游戏机；智能穿戴设备等。
 
@@ -47,11 +47,11 @@ Wukong2040 扩展板上的按键原理是基于电子开关的工作原理。主
 
 按照下面连接示意图，将您的元器件连接起来：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case04-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case04-06.png)
 
 ## MicroBlocks 图形化编程
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-case04-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-case04-05.png)
 
 ## CircuitPython 代码编程
 
@@ -93,7 +93,7 @@ while True:
 
 ## 案例演示
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040-inventors-kit-case04-06.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/wukong2040/raspberry-pi-pico-inventors-kit/images/wukong2040-inventors-kit-case04-06.gif)
 
 ## 思考
 

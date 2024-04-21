@@ -9,7 +9,7 @@ sidebar_label: case 11 PID巡线
 
 本课程旨在通过制作智能赛车，让学生学习和探索程序设计中的判断、分支、与或非等概念，并了解巡线传感器的工作原理和PID控制的基本原理。学生将通过实践操作，掌握PID巡线算法，培养逻辑思维、问题解决和团队合作能力，并进一步提高小车的巡线行驶效果。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-11-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-11-01.png)
 
 ## 教学目标
 
@@ -46,7 +46,7 @@ PID是比例（Proportional）、积分（Integral）和微分（Derivative）�
 
 ### 示例代码
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-11-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-11-02.png)
 
 
 请参考程序连接：[https://makecode.microbit.org/S63375-59249-43112-97194](https://makecode.microbit.org/S63375-59249-43112-97194)

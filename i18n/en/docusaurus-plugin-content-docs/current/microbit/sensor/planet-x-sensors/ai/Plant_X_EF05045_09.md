@@ -4,7 +4,7 @@
 
 Build a car with the bricks and control it with the AI Lens via the indicators.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_01.png)
 
 
 ## Products Link
@@ -22,19 +22,19 @@ Build a car with the bricks and control it with the AI Lens via the indicators.
  Connect the AI Lens to the IIC port and the two motors on M1,M4 ports on the Nezha expansion board as the picture shows.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_09_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_09_01.png)
 
  Build a car with the bricks below.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_07_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_07_01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_09_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_09_02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_09_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_09_03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_09_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_09_04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_09_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_09_05.png)
 
 ## MakeCode Programming
 
@@ -43,16 +43,16 @@ Build a car with the bricks and control it with the AI Lens via the indicators.
 
 Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05001_04.png)
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05001_05.png)
 
 
 Then search with “nezha” to download this extension.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_09_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_09_06.png)
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
@@ -62,24 +62,24 @@ Then search with “nezha” to download this extension.
 
  Initialize the AI lens while on start and switch its function to Card recognition.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_09_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_09_07.png)
 
  Get one image from the AI Lens, if the card is detected, judge the distance from the card to the car. If it is a long distance, the lens would get the value of the “X-axis”and respond it by adjusting the speed of the two motors to keep the image in the middle of the lens.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_09_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_09_08.png)
 
  If the car is near to the card, judge the instructions(symbols) on the card. If it is a turn-right instruction, make the car turn right by adjusting the speed of the motors, then program to get 3 images from the lens and give no instruction to these three pictures to clear the caches. If it is a stop instruction, make the car stop moving by adjusting the speed of the motors, then program to get 3 images from the lens and give no instruction to these three pictures to clear the caches.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_09_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_09_09.png)
 
  If the AI Lens does not detect any image, the car moves forward.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_09_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_09_10.png)
 
 Completed Code:
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05035_09_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/05035_09_11.png)
 
 
 ### Link

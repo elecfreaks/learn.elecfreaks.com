@@ -9,7 +9,7 @@ sidebar_label: case 13 红外遥控小车
 
 本课程旨在通过让学生制作红外遥控小车案例，让学生了解红外遥控的方式。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-13-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/remote-control/images/cutebot-pro-case-13-01.png)
 
 ## 教学目标
 
@@ -36,7 +36,7 @@ micro:bit × 1
 
 ### 示例代码
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-13-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/remote-control/images/cutebot-pro-case-13-02.png)
 
 请参考程序连接：[https://makecode.microbit.org/S98401-46426-02515-04900](https://makecode.microbit.org/S98401-46426-02515-04900)
 

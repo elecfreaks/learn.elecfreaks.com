@@ -9,7 +9,7 @@ sidebar_label: case 09 定距跟车
 
 本课程旨在通过使用Cutebot Pro智能赛车制作案例，引导学生学习图形化编程和传感器技术的应用。学生将学习如何编写程序，让小车能够跟随前面的小车行驶，并保持一定的距离。在实现这一目标的过程中，学生将涉及到程序设计的判断、分支、逻辑运算等知识点，并了解超声波传感器的工作原理。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-09-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-09-01.png)
 
 ## 教学目标
 
@@ -39,7 +39,7 @@ micro:bit × 1
 
 ### 示例代码
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-09-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-09-02.png)
 
 
 请参考程序连接：[https://makecode.microbit.org/S54819-77090-51177-38120](https://makecode.microbit.org/S54819-77090-51177-38120)

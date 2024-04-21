@@ -1,14 +1,11 @@
-﻿---
+---
 sidebar_position: 11
 sidebar_label: Case-library
 ---
 
 # TOOCA L1 Cases Library
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/tooca-laser-1-icon.png)
-
-
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/images/tooca-laser-1-icon.png)
 
 ## Cases Library
 

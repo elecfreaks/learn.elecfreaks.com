@@ -31,6 +31,6 @@ SKU|EF11098
 #### 使用说明 
 
 将水管套入水泵出水口，并将水泵的电源和地线连接在3V直流电源上给水泵通电，通电后水泵便开始工作，放入水中便可以抽水放水。
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/KzORYOY.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/KzORYOY.png)
 
 ### 常见问题

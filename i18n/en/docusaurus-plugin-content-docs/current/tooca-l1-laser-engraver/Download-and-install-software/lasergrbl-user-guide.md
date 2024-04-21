@@ -14,7 +14,7 @@ Place the wooden board in the working area of TOOCA L1 Laser Engraver, put down 
 
 The fixed focus bar should be in contact with the surface of the engraving material when it is naturally vertically downward. Use the screw on the right side to fasten it, and turn the fixed focus bar clockwise until it is attracted by the magnet. Finally plug in the laser module line.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/assembly-tutorials-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/assembly-tutorials-05.png)
 
 **Attention: In order to protect the table or floor from being burned or smoked, please protect the worktable well(use materials such as padding steel plates and other materials that are not easily penetrated by lasers). When doing the laser cutting, the bottom surface of the cutting place should be suspended to ensure the cutting effect.
 **
@@ -24,33 +24,33 @@ The fixed focus bar should be in contact with the surface of the engraving mater
 Double-click the .exe file to install LaserGRBL. If it cannot be installed, visit
 https://lasergrbl.com/download/ to download the appropriate version.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lasergrbl-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lasergrbl-01.png)
 
 Double-click it to open the app, power on the device and turn on the red switch. Use Type-C data cable to connect the computer and the machine after completing initialization. Select the corresponding COM and set Baud to 115200.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lasergrbl-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lasergrbl-02.png)
 
 Click "Connect".
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lasergrbl-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lasergrbl-03.png)
 
 
 
 
 Some icons will light up after the connection.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lasergrbl-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lasergrbl-04.png)
 
 Attention: If it fails to connect, long press the micro switch of the machine for 3 seconds and quickly click “connect” when you hear the second "beep".
 
 Click ”Homing”.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lasergrbl-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lasergrbl-05.png)
 
 
 Click "File-Append File" to import picture. Set the effect and click "Next". Recommended parameters for matching basswood: S-MIN - 0 S-MAX - 700; Engraving Speed - 6000.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lasergrbl-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lasergrbl-06.png)
 
 NOTES: Higher power % or slower speed makes deeper effect; lower power % or faster speed makes shallower effect. Generally we can just adjust S-MAX and you should enter a ten times value of power percentage. For example: to set 70% power, you should enter 700, not 70.
 
@@ -58,18 +58,18 @@ NOTES: Higher power % or slower speed makes deeper effect; lower power % or fast
 
 Set the Laser Mode to M4. Set the appropriate power %, speed, size and position of picture, etc. Click “Create“.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lasergrbl-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lasergrbl-07.png)
 
 Notes: For more details of power rate, speed and times, please can visit: [Recommended parameters](http://www.elecfreaks.com/learn-en/tooca-laser-1/recommended-parameters.html).
 
 Click "Frame" to enter previewing mode. At this time, the laser module will emit weak light and move around the maximum X and Y edges of the processed image. At this time, the material can be adjusted to the appropriate position.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lasergrbl-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lasergrbl-08.png)
 
 Finally click "Run Program" to start engraving. For more details please refer to: https://lasergr bl.com/usage/
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lasergrbl-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/Download-and-install-software/images/lasergrbl-09.png)
 
 
 

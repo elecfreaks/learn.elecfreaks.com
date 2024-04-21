@@ -30,15 +30,15 @@ sidebar_label: 遥控麦克纳姆轮小车
 ### 步骤 1
  在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Mecanum_wheel_car_kit_case_01_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_01_01.png)
 
 为了给麦克纳姆轮小车套件编程，我们需要添加一个扩展库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框，搜索”wukong”，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Mecanum_wheel_car_kit_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_01_02.png)
 
 为了使用joystick:bit，我们需要添加一个扩展库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框，搜索”joystickbit”，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Mecanum_wheel_car_kit_case_07_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_07_04.png)
 
 
 
@@ -49,7 +49,7 @@ sidebar_label: 遥控麦克纳姆轮小车
 麦克纳姆轮小车程序如下：
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Mecanum_wheel_car_kit_case_07_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_07_05.png)
 
 
 先设置无线设置组，然后初始化麦克纳姆轮小车舵机。将无线接收到的数据存入`I`。然后通过判断变量`I`的值来控制麦克纳姆轮小车的动作。
@@ -60,7 +60,7 @@ sidebar_label: 遥控麦克纳姆轮小车
 游戏手柄程序如下：
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Mecanum_wheel_car_kit_case_07_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/Mecanum_wheel_car_kit_case_07_06.png)
 
 
 设置无线设置组，然后通过判断手柄摇杆和按键的状态来发送数字。

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-sidebar_label: Case 04-Environmental Dust Monitoring Device
+sidebar_label: Case4-Environmental Dust Monitoring Device
 ---
 
 # Case 04: Environmental Dust Monitoring Device

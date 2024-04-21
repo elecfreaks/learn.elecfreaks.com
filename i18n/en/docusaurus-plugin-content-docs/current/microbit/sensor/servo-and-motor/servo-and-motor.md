@@ -8,7 +8,7 @@ Connect the two motors to the M1 and M2 interfaces respectively.
 
 Connect the 180° servo to S1, the 360° servo to S2, and the continuous rotation servo to S3 interface.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/servo-and-motor.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/servo-and-motor/images/servo-and-motor.png)
 
 
 
@@ -17,11 +17,11 @@ Connect the 180° servo to S1, the 360° servo to S2, and the continuous rotatio
 
 Click on "Advanced" in the code drawer of MakeCode to see more code options.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/03444_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/servo-and-motor/images/03444_05.png)
 
 In order to program the Nezha expansion board, we need to add an expansion library. Find "Extensions" at the bottom of the code drawer and click on it. A dialog box will pop up, search for "Nezha", and click to download the library.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/03444_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/servo-and-motor/images/03444_06.png)
 
 *Note: *If you get a prompt saying that some code libraries will be removed for incompatibility reasons, you can either follow the prompt and continue, or create a new project inside the project menu bar.
 
@@ -32,7 +32,7 @@ In order to program the Nezha expansion board, we need to add an expansion libra
 
 ### Program as below picture suggests
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/03444_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/servo-and-motor/images/03444_08.png)
 
 
 ### Reference Program
@@ -73,7 +73,7 @@ When button A is pressed, the two motors rotate together. When button B is press
 ### Write the program as shown in the figure
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/03444_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/servo-and-motor/images/03444_10.png)
 
 
 ### Reference Program

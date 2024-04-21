@@ -4,7 +4,7 @@
 
 It is able to control the device via your voice such as to give commands of  moving forward, reversing and starting the line-tracking mode etc.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05037_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05037_01.png)
 
 ## Products Link
 
@@ -30,7 +30,7 @@ Core IC|SNR3512M
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05037_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05037_02.png)
 
 ## Speech Recognition Sensor Preset Phrases and Feedback
 
@@ -103,7 +103,7 @@ Core IC|SNR3512M
  Connect the ASR module to the IIC port and the motor fan to J1 port on Nezha expansion board.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05037_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05037_03.png)
 
 
 
@@ -113,11 +113,11 @@ Core IC|SNR3512M
 ### Step 1
 Click "Advanced" in the drawer of the MakeCode to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_04.png)
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "PlanetX" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_05.png)
 
 ***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 

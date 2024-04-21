@@ -10,7 +10,7 @@
 2.使用if-else条件语句来判断条件。
 3.用MakeCode自制函数。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/DrzcpU6.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/DrzcpU6.jpg)
 
 
 ## 所需材料
@@ -30,8 +30,8 @@
 
 ### 步骤 1 – 硬件连接
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/I0WQp6j.jpg)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/3HeAKFN.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/I0WQp6j.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/3HeAKFN.jpg)
 
 将蜂鸣器连接至扩展板上的P0。
 
@@ -44,16 +44,16 @@
 
 为了使用我们之前准备好的元器件，我们需要添加一个代码库。在代码抽屉中点击Advanced来获取更多代码选项。 选择代码抽屉底部的Add Package来添加代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/S54AWdC.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/S54AWdC.png)
 
 这时会弹出一个对话框。在对话框中输入OLED，点击搜索按钮或按下Enter键，然后选择oled-ssd1306。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/S54AWdD.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/S54AWdD.png)
 
 
 ### 步骤 3 – 初始化OLED屏幕
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_16_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_16_01.png)
 
 在代码抽屉的音乐选择区域选择初始音乐。
 之后，创建一个变量，把它命名为started。因为游戏还没开始，所以我们把它设置成false。
@@ -62,7 +62,7 @@
 
 ### 步骤 4: 编辑randomiser（随机）函数
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_16_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_16_02.png)
 
 在这个步骤中，我们将使问题随机显示。
 首先，创建一个变量，命名为answer（回答）。此处，无论answer是对还是错，我们都将保存它。用Math（数学）项下的randomiser（随机）积木块来判断对错。
@@ -87,7 +87,7 @@ i1 + i2 = a 。
 
 ### 步骤 5: 编辑显示函数
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_16_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_16_03.png)
 
 在这个步骤中，我们将创建一个函数，把问题显示在OLED屏幕上。
 首先，如图所示初始化OLED。
@@ -101,7 +101,7 @@ i1 + i2 = a 。
 
 ### 步骤 6: 编写起始动作
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_16_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_16_04.png)
 
 现在，我们可以随机显示问题了，接下来需要编写游戏开始的程序。
 首先，创建一个start（开始）函数。在这个函数中，把初始值设置为true并且引用randomise（随机）函数。之后, 在**advanced**项下的game选区中, 添加**set score**（设置得分）积木块，把它的值设置为0。
@@ -110,9 +110,9 @@ i1 + i2 = a 。
 
 ### 步骤 7: 编写Check（检查）函数
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_16_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_16_06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_16_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_16_07.png)
 
 接着步骤6，现在我们将继续编写游戏开始的这部分代码。
 首先，创建2个函数-correct（正确）和 wrong（错误）。在correct函数中，选择游戏选项底部的积木块“change score"(改变得分），并通过1来改变score（得分）。接下来调用函数randomise（随机）来获取下一个问题，并在最后播放一段音乐“ba ding”来作为额外添加的音效。
@@ -122,7 +122,7 @@ i1 + i2 = a 。
 别忘了在游戏结束的时候将变量start设置为false（假）。
 现在，我们已经完成了函数correct和wrong。我们需要调用它们，正如图中所示的一样。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_16_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_16_08.png)
 
 
 ### 步骤 8: 计时器编程
@@ -131,20 +131,20 @@ i1 + i2 = a 。
 首先，创建一个end（结束）函数。在函数中进行相应的设置。这可能看起来和wrong函数的最后部分相似。
 你可以通过引用这个函数来替换那个部分。这个函数将会被再次引用来防止二次编程。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_16_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_16_09.png)
 
 接下来，创建一个slow（慢）函数。如果玩家没有及时回答，这个函数就会被调用。创建图中所示的积木块。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_16_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_16_10.png)
 
 接下来，我们需要创建一个新变量，叫做time（时间）。然后，我们需要创建一个新的变量time（时间）。当玩家开始了一个特定的问题时，就开始存储时间。之后，将它的数值设置到积木块running time (ms)（运行时间）中。你可以在代码菜单的Input选项中找到这个积木块。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_16_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_16_11.png)
 
 
 因为micro:bit没有内置的计时器，所以我们需要用micro:bit已有的资源设计一个计时器。现在我们starting time（起始时间）是玩家开始回答问题的时间，以及running time（运行时间）是程序已经运行的时间。在这个基础上，如果我们把这两者相减，则会得到玩家在那个问题上所花费的时间。对于这个游戏的每个问题，我们只允许玩家有2.5秒（2500毫秒）的回答时间。因此，如果玩家解题速度太慢，他们就会输。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_16_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_16_12.png)
 
 最后，在函数correct中添加一个积木块，用来设置当前运行时间的数值。这可以在下一个问题开始的时候，刷新starting time(开始时间）。
 

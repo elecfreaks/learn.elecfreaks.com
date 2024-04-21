@@ -7,13 +7,13 @@
 Download to unzip it: [EF_Produce_MicroPython-master](https://github.com/elecfreaks/EF_Produce_MicroPython/archive/refs/heads/master.zip)
 Go to  [Python editor](https://python.microbit.org/v/2.0)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-py-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-py-01.png)
 
 We need to add Cutebot.py for programming. Click "Load/Save" and then click "Show Files (1)" to see more choices, click "Add file" to add Cutebot.py from the unzipped package of EF_Produce_MicroPython-master.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-py-02.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-py-03.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-py-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-py-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-py-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-py-04.png)
 
 ## API
 ---

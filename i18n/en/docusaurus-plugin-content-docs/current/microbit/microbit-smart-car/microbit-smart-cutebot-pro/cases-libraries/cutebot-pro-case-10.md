@@ -9,7 +9,7 @@ sidebar_label: case 10 Automatic Line Patrol
 
 This course aims to let students understand the working principle of the line tracking sensor by making a smart line tracking car.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-05-01.png)
 
 ## Teaching Objectives
 
@@ -43,7 +43,7 @@ According to the working principle of the line inspection sensor, what other fie
 
 ### Sample Code
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-10-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-10-02.png)
 
 
 Link：[https://makecode.microbit.org/_aLj4hMCawg4M](https://makecode.microbit.org/_aLj4hMCawg4M)

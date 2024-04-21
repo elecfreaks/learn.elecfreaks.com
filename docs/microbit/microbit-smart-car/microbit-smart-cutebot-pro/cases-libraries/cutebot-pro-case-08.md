@@ -9,7 +9,7 @@ sidebar_label: case 08 智能避障
 
 本课程旨在向学生介绍图形化编程和超声波传感器的应用。学生将学习如何编写程序让小车具备避障功能。通过这个案例，学生将加深对程序设计的判断、分支、与或非等知识点的理解，以及了解超声波传感器的工作原理。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-08-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-08-01.png)
 
 ## 教学目标
 
@@ -46,7 +46,7 @@ micro:bit × 1
 
 ### 示例代码
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cutebot-pro-case-08-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/images/cutebot-pro-case-08-02.png)
 
 
 请参考程序连接：[https://makecode.microbit.org/S12346-77708-38149-03511](https://makecode.microbit.org/S12346-77708-38149-03511)

@@ -4,7 +4,7 @@
 
 OCTOPUS Magnetic Switch is a simple electric brick module with magnetic control switch.It is normally combined with electromagnet or components with magnet.It can be used to security alarming system，door magnetic switch and so on.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/y2rEGSc.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/y2rEGSc.jpg)
 
 ## Products Link
 
@@ -30,7 +30,7 @@ Size|23.48mm×31.28mm
 
 ## Outlook and Dimensions
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/9AZBMTT.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/9AZBMTT.png)
 
 ## Quick to Start
 
@@ -40,12 +40,12 @@ Size|23.48mm×31.28mm
 
   Take sensor:bit for example
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/YdMbHja.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/YdMbHja.jpg)
 ### Add Package
 
 ### Program as the picture shows
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/3k1UPiG.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/sensor/images/3k1UPiG.png)
 
 ### Reference
 

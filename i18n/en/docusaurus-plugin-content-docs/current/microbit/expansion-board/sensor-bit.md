@@ -5,7 +5,7 @@
 
 Sensor:bit is a breakout board based on micro:bit. It has extended all available IO ports on micro:bit, and lead out them in the form of GVS. With this board, we can extend various 3V electric brick modules like LED light, photocell, etc.. On the board, it has integrated a buzzer and an audio jack, which allows us to hear music from the buzzer or with our headphone.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/urCCzAZ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/urCCzAZ.jpg)
 
 
 ## Products Link
@@ -26,52 +26,52 @@ Sensor:bit is a breakout board based on micro:bit. It has extended all available
 ## Parameters
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/vfejZke.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/vfejZke.png)
 
 ## Dimension
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/4SpGBG6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/4SpGBG6.png)
 
 
 ## Definition of Pins
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/GyigPRt.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/GyigPRt.png)
 
 ## Introduction of Major Components
 ---
 
 ### Audio Jack
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/0iA1JlU.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/0iA1JlU.png)
 
 Headphone is controlled by P0 port. Plug in your headphone, the buzzer will disconnect automatically.
 
 ### Buzzer
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TyBn9U6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/TyBn9U6.png)
 
 The buzzer is controlled by P0 port. Plug in your headphone, the buzzer will disconnect automatically.
 
 ### 16 Channel Standard GVS Port
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/lu64mbc.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/lu64mbc.png)
 
 This is a standard GVS interface with 16 channels. It can extend 3V electric brick module.
 
 ### I2C Port
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AzBhRRS.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/AzBhRRS.png)
 
 This is a group of I2C female header, which can connect with OLED module directly.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VEl3AeH.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/VEl3AeH.png)
 
 This is a group of I2C male header.
 
 ### USB Power Connection
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/sensor_bit_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/sensor_bit_01.png)
 
 This a USB connection for power-supply.
 
@@ -82,7 +82,7 @@ This a USB connection for power-supply.
 
 Plug your micro:bit into sensor:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/WLLJgP2.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/WLLJgP2.jpg)
 
 ### Software
 

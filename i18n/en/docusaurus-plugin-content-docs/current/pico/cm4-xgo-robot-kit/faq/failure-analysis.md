@@ -9,7 +9,7 @@ sidebar_label: Failure Analysis
 
 If you find the XGO cannot stand after pressing the power switch. At this time, you can troubleshoot the problem according to the switch indicator light of the robot dog and the on-board indicator.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-faq-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-faq-08.png)
 
 #### Phenomenon One: XGO can't respond when the switch is pressed
 

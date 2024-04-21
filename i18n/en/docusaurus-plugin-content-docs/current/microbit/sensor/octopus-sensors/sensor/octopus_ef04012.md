@@ -4,7 +4,7 @@
 
  Photo Interrupter Sensor is a sensor module based on ITR9608 photoelectric switch that can be used with micro:bit.
 
-   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xxZhvK9.jpg)
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/xxZhvK9.jpg)
 
 ## Characteristics
 
@@ -27,7 +27,7 @@ Stability|Stable and durable
 
 ## Outlook and Dimensions
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/J7MA9tb.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/J7MA9tb.jpg)
 
 ## Quick to Start
 
@@ -36,13 +36,13 @@ Stability|Stable and durable
 
 Take sensor:bit for example
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/bh7oR62.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/bh7oR62.png)
 
 ### Program as the picture shows
  Show the value variable.
  Add 1 on the value variable each time when the Photo Interrupter Sensor detects a value.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/dii53A7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/dii53A7.png)
 
 ### Reference
 

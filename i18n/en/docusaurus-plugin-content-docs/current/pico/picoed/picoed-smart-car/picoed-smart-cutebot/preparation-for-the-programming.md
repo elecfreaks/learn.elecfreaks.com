@@ -7,7 +7,7 @@ After preparing the Pico:ed library, you also need to prepare the circuitpython_
 Download from [circuitpython_cutebot-main.zip](https://github.com/elecfreaks/circuitpython_cutebot/archive/refs/heads/main.zip) and unzip them, copy cutebot.py file in the lib folder under the CIRCUITPY folder.
 Download from [Adafruit_CircuitPython_IRRemote-main.zip](https://github.com/adafruit/Adafruit_CircuitPython_IRRemote/archive/refs/heads/main.zip) and unzip them, and copy the adafruit_irremote.py file in the lib folder under the CIRCUITPY folder.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pico-cutebot-programming-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/picoed-smart-car/picoed-smart-cutebot/images/pico-cutebot-programming-01.png)
 
 ## Usage for circuitpython_cutebot library
 For specific usage of the related operation classes and functions about circuitpython, please refer to:

@@ -39,37 +39,37 @@
 
  Connect the micro:bit to your computer and send the prepared micro:bit firmware to the micro:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_01.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/case_01_01.gif)
 
  Give power to micro:bit solely and the displaying characters on the micro:bit is the identification code for Bluetooth.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/case_01_02.gif)
 
 
 ### Step 2
 
  Open Scratch Link and you will see an icon of it on the status bar.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/case_01_03.png)
 
  Open the Scratch coding software, choose micro:bit expansion after clicking `+`  on the left bottom.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/case_01_04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/case_01_07.png)
 
  Choose your micro:bit in the pop-up dialogue box.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/case_01_05.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/case_01_06.png)
 
 ## Complete
 
  If connection is completed, the yellow exclamation mark changes to a green check mark.
  Now you can code the micro:bit with Scratch!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case_01_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-smart-coding-kit/images/case_01_08.png)
 
 ## FAQ
 

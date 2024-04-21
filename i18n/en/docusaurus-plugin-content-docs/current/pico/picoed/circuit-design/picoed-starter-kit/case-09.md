@@ -2,7 +2,7 @@
 # Case 09:Buzzer
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0901.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0901.png)
 
 ## Introduction
 
@@ -32,7 +32,7 @@ n x Breadboard jumper wire 65pcs pack
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/starter-kit01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/starter-kit01.png)
 
 
 
@@ -42,15 +42,15 @@ n x Breadboard jumper wire 65pcs pack
 
 Buzzer is a kind of voice device. It is made of vibration and resonance device. According to the difference of control method, we can divide buzzer into active type and passive type.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0902.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0902.png)
 
 Here’s the working principle of active buzzer: Because active buzzer has integrated amplify sampling circuit and resonance system, when DC power input passes through active buzzer, it will make resonance device generate sound signal. We can see the schematic diagram below for the working principle of active buzzer:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0903.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0903.png)
 
 The working principle of passive buzzer is: When square wave signal passes through the buzzer, its resonance device will transform the square wave signal input into sound signal output. Below is the schematic diagram for the working principle of passive buzzer:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0904.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0904.png)
 
 Note: In this experiment, we use passive buzzer only.
 
@@ -58,11 +58,11 @@ Note: In this experiment, we use passive buzzer only.
 
 Transistor is a kind of semi-conductor component for current control. It is used to amplify the weak signal to signal with larger frequency.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0905.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0905.png)
 
 If we input PWM signal produced by micro:bit into buzzer directly, the buzzer will send out feeble voice. This is because the drive current of I/O port is usually too weak to directly drive components like buzzer. At this time, we have to use transistor to amplify the current of PMW signal so that the buzzer can alarm properly. Here is the circuit diagram for a typical application of using transistor to drive buzzer:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0906.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0906.png)
 
 ## Experimental Procedure
 
@@ -72,7 +72,7 @@ Connect your components according to the picture below:
 
 1.Connect the buzzer, the 100Ω resistor and the transistor in series, then connect to P0 port.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case09.png)
 
 You would see as below after you finish the connection:
 

@@ -3,7 +3,7 @@
 ## 简介
 用于播放音乐。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04104_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04104_01.png)
 
 
 ## 技术规格
@@ -25,7 +25,7 @@ SKU|EF04104
 ---
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04104_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04104_02.png)
 
 
 ## 快速上手
@@ -37,7 +37,7 @@ SKU|EF04104
 - 如下图所示，将将MP3模块连接到sensor:bit的P1端口。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04104_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04104_03.png)
 
 
 ## makecode编程
@@ -46,17 +46,17 @@ SKU|EF04104
 ### 步骤 1
 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/smtcNoB.png)
 
 为了给MP3模块编程，我们需要添加一个扩展库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框，搜索”https://github.com/elecfreaks/pxt-mp3player “，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04104_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04104_05.png)
 
 *注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 ### 步骤 2
 ### 如图所示编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04104_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04104_06.png)
 
 
 ### 参考程序

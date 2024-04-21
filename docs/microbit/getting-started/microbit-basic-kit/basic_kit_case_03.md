@@ -17,7 +17,7 @@
 
 - 如图所示，将按键模块连接到basic:bit主板的P0口，电位器模块连接到P1。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/F9hvl7u.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/F9hvl7u.jpg)
 
 ## 软件
 ---
@@ -40,7 +40,7 @@
 - 当变量`itmmm`小于130，意为C按钮按下。当C按钮按下，将`item`变量赋值为3。
 - 当变量`itmmm`小于160，意为D按钮按下。当D按钮按下，将`item`变量赋值为4。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/basic_kit_case_03_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/basic_kit_case_03_01.png)
 
 ### 步骤 2
 
@@ -49,7 +49,7 @@
 - 当`item`变量的值等于3，则调用函数`func_C`。
 - 否则显示房子图标。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/basic_kit_case_03_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/basic_kit_case_03_02.png)
 
 ### 步骤 3
 
@@ -57,7 +57,7 @@
 - `func_B`函数：显示一颗闪烁的心，函数调用结束。
 - `func_C`函数，清空屏幕，调用结束。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/basic_kit_case_03_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/basic_kit_case_03_03.png)
 
 ### 程序
 

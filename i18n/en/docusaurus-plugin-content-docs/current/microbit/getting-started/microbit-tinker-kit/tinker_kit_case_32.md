@@ -12,7 +12,7 @@ Use the micro:bit to make a robot that squeals when it detects motion, is touche
 
 ## Goals
 ---
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/d2eaBHs.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/d2eaBHs.jpg)
 
 
  1. Assemble a shy reclusive robot
@@ -33,9 +33,9 @@ Use the micro:bit to make a robot that squeals when it detects motion, is touche
 ## Hardware Step 1 – Connect the Micro:bit parts
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/zd3vC3H.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/zd3vC3H.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TuiGS7u.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/TuiGS7u.jpg)
 
 
 1. Attach the buzzer into pin 0 as shown. The + sign on your buzzer connects with the yellow port on the breaker board.
@@ -47,9 +47,9 @@ Use the micro:bit to make a robot that squeals when it detects motion, is touche
 ### Step 2: Add the Tinker Kit Package
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/IHxSbt4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/IHxSbt4.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/7rsAoTE.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/7rsAoTE.jpg)
 
 1. We will need to add a package to the code editor to enable to use the kit components. Click on the advanced in the micro bit text editor and you will see a section that says Add Package.
 2. This will open up a dialog box. Search for Tinker Kit. Click on the search icon or press enter, then select tinkercademy-tinker-kit.
@@ -59,7 +59,7 @@ Use the micro:bit to make a robot that squeals when it detects motion, is touche
 ### Step 3 – Start Coding!
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/IFJoZRX.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/IFJoZRX.jpg)
 
 Put on the Micro:bit code- Coding your reclusive robot.
 Your program consists of a few “if” statements. We want the robot to only react to four conditions.
@@ -76,4 +76,4 @@ Your program consists of a few “if” statements. We want the robot to only re
 
 You have finished building all components needed to make a reclusive robot that makes a sound whenever someone surprises it! Place it into any box you large enough to contain the components while leaving some of them sticking out, and you have your very own recluse bot! Feel free to dress it up, but take care or it’ll start squealing in surprise!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/UrWxFhm.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/UrWxFhm.jpg)

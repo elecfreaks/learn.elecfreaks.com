@@ -5,7 +5,7 @@ sidebar_label: Case 11-The Never Lost Directions XGO
 
 # Case 11-The Never Lost Directions XGO
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/3.png)
 
 
 
@@ -33,7 +33,7 @@ Hi guys, when we get lost in some unfamiliar places, the XGO can guide us with t
 
 Connect the micro:bit with the computer through the USB cable. I believe you are already very skilled.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-22.png)
 
 ## MakeCode  Programming
 
@@ -43,11 +43,11 @@ Connect the micro:bit with the computer through the USB cable. I believe you are
 
 Click ” Advanced“ in the MakeCode drawer to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-10.png)
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "XGO" in the dialogue box to download it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-robot-kit-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-11.png)
 
 Note: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
@@ -55,13 +55,13 @@ Note: If you met a tip indicating that some codebases would be deleted due to in
 
 The directions diagram
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xgo-11-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/xgo-11-1.png)
 
 #### Sample Code
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xgo-11-2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/xgo-11-2.png)
 
 Link: [The XGO Guide](https://makecode.microbit.org/_YYDh669TLXfp)
 

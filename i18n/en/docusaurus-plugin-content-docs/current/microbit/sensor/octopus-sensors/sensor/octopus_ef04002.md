@@ -4,7 +4,7 @@
 
  Octopus Hunt Sensor is a sensor based on TCRT5000 photoelectric sensitive element.It can sensitively detect the infrared reflected signal.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/H1J5LWu.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/H1J5LWu.jpg)
 
 
 ## Products Link
@@ -35,7 +35,7 @@ Stability|Stable and durable
 ## Outlook and Dimensions
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ktk6q7u.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/ktk6q7u.png)
 
 ## Quick to Start
 
@@ -44,7 +44,7 @@ Connect to the P1 port as the picture shows
 
 Take sensor:bit for example
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/md29vd4.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/md29vd4.png)
 
 Program as the picture shows
 
@@ -52,7 +52,7 @@ Program as the picture shows
  If any object is detected, the value is 0 and the the digital read pins is 0, the icon is shown on the screen.
  Or it shows a box.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/99rRrZp.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/99rRrZp.png)
 
 ### Reference
 

@@ -7,7 +7,7 @@ sidebar_label: 悟空2040-Pico
 
 ## 介绍
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/extension-module/images/wukong2040_01.png)
 
 **悟空2040** 是一款为 Raspberry Pi Pico 设计的多功能扩展板。
 
@@ -32,11 +32,11 @@ sidebar_label: 悟空2040-Pico
 
 ## 尺寸参数
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/extension-module/images/wukong2040_02.png)
 
 ## 模块介绍
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/extension-module/images/wukong2040_03.png)
 
 ## 详细参数
 
@@ -82,7 +82,7 @@ Raspberry Pi Pico 支持C、C++、MicroPython、CircuitPython等编程方式，�
 
 点击固件下载页面后，点击下图位置的链接：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/extension-module/images/wukong2040_04.png)
 
 ### 固件安装
 
@@ -91,15 +91,15 @@ Raspberry Pi Pico 支持C、C++、MicroPython、CircuitPython等编程方式，�
 
 第一步：按下 Raspberry Pi Pico 板载 BOOSEL 按钮不松开。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/extension-module/images/wukong2040_05.png)
 
 第二步：使用良好的 USB 数据线将 Raspberry Pi Pico 连接计算机，当电脑磁盘目录显示“RPI-RP2”驱动器时，可以松开 Raspberry Pi Pico 板载 BOOSEL 按钮。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/extension-module/images/wukong2040_06.png)
 
 第三步：拖动之前下载好的 UF2 文件到"RPI-RP2"磁盘中，等复制完成后，“RPI-RP2”盘符会消失，新出现“CIRCUITPY”驱动器。恭喜您，已经成功安装 CircuitPython。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/extension-module/images/wukong2040_07.png)
 
 ### 编程平台设置
 
@@ -111,7 +111,7 @@ Raspberry Pi Pico 支持C、C++、MicroPython、CircuitPython等编程方式，�
 | ------ | ------------------- |
 | Thonny | https://thonny.org/ |
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/extension-module/images/wukong2040_08.png)
 
 ### 选择 Thonny 解释器
 
@@ -119,9 +119,9 @@ Raspberry Pi Pico 支持C、C++、MicroPython、CircuitPython等编程方式，�
 
 步骤如图所示：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/extension-module/images/wukong2040_09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/extension-module/images/wukong2040_10.png)
 
 ## 开始使用
 
@@ -131,13 +131,13 @@ Raspberry Pi Pico 支持C、C++、MicroPython、CircuitPython等编程方式，�
 * 下拨电源开关，悟空2040扩展板开机，电源指示灯亮起。
 * 将USB电源线连接至充电口，如下图（2），电量指示灯亮起。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/extension-module/images/wukong2040_11.png)
 
 (图1)
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/extension-module/images/wukong2040_12.png)
 
 (图2)
 
@@ -240,7 +240,7 @@ while True:
 
 如图所示：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/extension-module/images/wukong2040_13.png)
 
 代码参考：
 
@@ -347,7 +347,7 @@ while True:
 
 如图所示：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/extension-module/images/wukong2040_14.png)
 
 
 
@@ -432,7 +432,7 @@ while True:
 
 如图所示：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/extension-module/images/wukong2040_15.png)
 
 > 案例演示使用恩孚科技公司[Octopus](https://shop.elecfreaks.com/search?type=product&q=octopus)系列传感器。OLED显示屏分辨率为：128*64。
 

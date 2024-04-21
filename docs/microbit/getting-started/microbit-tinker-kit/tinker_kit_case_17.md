@@ -9,7 +9,7 @@
 - 用ADKeypad、OLED和蜂鸣器来进行创作。
 - 了解if-else语句的作用。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/uONyfJT.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/uONyfJT.jpg)
 
 
 ## 所需材料
@@ -40,18 +40,18 @@
 
 为了使用我们之前准备好的元器件，我们需要添加一个代码库。在代码抽屉中点击Advanced来获取更多代码选项。 选择代码抽屉底部的Add Package来添加代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/S54AWdC.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/S54AWdC.png)
 
 这时会弹出一个对话框。在对话框中输入OLED，点击搜索按钮或按下Enter键，然后选择oled-ssd1306。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/S54AWdD.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/S54AWdD.png)
 
 注意：如果你收到一个提示说一些代码库因为不兼容的问题将被删除，你可以根据提示进行操作，或者你也可以在项目文件的菜单中新建一个项目。
 
 
 ### 步骤 3:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_17_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_17_01.png)
 
 首先，你需要初始化OLED屏幕，使它的高度为64，宽度为128.这样你就可以使屏幕以合适的尺寸显示。
 
@@ -62,7 +62,7 @@
 
 ### 步骤 4：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_17_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_17_02.png)
 
 因为在步骤3里面，我们写了“press A to start”（按下A键开始游戏）。我们需要给它写一个条件。条件基本上指的是程序的一个要求，用来要求程序开始加载它的指令。因此，一个按钮A被按下的if-else语句就足够了。此外，它将会嵌套在一个forever的积木块中。
 
@@ -77,7 +77,7 @@
 
 如果你想知道：为什么初始化OLED显示和显示字符串的积木块会重复显示？ 这是因为它可能是在网页浏览器中模拟了一次刷新。如果你不初始化显示，文字可能会被带到下方，而不是生成新的文字。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_17_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_17_03.png)
 
 
 ### 步骤 6：
@@ -92,7 +92,7 @@
 
 重复这个步骤，你就可以玩很多测试题哦！
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_17_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_17_04.png)
 
 
 ### 步骤 7:
@@ -101,7 +101,7 @@
 
 现在你的游戏已经做好了哦！尽情地享受这个游戏带来的乐趣吧！
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_17_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_17_05.png)
 
 你可以点击下面的链接来查看完整的程序代码：
 

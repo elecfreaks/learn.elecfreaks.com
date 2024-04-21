@@ -18,11 +18,11 @@ sidebar_label: 警察来了
 ---
 - Ring:bit扩展版的P1口连接左轮舵机，P2口连接右轮舵机。
 - P0口连接ring:bit Car专用扩展板。
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/D5sFydb.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/D5sFydb.jpg)
 
 - 将专用扩展板上的拨片开关，拨到Rainbow LED。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/s3rVwxZ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/s3rVwxZ.jpg)
 
 ## 软件平台
 ---
@@ -33,11 +33,11 @@ sidebar_label: 警察来了
 ### 步骤 1
 - 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2qCyzQ7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/2qCyzQ7.png)
 
 - 为了给Ring:bit套件编程，我们需要添加一个代码库。在代码抽屉底部找到“Add Package”，并点击它。这时会弹出一个对话框。搜索“ringbit"，然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1Wq2Mov.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/1Wq2Mov.jpg)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -47,7 +47,7 @@ sidebar_label: 警察来了
 - 全速向前行驶。
 - 设置连接到`P0`口的`2`颗Rainbow LED为`RGB`色彩。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_car_v2_case_04_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_car_v2_case_04_01.png)
 
 ### 步骤 3
 
@@ -57,7 +57,7 @@ sidebar_label: 警察来了
 - `show color blue`(显示红色)积木块。
 - `pause(ms) 100`(暂停100ms)积木块
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ring_bit_car_v2_case_04_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ring_bit_car_v2_case_04_02.png)
 
 
 ### 程序
@@ -91,7 +91,7 @@ sidebar_label: 警察来了
 ---
 - 小车闪亮红蓝警灯全速前进。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/E4XxlGK.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/E4XxlGK.jpg)
 
 ## 思考
 ---

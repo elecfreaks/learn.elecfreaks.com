@@ -26,7 +26,7 @@ sidebar_label: XGO-lite2 Product Parameters
 
 - Storage: Micro SD card 32G
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-products-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-products-01.png)
 
 ## AI Mod Parameters
 
@@ -44,7 +44,7 @@ sidebar_label: XGO-lite2 Product Parameters
 
 - PH2.0 4PIN serial communication and power interface
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-index-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-index-03.png)
 
 ## Servo Parameter
 

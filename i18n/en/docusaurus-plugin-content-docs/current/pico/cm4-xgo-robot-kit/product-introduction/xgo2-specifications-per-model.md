@@ -18,7 +18,7 @@ sidebar_label: XGO2 Specifications per Model
 |       Battery        |          18650 2S 2500mah          |            18650 2S 3500mah             |
 |       Charger        |               8.4V1A               |                 8.4V1A                  |
 | Endurance (run time) |                 2h                 |                   1h                    |
-|       Exterior       | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-index.png) | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-mini-index.png) |
+|       Exterior       | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-index.png) | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-mini-index.png) |
 
 | XGO-Mini vs XGO-Lite Bus Servos Comparison |                                 |                                              |                         |
 | ------------------------------------------ | :-----------------------------: | :------------------------------------------: | :---------------------: |

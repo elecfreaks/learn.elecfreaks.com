@@ -1,6 +1,6 @@
 ﻿# Case 02:Button
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0201.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0201.png)
 
 ## Introduction
 
@@ -30,7 +30,7 @@ Momentary pushbutton switches are ubiquitous electronic components used in daily
 n x Breadboard jumper wire 65pcs pack
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/starter-kit01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/starter-kit01.png)
 
 ## Major Components Introduction
 
@@ -38,11 +38,11 @@ n x Breadboard jumper wire 65pcs pack
 
 This is a common component used to control electronic equipment. Most of it is used to connect or disconnect control circuits, so as to realize the control of motors or other electronic devices. Momentary pushbutton switches are normally left on. When it's pressed, the circuit is on; when it's popped, it jumps back to the unconnected state.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0202.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0202.png)
 
 Momentary push button switches have 4 pins. The 4 pins can be divided into 2 groups: pin 1 shorted to pin 2, pin 3 shorted to pin 4.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case0203.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case0203.png)
 
 ## Experimental Procedure
 
@@ -54,11 +54,11 @@ Connect your components according to the picture below:
 2. Connect the longer leg with the P0 and P1 ports through the Resistor.
 3. Connect the Momentary Pushbutton to the P2 port.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/case02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/case02.png)
 
 You would see as below after you finish the connection:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/anniu.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/picoed/circuit-design/picoed-starter-kit/images/anniu.png)
 
 ### Software Programming
 

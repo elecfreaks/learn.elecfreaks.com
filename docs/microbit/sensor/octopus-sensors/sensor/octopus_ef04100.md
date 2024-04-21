@@ -13,7 +13,7 @@ Octopus MG811 CO2 Gas Sensor是我们OCTOPUS系列的二氧化碳传感器电子
 - 存储时请密封保存，以免探头因长期暴露在空气中，导致探头“中毒”，此时需要连续加热48小时来恢复活性！
 - 本产品采用MG-811探头属于电化学传感器，为得到更精确的测量值，请先对传感器进行标定操作。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04100_00.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04100_00.jpg)
 
 ## 特性
 ---
@@ -34,7 +34,7 @@ Octopus MG811 CO2 Gas Sensor是我们OCTOPUS系列的二氧化碳传感器电子
 ## 外型与定位尺寸
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04100_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04100_02.png)
 
 ## 快速上手
 ---
@@ -49,7 +49,7 @@ Octopus MG811 CO2 Gas Sensor是我们OCTOPUS系列的二氧化碳传感器电子
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04029_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04029_03.png)
 
 
 
@@ -58,7 +58,7 @@ Octopus MG811 CO2 Gas Sensor是我们OCTOPUS系列的二氧化碳传感器电子
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04029_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04029_04.png)
 
 
 
@@ -100,13 +100,13 @@ Octopus MG811 CO2 Gas Sensor是我们OCTOPUS系列的二氧化碳传感器电子
 下载压缩包并解压[Octopus_MicroPython-master](https://github.com/lionyhw/Octopus_MicroPython/archive/master.zip)
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_07.png)
 
 为了给二氧化碳气体传感器编程，我们需要添加co2.py。点击Load/Save，然后点击Show Files（1）下拉菜单，再点击Add file在本地找到下载并解压完成的Octopus_MicroPython-master文件夹，从中选择co2.py添加进来。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_08.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/05001_09.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04100_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/05001_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04100_10.png)
 
 ### 步骤 2
 ### 参考程序
@@ -127,7 +127,7 @@ while True:
 
 将模块通过带扣杜邦线插入Arduino UNO上的A0引脚，Arduino主控板必须外接供电（7.5V-9V）。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04100_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04100_01.jpg)
 
 ### 软件编程
 

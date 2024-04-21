@@ -1,9 +1,9 @@
 ---
 sidebar_position: 5
-sidebar_label: About The Smart Climate Kit
+sidebar_label: 关于智能气象站套装
 ---
 
-# About The Smart Climate Kit
+# Smart Weather Station Kit
 
 ## Catalogue
 

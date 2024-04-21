@@ -1,6 +1,6 @@
 ﻿# Lesson 14 Ambient Light
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/NkZTTdv.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/NkZTTdv.jpg)
 
 ## Introduction
 
@@ -21,7 +21,7 @@ In our blog micro:bit Experiment 04: Photocell — Elecfreaks mirco: bit [Starte
 
 ***Tips: If you want all components above, you may need Elecfreaks micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html) .***
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/W4tseua.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/W4tseua.jpg)
 
 ## Major Component Introduction
 ---
@@ -29,7 +29,7 @@ You might be curious about how micro:bit senses light without any light sensor. 
 
 The display is a 5x5 array of LEDs. It is connected to the micro:bit as a 3x9 matrix. Runtime software repeatedly refreshes this matrix at a high speed, such that it is within the user persistence of vision range, and no flicker is detected. This LED matrix is also used to sense ambient light, by repeatedly switching some of the LED drive pins into inputs and sampling the voltage decay time, which is roughly proportional to ambient light levels.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/1JzFZG3.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/1JzFZG3.jpg)
 
 That’s really amazing! Except for its light emitting ability, micro:bit can sense light!Because LEDs are so commonly used as light emitters it is easy to forget that they are fundamentally photodiodes, and as such are light detectors as well.The function may be implemented with no additional hardware cost if incorporated in the LED driver circuit.
 
@@ -41,40 +41,40 @@ Connect your components according to the picture below:
 
 - Connect the signal wire of the LED ring to the P0 port of the breadboard adapter.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/fKgQRoW.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/fKgQRoW.jpg)
 
 After connection, we can see:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Hacl6BL.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/Hacl6BL.jpg)
 
 ### Software Programming
 
 Click to open Microsoft Makecode, write the following code in the editor.(https://makecode.microbit.org/)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/JHZUvh2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/JHZUvh2.png)
 
 ### Add Package
 
   Click "Advanced"in the choice of the MakeCode to find more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/smtcNoB.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/smtcNoB.png)
 
 Click "Extensions", search "neopixel"in the dialog box and then download the "neopixel".
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/umQwUC2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/umQwUC2.png)
 
 ### Program as the picture shows:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AZCjDfR.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/AZCjDfR.png)
 
 ### Details for the code:
 - 1.Set P0 port as the output of the ring signal and set the color mode to RGB.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ZlZCHyZ.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/ZlZCHyZ.png)
 
 - 2.When the light level received by micro:bit is lower than 10, the ring lights on in many colors.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/XoTAOIf.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/XoTAOIf.png)
 
 ### Reference
 Links:[https://makecode.microbit.org/_Cxo28oDKjLyY](https://makecode.microbit.org/_Cxo28oDKjLyY)
@@ -105,7 +105,7 @@ You can also download the links directly:
 ---
 When in darkness, the LED ring will be turned on; while in brightness, the LED ring will be turned off.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/F9B9ySD.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/F9B9ySD.gif)
 
 
 ## Exploration

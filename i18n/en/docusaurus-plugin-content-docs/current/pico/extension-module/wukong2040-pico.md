@@ -8,7 +8,7 @@ sidebar_label: Wukong2040-Pico
 
 ## Introduction
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/extension-module/images/wukong2040_01.png)
 
 **WuKong2040** is a multifunctional expansion board designed for Raspberry Pi Pico.
 
@@ -33,11 +33,11 @@ What's more thoughtful is that ELECFREAKS provides beginners with a wealth of le
 
 ## Dimensional Parameters
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/extension-module/images/wukong2040_02.png)
 
 ## Module Introduction
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/extension-module/images/wukong2040_03.png)
 
 ## Detailed parameters
 
@@ -86,7 +86,7 @@ Raspberry Pi Pico supports C, C++, MicroPython, CircuitPython and other programm
 
 After clicking on the firmware download page, click on the link in the following location:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/extension-module/images/wukong2040_04.png)
 
 ### Firmware Installation
 
@@ -95,15 +95,15 @@ The complete firmware burn-in demonstration is shown below：
 
 Step 1: Press the Raspberry Pi Pico on-board BOOSEL button and do not release it.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/extension-module/images/wukong2040_05.png)
 
 Step 2: Connect the Raspberry Pi Pico to your computer using a good USB cable and release the Raspberry Pi Pico on-board BOOSEL button when the computer disk directory shows the "RPI-RP2" drive.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/extension-module/images/wukong2040_06.png)
 
 Step 3: Drag the previously downloaded UF2 file to the "RPI-RP2" disk, and when the copy is complete, the "RPI-RP2" disk drive will disappear and the "CIRCUITPY" drive will appear. Congratulations, you have successfully installed CircuitPython.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/extension-module/images/wukong2040_07.png)
 
 ### Programming platform settings
 
@@ -115,7 +115,7 @@ If you are new to Raspberry Pi Pico, we recommend that you start with Thonny. Cl
 | ------ | ------------------- |
 | Thonny | https://thonny.org/ |
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/extension-module/images/wukong2040_08.png)
 
 ### Selecting Thonny interpreter
 
@@ -123,9 +123,9 @@ Open Thonny on your computer, click the "Configure interperter" menu in the "Run
 
 The steps are shown in the figure:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/extension-module/images/wukong2040_09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/extension-module/images/wukong2040_10.png)
 
 ## Getting Started
 
@@ -135,13 +135,13 @@ The steps are shown in the figure:
 * Turn down the power switch, the Wukong 2040 expansion board turns on and the power indicator lights up.
 * Connect the USB power cable to the charging port as the picture shown below (2) and the power indicator lights up.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/extension-module/images/wukong2040_11.png)
 
 (picture 1)
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_12.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/extension-module/images/wukong2040_12.png)
 
 (picture 2)
 
@@ -244,7 +244,7 @@ Wukong 2040 has two full-color LED beads (ws2812b) on board, pin numbers GP22_0 
 
 As shown in the figure：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_13.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/extension-module/images/wukong2040_13.png)
 
 Code reference:
 
@@ -351,7 +351,7 @@ The Wukong 2040 has 12 expansion IO interfaces on board (pins: 0, 1, 2, 3, 4, 5,
 
 As shown in the figure：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/extension-module/images/wukong2040_14.png)
 
 Code reference:
 
@@ -434,7 +434,7 @@ Wukong 2040 has onboard IIC pins (GP16, GP17), which can drive OLED display thro
 
 As shown in the figure.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/wukong2040_15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/extension-module/images/wukong2040_15.png)
 
 > Case demonstration using ELECFREAK' [Octopus](https://shop.elecfreaks.com/search?type=product&q=octopus) Series sensors.The resolution of OLED display is: 128*64.
 

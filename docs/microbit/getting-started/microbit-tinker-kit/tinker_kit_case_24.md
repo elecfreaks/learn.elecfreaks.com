@@ -3,7 +3,7 @@
 ---
 - 让我们一起来动手组装把~
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/N3HnCBy.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/N3HnCBy.jpg)
 ## 目标
 ---
 - 组装 game:bit
@@ -22,13 +22,13 @@
 ## Step 1 – 按钮
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Ri5D7oe.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Ri5D7oe.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/v7LZ0th.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/v7LZ0th.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/sqGhzdF.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/sqGhzdF.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/msMn858.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/msMn858.png)
 
 
 1. 先组装ADKeypad，注意红色按钮在上方
@@ -38,9 +38,9 @@
 ## Step 2 – 装线
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Gae1BQv.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Gae1BQv.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/XahUTgw.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/XahUTgw.png)
 
 
 1. 通过小孔将三色线连接到ADKeypad，棕色线连至 G (ground), 红色线连至 V (voltage) ,橘色线连至 S (signal).
@@ -49,11 +49,11 @@
 ## Step 3 – 安装micro:bit，连接micro:bit与ADKeypad！
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/dV72K9F.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/dV72K9F.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/iLVDOqM.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/iLVDOqM.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/XUJ1XrF.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/XUJ1XrF.png)
 
 
 1. 把micro:bit安装在木板的最上方
@@ -65,11 +65,11 @@
 ## Step 4 – 安装蜂鸣器
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/AXzsW5w.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/AXzsW5w.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/sADlgNh.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/sADlgNh.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/zuMPjY9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/zuMPjY9.png)
 
 1. 在蜂鸣器的底部有标注正负极导线.请注意哪种颜色是正极(+)，哪种颜色是负极(-) ，电力参数能帮你更好的使用GND及3V金手指
 2. 将蜂鸣器的负极导线连接至GND上的螺丝并拧紧
@@ -82,9 +82,9 @@
 ## Step 5 – 安装电池
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/TwHv0lF.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/TwHv0lF.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/0p4hRJ9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/0p4hRJ9.png)
 
 1. 最后的步棸是给你的game:bit安装电池
 2. 安装两节3A电池在micro：bit的电池箱里
@@ -95,7 +95,7 @@
 ## Step 6 – 初步成型
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/mccKFUr.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/mccKFUr.png)
 
 1. 关上game:bit，把反面的4个螺丝和螺母对齐，固定ADKeypad.
 2. 将螺丝和螺母拧紧.
@@ -103,13 +103,13 @@
 ## Step 7 – 完成啦
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/sBHbG0a.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/sBHbG0a.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ZcUqTg2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/ZcUqTg2.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/DFeFWob.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/DFeFWob.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/KPRamuy.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/KPRamuy.png)
 
 1. 将边边上的2个孔装上螺丝，并安上夹持器，用螺帽固定.
 2. 另一边相同操作.

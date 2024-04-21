@@ -19,7 +19,7 @@
 
 **温馨提示: 如果你想要以上所有这些元器件，你可以购买我们的[micro:bit小小发明家套件](https://item.taobao.com/item.htm?spm=a230r.7195193.1997079397.9.z3IMPf&id=564707672256&abbucket=5)。**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/CdFwsWU.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/CdFwsWU.jpg)
 
 
 ## 目标：
@@ -37,22 +37,22 @@
 
 首先，将湿度传感器插入扩展板。尽量保证线的颜色和扩展板上引脚的颜色一致。这对于后面的步骤来说很关键。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/klr9Ilu.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/klr9Ilu.jpg)
 
 其次，将OLED插入扩展板。你可以将它插入到扩展板上的3排插孔的任意一行。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/UarBFqc.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/UarBFqc.jpg)
 
 
 ### 步骤2 - 编程前的准备
 
 我们需要添加代码库来方便我们使用准备好的元器件。点击代码抽屉中的"高级"，查看更多的代码选项，并在下拉菜单底部点击"扩展"。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/R5lx5Np.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/R5lx5Np.jpg)
 
 此时，将弹出一个对话框。在对话框中搜索“tinker kit”， 然后点击下载这个代码库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/pduH11r.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/pduH11r.png)
 
 注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
@@ -61,19 +61,19 @@
 
 首先，用图片中所示的OLED选项初始化OLED模块。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_09_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_09_01.png)
 
 这部分的代码可以测量并记录下45秒内2个手指每秒钟的导电性。然后，它会计算出平均数。当测试者没有说谎时，这个被称为Calm（平静）数值。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_09_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_09_02.png)
 
 这部分的代码可以计算45秒内获取的读数的标准偏差。标准偏差说明了这些读数是多么地不同。一个大的标准偏差意味着读数方面更多的不同。积木块“Math.sqrt”主要用于计算所给出的数值的平方根，它被添加到了Javascript里面。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_09_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_09_03.png)
 
 在最初的读数生成并记录之后，湿度传感器每2.5秒测量一次平均导电性。如果测量数据高于标准偏差的平均值，我们可以得出结论：测试者的皮肤导电性明显增强，因此他是在说谎。这时，LED屏幕上会显示一个“X”的形状。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/Tinker_Kit_case_09_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/Tinker_Kit_case_09_04.png)
 
 如果你不想自己编写代码，你也可以通过下面的页面下载完整的代码：
 
@@ -106,15 +106,15 @@
 
 首先，把你的2个手指分别贴在湿度传感器的触角上。如果能用一个橡皮筋绑定，那样会更加简单、有效。（纯属我个人的想法）你可以用不同的方法来实验，例如：使用鳄鱼夹或者是胶布。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/xuKMnsI.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/xuKMnsI.jpg)
 
 现在，开启测谎仪。这时测谎仪将会记录下你的皮肤在平静的状态下的导电性。然后，它将会计算出平均值和标准偏差。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/dMTcolP.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/dMTcolP.jpg)
 
 在最初的读数生成后，请再询问一边测试者！如果测试者说谎了，他就会变得紧张不安，测谎仪就可以检测到他说谎了并且在屏幕上显示一个叉。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ct5NLcZ.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/ct5NLcZ.jpg)
 
 
 ### 步骤5 - 成功！

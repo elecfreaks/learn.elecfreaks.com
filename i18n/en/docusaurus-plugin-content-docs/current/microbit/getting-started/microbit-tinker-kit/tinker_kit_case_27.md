@@ -12,7 +12,7 @@
 ## Goals
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/IduYkyz.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/IduYkyz.gif)
 
 
  1. Make a moving cardboard cat.
@@ -34,7 +34,7 @@
 ## Hardware Step 1 – Choose a cat
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ujaWK5w.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/ujaWK5w.jpg)
 
 - Find a cat image and stick over a cardboard for support.
 - Choose a cat personality of your choice. Happy, relaxed or friendly!
@@ -43,7 +43,7 @@
 ### Step 2 – Connect electronic parts
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cTOOFfU.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/cTOOFfU.jpg)
 
 Connect the following on the breakout board
 
@@ -55,7 +55,7 @@ Connect the following on the breakout board
 
 ### Step 3 – Join up electronics to cardboard
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/6nlQFM9.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/6nlQFM9.png)
 
 
 1. Mount the mini servo to right side of your cardboard cat.
@@ -65,7 +65,7 @@ Connect the following on the breakout board
 ### Step 4 – Code Microbit
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/HINCWOv.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/getting-started/microbit-tinker-kit/images/HINCWOv.png)
 
 
 1. Create block code in make code on the left.

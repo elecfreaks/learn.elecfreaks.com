@@ -4,7 +4,7 @@
 
  OCTOPUS Motor Brick is a type of simple electronic building blocks of the fan motor drive module.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/vu7ViBU.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/vu7ViBU.jpg)
 
 ## Products Link
 
@@ -28,7 +28,7 @@ Size|39.33mm×31.28mm
 ## Outlook and Dimensions
 
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/bFU1faL.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/bFU1faL.jpg)
 
 ## Quick to Start
 
@@ -38,13 +38,13 @@ Size|39.33mm×31.28mm
 
   Take octopus:bit for example
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/ZBTdQp1.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/ZBTdQp1.png)
 
 ### Add Package
 ### Program as the picture shows
 Digital read pin Pl6 to 1 from button A and pin P16 to 0 from Button B.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/3se7TBq.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/output/images/3se7TBq.png)
 
 ### Reference
 Links: [https://makecode.microbit.org/_fUURco9Rj8mH](https://makecode.microbit.org/_fUURco9Rj8mH)

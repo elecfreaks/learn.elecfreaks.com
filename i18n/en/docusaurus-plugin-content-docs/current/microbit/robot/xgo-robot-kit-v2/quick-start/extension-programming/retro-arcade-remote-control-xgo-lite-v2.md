@@ -23,25 +23,25 @@ Writing games, designing plots, customizing characters, and flexible interaction
 
 The micro:bit Retro Arcade and micro:bit XGO Robot Kit V2 both use the micro:bit as the main controller. Based on the Bluetooth function of the micro:bit V2, the two main controllers can communicate with each other. Therefore, this tutorial will program the two devices through the graphical programming platforms: [MakeCode](https://makecode.microbit.org) and [MakeCode Arcade](https://arcade.makecode.com).
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-makecode-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-makecode-011.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-011.png)
 
 ### XGO-lite V2 Programming Environment Preparation
 
 1.  Open the [MakeCode](https://makecode.microbit.org) official website, click **New Project**, name the project and **Create**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-makecode-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-02.png)
 
 2.  Click **Extension** and search for **XGO** in the search bar, select the XGO library, and you can load the XGO library into the makecode platform programming environment
 
-   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-makecode-03.png)
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-makecode-03-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-03-1.png)
 
 ### XGO-lite V2 Programming Example
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-makecode-03-6.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-03-6.png)
 
 Link: https://makecode.microbit.org/_ddT6ypdu34Ap
 
@@ -49,23 +49,23 @@ Link: https://makecode.microbit.org/_ddT6ypdu34Ap
 
 Click **New Project**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-retro-arcade-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-retro-arcade-10.png)
 
 Enter a project name to create a new project.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-retro-arcade-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-retro-arcade-11.png)
 
 To add the wireless communication extension library, click Extend.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-retro-arcade-25.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-retro-arcade-25.png)
 
 Enter "radio" in the search bar and click Search to add the extension library.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-retro-arcade-26.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-retro-arcade-26.png)
 
 ### Retro Arcade Program Example
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-makecode-03-7.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-03-7.png)
 
 
 
@@ -73,15 +73,15 @@ Link: https://makecode.com/_T7FgaeRe294M
 
 As far as the official Arcade platform is concerned, micro:bit V2 (nRF52833) is still in the testing stage, so we need to go to the platform’s settings page to open the hardware options that are still in the experimental version.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-retro-arcade-17.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-retro-arcade-17.png)
 
 Make sure that Experimental Hardware is enabled (you only need to set it once)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-retro-arcade-18.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-retro-arcade-18.png)
 
 Then return to the programming home page, click the download button in the lower left corner, and select N3 in the pop-up selection hardware window to the bottom
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-retro-arcade-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-retro-arcade-19.png)
 
 
 
@@ -91,4 +91,4 @@ You will get a file in .hex format, drag it into the MICROBIT drive letter to ru
 
 ## Case presentation
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-xgo-lite-v2-makecode-0112.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-makecode-0112.gif)

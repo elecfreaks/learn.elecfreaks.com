@@ -12,12 +12,12 @@ The trimpot is a common pressure regulation component. In this case, we are goin
 ## Hardware Connect ##
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/LMsve7H.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/LMsve7H.png)
  Connect circuit as above picture and put 2 AAA batteries to the batteries pack.
 
 ## Principles of Circuits ##
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/VFmWZkG.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/VFmWZkG.png)
 
 The GND of slot on micro:bit is into innards of batteries' GND to generate current loop.
 
@@ -28,7 +28,7 @@ The GND of slot on micro:bit is into innards of batteries' GND to generate curre
  The trimpot is a pressure regulation component which included a resistance and a slide system. The resistance measured varies based on the movement of a knob or slider between the middle terminal and outer terminals.
  There is a 10KΩ trimpot on the experiment box. When it turns left, it will be 0Ω; when it turns right, it will be 10KΩ.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/jHZQhOu.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/jHZQhOu.png)
 
 ## Software
 
@@ -38,11 +38,11 @@ The GND of slot on micro:bit is into innards of batteries' GND to generate curre
 
  Click on "New Project" and set a new Project.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/t34k5Zb.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/t34k5Zb.png)
 
 ### Step 2
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/3Ekc31T.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/3Ekc31T.png)
 
  Snap plot bar graph into the forever to show a bar graph.（A bar graph is a kind of table which can show number by diffrent lengths.）
 
@@ -78,7 +78,7 @@ The GND of slot on micro:bit is into innards of batteries' GND to generate curre
 
  Rotate the trimpot, the height of the bar graph will change.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/WDagGas.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-experiment-box-kit/images/WDagGas.gif)
 
 ## think
 

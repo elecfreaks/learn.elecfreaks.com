@@ -13,9 +13,9 @@ sidebar_label: 遥控模式
 
 2. 机器狗上电后，按**A**或者**B**选择不同模式，按**D**键进入遥控**R.C.模式**后，屏幕会显示机器狗的 IP 地址，ABCD按键示意图如下。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-control-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-control-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-control-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-control-02.png)
 
 
 
@@ -23,30 +23,30 @@ sidebar_label: 遥控模式
 
 
 
-   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-control-03.png)
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-control-03.png)
 
 
 
-   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-control-04.png)
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-control-04.png)
 
 
 
-   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-control-05.png)
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-control-05.png)
 
 
 
-   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-control-06.png)
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-control-06.png)
 
 
 
-   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-control-07.png)
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-control-07.png)
 
 ## 群控模式
 
 启动机器狗示例程序中的 Group 程序，此时机器狗屏幕显示 Ready 字样。
 
-启动 XGOBOT APP，让机器狗和手机在同一个路由下，点击 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-control-08.png)按钮进入群控页面，点击开始即可以让机器狗同步执行表演模式。
+启动 XGOBOT APP，让机器狗和手机在同一个路由下，点击 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-control-08.png)按钮进入群控页面，点击开始即可以让机器狗同步执行表演模式。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-control-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-control-09.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/cm4-xgo-control-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-control-10.png)

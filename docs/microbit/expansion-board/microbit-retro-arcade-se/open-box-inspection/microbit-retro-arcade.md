@@ -18,7 +18,7 @@ sidebar_label: micro:bit Retro Arcade
 
 ### 套装清单
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-retro-arcade-list.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/microbit-retro-arcade-se/open-box-inspection/images/microbit-retro-arcade-list.png)
 
 ## 步骤三：检查外观
 

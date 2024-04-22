@@ -20,7 +20,6 @@
 ### 什么是Scratch
 
 - [Scratch](https://baike.baidu.com/item/Scratch/15493636?fr=aladdin)是麻省理工学院的“终身幼儿园团队”（Lifelong Kindergarten Group）开发的图形化编程工具，主要面对青少年开放。
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/2cf5e0fe9925bc31e1c3fbc850df8db1ca1370c0.jpg)
 
 
 ## 软件准备

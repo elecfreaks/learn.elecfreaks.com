@@ -1,9 +1,9 @@
 ---
 sidebar_position: 5
-sidebar_label: Smart Climate Kit
+sidebar_label: About the micro:bit Smart Climate Kit
 ---
 
-# Smart Climate Kit
+# About the micro:bit Smart Climate Kit
 
 ## Catalogue
 

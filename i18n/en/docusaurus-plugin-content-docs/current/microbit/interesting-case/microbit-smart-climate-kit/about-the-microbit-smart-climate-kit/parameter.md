@@ -9,8 +9,8 @@ sidebar_label: Parameter
 | :-: | :-: |
 | Name | Smart Weather Station Kit |
 | SKU | EF08314 |
- Dimensions | *** |
-| GW | *** |
+ Dimensions | 205 × 130 × 70 mm |
+| GW | 316g |
 | **Power Parameter** |
 | Power Supply | USB-5V |
 | Power Currency | 800 mA |

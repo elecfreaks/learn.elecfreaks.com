@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 2
-sidebar_label: 安全第一
+sidebar_label: Safety First
 ---
 
 # Safety First

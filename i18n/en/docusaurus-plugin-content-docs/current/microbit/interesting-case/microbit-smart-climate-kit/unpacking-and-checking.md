@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 3
-sidebar_label: 开箱自检
+sidebar_label: Unpacking Self-checking
 ---
 
 

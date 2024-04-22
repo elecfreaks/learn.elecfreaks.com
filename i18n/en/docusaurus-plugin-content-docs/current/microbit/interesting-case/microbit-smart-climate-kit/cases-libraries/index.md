@@ -1,11 +1,11 @@
 ---
 sidebar_position: 6
-sidebar_label: 案例库
+sidebar_label: case libraries
 ---
 
-# 案例库
+# case libraries
 
-## 目录
+## directory
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

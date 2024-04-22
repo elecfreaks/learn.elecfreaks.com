@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
-sidebar_label: Case3-Environmental temperature and humidity monitoring device
+sidebar_label: Case 03 Environmental temperature and humidity monitoring device
 ---
 
-# **Case 03: Environmental Temperature and Humidity Monitoring Device**
+# **Case 03 Environmental Temperature and Humidity Monitoring Device**
 
 ## Introduction
 

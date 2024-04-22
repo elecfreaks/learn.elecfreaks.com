@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 1
-sidebar_label: 阅读提示
+sidebar_label: Reading Tips
 ---
 
 

@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 6
-sidebar_label: 软件积木块介绍
+sidebar_label: Blocks Introduction
 ---
 
 # Blocks Introduction

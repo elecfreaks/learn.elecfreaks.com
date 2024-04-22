@@ -104,16 +104,18 @@ IO口使用注意事项
         }}
     />
 </div>
----
+
 
 ## 结论
 ---
 当水位达到警戒水位，micro：bit接收到土壤湿度传感器信号，发送指令给继电器模块，继电器打开，抽水泵导电，将多余的水抽出，当水被抽出，水位低于警戒值，micro：bit关闭继电器，抽水泵停止抽水。
 
 抽水：
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/991WoLx.jpg)
 
 停止抽水：
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/hPf3xtQ.jpg)
 
 ## 思考

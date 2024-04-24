@@ -7,7 +7,7 @@ sidebar_label: Case 01 Ultraviolet Radiation Monitoring Device
 
 ## Introduction
 
-The purpose of this project is to guide students to create a UV-level display device using the UV sensor and micro:bit in the Smart Weather Station Kit. Using a bar graph, the device can display the current UV level and remind people to take appropriate protective measures. Through this project, students will learn how to use the sensor and micro:bit to collect data and visualize the display.
+The purpose of this project is to guide students to create a UV-level display device using the UV sensor and micro:bit in the Smart Climate Kit. Using a bar graph, the device can display the current UV level and remind people to take appropriate protective measures. Through this project, students will learn how to use the sensor and micro:bit to collect data and visualize the display.
 
 ## **Teaching Objectives **
 
@@ -32,7 +32,7 @@ These materials will provide you with a complete experience and ensure that you 
 ### **Introduce**
 
 Have you ever wondered how to program a smart device that can help us monitor the intensity of UV rays and alert us to take appropriate protective measures? Programming is a way of making a computer or device perform tasks according to our instructions. In this lesson, we will explore together how to make a smart UV-level display device using programming and sensor technology.
-Using the UV sensor and micro:bit from the Smart Weather Station Kit, we will program the sensor's data into a visual UV-level display. This device monitors the intensity of UV light in real time and shows us the current UV level in the form of a bar graph.
+Using the UV sensor and micro:bit from the Smart Climate Kit, we will program the sensor's data into a visual UV-level display. This device monitors the intensity of UV light in real time and shows us the current UV level in the form of a bar graph.
 Ready? Now, let's embark on this fun learning journey and explore how to make a smart UV-level display device using programming and sensor technology！
 
 ### **Exploration**

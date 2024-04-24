@@ -7,7 +7,7 @@ sidebar_label: Parameter
 
 | **Production Information** |
 | :-: | :-: |
-| Name | Smart Weather Station Kit |
+| Name | Smart Climate Kit |
 | SKU | EF08314 |
  Dimensions | 205 × 130 × 70 mm |
 | GW | 316g |

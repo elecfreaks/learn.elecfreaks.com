@@ -11,7 +11,7 @@ The aim of this lesson is to guide students to gain a deeper understanding of cl
 
 ## Teaching Objectives
 
-Knowledge Objective: Students will understand the impacts of climate change on the environment and human beings, and acquire basic skills in collecting and analysing climate data, as well as how to use and the principles of the Smart Weather Station Kit.
+Knowledge Objective: Students will understand the impacts of climate change on the environment and human beings, and acquire basic skills in collecting and analysing climate data, as well as how to use and the principles of the Smart Climate Kit.
 
 Skills Objective: Students will be able to build a Smart Weather Station and use sensors to record data such as temperature, humidity and air quality in the environment, and learn to use charts or graphs to present and analyse the data.
 
@@ -44,12 +44,12 @@ Please check the following documents:
 
 ### Introduce
 
-Welcome, students! Today we are going to get into a fascinating topic - climate change. Are you curious to know what climate change means for our lives and environment? Do you want to learn how technology can be used to explore and solve this global challenge? Well today, we will be working together to make an exciting Smart Weather Station and by using the sensors and devices in the Smart Weather Station Kit, we will explore and analyse data such as temperature, humidity and air quality in our environment. Not only will we learn about the importance of climate change, but we will also learn how to take steps to address this global challenge. Together, let's explore the mysteries of climate change, develop environmental awareness, and be a force for change in the world! Ready? Let's get started!
+Welcome, students! Today we are going to get into a fascinating topic - climate change. Are you curious to know what climate change means for our lives and environment? Do you want to learn how technology can be used to explore and solve this global challenge? Well today, we will be working together to make an exciting Smart Weather Station and by using the sensors and devices in the Smart Climate Kit, we will explore and analyse data such as temperature, humidity and air quality in our environment. Not only will we learn about the importance of climate change, but we will also learn how to take steps to address this global challenge. Together, let's explore the mysteries of climate change, develop environmental awareness, and be a force for change in the world! Ready? Let's get started!
 
 ### Exploration
 
 
-Group Practice: Students are divided into small groups and each group builds a Smart Weather Station using the sensors and devices from the Smart Weather Station Kit they created earlier.
+Group Practice: Students are divided into small groups and each group builds a Smart Weather Station using the sensors and devices from the Smart Climate Kit they created earlier.
 
 Data collection: Students use the Smart Weather Station to record data on temperature, humidity and air quality in the environment, with the option of selecting different time periods for recording and saving the data.
 

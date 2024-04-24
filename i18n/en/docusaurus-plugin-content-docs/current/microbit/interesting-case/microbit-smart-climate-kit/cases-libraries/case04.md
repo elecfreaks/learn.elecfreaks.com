@@ -7,7 +7,7 @@ sidebar_label: Case 04 Environmental Dust Monitoring Device
 
 ## Introduction
 
-The aim of this course is to guide students to create an environmental dust monitoring device using the Smart weather Station Kit and display the dust concentration in the environment in real time via an OLED display. Through this hands-on project, students will gain an in-depth understanding of the concept of environmental dust, the factors that affect it, and how to measure and monitor it. In addition, students will learn about the importance of dust to the environment and human health through inquiry activities and extended knowledge.
+The aim of this course is to guide students to create an environmental dust monitoring device using the Smart Climate Kit and display the dust concentration in the environment in real time via an OLED display. Through this hands-on project, students will gain an in-depth understanding of the concept of environmental dust, the factors that affect it, and how to measure and monitor it. In addition, students will learn about the importance of dust to the environment and human health through inquiry activities and extended knowledge.
 
 ## Teaching Objectives
 

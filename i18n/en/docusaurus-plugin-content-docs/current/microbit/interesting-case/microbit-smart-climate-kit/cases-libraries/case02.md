@@ -7,7 +7,7 @@ sidebar_label: Case 02 Anemometer
 
 ## Introduction
 
-This course is designed to show how to build an anemometer using the wind speed sensor and Micro:bit in the Smart Weather Station Kit. Students will learn how to record different wind speeds through programming and sensor technology and display the wind speed data locally through an OLED display. Through this hands-on project, students will learn about the effects of wind and the application of sensors and programming.
+This course is designed to show how to build an anemometer using the wind speed sensor and Micro:bit in the Smart Climate Kit. Students will learn how to record different wind speeds through programming and sensor technology and display the wind speed data locally through an OLED display. Through this hands-on project, students will learn about the effects of wind and the application of sensors and programming.
 
 ## **Teaching Objectives **
 

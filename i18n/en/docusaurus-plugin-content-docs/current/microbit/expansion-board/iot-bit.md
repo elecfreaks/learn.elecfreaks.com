@@ -35,6 +35,7 @@
  |Items|Parameters|Remarks|
  |:-:|:-:|:-:|
  |DC supply|USB-5V|-|
+ |input voltage|3.3V|-|
  |Maximum power current|800mA|-|
  |Operation temperature|-25~80℃|-|
  |WIFI module|Ai-WB2-12F|The WIFI module used in IOT:bit V1.4 and earlier versions is ESP12F|

@@ -18,7 +18,6 @@ sidebar_position: 1
 
 Module | Quantity
 :-: | :-:
-micro:bit |1
 basic:bit|1
 LED Module|1
 Crash Sensor|1

@@ -18,7 +18,6 @@ sidebar_position: 1
 
 Module | Quantity
 :-: | :-:
-basic:bit|1
 LED Module|1
 Crash Sensor|1
 Potentiometer| 1

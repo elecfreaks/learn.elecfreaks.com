@@ -67,18 +67,19 @@ Speech recognition sensor can realize the voice recognition function, and suppor
 | 0×50 | Enter the learning mode and learn the Xth entry | Learn the entries sequentially |
 | 0×60 | Initialization completed | Delete all learned entries |
 
-| Lexical Item | IIC Return Data |
-| :-: | :-: |
-| Learning entry one | 0x50 |
-| Learning entry two | 0x51 |
-| Learning entry three | 0x52 |
-| Learning entry four | 0x53 |
-| Learning entry five | 0x54 |
-| Learning entry six | 0x55 |
-| Learning entry seven | 0x56 |
-| Learning entry eight | 0x57 |
-| Learning entry nine | 0x58 |
-| Learning entry ten | 0x59 |
+| Lexical Item | Feedback Voice | IIC Return Data |
+| :-: | :-: | :-: |
+| Quit learning | Quit learning |  |
+| Learning entry one |  | 0x50 |
+| Learning entry two |  | 0x51 |
+| Learning entry three |  | 0x52 |
+| Learning entry four |  | 0x53 |
+| Learning entry five |  | 0x54 |
+| Learning entry six |  | 0x55 |
+| Learning entry seven |  | 0x56 |
+| Learning entry eight |  | 0x57 |
+| Learning entry nine |  | 0x58 |
+| Learning entry ten |  | 0x59 |
 
 ## Quick Start
 

@@ -142,7 +142,7 @@ Each group will have the opportunity to present the cases they have produced and
 
 *** **Expected results: When connected to the power supply, the micro:bit displays the heart icon first and then the current wind speed on the OLED display according to the current wind speed.** ***
 
-（GIF动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-02.gif)
 
 ### ** Relection **
 

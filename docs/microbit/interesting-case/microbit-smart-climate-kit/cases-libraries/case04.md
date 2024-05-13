@@ -153,7 +153,7 @@ sidebar_label: 案例四：环境灰尘监测装置
 
 *** 预期效果：连接电源后，micro:bit的LED矩阵先显示爱心，然后在OLED显示屏上显示当前灰尘浓度。 ***
 
-（GIF动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-04.gif)
 
 ### 总结与反思
 

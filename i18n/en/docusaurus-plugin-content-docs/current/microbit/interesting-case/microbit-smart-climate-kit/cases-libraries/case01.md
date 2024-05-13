@@ -154,7 +154,7 @@ Each group will have the opportunity to show the cases they made and demonstrate
 
 **Expected results: when connected to the power supply, the micro:bit LED matrix displays a heart icon first, then a smiley face or crying face icon depending on the current UV intensity level.**
 
-（GIF动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-01.gif)
 
 ### ** Reflection **
 

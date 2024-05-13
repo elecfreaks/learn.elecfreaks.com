@@ -164,7 +164,7 @@ sidebar_label: 案例一：紫外线辐射监测装置
 
 *** 预期效果：连接电源后，micro:bit的LED矩阵先显示爱心，然后根据当前紫外线强度等级显示笑脸或者哭脸图标。 ***
 
-（GIF动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-01.gif)
 
 ### 总结与反思
 

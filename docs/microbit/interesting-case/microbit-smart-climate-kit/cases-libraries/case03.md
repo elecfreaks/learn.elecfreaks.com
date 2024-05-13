@@ -152,7 +152,7 @@ DHT11温湿度传感器连接到P1接口，OLED显示屏安装在IoT:bit上。
 
 *** 预期效果：连接电源后，micro:bit的LED矩阵先显示爱心，然后在OLED显示屏上显示当前温湿度。 ***
 
-（GIF动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-03.gif)
 
 ### 总结与反思
 

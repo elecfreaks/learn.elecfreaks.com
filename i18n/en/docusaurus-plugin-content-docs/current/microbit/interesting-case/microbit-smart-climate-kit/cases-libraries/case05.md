@@ -153,7 +153,7 @@ Each group will have the opportunity to present the cases they have produced and
 
 *** Expected results: After connecting to the power supply, the current temperature and humidity, wind speed, UV intensity, noise intensity, and dust concentration are displayed on the OLED display. ***
 
-（GIF动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-05.gif)
 
 ### Reflection
 

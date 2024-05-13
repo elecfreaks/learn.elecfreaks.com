@@ -153,7 +153,7 @@ Each group will have the opportunity to present the cases they have produced and
 
 *** Expected result: When connected to the power supply, the micro:bit LED first shows the heart icon and then the current dust concentration on the OLED display. ***
 
-（GIF动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-04.gif)
 
 ### Reflection
 

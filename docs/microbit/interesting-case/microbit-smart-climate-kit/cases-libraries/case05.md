@@ -151,7 +151,7 @@ sidebar_label: 案例五：智能气候站
 
 *** 预期效果：连接电源后，在OLED显示屏上显示当前温湿度、风速、紫外线强度、噪音强度、灰尘浓度。 ***
 
-（GIF动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-05.gif)
 
 ### 总结与反思
 

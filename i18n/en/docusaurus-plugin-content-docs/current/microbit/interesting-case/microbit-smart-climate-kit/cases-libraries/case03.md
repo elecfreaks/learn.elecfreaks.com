@@ -147,9 +147,9 @@ Students are encouraged to cooperate, communicate and share their experiences wi
 
 Each group will have the opportunity to show the cases they have made and demonstrate to other groups.
 
-*** Expected results: when connected to the power supply, the micro:bit displays the heart icon first and then the current temperature and humidity on the OLED display.** *****
+*** Expected results: when connected to the power supply, the micro:bit displays the heart icon first and then the current temperature and humidity on the OLED display. ***
 
-（GIF动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-03.gif)
 
 ### **Reflection**
 

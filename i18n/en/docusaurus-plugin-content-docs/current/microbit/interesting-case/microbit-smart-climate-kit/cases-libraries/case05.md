@@ -40,6 +40,8 @@ In order to better mount the wind speed sensor to the ELECFREAKS Smart Home Mate
 
 Please check the following documents:
 
+[wooden-stand.dxf](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/images/wooden-stand.dxf)
+
 ## Teaching Process
 
 ### Introduce

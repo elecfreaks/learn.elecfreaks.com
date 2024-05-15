@@ -1,4 +1,4 @@
-﻿# Octopus Wind Speed Sensor Anemometer Three Aluminium Cups(EF04083)
+﻿# Octopus Wind Speed Sensor(EF04083)
 
 ## Introduction
 

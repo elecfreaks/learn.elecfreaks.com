@@ -44,7 +44,7 @@ Support fast charge
 | Battery |400mAh Li-ion battery pack|20 minutes for completing the charge that can operate for more than 40 minutes a time|Anti-explosion|
 | Working Voltage |3.7v~5v|Li-ion battery pack 3.7v，USB 5v|-|
 | Working Temperature |-20℃~60℃|Charge temperature 0℃~40℃|-|
-| Motor Drive |Dual (M1，M2)|Motor drive circuit onboard |3.7V|
+| Motor Drive |Dual (M1，M2)|Motor drive circuit onboard |5V1A|
 | Servo Drive |Eight ways servo connection (S0~S7)|Servo drive circuit onboard|-|
 |  IO Port Lead Out   |     P0、P1、P2、P8、P12、P13、P14、P15、IIC     |                    Support 3V&5V modules                     |                           GVS                            |
 |     Rainbow LED     |             LED0、LED1、LED2、LED3              |               Available for Neopixel database                |              Connect to micro:bit P16 port               |

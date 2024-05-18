@@ -1,21 +1,23 @@
 ﻿---
-sidebar_position: 7
-sidebar_label: 案例七：探索声音的奥秘
+sidebar_position: 9
+sidebar_label: 案例九：探索光照对植物生长的影响
 ---
 
-# 案例七：探索声音的奥秘
+# 案例九：探索光照对植物生长的影响
 
 ## 简介
 
-本项目旨在引导学生使用micro:bit探索声音强度的测量。通过读取麦克风的数据并在OLED显示屏上显示当前噪音强度，学生将了解声音的物理特性，学习如何使用传感器收集环境声音数据，并激发他们对声学科学的兴趣。
+本项目旨在引导学生使用classroom科学套装和micro:bit搭建一个植物生长监测装置。通过LED灯模拟不同的光照条件，学生将能够观察和记录植物的生长变化，进而分析和绘制植物的生长曲线。此项目将加深学生对植物学和环境科学的理解，同时锻炼他们的实验设计和数据分析能力。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-07-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-09-01.png)
 
 ## 教学目标
 
-理解声音强度的物理概念。
-学习如何使用噪音传感器测量声音强度。
-掌握使用micro:bit和OLED显示屏显示数据的方法。
+理解植物生长的基本条件和环境因素。
+
+掌握使用LED灯模拟不同光照条件的方法。
+
+绘制并分析植物的生长曲线。
 
 ## 教学准备
 
@@ -34,23 +36,23 @@ sidebar_label: 案例七：探索声音的奥秘
 
 ### 课程引入
 
-声音是我们日常生活中不可或缺的一部分，但你知道如何科学地测量声音的强度吗？在本节课中，我们将使用噪音传感器和micro:bit来监测和分析我们周围环境的声音强度。
+光照是植物生长发育的关键环境因素之一。它不仅影响植物的光合作用，还影响其生物钟和生长周期。在本节课中，我们将通过搭建一个植物生长监测装置来模拟不同的光照条件，并观察这些条件如何影响植物的生长。
 
 ### 探究活动
 
+1. 学习植物生长的基本条件和环境因素。
 
-1. 学习声音强度的科学单位（分贝）。
+2. 设计对照组实验，使用LED灯模拟不同的光照条件。
 
-2. 设计一个实验，比较不同环境下的声音强度。
+3. 定期记录不同光照条件下植物的生长数据，并绘制生长曲线。
 
-
-
+4. 分析光照条件下植物生长的规律。
 
 ### 硬件连接
 
-将OLED显示屏连接到wukong扩展板的IIC接口。
+此案例使用wukong扩展板上的4颗彩虹灯进行实验，彩虹灯连接引脚为P16。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-06-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-01-06.png)
 
 ### 代码编程
 
@@ -71,18 +73,25 @@ sidebar_label: 案例七：探索声音的奥秘
 
 *** 示例代码 ***
 
-1. 当开机时，初始化OLED显示屏。
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-07-09.png)
-
-2. 通过OLED显示屏显示当前环境音强度。
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-07-10.png)
+1. 显示爱心图标，初始化彩虹灯为4颗并连接到P16端口，设置变量``lightness``为255。
 
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-09-09.png)
+
+2. 通过按钮控制调节变量``lightness``的数值。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-09-10.png)
+
+3. 设置亮度为``lightness``，设置灯光为白色。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-09-11.png)
 
 
-请参考程序连接：[https://makecode.microbit.org/_iq3AfTUY9MUu](https://makecode.microbit.org/_iq3AfTUY9MUu)
+
+
+
+
+请参考程序连接：[https://makecode.microbit.org/_0Hk1dfCuEg38](https://makecode.microbit.org/_0Hk1dfCuEg38)
 
 你也可以通过以下网页直接下载程序。
 
@@ -94,7 +103,7 @@ sidebar_label: 案例七：探索声音的奥秘
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_iq3AfTUY9MUu"
+        src="https://makecode.microbit.org/_0Hk1dfCuEg38"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -136,6 +145,7 @@ sidebar_label: 案例七：探索声音的奥秘
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-08.png)
 
+
 ### 团队合作与展示
 
 学生分成小组，共同完成案例的制作和程序编写。
@@ -144,7 +154,7 @@ sidebar_label: 案例七：探索声音的奥秘
 
 每个小组有机会向其他小组展示他们制作的案例，并演示。
 
-*** 预期效果：OLED显示屏实时显示当前环境的噪音强度。 ***
+*** 预期效果：通过按键控制彩虹灯的灯光亮度 ***
 
 
 
@@ -154,15 +164,15 @@ sidebar_label: 案例七：探索声音的奥秘
 
 引导学生讨论他们在制作过程中遇到的问题和困难，以及如何解决这些问题。
 
-引导学生思考噪音污染对人类和环境的影响，以及如何利用科技手段减少噪音污染。
+引导学生思考光照对植物生长的实际应用，如农业生产和植物栽培。
 
 ## 扩展知识
 
-*** 声音的物理特性 ***
-声音由振动产生，通过介质（如空气）传播。声音的强度用分贝（dB）来衡量，它是一个对数单位，表示声音压力水平的相对大小。
+*** 植物的光合作用 ***
+光合作用是植物在光照条件下，通过叶绿素吸收光能，将二氧化碳和水转化为葡萄糖和氧气的过程。
 
-*** 噪音污染 ***
-噪音污染是指环境中不需要或不愉快的声音。长期暴露在高噪音水平下会对听力造成损害，并可能导致其他健康问题。
+*** 光照周期 ***
+光照周期，或称光周期，是指植物在一天中所接受光照和黑暗的时间长度。不同的植物对光照周期的需求不同，这对植物的生长和开花有重要影响。
 
-*** 传感器的应用 ***
-传感器是将物理量（如声音、光、温度等）转换为电信号的设备。在本项目中，噪音传感器将声音强度转换为电信号，供micro:bit读取和处理。
+*** 生长曲线 ***
+生长曲线是描述植物生长随时间变化的图形，可以用来分析植物的生长速率和生长阶段。

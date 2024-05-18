@@ -85,7 +85,7 @@ sidebar_label: 案例一：光与色彩的奥秘
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-01-09.png)
 
-2. 初始化彩虹灯为一颗并连接到P1端口，设置彩虹灯亮度为3。
+2. 初始化彩虹灯为4颗并连接到P16端口，设置彩虹灯亮度为2。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-01-10.png)
 

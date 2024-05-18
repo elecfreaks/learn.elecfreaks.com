@@ -1,21 +1,23 @@
 ﻿---
-sidebar_position: 7
-sidebar_label: 案例七：探索声音的奥秘
+sidebar_position: 10
+sidebar_label: 案例十：模拟温室环境
 ---
 
-# 案例七：探索声音的奥秘
+# 案例十：模拟温室环境
 
 ## 简介
 
-本项目旨在引导学生使用micro:bit探索声音强度的测量。通过读取麦克风的数据并在OLED显示屏上显示当前噪音强度，学生将了解声音的物理特性，学习如何使用传感器收集环境声音数据，并激发他们对声学科学的兴趣。
+在这个案例中，学生将利用classroom科学套装搭建一个模拟温室环境，使用温湿度传感器监测温度和湿度的变化。通过控制模拟温室中的温度条件，学生将观察并分析温度变化对植物生长的影响，从而深入理解植物生长对环境温度的依赖性。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-07-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-10-01.png)
 
 ## 教学目标
 
-理解声音强度的物理概念。
-学习如何使用噪音传感器测量声音强度。
-掌握使用micro:bit和OLED显示屏显示数据的方法。
+理解温度对植物生长的影响。
+
+学习使用温湿度传感器收集环境数据。
+
+分析环境温度变化对植物生长的具体影响。
 
 ## 教学准备
 
@@ -34,23 +36,23 @@ sidebar_label: 案例七：探索声音的奥秘
 
 ### 课程引入
 
-声音是我们日常生活中不可或缺的一部分，但你知道如何科学地测量声音的强度吗？在本节课中，我们将使用噪音传感器和micro:bit来监测和分析我们周围环境的声音强度。
+温室为植物提供了一个受控的生长环境，其中温度是最关键的因素之一。在本节课中，我们将通过搭建模拟温室环境来研究温度对植物生长的影响。
 
 ### 探究活动
 
+1. 学习温室环境对植物生长的重要性。
 
-1. 学习声音强度的科学单位（分贝）。
+2. 探索如何使用温湿度传感器监测环境温度。
 
-2. 设计一个实验，比较不同环境下的声音强度。
+3. 设计实验，记录不同温度条件下植物的生长数据。
 
-
-
+4. 分析温度变化对植物生长的具体影响
 
 ### 硬件连接
 
-将OLED显示屏连接到wukong扩展板的IIC接口。
+将温湿度传感器连接到wukong扩展板的P1端口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-06-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-01-06.png)
 
 ### 代码编程
 
@@ -71,18 +73,15 @@ sidebar_label: 案例七：探索声音的奥秘
 
 *** 示例代码 ***
 
-1. 当开机时，初始化OLED显示屏。
+1. 显示爱心图标，初始化彩虹灯为4颗并连接到P16端口，设置灯光为白色。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-07-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-10-09.png)
 
-2. 通过OLED显示屏显示当前环境音强度。
+2. 通过LED矩阵显示当前温度。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-07-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-10-10.png)
 
-
-
-
-请参考程序连接：[https://makecode.microbit.org/_iq3AfTUY9MUu](https://makecode.microbit.org/_iq3AfTUY9MUu)
+请参考程序连接：[https://makecode.microbit.org/_XF48ydY92TPH](https://makecode.microbit.org/_XF48ydY92TPH)
 
 你也可以通过以下网页直接下载程序。
 
@@ -94,7 +93,7 @@ sidebar_label: 案例七：探索声音的奥秘
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_iq3AfTUY9MUu"
+        src="https://makecode.microbit.org/_XF48ydY92TPH"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -136,6 +135,7 @@ sidebar_label: 案例七：探索声音的奥秘
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-08.png)
 
+
 ### 团队合作与展示
 
 学生分成小组，共同完成案例的制作和程序编写。
@@ -144,7 +144,7 @@ sidebar_label: 案例七：探索声音的奥秘
 
 每个小组有机会向其他小组展示他们制作的案例，并演示。
 
-*** 预期效果：OLED显示屏实时显示当前环境的噪音强度。 ***
+*** 预期效果：开启机器后彩虹灯常亮，通过温湿度传感器监测模拟温室中的温度变化，观察并记录这些变化对植物生长的影响。***
 
 
 
@@ -154,15 +154,15 @@ sidebar_label: 案例七：探索声音的奥秘
 
 引导学生讨论他们在制作过程中遇到的问题和困难，以及如何解决这些问题。
 
-引导学生思考噪音污染对人类和环境的影响，以及如何利用科技手段减少噪音污染。
+引导学生思考模拟温室环境在现代农业中的应用。
 
 ## 扩展知识
 
-*** 声音的物理特性 ***
-声音由振动产生，通过介质（如空气）传播。声音的强度用分贝（dB）来衡量，它是一个对数单位，表示声音压力水平的相对大小。
+*** 植物对温度的响应 ***
+植物的生长速度、开花时间和结果率都与温度密切相关。不同的植物对温度的适应性不同，了解这些特性对于农业种植至关重要。
 
-*** 噪音污染 ***
-噪音污染是指环境中不需要或不愉快的声音。长期暴露在高噪音水平下会对听力造成损害，并可能导致其他健康问题。
+*** 温室效应 ***
+温室通过捕获太阳辐射来提高内部温度，为植物创造一个温暖且稳定的生长环境。
 
-*** 传感器的应用 ***
-传感器是将物理量（如声音、光、温度等）转换为电信号的设备。在本项目中，噪音传感器将声音强度转换为电信号，供micro:bit读取和处理。
+*** 环境监测 ***
+在现代农业中，环境监测是确保作物健康生长的关键。通过监测温度、湿度、光照等环境因素，农民可以及时调整温室条件，优化作物生长。

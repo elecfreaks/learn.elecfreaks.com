@@ -48,7 +48,7 @@ sidebar_label: 案例八：人体的电波
 
 将土壤湿度传感器连接到wukong扩展板的P1端口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-08-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-03-06.png)
 
 ### 代码编程
 

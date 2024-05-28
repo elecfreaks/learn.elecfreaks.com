@@ -125,22 +125,6 @@ When button A is pressed, the cart moves forward and when it meets a road sign t
 
 ## Expanded Knowledge
 
-*** AI路牌识别的应用及发展 ***
-
-AI路牌识别是一种基于人工智能技术的图像识别应用，用于检测、识别和理解道路上的交通路牌。以下是AI路牌识别的应用和发展方面的一些关键点：
-
-交通管理：AI路牌识别可以帮助交通管理部门监测道路上的交通标志和路牌情况。它可以自动检测和识别交通标志，提供实时的交通信息和指示，帮助驾驶员和行人遵守交通规则和导航。
-
-自动驾驶：在自动驾驶车辆的发展中，AI路牌识别是关键技术之一。它可以帮助自动驾驶车辆辨识和理解道路上的交通标志和指示，以便做出相应的决策和行驶计划。
-
-导航和路径规划：AI路牌识别可以用于实时导航系统，帮助司机和行人确定正确的行驶方向和路径规划。它可以识别路牌上的道路名称、交叉口指示和限速信息，为用户提供准确的导航指引。
-
-城市规划和交通优化：AI路牌识别可以为城市规划和交通优化提供宝贵的数据。通过分析和识别路牌信息，可以了解道路网络的结构、交通流量和交通状况，从而优化交通规划、改善道路设施和提升城市交通效率。
-
-安全监控：AI路牌识别可以用于交通安全监控系统。它可以实时监测道路上的交通标志和路牌，检测异常情况，例如损坏的路牌或缺失的标志。这有助于及时修复和维护交通设施，确保道路的安全性和可靠性。
-
-AI路牌识别的发展已经取得了显著进展，主要得益于深度学习和计算机视觉技术的不断发展。随着算法的不断优化和硬件的提升，AI路牌识别的准确性和实时性得到了显著提升。未来，预计AI路牌识别将进一步发展，更加智能化和全面化，为交通管理、自动驾驶和城市规划等领域带来更多的便利和效益。
-
 *** Application and Development of AI Road Sign Recognition ***
 
 AI Road Sign Recognition is an image recognition application based on Artificial Intelligence technology for detecting, recognising and understanding traffic road signs on roads. Here are some of the key points in terms of application and development of AI Road Sign Recognition:

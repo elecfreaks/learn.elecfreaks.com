@@ -45,7 +45,7 @@
 | 工作电压 |3.7v~5v|锂电池供电3.7v，USB口直供5v|-|
 | 工作温度 |-20℃~60℃|充电温度0℃~40℃|-|
 | 电机驱动 |2路 (M1，M2)|板载电机驱动电路驱动 |5V1A|
-| 舵机驱动 |8路舵机接口 (S0~S7)|板载舵机驱动电路驱动|-|
+| 舵机驱动 |8路舵机接口 (S0~S7)|板载舵机驱动电路驱动|额定电压:3.7V|
 | IO口引出 |P0、P1、P2、P8、P12、P13、P14、P15、IIC|支持拖动3V和5V器件|GVS端子|
 | Rainbow LED |LED0、LED1、LED2、LED3|扩展Rainbow LED库使用|连接到micro:bit引脚P16|
 | 蜂鸣器 |无源蜂鸣器，板载功能开关|使用music库驱动|连接到micro:bit引脚P0|
@@ -77,7 +77,7 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_03.jpg)
 
-### 3V舵机驱动接口
+### 舵机驱动接口
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_04.jpg)
 

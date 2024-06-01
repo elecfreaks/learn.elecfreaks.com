@@ -1,7 +1,7 @@
 ﻿# 3线宽压超声波电子积木
 
 ## 简介
-Sonar:bit是一个3线宽压超声波模块，它可以工作电压为3.0V-5V，3.3v或5V的单片机系统均能使用；它只需要3根线（G、V、S）就可以工作，比常规的4线超声波模块节省一个IO口。Sonar:bit量程为4cm~400cm，测量数据稳定准确，误差仅为±1cm。可应用于短距离测量、智能小车、机器人、Micro:bit、Arduino配套教学等场合。
+Sonar:bit是一个3线宽压超声波模块，它可以工作电压为3.0V-5V，3.3v或5V的单片机系统均能使用；它只需要3根线（G、V、S）就可以工作，比常规的4线超声波模块节省一个IO口。Sonar:bit量程为2cm~400cm，测量数据稳定准确，误差仅为±1cm。可应用于短距离测量、智能小车、机器人、Micro:bit、Arduino配套教学等场合。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04089_01.png)
 
@@ -12,14 +12,24 @@ Sonar:bit是一个3线宽压超声波模块，它可以工作电压为3.0V-5V，
 - 输入电压为3V~5V，micro:bit与arduino均能直接驱动。
 
 - 标准的3线GVS接口，仅占用一个IO口。
+
 ## 技术规格
 ---
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04089_02.png)
+| 项目      | 规格 |
+|------------------|---------------------|
+| 产品名称 | 3线宽压超声波模块    |
+| SKU | EF04089             |
+| 输入电压 | DC 3-5V           |
+| 量程 | 2~400CM           |
+| 精度 | ±1cm                  |
+| 尺寸 | 40.60mm × 51.60mm    |
+| 净重 | 12g     |
 
 
 
+<b>注意：当使用超声波传感器时，应该注意超声波传感器的测量范围，当障碍物与超声波传感器的距离小于2cm或者大于400cm时，超声波传感器返回值为0。</b>
 
 
 

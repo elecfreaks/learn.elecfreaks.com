@@ -20,6 +20,8 @@
 工作电压|3.3V
 核心IC|SNR3512M
 
+
+
 ## 外形与定位尺寸
 
 ---
@@ -55,6 +57,15 @@
 
 *注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
+
+### 程序积木块释义
+
+| 积木命令 | 说明 | 备注 |
+| ------------------------------------------------------- | ------------------------------------------------------------ |------------------------------------------------------------ |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/ASR-program-01.png)  | 设置语音识别传感器进入学习模式 | 进入学习模式后请根据语音引导操作，当学习完成时，请说出：“退出学习”，以退出学习模式。 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/ASR-program-02.png) | 设置语音识别传感器清空已学习词条 | 清空已学习词条，防止学习词条之间造成干扰，注意不要重复录入相同词条，防止程序误判。 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/ASR-program-03.png) | 根据识别到的语音执行相应的程序 | 注意：开机后，请务必说：“你好，小恩”激活语音识别模块之后再进行操作。 |
+
 ### 可选词条
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05037_05.png)
@@ -62,6 +73,9 @@
 ### 步骤 2
 
 ### 语音识别控制案例
+
+
+
 ### 如图所示编写程序
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05037_06.png)
@@ -100,13 +114,16 @@
 
 
 ### 语音识别自学习词条案例
+
+<b>注意：使用语音识别模块的自学习功能时，请先清空当前已学习的词条。</b>
+
 ### 如图所示编写程序
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05037_11.png)
 
 
 ### 参考程序
-请参考程序连接：[https://makecode.microbit.org/_7eT9Vbhq0hHh](https://makecode.microbit.org/_7eT9Vbhq0hHh)
+请参考程序连接：[https://makecode.microbit.org/_f4EagcXP5EKx](https://makecode.microbit.org/_f4EagcXP5EKx)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 
@@ -118,7 +135,7 @@
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_7eT9Vbhq0hHh"
+        src="https://makecode.microbit.org/_f4EagcXP5EKx"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

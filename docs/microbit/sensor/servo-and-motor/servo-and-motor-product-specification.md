@@ -108,7 +108,7 @@
 
 ### 积木电机
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/servo-and-motor/images//motor-2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/servo-and-motor/images/motor-2.png)
 
 | 项目 | 规格 |
 | :-: | :-: |

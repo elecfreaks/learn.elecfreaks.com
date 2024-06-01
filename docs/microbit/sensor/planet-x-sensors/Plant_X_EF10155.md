@@ -1,22 +1,22 @@
 # 灰色积木舵机
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/servo-and-motor/images/servo-1-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/servo-1-1.png)
 
 ## 规格参数
 
 | 项目 | 规格 |
 | :-: | :-: |
 | SKU | EF10155 |
-| 使用环境条件 |  |
+| **使用环境条件** |  |
 | 工作电压 | 4.8V～6V |
 | 工作温度 | -10℃～50℃ |
-| 机械特性 |  |
+| **机械特性** |  |
 | 机械极限角度 | 360° |
 | 重量 | 20± 1g |
 | 舵片规格 | 十字孔双输出（1 个乐高单位深） |
 | 减速比 | 1/300 |
 | 齿轮虚位 | ≤1° |
-| 控制特性 |  |
+| **控制特性** |  |
 | 操作角度 | 360°±10°(在 500→2500 μsec) |
 | 二边角度差       | ≤10°                |
 | 回中差           | ≤2°                 |
@@ -67,7 +67,7 @@
 ### 如图所示编写程序
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/servo-and-motor/images/servo-1-5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/servo-1-5.png)
 
 
 ### 参考程序

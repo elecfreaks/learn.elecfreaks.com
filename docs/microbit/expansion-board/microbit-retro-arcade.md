@@ -213,7 +213,7 @@ Make sure Expermental Hardware is enabled (you only need to set it once)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-18.png)
 
-Then go back to the programming home page, click on the download button in the bottom left corner, and in the pop-up select hardware window pull down to the bottom and select N3
+Then go back to the programming home page, click on the download button in the bottom left corner, and in the pop-up select hardware window pull down to the bottom and select `micro:bit Retro Shield`。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-19.png)
 

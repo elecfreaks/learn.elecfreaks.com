@@ -18,8 +18,8 @@ sidebar_label: 程序下载步骤
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/microbit-retro-arcade-se/images/microbit-retro-arcade-18.png)
 
-接着返回到编程主页，点击左下角的下载按钮，在弹出的选择硬件窗口拉到最底部选择`N3`。
+接着返回到编程主页，点击左下角的下载按钮，在弹出的选择硬件窗口拉到最底部选择`micro:bit Retro Shield`。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/microbit-retro-arcade-se/images/microbit-retro-arcade-19.png)
 
-会得到一个.hex格式的文件，将他拖入到MICROBIT盘符下即可在micro:bit V2 + Microbit Retro Arcade上运行。
+点击下载会得到一个.hex格式的文件，将他拖入到MICROBIT盘符下即可在micro:bit V2 + Microbit Retro Arcade上运行。

@@ -217,7 +217,7 @@ Then go back to the programming home page, click on the download button in the b
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-19.png)
 
-You will get a file in .hex format, drag it into the MICROBIT drive to run it on micro:bit V2 + Microbit Retro Arcade.
+Click to download, you will get a file in .hex format, drag it into the MICROBIT drive to run it on micro:bit V2 + Microbit Retro Arcade.
 
 
 ## More Tutorials

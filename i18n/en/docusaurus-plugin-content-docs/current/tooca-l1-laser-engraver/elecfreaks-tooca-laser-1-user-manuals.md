@@ -7,11 +7,13 @@ sidebar_label: TOOCA L1 Laser Engraver User Manuals
 
 ## Product Information
 
-[TOOCA L1 Laser Engraver_User Manual (v1.0)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/TOOCA%20Laser%201_User%20Manual%20(v1.0).pdf)
+[TOOCA L1 Laser Engraver_User Manual (v1.0)](
+https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/recognize-tooca-laser-1/TOOCA-L1-Laser-Engraver-User-Manual-v1.0.pdf)
 
-[LaserGRBL-User Guide_EN](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/LaserGRBL-User%20Guide_EN.pdf)
+[LaserGRBL-User Guide_EN](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/recognize-tooca-laser-1/LaserGRBL-User-Guide-EN.pdf)
 
-[LightBurn User Guide-EN](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/LightBurn%20User%20Guide-EN.pdf)
+[LightBurn User Guide-EN](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/recognize-tooca-laser-1/LightBurn-User-Guide-EN.pdf
+)
 
 ## Video Tutorials
 ### Installation Video Tutorial

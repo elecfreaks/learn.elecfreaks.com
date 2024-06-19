@@ -15,7 +15,6 @@ RJ11端口设计，防止误插，易于使用。
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/03444_02.png)
 
 
-## 外形与定位尺寸
 
 | 项目 | 参数 |
 | ------------------- | ----------------------------------- |

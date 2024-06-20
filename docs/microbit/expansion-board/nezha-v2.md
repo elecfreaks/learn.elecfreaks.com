@@ -96,7 +96,7 @@ Type-C 充电接口，最大支持5V3A，充电时长50min。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-power-light.png)
 
-指示灯定义如下。
+指示灯图标定义如下。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LED-1.png)表示LED灯常亮
 

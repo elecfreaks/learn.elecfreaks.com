@@ -21,7 +21,7 @@ sidebar_label: 案例二 简易机械爪
 
 [AI摄像头](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
 
-[科创扩展包](https://shop.elecfreaks.com/products/elecfreaks-tpbot-science-and-technology-pack?_pos=3&_sid=11fe49ca3&_ss=r)
+[ELECFREAKS Mechanical Catch](https://shop.elecfreaks.com/products/elecfreaks-mechanical-catch-use-with-cutebot)
 
 
 ## 搭建步骤

@@ -4,8 +4,6 @@
 
 The Nezha Breakout Board V2 is a micro:bit expansion board designed for education and creative programming, aiming to stimulate students' innovative thinking and hands-on skills. It not only integrates two convenient motor control buttons and a 4-way motor driver, but also comes with an 8-way sensor expansion port, providing students with a versatile platform for experimentation and exploration. These motor control buttons allow direct control of the motor's direction of rotation without connecting the micro:bit, increasing flexibility of operation. All interfaces use RJ11 connectors with a dud-proof, anti-reverse plug design to ensure fast and accurate connections. The case of the expansion box is specially designed with interfaces that are compatible with LEGO and Fischertechnik building blocks, supporting students to combine electronic modules with mainstream building blocks to build personalised creative programming creations.
 
-Translated with DeepL.com (free version)
-
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2.png)
 
 ## Characteristics
@@ -103,6 +101,7 @@ Power indicators are able to display the current battery level.
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LED-3.png)表示LED灯闪烁Indicate that the LED is flashing
 
 **Discharging**
+
 | Current Status | LED 1 | LED 2 | LED 3 | LED 4 | Battery Capacity    |
 |----------|-------|-------|-------|-------|---------|
 | Discharging Status | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LED-1.png) | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LED-1.png) | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LED-1.png) | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LED-1.png) | 76% ~ 100% |
@@ -111,6 +110,7 @@ Power indicators are able to display the current battery level.
 |          | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LED-1.png) | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LED-2.png) | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LED-2.png) | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LED-2.png) | 1% ~ 25% |
 
 **Charging**
+
 | Current Status | LED 1 | LED 2 | LED 3 | LED 4 | Battery Capacity    |
 |----------|-------|-------|-------|-------|---------|
 | Charging Status | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LED-1.png) | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LED-1.png) | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LED-1.png) | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LED-1.png) | 100%    |

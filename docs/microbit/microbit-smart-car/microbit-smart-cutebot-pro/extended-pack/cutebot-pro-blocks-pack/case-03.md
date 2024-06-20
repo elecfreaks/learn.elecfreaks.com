@@ -1,3 +1,8 @@
+---
+sidebar_position: 6
+sidebar_label: 案例一 AI路牌识别小车
+---
+
 # 颜色卡片控制cutebot小车
 
 ## 目的

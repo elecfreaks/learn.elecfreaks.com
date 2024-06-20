@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 sidebar_label: 案例一 AI路牌识别小车
 ---
 

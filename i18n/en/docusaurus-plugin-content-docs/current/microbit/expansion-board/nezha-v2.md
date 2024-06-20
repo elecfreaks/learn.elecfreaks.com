@@ -1,4 +1,4 @@
-# V2 Nezha Breakout Board V2
+# Nezha Breakout Board V2
 
 ## Introduction
 

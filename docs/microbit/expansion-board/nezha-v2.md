@@ -92,7 +92,7 @@ Type-C 充电接口，最大支持5V3A，充电时长50min。
 
 ### 电源指示灯
 
-电量指示灯可用于显示酷霸智能车的电量.
+电量指示灯可用于显示电量.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-power-light.png)
 

@@ -1,9 +1,9 @@
 ---
 sidebar_position: 5
-sidebar_label: 案例一 AI路牌识别小车
+sidebar_label: 案例二 简易机械爪
 ---
 
-# AI路牌识别小车
+# 简易机械爪
 
 ## 目的
 

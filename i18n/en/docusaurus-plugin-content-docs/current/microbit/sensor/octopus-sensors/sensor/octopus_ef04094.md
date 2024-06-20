@@ -10,7 +10,7 @@ It can convert the water volume to analog signal easily and the output value can
 
 ***Notice:*** The components above the MAX water level are not waterproof, please do not put them in the water.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04094_00.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04094_01.jpg)
 
 ## Products Link
 

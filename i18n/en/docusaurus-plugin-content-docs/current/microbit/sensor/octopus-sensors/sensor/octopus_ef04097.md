@@ -6,7 +6,7 @@ Octopus Analog Capacitive Soil Moisture Sensor is the soil moisture electric bri
 
 Adopted the capacitive sensing principle to detect the soil moisture, it perfectly avoids the problem of easy to be corroded of the resistive transducer and greatly extends its service time.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04097_00.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04097_00.jpg)
 
 ## Products Link
 

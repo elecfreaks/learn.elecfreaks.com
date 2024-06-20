@@ -6,7 +6,7 @@ Octopus Analog UV sensor (GUVA-S12SD) is the UV electric brick in our Octopus se
 
 It can measure the total UV intensity of the sunlight; linear signal voltage output; and it can be used as UV dosimeters, UV index instrument and flame detection,etc,.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04093_00.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04093_01.png)
 
 ## Products Link
 

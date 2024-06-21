@@ -33,19 +33,24 @@ It can measure the total UV intensity of the sunlight; linear signal voltage out
 
 ## Dimensions and Outlook
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/eNbM5Kz.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04093_00.jpg)
 
 ## Quick to Start
 
 ### Hardware Connection
 
-Connect the module with the wire(with buckle) to the PI pins on the Octopus:bit, insert the micro:bit to the Octopus:bit.
+Connect the module with the wire(with buckle) to the P1 pins on the IOT:bit, insert the micro:bit to the Octopus:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04095_2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-case-01-06.png)
 
 ### Software Programming
 
+
 Programme in the makecode and analog read P1 to get the intensity of the UV that would be displayed on the micro:bit.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04093_03.png)
+
+
 Links: [https://makecode.microbit.org/_4urWJCMeuh4L](https://makecode.microbit.org/_4urWJCMeuh4L)
 
 You can also download it directly:

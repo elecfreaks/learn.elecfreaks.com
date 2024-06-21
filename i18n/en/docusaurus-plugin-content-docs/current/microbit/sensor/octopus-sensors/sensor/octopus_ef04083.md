@@ -4,7 +4,7 @@
 
 This is a wind speed sensor with waterproof design. It has a standard connector for Octopus brick series’ products. Bigger wind speed brings higher output voltage.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/NsSeG42.jpg)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/ef04083.png)
 
 ## Products Link
 

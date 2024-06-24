@@ -15,7 +15,7 @@ AI Accessories Pack combines advanced AI technology with rich hardware modules t
 | Items | Parameter |
 |---|---|
 |Weight| 245g |
-|Packing dimension| 183mm * 86mm * 48mm |
+|Packing dimension| 183mm × 86mm × 48mm |
 
 ## Packing List
 

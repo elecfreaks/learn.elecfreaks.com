@@ -368,7 +368,7 @@ Type-C 充电接口，最大支持5V3A，充电时长50min。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-python-02.png)
 
-设置为Add file Nezha_V2.py，电机Confirm。
+设置为Add file Nezha_V2.py，点击Confirm。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-python-03.png)
 

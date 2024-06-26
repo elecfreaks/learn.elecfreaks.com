@@ -34,16 +34,19 @@ Octopus Water level sensor是我们OCTOPUS系列的水位传感器电子积木�
 ## 外型与定位尺寸
 ---
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04094_01.png)
 
 ## 快速上手
 ---
 ### 硬件连接
 
-将模块通过带扣杜邦线插入octopus:bit上的P1引脚，将micro:bit主板插入octopus:bit。
+将模块通过带扣杜邦线插入sensor:bit上的P1引脚，将micro:bit主板插入sensor:bit。
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04094_02.png)
 
 ### 软件编程
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04094_03.png)
 
 
 程序代码链接：[https://makecode.microbit.org/_4urWJCMeuh4L](https://makecode.microbit.org/_4urWJCMeuh4L)

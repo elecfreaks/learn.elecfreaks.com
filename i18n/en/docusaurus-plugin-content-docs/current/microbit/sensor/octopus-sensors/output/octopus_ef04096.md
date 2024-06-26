@@ -38,19 +38,21 @@ Notice: Please do not shine the eyes. The laser emits a red laser beam that usua
 
 ### Dimensions and Outlook
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/eNbM5Kz.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/eNbM5Kz.png)
 
 ## Quick to Start
 
 ### Hardware Connection
 
-Connect the module with the wire(with buckle) to the PI pins on the Octopus:bit, insert the micro:bit to the Octopus:bit.
+Connect the module with the wire(with buckle) to the PI pins on the sensor:bit, insert the micro:bit to the sensor:bit.
 
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04095_2.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/output/images/04095_2.png)
 
 ### Software Programming
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/output/images/04096_03.png)
 
 Programme in the makecode and write high level to P1 port to make the laser on  and low level to make the laser off.
 Links: [https://makecode.microbit.org/_Lvega7TP6ggz](https://makecode.microbit.org/_Lvega7TP6ggz)

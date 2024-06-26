@@ -33,19 +33,22 @@ It can convert the water volume to analog signal easily and the output value can
 
 ## Dimensions and Outlook
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04094_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04094_01.png)
 
 ## Quick to Start
 
 ### Hardware Connection
 
-Connect the module with the wire(with buckle) to the PI pins on the Octopus:bit, insert the micro:bit to the Octopus:bit.
+Connect the module with the wire(with buckle) to the PI pins on the sensor:bit, insert the micro:bit to the sensor:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04094_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04094_02.png)
 
 ### Software Programming
 
 Programme in the makecode and analog read P1 to get the value of water level that would be showing on the micro:bit.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04093_03.png)
+
 Links: [https://makecode.microbit.org/_4urWJCMeuh4L](https://makecode.microbit.org/_4urWJCMeuh4L)
 
 You can also download it directly:

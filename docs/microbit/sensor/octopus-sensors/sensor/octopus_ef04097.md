@@ -38,7 +38,7 @@ Octopus Analog Capacitive Soil Moisture Sensor是我们OCTOPUS系列的土壤湿
 ---
 ### 硬件连接
 
-将模块通过带扣杜邦线插入octopus:bit上的P1引脚，将micro:bit主板插入octopus:bit。
+将模块通过带扣杜邦线插入sensor:bit上的P1引脚，将micro:bit主板插入sensor:bit。
 
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04097_02.png)

@@ -22,24 +22,28 @@ It can measure the total UV intensity of the sunlight; linear signal voltage out
 
 
  Name: Octopus Analog UV sensor (GUVA-S12SD)
+
  SKU：EF04093
+
  Working Voltage: DC 3~5.5V
+
  Connection Mode: G-GND，V-VCC，S-signal pin
+
  Test Precision: ±1 UV INDEX
+
  Wave length: 200nm-370nm
+
  Response Time: Below 0.5 second
+
  Size: 38.9x23.5mm
+
  Net Weight: 5g
-
-## Dimensions and Outlook
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04093_00.jpg)
 
 ## Quick to Start
 
 ### Hardware Connection
 
-Connect the module with the wire(with buckle) to the P1 pins on the IOT:bit, insert the micro:bit to the Octopus:bit.
+Connect the module with the wire(with buckle) to the P1 pins on the IOT:bit, insert the micro:bit to the IOT:bit.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-case-01-06.png)
 

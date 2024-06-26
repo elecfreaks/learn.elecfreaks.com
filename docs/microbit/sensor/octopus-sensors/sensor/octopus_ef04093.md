@@ -39,9 +39,9 @@ Octopus Analog UV sensor (GUVA-S12SD)是我们OCTOPUS系列的紫外线传感器
 ---
 ### 硬件连接
 
-将模块通过带扣杜邦线插入octopus:bit上的P1引脚，将micro:bit主板插入octopus:bit。
+将模块通过带扣杜邦线插入IOT:bit上的P1引脚，将micro:bit主板插入IOT:bit。
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-case-01-06.png)
 
 ### 软件编程
 

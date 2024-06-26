@@ -29,17 +29,19 @@ Adopted the capacitive sensing principle to detect the soil moisture, it perfect
 
 ### Dimensions and Outlook
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04097_01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04097_01.png)
 
 ## Quick to Start
 
 ### Hardware Connection
 
-Connect the module with the wire(with buckle) to the PI pins on the Octopus:bit, insert the micro:bit to the Octopus:bit.
+Connect the module with the wire(with buckle) to the PI pins on the sensor:bit, insert the micro:bit to the sensor:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/04097_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04097_02.png)
 
 ### Software Programming
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04097_03.png)
 
 Programme in the makecode and analog read P1 to get the value of soil moisture that would be showing on the micro:bit.
 Links:  [https://makecode.microbit.org/_4urWJCMeuh4L](https://makecode.microbit.org/_4urWJCMeuh4L)

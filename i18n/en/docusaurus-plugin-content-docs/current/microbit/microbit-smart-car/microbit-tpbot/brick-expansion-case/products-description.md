@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 sidebar_label: TPBot Science and Technology Pack
 ---
 
@@ -20,11 +20,3 @@ This design comes from our beloved TPbot Smart Car. We believe that by building 
 Whether you are in a school or home environment, the pack is ideal for developing technical skills, fostering innovative thinking, and pursuing scientific exploration. Unleash your creative potential to learn and grow in a fun way from this pack!
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-science-and-technology-pack-01.png)
-
-## Contents
-
-```mdx-code-block
-import DocCardList from '@theme/DocCardList';
-
-<DocCardList />
-```

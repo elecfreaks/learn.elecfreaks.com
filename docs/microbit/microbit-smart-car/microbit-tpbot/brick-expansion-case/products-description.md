@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 sidebar_label: 天蓬科创扩展包
 ---
 
@@ -10,6 +10,7 @@ sidebar_label: 天蓬科创扩展包
 TPbot科创扩展包是专为TPbot智能车设计的。该套装内含180颗多功能积木和一个积木舵机，可用于制作各种创意案例。搭配TPbot智能车，我们共同打造了12个有趣的案例，让您在探索中体验乐趣。
 
 ## 主要特点
+
 1. 丰富的积木：TPbot科创扩展包提供了180颗多样化的积木，形状、尺寸和功能各异。您可以利用这些积木发挥创意，构建出独特的机器人设计。从基础结构到创新装置，积木的多样性将激发您的想象力。
 
 2. 创意案例：我们精心设计了12个有趣的案例，供您尝试。这些案例包括清障小车、格斗小车、叉车、机械爪等等。通过挑战这些案例，您将学习基本的编程原理和机械结构，培养解决问题和创新思维的能力。
@@ -18,12 +19,5 @@ TPbot科创扩展包的设计理念源自我们对于TPbot智能车的热爱。�
 
 不论您身处学校还是家庭环境，TPbot科创扩展包都将是您开发技术技能、培养创新思维和追求科学探索的理想选择。选择TPbot科创扩展包，释放您的创意潜能，让您在乐趣中学习和成长！
 
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/brick-expansion-case/images/tpbot-science-and-technology-pack-01.png)
-
-## 目录
-
-```mdx-code-block
-import DocCardList from '@theme/DocCardList';
-
-<DocCardList />
-```

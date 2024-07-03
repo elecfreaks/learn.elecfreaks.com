@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-sidebar_label: TPBot Science and Technology Pack
+sidebar_label: Products Description
 ---
 
-# TPBot Science and Technology Pack
+# Products Description
 
 ## products-description
 

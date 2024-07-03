@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-sidebar_label: 天蓬科创扩展包
+sidebar_label: 产品简介
 ---
 
-# 天蓬科创扩展包
+# 产品简介
 
 ## 简介
 

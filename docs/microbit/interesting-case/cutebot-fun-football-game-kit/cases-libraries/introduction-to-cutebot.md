@@ -82,13 +82,9 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
 ## 快速入门
 ### 准备工作
 
-将3M双面胶贴在电池盒上面。
-
-
-
 将电池盒的电源线插入cutebot智能赛车。
 
-
+将3M双面胶贴在电池盒上面。
 
 将电池盒贴在cutebot智能赛车上。
 
@@ -111,11 +107,11 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
 
 ### 软件积木块简介及示例
 
-**使用此积木块可单独调整左轮或右轮的速度。**
+#### 设置小车左轮或右轮的速度。
 
 
 
-示例程序:[https://makecode.microbit.org/_bk5A9eTmrE1c](https://makecode.microbit.org/_bk5A9eTmrE1c)
+示例程序:[https://makecode.microbit.org/_iFkPuCA5Y0sV](https://makecode.microbit.org/_iFkPuCA5Y0sV)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
 
@@ -129,7 +125,227 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_bk5A9eTmrE1c"
+        src="https://makecode.microbit.org/_iFkPuCA5Y0sV"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+#### 设置小车以固定速度朝某个方向运行指定时间。
+
+
+
+示例程序:[https://makecode.microbit.org/_dHMRhrhacDmE](https://makecode.microbit.org/_dHMRhrhacDmE)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
+
+你也可以通过以下网页直接下载程序。
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_dHMRhrhacDmE"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+#### 设置小车全速前进。
+
+示例程序:[https://makecode.microbit.org/_4J9M8L5bFTrL](https://makecode.microbit.org/_4J9M8L5bFTrL)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
+
+你也可以通过以下网页直接下载程序。
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_4J9M8L5bFTrL"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+#### 设置小车全速后退。
+
+示例程序:[https://makecode.microbit.org/_8678Dra5K1dz](https://makecode.microbit.org/_8678Dra5K1dz)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
+
+你也可以通过以下网页直接下载程序。
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_8678Dra5K1dz"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+
+#### 设置小车全速左转。
+
+示例程序:[https://makecode.microbit.org/_UCuWoP7i9DrV](https://makecode.microbit.org/_UCuWoP7i9DrV)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
+
+你也可以通过以下网页直接下载程序。
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_UCuWoP7i9DrV"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+#### 设置小车全速右转。
+
+示例程序:[https://makecode.microbit.org/_VKPFY7dmrFrJ](https://makecode.microbit.org/_VKPFY7dmrFrJ)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
+
+你也可以通过以下网页直接下载程序。
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_VKPFY7dmrFrJ"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+
+#### 设置小车立即停车。
+
+示例程序:[https://makecode.microbit.org/_UC5CCUiev484](https://makecode.microbit.org/_UC5CCUiev484)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
+
+你也可以通过以下网页直接下载程序。
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_UC5CCUiev484"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+#### 设置小车车头灯为预设颜色。
+
+示例程序:[https://makecode.microbit.org/_D8D0J9Pth1wV](https://makecode.microbit.org/_D8D0J9Pth1wV)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
+
+你也可以通过以下网页直接下载程序。
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_D8D0J9Pth1wV"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+#### 以RGB模式设置小车车头灯颜色。
+
+示例程序:[https://makecode.microbit.org/_A87DcMPsxM1i](https://makecode.microbit.org/_A87DcMPsxM1i)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
+
+你也可以通过以下网页直接下载程序。
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_A87DcMPsxM1i"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -1,4 +1,4 @@
-﻿# 36 in 1 Nezha-A Breakout Board
+﻿# 3 in 1 Nezha-A Breakout Board
 
 ## Introduction
 ---

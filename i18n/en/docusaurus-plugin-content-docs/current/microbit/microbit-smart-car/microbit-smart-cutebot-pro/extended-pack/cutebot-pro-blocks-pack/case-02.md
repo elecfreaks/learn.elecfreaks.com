@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-sidebar_label: Case2: Simple mechanical gripper trolley
+sidebar_label: Case2:Simple mechanical gripper trolley
 ---
 
 # Simple mechanical gripper trolley

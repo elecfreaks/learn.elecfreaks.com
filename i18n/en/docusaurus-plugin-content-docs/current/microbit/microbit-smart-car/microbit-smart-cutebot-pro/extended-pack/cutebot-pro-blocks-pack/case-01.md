@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-sidebar_label: Case 1 : Vehicles capable of recognizing road signs through AI technology
+sidebar_label: Case 1:Vehicles capable of recognizing road signs through AI technology
 ---
 
 # Case 1 : Vehicles capable of recognizing road signs through AI technology

@@ -1,3 +1,8 @@
+---
+sidebar_position: 8
+sidebar_label: 售后政策
+---
+
 # 售后政策
 
 ## 退换货

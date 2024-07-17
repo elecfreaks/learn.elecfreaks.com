@@ -1,3 +1,9 @@
+---
+sidebar_position: 3
+sidebar_label: Unpacking
+---
+
+
 # Unpacking
 
 The Unpacking Inspection is performed to ensure that the product you have purchased meets your expectations and has not been damaged in any way. Please follow the steps below to perform an unpacking inspection.

@@ -1,3 +1,8 @@
+---
+sidebar_position: 2
+sidebar_label: Safety first (Mandatory reading)
+---
+
 # Safety first (Mandatory reading)
 
 Please read the instructions carefully before usage. Before operating the micro:bit Space Science Kit, make sure that you have read and understood the product's instructions in detail. Follow the instructions in the manual to ensure safe and proper use of the micro:bit Space Science Kit.

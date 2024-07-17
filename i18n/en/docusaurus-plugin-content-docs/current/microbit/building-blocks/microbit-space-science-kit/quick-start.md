@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+sidebar_label: Quick Start
+---
+
 # Quick Start
 
 
@@ -43,7 +48,7 @@ Refer to the connection diagram below, use the RJ11 cable to connect the PlanetX
 
 Program for the Vehicle [microbit-lunar-rover.hex](https://makecode.microbit.org/_93H8UCEqrDvs)
 
-Connect the micro:bit V2 and the PC with the USB cable. 
+Connect the micro:bit V2 and the PC with the USB cable.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-manual03.gif)
 
@@ -55,7 +60,7 @@ Copy the downloaded programme file [microbit-lunar-rover.hex](https://makecode.m
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-read03.png)After successful download, micro:bit V2 will automatically disconnect and reconnect, at this time the programme file [microbit-lunar-rover.hex](https://makecode.microbit.org/_93H8UCEqrDvs) that you copied into MICROBIT will disappear.
 
-### 4. Connect the micro:bit 
+### 4. Connect the micro:bit
 
 Connect the micro:bit V2 board with the Nezha breakout board V2 and turn on the power.
 
@@ -68,6 +73,3 @@ Connect the micro:bit V2 board with the Nezha breakout board V2 and turn on the 
 ### 5. Effect Display
 
 Lay the space map flat on the ground or on a wide, flat tabletop and place the space lunar expedition vehicle to the launch site, see the suggestion picture below.
-
-
-

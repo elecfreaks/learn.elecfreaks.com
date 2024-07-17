@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+sidebar_label: Reading Tips
+---
+
 # Reading Tips
 
 ## Symbols Illustration

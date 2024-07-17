@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+sidebar_label: 帮助技术支持定位问题
+---
+
 # 帮助技术支持定位问题
 
 尊敬的用户，感谢您选择我们的产品~
@@ -32,7 +37,7 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-faq04.png)
 
- ### 固件版本 
+ ### 固件版本
 
 您可以通过以下操作获取目前**哪吒多功能扩展盒V2**的固件版本。
 
@@ -40,13 +45,13 @@
 
 程序链接：https://makecode.microbit.org/_VvkXJjiCuY3v
 
- ### 硬件版本 
+ ### 硬件版本
 
 
 
 
 
- ### 出现故障的项目程序链接 
+ ### 出现故障的项目程序链接
 
 通过以下方式分享您的项目程序给到我们，我们将会使用这个程序来尝试复现您遇到的问题。这可以帮助我们更快的定位问题。
 

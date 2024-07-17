@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+sidebar_label: Help Technical Support Locate the Problem
+---
+
 # Help Technical Support Locate the Problem
 
 Dear User, Thank you for choosing our product!
@@ -32,7 +37,7 @@ After adding the repository switch to JavaScript, click on Explorer in the botto
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-faq04.png)
 
- ### Hardware Version Number 
+ ### Hardware Version Number
 
 You can get the current firmware version of **Nezha Breakout Board V2** by doing the following.
 
@@ -46,7 +51,7 @@ Link: https://makecode.microbit.org/_VvkXJjiCuY3v
 
 
 
- ### Link to the malfunctioning project programme 
+ ### Link to the malfunctioning project programme
 
 Share your project procedure with us by following the link below and we will use it to try to reproduce the problem you are experiencing. This will help us locate the problem faster.
 

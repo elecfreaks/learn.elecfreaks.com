@@ -17,4 +17,5 @@ If you encounter problems during operation, try the following methods for troubl
 
 5. Check the related documents and tutorials to make sure that your operation and code writing are correct.
 
-6. If the problem persists, please check the Help Technical Support Locate the Problem and contact ELECFREAKS team ([support@elecfreaks.com](https://www.yuque.com/elecfreaks-learn/kd75vl/support@elecfreaks.com )) for technical support.
+6. If the problem persists, please check the Help Technical Support Locate the Problem and contact ELECFREAKS team support@elecfreaks.com for technical support.
+

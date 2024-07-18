@@ -17,4 +17,4 @@ sidebar_label: 故障排查
 
 5. 查阅相关文档和教程，确认您的操作和代码编写是否正确。
 
-6. 如果问题仍然存在，请查看《帮助技术支持定位问题》，并联系恩孚科技团队（[support@elecfreaks.com](https://www.yuque.com/elecfreaks-learn/kd75vl/support@elecfreaks.com)）以获得技术支持。
+6. 如果问题仍然存在，请查看《帮助技术支持定位问题》，并联系恩孚科技团队support@elecfreaks.com以获得技术支持。

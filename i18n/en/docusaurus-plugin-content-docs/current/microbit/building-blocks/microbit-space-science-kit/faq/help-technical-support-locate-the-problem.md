@@ -9,7 +9,7 @@ Dear User, Thank you for choosing our product!
 
 Since there are many possibilities we need to consider to understand what is happening with your product, the more information you provide, the better we can understand the situation and the faster we can provide recommendations and resolve the problem.
 
-This article lists some of the key pieces of information that can help us solve the problem. When you send an email to Technical Support at [support@elecfreaks.com](support@elecfreaks.com), please include the following information. Thank you!
+This article lists some of the key pieces of information that can help us solve the problem. When you send an email to Technical Support at support@elecfreaks.com, please include the following information. Thank you!
 
 ## 1. Product Failure Videos
 

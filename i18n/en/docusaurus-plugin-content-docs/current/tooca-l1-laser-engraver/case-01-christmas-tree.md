@@ -33,7 +33,7 @@ Note: This case takes a 2.8mm basswood board as an example. If you need to use d
 
 ## Drawings download link
 
-[ Christmas tree.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/christmas-tree-2/christmas-tree-2.dxf)
+[ Christmas tree.dxf](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/tooca-l1-laser-engraver/recognize-tooca-laser-1/christmas-tree-2.dxf.zip)
 
 ## Effect Show
 

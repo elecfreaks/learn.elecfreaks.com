@@ -1,7 +1,7 @@
 ﻿---
 
 sidebar_position: 8
-sidebar_label: Running Control
+sidebar_label: Case 01:Running Control
 
 ---
 

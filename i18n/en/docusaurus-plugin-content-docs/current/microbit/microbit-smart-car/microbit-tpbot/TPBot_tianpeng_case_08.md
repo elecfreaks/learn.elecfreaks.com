@@ -1,7 +1,7 @@
 ﻿---
 
 sidebar_position: 15
-sidebar_label: Parking at A Set Point
+sidebar_label: Case 08:Parking at A Set Point
 
 ---
 

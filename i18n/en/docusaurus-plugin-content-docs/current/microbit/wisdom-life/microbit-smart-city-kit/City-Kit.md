@@ -1,4 +1,9 @@
-﻿# micro:bit Smart City Kit
+﻿---
+sidebar_position: 2
+sidebar_label: micro:bit Smart City Kit
+---
+
+# micro:bit Smart City Kit
 
 
 ##  Introduction
@@ -6,7 +11,7 @@
 
 - The Smart City Kit has a well-selection of IoT:bit, DHT11 sensor, soil moisture sensor, water level sensor, sonar:bit, servos and etc., we could use it to build such themes as the smart parking lot, transportation network and river level monitoring…, we can use it to learn more about the IoT and program, and more possibilities of the future city scenes are able to be constructed via it!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com//images/microbit-Smart-City-Kit-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-01-01.png)
 
 ## Components List
 ---
@@ -26,4 +31,3 @@ Sonar:bit|1|-
 180° Servo|1|-
 USB Cable|1|-
 Manual Book|1|-
-

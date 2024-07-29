@@ -1,4 +1,9 @@
-﻿# Preparation for the Programming
+﻿---
+sidebar_position: 3
+sidebar_label: Preparation for the Programming
+---
+
+# Preparation for the Programming
 
 ## Programming Environment
 In order to program pico:ed, we need to download and install the programming software thonny, and add the library files of pico:ed, please refer to the following steps: [Programming Environment Preparation for Pico:ed V2](https://www.elecfreaks.com/learn-en/pico-ed/pico_ed_v2_python.html)。

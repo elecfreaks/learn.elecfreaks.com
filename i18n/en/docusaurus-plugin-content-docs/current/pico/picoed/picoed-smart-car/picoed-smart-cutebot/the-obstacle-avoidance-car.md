@@ -1,3 +1,8 @@
+---
+sidebar_position: 10
+sidebar_label: Case 07:The Obstacle Avoidance Car
+---
+
 # Case 07: The Obstacle Avoidance Car
 
 ## Introduction
@@ -15,9 +20,9 @@ from cutebot import *
 import time
 
 # Create a sample for Cutebot category
-cutebot = Cutebot()    
+cutebot = Cutebot()
 
-# While true, keep reading the returned value detected from the ultrasonic sound sensor. 
+# While true, keep reading the returned value detected from the ultrasonic sound sensor.
 # When there is no obstacle in front of the Cutebot, the Cutebot smart car moves forward at 50% speed
 # When there is an obstacle in front of the Cutebot smart car, set the left wheel speed to 50% and the right wheel speed to -50%
 while True:
@@ -41,7 +46,7 @@ import time
 cutebot = Cutebot()
 ```
 
-3. While true, keep reading the returned value detected from the ultrasonic sound sensor. 
+3. While true, keep reading the returned value detected from the ultrasonic sound sensor.
    When there is no obstacle in front of the Cutebot, the Cutebot smart car moves forward at 50% speed.
 
    When there is an obstacle in front of the Cutebot smart car, set the left wheel speed to 50% and the right wheel speed to -50%.

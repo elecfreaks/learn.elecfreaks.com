@@ -1,3 +1,8 @@
+---
+sidebar_position: 9
+sidebar_label: Case 06:The Line-following Car
+---
+
 # Case 06: The Line-following Car
 
 ## Introduction
@@ -9,7 +14,7 @@ Please refer to: [Preparing Programming Environment](http://www.elecfreaks.com/l
 from cutebot import *
 
 #Create a sample for Cutebot category
-cutebot = Cutebot()    
+cutebot = Cutebot()
 
 # While true, detect the status of the line-tracking sensor
 # when both detect the black line, the Cutebot is moving forward at 50% speed.
@@ -36,7 +41,7 @@ from cutebot import *
 cutebot = Cutebot()
 ```
 
-3. While true, detect the status of the line-tracking sensor, when both detect the black line, the Cutebot is moving forward at 50% speed; when the right probe detects that it is off from the black line, set the speed of the left wheel to 0% and the speed of the right wheel to 100%; when the left probe detects that it is off from the black line, set the left wheel speed to 100% and the right wheel speed to 0%. 
+3. While true, detect the status of the line-tracking sensor, when both detect the black line, the Cutebot is moving forward at 50% speed; when the right probe detects that it is off from the black line, set the speed of the left wheel to 0% and the speed of the right wheel to 100%; when the left probe detects that it is off from the black line, set the left wheel speed to 100% and the right wheel speed to 0%.
 
 ```python
 while True:

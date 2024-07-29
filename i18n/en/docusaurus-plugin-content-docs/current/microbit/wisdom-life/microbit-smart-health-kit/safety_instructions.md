@@ -1,4 +1,9 @@
-﻿# Safety instructions
+﻿---
+sidebar_position: 1
+sidebar_label: Safety instructions
+---
+
+# Safety instructions
 
 Before operating the Smart Health Kit, please read and familiarize yourself with the following precautions for use. Users should strictly follow all precautions and ensure that the Smart Health Kit is properly assembled and in proper working condition.
 

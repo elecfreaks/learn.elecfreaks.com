@@ -1,3 +1,8 @@
+---
+sidebar_position: 11
+sidebar_label: Case 08:IR Remote Control Car
+---
+
 # Case 08: IR Remote Control Car
 
 ## Introduction
@@ -9,7 +14,7 @@ Please refer to：[Preparing Programming Environment](http://www.elecfreaks.com/
 | key | return value | key | return value | key | return value |
 | --- | --- | --- | --- | --- | --- |
 | Power | 11 |||||
- | 
+ |
  | MENU | 12 |
 | + | 13 | UP | 14 | Return | 15 |
 | Left| 16 | OK | 17 |Right| 18 |
@@ -23,7 +28,7 @@ Please refer to：[Preparing Programming Environment](http://www.elecfreaks.com/
 from cutebot import *
 
 # Create a sample for Cutebot category
-cutebot = Cutebot()    
+cutebot = Cutebot()
 
 # While true, keep detecting the values received by the IR receiver
 # Control the route of the Cutebot based on the received value

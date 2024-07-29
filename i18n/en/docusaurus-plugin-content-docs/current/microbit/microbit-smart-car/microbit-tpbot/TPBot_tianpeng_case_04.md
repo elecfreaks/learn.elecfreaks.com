@@ -1,7 +1,7 @@
 ﻿---
 
 sidebar_position: 11
-sidebar_label: Obstacle-avoidance Driving
+sidebar_label: Case 04:Obstacle-avoidance Driving
 
 ---
 

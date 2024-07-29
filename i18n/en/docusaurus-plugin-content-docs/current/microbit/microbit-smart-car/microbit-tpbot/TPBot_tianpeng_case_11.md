@@ -1,7 +1,7 @@
 ﻿---
 
 sidebar_position: 18
-sidebar_label: Following with A Fixed Distance
+sidebar_label: Case 11:Following with A Fixed Distance
 
 ---
 

@@ -1,7 +1,7 @@
 ﻿---
 
 sidebar_position: 9
-sidebar_label: Light Control
+sidebar_label: Case 02:Light Control
 
 ---
 

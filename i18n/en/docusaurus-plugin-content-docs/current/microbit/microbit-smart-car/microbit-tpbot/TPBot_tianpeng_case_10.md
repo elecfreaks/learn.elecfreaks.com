@@ -1,7 +1,7 @@
 ﻿---
 
 sidebar_position: 17
-sidebar_label: Fall-arrest TPBot
+sidebar_label: Case 10:Fall-arrest TPBot
 ---
 
 # Case 10: Fall-arrest TPBot

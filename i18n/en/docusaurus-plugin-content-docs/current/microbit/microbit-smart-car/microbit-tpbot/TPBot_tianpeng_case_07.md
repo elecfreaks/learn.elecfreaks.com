@@ -1,7 +1,7 @@
 ﻿---
 
 sidebar_position: 14
-sidebar_label: Here Comes the Police
+sidebar_label: Case 07:Here Comes the Police
 
 ---
 

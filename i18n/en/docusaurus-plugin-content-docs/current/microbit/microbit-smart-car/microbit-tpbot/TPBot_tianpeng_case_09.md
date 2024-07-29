@@ -1,7 +1,7 @@
 ﻿---
 
 sidebar_position: 16
-sidebar_label: Seeking light
+sidebar_label: Case 09:Seeking light
 
 ---
 

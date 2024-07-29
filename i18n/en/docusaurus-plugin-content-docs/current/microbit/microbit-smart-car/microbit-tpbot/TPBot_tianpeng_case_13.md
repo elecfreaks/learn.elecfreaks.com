@@ -1,7 +1,7 @@
 ﻿---
 
 sidebar_position: 20
-sidebar_label: The Line-following and Obstacle-avoidance TPBot
+sidebar_label: Case 13:The Line-following and Obstacle-avoidance TPBot
 ---
 
 # Case 13: The Line-following and Obstacle-avoidance TPBot

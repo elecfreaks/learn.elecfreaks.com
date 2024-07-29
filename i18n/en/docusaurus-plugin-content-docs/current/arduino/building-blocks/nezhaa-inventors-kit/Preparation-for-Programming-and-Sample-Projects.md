@@ -1,3 +1,9 @@
+---
+sidebar_position: 2
+sidebar_label: Quick Start
+---
+
+
 # Quick Start
 
 ## Power supply method
@@ -26,7 +32,7 @@ All sensor connections are RJ11 type with error-proof and plug-proof design, sim
 
 ## Preparation for Programming and Sample Projects
 ### Download and Install Arduino IDE
-The latest version of Arduino IDE is released from the official website:  [https://www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software), download by the system of your computer. 
+The latest version of Arduino IDE is released from the official website:  [https://www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software), download by the system of your computer.
 <br />
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-01.png)
 
@@ -35,11 +41,11 @@ Download the libraries for Nezha-A master board [NezhaA-main.zip](https://github
 <br />
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-02.png)
 <br />
-Connect Nezha-A master board with the computer via the type-c cable. 
+Connect Nezha-A master board with the computer via the type-c cable.
 <br />
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-03.png)
 <br />
-Click tools- port, and set the connections. 
+Click tools- port, and set the connections.
 <br />
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-04.png)
 <br />
@@ -47,14 +53,14 @@ Click on Project - Load Library - Add .Click.
 <br />
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-05.png)
 <br />
-Select NezhaA-main.zip and add the libraries. 
+Select NezhaA-main.zip and add the libraries.
 <br />
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-06.png)
 <br />
-In the same way, import the subsidiary libraries of Adafruit_NeoPixel-master.zip. 
+In the same way, import the subsidiary libraries of Adafruit_NeoPixel-master.zip.
 
 ### Hardware Connections
-Connect the motors and servos to M1, M2, S1, and S2 accordingly. 
+Connect the motors and servos to M1, M2, S1, and S2 accordingly.
 <br />
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-07.png)
 
@@ -82,18 +88,18 @@ void loop() {
   delay((2) * 1000);
 }
 ```
-Click file-save to save the file. 
+Click file-save to save the file.
 <br />
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-08.png)
 <br />
-Set the save routine, give it a name and click save. 
+Set the save routine, give it a name and click save.
 <br />
-Click the upload button to upload the program to the Nezha-A master box. 
+Click the upload button to upload the program to the Nezha-A master box.
 <br />
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/arduino/building-blocks/nezhaa-inventors-kit/images/neza-a-programming-10.png)
 
 ### Result
-After powering on, the two motors start driving and the servos drive to the angle as we set in turn. 
+After powering on, the two motors start driving and the servos drive to the angle as we set in turn.
 ### Sample 2: Play melody
 ```
 #include <NezhaA.h>
@@ -102,7 +108,7 @@ NezhaA nezhaA;    //Create an instance of the NezhaA class
 
 void setup() {
   nezhaA.begin();    //Initiliaze the buzzer, motor, servo and light
-  nezhaA.setTempo(60);    //Set the speed of playing melody via buzzer 
+  nezhaA.setTempo(60);    //Set the speed of playing melody via buzzer
   nezhaA.tone(262, nezhaA.beatsToMS(0.25));    //Set notes and beats of melody
   nezhaA.tone(0, nezhaA.beatsToMS(0.25));    //Set to stop the buzzer
   nezhaA.tone(294, nezhaA.beatsToMS(0.25));

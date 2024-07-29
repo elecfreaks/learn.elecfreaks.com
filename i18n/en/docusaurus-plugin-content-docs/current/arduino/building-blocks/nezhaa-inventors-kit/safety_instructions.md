@@ -1,4 +1,9 @@
-﻿# Safety Instructions
+﻿---
+sidebar_position: 1
+sidebar_label: Safety Instructions
+---
+
+# Safety Instructions
 
 ##  Nezha-A  Precautions for Use
 Nezha-A Master Control Box is an electronic product and we need to pay attention to the following issues in daily use, please read carefully and be aware of the relevant precautions.
@@ -16,4 +21,3 @@ For the first time to use the servo,please adjust the angles first before buildi
 
 ## Notes on the use of PlanetX series sensors
 The planetX series sensors are also electronic components, and the precautions for use are the same as those for items 2, 3, 4, 5, and 6 of the Nezha-A main control box.
-

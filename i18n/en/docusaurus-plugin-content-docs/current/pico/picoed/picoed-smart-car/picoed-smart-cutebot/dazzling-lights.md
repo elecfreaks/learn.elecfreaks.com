@@ -1,3 +1,9 @@
+---
+sidebar_position: 8
+sidebar_label: Case 05:Dazzling Lights
+---
+
+
 # Case 05: Dazzling Lights
 
 ## Introduction
@@ -11,14 +17,14 @@ from random import *
 from time import *
 
 # Create a sample for Cutebot category
-cutebot = Cutebot()    
+cutebot = Cutebot()
 
 #  Set the cutebot smart car to drive forward at 50% speed
 cutebot.set_speed(50,50)
 # Initialize the rainbow light
 cutebot.init_rainbow_leds()
 
-#  While true, change the color of the headlights and the Rainbow LED at random. 
+#  While true, change the color of the headlights and the Rainbow LED at random.
 while True:
 while True:
     R = randint(0, 255)
@@ -63,6 +69,6 @@ while True:
     sleep(1)
 ```
 ## Results
-After powering on, the cutebot smart car moves forward and the lights change the colours at random. 
+After powering on, the cutebot smart car moves forward and the lights change the colours at random.
 ## Exploration
 How do you make the lights switch colors automatically according to the speed of the cutebot smart car?

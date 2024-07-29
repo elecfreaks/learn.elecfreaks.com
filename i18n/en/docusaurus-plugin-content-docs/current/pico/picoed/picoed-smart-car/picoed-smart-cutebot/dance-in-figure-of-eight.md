@@ -1,3 +1,8 @@
+---
+sidebar_position: 6
+sidebar_label: Case 03:Dance in Figure-of-eight
+---
+
 # Case 03: Dance in Figure-of-eight
 
 ## Introduction
@@ -12,7 +17,7 @@ from time import *
 # Create a sample for Cutebot category
 cutebot = Cutebot()
 
-# Turnning by adjusting the different speed of the left and right wheels of the cutebot. 
+# Turnning by adjusting the different speed of the left and right wheels of the cutebot.
 while True:
     cutebot.set_speed(100,50)
     sleep(2)

@@ -1,3 +1,9 @@
+---
+sidebar_position: 7
+sidebar_label: Case 04:Turn Signals Automatically
+---
+
+
 # Case 04: Turn Signals Automatically
 
 ## Introduction
@@ -14,7 +20,7 @@ from time import *
 # Create a sample for Cutebot category
 cutebot = Cutebot()
 
-# Assign the random value among (0,100) to the speed for the two wheels, turn on the sigals light automatically in accordance with the driving directions of the Cutebot. 
+# Assign the random value among (0,100) to the speed for the two wheels, turn on the sigals light automatically in accordance with the driving directions of the Cutebot.
 while True:
     left_speed = randint(0, 100)
     right_speed = randint(0, 100)
@@ -41,7 +47,7 @@ from time import *
 cutebot = Cutebot()
 ```
 
-3. Assign the random value among (0,100) to the speed for the two wheels, turn on the sigals light automatically in accordance with the driving directions of the Cutebot. 
+3. Assign the random value among (0,100) to the speed for the two wheels, turn on the sigals light automatically in accordance with the driving directions of the Cutebot.
 ```python
 while True:
     left_speed = randint(0, 100)

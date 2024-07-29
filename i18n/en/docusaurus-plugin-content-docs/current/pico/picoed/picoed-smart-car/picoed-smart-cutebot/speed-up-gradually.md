@@ -1,3 +1,8 @@
+---
+sidebar_position: 5
+sidebar_label: Case 02:Speed Up Gradually
+---
+
 # Case 02: Speed Up Gradually
 
 ## Introduction

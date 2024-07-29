@@ -1,7 +1,7 @@
 ﻿---
 
 sidebar_position: 19
-sidebar_label: The Shy TPBot
+sidebar_label: Case 12:The Shy TPBot
 
 ---
 

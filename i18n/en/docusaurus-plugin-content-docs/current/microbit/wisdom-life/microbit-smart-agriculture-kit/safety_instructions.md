@@ -1,4 +1,9 @@
-﻿# Safety instructions
+﻿---
+sidebar_position: 1
+sidebar_label: Safety instructions
+---
+
+# Safety instructions
 
 Before operating the Smart Agriculture Kit, please read and familiarize yourself with the following precautions. Users should strictly follow all precautions and ensure that the Smart Agriculture Kit is properly assembled and in proper working condition.
 

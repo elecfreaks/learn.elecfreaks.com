@@ -1,4 +1,4 @@
-﻿# The Opeation of Servos and Motors
+﻿# The Operation of Servos and Motors
 
 ## Hardware Connection
 
@@ -104,4 +104,3 @@ You can also download the program directly from the following webpage and start 
 
 ### Result
 The 180° servo rotates to 0° when button A is pressed, and the 360° servo rotates to 360° when button B is pressed. When button A and button B are pressed simultaneously, the continuous rotation of the servo rotates at 100%.
-

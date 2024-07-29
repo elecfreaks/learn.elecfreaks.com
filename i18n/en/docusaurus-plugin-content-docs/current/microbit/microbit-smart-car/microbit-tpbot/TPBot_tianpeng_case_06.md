@@ -1,7 +1,7 @@
 ﻿---
 
 sidebar_position: 13
-sidebar_label: Drive at Random
+sidebar_label: Case 06:Drive at Random
 
 ---
 

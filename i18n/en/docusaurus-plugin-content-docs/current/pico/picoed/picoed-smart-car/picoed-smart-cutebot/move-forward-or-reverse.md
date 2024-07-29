@@ -1,3 +1,9 @@
+---
+sidebar_position: 4
+sidebar_label: Case 01:Move Forward or Reverse
+---
+
+
 # Case 01: Move Forward or Reverse
 ## Introduction
 Use the A and B buttons on the Pico:ed to control the [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-smart-cutebot-kit-with-pico-ed-board?_pos=2&_sid=40bbc85e4&_ss=r) to complete the basic forward and backward actions.
@@ -10,7 +16,7 @@ from picoed import *
 from cutebot import *
 
 # Create a sample for Cutebot category
-cutebot = Cutebot()    
+cutebot = Cutebot()
 
 # While true, detect whether the A/B button is pressed, control the cutebot to move forward or backward
 while True:

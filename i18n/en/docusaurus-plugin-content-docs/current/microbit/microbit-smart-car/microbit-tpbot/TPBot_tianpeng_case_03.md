@@ -1,7 +1,7 @@
 ﻿---
 
 sidebar_position: 10
-sidebar_label: Line Tracking
+sidebar_label: Case 03:Line Tracking
 
 ---
 

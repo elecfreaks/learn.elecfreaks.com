@@ -1,8 +1,9 @@
 ---
 sidebar_position: 9
+sidebar_label: Sensors and Motors
 ---
 
-# Sensors
+# Sensorservos and Motors
 ---
 
 <cardbox>

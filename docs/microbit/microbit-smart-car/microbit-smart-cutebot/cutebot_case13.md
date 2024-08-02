@@ -57,7 +57,7 @@ sidebar_label: joystick:bit手柄远程控制
 
 #### 程序
 
-请参考程序连接：[https://makecode.microbit.org/_cPUgXJRLuCmH](https://makecode.microbit.org/_cPUgXJRLuCmH)
+请参考程序连接：[https://makecode.microbit.org/_be7MqbdPTi2V](https://makecode.microbit.org/_be7MqbdPTi2V)
 
 你也可以通过以下网页直接下载程序。
 
@@ -69,7 +69,7 @@ sidebar_label: joystick:bit手柄远程控制
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_cPUgXJRLuCmH"
+        src="https://makecode.microbit.org/_be7MqbdPTi2V"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

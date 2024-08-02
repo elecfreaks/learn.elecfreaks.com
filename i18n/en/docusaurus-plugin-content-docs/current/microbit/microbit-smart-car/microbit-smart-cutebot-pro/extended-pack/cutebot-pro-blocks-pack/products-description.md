@@ -8,8 +8,9 @@ sidebar_label: Cutebot Pro blocks pack
 
 # Product Description
 
-In order to fulfill Cutebot Pro users' quest for a smart and interactive experience, we have crafted an exclusive building block expansion pack. This expansion pack is designed to provide an easy-to-follow installation method for users to easily install the Simple Mechanical Claw and AI lens onto the Cutebot Pro at an affordable price.
+Product Description
+To meet the pursuit of an intelligent interactive experience by Cutebot Pro users, we have made its exclusive building block expansion package. Cutebot Pro can use this product to combine with simple mechanical claws and AI lenses.
 
-**NOTE: This expansion block pack is designed specifically for the Cutebot Pro and contains only the structural connecting parts for attaching the Simple Mechanical Jaw or AI Camera. For functionality, it is recommended to use it with the Cutebot Pro and AI Camera or Simple Mechanical Claw.**
+**Note: This expansion block package is designed for Cutebot Pro and only contains structural connection parts for connecting simple mechanical claws or AI cameras. It does not include simple mechanical claws and AI cameras (need to be purchased separately).**
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/extended-pack/cutebot-pro-blocks-pack/images/cutebot-pro-blocks-01.png)

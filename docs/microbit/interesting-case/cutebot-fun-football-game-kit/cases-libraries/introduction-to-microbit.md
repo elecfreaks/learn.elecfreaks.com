@@ -155,3 +155,8 @@ micro:bit从功能上区分有两个版本。
 点击下载程序。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-08.png)
+
+
+### 结果
+
+在micro:bit的LED矩阵上显示跳动的心的效果。

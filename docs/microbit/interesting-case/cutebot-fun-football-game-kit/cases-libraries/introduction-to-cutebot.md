@@ -84,14 +84,39 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
 
 将电池盒的电源线插入cutebot智能赛车。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/Installing-battery-01.png)
+
 将3M双面胶贴在电池盒上面。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/Installing-battery-02.png)
 
 将电池盒贴在cutebot智能赛车上。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/Installing-battery-03.png)
 
+### 编程平台
 
-安装电池
+我们通常使用[图形化编程平台makecode](https://makecode.microbit.org/)对micro:bit进行编程
 
+编程平台入口：[https://makecode.microbit.org/](https://makecode.microbit.org/)
+
+### 新建项目
+
+打开[https://makecode.microbit.org/](https://makecode.microbit.org/)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/makecode.png)
+
+新建项目
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/makecode-new-project-01.png)
+
+输入项目名称并点击创建。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/makecode-new-project-02.png)
+
+进入编辑器界面后我们可以看到Micro:bit Simulator，Toolbox，Workspace。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/makecode-new-project-03.png)
 
 
 
@@ -99,11 +124,35 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
 
 在makecode编程界面的Toolbox点击Extensions。
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/add-extensions-1.png)
 
 在弹出页面搜索`cutebot`，并点击选择cutebot的软件库。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/add-extensions-2.png)
 
+
+
+### 软件积木块解释
+
+| 积木块 | 功能 | 参数 |
+| ------ | ----- | -------- |
+| https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-block-notes-01.png | 设置小车左轮或右轮的速度 | 参数一：数值 <br> 数值范围：-100~100 <br> 参数二：数值 <br> 数值范围：-100~100 |
+| https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-block-notes-02.png | 设置小车以固定速度朝某个方向运行指定时间 | 参数一：下拉选项 <br> 可选项：前进、后退、左、右 <br> 参数二：整数 <br> 数值范围为-100~100 <br> 参数三：自然数 |
+| https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-block-notes-03.png | 设置小车全速前进 |  |
+| https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-block-notes-04.png | 设置小车全速后退 |  |
+| https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-block-notes-05.png | 设置小车全速左转 |  |
+| https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-block-notes-06.png | 设置小车全速右转 |  |
+| https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-block-notes-07.png | 设置小车立刻停车 |  |
+| https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-block-notes-08.png | 设置小车车头灯为预设颜色 | 参数一：下拉选项 <br> 可选项：右侧RGB、左侧RGB、全部 <br> 参数二：下拉选项 <br> 选项：https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-block-notes-08-01.png |
+| https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-block-notes-09.png | 以RGB模式设置小车车头灯颜色 | 参数一：下拉选项 <br> 可选项：右侧RGB、左侧RGB、全部 <br> 参数二：自然数 <br> 数值范围：0 ~ 255 <br> 参数三：自然数 <br> 数值范围：0 ~ 255 <br> 参数四：自然数 <br> 数值范围：0 ~ 255 |
+| https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-block-notes-10.png | 关闭小车车头灯 |  |
+| https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-block-notes-11.png | 判断两个巡线传感器的状态 |  参数一：下拉选项 <br> 可选项：黑黑、白黑、黑白、白白 |
+| https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-block-notes-12.png | 分别判断两个巡线传感器的状态 | 参数一：下拉选项 <br> 可选项：左、右 <br> 参数二：下拉选项 <br> 可选项：找到、丢失 |
+| https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-block-notes-13.png | 当小车的巡线头检测到对应状态时，执行内部程序 | 参数一：下拉选项 <br> 可选项：左、右 <br> 参数二：下拉选项 <br> 可选项：找到、丢失 |
+| https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-block-notes-14.png | 检测小车前方障碍物的距离 | 参数一：下拉选项 <br> 可选项：厘米、英寸 |
+| https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-block-notes-15.png | 设置连接到指定接口的180°舵机转动到指定角度 | 参数一：下拉选项 <br> 可选项：S1、S2 <br> 参数二：自然数 <br> 数值范围：0 ~ 180 |
+| https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-block-notes-16.png | 当接收到红外信号时，执行内部程序 |  |
+| https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-block-notes-17.png | 判断接收到的红外信号信息 | 参数一：下拉选项 <br> 可选项：Menu、Up、Left、Right、Down、OK、Plus、Minus、Back、0、1、2、3、4、5、6、7、8、9 |
 
 ### 软件积木块简介及示例
 
@@ -111,9 +160,9 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
 
 
 
-示例程序:[https://makecode.microbit.org/_iFkPuCA5Y0sV](https://makecode.microbit.org/_iFkPuCA5Y0sV)
+示例程序:[https://makecode.microbit.org/_bV3cyW8JDPp7](https://makecode.microbit.org/_bV3cyW8JDPp7)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-01.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -125,7 +174,7 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_iFkPuCA5Y0sV"
+        src="https://makecode.microbit.org/_bV3cyW8JDPp7"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -135,14 +184,47 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
         }}
     />
 </div>
+
+### 如何将程序下载到micro:bit？
+
+使用USB线连接PC和micro:bit V2。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/connect-microbit.gif)
+
+连接成功后，电脑上会识别出一个名为`MICROBIT`的盘符。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-drive.png)
+
+点击左下角的![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-01.png)，选择`Connect Device`。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-02.png)
+
+点击![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-03.png)。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-04.png)
+
+点击![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-05.png)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-06.png)
+
+
+在弹出窗口选择`BBC micro:bit CMSIS-DAP`，然后选择连接，至此，我们的micro:bit就已经连接成功。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-07.png)
+
+点击下载程序。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-08.png)
+
+### 结果
+
+按下micro:bit的按键A，小车以100%的速度向前行驶。
 
 #### 设置小车以固定速度朝某个方向运行指定时间。
 
+示例程序:[https://makecode.microbit.org/_6sc5d0ij3WL9](https://makecode.microbit.org/_6sc5d0ij3WL9)
 
-
-示例程序:[https://makecode.microbit.org/_dHMRhrhacDmE](https://makecode.microbit.org/_dHMRhrhacDmE)
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-02.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -154,7 +236,7 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_dHMRhrhacDmE"
+        src="https://makecode.microbit.org/_6sc5d0ij3WL9"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -164,12 +246,14 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
         }}
     />
 </div>
+
+*** 结果：按下按键A后，小车以50%的速度朝前行驶5秒后停下。 ***
 
 #### 设置小车全速前进。
 
-示例程序:[https://makecode.microbit.org/_4J9M8L5bFTrL](https://makecode.microbit.org/_4J9M8L5bFTrL)
+示例程序:[https://makecode.microbit.org/_eup6qgbb2gYz](https://makecode.microbit.org/_eup6qgbb2gYz)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -181,7 +265,7 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_4J9M8L5bFTrL"
+        src="https://makecode.microbit.org/_eup6qgbb2gYz"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -191,12 +275,14 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
         }}
     />
 </div>
+
+*** 结果：按下按键A后，小车全速前进。 ***
 
 #### 设置小车全速后退。
 
-示例程序:[https://makecode.microbit.org/_8678Dra5K1dz](https://makecode.microbit.org/_8678Dra5K1dz)
+示例程序:[https://makecode.microbit.org/_acjeice30TKp](https://makecode.microbit.org/_acjeice30TKp)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-04.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -208,7 +294,7 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_8678Dra5K1dz"
+        src="https://makecode.microbit.org/_acjeice30TKp"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -219,12 +305,13 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
     />
 </div>
 
+*** 结果：按下按键A后，小车全速倒退。 ***
 
 #### 设置小车全速左转。
 
-示例程序:[https://makecode.microbit.org/_UCuWoP7i9DrV](https://makecode.microbit.org/_UCuWoP7i9DrV)
+示例程序:[https://makecode.microbit.org/_0PfPA7f83Rmo](https://makecode.microbit.org/_0PfPA7f83Rmo)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-05.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -236,7 +323,7 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_UCuWoP7i9DrV"
+        src="https://makecode.microbit.org/_0PfPA7f83Rmo"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -246,40 +333,14 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
         }}
     />
 </div>
+
+*** 结果：按下按键A后，小车向左转。 ***
 
 #### 设置小车全速右转。
 
-示例程序:[https://makecode.microbit.org/_VKPFY7dmrFrJ](https://makecode.microbit.org/_VKPFY7dmrFrJ)
+示例程序:[https://makecode.microbit.org/_Pz2ebkPvH8p1](https://makecode.microbit.org/_Pz2ebkPvH8p1)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
-
-你也可以通过以下网页直接下载程序。
-
-<div
-    style={{
-        position: 'relative',
-        paddingBottom: '60%',
-        overflow: 'hidden',
-    }}
->
-    <iframe
-        src="https://makecode.microbit.org/_VKPFY7dmrFrJ"
-        frameborder="0"
-        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
-        style={{
-            position: 'absolute',
-            width: '100%',
-            height: '100%',
-        }}
-    />
-</div>
-
-
-#### 设置小车立即停车。
-
-示例程序:[https://makecode.microbit.org/_UC5CCUiev484](https://makecode.microbit.org/_UC5CCUiev484)
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-06.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -291,7 +352,7 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_UC5CCUiev484"
+        src="https://makecode.microbit.org/_Pz2ebkPvH8p1"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -301,12 +362,43 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
         }}
     />
 </div>
+
+*** 结果：按下按键A后，小车向右转。 ***
+
+#### 设置小车立刻停车。
+
+示例程序:[https://makecode.microbit.org/_XDDPKvarbfrK](https://makecode.microbit.org/_XDDPKvarbfrK)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-07.png)
+
+你也可以通过以下网页直接下载程序。
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_XDDPKvarbfrK"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+*** 结果：按下按键A后，小车全速向前行驶5秒，然后停车。 ***
 
 #### 设置小车车头灯为预设颜色。
 
-示例程序:[https://makecode.microbit.org/_D8D0J9Pth1wV](https://makecode.microbit.org/_D8D0J9Pth1wV)
+示例程序:[https://makecode.microbit.org/_FxxXC2e6LTHF](https://makecode.microbit.org/_FxxXC2e6LTHF)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-08.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -318,7 +410,7 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_D8D0J9Pth1wV"
+        src="https://makecode.microbit.org/_FxxXC2e6LTHF"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -328,12 +420,14 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
         }}
     />
 </div>
+
+*** 结果：按下按键A后，小车LED车头灯显示红色。 ***
 
 #### 以RGB模式设置小车车头灯颜色。
 
-示例程序:[https://makecode.microbit.org/_A87DcMPsxM1i](https://makecode.microbit.org/_A87DcMPsxM1i)
+示例程序:[https://makecode.microbit.org/_DJTUyJiesU9q](https://makecode.microbit.org/_DJTUyJiesU9q)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-09.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -345,7 +439,7 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_A87DcMPsxM1i"
+        src="https://makecode.microbit.org/_DJTUyJiesU9q"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -355,3 +449,248 @@ Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器�
         }}
     />
 </div>
+
+*** 结果：按下按键A后，小车LED车头灯显示绿色。 ***
+
+#### 关闭小车车头灯。
+
+示例程序:[https://makecode.microbit.org/_ersCDADdWWV4](https://makecode.microbit.org/_ersCDADdWWV4)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-10.png)
+
+你也可以通过以下网页直接下载程序。
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_ersCDADdWWV4"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+*** 结果：开启电源后，小车车头灯显示蓝色灯光，按下按键A后，小车LED车头灯熄灭。 ***
+
+
+#### 判断两个巡线传感器的状态。
+
+示例程序:[https://makecode.microbit.org/_8dbgTr2ku0Ko](https://makecode.microbit.org/_8dbgTr2ku0Ko)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-11.png)
+
+你也可以通过以下网页直接下载程序。
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_8dbgTr2ku0Ko"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+*** 结果：开启电源后，当小车两个巡线头都检测到黑色区域时，micro:bit显示爱心图标，当小车两个巡线头都检测到白色区域时，micro:bit显示笑脸图标。 ***
+
+#### 分别判断两个巡线传感器的状态。
+
+示例程序:[https://makecode.microbit.org/_PwmF7fP6agxC](https://makecode.microbit.org/_PwmF7fP6agxC)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-12.png)
+
+你也可以通过以下网页直接下载程序。
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_PwmF7fP6agxC"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+*** 结果：开启电源后，当小车左侧巡线头都检测到黑线时，micro:bit显示爱心图标，当小车右侧巡线头都检测到黑线时，micro:bit显示笑脸图标。 ***
+
+
+#### 当小车的巡线头检测到对应状态时，执行内部程序。
+
+示例程序:[https://makecode.microbit.org/_cpLdyi79t9pb](https://makecode.microbit.org/_cpLdyi79t9pb)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-13.png)
+
+你也可以通过以下网页直接下载程序。
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_cpLdyi79t9pb"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+*** 结果：开启电源后，当小车左侧巡线头都检测到黑线时，micro:bit显示爱心图标 ***
+
+#### 检测小车前方障碍物的距离。
+
+示例程序:[https://makecode.microbit.org/_czUc7rFp4Eu2](https://makecode.microbit.org/_czUc7rFp4Eu2)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-14.png)
+
+你也可以通过以下网页直接下载程序。
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_czUc7rFp4Eu2"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+*** 结果：开启电源后，micro:bit显示小车前方障碍物与小车的距离 ***
+
+#### 设置连接到指定接口的180°舵机转动到指定角度。
+
+示例程序:[https://makecode.microbit.org/_99PFCsWEFbTR](https://makecode.microbit.org/_99PFCsWEFbTR)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-15.png)
+
+你也可以通过以下网页直接下载程序。
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_99PFCsWEFbTR"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+*** 结果：通过A、B按键控制连接到S1的舵机的转动角度。 ***
+
+
+#### 当接收到红外信号时，执行内部程序。
+
+*** 注意：此案例需要搭配红外遥控器进行测试。 ***
+
+示例程序:[https://makecode.microbit.org/_LV7E45CaML5t](https://makecode.microbit.org/_LV7E45CaML5t)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-16.png)
+
+你也可以通过以下网页直接下载程序。
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_LV7E45CaML5t"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+*** 结果：当接受到红外信号时，显示爱心图标。 ***
+
+#### 判断接收到的红外信号信息。
+
+*** 注意：此案例需要搭配红外遥控器进行测试。 ***
+
+示例程序:[https://makecode.microbit.org/_7hm0LUXxAYjR](https://makecode.microbit.org/_7hm0LUXxAYjR)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-17.png)
+
+你也可以通过以下网页直接下载程序。
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_7hm0LUXxAYjR"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+*** 结果：当接受到Menu被按下的红外信号时，显示笑脸图标。 ***
+
+
+
+关于cutebot的更多案例，请查看：[https://wiki.elecfreaks.com/en/microbit/microbit-smart-car/microbit-smart-cutebot/](https://wiki.elecfreaks.com/en/microbit/microbit-smart-car/microbit-smart-cutebot/)

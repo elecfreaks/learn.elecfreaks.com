@@ -56,7 +56,7 @@ RJ11端口设计：采用 RJ11 接头，设计上注重防误插特性，简化�
 
 ### 电机控制按钮
 
-通过电机控制按钮控制电机顺时针转动或逆时针转动。
+无需主控板，通过电机控制按钮即可控制电机顺时针转动或逆时针转动。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-button.png)
 
@@ -128,29 +128,45 @@ Type-C 充电接口，最大支持5V3A，充电时长50min。
 3. 充电状态下电量指示灯会显示当前电量，并闪烁
 4. 当充满电时，电源指示灯全部点亮，请断开电源，完成充电。
 
-## 添加专属扩展库
+
+## 快速入门
+
+### 添加专属扩展库
 
 为了给哪吒多功能扩展盒V2编程，我们需要添加一个扩展库。在代码抽屉中找到“扩展”，并点击它。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-add-extension-01.png)
 
-这时会弹出一个对话框，搜索“https://github.com/DeXin64/pxt-nezha2.git”，然后点击下载这个代码库。
+这时会弹出一个对话框，搜索“https://github.com/elecfreaks/pxt-nezha2”，然后点击下载这个代码库。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-add-extension-02.png)
 
 *注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
 
-## 使用方法
+### 软件积木块简介
+
+| 积木块 | 功能 | 参数 |
+| ------ | ----- | -------- |
+| | 设置对应接口的电机以指定方向转动。 | 参数一：下拉选项 <br> 选项：M1、M2、M3、M4 <br> 参数二：下拉选项 <br> 选项：顺时针、逆时针 <br>参数三：整数 <br> 参数四：下拉选项 <br> 选项：度、圈、秒  |
+| | 设置对应接口的电机以指定方向转动指定角度。 | 参数一：下拉选项 <br> 选项：M1、M2、M3、M4 <br> 参数二：下拉选项 <br> 选项：顺时针、逆时针 <br>参数三：整数 |
+| | 设置对应接口的电机以指定方向转动 | 参数一：下拉选项 <br> 选项：M1、M2、M3、M4 <br> 参数二：下拉选项 <br> 选项：顺时针、逆时针 |
+| | 设置对应接口的电机停止运行 | 参数一：下拉选项 <br> 选项：M1、M2、M3、M4 |
+| | 设置对应接口的电机以指定速度运行 |  参数一：下拉选项 <br> 选项：M1、M2、M3、M4 <br> 参数二：整数 <br> 数值范围：-100~100 |
+| | 通过此积木块可以获取当前电机的角度值 |  |
+| | 通过此积木块可以获取当前电机的速度 |  |
+| | 设置对应接口的电机转动到零位 |  |
+| | 设置小车左轮电机和右轮电机的连接接口 | 参数一：下拉选项 <br> 选项：M1、M2、M3、M4 <br> 参数二：下拉选项 <br> 选项：M1、M2、M3、M4  |
+| | 设置小车的速度 | 参数一：数值 <br> 数值范围：-100~100 |
+| | 设置小车停止运行 | 参数一：数值 <br> 数值范围：-100~100 <br> 参数二：数值 <br> 数值范围：-100~100 |
+| | 设置小车前进或者后退 | 参数一：下拉选项 <br> 选项：前进、后退 |
+| | 设置小车左轮和右轮的速度 | 参数一：数值 <br> 数值范围：-100~100 <br> 参数二：数值 <br> 数值范围：-100~100 |
+| | 获取当前固件版本号 |  |
 
 ### 硬件连接
 
-如图所示将PlanetX Smart Brick Motor接入到Nezha Breakout Board V2的电机A接口。
+如图所示将PlanetX Smart Brick Motor接入到Nezha Breakout Board V2的电机M1接口。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-hardware-wiring.png)
-
-### 快速入门
-
-
 
 ### 程序实例
 
@@ -182,6 +198,37 @@ Type-C 充电接口，最大支持5V3A，充电时长50min。
         }}
     />
 </div>
+
+### 如何将程序下载到micro:bit？
+
+使用USB线连接PC和micro:bit V2。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/connect-microbit.gif)
+
+连接成功后，电脑上会识别出一个名为`MICROBIT`的盘符。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-drive.png)
+
+点击左下角的![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-01.png)，选择`Connect Device`。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-02.png)
+
+点击![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-03.png)。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-04.png)
+
+点击![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-05.png)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-06.png)
+
+
+在弹出窗口选择`BBC micro:bit CMSIS-DAP`，然后选择连接，至此，我们的micro:bit就已经连接成功。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-07.png)
+
+点击下载程序。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-08.png)
 
 #### 结果
 

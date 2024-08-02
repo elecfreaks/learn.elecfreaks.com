@@ -48,6 +48,8 @@ RJ11端口设计，防止误插，易于使用。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/03444_04.png)
 
+[https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/file/nezha-Main-Parts-Introduction-V1.2.pdf](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/file/nezha-Main-Parts-Introduction-V1.2.pdf)
+
 ## 添加专属扩展库
 
 在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。

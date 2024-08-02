@@ -111,9 +111,9 @@ Joystick:bit V2是一款基于micro:bit 的游戏手柄。它包含可控制4个
 | 积木块 | 功能 | 参数 |
 | ------ | ----- | -------- |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/joysticks-block-notes-01.png) | 设置手柄震动 | 参数一：自然数 |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/joysticks-block-notes-02.png)  | 获取摇杆X轴或者Y轴的返回值 | 参数一：下拉选项 <br> 选项：X轴、Y轴 |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/joysticks-block-notes-03.png)  | 当指定按键处于设定状态时，运行内部程序 | 参数一：下拉选项 <br> 选项：C、D、E、F <br> 参数二：下拉选项 <br> 选项：按下、松开 |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/joysticks-block-notes-04.png)  | 判断按键状态 | 参数一：下拉选项 <br> 选项：C、D、E、F |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/joysticks-block-notes-02.png)  | 获取摇杆X轴或者Y轴的返回值 | 参数一：下拉选项 <br /> 选项：X轴、Y轴 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/joysticks-block-notes-03.png)  | 当指定按键处于设定状态时，运行内部程序 | 参数一：下拉选项 <br /> 选项：C、D、E、F <br /> 参数二：下拉选项 <br /> 选项：按下、松开 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/joysticks-block-notes-04.png)  | 判断按键状态 | 参数一：下拉选项 <br /> 选项：C、D、E、F |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/joysticks-block-notes-05.png)  | 初始化手柄 |  |
 
 ### 示例程序

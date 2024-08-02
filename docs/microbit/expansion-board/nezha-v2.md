@@ -147,20 +147,20 @@ Type-C 充电接口，最大支持5V3A，充电时长50min。
 
 | 积木块 | 功能 | 参数 |
 | ------ | ----- | -------- |
-| | 设置对应接口的电机以指定方向转动。 | 参数一：下拉选项 <br> 选项：M1、M2、M3、M4 <br> 参数二：下拉选项 <br> 选项：顺时针、逆时针 <br>参数三：整数 <br> 参数四：下拉选项 <br> 选项：度、圈、秒  |
-| | 设置对应接口的电机以指定方向转动指定角度。 | 参数一：下拉选项 <br> 选项：M1、M2、M3、M4 <br> 参数二：下拉选项 <br> 选项：顺时针、逆时针 <br>参数三：整数 |
-| | 设置对应接口的电机以指定方向转动 | 参数一：下拉选项 <br> 选项：M1、M2、M3、M4 <br> 参数二：下拉选项 <br> 选项：顺时针、逆时针 |
-| | 设置对应接口的电机停止运行 | 参数一：下拉选项 <br> 选项：M1、M2、M3、M4 |
-| | 设置对应接口的电机以指定速度运行 |  参数一：下拉选项 <br> 选项：M1、M2、M3、M4 <br> 参数二：整数 <br> 数值范围：-100~100 |
-| | 通过此积木块可以获取当前电机的角度值 |  |
-| | 通过此积木块可以获取当前电机的速度 |  |
-| | 设置对应接口的电机转动到零位 |  |
-| | 设置小车左轮电机和右轮电机的连接接口 | 参数一：下拉选项 <br> 选项：M1、M2、M3、M4 <br> 参数二：下拉选项 <br> 选项：M1、M2、M3、M4  |
-| | 设置小车的速度 | 参数一：数值 <br> 数值范围：-100~100 |
-| | 设置小车停止运行 | 参数一：数值 <br> 数值范围：-100~100 <br> 参数二：数值 <br> 数值范围：-100~100 |
-| | 设置小车前进或者后退 | 参数一：下拉选项 <br> 选项：前进、后退 |
-| | 设置小车左轮和右轮的速度 | 参数一：数值 <br> 数值范围：-100~100 <br> 参数二：数值 <br> 数值范围：-100~100 |
-| | 获取当前固件版本号 |  |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-01.png) | 设置对应接口的电机以指定方向转动。 | 参数一：下拉选项 <br> 选项：M1、M2、M3、M4 <br> 参数二：下拉选项 <br> 选项：顺时针、逆时针 <br>参数三：整数 <br> 参数四：下拉选项 <br> 选项：度、圈、秒  |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-02.png) | 设置对应接口的电机以指定方向转动指定角度。 | 参数一：下拉选项 <br> 选项：M1、M2、M3、M4 <br> 参数二：下拉选项 <br> 选项：顺时针、逆时针 <br>参数三：整数 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-03.png) | 设置对应接口的电机以指定方向转动 | 参数一：下拉选项 <br> 选项：M1、M2、M3、M4 <br> 参数二：下拉选项 <br> 选项：顺时针、逆时针 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-04.png) | 设置对应接口的电机停止运行 | 参数一：下拉选项 <br> 选项：M1、M2、M3、M4 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-05.png) | 设置对应接口的电机以指定速度运行 |  参数一：下拉选项 <br> 选项：M1、M2、M3、M4 <br> 参数二：整数 <br> 数值范围：-100~100 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-06.png) | 通过此积木块可以获取当前电机的角度值 |  |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-07.png) | 通过此积木块可以获取当前电机的速度 |  |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-08.png) | 设置对应接口的电机转动到零位 |  |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-09.png) | 设置小车左轮电机和右轮电机的连接接口 | 参数一：下拉选项 <br> 选项：M1、M2、M3、M4 <br> 参数二：下拉选项 <br> 选项：M1、M2、M3、M4  |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-10.png) | 设置小车的速度 | 参数一：数值 <br> 数值范围：-100~100 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-11.png) | 设置小车停止运行 | 参数一：数值 <br> 数值范围：-100~100 <br> 参数二：数值 <br> 数值范围：-100~100 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-12.png) | 设置小车前进或者后退 | 参数一：下拉选项 <br> 选项：前进、后退 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-13.png) | 设置小车左轮和右轮的速度 | 参数一：数值 <br> 数值范围：-100~100 <br> 参数二：数值 <br> 数值范围：-100~100 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-14.png) | 获取当前固件版本号 |  |
 
 ### 硬件连接
 

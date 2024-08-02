@@ -131,6 +131,22 @@ Type-C 充电接口，最大支持5V3A，充电时长50min。
 
 ## 快速入门
 
+打开[https://makecode.microbit.org/](https://makecode.microbit.org/)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/makecode.png)
+
+### 新建项目
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/makecode-new-project-01.png)
+
+输入项目名称并点击创建。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/makecode-new-project-02.png)
+
+进入编辑器界面后我们可以看到Micro:bit Simulator，Toolbox，Workspace。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/makecode-new-project-03.png)
+
 ### 添加专属扩展库
 
 为了给哪吒多功能扩展盒V2编程，我们需要添加一个扩展库。在代码抽屉中找到“扩展”，并点击它。

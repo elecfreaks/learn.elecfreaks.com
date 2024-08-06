@@ -1,9 +1,9 @@
 ---
 sidebar_position: 9
-sidebar_label: Sensors and Motors
+sidebar_label: Sensor
 ---
 
-# Sensorservos and Motors
+# Sensor
 ---
 
 <cardbox>
@@ -11,12 +11,12 @@ sidebar_label: Sensors and Motors
     href="./octopus-sensors/"
     title="Octopus Sensors"
     description=""
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/octopus-sensors-icon.png'}
+    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/planet-x-sensors-icon.png'}
   />
   <card
     href="./planet-x-sensors/"
     title="Planet X Sensors"
     description=""
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/planet-x-sensors-icon.png'}
+    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/images/octopus-sensors-icon.png'}
   />
 </cardbox>

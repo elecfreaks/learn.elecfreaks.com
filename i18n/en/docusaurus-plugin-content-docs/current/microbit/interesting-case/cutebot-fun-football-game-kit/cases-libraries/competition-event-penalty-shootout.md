@@ -90,7 +90,7 @@ Please follow the steps below to build the goals and set up the field.
 
 ### Programming
 
-You can try to write the program independently, and if you need to refer to it, you can jump to the [remote-control-car]() page.
+You can try to write the program independently, and if you need to refer to it, you can jump to the [remote-control-car](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/football-game-step-12.png) page.
 
 ### Results
 

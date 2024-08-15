@@ -76,7 +76,7 @@ Please follow the steps below to build the goal and arrange the field.
 
 ### Programming
 
-You can try to complete the programming independently. If you need reference, you can jump to the [remote-control-car]() page.
+You can try to complete the programming independently. If you need reference, you can jump to the [remote-control-car](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/football-game-step-12.png) page.
 
 ### Results
 

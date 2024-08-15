@@ -91,7 +91,7 @@ sidebar_label: 点球大战
 
 ### 程序编写
 
-可尝试独立完成程序编写，如果需要参考可跳转到[remote-control-car]()页面。
+可尝试独立完成程序编写，如果需要参考可跳转到[remote-control-car](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/football-game-step-12.png)页面。
 
 ### 结果
 

@@ -3,7 +3,7 @@ sidebar_position: 7
 sidebar_label: Flip a coin
 ---
 
-## Flip a coin ##
+# Flip a coin
 
 ## Introduction
 

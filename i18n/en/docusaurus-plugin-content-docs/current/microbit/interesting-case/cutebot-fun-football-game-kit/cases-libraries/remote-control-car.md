@@ -3,7 +3,7 @@ sidebar_position: 6
 sidebar_label: Remote Control Cars
 ---
 
-## Remote Control Cars
+# Remote Control Cars
 
 ## Introduction
 

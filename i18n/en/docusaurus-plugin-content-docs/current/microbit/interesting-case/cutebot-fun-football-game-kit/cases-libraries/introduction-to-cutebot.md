@@ -3,7 +3,7 @@ sidebar_position: 2
 sidebar_label: Meet the Cutebot Car
 ---
 
-## Meet the Cutebot Car
+# Meet the Cutebot Car
 
 ## Lesson Description
 

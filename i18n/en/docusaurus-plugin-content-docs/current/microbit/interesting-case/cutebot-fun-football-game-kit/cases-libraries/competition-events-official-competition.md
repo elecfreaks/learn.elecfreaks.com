@@ -3,7 +3,7 @@ sidebar_position: 8
 sidebar_label: Official competition
 ---
 
-## Official competition ##
+# Official competition
 
 ## Introduction
 

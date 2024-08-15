@@ -3,7 +3,7 @@ sidebar_position: 9
 sidebar_label: Penalty shootout
 ---
 
-## Penalty shootout ##
+# Penalty shootout
 
 ## Introduction
 

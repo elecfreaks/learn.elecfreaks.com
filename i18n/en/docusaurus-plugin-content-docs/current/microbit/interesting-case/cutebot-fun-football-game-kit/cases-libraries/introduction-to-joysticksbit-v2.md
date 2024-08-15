@@ -3,7 +3,7 @@ sidebar_position: 5
 sidebar_label: 了解Joysticks:bit V2
 ---
 
-## Learn about Joysticks:bit V2
+# Learn about Joysticks:bit V2
 
 ## Course Description
 

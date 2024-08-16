@@ -9,7 +9,7 @@ sidebar_label: 快速入门指南
 
 这份快速入门指南将为您提供使用太空科创套装的简明指引。无论您是否具备编程或者积木搭建经验，本指南都将帮助您迅速掌握基本操作。通过简单的步骤，您将搭建一个实际案例进行体验。让我们一同开启这个令人兴奋的太空探险学习之旅！
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-manual02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case05-200.png)
 
  ## 准备工作
 

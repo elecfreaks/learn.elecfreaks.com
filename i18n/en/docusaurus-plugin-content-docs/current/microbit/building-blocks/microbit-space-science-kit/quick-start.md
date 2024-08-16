@@ -10,7 +10,7 @@ Welcome to the Space Science Kit Quick Start Guide! Let's embark on an exciting 
 
 This Quick Start Guide will provide you with a concise guide to using the Space Science Kit. Whether you have programming or block building experience or not, this guide will help you get up to speed quickly with the basics. In simple steps, you'll build a real-world example to experience. Let's get started on this exciting space adventure together!
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-manual02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case05-200.png)
 
  ## Preparation
 

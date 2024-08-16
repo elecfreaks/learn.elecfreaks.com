@@ -18,7 +18,7 @@ Make sure that all the accessories that come with the product are complete and m
 
 ### Product list
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/unpacking-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-packing-list01.png)
 
 ## 3. Check the appearance
 

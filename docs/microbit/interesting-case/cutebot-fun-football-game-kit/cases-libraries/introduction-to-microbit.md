@@ -10,7 +10,8 @@ sidebar_label: 认识micro:bit
 这节课我们将简单的了解什么是micro:bit，micro:bit有什么功能，并通过一个简单的案例来学习如何对micro:bit进行编程。
 
 ## 课前准备
-
+| **图片** | **名称** | **数量** | **备注** |
+| --- | --- | --- | --- |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/USB-data-cable.png) | USB数据线 | 1 |   |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit.png) | micro:bit | 1 | 自行准备 |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/pc.png) | PC | 1 | 自行准备 |

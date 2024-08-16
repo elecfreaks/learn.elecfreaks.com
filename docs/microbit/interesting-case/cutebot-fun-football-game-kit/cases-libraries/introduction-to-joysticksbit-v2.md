@@ -10,7 +10,8 @@ sidebar_label: 了解Joysticks:bit V2
 这节课我们将简单的了解Joysticks:bit V2的功能和使用。
 
 ## 课前准备
-
+| **图片** | **名称** | **数量** | **备注** |
+| --- | --- | --- | --- |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/joysticksbit.png) | joysticks:bit V2 | 1 |  |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/battery.png) | 7号电池 | 2 | 自行准备 |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/USB-data-cable.png) | USB数据线 | 1 |   |

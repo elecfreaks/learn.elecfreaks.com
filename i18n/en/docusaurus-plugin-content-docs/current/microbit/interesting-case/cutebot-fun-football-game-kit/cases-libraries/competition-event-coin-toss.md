@@ -57,9 +57,9 @@ Enter a project name and click Create.
 
 ### Write a program
 
-Sample Program：[https://makecode.microbit.org/_Wu6gVgC4c9tj](https://makecode.microbit.org/_Wu6gVgC4c9tj)
+Sample Program：[https://makecode.microbit.org/_4hmLq8KzgJEU](https://makecode.microbit.org/_4hmLq8KzgJEU)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/football-game-case-02-01.png)
 
 You can also download the program directly from the following web page.
 
@@ -71,7 +71,7 @@ You can also download the program directly from the following web page.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_bk5A9eTmrE1c"
+        src="https://makecode.microbit.org/_4hmLq8KzgJEU"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

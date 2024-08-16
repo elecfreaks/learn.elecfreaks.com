@@ -10,7 +10,8 @@ sidebar_label: 认识cutebot智能赛车
 这节课我们将简单的了解cutebot智能赛车有什么功能，并通过一个简单的案例来学习如何对cutebot智能赛车进行编程。
 
 ## 课前准备
-
+| **图片** | **名称** | **数量** | **备注** |
+| --- | --- | --- | --- |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot.png) | cutebot | 1 |  |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/battery.png) | 7号电池 | 3 | 自行准备 |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/USB-data-cable.png) | USB数据线 | 1 |   |

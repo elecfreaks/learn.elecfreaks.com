@@ -57,9 +57,9 @@ sidebar_label: 抛硬币
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_Wu6gVgC4c9tj](https://makecode.microbit.org/_Wu6gVgC4c9tj)
+示例程序：[https://makecode.microbit.org/_4hmLq8KzgJEU](https://makecode.microbit.org/_4hmLq8KzgJEU)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-basic-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/football-game-case-02-01.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -71,7 +71,7 @@ sidebar_label: 抛硬币
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_bk5A9eTmrE1c"
+        src="https://makecode.microbit.org/_4hmLq8KzgJEU"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

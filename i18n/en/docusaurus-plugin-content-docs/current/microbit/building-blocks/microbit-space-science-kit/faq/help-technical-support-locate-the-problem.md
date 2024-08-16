@@ -45,11 +45,6 @@ You can get the current firmware version of **Nezha Breakout Board V2** by doing
 
 Link: https://makecode.microbit.org/_VvkXJjiCuY3v
 
- ### Hardware Version
-
-
-
-
 
  ### Link to the malfunctioning project programme
 

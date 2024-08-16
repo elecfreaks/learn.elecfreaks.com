@@ -9,7 +9,7 @@ sidebar_label: 行星系列智能积木马达介绍
 
 行星系列智能积木马达融合高精度舵机与高效电机特性，打造出前所未有的全能驱动核心。它拥有超高的控制精度、瞬时响应速度及强大扭力，同时内置智能保护系统，包括温度监控、堵转检测与电压稳定保护，确保安全稳定的运行环境，为您的创意项目注入澎湃动力。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-motor01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-introduction-05.png)
 
 
 

@@ -13,7 +13,7 @@ Fast charging technology ensures a full charge within 1 hour, supporting up to 4
 
 Fully compatible with building blocks . Upgraded Type-C charging port, 4 power indicator lights and power physical toggle switch further enhance the convenience and intuition of operation, providing students with a powerful aid in their creative journey.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-nezha202.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-introduction-04.png)
 
 ## Features
 

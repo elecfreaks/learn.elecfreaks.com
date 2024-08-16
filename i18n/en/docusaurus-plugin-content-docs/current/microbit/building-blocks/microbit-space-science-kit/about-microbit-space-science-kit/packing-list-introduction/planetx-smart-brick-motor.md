@@ -9,7 +9,7 @@ sidebar_label: PlanetX Smart Brick Motor Introduction
 
 PlanetX Smart Motor combines the features of high-precision servo and high-efficiency motor to create an unprecedented experience. It has ultra-high control accuracy, instantaneous response speed and powerful torque, and built-in intelligent protection system, including temperature monitoring, blocking detection and voltage stability protection, to ensure a safe and stable operating environment.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-motor01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-introduction-05.png)
 
 
 

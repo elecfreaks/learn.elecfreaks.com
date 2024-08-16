@@ -268,7 +268,7 @@ Type **nezha2** in the popup and click on the search icon, click on the **nezha2
 
 ### Example program
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/quick-start-0001.png)
 
 Refer to the program link:
 

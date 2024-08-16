@@ -228,6 +228,8 @@ sidebar_label: 案例07 空间站
 
 参考程序链接：https://makecode.microbit.org/_62C8t2HKbDfK
 
+关于KidsIoT平台的使用请参考这篇文章：https://wiki.elecfreaks.com/en/microbit/wisdom-life/microbit-smart-science-iot-kit/how-to-use-kidsiot/
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-read03.png)**请根据课堂实际情况适当调整行星系列智能积木马达速度。**
 
 ### 下载程序
@@ -270,7 +272,7 @@ sidebar_label: 案例07 空间站
 
 每个小组有机会向其他小组展示他们制作的空间站，并演示。
 
-**预期效果：**。
+**预期效果：**
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case07-74.gif)
 

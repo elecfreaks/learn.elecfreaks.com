@@ -230,6 +230,8 @@ Type **nezha2** in the popup and click on the search icon, click on the **nezha2
 
 Refer to the program link:https://makecode.microbit.org/_62C8t2HKbDfK
 
+Please refer to this article for the use of KidsIoT platform：https://wiki.elecfreaks.com/en/microbit/wisdom-life/microbit-smart-science-iot-kit/how-to-use-kidsiot/
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-read03.png)**Please adjust the speed of the Planet Series Smart Block motor appropriately for your classroom. **
 
 ### Download the program

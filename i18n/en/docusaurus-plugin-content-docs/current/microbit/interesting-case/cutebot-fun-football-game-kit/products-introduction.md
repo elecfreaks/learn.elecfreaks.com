@@ -20,9 +20,9 @@ micro:bit Cutebot Football Game Kit is an educational tool that combines the con
 
 ## Product Features
 
-**Innovative Scene Design**: This product adopts Cutebot as the core and integrates scene-based design, which is not only popular in the market but also favored by users. This design makes the product easy to integrate into familiar environments for users, while bringing a novel experience.
+**Innovative Scene Design**
 
-**Innovative Field and Prop Design**: We have specially designed a football field map and football props to effectively solve the problem of difficult control of small ball rolling in traditional football games. Even in a boundaryless environment, it can maintain the smoothness of the game, greatly enhancing the convenience and interactivity of classroom competitions.
+**Innovative Field and Prop Design**
 
 **Competition-based Educational Model**: Different from traditional case-led educational scenarios, this set adopts a competitive format, stimulating students' competitive consciousness and team spirit, thereby increasing students' interest and participation in learning.
 

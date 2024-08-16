@@ -21,25 +21,25 @@ Develop problem solving and teamwork skills.
 
 Before you start teaching, please make sure you have prepared the following necessary materials:
 
-| **Picture** | Name | Number | **Notes** |
+| **Picture** | **Name** | **Number** | **Notes** |
 | --- | --- | --- | --- |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot_01_01.jpg) | cutebot | 1 |  |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/joystick_v2_01.png) | joysticks:bit V2 | 1 | Prepare on your own |
-|  | AAA battery | 5 |                     |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot.png)  | cutebot | 1 |  |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/joysticksbit.png)  | joysticks:bit V2 | 1 |  |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/battery.png) | AAA battery | 5 | Prepare Yourself |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/USB-data-cable.png) | USB Cable | 1 |   |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit.png) | micro:bit | 2 | Prepare on your own |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/pc.png) | PC | 1 | Prepare on your own |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit.png) | micro:bit | 2 | Prepare Yourself |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/pc.png) | PC | 1 | Prepare Yourself |
 
 These materials will provide you with a complete experience and ensure that you can follow through and learn smoothly. If you are ready for the above, we can move on to the next step.
-﻿
-﻿
+
+
 ## Teaching and Learning Process
 
 ### Introducing the Lesson
 
 In this lesson, we will explore together how to make a fun RC race car by controlling the direction of travel of the cutebot smart race car with the joysticks: bit handle.
 Now, let's start this fun learning journey together! Ready to explore the world of graphical programming with the cutebot smart racer?
-﻿
+
 ### Exploration Activities
 
 - How does the micro:bit's Bluetooth radio work?

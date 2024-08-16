@@ -272,9 +272,9 @@ Students are encouraged to collaborate, communicate and share their experiences 
 
 Each group will have the opportunity to show the other groups the space station they have made and demonstrate it.
 
-**Expected Results:**.
+**Expected Results:**
 
-(GIF motion picture)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case07-74.gif)
 
 ### Summarize and Reflect
 

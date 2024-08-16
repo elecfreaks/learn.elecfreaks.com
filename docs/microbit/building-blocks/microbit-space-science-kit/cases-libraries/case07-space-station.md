@@ -272,7 +272,7 @@ sidebar_label: 案例07 空间站
 
 **预期效果：**。
 
-（GIF动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case07-74.gif)
 
 ### 总结与反思
 

@@ -31,6 +31,8 @@ sidebar_label: 哪吒多功能扩展盒V2介绍
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-nezha201.png)
 
+## 引脚图介绍
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-nezha202.png)
 
 **更多关于哪吒多功能扩展盒V2 的信息请参考：[Nezha Breakout Board V2](https://wiki.elecfreaks.com/en/microbit/expansion-board/nezha-v2/).**

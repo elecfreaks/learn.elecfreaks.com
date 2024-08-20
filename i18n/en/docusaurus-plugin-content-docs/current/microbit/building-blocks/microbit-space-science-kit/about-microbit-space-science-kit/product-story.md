@@ -22,3 +22,5 @@ The micro:bit Space Sciences Kit is more than just a toy; it is a dream incubato
 The micro:bit Space Sciences Kit is the NXP team's promise to the children's future. It is not just an educational tool; it is the beginning of a dream. Together, let us follow the children's imagination, exploring the unknown universe, igniting every heart with the spirit of exploration.
 
 Please note that the translation above assumes ELECFREAKS refers to the NXP team, which might be a specific team or organization related to the development of the micro:bit Space Sciences Kit. If ELECFREAKS should be translated differently or left in its original form, please let me know so I can adjust the translation accordingly.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/product-story.png)

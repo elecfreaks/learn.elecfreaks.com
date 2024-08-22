@@ -9,12 +9,18 @@ sidebar_label: Technical Specifications
 
 ### micro:bit Space Science Kit
 
-| Name                    | micro:bit Space Science Kit |
-| ----------------------- | --------------------------- |
-| SKU                     | EF08413                     |
-| Packing Dimension       | 320mm × 245mm × 145mm       |
-| Outer Packing Dimension | 360mm × 290mm × 180mm       |
-| GW                      | 5kg                         |
+| Name                           | micro:bit Space Science Kit                                  |
+| ------------------------------ | ------------------------------------------------------------ |
+| SKU                            | EF08413                                                      |
+| Packing Dimension              | 320mm × 245mm × 145mm                                        |
+| GW                             | 5kg                                                          |
+| Quantity of Electronic Modules | 10pcs                                                        |
+| Electronic Modules             | Nezha Breakout Board V2, PlanetX Smart Brick Motor*2, PlanetX WIFI Module, PlanetX UV Sensor, PlanetX Tracking Sensor, PlanetX Sonar:bit, PlanetX Soil Moisture Sensor, PlanetX DHT11 Sensor, PlanetX OLED Module |
+| Blocks Material              | Plastic ABS                                                  |
+| Number of Building Blocks      | 400+                                                         |
+| Recomended Age                   | 10+                                                          |
+| Number of Cases             | 8+                                                           |
+| Programming Methods            | MakeCode, Python                                             |
 
 ### Nezha Breakout Board V2
 

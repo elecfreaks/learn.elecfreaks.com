@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 sidebar_label: 产品简介
 ---
 
@@ -10,13 +10,6 @@ micro:bit Cutebot 趣味足球赛套装 一款结合了steam教育理念与足�
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-football-game.png)
 
 
-## 产品参数
-
-| **项目** | **参数** |
-| --- | --- |
-| SKU | EF08414 |
-| 产品尺寸 | 33cm × 19cm × 11cm |
-| 产品重量 | 1420g |
 
 ## 产品特性
 

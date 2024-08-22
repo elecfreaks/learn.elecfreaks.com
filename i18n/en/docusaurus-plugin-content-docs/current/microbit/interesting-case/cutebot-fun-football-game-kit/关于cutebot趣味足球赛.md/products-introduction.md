@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 sidebar_label: Introduction
 ---
 
@@ -9,14 +9,6 @@ micro:bit Cutebot Football Game Kit is an educational tool that combines the con
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/cutebot-football-game.png)
 
-
-## Product Specifications
-
-| **Item** | **Specification** |
-| --- | --- |
-| SKU | EF08414 |
-| Product Dimensions | 33cm × 19cm × 11cm |
-| Product Weight | 1420g |
 
 ## Product Features
 

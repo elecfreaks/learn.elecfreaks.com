@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
-sidebar_label: packing list
+sidebar_label: unpacking
 ---
 
-# Packing list
+# unpacking
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/football-game-packing-list.png)
 

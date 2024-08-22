@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
-sidebar_label: 产品清单
+sidebar_label: 开箱自检
 ---
 
-# 产品清单
+# 开箱自检
 
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/football-game-packing-list.png)

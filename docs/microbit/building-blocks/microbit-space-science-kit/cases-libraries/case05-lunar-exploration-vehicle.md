@@ -229,7 +229,6 @@ sidebar_label: 案例05 月球探险车
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case05-162.png)
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case05-163.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case05-1.png)
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case05-164.png)
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case05-165.png)
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case05-166.png)
@@ -271,7 +270,7 @@ sidebar_label: 案例05 月球探险车
 
 ### 示例程序
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/quick-start-0001.png)
 
 参考程序链接：
 

@@ -17,7 +17,7 @@ sidebar_label: 开箱自检
 
 ### 产品清单
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-packing-list01.png)
 
 
 ## 3、检查外观

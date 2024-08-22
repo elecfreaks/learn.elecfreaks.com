@@ -13,7 +13,7 @@ sidebar_label: 哪吒多功能扩展盒V2介绍
 
 全面兼容积木结构件，激发无限搭建可能。升级Type-C充电口、4颗电量指示灯及电源物理拨动开关，进一步提升使用的便捷性与直观性，为学生的创意之旅提供强大助力。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-nezha202.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-introduction-04.png)
 
 ## 特性
 
@@ -31,6 +31,8 @@ sidebar_label: 哪吒多功能扩展盒V2介绍
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-nezha201.png)
 
+## 引脚图介绍
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-nezha202.png)
 
 **更多关于哪吒多功能扩展盒V2 的信息请参考：[Nezha Breakout Board V2](https://wiki.elecfreaks.com/en/microbit/expansion-board/nezha-v2/).**

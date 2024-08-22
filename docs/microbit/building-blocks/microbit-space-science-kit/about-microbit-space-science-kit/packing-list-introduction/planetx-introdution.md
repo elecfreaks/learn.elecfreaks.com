@@ -4,6 +4,7 @@ sidebar_label: 行星传感器介绍
 ---
 
 # 行星传感器介绍
+行星系列传感器是恩孚团队专为中小学搭建案例研发的一系列传感器组合。具有易于积木搭建、外观漂亮，颜色识别系统等特点。以下是micro:bit 太空科创套装包含的行星系列传感器介绍：
 
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-planetx01.png) | 温湿度传感器是基于DHT11数字温湿度传感元件的模块，对环境温度和湿度变化敏感，可用于温度报警，湿度测试等工作。 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |

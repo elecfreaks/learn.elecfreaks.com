@@ -7,8 +7,6 @@ sidebar_label: 规格参数
 # 规格参数
 
 
-## cutebot趣味足球赛套装
-
 | **项目** | **参数** |
 | --- | --- |
 | 产品名称 | micro:bit cutebot趣味足球赛套装 |

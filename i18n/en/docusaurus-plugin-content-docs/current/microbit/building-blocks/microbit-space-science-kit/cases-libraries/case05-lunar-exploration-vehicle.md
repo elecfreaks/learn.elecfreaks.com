@@ -337,7 +337,7 @@ Each team will have the opportunity to show the other teams and demonstrate the 
 
 **Expected Results:**.
 
-（GIF动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case05-400.gif)
 
 ### Summarize and Reflect
 

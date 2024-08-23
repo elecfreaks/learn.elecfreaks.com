@@ -338,7 +338,7 @@ sidebar_label: 案例05 月球探险车
 
 **预期效果：**。
 
-（GIF动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case05-400.gif)
 
 ### 总结与反思
 

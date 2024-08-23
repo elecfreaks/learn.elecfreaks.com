@@ -103,19 +103,23 @@ Type **nezha2** in the popup and click on the search icon, click on the **nezha2
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-10.png)
 
+### Component Connection
 
+Please refer to the wiring diagram below to connect the components to the corresponding interfaces.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case02-100.png)
 
 ### Sample Code
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case02-42.png)
 
-Link:https://makecode.microbit.org/_VRXeDEDeqHoE
+Link:https://makecode.microbit.org/_e329vvKt0cub
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-read03.png) ***Please adjust the speed of the PlanetX Smart Motor appropriately for your classroom. **
 
 ### Download the Program
 
-Connect your PC with the micro:bit V2 through the USB cable. 
+Connect your PC with the micro:bit V2 through the USB cable.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-manual03.gif)
 
@@ -127,7 +131,7 @@ Click the left corner ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/doc
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-manual11.png)
 
-Click ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-manual08.png). 
+Click ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-manual08.png).
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-manual12.png)
 

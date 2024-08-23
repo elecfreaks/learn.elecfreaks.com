@@ -281,13 +281,17 @@ Type **nezha2** in the popup and click on the search icon, click on the **nezha2
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-10.png)
 
+### Component Connection
 
+Please refer to the wiring diagram below to connect the components to the corresponding interfaces.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case05-300.png)
 
 ### Example program
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/quick-start-0001.png)
 
-Refer to the program link:
+Refer to the program link: https://makecode.microbit.org/_RJ2MxEfs2TDJ
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-read03.png)**Please adjust the speed of the Planet Series Smart Block motor appropriately for your classroom. **
 

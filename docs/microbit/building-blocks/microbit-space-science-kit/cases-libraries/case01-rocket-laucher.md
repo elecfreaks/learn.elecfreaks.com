@@ -80,13 +80,17 @@ sidebar_label: 案例01 火箭发射台
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-10.png)
 
+### 元器件连接
 
+请参考下面连线图，将元器件连接到对应的接口：
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case01-100.png)
 
 ### 示例程序
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case01-56.png)
 
-参考程序链接：https://makecode.microbit.org/_2eWVf97HWc8T
+参考程序链接：https://makecode.microbit.org/_Tr5RoqfMtA1J
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-read03.png)**请根据课堂实际情况适当调整行星系列智能积木马达速度。**
 
@@ -192,4 +196,3 @@ sidebar_label: 案例01 火箭发射台
 - **兼容性**：某些发射台可以适应不同类型的火箭，这要求发射台具有一定的灵活性和调整能力。
 
 火箭发射台是航天发射任务成功的关键要素之一，其设计和操作体现了航天工程学的高精度和复杂性。
-

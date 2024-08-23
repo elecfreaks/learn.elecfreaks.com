@@ -184,7 +184,11 @@ sidebar_label: 案例08 太空实验
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-10.png)
 
+### 元器件连接
 
+请参考下面连线图，将元器件连接到对应的接口：
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case08-100.png)
 
 ### 示例程序
 

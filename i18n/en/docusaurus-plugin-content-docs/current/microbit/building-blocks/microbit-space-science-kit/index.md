@@ -1,9 +1,9 @@
 ---
 sidebar_position: 4
-sidebar_label: micro:bit Space Science Kit
+sidebar_label: micro:bit Space Science Kit(EF08413)
 ---
 
-# micro:bit Space Science Kit
+# micro:bit Space Science Kit(EF08413)
 
 ## Introduction
 ---

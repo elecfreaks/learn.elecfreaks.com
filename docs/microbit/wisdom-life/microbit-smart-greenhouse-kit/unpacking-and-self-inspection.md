@@ -3,29 +3,20 @@ sidebar_position: 3
 sidebar_label: 开箱自检
 ---
 
-# 套件清单
+进行开箱自检是为了确保您购买的产品符合您的预期并且没有受到任何损坏。请您根据以下步骤来进行开箱自检操作。
 
-micro:bit(选配) × 1
+# 1、检查包装
 
-IOT:bit × 1
+检查包装是否完好无损，确认包装上的标签和描述与您购买的产品相符。
 
-3V 继电器电子积木 × 1
+# 2、确认配件
 
-3V 水泵 × 1
+确认产品附带的所有配件是否全部齐全，并与产品清单中的描述相符。
 
-光线传感器 × 1
+## 产品清单
 
-土壤湿度传感器 × 1
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-smart-greenhouse-kit-unpacking.png)
 
-8颗彩虹灯环 × 1
+# 3、检查外观
 
-植物生长底座 × 1
-
-植物生长外罩 × 1
-
-R4080 白色插销 × 6
-
-
-
-Wiki链接：
-
+检查产品外观是否完好无损，是否有任何明显的磨损、划痕或凹陷。

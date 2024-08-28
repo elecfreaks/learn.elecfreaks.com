@@ -1,26 +1,22 @@
-﻿# 套件清单
+﻿---
+sidebar_position: 3
+sidebar_label: Unpacking and Self-Inspection
+---
 
-micro:bit(选配) × 1
+The purpose of unpacking and self-inspection is to ensure that the product you purchased meets your expectations and is not damaged. Please follow the steps below to perform the unpacking and self-inspection.
 
-IOT:bit × 1
+# 1. Check the packaging
 
-3V 继电器电子积木 × 1
+Check whether the packaging is intact and confirm that the label and description on the packaging match the product you purchased.
 
-3V 水泵 × 1
+# 2. Confirm accessories
 
-光线传感器 × 1
+Confirm whether all accessories attached to the product are complete and consistent with the description in the product list.
 
-土壤湿度传感器 × 1
+## Product List
 
-8颗彩虹灯环 × 1
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-smart-greenhouse-kit-unpacking.png)
 
-植物生长底座 × 1
+# 3. Check the appearance
 
-植物生长外罩 × 1
-
-R4080 白色插销 × 6
-
-
-
-Wiki链接：
-
+Check whether the product appearance is intact and whether there are any obvious wear, scratches or dents.

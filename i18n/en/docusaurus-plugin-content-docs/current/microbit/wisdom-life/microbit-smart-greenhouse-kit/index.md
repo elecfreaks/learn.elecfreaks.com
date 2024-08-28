@@ -1,20 +1,22 @@
 ---
 sidebar_position: 2
-sidebar_label: 智能温室大棚套装(EF08313)
+sidebar_label: Smart Greenhouse Kit(EF08313)
 ---
 
-# 智能温室大棚套装(EF08313)
+# Smart Greenhouse Kit(EF08313)
 
-智能温室大棚套装是一款优秀的、专为中小学学生设计的模拟植物生长的套装，旨在帮助年轻一代深入了解现代智慧种植业的原理和实际应用。
+Smart Greenhouse Kit is an excellent plant growth simulation kit designed for primary and secondary school students, aiming to help the younger generation gain a deeper understanding of the principles and practical applications of modern smart planting.
 
-智能温室大棚套装以 micro:bit 为主板，IoT:bit 为扩展板，植物种子放置于温室底座的植物生长槽中，通过透明温室外罩观察植物生长情况，使用光线传感器、土壤湿度传感器检测植物生长环境，并根据环境的变化使用 8 颗彩虹灯环改变植物光照和使用3V水泵和继电器给植物浇水。
+Smart Greenhouse Kit uses micro:bit as the main board and IoT:bit as the expansion board. Plant seeds are placed in the plant growth groove at the base of the greenhouse. The transparent greenhouse cover is used to observe the plant growth. Light sensors and soil moisture sensors are used to detect the plant growth environment. 8 rainbow light rings are used to change the plant lighting according to the changes in the environment, and 3V water pumps and relays are used to water the plants.
 
-学生使用图形化编程平台，通过简单的编程命令，学生可以智能控制植物生长环境并可以将植物生长环境数据实时传输至物联网平台看板，进行深入的数据分析并分享他们的成果。
+Students use a graphical programming platform. Through simple programming commands, students can intelligently control the plant growth environment and transmit the plant growth environment data to the IoT platform dashboard in real time, conduct in-depth data analysis and share their results.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-smart-greenhouse-kit-index.png)
 
 
-# 目录
+
+
+# Catalog
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

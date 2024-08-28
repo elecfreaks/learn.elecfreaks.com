@@ -1,11 +1,16 @@
-﻿# 安全第一（必读）
+﻿---
+sidebar_position: 2
+sidebar_label: Safety First(mandatory reading)
+---
 
-使用前请仔细阅读说明书，在使用智能温室大棚套件之前，请确保您已经详细阅读并理解了产品的使用说明书。按照说明书上的指导操作，以确保安全和正确的使用智能温室大棚套件。
+# Safety first (mandatory reading)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-reading-tips-01.png)**年龄适用性**：智能温室大棚套件适用于3年级以上的学生。请确保用户的年龄符合使用要求，并在成年人的监督下进行操作。对于年龄较小的儿童，需要有成年人的陪同和指导。
+Please read the instruction manual carefully before use, before using the Smart Greenhouse  Kit, please make sure you have read and understood the instruction manual of the product in detail. Follow the instructions on the manual to ensure the safe and proper use of the Smart Greenhouse Kit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-reading-tips-01.png)**防止落水**：智能温室大棚套装是电子器件，请勿将水或其他液体洒落到智能温室大棚套件上面。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-reading-tips-01.png)**Age Appropriation**： The Smart Greenhouse Kit is intended for use by students in grades 3 and up. Please ensure that the user is age-appropriate for use and is supervised by an adult. For younger children, adult accompaniment and guidance are required.
 
-![img](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-reading-tips-02.png)**避免受伤**：在将元器件插拔 IOT:bit 扩展板排针时，请小心操作，以免划伤或刺伤皮肤。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-reading-tips-01.png)**Preventing Fall Water**： The Smart Greenhouse Kit is an electronic device, please do not spill water or other liquids on top of the Smart Greenhouse Kit.
 
-![img](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-reading-tips-03.png)**妥善放置**：每次使用智能温室大棚套件后，请将相关电子元器件整理收纳并放至于干燥、整洁的包装盒中。
+![img](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-reading-tips-02.png)**Avoid Injury**： When plugging and unplugging components into the IOT:bit Expansion Board row of pins, please be careful to avoid scratching or puncturing your skin.
+
+![img](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-reading-tips-03.png)**Placement**： After each use of the greenhouse kit, please organize and store the electronic components in a dry and tidy box.

@@ -1,9 +1,9 @@
 ---
 sidebar_position: 4
-sidebar_label: micro:bit 太空科创套装
+sidebar_label: micro:bit 太空科创套装(EF08413)
 ---
 
-# micro:bit 太空科创套装
+# micro:bit 太空科创套装(EF08413)
 
 ## 简介
 ---

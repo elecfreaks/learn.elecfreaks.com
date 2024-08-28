@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
-sidebar_label: 智能温室大棚套装
+sidebar_label: 智能温室大棚套装(EF08313)
 ---
 
-# 智能温室大棚套装
+# 智能温室大棚套装(EF08313)
 
 智能温室大棚套装是一款优秀的、专为中小学学生设计的模拟植物生长的套装，旨在帮助年轻一代深入了解现代智慧种植业的原理和实际应用。
 
@@ -11,6 +11,7 @@ sidebar_label: 智能温室大棚套装
 
 学生使用图形化编程平台，通过简单的编程命令，学生可以智能控制植物生长环境并可以将植物生长环境数据实时传输至物联网平台看板，进行深入的数据分析并分享他们的成果。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-smart-greenhouse-kit-index.png)
 
 
 # 目录

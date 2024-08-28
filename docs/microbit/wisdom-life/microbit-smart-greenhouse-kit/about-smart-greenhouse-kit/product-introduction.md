@@ -17,11 +17,3 @@ sidebar_label: 产品介绍
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-smart-greenhouse-kit-index.png)
 
-## 产品特性
-
-（1）可以真正管理植物生长的主题套装。
-
-
-
-（2）案例设计围绕智能控制植物生长因素展开。
-

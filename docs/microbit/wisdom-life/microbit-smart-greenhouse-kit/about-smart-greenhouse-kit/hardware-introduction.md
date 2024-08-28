@@ -1,24 +1,15 @@
 ﻿---
 sidebar_position: 2
-sidebar_label: 硬件介绍
+sidebar_label: 产品清单介绍
 ---
 
 
-# 硬件介绍
 
-## micro:bit 主板介绍
+# 产品清单介绍
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-hardware-introduction-01.png)
+智能温室大棚套装包含的电子元器件包括：IOT:bit 物联网扩展板、八爪鱼系列3V继电器、八爪鱼系列3V水泵、八爪鱼系列8颗彩虹灯环、八爪鱼系列光线传感器、八爪鱼系列土壤湿度传感器，您可以通过本篇文章详细了解套装中使用的电子元器件。
 
-micro:bit 是一款专为青少年编程教育目的而设计的微型计算机，尺寸只有4cm x 5cm，但它拥有一系列的传感器和 LED 灯，可以用来控制和监测物理世界。
-
-micro:bit 可以通过 USB 线或蓝牙连接到计算机，并使用编程软件进行编程。它支持多种编程语言，包括 Microsoft MakeCode、Python 和 JavaScript 等。学生可以使用这些编程语言来编写代码，控制 micro:bit 上的传感器和 LED 灯，创造各种有趣的项目。
-
-micro:bit 的设计简单易用，适合初学者使用。它可以用于各种教育活动，如编程课程、科学实验和创客活动等。通过使用 micro:bit，学生可以培养创造力、解决问题的能力和团队合作精神。
-
-更多关于 micro:bit 的信息，欢迎访问：[micro:bit 官网](https://microbit.org/)。
-
-## IOT:bit
+## IOT:bit 物联网扩展板
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-hardware-introduction-02.png)
 
@@ -78,3 +69,8 @@ IOT:bit 扩展板的功能丰富，能够满足您在智能系统开发中的需
 
 土壤湿度传感器是一种用于测量土壤湿度的设备。它通常由一个传感器探头和一个数据采集器组成。土壤湿度传感器的工作原理是通过测量土壤中的水分含量来推断土壤的湿度。八爪鱼系列土壤湿度传感器的传感器探头由一个导电金属片组成，当土壤中的水分含量发生变化时，导电金属片的电阻值也会发生变化。数据采集器通过读取导电金属片的电阻值，并将其转换为土壤湿度值。土壤湿度传感器是一种非常有用的工具，可以帮助我们更好地了解土壤的湿度情况，从而指导农业生产和植物生长等应用。
 
+## 八爪鱼系列光线传感器
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-hardware-introduction-070.png)
+
+模拟透明光敏是可以检测光线的传感器。它们体积小，价格低廉，功率低，使用方便，不会磨损。

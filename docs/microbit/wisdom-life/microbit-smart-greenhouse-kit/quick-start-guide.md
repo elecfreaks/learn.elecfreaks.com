@@ -59,7 +59,16 @@ sidebar_label: 快速入门指南
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-hardware-introduction-023.png)
 
-按下方连线图所示，将3V水泵、3V继电器、土壤湿度传感器、光传感器和8颗彩虹LED灯连接到 IOT:bit 扩展板上。
+按下方连线图所示，将3V水泵、3V继电器、土壤湿度传感器、光线传感器和8颗彩虹LED灯连接到 IOT:bit 扩展板上。
+
+|     元器件     | IOT:bit 对应引脚 |
+| :------------: | :--------------: |
+|  8颗彩虹LED灯  |        P1        |
+| 土壤湿度传感器 |        P2        |
+|   光线传感器   |        P3        |
+|    3V继电器    |        P9        |
+
+​			
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-hardware-introduction-026.png)
 

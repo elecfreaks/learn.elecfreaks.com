@@ -19,5 +19,5 @@ sidebar_label: Technical Specifications
 | Programming Method | makecode |
 
 **Note**: This kit's cases are tailored to the theme of football matches, with 6 cases included. For more basic use cases, please visit:
-[Cutebot智能赛车 WIKI](https://wiki.elecfreaks.com/microbit/microbit-smart-car/microbit-smart-cutebot/)
+[Cutebot WIKI](https://wiki.elecfreaks.com/microbit/microbit-smart-car/microbit-smart-cutebot/)
 [Joystick:bit V2 WIKI](https://wiki.elecfreaks.com/microbit/expansion-board/joystick-bit-v2)

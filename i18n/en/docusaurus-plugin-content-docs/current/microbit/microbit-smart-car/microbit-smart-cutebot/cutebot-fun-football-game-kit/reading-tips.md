@@ -13,14 +13,13 @@ sidebar_label: Reading Tips
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-read03.png) | Hints and Explanations | Hints to help you understand the operating instructions.                       |
 
 
-## Recommendations for operation
+## Usage Suggestions
 
-ELECFREAKS provides users with the following documentation:
+Enfu Technology provides the following documentation for users:
 
-1. Safety First (Required Reading)
-2. Out-of-the-box Self-Test
-3. Quick Start Guide
-4. About micro:bit Cutebot Football Game Kit
-5. Casebook
+1. **Safety First (Mandatory Reading)**
+2. **Unboxing Self-inspection**
+3. **About the micro:bit Cutebot Fun Football Match Kit**
+4. **Case Library**
 
-Users are recommended to first watch Safety First (Required Reading), then check the integrity of the product in the unpacking self-inspection, and then read the Quick Start Guide to get started with the product. For detailed product information and to experience more case studies, please view about the micro:bit Cutebot Football Game Kit and the case library.
+It is recommended that users first watch **Safety First (Mandatory Reading)**, then check the product integrity by reviewing **Unboxing Self-inspection**. For detailed product information and to experience more cases, please refer to **About the micro:bit Cutebot Fun Football Match Kit** and **Case Library**.

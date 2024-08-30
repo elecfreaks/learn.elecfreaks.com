@@ -6,7 +6,7 @@ sidebar_label: 开箱自检
 # 开箱自检
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/football-game-packing-list.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/smart-life-packing-list.png)
 
 进行开箱自检是为了确保您购买的产品符合您的预期并且没有受到任何损坏。请您根据以下步骤来进行开箱自检操作。
 

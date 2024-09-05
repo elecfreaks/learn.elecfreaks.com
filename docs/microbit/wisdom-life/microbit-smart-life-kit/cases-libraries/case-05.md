@@ -1,21 +1,21 @@
 ---
-sidebar_position: 1
-sidebar_label: 智能灯
+sidebar_position: 5
+sidebar_label: 智能风扇
 ---
 
-# 智能灯
+# 智能风扇
 
 ## 简介
 
-在本项目中，我们将学习如何制作一个智能灯，采用光线传感器监测环境光照。当检测到光线不足时，系统自动启动LED灯，提供充足的照明。
+将DHT11温湿度传感器连接到wukong扩展板的P1接口，风扇模块连接到wukong扩展板的P2接口，OLED显示屏连接到wukong扩展板的IIC接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-01.png)
 
 ## 教学目标
 
-了解光线传感器的使用方式
+了解DHT11温湿度传感器的使用方式
 
-掌握使用micro:bit控制LED灯的基本编程技能。
+了解风扇模块的使用方式
 
 ## 教学准备
 
@@ -35,9 +35,9 @@ sidebar_label: 智能灯
 
 ### 硬件连接
 
-将光线传感器连接到悟空扩展板的P1接口，将彩虹灯连接到悟空扩展板的P2接口，将OLED显示屏插入IIC接口。
+将DHT11温湿度传感器连接到wukong扩展板的P1接口，风扇模块连接到wukong扩展板的P2接口，OLED显示屏连接到wukong扩展板的IIC接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-02.png)
 
 ### 编程平台
 
@@ -77,9 +77,9 @@ sidebar_label: 智能灯
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_cvA28PcpAWLJ](https://makecode.microbit.org/_cvA28PcpAWLJ)
+示例程序：[https://makecode.microbit.org/_VReMzUepM99U](https://makecode.microbit.org/_VReMzUepM99U)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -91,7 +91,7 @@ sidebar_label: 智能灯
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_cvA28PcpAWLJ"
+        src="https://makecode.microbit.org/_VReMzUepM99U"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -139,4 +139,4 @@ sidebar_label: 智能灯
 
 ### 结果
 
-开机后，智能灯根据环境光强度自动点亮或者熄灭彩虹灯。
+当智能风扇监测到周围环境温度高于预设温度时，自动开启风扇进行降温。

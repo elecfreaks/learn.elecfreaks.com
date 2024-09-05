@@ -1,21 +1,21 @@
 ---
-sidebar_position: 1
-sidebar_label: 智能灯
+sidebar_position: 2
+sidebar_label: 水位检测装置
 ---
 
-# 智能灯
+# 水位检测装置
 
 ## 简介
 
-在本项目中，我们将学习如何制作一个智能灯，采用光线传感器监测环境光照。当检测到光线不足时，系统自动启动LED灯，提供充足的照明。
+在本项目中，我们将学习如何制作一个水位检测装置，该装置通过水位传感器实时监测水位变化，并将这些数据转化为舵机的转动角度，直观地反映当前水位。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-02-01.png)
 
 ## 教学目标
 
-了解光线传感器的使用方式
+了解水位传感器的使用方式
 
-掌握使用micro:bit控制LED灯的基本编程技能。
+掌握使用micro:bit控制舵机转动角度的基本编程技能。
 
 ## 教学准备
 
@@ -35,9 +35,9 @@ sidebar_label: 智能灯
 
 ### 硬件连接
 
-将光线传感器连接到悟空扩展板的P1接口，将彩虹灯连接到悟空扩展板的P2接口，将OLED显示屏插入IIC接口。
+将水位传感器连接到悟空扩展板的P1接口，将180°舵机连接到悟空扩展板的S1接口，将OLED显示屏插入悟空扩展板的IIC接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-02-02.png)
 
 ### 编程平台
 
@@ -77,9 +77,9 @@ sidebar_label: 智能灯
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_cvA28PcpAWLJ](https://makecode.microbit.org/_cvA28PcpAWLJ)
+示例程序：[https://makecode.microbit.org/_4uRc4hUcAWXx](https://makecode.microbit.org/_4uRc4hUcAWXx)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-02-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -91,7 +91,7 @@ sidebar_label: 智能灯
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_cvA28PcpAWLJ"
+        src="https://makecode.microbit.org/_4uRc4hUcAWXx"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -139,4 +139,4 @@ sidebar_label: 智能灯
 
 ### 结果
 
-开机后，智能灯根据环境光强度自动点亮或者熄灭彩虹灯。
+开机后，OLED显示当前的水位值，并通过舵机的转动角度更加直观的体现当前水位情况。

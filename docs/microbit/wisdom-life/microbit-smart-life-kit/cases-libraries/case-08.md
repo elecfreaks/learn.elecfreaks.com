@@ -1,21 +1,21 @@
 ---
-sidebar_position: 5
-sidebar_label: 智能风扇
+sidebar_position: 8
+sidebar_label: 智能药盒
 ---
 
-# 智能风扇
+# 智能药盒
 
 ## 简介
 
-在本项目中，我们将学习如何制作一个智能风扇，利用温湿度传感器监测当前温度，当温度高于阈值时，自动开启风扇降温。
+在本项目中，我们将学习如何制作一个智能药盒，可以通过按下碰撞传感器来控制智能药盒出药，通过OLED显示屏显示吃药次数，利用光线传感器检测药盒周围的环境光强度，当环境光强度超过阈值时，自动发出警报，提醒使用者不要在强光环境下保存药品。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-08-01.png)
 
 ## 教学目标
 
-了解DHT11温湿度传感器的使用方式
+制作智能药盒案例
 
-了解风扇模块的使用方式
+学习如何使用硬件和工具去解决生活中的问题
 
 ## 教学准备
 
@@ -32,15 +32,15 @@ sidebar_label: 智能风扇
 
 ## 课程引入
 
-合适的温度对于人体的健康和舒适至关重要。人体正常体温范围大约在36.3℃至37.2℃之间，在环境温度方面，科学研究显示，当环境温度在18℃到25℃，相对湿度在40%到70%时，人体感觉最舒适。这个温度范围有助于维持人体的热平衡，既不需要额外产生热量来保暖，也不需要通过出汗来散热。我们能不能制作一个可以根据室内温度自动启停的智能风扇？
+生活中，经常是家里有老年人因为记忆力衰退而忘记吃药的情况发生，让家人担心，因此我们生活中是需要一个东西解决这个问题，并且借此表达自己对亲人关心，那么我们是否可以自己制作一个呢？
 
 ## 项目制作
 
 ### 硬件连接
 
-将DHT11温湿度传感器连接到wukong扩展板的P1接口，风扇模块连接到wukong扩展板的P2接口，OLED显示屏连接到wukong扩展板的IIC接口。
+将光线传感器连接到wukong扩展板的P1接口，碰撞传感器连接到wukong扩展板的P2接口，将OLED显示屏连接到wukong扩展板的IIC接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-08-02.png)
 
 ### 编程平台
 
@@ -80,9 +80,9 @@ sidebar_label: 智能风扇
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_VReMzUepM99U](https://makecode.microbit.org/_VReMzUepM99U)
+示例程序：[https://makecode.microbit.org/_9mhFH7d5pDJi](https://makecode.microbit.org/_9mhFH7d5pDJi)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-08-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -94,7 +94,7 @@ sidebar_label: 智能风扇
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_VReMzUepM99U"
+        src="https://makecode.microbit.org/_9mhFH7d5pDJi"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -144,11 +144,31 @@ sidebar_label: 智能风扇
 
 当智能风扇监测到周围环境温度高于预设温度时，自动开启风扇进行降温。
 
+
 ## 扩展知识
 
+**智能药盒的优化**
 
-温度 温度是物质冷热程度的量度。 常见的温度单位有摄氏度 (°C)、华氏度 (°F) 和开尔文 (K)。 温度的变化会引起物质的热胀冷缩现象。 温度会影响物质的物理状态，例如水在 0°C 时会结冰，在 100°C 时会沸腾。
+智能药盒是一种通过技术手段帮助用户更好地管理药物摄入的设备，它具有多种功能和优点：
 
-湿度 湿度是指空气中水蒸气的含量。 常见的湿度单位有相对湿度 (%) 和绝对湿度 (g/m³)。 湿度会影响人体的舒适度，例如高湿度会让人感到闷热，低湿度会让人感到干燥。
+1. **提醒服药**：智能药盒可以通过声音、光线、手机APP推送等多种方式提醒用户按时服药，对于记忆力减退的老年人或者忙碌的现代人来说，这是一个非常实用的功能。
 
-温湿度对人体的影响 适宜的温湿度对人体健康非常重要。 过高的温度会导致中暑，过低的温度会导致冻伤。 过高的湿度会导致人体感到闷热，过低的湿度会导致人体感到干燥。
+2. **记录用药情况**：一些智能药盒能够记录用户的用药情况，包括用药时间、频率和剂量，有助于医生了解患者的用药依从性，从而调整治疗方案。
+
+3. **提高用药依从性**：智能药盒通过定时提醒和记录，有助于提高患者的用药依从性，减少因忘记服药而导致的治疗效果不佳或病情反复。
+
+4. **远程监控**：智能药盒通常可以与家人或护理人员的手机APP相连，实现远程监控，让家人能够及时了解患者的用药情况。
+
+5. **个性化设置**：用户可以根据自己的用药需求，通过手机APP对智能药盒进行个性化设置，包括设置不同的提醒时间和用药计划。
+
+6. **数据共享**：智能药盒的数据可以通过云服务进行共享，方便医生和家庭成员访问，有助于实现更好的健康管理。
+
+7. **娱乐功能**：部分智能药盒还集成了娱乐功能，如播放音乐、语音问候等，增加了与用户的互动性，提高了用户体验。
+
+8. **适老化设计**：考虑到老年人的使用习惯，智能药盒通常具有简单直观的操作界面，方便老年人使用。
+
+9. **安全性**：智能药盒可以通过锁定功能防止儿童误食药品，提高了家庭用药的安全性。
+
+10. **节省医疗成本**：通过提高用药依从性和治疗效果，智能药盒有助于减少因治疗不当导致的重复就医和额外医疗成本。
+
+智能药盒的这些优点使其成为现代健康管理的有力工具，尤其对于需要长期服药的患者来说，智能药盒提供了一个便捷、有效的解决方案。随着技术的不断进步，未来智能药盒的功能将更加多样化和智能化。

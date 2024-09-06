@@ -1,21 +1,21 @@
 ---
-sidebar_position: 5
-sidebar_label: 智能风扇
+sidebar_position: 7
+sidebar_label: 火山喷发报警器
 ---
 
-# 智能风扇
+# 火山喷发报警器
 
 ## 简介
 
-在本项目中，我们将学习如何制作一个智能风扇，利用温湿度传感器监测当前温度，当温度高于阈值时，自动开启风扇降温。
+在本项目中，我们将学习如何制作一个火山喷发报警器，利用MQ2传感器检测烟雾，DHT11温湿度传感器检测当前环境温度，当检测到烟雾浓度和环境温度超过阈值时，自动报警。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-07-01.png)
 
 ## 教学目标
 
-了解DHT11温湿度传感器的使用方式
+了解火山的相关知识
 
-了解风扇模块的使用方式
+学习如何使用硬件和工具去解决生活中的问题
 
 ## 教学准备
 
@@ -32,15 +32,15 @@ sidebar_label: 智能风扇
 
 ## 课程引入
 
-合适的温度对于人体的健康和舒适至关重要。人体正常体温范围大约在36.3℃至37.2℃之间，在环境温度方面，科学研究显示，当环境温度在18℃到25℃，相对湿度在40%到70%时，人体感觉最舒适。这个温度范围有助于维持人体的热平衡，既不需要额外产生热量来保暖，也不需要通过出汗来散热。我们能不能制作一个可以根据室内温度自动启停的智能风扇？
+超级火山的喷发带来的危害是全球性的，科学家必须做好持续的火山监测，才能做好应对策略。我们能做一个火山喷发报警器吗？
 
 ## 项目制作
 
 ### 硬件连接
 
-将DHT11温湿度传感器连接到wukong扩展板的P1接口，风扇模块连接到wukong扩展板的P2接口，OLED显示屏连接到wukong扩展板的IIC接口。
+将MQ2传感器连接到wukong扩展板的P1接口，DHT11温湿度连接到wukong扩展板的P2接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-07-02.png)
 
 ### 编程平台
 
@@ -80,9 +80,9 @@ sidebar_label: 智能风扇
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_VReMzUepM99U](https://makecode.microbit.org/_VReMzUepM99U)
+示例程序：[https://makecode.microbit.org/_MPC9YTD7ta8g](https://makecode.microbit.org/_MPC9YTD7ta8g)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-07-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -94,7 +94,7 @@ sidebar_label: 智能风扇
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_VReMzUepM99U"
+        src="https://makecode.microbit.org/_MPC9YTD7ta8g"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -142,13 +142,64 @@ sidebar_label: 智能风扇
 
 ### 结果
 
-当智能风扇监测到周围环境温度高于预设温度时，自动开启风扇进行降温。
+当检测到烟雾浓度和环境温度超过阈值时，自动报警。
+
 
 ## 扩展知识
 
+### 制作火山模型
 
-温度 温度是物质冷热程度的量度。 常见的温度单位有摄氏度 (°C)、华氏度 (°F) 和开尔文 (K)。 温度的变化会引起物质的热胀冷缩现象。 温度会影响物质的物理状态，例如水在 0°C 时会结冰，在 100°C 时会沸腾。
+1、铺好一张蜡纸。
 
-湿度 湿度是指空气中水蒸气的含量。 常见的湿度单位有相对湿度 (%) 和绝对湿度 (g/m³)。 湿度会影响人体的舒适度，例如高湿度会让人感到闷热，低湿度会让人感到干燥。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-step-07-01.png)
 
-温湿度对人体的影响 适宜的温湿度对人体健康非常重要。 过高的温度会导致中暑，过低的温度会导致冻伤。 过高的湿度会导致人体感到闷热，过低的湿度会导致人体感到干燥。
+2、在中间放上容器。这个容器（易拉罐、果酱瓶、塑料瓶等等）用来充当火山的主体，一会儿你要把“岩浆”灌进去！
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-step-07-02.png)
+
+3、用黏土制作火山的外部。把容器从头到脚用黏土裹起来，记得要做得有棱有角一点，毕竟真火山的外壁可不是光溜溜的坡面！
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-step-07-03.png)
+
+4、静置一个小时，晾干黏土。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-step-07-04.png)
+
+5、混合醋汁。往醋汁里混入一些红色的食用色素，再加上一调羹洗洁精。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-step-07-05.png)
+
+6、把混合好的液体倒入容器中。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-step-07-06.png)
+
+7、包好泡打粉（小苏打）。将少许泡打粉倒在厕纸或纸巾上，卷起纸巾，用橡皮筋捆起来。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-step-07-07.png)
+
+8、把纸巾卷塞入混合液中。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-step-07-08.png)
+
+9、现在退开一点，一旦纸巾溶解，你的火山就会开始喷发了。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-step-07-09.png)
+
+
+### 火山的等级划分
+
+一座火山只有在爆发之后才能被判定是否是超级火山，科学家讲火山爆发的程度分为0-8，8个等级，被称为火山爆发指数。火山爆发的等级指数越大，意味着它排放出来的物质也就越多。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-extensions-07-01.png)
+
+0-1级 夏威夷火山
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-extensions-07-02.png)
+
+6级 皮纳图博火山
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-extensions-07-03.png)
+
+8级 黄石火山
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-extensions-07-04.png)

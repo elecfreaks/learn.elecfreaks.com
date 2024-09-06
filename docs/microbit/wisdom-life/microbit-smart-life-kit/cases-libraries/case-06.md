@@ -1,21 +1,21 @@
 ---
-sidebar_position: 5
-sidebar_label: 智能风扇
+sidebar_position: 6
+sidebar_label: 免接触垃圾桶
 ---
 
-# 智能风扇
+# 免接触垃圾桶
 
 ## 简介
 
-在本项目中，我们将学习如何制作一个智能风扇，利用温湿度传感器监测当前温度，当温度高于阈值时，自动开启风扇降温。
+在本项目中，我们将学习如何制作一个免接触垃圾桶，利用超声波传感器监测是否有人靠近，当有人靠近时，自动打开垃圾桶。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-06-01.png)
 
 ## 教学目标
 
-了解DHT11温湿度传感器的使用方式
+复习超声波传感器的使用方式
 
-了解风扇模块的使用方式
+学习如何使用硬件和工具去解决生活中的问题
 
 ## 教学准备
 
@@ -32,15 +32,15 @@ sidebar_label: 智能风扇
 
 ## 课程引入
 
-合适的温度对于人体的健康和舒适至关重要。人体正常体温范围大约在36.3℃至37.2℃之间，在环境温度方面，科学研究显示，当环境温度在18℃到25℃，相对湿度在40%到70%时，人体感觉最舒适。这个温度范围有助于维持人体的热平衡，既不需要额外产生热量来保暖，也不需要通过出汗来散热。我们能不能制作一个可以根据室内温度自动启停的智能风扇？
+垃圾桶是我们生活中常见的藏污纳垢的地方，隐藏着大量的细菌和病毒，但我们的日常生活中不可避免会产生一些垃圾，那么怎么尽量让我们与垃圾桶的接触减少到最低呢？
 
 ## 项目制作
 
 ### 硬件连接
 
-将DHT11温湿度传感器连接到wukong扩展板的P1接口，风扇模块连接到wukong扩展板的P2接口，OLED显示屏连接到wukong扩展板的IIC接口。
+将超声波传感器连接到wukong扩展板的P1接口，180°舵机连接到wukong扩展板的S1接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-06-02.png)
 
 ### 编程平台
 
@@ -80,9 +80,9 @@ sidebar_label: 智能风扇
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_VReMzUepM99U](https://makecode.microbit.org/_VReMzUepM99U)
+示例程序：[https://makecode.microbit.org/_9mhFH7d5pDJi](https://makecode.microbit.org/_9mhFH7d5pDJi)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-06-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -94,7 +94,7 @@ sidebar_label: 智能风扇
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_VReMzUepM99U"
+        src="https://makecode.microbit.org/_9mhFH7d5pDJi"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -142,13 +142,32 @@ sidebar_label: 智能风扇
 
 ### 结果
 
-当智能风扇监测到周围环境温度高于预设温度时，自动开启风扇进行降温。
+当有人靠近免接触垃圾桶时，垃圾桶自动开启盖子。
+
 
 ## 扩展知识
 
+**智能垃圾桶的优点**
+智能垃圾桶作为一种新兴的家居产品，相较于传统垃圾桶，具有许多显著的优点：
 
-温度 温度是物质冷热程度的量度。 常见的温度单位有摄氏度 (°C)、华氏度 (°F) 和开尔文 (K)。 温度的变化会引起物质的热胀冷缩现象。 温度会影响物质的物理状态，例如水在 0°C 时会结冰，在 100°C 时会沸腾。
+自动感应开盖：智能垃圾桶通常配备红外感应器，当人的手或物体接近时，桶盖会自动开启，避免手动接触，更加卫生方便。
 
-湿度 湿度是指空气中水蒸气的含量。 常见的湿度单位有相对湿度 (%) 和绝对湿度 (g/m³)。 湿度会影响人体的舒适度，例如高湿度会让人感到闷热，低湿度会让人感到干燥。
+自动打包和换袋：一些智能垃圾桶具备自动打包垃圾袋的功能，方便用户更换垃圾袋，保持垃圾桶的清洁。
 
-温湿度对人体的影响 适宜的温湿度对人体健康非常重要。 过高的温度会导致中暑，过低的温度会导致冻伤。 过高的湿度会导致人体感到闷热，过低的湿度会导致人体感到干燥。
+分类提示和教育：智能垃圾桶可以通过语音或屏幕提示，指导用户正确分类垃圾，有助于提升公众的环保意识和垃圾分类知识。
+
+数据收集与分析：部分智能垃圾桶能够收集使用数据，帮助管理人员了解垃圾的种类和数量，优化垃圾处理流程。
+
+节能和环保：智能垃圾桶设计上注重节能，通常使用电池供电，耗电低，且密封性能好，减少异味和蚊虫问题。
+
+提高效率：智能垃圾桶的自动开盖功能可以加快垃圾投放速度，提高公共区域的清洁效率。
+
+美观设计：智能垃圾桶在外观设计上往往更加现代化和美观，可以融入不同的家居或公共环境。
+
+减少异味：智能垃圾桶通常具有良好的密封性，可以防止垃圾异味散发，保持环境清新。
+
+智能杀菌：一些高端智能垃圾桶具备杀菌功能，可以减少细菌滋生，保护用户健康。
+
+社区宣传：智能垃圾桶还可以作为社区宣传工具，通过语音播报等方式进行环保宣传和信息通知。
+
+智能垃圾桶的这些优点使其成为提升生活品质和推动环保的重要工具。然而，它们也存在一些缺点，如需要定期更换电池、对环境的适应性要求较高、以及可能的成本问题。不过，随着技术的进步和成本的降低，这些缺点正在逐渐被克服。

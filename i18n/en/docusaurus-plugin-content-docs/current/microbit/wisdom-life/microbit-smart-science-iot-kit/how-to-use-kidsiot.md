@@ -1,7 +1,7 @@
 ﻿#  The fourth part: Guidance of KidsIoT
 
  KidsIoT is a platform for IoT(Internet of Things) produced by Elecfreaks with only three minutues to get connected, it can achieve a remote control to the micro:bit. (Currently in English version only)
- link: [KidsIoT Cloud Platform: https://www.kidsiot.cn/](https://www.kidsiot.cn/)
+ link: [KidsIoT Cloud Platform: https://www.smartiot.space/](https://www.smartiot.space/)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/kidsiot_01.jpg)
 

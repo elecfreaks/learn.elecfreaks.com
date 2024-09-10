@@ -48,7 +48,7 @@ SKU|EF05036
 ## KidsIot平台
 ---
 - KidsIot是恩孚科技出品的一个简单易用的物联网平台，3分钟连接物联网，实施远程操控microbit。（中/英文切换文暂时没有更新）
- 平台链接：[KidsIoT云平台: https://www.kidsiot.cn/](https://www.kidsiot.cn/)
+ 平台链接：[KidsIoT云平台: https://www.smartiot.space/](https://www.smartiot.space/)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_01.jpg)
 

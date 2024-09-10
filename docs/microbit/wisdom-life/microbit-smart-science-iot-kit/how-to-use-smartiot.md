@@ -93,7 +93,7 @@ sidebar_position: 2
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_14.jpg)
 
-连接Kids’Iot平台。User Token（暂时误写作ID）为账户唯一识别码，与账户绑定不可修改。
+连接SmartIot平台。User Token（暂时误写作ID）为账户唯一识别码，与账户绑定不可修改。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_15.jpg)
 
@@ -154,7 +154,7 @@ sidebar_position: 2
 ---
 当开机时连接WIFI
 循环判断是否连接WIFI，如果连接显示颗大心，如果未连接就继续连接。
-循环判断kidsIot平台是否连接，如果连接显示一颗小心，如果未连接就继续连接。
+循环判断SmartIot平台是否连接，如果连接显示一颗小心，如果未连接就继续连接。
 循环判断如果SmartIot连接成功则上传一个数据“连接到P1的光线数据”到平台
 如果平台开关打开播放音乐“Power Up”
 如果平台开关关闭播放音调“Power Down”

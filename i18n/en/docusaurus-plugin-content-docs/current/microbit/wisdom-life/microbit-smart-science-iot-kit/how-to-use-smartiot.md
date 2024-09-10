@@ -91,7 +91,7 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_14.jpg)
 
-Connect to Kids'IoT platform, User Token(Currently miswritting as ID) is the only indentification code for the account which can not be revised.
+Connect toSmartIoT platform, User Token(Currently miswritting as ID) is the only indentification code for the account which can not be revised.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_15.jpg)
 

@@ -30,7 +30,7 @@ Slide Power Switch: The slide power switch requires a clear sliding action to sw
 | Charging Voltage | 5V |
 | Charging Current | 3A |
 | Charging Time | 50min |
-| Battery Capacity | 1100mAh |
+| Battery Capacity | 900mAh/6.6Wh |
 | Max. Working Voltage | 8.4V |
 | Rated Working Voltage | 7.4V |
 | Min. Working Voltage| 6.4V |

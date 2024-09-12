@@ -17,8 +17,29 @@ Nezha is an expanstion board for micro:bit with multuple functions available. It
 ## Specification
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/03444_02.png)
-
+| Project | Parameters |
+| ------------------- | ----------------------------------- |
+| Product Name | Nezha Breakout Board V1 |
+| SKU | EF05043 |
+| Dimensions | 81.9 × 59.8 × 27.8 mm |
+| GW| 97 g (including lithium battery, excluding micro:bit board and peripheral accessories) |
+| Charging Voltage | 5V |
+| Charging Time | 120min |
+| Battery Capacity | 3.3Wh |
+| Max. Working Voltage | 4.2V |
+| Rated Working Voltage | 3.7V |
+| Min. Working Voltage | 3.2V |
+| Motor Output Voltage | 5V |
+| Motor Max. Output Current | 2.8A |
+| Servo Interface Output Voltage | 5.6V |
+| Servo Interface Max. Output Current | 3.0A |
+| RJ11 Sensor Interface Output Voltage | 3.4V |
+| RJ11 sensor interface max.output current | 1.6A |
+| Continuous use time | 2 hours (actual use time may vary due to test environment, different load conditions, etc.) |
+| Servo interface | 4 |
+| TT motor interface | 4 |
+| Fischertechnik motor interface | 4 |
+| Sensor interface | 7 |
 
 ## Outlook and Dimensions
 ---

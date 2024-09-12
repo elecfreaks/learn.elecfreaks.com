@@ -45,60 +45,60 @@ SKU|EF05036
 
 
 
-## KidsIot平台
+## SmartIot平台
 ---
-- KidsIot是恩孚科技出品的一个简单易用的物联网平台，3分钟连接物联网，实施远程操控microbit。（中/英文切换文暂时没有更新）
- 平台链接：[KidsIoT云平台: https://www.smartiot.space/](https://www.smartiot.space/)
+- smartIot是恩孚科技出品的一个简单易用的物联网平台，3分钟连接物联网，实施远程操控microbit。（中/英文切换文暂时没有更新）
+ 平台链接：[smartIoT云平台: https://www.smartiot.space/](https://www.smartiot.space/)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_01.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_01.jpg)
 
-## KidsIoT 平台账号注册
+## SmartIoT 平台账号注册
 
-- 进入KidsIoT 官网，点击Sing up进入注册新账号页面
+- 进入smartIoT 官网，点击Sing up进入注册新账号页面
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_02.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_02.jpg)
 
 - 填好注册信息(邮箱、密码)点击Sign Up。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_03.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_03.jpg)
 
 - 点击Sign Up注册，会发送一封邮件到你填写的账号邮箱
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_04.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_04.jpg)
 
 - 检查你的邮箱的收件箱或者垃圾箱（可能会被识别为垃圾邮件），打开邮件中的网址以激活你的账号。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_05.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_05.jpg)
 
 - 注册成功
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_06.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_06.jpg)
 
 
-## KidsIoT 平台使用指南
+## SmartIoT 平台使用指南
 
 - 点击主页上的Sign in，进入登陆界面
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_07.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_07.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_08.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_08.jpg)
 
 - 点击Log in进入设备管理页面，左上角是User Name为你的邮箱，右上角User Token（现有误写为ID，后期会改为Token）是平台唯一识别码，对应你的账号。全网唯一，不会重复。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_09.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_09.jpg)
 
 - 添加一个新的设备（Create new device），Topic是你的设备识别号（在账号中的唯一设备）可以修改设备名称（你只能拥有10个设备）
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_10.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_10.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_11.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_11.jpg)
 
 
 - 设备界面里左侧为上传数据，右侧由数据和时间组成二维折线图，可以选择要显示的数据，也可以导出数据（export data）
 - Remote Control可以下发指令控制microbit。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_12.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_12.jpg)
 
 ## 编写代码
 ---
@@ -120,35 +120,35 @@ SKU|EF05036
 
 ### 代码解释
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_14.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_14.jpg)
 
-连接Kids’Iot平台。User Token为账户唯一识别码，与账户绑定不可修改。
+连接smart’Iot平台。User Token为账户唯一识别码，与账户绑定不可修改。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_15.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_15.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_16.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_16.jpg)
 
 
  TOPIC，设备唯一识别码，连接时需要指定上传设备。设备号（Topic）顺序排列。
 
 - - - - -
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_17.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_17.jpg)
 
-上传一个整数到KidsIot平台，会在这里显示。
+上传一个整数到smartIot平台，会在这里显示。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_18.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_18.jpg)
 - - - - -
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_19.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_19.jpg)
 
 判断平台连接状态是否成功，成功（True），失败（False）。
 可以自己编写重连机制以保证连接稳定。
 - - - - -
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_20.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_20.jpg)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/kidsiot_21.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/smartiot_21.jpg)
 
 当平台连接成功后，可以点击这个开关来执行这两个积木块。
 
@@ -182,7 +182,7 @@ SKU|EF05036
 ---
 - 当开机时连接WIFI
 - 循环判断是否连接WIFI，如果连接显示颗大心，如果未连接就继续连接。
-- 循环判断kidsIot平台是否连接，如果连接显示一颗小心，如果未连接就继续连接。
-- 循环判断如果KidsIot连接成功则上传一个数据“从0至10之间选取随机数”到平台
+- 循环判断smartIot平台是否连接，如果连接显示一颗小心，如果未连接就继续连接。
+- 循环判断如果smartIot连接成功则上传一个数据“从0至10之间选取随机数”到平台
 - 如果平台开关打开点亮LED灯
 - 如果平台开关关闭熄灭LED灯

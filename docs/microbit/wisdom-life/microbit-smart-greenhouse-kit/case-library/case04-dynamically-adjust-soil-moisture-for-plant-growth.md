@@ -84,7 +84,7 @@ sidebar_label: 案例04 动态调节植物生长土壤湿度
 |   光线传感器   |        P3        |
 |    3V继电器    |        P9        |
 
-​			
+​
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-hardware-introduction-026.png)
 
@@ -136,7 +136,7 @@ sidebar_label: 案例04 动态调节植物生长土壤湿度
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-programming-case04-1.png)
 
-请参考程序链接：https://makecode.microbit.org/_A1U9fk9tf166。
+请参考程序链接：https://makecode.microbit.org/_RrCAWgg14APz。
 
 ### 下载程序
 
@@ -193,4 +193,3 @@ sidebar_label: 案例04 动态调节植物生长土壤湿度
 ## 扩展知识
 
 **继电器工作原理**：继电器是一种电气控制元件，它利用小电流来控制大电流。它由输入和输出两部分组成，输入部分感应各种信号，输出部分则可以控制电路的通断。继电器的作用包括扩大控制范围、放大信号、综合信号以及实现自动、遥控和监测等。
-

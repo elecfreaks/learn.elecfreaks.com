@@ -93,7 +93,7 @@ sidebar_label: 案例02 建立植物生长环境温湿度实时看板
 |   光线传感器   |        P3        |
 |    3V继电器    |        P9        |
 
-​			
+​
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-hardware-introduction-026.png)
 
@@ -145,7 +145,7 @@ sidebar_label: 案例02 建立植物生长环境温湿度实时看板
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-programming-case02-1.png)
 
-请参考程序链接：https://makecode.microbit.org/_0f7cFqb5LdX0。
+请参考程序链接：https://makecode.microbit.org/_Xzh42J7PTggz。
 
 ### 下载程序
 

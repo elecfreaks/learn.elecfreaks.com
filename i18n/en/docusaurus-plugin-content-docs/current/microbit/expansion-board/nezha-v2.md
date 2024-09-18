@@ -145,7 +145,7 @@ Power indicators are able to display the current battery level.
 
 For programming Nezha Breakout board V2, we need to add an extension. Click "Extensions" in the MakeCode drawer to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-add-extension-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/images/classroom-science-pack-add-extensions-02.png)
 
 Search with "nezha2" and have it downloaded.
 

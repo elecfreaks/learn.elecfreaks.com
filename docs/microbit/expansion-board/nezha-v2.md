@@ -170,7 +170,7 @@ Type-C 充电接口，最大支持5V3A，充电时长50min。
 
 为了给哪吒多功能扩展盒V2编程，我们需要添加一个扩展库。在代码抽屉中找到“扩展”，并点击它。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-add-extension-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/images/classroom-science-pack-add-extensions-02.png)
 
 这时会弹出一个对话框，搜索“nezha2”，然后点击下载这个代码库。
 

@@ -21,6 +21,7 @@ sidebar_label: 产品简介
 
 #### （3）完全仿照太空登月计划的行程设计的太空地图。
 
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-introduction-03.png)
 
 #### （4）配备全新的哪吒多功能扩展盒V2与行星系列智能积木马达。
@@ -37,7 +38,9 @@ sidebar_label: 产品简介
 -  电量指示灯升级为4颗。
 -  充电接口升级为Type-C接口。
 
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-introduction-04.png)
+
 
 ##### 行星系列智能积木马达
 
@@ -47,7 +50,9 @@ sidebar_label: 产品简介
 - 温度保护、电压保护、堵转保护。
 - 全面兼容积木结构件。
 
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-introduction-05.png)
+
 
 #### （5）使用行星系列传感器。
 

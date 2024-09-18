@@ -23,7 +23,9 @@ The micro:bit Space Science Kit is a STEAM education kit designed for elementary
 
 #### (3)A space map designed in complete imitation of the journey of the space moon landing program.
 
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-introduction-03.png)
+
 
 #### (4)Equipped with the new nezha breakout board v2 and PlanetX smart brick motor.
 
@@ -38,7 +40,9 @@ The micro:bit Space Science Kit is a STEAM education kit designed for elementary
 -  The battery level indicator has been upgraded to four lights.
 -  The charging port has been upgraded to a Type-C interface.
 
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-introduction-04.png)
+
 
 ##### PlanetX Smart Brick Motor:
 
@@ -47,7 +51,10 @@ The micro:bit Space Science Kit is a STEAM education kit designed for elementary
 - High torque and fast response speed.
 - Temperature protection, voltage protection, and stall protection.
 - Fully compatible with building block structural components.
+
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-introduction-05.png)
+
 
 #### (5)Use PlanetX Sensor。
 

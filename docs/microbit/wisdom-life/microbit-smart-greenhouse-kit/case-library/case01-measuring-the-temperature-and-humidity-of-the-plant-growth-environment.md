@@ -89,7 +89,7 @@ sidebar_label: 案例01 测量植物生长环境温湿度
 |   光线传感器   |        P3        |
 |    3V继电器    |        P9        |
 
-​			
+​
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-hardware-introduction-026.png)
 
@@ -141,7 +141,7 @@ sidebar_label: 案例01 测量植物生长环境温湿度
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-programming-case01-1.png)
 
-请参考程序链接：https://makecode.microbit.org/_i8ibYWdwtTgL。
+请参考程序链接：https://makecode.microbit.org/_VHwgayRtyVam。
 
 ### 下载程序
 

@@ -10,16 +10,31 @@
 
 独立电机控制：配备的电机控制按钮允许学生在不接入 micro:bit 的情况下，直接控制电机的转动方向，提供了额外的操作自由度。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/nezha2-characteristics-01-01.png)
+
+GIF待更新
+
 RJ11端口设计：采用 RJ11 接头，设计上注重防误插特性，简化了连线过程，提升了课堂使用效率。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/nezha2-characteristics-02.png)
 
 颜色识别系统：创新的颜色识别系统通过端口标签、传感器标签与积木块的颜色对应，为学生提供了一个直观的识别和连接方式，降低了学习难度。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/nezha2-characteristics-03.png)
+
+支持闭环电机：支持闭环电机，通过闭环反馈系统，实现更精准的位置控制和速度调节，提升整体系统的稳定性和可靠性。无论是精密的机械臂操作还是复杂的运动模拟，都能游刃有余地完成。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/nezha2-characteristics-04.gif)
+
 兼容性设计：外壳上的乐高和慧鱼结构件兼容接口，不仅增强了产品的通用性，还激发了学生的创造力，鼓励他们探索电子技术与物理结构相结合的无限可能。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/nezha2-characteristics-05.png)
 
 滑动式电源开关：滑动式电源开关需要明确的滑动动作来切换电源状态，减少了意外触碰导致的误操作风险。它提供了物理上的反馈，确保用户可以通过触感确认开关的状态，避免不确定状态。
 
-## 技术规格
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/nezha2-characteristics-06.png)
 
+## 技术规格
 
 | 项目 | 参数 |
 | ------------------- | ----------------------------------- |
@@ -45,6 +60,10 @@ RJ11端口设计：采用 RJ11 接头，设计上注重防误插特性，简化�
 | 马达接口 | 4个 |
 | 传感器接口 | 8个 |
 
+## 引脚图介绍
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-nezha202.png)
+
 ## 主要模块介绍
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-interface-diagram.png)
@@ -68,7 +87,7 @@ RJ11端口设计：采用 RJ11 接头，设计上注重防误插特性，简化�
 
 ### IO接口
 
-兼容行星系列的颜色识别系统，接口处有黄色矩形标签或红色矩形标签，黄色矩形标签接口为模拟接口，红色矩形标签接口为数字接口。
+兼容行星系列的颜色识别系统，接口处有黄色矩形标签或红色矩形标签，黄色矩形标签接口支持模拟输入，红色矩形标签接口支持数字输入。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-io.png)
 
@@ -153,7 +172,7 @@ Type-C 充电接口，最大支持5V3A，充电时长50min。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-add-extension-01.png)
 
-这时会弹出一个对话框，搜索“https://github.com/elecfreaks/pxt-nezha2”，然后点击下载这个代码库。
+这时会弹出一个对话框，搜索“nezha2”，然后点击下载这个代码库。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-add-extension-02.png)
 

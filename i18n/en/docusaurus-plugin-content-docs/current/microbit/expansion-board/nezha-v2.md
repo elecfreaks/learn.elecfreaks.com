@@ -10,13 +10,27 @@ The Nezha Breakout Board V2 is a micro:bit expansion board designed for educatio
 
 Independent Motor Control: Equipped with motor control buttons that allow students to directly control the direction of rotation of the motor without accessing the micro:bit, providing additional freedom of operation.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/nezha2-characteristics-01-01.png)
+
 RJ11 port design: Adopting RJ11 connector, the design focuses on the anti-misplugging feature, which simplifies the wiring process and enhances the efficiency of classroom situaton.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/nezha2-characteristics-02.png)
 
 Colour recognition system: The innovative colour recognition system provides students with an intuitive way of identifying and connecting the blocks through the port labels and sensor labels corresponding to the colours of the blocks, reducing the difficulty of learning.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/nezha2-characteristics-03.png)
+
+Support for closed-loop motors: Through a closed-loop feedback system, it achieves more precise position control and speed regulation, enhancing the overall system's stability and reliability. Whether it's the operation of a precision robotic arm or complex motion simulation, it can be completed with ease.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/nezha2-characteristics-04.gif)
+
 Compatibility design: The LEGO and Fischertechnik structural components compatible interface on the shell not only enhances the versatility of the product, but also stimulates students' creativity and encourages them to explore the infinite possibilities of combining electronic technology with physical structures.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/nezha2-characteristics-05.png)
+
 Slide Power Switch: The slide power switch requires a clear sliding action to switch the power state, reducing the risk of misuse due to accidental touch. It provides physical feedback to ensure that the user can confirm the state of the switch by touch and avoid uncertainty.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/nezha2-characteristics-06.png)
 
 ## Technical Specification
 
@@ -44,6 +58,10 @@ Slide Power Switch: The slide power switch requires a clear sliding action to sw
 | Lasting Operation Time | 45min（Connect the AI Lens, 4 Smart Motors, 2 LED modules, there might be some difference because of the testing enviornment and so on) |
 | Motor Connectors | 4 Units  |
 | Sensors Connectors | 8 Units |
+
+## Introduction to interface pins
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-nezha202.png)
 
 ## Introduction to Main Modules
 
@@ -129,7 +147,7 @@ For programming Nezha Breakout board V2, we need to add an extension. Click "Ext
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-add-extension-01.png)
 
-Search with "https://github.com/DeXin64/pxt-nezha2.git" and have it downloaded.
+Search with "nezha2" and have it downloaded.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-add-extension-02.png)
 

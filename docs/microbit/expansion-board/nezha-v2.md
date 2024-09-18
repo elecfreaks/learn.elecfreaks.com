@@ -12,7 +12,7 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/nezha2-characteristics-01-01.png)
 
-GIF待更新
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/nezha2-characteristics-01-01.gif)
 
 RJ11端口设计：采用 RJ11 接头，设计上注重防误插特性，简化了连线过程，提升了课堂使用效率。
 

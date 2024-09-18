@@ -12,6 +12,8 @@ Independent Motor Control: Equipped with motor control buttons that allow studen
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/nezha2-characteristics-01-01.png)
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/nezha2-characteristics-01-01.gif)
+
 RJ11 port design: Adopting RJ11 connector, the design focuses on the anti-misplugging feature, which simplifies the wiring process and enhances the efficiency of classroom situaton.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/nezha2-characteristics-02.png)

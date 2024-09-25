@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
-sidebar_label: Joysticks:bit V2
+sidebar_label: Joystick:bit V2
 ---
 
-# Joysticks:bit V2
+# Joystick:bit V2
 
 ## 简介
 

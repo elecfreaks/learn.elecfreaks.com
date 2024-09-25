@@ -14,7 +14,7 @@ sidebar_label: 规格参数
 | 产品尺寸 | 33cm × 19cm × 11cm |
 | 产品重量 | 1420g |
 | 电子模块数量 | 4 |
-| 电子模块 | cutebot智能赛车 × 2 <br /> joysticks:bit × 2 |
+| 电子模块 | cutebot智能赛车 × 2 <br /> joystick:bit × 2 |
 | 案例数量 | 6 + 12 |
 | 适用年龄 | 10+ |
 | 编程方式 | makecode |

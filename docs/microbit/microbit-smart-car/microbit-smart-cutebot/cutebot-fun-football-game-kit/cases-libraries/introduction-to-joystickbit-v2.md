@@ -1,24 +1,24 @@
 ---
 sidebar_position: 5
-sidebar_label: 了解Joysticks:bit V2
+sidebar_label: 了解Joystick:bit V2
 ---
 
-# 了解Joysticks:bit V2
+# 了解Joystick:bit V2
 
 ## 课程简介
 
-这节课我们将简单的了解Joysticks:bit V2的功能和使用。
+这节课我们将简单的了解Joystick:bit V2的功能和使用。
 
 ## 课前准备
 | **图片** | **名称** | **数量** | **备注** |
 | --- | --- | --- | --- |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/joysticksbit.png) | joysticks:bit V2 | 1 |  |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/joysticksbit.png) | joystick:bit V2 | 1 |  |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/battery.png) | 7号电池 | 2 | 自行准备 |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/USB-data-cable.png) | USB数据线 | 1 |   |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit.png) | micro:bit | 1 | 自行准备 |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/pc.png) | PC | 1 | 自行准备 |
 
-## Joysticks:bit V2简介
+## Joystick:bit V2简介
 ---
 
 Joystick:bit V2是一款基于micro:bit 的游戏手柄。它包含可控制4个方向的手柄和4个未定义的按钮。同时也搭配了蜂鸣器和振动马达，增强了游戏体验。它外观小巧，手感舒适，可远程遥控。

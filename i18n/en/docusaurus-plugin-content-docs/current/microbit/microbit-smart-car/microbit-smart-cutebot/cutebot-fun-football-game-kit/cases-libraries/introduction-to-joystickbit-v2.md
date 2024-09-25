@@ -1,19 +1,19 @@
 ---
 sidebar_position: 5
-sidebar_label: Learn about Joysticks:bit V2
+sidebar_label: Learn about Joystick:bit V2
 ---
 
-# Learn about Joysticks:bit V2
+# Learn about Joystick:bit V2
 
 ## Course Description
 
-In this lesson we will take a brief look at the features and use of Joysticks:bit V2.
+In this lesson we will take a brief look at the features and use of Joystick:bit V2.
 
 ## Lesson Preparation
 
 micro:bit
 
-Joysticks:bit V2
+Joystick:bit V2
 
 2 x #7 batteries
 
@@ -23,13 +23,13 @@ USB cable
 
 | **Picture** | **Name** | **Number** | **Notes** |
 | --- | --- | --- | --- |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/joysticksbit.png)  | joysticks:bit V2 | 1 |  |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/joysticksbit.png)  | joystick:bit V2 | 1 |  |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/battery.png) | AAA battery | 2 | Prepare Yourself |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/USB-data-cable.png) | USB Cable | 1 |   |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit.png) | micro:bit | 1 | Prepare Yourself |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/pc.png) | PC | 1 | Prepare Yourself |
 
-## Introduction to Joysticks:bit V2
+## Introduction to Joystick:bit V2
 
 ---
 

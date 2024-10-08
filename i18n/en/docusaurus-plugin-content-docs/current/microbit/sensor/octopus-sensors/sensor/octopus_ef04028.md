@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The MQ2 analog gas sensor is used in gas leak detection equipment for consumer and industrial markets. It is suitable for detecting smoke and has high sensitivity and fast response time. The sensitivity can be adjusted by potentiometer.
+MQ2 analog gas sensor is used to detect smoke, with high sensitivity and fast response time. The sensitivity can be adjusted by potentiometer.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04028_01.png)
 

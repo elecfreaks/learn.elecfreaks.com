@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Based on ESP8266 module, it is able to connect the micro:bit to the IoT platform and upload the data or control the micro:bit from the platform.
+it is able to connect the micro:bit to the IoT platform and upload the data or control the micro:bit from the platform.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05043_01.png)
 
@@ -24,7 +24,7 @@ Item | Parameter
 SKU|EF05036
 Connection|RJ11
 Connection Type|Serial Communication
-Core IC|ESP8266
+Core IC|BL602
 
 
 ## Outlook and Dimension

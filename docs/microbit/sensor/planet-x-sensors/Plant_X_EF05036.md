@@ -1,7 +1,7 @@
 ﻿# WIFI模块
 
 ## 简介
-基于ESP8266模块，可让micro:bit连接上物联网平台，实现数据的上传与反向控制。
+基于AI-WB2-12F模块，可让micro:bit连接上物联网平台，实现数据的上传与反向控制。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05043_01.png)
 
@@ -16,7 +16,7 @@
 SKU|EF05036
 接口|RJ11
 接口类型|串口通信
-核心IC|ESP8266
+核心IC|BL602
 
 
 

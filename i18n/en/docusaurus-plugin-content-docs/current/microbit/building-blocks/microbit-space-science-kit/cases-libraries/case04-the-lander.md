@@ -163,7 +163,7 @@ Each team will have the opportunity to show the other teams the lander they have
 
 **Expected Results:**After powering on, the lander descends to the moon along the lunar orbit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-manual03.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case04-34.gif)
 
 ### Summarise and Reflect
 

@@ -141,7 +141,7 @@ Each group will have the opportunity to show the other groups the rocket launche
 
 **Expected Results:** After starting up, the lunar rocket is launched from the earth and stops when it encounters obstacles (simulating the movement of the lunar rocket from takeoff on the earth to the lunar orbit coasting point).
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case02-59.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case01-55.gif)
 
 ### Summary and Reflection
 

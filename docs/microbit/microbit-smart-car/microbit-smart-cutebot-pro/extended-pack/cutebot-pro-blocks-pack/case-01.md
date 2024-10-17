@@ -50,6 +50,8 @@ sidebar_label: 案例一 AI路牌识别小车
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-pack/cutebot-pro-blocks-pack/images/cutebot-pro-blocks-pack-step-01-12.png)
 
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/extended-pack/cutebot-pro-blocks-pack/cutebot-pro-block-pack-step.pdf" type="application/pdf" width="100%" height="600px" />
+
 <div
     style={{
         position: 'relative',

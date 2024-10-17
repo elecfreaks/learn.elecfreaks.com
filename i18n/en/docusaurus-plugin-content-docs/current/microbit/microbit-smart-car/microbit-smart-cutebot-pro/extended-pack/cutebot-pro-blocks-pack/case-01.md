@@ -49,10 +49,6 @@ Build a Cutebot Pro smart car that can use AI Lens to recognize road signs.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/extended-pack/cutebot-pro-blocks-pack/images/cutebot-pro-blocks-pack-step-01-12.png)
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot-pro/extended-pack/cutebot-pro-blocks-pack/cutebot-pro-block-pack-step.pdf" type="application/pdf" width="100%" height="600px" />
-
-
-
 ## Hardware Connection
 
 Connect the AI camera to the IIC port of the Cutebot Pro Smart car.

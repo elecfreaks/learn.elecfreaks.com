@@ -91,7 +91,7 @@ Connect the 3V water pump, 3V relay, soil moisture sensor, light sensor and 8 ra
 |     light sensor     |            P3             |
 |       3V relay       |            P9             |
 
-​			
+​
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-hardware-introduction-026.png)
 
@@ -139,7 +139,7 @@ After adding successfully, you can see "**ESP8266_IoT**, **OLED**, **RTC1307**, 
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-programming-case01-1.png)
 
-Please refer to the program link: https://makecode.microbit.org/_i8ibYWdwtTgL.
+Please refer to the program link: https://makecode.microbit.org/_ipbEHbbjtfiT
 
 ### Download the program
 
@@ -185,7 +185,7 @@ Each group has the opportunity to show the smart greenhouse they made to other g
 
 **Expected effect: ** Press button A, the micro:bit LED display screen displays temperature and humidity, press button B, the micro:bit LED display screen turns off.
 
-(GIF animation)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-case1.gif)
 
 ### Summary and reflection
 

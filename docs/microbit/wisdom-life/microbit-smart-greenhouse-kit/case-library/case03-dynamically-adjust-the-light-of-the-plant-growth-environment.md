@@ -192,7 +192,7 @@ sidebar_label: 案例03 动态调节植物生长环境光照
 
 **预期效果：** 随着植物周围环境的光线强度变化，8 颗彩虹灯环发出不同亮度的光线以及不同颜色的光。
 
-（GIF动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-case3.gif)
 
 ### 总结与反思
 

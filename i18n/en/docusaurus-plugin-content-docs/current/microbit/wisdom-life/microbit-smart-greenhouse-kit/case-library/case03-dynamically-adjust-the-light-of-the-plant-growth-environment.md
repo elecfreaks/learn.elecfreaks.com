@@ -87,7 +87,7 @@ Connect the 3V water pump, 3V relay, soil moisture sensor, light sensor and 8 ra
 |     light sensor     |            P3             |
 |       3V relay       |            P9             |
 
-​			
+​
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-hardware-introduction-026.png)
 
@@ -193,7 +193,7 @@ Each group has the opportunity to show the smart greenhouse they made to other g
 
 **Expected effect:** As the light intensity of the plant's surrounding environment changes, the 8 rainbow light rings emit light of different brightness and different colors.
 
-(GIF animation)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-case3.gif)
 
 ### Summary and reflection
 

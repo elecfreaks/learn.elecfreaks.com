@@ -141,7 +141,7 @@ sidebar_label: 案例01 测量植物生长环境温湿度
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-programming-case01-1.png)
 
-请参考程序链接：https://makecode.microbit.org/_VHwgayRtyVam。
+请参考程序链接：https://makecode.microbit.org/_ipbEHbbjtfiT
 
 ### 下载程序
 
@@ -187,7 +187,7 @@ sidebar_label: 案例01 测量植物生长环境温湿度
 
 **预期效果：**按下按钮 A，micro:bit LED 显示屏显示温度和湿度，按下按钮 B，micro:bit LED 显示屏熄灭。
 
-（GIF动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-case1.gif)
 
 ### 总结与反思
 

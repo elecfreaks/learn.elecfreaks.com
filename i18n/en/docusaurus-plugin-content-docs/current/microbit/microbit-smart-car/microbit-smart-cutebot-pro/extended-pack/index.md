@@ -1,6 +1,6 @@
 ---
 sidebar_position: 9
-sidebar_label: Cutebot Pro Blocks Pack
+sidebar_label: Cutebot Pro Blocks Pack(EF08412)
 ---
 
 # Cutebot Pro Blocks Pack

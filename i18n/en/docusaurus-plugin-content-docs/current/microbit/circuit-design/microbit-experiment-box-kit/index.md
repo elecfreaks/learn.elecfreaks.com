@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: Experiment Box
+sidebar_label: Experiment Box(EF08199/EF08200)
 ---
 
 # Introduction

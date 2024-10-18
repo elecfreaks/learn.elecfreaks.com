@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 5
-sidebar_label: Classroom Smart Home Kit
+sidebar_label: Classroom Smart Home Kit(EF08297)
 ---
 
 # Classroom Smart Home Kit

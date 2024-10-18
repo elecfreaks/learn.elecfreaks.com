@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 8
-sidebar_label: Classroom Science Pack
+sidebar_label: Classroom Science Pack(CR00005)
 ---
 
 # Classroom Science Pack

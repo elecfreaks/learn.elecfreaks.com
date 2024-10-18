@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Smart Agriculture Kit
+sidebar_label: Smart Agriculture Kit(EF08254/EF08255)
 ---
 
 # Smart Agriculture Kit

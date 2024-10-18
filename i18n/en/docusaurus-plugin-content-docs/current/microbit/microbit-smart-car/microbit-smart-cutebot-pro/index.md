@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: Cutebot Pro
+sidebar_label: Cutebot Pro(EF08292)
 ---
 
 # Cutebot Pro

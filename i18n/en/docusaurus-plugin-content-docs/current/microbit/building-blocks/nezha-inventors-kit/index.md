@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Nezha Inventor'sInventor Kit
+sidebar_label: Nezha Inventor's Kit(EF08232)
 ---
 
 # Nezha Inventor's Kit

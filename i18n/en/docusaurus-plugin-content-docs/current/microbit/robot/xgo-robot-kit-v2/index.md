@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: micro:bit XGO Robot kit V2
+sidebar_label: micro:bit XGO Robot kit V2(EF08289)
 ---
 
 ## XGO Robot Kit V2 Introduction

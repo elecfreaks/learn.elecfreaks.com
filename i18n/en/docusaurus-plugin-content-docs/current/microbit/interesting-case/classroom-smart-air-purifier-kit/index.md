@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 3
-sidebar_label: Classroom Smart Air Purifier Kit
+sidebar_label: Classroom Smart Air Purifier Kit(EF08298)
 ---
 
 The intelligent air purifier includes components such as the IOT: bit expansion board, motor fan, and dust sensor. These components can achieve rich functions and perfectly match with the micro: bit development board, allowing you to explore more interesting smart home maker projects.

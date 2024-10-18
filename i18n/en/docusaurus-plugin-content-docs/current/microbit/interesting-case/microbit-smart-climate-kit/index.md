@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Smart Climate Kit
+sidebar_label: Smart Climate Kit(EF08314)
 ---
 
 # Smart Climate Kit

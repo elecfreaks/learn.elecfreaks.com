@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: TPBot
+sidebar_label: TPBot(EF08223)
 ---
 
 # TPBot Introduction

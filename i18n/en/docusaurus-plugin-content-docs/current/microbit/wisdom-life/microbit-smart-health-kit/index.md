@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-sidebar_label: Smart Health Kit
+sidebar_label: Smart Health Kit(EF08256/EF08257)
 ---
 
 # Smart Health Kit

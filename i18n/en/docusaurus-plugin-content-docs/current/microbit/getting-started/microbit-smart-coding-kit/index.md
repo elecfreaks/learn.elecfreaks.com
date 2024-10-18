@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Smart Coding Kit
+sidebar_label: Smart Coding Kit(EF08205/EF08206)
 ---
 # Smart Coding Kit
 

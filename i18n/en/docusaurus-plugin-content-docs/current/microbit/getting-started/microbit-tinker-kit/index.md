@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Microbit Tinker Kit
+sidebar_label: Microbit Tinker Kit(EF08181/EF08183)
 ---
 
 # Introduction

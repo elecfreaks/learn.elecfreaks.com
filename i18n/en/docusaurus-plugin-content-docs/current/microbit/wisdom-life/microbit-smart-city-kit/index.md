@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-sidebar_label: Smart City Kit
+sidebar_label: Smart City Kit(EF08252/EF08253)
 ---
 
 # Smart City Kit

@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 6
-sidebar_label: Smart Home Material Pack
+sidebar_label: Smart Home Material Pack(EF08296)
 ---
 
 # Smart Home Material Pack

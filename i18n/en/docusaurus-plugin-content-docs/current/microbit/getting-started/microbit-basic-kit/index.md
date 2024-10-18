@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: Basic Kit
+sidebar_label: Basic (EF08189)
 ---
 
 # Introduction

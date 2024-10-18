@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Microbit Starter Kit
+sidebar_label: Microbit Starter Kit(EF08179/EF08180)
 ---
 
 # Introduction

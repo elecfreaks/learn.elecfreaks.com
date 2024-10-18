@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-sidebar_label: Classroom Smart Pet Feeder Kit
+sidebar_label: Classroom Smart Pet Feeder Kit(EF08299)
 ---
 
 In this post, we are going to introduce a case study of creative making for primary and secondary school students - Smart Pet Feeder. This feeder uses a micro:bit v2, an IOT:bit expansion board, a PIR sensor from the Octopus series as well as a Sonar:bit, a 180° 9g servo, and a cute little wooden house as components.

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: Smart Science IoT Kit
+sidebar_label: Smart Science IoT Kit(EF08203/EF08204)
 ---
 
 # Smart Science IoT Kit

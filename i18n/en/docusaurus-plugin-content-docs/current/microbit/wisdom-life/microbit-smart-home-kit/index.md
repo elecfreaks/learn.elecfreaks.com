@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Smart home Kit
+sidebar_label: Smart home Kit(EF08197/EF08198)
 ---
 
 # Smart home Kit

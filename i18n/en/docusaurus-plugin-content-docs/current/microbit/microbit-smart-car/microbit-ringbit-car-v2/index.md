@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Ring:bit car V2
+sidebar_label: Ring:bit car V2(EF08201/EF08202)
 ---
 
 # Introduction of Ring:bit car V2

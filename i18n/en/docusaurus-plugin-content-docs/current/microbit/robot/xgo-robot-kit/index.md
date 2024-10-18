@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Xgo Robot Kit
+sidebar_label: Xgo Robot Kit(EF08268)
 ---
 
 

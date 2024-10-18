@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Cutebot
+sidebar_label: Cutebot(EF08209)
 ---
 
 # Introduction to  Cutebot

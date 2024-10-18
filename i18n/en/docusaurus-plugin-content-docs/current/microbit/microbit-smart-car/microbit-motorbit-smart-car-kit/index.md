@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-sidebar_label: Motorbit Smart Car
+sidebar_label: Motorbit Smart Car(EF08193)
 ---
 
 # Introduction

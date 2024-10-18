@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: micro:bit Cutebot Football Game Kit
+sidebar_label: micro:bit Cutebot Football Game Kit(EF08414)
 ---
 
 # micro:bit Cutebot Football Game Kit

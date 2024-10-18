@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-sidebar_label: Wonder Rugged Kit
+sidebar_label: Wonder Rugged Kit(EF08212)
 ---
 
 # Introduction to Wonder Rugged Kit

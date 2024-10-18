@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Straw Manipulator
+sidebar_label: Straw Manipulator(EF08270)
 ---
 
 # Straw Manipulator

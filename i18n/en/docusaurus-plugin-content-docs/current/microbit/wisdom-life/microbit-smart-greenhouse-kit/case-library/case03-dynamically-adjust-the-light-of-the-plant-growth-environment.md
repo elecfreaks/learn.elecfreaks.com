@@ -147,7 +147,7 @@ Similarly, you also need to add the official "**neopixel**" library file.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-programming-case03-1.png)
 
-Please refer to the program link: https://makecode.microbit.org/_7ok7XX1XX4rs.
+Please refer to the program link: https://makecode.microbit.org/_RbEirMLr0Hd4
 
 ### Download the program
 

@@ -93,7 +93,7 @@ Connect the 3V water pump, 3V relay, soil moisture sensor, light sensor and 8 ra
 |     light sensor     |            P3             |
 |       3V relay       |            P9             |
 
-​			
+​
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-hardware-introduction-026.png)
 
@@ -189,7 +189,9 @@ Each group has the opportunity to show the smart greenhouse they made to other g
 
 **Expected results: ** Changing the temperature or soil moisture of the smart greenhouse will change the dashboard data on the ThingSpeak platform.
 
-（GIF动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-case2.gif)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-case21.gif)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-programming-preparation-20.png)
 

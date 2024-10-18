@@ -189,7 +189,9 @@ sidebar_label: 案例02 建立植物生长环境温湿度实时看板
 
 **预期效果：**改变智能温室大棚的温度或土壤湿度，ThingSpeak 平台的看板数据也会随着变化。
 
-（GIF动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-case2.gif)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-case21.gif)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-programming-preparation-20.png)
 

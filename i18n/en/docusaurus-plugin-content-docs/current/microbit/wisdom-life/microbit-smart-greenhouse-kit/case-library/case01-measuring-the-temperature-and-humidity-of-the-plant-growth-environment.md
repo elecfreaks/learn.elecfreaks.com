@@ -183,7 +183,7 @@ Encourage students to cooperate, communicate and share experiences with each oth
 
 Each group has the opportunity to show the smart greenhouse they made to other groups and demonstrate.
 
-**Expected effect: ** Press button A, the micro:bit LED display screen displays temperature and humidity, press button B, the micro:bit LED display screen turns off.
+**Expected effect: ** Press button A, the micro:bit LED display screen displays temperature and humidity.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-case1.gif)
 

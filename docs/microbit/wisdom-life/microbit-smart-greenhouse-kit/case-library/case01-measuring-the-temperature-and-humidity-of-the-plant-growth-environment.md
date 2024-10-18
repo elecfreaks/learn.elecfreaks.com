@@ -185,7 +185,7 @@ sidebar_label: 案例01 测量植物生长环境温湿度
 
 每个小组有机会向其他小组展示他们制作的智能温室大棚，并演示。
 
-**预期效果：**按下按钮 A，micro:bit LED 显示屏显示温度和湿度，按下按钮 B，micro:bit LED 显示屏熄灭。
+**预期效果：**按下按钮 A，micro:bit LED 显示屏显示温度和湿度。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-case1.gif)
 

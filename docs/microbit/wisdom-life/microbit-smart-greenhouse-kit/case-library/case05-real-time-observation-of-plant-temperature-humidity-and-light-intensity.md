@@ -191,7 +191,9 @@ sidebar_label: 案例05 实时观察植物温湿度及关照强度
 
 **预期效果：** 当植物生长的土壤湿度值小于200时，水泵开始抽水并输送到植物生长池中。
 
-（GIF动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-case2.gif)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-case5.gif)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-programming-preparation-19.png)
 

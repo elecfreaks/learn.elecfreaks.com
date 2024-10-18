@@ -148,7 +148,7 @@ sidebar_label: 案例03 动态调节植物生长环境光照
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-programming-case03-1.png)
 
-请参考程序链接：https://makecode.microbit.org/_gbvK2JeKYEsp。
+请参考程序链接：https://makecode.microbit.org/_RbEirMLr0Hd4
 
 ### 下载程序
 

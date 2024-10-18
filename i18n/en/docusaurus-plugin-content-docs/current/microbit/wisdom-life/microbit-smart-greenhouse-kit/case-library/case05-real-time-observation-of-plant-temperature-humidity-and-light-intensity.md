@@ -89,7 +89,7 @@ Connect the 3V water pump, 3V relay, soil moisture sensor, light sensor and 8 ra
 |     light sensor     |            P3             |
 |       3V relay       |            P9             |
 
-​			
+​
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-hardware-introduction-026.png)
 
@@ -193,7 +193,9 @@ Each group has the opportunity to show the smart greenhouse they made to other g
 
 **Expected effect:** When the soil moisture value of the plant growth is less than 200, the water pump starts to pump water and deliver it to the plant growth pool.
 
-（GIF动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-case2.gif)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-case5.gif)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-programming-preparation-19.png)
 

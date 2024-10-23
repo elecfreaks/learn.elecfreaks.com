@@ -9,7 +9,7 @@ sidebar_label: Fire Alarm Device
 
 In this project, we will learn how to make a fire alarm device, using the MQ2 smoke sensor to detect smoke. When smoke is detected, it will automatically sound an alarm and spray water to extinguish the fire.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-04-01.png)
 
 ## Teaching Objectives
 
@@ -40,7 +40,7 @@ The purpose of installing an automatic fire alarm system is to detect fires in t
 
 Connect the MQ2 smoke sensor to the P1 interface of the wukong expansion board, the relay to the P2 interface of the wukong expansion board, the water pump to the relay, the collision sensor to the P8 interface of the wukong expansion board, and the OLED display to the IIC interface of the wukong expansion board.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-04-02.png)
 
 ### Programming platform
 
@@ -81,7 +81,7 @@ Search for wukong on the pop-up page and click to select the wukong software lib
 
 Sample program: [https://makecode.microbit.org/_TsohJrKmC60K](https://makecode.microbit.org/_TsohJrKmC60K)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-04-03.png)
 
 You can also download the program directly from the following web page.
 

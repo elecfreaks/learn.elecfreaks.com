@@ -7,7 +7,8 @@ sidebar_label: Smart Fan
 
 ## Introduction
 
-In this project, we will learn how to make a smart fan, using temperature and humidity sensors to monitor the current temperature, and automatically turn on the fan to cool down when the temperature is higher than the threshold.![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-01.png)
+In this project, we will learn how to make a smart fan, using temperature and humidity sensors to monitor the current temperature, and automatically turn on the fan to cool down when the temperature is higher than the threshold.
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-01.png)
 
 ## Teaching objectives
 

@@ -9,7 +9,7 @@ sidebar_label: 火灾报警装置
 
 在本项目中，我们将学习如何制作一个火灾报警装置，利用MQ2烟雾传感器检测烟雾，当检测到烟雾产生时，自动发出警报并喷水灭火。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-04-01.png)
 
 ## 教学目标
 
@@ -40,7 +40,7 @@ sidebar_label: 火灾报警装置
 
 将MQ2烟雾传感器连接到wukong扩展板的P1接口，继电器连接到wukong扩展板的P2接口，水泵连接到继电器上，将碰撞传感器连接到wukong扩展板的P8接口，OLED显示屏连接到wukong扩展板的IIC接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-04-02.png)
 
 ### 编程平台
 
@@ -82,7 +82,7 @@ sidebar_label: 火灾报警装置
 
 示例程序：[https://makecode.microbit.org/_TsohJrKmC60K](https://makecode.microbit.org/_TsohJrKmC60K)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-05-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-04-03.png)
 
 你也可以通过以下网页直接下载程序。
 

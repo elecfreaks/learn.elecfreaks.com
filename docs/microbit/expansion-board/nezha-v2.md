@@ -1,8 +1,8 @@
-# 哪吒多功能扩展盒 V2
+# 哪吒Pro多功能扩展盒
 
 ## 简介
 
-哪吒多功能扩展盒 V2 是一款专为教育和创意编程设计的 micro:bit 扩展板，旨在激发学生的创新思维和动手能力。它不仅集成了两个便捷的电机控制按钮和4路电机驱动，还配备了8路传感器扩展接口，为学生提供了一个实验和探索的多功能平台。这些电机控制按钮允许在不连接 micro:bit 的情况下直接控制电机的转动方向，增加了使用的灵活性。所有接口均采用 RJ11 接头，具备防呆防反插设计，确保了快速准确的连接。扩展盒的外壳特别设计了与乐高和慧鱼结构件兼容的接口，支持学生将电子模块与主流结构件结合，搭建出个性化的创意编程作品。
+哪吒Pro多功能扩展盒是一款专为教育和创意编程设计的 micro:bit 扩展板，旨在激发学生的创新思维和动手能力。它不仅集成了两个便捷的电机控制按钮和4路电机驱动，还配备了8路传感器扩展接口，为学生提供了一个实验和探索的多功能平台。这些电机控制按钮允许在不连接 micro:bit 的情况下直接控制电机的转动方向，增加了使用的灵活性。所有接口均采用 RJ11 接头，具备防呆防反插设计，确保了快速准确的连接。扩展盒的外壳特别设计了与乐高和慧鱼结构件兼容的接口，支持学生将电子模块与主流结构件结合，搭建出个性化的创意编程作品。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2.png)
 
@@ -38,7 +38,7 @@ RJ11端口设计：采用 RJ11 接头，设计上注重防误插特性，简化�
 
 | 项目 | 参数 |
 | ------------------- | ----------------------------------- |
-| 产品名称 | 哪吒多功能扩展盒 V2 |
+| 产品名称 | 哪吒Pro多功能扩展盒 |
 | SKU | EF05070 |
 | 产品尺寸 | 长80mm（不含micro:bit主板长度）x 宽60mm x 高44mm |
 | 产品重量（毛重） | 142g（含锂电池，不含micro:bit主板及周边配件） |
@@ -168,7 +168,7 @@ Type-C 充电接口，最大支持5V3A，充电时长50min。
 
 ### 添加专属扩展库
 
-为了给哪吒多功能扩展盒V2编程，我们需要添加一个扩展库。在代码抽屉中找到“扩展”，并点击它。
+为了给哪吒Pro多功能扩展盒编程，我们需要添加一个扩展库。在代码抽屉中找到“扩展”，并点击它。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/images/classroom-science-pack-add-extensions-02.png)
 
@@ -451,7 +451,7 @@ Type-C 充电接口，最大支持5V3A，充电时长50min。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-python-01.png)
 
-为了给哪吒多功能扩展盒V2编程，我们需要添加Nezha_V2.py文件。点击Project，然后点击Open，并选择Nezha_V2.py。
+为了给哪吒Pro多功能扩展盒编程，我们需要添加Nezha_V2.py文件。点击Project，然后点击Open，并选择Nezha_V2.py。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-python-02.png)
 

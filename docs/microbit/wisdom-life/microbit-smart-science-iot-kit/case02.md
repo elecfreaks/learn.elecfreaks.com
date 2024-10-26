@@ -83,7 +83,7 @@ OLED屏幕连接`IIC`接口。
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_02_04.png)
 ### 程序
 
-请参考程序连接：[https://makecode.microbit.org/_hMFEs1F7j3VF](https://makecode.microbit.org/_hMFEs1F7j3VF)
+请参考程序连接：[https://makecode.microbit.org/_2jvctXPa0heW](https://makecode.microbit.org/_2jvctXPa0heW)
 
 你也可以通过以下网页直接下载程序。
 
@@ -95,7 +95,7 @@ OLED屏幕连接`IIC`接口。
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_hMFEs1F7j3VF"
+        src="https://makecode.microbit.org/_2jvctXPa0heW"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -1,9 +1,4 @@
----
-sidebar_position: 2
-sidebar_label: PlanetX Smart Brick Motor (EF05071)
----
-
-# PlanetX Smart Brick Motor 
+# PlanetX Smart Brick Motor  (EF05071)
 
 ## Introduction
 

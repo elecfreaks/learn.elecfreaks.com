@@ -141,6 +141,10 @@ Click Downloader.
 
 When the smart fan detects that the ambient temperature is higher than the preset temperature, it automatically turns on the fan to cool down.
 
+**For demonstration purposes, materials not included in the set were used in the result display, such as wooden houses, water cups, etc.**
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/2.gif)
+
 ## Extended knowledge
 
 Temperature Temperature is a measure of the hotness or coldness of a substance. Common temperature units are Celsius (°C), Fahrenheit (°F), and Kelvin (K). Changes in temperature cause thermal expansion and contraction of substances. Temperature affects the physical state of a substance, for example, water freezes at 0°C and boils at 100°C.

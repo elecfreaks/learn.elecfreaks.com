@@ -79,9 +79,9 @@ Search for wukong on the pop-up page and click to select the wukong software lib
 
 ### Write a program
 
-Sample program: [https://makecode.microbit.org/_9mhFH7d5pDJi](https://makecode.microbit.org/_9mhFH7d5pDJi)
+Sample program: [https://makecode.microbit.org/_gmH7shARDCzz](https://makecode.microbit.org/_gmH7shARDCzz)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-08-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/case-08-03.png)
 
 You can also download the program directly from the following website.
 
@@ -93,7 +93,7 @@ You can also download the program directly from the following website.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_9mhFH7d5pDJi"
+        src="https://makecode.microbit.org/_gmH7shARDCzz"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -138,6 +138,10 @@ Click Downloader.
 ### Results
 
 The smart medicine box can be controlled to dispense medicine by pressing the collision sensor, the number of times the medicine is taken is displayed on the OLED display, and the light sensor is used to detect the ambient light intensity around the medicine box. When the ambient light intensity exceeds the threshold, an alarm is automatically issued to remind the user not to store the medicine in a strong light environment.
+
+**For demonstration purposes, materials not included in the set were used in the result display, such as wooden houses, water cups, etc.**
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/6.gif)
 
 ## Extended knowledge
 

@@ -80,9 +80,9 @@ sidebar_label: 智能药盒
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_9mhFH7d5pDJi](https://makecode.microbit.org/_9mhFH7d5pDJi)
+示例程序：[https://makecode.microbit.org/_gmH7shARDCzz](https://makecode.microbit.org/_gmH7shARDCzz)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-08-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/case-08-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -94,7 +94,7 @@ sidebar_label: 智能药盒
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_9mhFH7d5pDJi"
+        src="https://makecode.microbit.org/_gmH7shARDCzz"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -143,6 +143,10 @@ sidebar_label: 智能药盒
 ### 结果
 
 通过按下碰撞传感器来控制智能药盒出药，通过OLED显示屏显示吃药次数，利用光线传感器检测药盒周围的环境光强度，当环境光强度超过阈值时，自动发出警报，提醒使用者不要在强光环境下保存药品。
+
+**为了演示效果，结果展示中使用了套装中没有的物料，比如：木质房屋、水杯等。**
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/6.gif)
 
 ## 扩展知识
 

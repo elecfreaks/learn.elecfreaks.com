@@ -140,6 +140,10 @@ Click Downloader.
 
 After turning on, the smart light automatically turns on or off the rainbow light according to the ambient light intensity.
 
+**For demonstration purposes, materials not included in the set were used in the result display, such as wooden houses, water cups, etc.**
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/1.gif)
+
 ## Extended knowledge
 
 **Application of smart light-controlled lights in life**

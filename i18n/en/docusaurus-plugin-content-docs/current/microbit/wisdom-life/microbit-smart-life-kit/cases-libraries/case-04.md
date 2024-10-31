@@ -139,6 +139,10 @@ Click Downloader.
 
 When the fire alarm device detects smoke or is manually triggered, it will automatically spray water and sound an alarm.
 
+**For demonstration purposes, materials not included in the set were used in the result display, such as wooden houses, water cups, etc.**
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/8.gif)
+
 ## Extended knowledge
 
 **What functions should the automatic fire alarm system include? **

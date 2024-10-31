@@ -144,6 +144,9 @@ sidebar_label: 智能洗手台
 
 开机后，OLED显示当前的水位值，并通过舵机的转动角度更加直观的体现当前水位情况。
 
+**为了演示效果，结果展示中使用了套装中没有的物料，比如：木质房屋、水杯等。**
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/4.gif)
 
 ## 扩展知识
 

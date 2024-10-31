@@ -144,6 +144,10 @@ sidebar_label: 智能风扇
 
 当智能风扇监测到周围环境温度高于预设温度时，自动开启风扇进行降温。
 
+**为了演示效果，结果展示中使用了套装中没有的物料，比如：木质房屋、水杯等。**
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/2.gif)
+
 ## 扩展知识
 
 

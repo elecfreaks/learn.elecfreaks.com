@@ -144,6 +144,9 @@ sidebar_label: 免接触垃圾桶
 
 当有人靠近免接触垃圾桶时，垃圾桶自动开启盖子。
 
+**为了演示效果，结果展示中使用了套装中没有的物料，比如：木质房屋、水杯等。**
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/5.gif)
 
 ## 扩展知识
 

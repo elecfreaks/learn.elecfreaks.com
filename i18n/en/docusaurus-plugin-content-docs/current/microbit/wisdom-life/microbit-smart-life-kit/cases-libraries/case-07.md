@@ -142,6 +142,11 @@ Click Download.
 
 When the smoke concentration and ambient temperature exceed the threshold, the alarm will be automatically triggered.
 
+**For demonstration purposes, materials not included in the set were used in the result display, such as wooden houses, water cups, etc.**
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/7.gif)
+
+
 ## Extended knowledge
 
 ### Make a volcano model

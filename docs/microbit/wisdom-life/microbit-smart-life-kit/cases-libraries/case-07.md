@@ -144,6 +144,9 @@ sidebar_label: 火山喷发报警器
 
 当检测到烟雾浓度和环境温度超过阈值时，自动报警。
 
+**为了演示效果，结果展示中使用了套装中没有的物料，比如：木质房屋、水杯等。**
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/7.gif)
 
 ## 扩展知识
 

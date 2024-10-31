@@ -144,6 +144,10 @@ sidebar_label: 火灾报警装置
 
 当火灾报警装置检测到烟雾或者被手动触发时，会自动喷水并发出报警声。
 
+**为了演示效果，结果展示中使用了套装中没有的物料，比如：木质房屋、水杯等。**
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/8.gif)
+
 ## 扩展知识
 
 **火灾自动报警系统应该包含哪些功能？**

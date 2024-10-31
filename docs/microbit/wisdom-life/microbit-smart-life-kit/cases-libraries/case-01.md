@@ -144,6 +144,9 @@ sidebar_label: 智能灯
 
 开机后，智能灯根据环境光强度自动点亮或者熄灭彩虹灯。
 
+**为了演示效果，结果展示中使用了套装中没有的物料，比如：木质房屋、水杯等。**
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/1.gif)
 
 ## 扩展知识
 

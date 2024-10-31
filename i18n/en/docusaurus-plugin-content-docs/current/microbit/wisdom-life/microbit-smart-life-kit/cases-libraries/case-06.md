@@ -142,6 +142,9 @@ Click Downloader.
 
 When someone approaches the touch-free trash can, the trash can automatically opens its lid.
 
+**For demonstration purposes, materials not included in the set were used in the result display, such as wooden houses, water cups, etc.**
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/5.gif)
 
 ## Expand knowledge
 

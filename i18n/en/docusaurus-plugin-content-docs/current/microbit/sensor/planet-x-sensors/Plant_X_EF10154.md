@@ -39,7 +39,7 @@
 
 Take Nezha breakout board for an example.
 
-Connect the two motors to M1 and M2. 
+Connect the two motors to M1 and M2.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/motor-1-2.png)
 
@@ -48,15 +48,15 @@ Connect the two motors to M1 and M2.
 
 ## Add the Extensions
 
-Click "Advanced" in the MakeCode drawer to see more choices. 
+Click "Advanced" in the MakeCode drawer to see more choices.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/motor-1-3.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/03444_05.png)
 
-For programming Nezha breakout board, we need to add the extensions. Click "Extensions" on the bottom of the drawer and search with “nezha" to download the extension. 
+For programming Nezha breakout board, we need to add the extensions. Click "Extensions" on the bottom of the drawer and search with “nezha" to download the extension.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/motor-1-4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/03444_06.png)
 
-*Tips:* If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips suggest or you can create a new project from the menu bar. 
+*Tips:* If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips suggest or you can create a new project from the menu bar.
 
 
 ## Samples for Operation
@@ -65,7 +65,7 @@ For programming Nezha breakout board, we need to add the extensions. Click "Exte
 
 ### Code as below:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/motor-1-5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/motor-1-5.png)
 
 
 ### Reference Link

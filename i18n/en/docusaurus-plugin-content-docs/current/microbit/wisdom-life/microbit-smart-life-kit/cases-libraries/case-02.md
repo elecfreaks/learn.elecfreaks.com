@@ -142,6 +142,10 @@ Click Downloader.
 
 After turning on, the OLED displays the current water level value, and the current water level situation is more intuitively reflected through the rotation angle of the servo.
 
+**For demonstration purposes, materials not included in the set were used in the result display, such as wooden houses, water cups, etc.**
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/3.gif)
+
 ## Extended knowledge
 
 **Why do we need a water level monitoring device? **

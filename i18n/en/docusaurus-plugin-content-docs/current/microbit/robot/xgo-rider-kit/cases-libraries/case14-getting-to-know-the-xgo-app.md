@@ -93,7 +93,7 @@ This tutorial will take you from downloading the XGO APP, to the final skill of 
 
 **Expected Results:**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case10014.gif)
 
 ### Summarize and Reflect
 
@@ -106,4 +106,3 @@ This tutorial will take you from downloading the XGO APP, to the final skill of 
 
 
 ## Extended Knowledge
-

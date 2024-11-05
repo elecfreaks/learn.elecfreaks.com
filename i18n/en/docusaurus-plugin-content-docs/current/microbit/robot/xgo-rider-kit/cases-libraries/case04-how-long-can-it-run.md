@@ -152,7 +152,7 @@ In the previous learning process, we have become familiar with how to use progra
 
 **Expected results:**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case1004.gif)
 
 ### Summary and reflection
 

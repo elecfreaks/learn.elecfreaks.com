@@ -167,7 +167,7 @@ sidebar_label: 案例04 还能跑多久
 
 **预期效果：**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case1004.gif)
 
 ### 总结与反思
 

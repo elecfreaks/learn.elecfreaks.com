@@ -170,7 +170,7 @@ sidebar_label: 案例02 炫彩互动
 
 **预期效果：**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case1002.gif)
 
 ### 总结与反思
 

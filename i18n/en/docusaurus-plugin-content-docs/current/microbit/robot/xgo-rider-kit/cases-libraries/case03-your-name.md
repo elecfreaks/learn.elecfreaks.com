@@ -150,7 +150,7 @@ In the previous course, we have mastered how to communicate and interact with th
 
 **Expected results:**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case1003.gif)
 
 ### Summary and reflection
 

@@ -145,7 +145,7 @@ Periodic motion is an important element in the dynamic performance of robots. It
 
 **Expected results:**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case10011.gif)
 
 ### Summary and reflection
 

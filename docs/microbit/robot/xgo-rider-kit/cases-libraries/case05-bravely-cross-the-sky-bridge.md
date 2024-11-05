@@ -166,7 +166,7 @@ sidebar_label: 案例05 勇闯天桥
 
 **预期效果：**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case1005.gif)
 
 ### 总结与反思
 

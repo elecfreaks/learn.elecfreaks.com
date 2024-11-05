@@ -153,7 +153,7 @@ In this course, we will study in depth the working principle of the servo and ex
 
 **Expected results:**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case1006.gif)
 
 ### Summary and reflection
 

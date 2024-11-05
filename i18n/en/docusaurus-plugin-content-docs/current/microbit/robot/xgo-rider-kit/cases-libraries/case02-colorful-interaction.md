@@ -146,6 +146,8 @@ Next, follow the tutorial of this lesson to learn the programming control knowle
 
 **Expected results:**
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case1002.gif)
+
 ### Summary and reflection
 
 - Review the content of this course and confirm the knowledge and skills that students have mastered.

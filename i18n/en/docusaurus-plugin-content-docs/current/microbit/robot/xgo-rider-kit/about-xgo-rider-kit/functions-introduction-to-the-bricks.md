@@ -7,7 +7,7 @@ sidebar_label: Software Library Documentation
 
 # Software Library Documentation
 
-The micro:bit XGO-Rider uses the micro:bit as the main control board, and its programming platform uses the makecode platform. To facilitate users to program and use the micro:bit XGO-Rider, the ENFU team has developed an independent programming library file specifically for the micro:bit XGO-Rider. The following will introduce the function and parameter range of each programming command in detail:
+The micro:bit XGO-Rider uses the micro:bit as the main control board, and its programming platform uses the makecode platform. To facilitate users to program and use the micro:bit XGO-Rider, ELECFREAKS team has developed an independent programming library file specifically for the micro:bit XGO-Rider. The following will introduce the function and parameter range of each programming command in detail:
 
 | Function              | Order                                                        | Parameter                                                    | Detailed explanation                                         |
 | --------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |

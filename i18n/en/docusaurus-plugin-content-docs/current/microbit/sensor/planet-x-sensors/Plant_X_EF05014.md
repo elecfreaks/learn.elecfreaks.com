@@ -18,7 +18,7 @@ It is a simple motor-drived fan module.
 ## Specification
 
 
-Item | 参数
+Item | Parameter
 :-: | :-:
 SKU|EF05014
 Connection|RJ11

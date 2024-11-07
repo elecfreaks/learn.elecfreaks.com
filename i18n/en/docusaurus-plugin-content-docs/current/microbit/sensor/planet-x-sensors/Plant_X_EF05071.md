@@ -37,9 +37,9 @@ Translated with DeepL.com (free version)
 |           SKU            |                           EF05071                            |
 |    Operating Voltage     |                           5.0~9.0V                           |
 |      No-load Speed       |                           125 rpm                            |
-|     Stopping Torque      |                          ≥29  N/cm                           |
-|      Repeatability       |                             ≤3°                              |
-|     Operating Angle      |                          360°  * N                           |
+|       StallTorque        |                           ≥29 Ncm                            |
+|        Accuracy          |                             ≤3°                              |
+|  Operating Travel Angle  |                          360°  * N                           |
 |   Connector Interface    |                             RJ11                             |
 | Building Block Interface |                           support                            |
 |      Speed Reading       |                           support                            |

@@ -152,7 +152,7 @@ With the development of technology, the dynamic balance control of bipedal robot
 
 **Expected results:**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case1005.gif)
 
 ### Summary and reflection
 

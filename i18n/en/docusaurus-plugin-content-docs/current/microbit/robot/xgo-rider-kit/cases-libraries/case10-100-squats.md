@@ -153,7 +153,7 @@ Cyclic squatting is a basic action in robot motion control. It can not only impr
 
 **Expected results:**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case10010.gif)
 
 ### Summary and reflection
 

@@ -147,7 +147,7 @@ Rotational motion is the basis of robot navigation and positioning. In this cour
 
 **Expected results:**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case1009.gif)
 
 ### Summary and reflection
 

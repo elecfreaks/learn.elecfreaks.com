@@ -166,7 +166,7 @@ Z 字形前进是一种常见的机器人路径规划动作，它要求机器人
 
 **预期效果：**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case10012.gif)
 
 ### 总结与反思
 

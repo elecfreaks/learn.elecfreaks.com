@@ -143,7 +143,7 @@ In modern robotics, precise posture control is the key to achieving complex move
 
 **Expected results:**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case1007.gif)
 
 ### Summary and Reflection
 

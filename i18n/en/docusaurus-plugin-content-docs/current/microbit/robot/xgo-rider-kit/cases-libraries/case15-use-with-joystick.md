@@ -174,7 +174,7 @@ Both Joystick:bit V2 and XGO Rider use micro:bit as the main controller, and it 
 
 **Expected Outcomes:**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case10015.gif)
 
 ### Summarize and Reflect
 

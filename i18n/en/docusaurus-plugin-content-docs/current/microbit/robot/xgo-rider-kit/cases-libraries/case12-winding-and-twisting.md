@@ -151,7 +151,7 @@ Before starting teaching, please make sure you have prepared the following neces
 
 **Expected results:**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case10012.gif)
 
 ### Summary and reflection
 

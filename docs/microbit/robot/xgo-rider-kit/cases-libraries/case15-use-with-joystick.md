@@ -182,7 +182,7 @@ Joystick:bit V2 与 XGO Rider 都是使用 micro:bit 为主控制器，可以基
 
 **预期效果：**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case10015.gif)
 
 ### 总结与反思
 

@@ -171,7 +171,7 @@ sidebar_label: 案例01 精彩表演
 
 **预期效果：**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case1001.gif)
 
 ### 总结与反思
 

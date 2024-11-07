@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 5
 sidebar_label: Case 08 Calibration Mode
 ---
 
@@ -150,7 +150,7 @@ With use, the XGO Rider may have posture deviations. This course will teach you 
 
 **Expected results:**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case1008.gif)
 
 ### Summary and Reflection
 

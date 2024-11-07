@@ -1,6 +1,6 @@
 ---
 sidebar_position: 13
-sidebar_label: Case 13:Guard Patrol
+sidebar_label: Case 13 Guard Patrol
 ---
 
 # Case 13: Guard Patrol

@@ -1,239 +1,32 @@
----
-slug: /
-sidebar_position: 1
-id: greeting
----
-
-# 欢迎来到恩孚科技WIKI
-
-![microbit wiki](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/images/elecfreaks-wiki.png)
-
-## Micro:bit 相关产品
----
-
-<cardbox>
-  <card
-    href="./microbit/getting-started/microbit-smart-coding-kit/"
-    title="手表套件"
-    description="micro:bit手表套件Pro(smart coding kit)是一套基于micro:bit纽扣电池扩展板Pro的可穿戴装备，仅需简单的装配步骤，就可DIY一款micro:bit手表。"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/images/smart-coding-kit-icon.png'}
-  />
-  <card
-    href="./microbit/getting-started/microbit-basic-kit/"
-    title="基础套件"
-    description="ELECFREAKS micro:bit basic kit是一款入门级的套件。我们精选了5款最常用的电子积木,他们能通过basic:bit方便地接入micro:bit主板。 这款套件能帮助学生们学习如何快速制作他们的micro:bit项目。这些电子积木可以被makecode默认的积木块直接驱动，无需加载额外的代码库，有利于学生从原理上理解电子积木的使用。"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-basic-kit/images/basic-kit-icon.png'}
-  />
-  <card
-    href="./microbit/getting-started/microbit-tinker-kit/"
-    title="小小发明家套件"
-    description="小小发明家套件包含LED灯、蜂鸣器、土壤湿度传感器、碰撞开关、舵机等十多种常用电子模块，用这些模块可以搭建超过30个案例，基于该套件的全套课程已经在新加坡开展了3年的教学实践，深得师生的好评。"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-tinker-kit/images/tinker-kit-icon.png'}
-  />
-  <card
-    href="./microbit/circuit-design/microbit-starter-kit/"
-    title="小小科学家套件"
-    description="小小科学家(Starter Kit)套件是ELECFREAKS团队出品的micro:bit入门套件。 ElecFreaks Micro：bit 小小科学家专为那些学习电路和编程知识的人们而设计。 该套件提供了一些基本的电子元件，如LED，按钮，蜂鸣器，温度传感器，舵机和电机等。 Micro：bit小小科学家套件可以帮助您进入一个美好的电子世界。"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/starter-kit-icon.png'}
-  />
-  <card
-    href="./microbit/circuit-design/microbit-experiment-box-kit/"
-    title="电子实验箱套件"
-    description="Experiment box是ELECFREAKS团队研发的全新micro:bit教学用具。 Experiment box板载温度传感器、光线传感器、舵机、电机、LED等传统模块，还添加了MOS管，不同阻值电阻，电位器等电子元件，将电路设计与编程设计融为一体。 首次使用香蕉线作为试验箱连接线，即可以轻松插拔也具有稳定的连接性，同时与高等教育教学用具保持一致，为今后大电路设计奠定基础。 使用microbit图形化编程来驱动这些元件，同时可以在没有microbit的情况下学习基础的电路设计。 编程设计或者电路设计，两者如何选择，这都看你！"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-experiment-box-kit/images/experiment-box-kit-icon.png'}
-  />
-  <card
-    href="./microbit/microbit-smart-car/microbit-smart-cutebot/"
-    title="酷比特小车套件"
-    description="ELECFREAKS Cutebot是一款带有双高速电机马达的后驱智能赛车。Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器，两颗RGBLED车大灯，两颗Rainbow LED车底示廓灯，两个车道辅助巡线探头，和更多智能配件！驱动你的第一个智能赛车吧！"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-smart-cutebot/images/smart-cutebot-icon.png'}
-  />
-  <card
-    href="./microbit/microbit-smart-car/microbit-tpbot/"
-    title="天蓬智能车"
-    description="天蓬智能车是一款micro:bit可编程智能车。它可以是玩具，在不插入micro:bit主板的时候能实现巡线与避障等娱乐功能；它也可以是教具，通过它可以学习编程技术。它还可以扩展电子模块和乐高积木，充分激发孩子的想象力与创造力。"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/tpbot-icon.png'}
-  />
-  <card
-    href="./microbit/microbit-smart-car/microbit-ringbit-car-v2/"
-    title="瑞比特小车"
-    description="ELECFREAKS Ring:bit二代智能车是一款小型DIY智能车，由BBC micro:bit和ELECFREAKS Ring:bit组成。Ring:bit扩展了micro:bit的三个GPIO口，可以连接轻松的连接各种传感器和组件。一个基础的Ring:bit智能车可以很容易的编程去驱动，还可以搭配遥控器甚至创建一个彩虹灯塔。只要增加一个扩展模块，你的Ring:bit智能车就可以做更多事情，例如巡线，跟随，避障，绘图和更多玩法。"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-ringbit-car-v2/images/ringbit-car-v2-icon.png'}
-  />
-  <card
-    href="./microbit/microbit-smart-car/microbit-wonder-rugged-car/"
-    title="悟空装甲车"
-    description="麦克纳姆轮小车是一款基于悟空多功能扩展板的全方位移动小车。 采用麦克纳姆轮方案，完美实现360°全方向移动，更可以完成左右漂移等高难度动作，8CM直径超大轮胎，造型狂野。全时四驱强劲动力，四轮都可独立操控 全车采用兼容乐高积木，扩展性超强。自带400mAh锂电池包，板载电源管理系统，支持快速充电，充满仅需20分钟，满负载运行时间可达到30分钟以上。"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-wonder-rugged-car/images/wonder-rugged-car-icon.png'}
-  />
-  <card
-    href="./microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/"
-    title="摩比特小车"
-    description="motor:bit亚克力智能小车是为micro:bit两路电机驱动板量身打造的一款智能小车，它包含micro:bit两路电机驱动板、3线超声波模块和两路巡线模块，可使用它DIY一款micro:bit两轮驱动智能小车。"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-motorbit-smart-car-kit/images/motorbit-smart-car-kit-icon.png'}
-  />
-  <card
-    href="./microbit/wisdom-life/microbit-smart-home-kit/"
-    title="智能家居套件"
-    description="smart home套件是ELECFREAKS团队研发的智能家居主题micro:bit套件。 smart home套件精选TMP36温度传感器、声音传感器、碰撞传感器、舵机、电机等智能家居常用的传感器与执行部件。你可以自行搭建窗台、衣柜、鱼缸与实际生活场景结合起来，使编程变得更加实用与有趣！使用micro:bit图形化编程让这些场景智能化工作，创造属于自己的智能温馨家庭。"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-home-kit/images/smart-home-kit-icon.png'}
-  />
-  <card
-    href="./microbit/wisdom-life/microbit-smart-science-iot-kit/"
-    title="IOT物联网套件"
-    description="物联网科学套件是基于物联网扩展板的micro:bit套件。套件包含超声波、光敏、水位、噪音、气压、灰尘等环境数据监测传感器，可监测超过10种环境数据。 该套件不仅可以学习如何采集与分析环境数据，还能将数据上传至物联网平台实现远程监测与控制，帮助孩子们直观地学习物联网于环保相关的知识。"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smart-science-iot-kit-icon.png'}
-  />
-  <card
-    href="./microbit/wisdom-life/microbit-smart-agriculture-kit/"
-    title="智慧农业套装"
-    description=""
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-agriculture-kit/images/smart-agriculture-kit-icon.png'}
-  />
-  <card
-    href="./microbit/wisdom-life/microbit-smart-city-kit/"
-    title="智慧城市套装"
-    description=""
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-city-kit/images/smart-city-kit-icon.png'}
-  />
-  <card
-    href="./microbit/wisdom-life/microbit-smart-health-kit/"
-    title="智慧医疗套装"
-    description=""
+@ -103,7 +103,7 @@ id: greeting
     img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-health-kit/images/smart-health-kit-icon.png'}
   />
   <card
     href="./microbit-smart-greenhouse-kit/"
+    href="./microbit/wisdom-life/microbit-smart-greenhouse-kit/"
     title="智能温室大棚套装"
     description="智能温室大棚套装是一款优秀的、专为中小学学生设计的模拟植物生长的套装，旨在帮助年轻一代深入了解现代智慧种植业的原理和实际应用。"
     img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-smart-greenhouse-kit-icon.png'}
-  />
-  <card
-    href="./microbit/building-blocks/nezha-inventors-kit/"
-    title="48合1哪吒科学套装"
-    description=""
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit/images/48-in-1-nezha-inventors-kit-icon.png'}
-  />
-  <card
-    href="./microbit/building-blocks/wonder-building-kit/"
-    title="32合1悟空搭建套装"
-    description=""
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/32-in-1-wonder-building-kit-icon.png'}
-  />
-  <card
-    href="./microbit/building-blocks/ringbit-bricks-pack/"
-    title="6合1积木搭建套装"
-    description="6+1积木套件，是ELECFRAKS基于瑞比特开发的积木套件，包含了360度积木舵机、柔性彩虹灯条和近200颗积木零件。通过详细的积木装配图和配套的趣味课程，能够在学习编程的同时，体验到探索搭建结构的乐趣。来跟随我们的脚步，通过搭建和编程制作6+1套件中的积木小车吧。"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/ringbit-bricks-pack/images/6-in-1-ringbit-bricks-pack-icon.png'}
-  />
-  <card
-    href="./microbit/building-blocks/microbit-space-science-kit/"
-    title="micro:bit Space Science Kit"
-    description="micro:bit Space Science Kit is a STEAM education kit designed specifically for primary and secondary school students. With the Nezha Multi functional Expansion Box V2 as the core, it is equipped with planetary series intelligent motors and various planetary sensors. Combined with a lunar landing map and rich building block structural components, it allows children to easily master aviation science and stimulate their enthusiasm for scientific exploration through hands-on construction and lunar landing challenges."
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-introduction-icon.png'}
-  />
-  <card
-    href="./microbit/interesting-case/magic-wand-kit/"
-    title="魔棒套件"
-    description=""
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/magic-wand-kit/images/magic-wand-kit-icon.png'}
-  />
-  <card
-    href="./microbit/interesting-case/straw-manipulator/"
-    title="吸管机械手"
-    description="我们的手是我们最经常使用的身体部位之一，它灵巧多变，纤细优美，有很多作品是模拟手做出的，同样这篇博客介绍的吸管机械手也是模拟手而做出的作品，希望大家喜欢和提出更多的创意。"
+@ -145,19 +145,19 @@ id: greeting
     img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/straw-manipulator/images/straw-manipulator-icon.png'}
   />
   <card
     href="./xgo-robot-kit/"
+    href="./microbit/robot/xgo-robot-kit/"
     title="XGO Robot Kit V1"
     description="XGO 是一款专为青少年人工智能教育而设计的仿生四足机器狗套装，XGO 拥有12个自由度，可以像真实的宠物狗一样实现全向移动与花式造型表演，让孩子们可以与它玩耍的过程中学习机械、电子、编程和AI，为适应未来人工智能生活打下基础。"
     img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/xgo-robot-kit-icon.png'}
   />
   <card
     href="./xgo-robot-kit-v2/"
+    href="./microbit/robot/xgo-robot-kit-v2/"
     title="XGO Robot Kit V2"
     description="XGO Robot Kit V2 是一款具有十五自由度桌面级 Al 四足机器狗。结合仿生学与人工智能，使它在保持小巧机身的同时具备强大功能。XGO Robot Kit V2 背部搭载机械臂和末端夹爪，可以灵活的夹取、携带物品。同时它搭配 XGO Adapter 扩展板，具备 GPIO 接口和 IIC 接口，满足您更多的创新应用。XGO Robot Kit V2 采用2.3KG.CM 总线串口舵机作为关节，可实现全向移动、六维姿态控制、姿态稳定、多种运动步态和夹持任务，内部搭载IMU、关节位置传感器和电流传感器反馈自身姿态和关节转角与力矩，用于内部算法和二次开发.XGO Robot Kit V2 支持图形化编程和 Python 代码编程。这使它成为学习、教学和研究的理想机器狗。"
     img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/xgo-robot-kit-v2-icon.png'}
   />
   <card
     href="./xgo-rider-kit/"
+    href="./microbit/robot/xgo-rider-kit/"
     title="XGO Rider Kit"
     description="micro:bit XGO Rider 是一款专为教育和娱乐设计的可编程双足机器人。它采用 4.5KG.CM 全金属磁编码总线串口舵机作为关节，搭配 FOC 轮毂一体化电机作为驱动，能够实现 360° 全方位的灵活移动、稳定的姿态控制和多种复杂动作。内部搭载的 IMU 传感器确保了机器人在面对不同地形时的适应性和稳定性。micro:bit XGO Rider 支持 MakeCode 图形化编程，并开放了底层串口协议以及 Python 接口，便于用户进行二次开发。通过 XGO 手机 APP，用户可以轻松通过蓝牙遥控 XGO Rider，探索无限可能，是探索编程与机器人技术的理想伙伴。"
     img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/xgo-rider-kit-icon.png'}
-  />
-</cardbox>
-
-
-
-## Pico:ed 相关产品
----
-
-<cardbox>
-  <card
-    href="./pico/picoed/picoed-smart-car/picoed-smart-cutebot"
-    title="Pico:ed酷比特小车"
-    description="Pico:ed酷比特小车。"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-smart-cutebot/images/smart-cutebot-icon.png'}
-  />
-  <card
-    href="./pico/picoed/picoed-smart-car/picoed-ringbit-car-v2"
-    title="Pico:ed瑞比特小车"
-    description="Pico:ed瑞比特小车。"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/picoed-smart-car/picoed-ringbit-car-v2/images/ringbit-car-v2-icon.png'}
-  />
-  <card
-    href="./pico/picoed/circuit-design/picoed-starter-kit"
-    title="Pico:ed小小发明家套件"
-    description="Pico:ed小小发明家套件。"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/starter-kit-icon.png'}
-  />
-</cardbox>
-
-## Arduino 相关产品
----
-
-<cardbox>
-  <card
-    href="arduino/building-blocks/nezhaa-inventors-kit/"
-    title="哪吒A科学套装"
-    description="ELECFREAKS Pico:ed V2是一款基于Raspberry Pi RP2040 MCU的开发板。"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/arduino/building-blocks/nezhaa-inventors-kit/images/36-in-1-nezhaa-inventors-kit-icon.png'}
-  />
-</cardbox>
-
-## TOOCA Laser 1
----
-
-<cardbox>
-  <card
-    href="tooca-l1-laser-engraver/"
-    title="TOOCA L1 Laser Engraver"
-    description="ELECFREAKS Pico:ed V2是一款基于Raspberry Pi RP2040 MCU的开发板。"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/tooca-l1-laser-engraver/images/tooca-laser-1-icon.png'}
-  />
-</cardbox>
-
-## 哔啵小熊板
----
-
-<cardbox>
-  <card
-    href="bitboard/"
-    title="哔啵小熊板"
-    description="ELECFREAKS Pico:ed V2是一款基于Raspberry Pi RP2040 MCU的开发板。"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/bitboard/images/bitboard-icon.png'}
-  />
-</cardbox>
-
-## 饼干游戏编程学习机
----
-
-<cardbox>
-  <card
-    href="retroarcade/"
-    title="饼干游戏编程学习机"
-    description="ELECFREAKS Pico:ed V2是一款基于Raspberry Pi RP2040 MCU的开发板。"
-    img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/retroarcade/images/retroarcade-icon.png'}
-  />
-</cardbox>

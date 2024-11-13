@@ -1,8 +1,8 @@
-# Nezha Breakout Board V2(EF05070)
+# Nezha Pro Breakout Board(EF05070)
 
 ## Introduction
 
-The Nezha Breakout Board V2 is a micro:bit expansion board designed for education and creative programming, aiming to stimulate students' innovative thinking and hands-on skills. It not only integrates two convenient motor control buttons and a 4-way motor driver, but also comes with an 8-way sensor expansion port, providing students with a versatile platform for experimentation and exploration. These motor control buttons allow direct control of the motor's direction of rotation without connecting the micro:bit, increasing flexibility of operation. All interfaces use RJ11 connectors with a dud-proof, anti-reverse plug design to ensure fast and accurate connections. The case of the expansion box is specially designed with interfaces that are compatible with LEGO and Fischertechnik building blocks, supporting students to combine electronic modules with mainstream building blocks to build personalised creative programming creations.
+The Nezha Pro Breakout Board is a micro:bit expansion board designed for education and creative programming, aiming to stimulate students' innovative thinking and hands-on skills. It not only integrates two convenient motor control buttons and a 4-way motor driver, but also comes with an 8-way sensor expansion port, providing students with a versatile platform for experimentation and exploration. These motor control buttons allow direct control of the motor's direction of rotation without connecting the micro:bit, increasing flexibility of operation. All interfaces use RJ11 connectors with a dud-proof, anti-reverse plug design to ensure fast and accurate connections. The case of the expansion box is specially designed with interfaces that are compatible with LEGO and Fischertechnik building blocks, supporting students to combine electronic modules with mainstream building blocks to build personalised creative programming creations.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2.png)
 
@@ -39,7 +39,7 @@ Slide Power Switch: The slide power switch requires a clear sliding action to sw
 
 | Item | Parameter |
 | ------------------- | ----------------------------------- |
-| Name | Nezha Breakout Board V2 |
+| Name | Nezha Pro Breakout Board |
 | SKU | EF02055 |
 | Dimension |L80mm（Not include the micro:bit）x W60mm x H44mm |
 | GW | 142g（Not include the micro:bit） |
@@ -159,7 +159,7 @@ Search with "nezha2" and have it downloaded.
 
 ### Hardware Connections
 
-Connect the PlanetX Smart Brick Motor to the Motor A connector on Nezha Breakout Board V2 as the diagram suggests.
+Connect the PlanetX Smart Brick Motor to the Motor A connector on Nezha Pro Breakout Board as the diagram suggests.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/nezha-v2-hardware-wiring.png)
 

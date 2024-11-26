@@ -54,11 +54,6 @@ Tap on the arrow indication on the main page to enter the control page. The XGO 
 
 ![xgo app蓝牙打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-8.png)
 
-For Android users, search with "XGO" in Google Play; for IOS users, search with "XGO" in the IOS APP Store, after downloading, open it and you will see the interface below:
-
-![xgo app打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/case07-01.png)
-
-
 ## Project
 This project uses XGO App in the  **overall mode** to make the XGO go forward/backward/right/left, you can see the reference video here.
 

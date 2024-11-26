@@ -16,47 +16,48 @@ Hello, in this class we are about to learn to program and control XGO, we will m
 
 1 ×  Smart Phone
 
+
+
 ## Hardware Connection
 ### Download XGO APP
+
+
+Android users can download and install through the following download link, while Apple users can search for XGO in the Apple App Store. After downloading and installing, open the app, and the XGO app interface will be as shown in the figure.
+
+
+![xgo app打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-1.png)
+
+
+Please note that the XGO Robot is compatible with the XGO App version 3.2.3. For Android users, you can download the app using the following link:：https://www.elecfreaks.com/download/xgo/XGO_v3.2.3.apk
+
+
+### Connect to XGO
+
+Click on the Bluetooth icon in the top left corner of the app interface as shown in the figure, and the interface will appear as shown in the figure.
+
+![xgo app蓝牙连接界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-2.png)
+
+![xgo app蓝牙打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-3.png)
+
+Follow the prompts and shake your phone, the Bluetooth will connect automatically. (Note: Make sure to power on the XGO in advance, and turn on the phone's Bluetooth and location services beforehand. If you cannot connect, check your phone settings to ensure that the XGO app has been granted location and Bluetooth permissions.) The result of a successful connection will be as shown in the figure.
+
+
+![xgo app蓝牙打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-7.png)
+
+After the Bluetooth connection is successful, you will automatically return to the main page, where an arrow indication will appear, as shown in the following figure:
+
+![xgo app蓝牙打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-4.png)
+
+## Control
+
+Tap on the arrow indication on the main page to enter the control page. The XGO app offers two ways to control the XGO: **MOTION** and **ARM**. For our first-generation XGO, only the **MOTION** function is needed.
+
+![xgo app蓝牙打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-8.png)
 
 For Android users, search with "XGO" in Google Play; for IOS users, search with "XGO" in the IOS APP Store, after downloading, open it and you will see the interface below:
 
 ![xgo app打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/case07-01.png)
 
-
-Note: The compatible App version for XGO Robot is 2.3.3, Android version download link: https://elecfreaks.com/download/xgo/xgo_v2.3.3.apk
-
-
-### Connect XGO
-
-Click the bluetooth icon on the left up side on the app interface(see picture 1), then you will see the interface as picture 2.
-
-![xgo app蓝牙连接界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/case07-02.png)
-
-![xgo app蓝牙打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/case07-03.png)
-
-Following the tips, shake your phone and the bluetooth will connect automatically(Notice: Turn on the XGO, the bluetooth and location of the phone beforehand, if it fails to connect, please check your settings of the phone to see if you have authorised to use such functions).
-
-
-
-![xgo app蓝牙打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/case07-04.png)
-
-## Control
-There are four ways to control the XGO which include the **performance mode**, the **overall mode**, the **single-leg control** and the **servo control**.
-
-The  **performance mode** has all the preset commands which could control xgo with a low DOFs and a high operability.
-
-![xgo app蓝牙打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/case07-05.png)
-
-The **overall mode** is able to control the speed and directions with a high DOFs and senstive operation.
-
-![xgo app蓝牙打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/case07-06.png)
-
-**Single-leg control** and **servo control** can be controlled with a much smaller granularity for a single leg (left front leg, right front leg, right rear leg, left rear leg), and adjustment of the upper and lower rudder for a single leg. Commonly used for minor adjustments to specific movements.
-
-![xgo app蓝牙打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/case07-07.png)
-
-![xgo app蓝牙打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit/images/case07-08.png)
 
 ## Project
 This project uses XGO App in the  **overall mode** to make the XGO go forward/backward/right/left, you can see the reference video here.

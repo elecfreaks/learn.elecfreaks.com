@@ -21,13 +21,14 @@ sidebar_label: XGO APP 操控 XGO-lite V2 体验
 
 ### 下载 XGO APP
 
-如果您的智能手机的操作系统是安卓系统，您可以通过**百度手机助手**搜索“XGO”并安装即可。安装完成后打开 XGO APP 启动界面如图所示：
+如果您的智能手机的操作系统是安卓系统，您可以通过下面下载连接下载并安装即可。安装完成后打开 XGO APP 启动界面如图所示：
+下载链接：https://www.elecfreaks.com/download/xgo/XGO_v3.2.3.apk
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-1.png)
+![xgo app打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-1.png)
 
 **注意**：
 
-1. 截至该教程编写完成日期，所使用的 XGO APP 版本号为：2.4.0，请保证下载的 XGO APP 版本不低于2.4.0。
+1. 截至该教程编写完成日期，所使用的 XGO APP 版本号为：3.2.3，请保证下载的 XGO APP 版本不低于3.2.3。
 
 2. 安装 XGO APP 完成后，请在设置中将 XGO APP 的权限打开，包括：位置信息、附近的设备，否则可能会搜索不到 XGO-lite V2。
 3. XGO APP 还在逐渐完善中，若您在使用过程中遇到问题，请反馈给我们，售后邮箱地址：support@elecfreakc.com。
@@ -36,35 +37,24 @@ sidebar_label: XGO APP 操控 XGO-lite V2 体验
 
 打开智能手机的蓝牙功能，并将 XGO-lite V2 开机，打开 XGO APP 在首页界面左上角有![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-2.png)图标，点击蓝牙图标，并根据提示将智能手机与 XGO-lite V2 进行连接。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-6.png)
+![xgo app蓝牙连接界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-2.png)
 
 连接成功后如下图所示：
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-4.png)
+![xgo app蓝牙连接界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-7.png)
+
+蓝牙连接成功后会自动返回主页面，出现箭头提示，如下图所示：
+
+![xgo app蓝牙连接界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-4.png)
 
 ## 控制模式
 
-在 XGO App 主界面我们可以看到有三种方式遥控 XGO-lite V2，分别是**表演模式**、**整机控制**、**单腿控制**。
+在 XGO App 主界面我们可以看到有两种方式遥控 XGO-lite V2，分别是**MOTION**、**ARM**。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-10.png)
+![xgo app蓝牙连接界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-8.png)
 
+![xgo app蓝牙连接界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-9.png)
 
-
-**表演模式**是集成预定指令，可以让 XGO-lite V2 做出预定好的动作，自由度低，操作性高；
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-8.png)
-
-
-
-**整机模式**可以自由控制 XGO-lite V2 的速度和方向，自由度高，操作灵敏；
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-9.png)
-
-
-
-**单腿控制**可以控制的颗粒度更小，对单只腿（左前腿、右前腿、右后腿、左后腿）进行控制，对单只腿的上中下舵机进行调节。一般用于对特定动作的微小调节；
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-11.png)
 
 ## 演示
 

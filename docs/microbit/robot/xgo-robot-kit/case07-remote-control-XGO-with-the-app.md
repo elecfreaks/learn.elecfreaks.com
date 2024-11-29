@@ -21,12 +21,12 @@ sidebar_label: 案例07 - 移动端XGO APP控制XGO
 ---
 ### 下载XGO APP
 
-安卓用户可以在百度或者小米应用商店搜索XGO，苹果用户可以在苹果应用市场搜索XGO，下载安装后并打开，XGO app界面如图。
+安卓用户可以通过下面的下载链接下载安装，苹果用户可以在苹果应用市场搜索XGO，下载安装后并打开，XGO app界面如图。
 
 ![xgo app打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-1.png)
 
 
-注意：XGO Robot 适配的XGO App版本为：2.3.3,安卓版下载链接：https://elecfreaks.com/download/xgo/xgo_v2.3.3.apk
+注意：XGO Robot 适配的XGO App版本为：3.2.3,安卓版下载链接：https://www.elecfreaks.com/download/xgo/XGO_v3.2.3.apk
 
 
 
@@ -42,23 +42,17 @@ sidebar_label: 案例07 - 移动端XGO APP控制XGO
 
 ![xgo app蓝牙打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-7.png)
 
+蓝牙连接成功后会自动返回到主页面，主页面出现箭头指示，如下图所示：
+
+![xgo app蓝牙打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-4.png)
+
 ## 控制
 ---
-xgo app有四种方式可以控制xgo，分别是**表演模式**、**整机模式**、**单腿控制**、**舵机控制**。
+点击主页面的箭头指示，进入控制页面，xgo app有两种方式可以控制xgo，分别是**MOTION**、**ARM**，我们一代XGO只需要使用到**MOTION**功能即可。
 
-**表演模式**是集成预定指令，可以让xgo做出预定好的动作，自由度低，操作性高；
 
 ![xgo app蓝牙打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-8.png)
 
-**整机模式**可以自由控制xgo的速度和方向，自由度高，操作灵敏；
-
-![xgo app蓝牙打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-9.png)
-
-**单腿控制**和**舵机控制**可以控制的颗粒度更小，对单只腿（左前腿、右前腿、右后腿、左后腿）进行控制，对单只腿的上中下舵机进行调节。一般用于对特定动作的微小调节；
-
-![xgo app蓝牙打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-10.png)
-
-![xgo app蓝牙打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-11.png)
 
 ## 案例
 ---

@@ -94,9 +94,9 @@ Please refer to the wiring diagram below to connect the components to the corres
 
 ### Sample Code
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case02-42.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbi-space-science-kit-case01-56.png)
 
-Link:https://makecode.microbit.org/_Tr5RoqfMtA1J
+Link: https://makecode.microbit.org/_Tr5RoqfMtA1J
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-read03.png)**Please adjust the Planet smart motor speed appropriately for your classroom.**
 

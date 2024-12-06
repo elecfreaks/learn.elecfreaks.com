@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
-sidebar_label: 天蓬智能车Pro（EF08415）
+sidebar_label: 天蓬智能车Edu（EF08415）
 ---
 
-# 天蓬智能车Pro简介
+# 天蓬智能车Edu简介
 
 ## 简介
 ---

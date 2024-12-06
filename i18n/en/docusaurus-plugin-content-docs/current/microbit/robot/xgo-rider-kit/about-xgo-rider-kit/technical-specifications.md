@@ -23,12 +23,12 @@ sidebar_label: Specifications
 
 |   Product Name   |                          XGO-Rider                           |
 | :--------------: | :----------------------------------------------------------: |
-|   Machine size   |     135mm* 118mm* 116-158mm (L* W* H)          |
+|   Machine size   |              135mm* 118mm* 116-158mm (L* W* H)               |
 |  Machine weight  |                             600g                             |
 | Structural parts |             1mm aluminum alloy, PC, carbon fiber             |
 |   Joint servo    | 6V 4.5KG.CM Metal Shell Steel Gear 360 Degree Magnetic Encoding Dual Axis TTL Serial Port Servo |
 | Wheel hub motor  | 8.4V magnetically encoded outer rotor brushless motor, rated torque 0.1N.m |
-|  Lower computer  |  ESP32 main control, Type-C charging port, dip switch, etc.  |
+|  Lower computer  | The ESP32-WROVER-B module, featuring both WiFi and Bluetooth capabilities, Type-C charging port, dip switch, etc. |
 |     Battery      |                      18500 2S 1400 mAh                       |
 |     Speaker      |                   8 ohm 3W cavity speaker                    |
 |   Battery life   |           Comprehensive working conditions 2 hours           |

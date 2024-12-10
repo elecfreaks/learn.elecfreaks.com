@@ -114,6 +114,6 @@ micro:bit上集成了丰富的传感器，其中就包含了加速度计。在�
 
 ## 更多信息，欢迎访问：
 ---
-[micro:bit知识库地址](https://www.elecfreaks.com/learn-cn/)
+
 micro:bit官方推荐供应商：[恩孚科技淘宝店](https://shop69086944.taobao.com/?spm=a230r.7195193.1997079397.2.RSthR0)
 QQ技术交流群：570756726

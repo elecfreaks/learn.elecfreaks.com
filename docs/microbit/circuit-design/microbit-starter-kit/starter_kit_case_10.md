@@ -132,6 +132,6 @@ micro:bit的IO口的驱动电流非常微弱的，不足以直接驱动电机。
 
 ## 更多信息，欢迎访问：
 ---
-[micro:bit知识库地址](https://www.elecfreaks.com/learn-cn/)
+
 micro:bit官方推荐供应商：[恩孚科技淘宝店](https://shop69086944.taobao.com/?spm=a230r.7195193.1997079397.2.RSthR0)
 QQ技术交流群：570756726

@@ -1,4 +1,4 @@
-name: wiki-Deploy
+name: wiki_Deploy
 
 on: workflow_dispatch
 

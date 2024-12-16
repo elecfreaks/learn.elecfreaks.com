@@ -1,4 +1,4 @@
-name: OLD_Deploy_LEARN
+name: learn_Deploy
 
 on: workflow_dispatch
 

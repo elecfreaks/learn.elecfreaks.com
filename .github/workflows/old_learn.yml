@@ -1,4 +1,4 @@
-name: Deploy
+name: learn_Deploy
 
 on: workflow_dispatch
 

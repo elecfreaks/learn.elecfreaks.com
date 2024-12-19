@@ -4,6 +4,8 @@
 
 TFT2.4寸显示屏，一款专为教育场景设计的高性能彩色屏幕。这款显示屏以其卓越的色彩表现和高分辨率图像展示能力，为您的项目带来生动的视觉体验，内置折线图、饼状图、柱状图图表模板，让您的数据展示更加直观和专业。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_01.png)
+
 ## 特点
 
 彩色显示：色彩丰富，图像清晰。
@@ -24,22 +26,51 @@ SKU：EF04110
 ## 外型与定位尺寸
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/03047_01.png)
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_02.png)
+l
 ## 快速上手
----
+
 ### 硬件连接
 
-将模块S0连接到P15口，S1连接到P1，S2连接到P8，S3连接到P12，OUT连接到P2，VCC连接电源，GND连接接地。将micro:bit主板插入octopus:bit。
-将OLED连接到IIC接口。
+将TFT2.4寸显示屏连接到iot:bit的IIC接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/03047_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_03.png)
 
 ### 软件编程
 
-添加扩展[https://github.com/DoraLC/pxt-tcs3200-color-sensor](https://github.com/DoraLC/pxt-tcs3200-color-sensor)到makecode，在OLED上显示检测到的RGB值。
+#### 添加扩展
 
-程序代码链接：[https://makecode.microbit.org/_JU5Dau19mE9c](https://makecode.microbit.org/_JU5Dau19mE9c)
+添加扩展[https://github.com/ZY2516/tft_lcd](https://github.com/ZY2516/tft_lcd)到makecode。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_04.png)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_05.png)
+
+#### 积木块定义
+
+| 分类 | 积木块 | 功能定义 |
+| --- | --- | --- |
+| **基础** | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_01.png) | 开启或关闭背光 |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_02.png) | 清空屏幕显示内容 |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_03.png) | 设置背景颜色为预设颜色 |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_04.png) | 设置画笔/字体颜色 |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_05.png) | 清除第一行内容 |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_06.png) | 在第N（1~8）行显示文本信息 |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_07.png) | 在第N（1~8）行显示数字信息 |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_08.png) | 在指定坐标位置显示文本信息 |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_09.png) | 在指定坐标位置显示数字信息 |
+| **图形** | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_10.png) | 设定线条起点和终点并绘制线条 |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_11.png) | 设定矩形的对角线起点、终点及是否填充并绘制矩形 |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_12.png) | 设定圆形的圆心、半径及是否填充并绘制圆形 |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_13.png) | 绘制一个弧形加载器并设定其背景颜色 |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_14.png) | 显示进度条 |
+| **图表** | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_15.png) | 绘制一个柱状图/折线图，并初始化其数据域、列数、每组数据的颜色及标签 |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_16.png) | 设定柱状图/折线图中每列数据的标签名及数据输入 |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_17.png) | 绘制一个饼状图，并设置其中数据、标签及颜色 |
+
+#### 示例程序
+
+程序代码链接：[https://makecode.microbit.org/_7rXKwwR6JgLK](https://makecode.microbit.org/_7rXKwwR6JgLK)
 
 你也能通过下列窗口直接下载代码
 <div
@@ -50,7 +81,7 @@ SKU：EF04110
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_JU5Dau19mE9c"
+        src="https://makecode.microbit.org/_7rXKwwR6JgLK"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -63,10 +94,11 @@ SKU：EF04110
 
 ### 结果
 
-OLED显示屏显示当前红蓝绿的值。
-
-## 常见问题
-
-首次使用或重启或更换灯等，请调整WB（白平衡）
-
-调整白平衡时，先固定好颜色传感器，然后将一个白色物体放置在颜色传感器之下，两者相距10mm左右，然后按下按键A初始化颜色传感器。当OLED显示屏显示出RGB值都为255后，替换不同颜色的物体进行检测，并记录RGB值，将RGB值输入Windows画图工具的颜色选取功能中，查看颜色是否正确，如果颜色正确，则调整成功。
+每次按下按键A之后，都会切换显示功能
+功能一：线条、矩形、圆形、文字显示
+功能二：柱状图显示
+功能三：折线图显示
+功能四：饼状图显示
+功能五：进度条显示
+功能六：加载图显示
+按下徽标后，随机切换背景颜色及画笔颜色

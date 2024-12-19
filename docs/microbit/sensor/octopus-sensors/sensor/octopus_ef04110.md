@@ -9,19 +9,23 @@ TFT2.4寸显示屏，一款专为教育场景设计的高性能彩色屏幕。�
 ## 特点
 
 彩色显示：色彩丰富，图像清晰。
+
 图形与文本显示：无论是复杂的图形还是清晰的文本，我们的显示屏都能轻松呈现，满足您对视觉信息展示的需求。
+
 内置图表模板：为了简化数据可视化过程，我们内置了折线图、饼状图、柱状图等多种图表模板，让您的数据展示更加直观和专业。
 
 ## 规格参数
 
-品名：TFT2.4寸显示屏
-SKU：EF04110
-屏幕分辨率：240*320(RGB)
-工作电压：3.3V~5V
-工作电流：60mA
-连接模式：IIC
-尺寸：长72mm x 宽68mm x 高8mm
-净重：23g（不含包装）
+| 项目 | 参数 |
+| --- | --- |
+|品名|TFT2.4寸显示屏|
+|SKU|EF04110|
+|屏幕分辨率|240*320(RGB)|
+|工作电压|3.3V~5V|
+|工作电流|60mA|
+|连接模式|IIC|
+|尺寸|长72mm x 宽68mm x 高8mm|
+|净重|23g（不含包装）|
 
 ## 外型与定位尺寸
 
@@ -49,7 +53,7 @@ l
 #### 积木块定义
 
 | 分类 | 积木块 | 功能定义 |
-| --- | --- | --- |
+| ------- | --- | --- |
 | **基础** | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_01.png) | 开启或关闭背光 |
 |  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_02.png) | 清空屏幕显示内容 |
 |  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_03.png) | 设置背景颜色为预设颜色 |

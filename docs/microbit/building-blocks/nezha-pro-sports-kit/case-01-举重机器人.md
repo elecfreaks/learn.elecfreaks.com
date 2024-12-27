@@ -82,25 +82,8 @@ sidebar_label: 案例一:举重机器人
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-step-01-23.png)
 
 
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E4%B8%BE%E9%87%8D%E6%9C%BA%E5%99%A8%E4%BA%BA%20-%20%E6%97%A0%E4%B8%BB%E6%9D%BF.pdf" type="application/pdf" width="100%" height="600px" />
 
-<div
-    style={{
-        position: 'relative',
-        paddingBottom: '60%',
-        overflow: 'hidden',
-    }}
->
-    <iframe
-        src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E4%B8%BE%E9%87%8D%E6%9C%BA%E5%99%A8%E4%BA%BA%20-%20%E6%97%A0%E4%B8%BB%E6%9D%BF.pdf"
-        frameborder="0"
-        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
-        style={{
-            position: 'absolute',
-            width: '100%',
-            height: '100%',
-        }}
-    />
-</div>
 
 ## 案例演示
 

@@ -21,7 +21,7 @@
 产品名称 | Solar Power Manager V1.0.7
 SKU|EF03461
 电源需求|3V-5.5V
-接口类型|PH2.0</br >Type-C</br >USB-A</br >引脚
+接口类型|PH2.0/Type-C/USB-A/引脚
 产品尺寸 | 长87.8mm x 宽55.8mm x 高26mm
 产品重量 | ？（不含锂电池）
 充电电压 | 5V

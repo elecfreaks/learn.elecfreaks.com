@@ -116,8 +116,8 @@ SKU|EF03461
 |          | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LED-3.png) | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LED-2.png) | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LED-2.png) | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/expansion-board/images/LED-2.png) | 0% ~ 25% |
 
 1. 在电源关闭的状态下，连接电源。
-3. 充电状态下电量指示灯会显示当前电量，并闪烁
-4. 当充满电时，电源指示灯全部点亮，请断开电源，完成充电。
+2. 充电状态下电量指示灯会显示当前电量，并闪烁
+3. 当充满电时，电源指示灯全部点亮，请断开电源，完成充电。
 
 ## 使用说明
 

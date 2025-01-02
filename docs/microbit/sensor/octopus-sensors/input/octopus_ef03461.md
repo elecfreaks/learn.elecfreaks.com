@@ -118,3 +118,17 @@ SKU|EF03461
 1. 在电源关闭的状态下，连接电源。
 3. 充电状态下电量指示灯会显示当前电量，并闪烁
 4. 当充满电时，电源指示灯全部点亮，请断开电源，完成充电。
+
+## 使用说明
+
+如果不安装18650锂电池，可以通过电源输入接口接入外部能源（例如太阳能充电板），打开电源开关，然后通过USB-A接口连接太阳能电源管理模块和用电器，并打开电源开关。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/03461-8.png)
+
+**注意：当两个电源输入接口（PH2.0接口/Type-C接口）同时接入电源时，太阳能电源管理模块会优先使用Type-C接口的电源。**
+
+**注意：太阳能充电板的充电功率与光照强度相关，当光照强度过低时，充电效率太低，无法激活太阳能电源管理模块的电源管理芯片，此时无法进去充电状态。**
+
+如果安装18650锂电池则可以通过锂电池供电，通过USB-A接口连接太阳能电源管理模块和用电器，并打开电源开关。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/03461-9.png)

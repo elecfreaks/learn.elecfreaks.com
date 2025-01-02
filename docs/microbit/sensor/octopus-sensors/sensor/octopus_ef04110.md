@@ -20,7 +20,7 @@ TFT2.4寸显示屏，一款专为教育场景设计的高性能彩色屏幕。�
 | --- | --- |
 |品名|TFT2.4寸显示屏|
 |SKU|EF04110|
-|屏幕分辨率|240*320(RGB)|
+|屏幕分辨率|320*240(RGB)|
 |工作电压|3.3V~5V|
 |工作电流|60mA|
 |连接模式|IIC|
@@ -61,8 +61,8 @@ l
 |  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_05.png) | 清除第一行内容 |
 |  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_06.png) | 在第N（1~8）行显示文本信息 |
 |  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_07.png) | 在第N（1~8）行显示数字信息 |
-|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_08.png) | 在指定坐标位置显示文本信息 |
-|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_09.png) | 在指定坐标位置显示数字信息 |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_08.png) | 在指定坐标（X:0~320,Y:0~240）位置显示文本信息 |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_09.png) | 在指定坐标（X:0~320,Y:0~240）位置显示数字信息 |
 | **图形** | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_10.png) | 设定线条起点和终点并绘制线条 |
 |  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_11.png) | 设定矩形的对角线起点、终点及是否填充并绘制矩形 |
 |  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_12.png) | 设定圆形的圆心、半径及是否填充并绘制圆形 |
@@ -74,7 +74,236 @@ l
 
 #### 示例程序
 
+**设置背景颜色及画笔颜色**
 
+程序代码链接：[https://makecode.microbit.org/_1qggm50bD4Rk](https://makecode.microbit.org/_1qggm50bD4Rk)
+
+你也能通过下列窗口直接下载代码
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_1qggm50bD4Rk"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+**结果**
+
+按下按键A后，在随机位置显示文本A及随机数字（0~9）。
+
+**显示数字及文字**
+
+程序代码链接：[https://makecode.microbit.org/_PF5Ym1a0e45M](https://makecode.microbit.org/_PF5Ym1a0e45M)
+
+你也能通过下列窗口直接下载代码
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_PF5Ym1a0e45M"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+**结果**
+
+开机后，在第一行显示文本A，第二行显示数字0。
+
+**绘制线、圆形、矩形**
+
+程序代码链接：[https://makecode.microbit.org/_57hLj6aTA2ap](https://makecode.microbit.org/_57hLj6aTA2ap)
+
+你也能通过下列窗口直接下载代码
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_57hLj6aTA2ap"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+**结果**
+
+按键A按下后，绘制一条直线；
+
+按键B按下后，绘制一个矩形框；
+
+徽标按下后，绘制一个圆形并填充。
+
+
+**绘制弧形加载器**
+
+程序代码链接：[https://makecode.microbit.org/_FqYiqfL3y0VL](https://makecode.microbit.org/_FqYiqfL3y0VL)
+
+你也能通过下列窗口直接下载代码
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_FqYiqfL3y0VL"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+**结果**
+
+按键A按下后，绘制一个弧形加载器。
+
+
+**绘制进度条**
+
+程序代码链接：[https://makecode.microbit.org/_hxcfvg22vWmL](https://makecode.microbit.org/_hxcfvg22vWmL)
+
+你也能通过下列窗口直接下载代码
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_hxcfvg22vWmL"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+**结果**
+
+按键A按下后，绘制一个进度条。
+
+**绘制一个折线图**
+
+程序代码链接：[https://makecode.microbit.org/_Wqr0fTKvE4ua](https://makecode.microbit.org/_Wqr0fTKvE4ua)
+
+你也能通过下列窗口直接下载代码
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_Wqr0fTKvE4ua"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+
+**结果**
+
+按键A按下后，绘制一个折线图。
+
+**绘制一个柱状图**
+
+程序代码链接：[https://makecode.microbit.org/_bj5eqf16kXjY](https://makecode.microbit.org/_bj5eqf16kXjY)
+
+你也能通过下列窗口直接下载代码
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_bj5eqf16kXjY"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+**结果**
+
+按键A按下后，绘制一个柱状图。
+
+**绘制一个饼状图**
+
+程序代码链接：[https://makecode.microbit.org/_4C9Jq2efHDC2](https://makecode.microbit.org/_4C9Jq2efHDC2)
+
+你也能通过下列窗口直接下载代码
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_4C9Jq2efHDC2"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+**结果**
+
+按键A按下后，绘制一个饼状图。
 
 **总体测试程序**
 

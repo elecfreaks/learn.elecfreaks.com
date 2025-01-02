@@ -7,6 +7,9 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/03461-1.png)
 
+## 产品清单
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/03461-packing-list.png)
 
 ## 特性
 
@@ -24,7 +27,7 @@
 SKU|EF03461
 电源需求|3V-5.5V
 接口类型|PH2.0<br />Type-C<br />USB-A<br />引脚
-产品尺寸 | 长87.8mm x 宽55.8mm x 高26mm
+产品尺寸 | 87.8 x 55.8 x 26mm
 产品重量 | ？（不含锂电池）
 充电电压 | 5V
 充电电流 | 1A
@@ -33,6 +36,20 @@ SKU|EF03461
 最小工作电压 | 4.3V
 待机电流 | 0.03A
 负载最大输出电流 | 1.5A
+
+项目 | 参数
+:-: | :-:
+产品名称 | 太阳能板
+工作电压 (Vmp) | 6V ±3%
+工作电流 (Imp) | 0.16A ±3%
+开路电压 (Voc) | 7.2V ±3%
+短路电流 (Isc) | 0.17A ±3%
+峰值功率 (Pmax) | 1W ±3%
+晶硅片效率 | 20%以上
+功率输出工作温度 | -20 °C to +60°C
+功率公差 | ±3%
+尺寸 | 110 × 60 × 2.2~2.5mm
+重量 | 0.03kg ±0.01
 
 ## 外形与定位尺寸
 

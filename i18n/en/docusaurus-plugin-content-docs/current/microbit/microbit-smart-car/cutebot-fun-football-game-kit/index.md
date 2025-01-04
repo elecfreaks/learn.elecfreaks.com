@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 5
 sidebar_label: micro:bit Cutebot Football Game Kit(EF08414)
 ---
 

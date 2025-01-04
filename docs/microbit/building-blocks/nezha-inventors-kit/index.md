@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: Nezha Inventors Kit
 ---
 
-# 智能家居套件
+# 哪吒科学套装
 
 ## 简介
 

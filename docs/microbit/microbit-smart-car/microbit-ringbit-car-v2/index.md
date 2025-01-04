@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 6
 sidebar_label: 瑞比特小车套件
 ---
 

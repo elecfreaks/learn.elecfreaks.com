@@ -1,11 +1,12 @@
-﻿---
+---
 sidebar_position: 3
-sidebar_label: Jacdac系列传感器
+sidebar_label: Jacdac Sensors
 ---
 
-# 简介
----
+# Jacdac Sensors
 
-**发挥创意，建立联系，编程！**
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
 
-*袖珍电脑改变世界。*
+<DocCardList />
+```

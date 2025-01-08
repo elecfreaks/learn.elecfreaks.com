@@ -82,7 +82,7 @@ ELECFREAKS micro:bit Nezha Inventor’s Kit V2 是一款基于 Planet X 传感�
 
 ![microbit wiki](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-01.png)
 
-## 机器人主题
+### 机器人主题
 ---
 
 <cardbox>
@@ -136,7 +136,7 @@ ELECFREAKS micro:bit Nezha Inventor’s Kit V2 是一款基于 Planet X 传感�
   />
 </cardbox>
 
-## 动物主题
+### 动物主题
 ---
 
 <cardbox>
@@ -172,7 +172,7 @@ ELECFREAKS micro:bit Nezha Inventor’s Kit V2 是一款基于 Planet X 传感�
   />
 </cardbox>
 
-## 趣味案例
+### 趣味案例
 ---
 
 <cardbox>
@@ -222,7 +222,7 @@ ELECFREAKS micro:bit Nezha Inventor’s Kit V2 是一款基于 Planet X 传感�
 
 
 
-## 小车主题
+### 小车主题
 ---
 
 <cardbox>
@@ -282,7 +282,7 @@ ELECFREAKS micro:bit Nezha Inventor’s Kit V2 是一款基于 Planet X 传感�
   />
 </cardbox>
 
-## 智慧生活主题
+### 智慧生活主题
 ---
 
 <cardbox>

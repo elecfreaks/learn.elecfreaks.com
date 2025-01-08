@@ -84,7 +84,7 @@ ELECFREAKS micro:bit Nezha Inventor's Kit V2 is a BBC micro:bit kit designed bas
 
 ![microbit wiki](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-01.png)
 
-## Robots Themes
+### Robots Themes
 ---
 
 <cardbox>
@@ -138,7 +138,7 @@ ELECFREAKS micro:bit Nezha Inventor's Kit V2 is a BBC micro:bit kit designed bas
   />
 </cardbox>
 
-## Animals Themes
+### Animals Themes
 ---
 
 <cardbox>
@@ -174,7 +174,7 @@ ELECFREAKS micro:bit Nezha Inventor's Kit V2 is a BBC micro:bit kit designed bas
   />
 </cardbox>
 
-## Fun Cases
+### Fun Cases
 ---
 
 <cardbox>
@@ -224,7 +224,7 @@ ELECFREAKS micro:bit Nezha Inventor's Kit V2 is a BBC micro:bit kit designed bas
 
 
 
-## Cart Themes
+### Cart Themes
 ---
 
 <cardbox>
@@ -284,7 +284,7 @@ ELECFREAKS micro:bit Nezha Inventor's Kit V2 is a BBC micro:bit kit designed bas
   />
 </cardbox>
 
-## Smart Life Themes
+### Smart Life Themes
 ---
 
 <cardbox>

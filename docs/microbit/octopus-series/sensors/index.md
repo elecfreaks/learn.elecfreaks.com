@@ -1,9 +1,9 @@
 ---
-sidebar_position: 11
+sidebar_position: 2
+sidebar_label: Octopus系列传感器
 ---
 
-# FAQ
-
+# 目录
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
 

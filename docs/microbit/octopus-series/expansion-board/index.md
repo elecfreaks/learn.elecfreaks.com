@@ -1,16 +1,9 @@
 ---
-sidebar_position: 8
-sidebar_label: 扩展板
+sidebar_position: 1
+sidebar_label: Octopus系列扩展板
 ---
 
-
-
-
-
-# 扩展板
-
----
-
+# 目录
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
 

@@ -1,9 +1,9 @@
 ---
-sidebar_position: 3
-sidebar_label: Jacdac Sensors
+sidebar_position: 10
+sidebar_label: Jacdac Series
 ---
 
-# Jacdac Sensors
+# Jacdac Series
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

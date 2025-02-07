@@ -49,10 +49,11 @@ micro:bit XGO robot is an AI dog robot with 12 DOFs designed for the artificial 
 | Battery               | Build-in 7.4V 2500mAh lithium batteries |
 | Input of the Charger  | 100-240V 50~60Hz                        |
 | Output of the Charger | 8.4V 1A                                 |
-| Battery Life          | 120min                                  |
+| Charging time         | About 180 minutes                       |
+| Battery Life          | About 120 minutes                       |
 | Materials of the Body | Aluminium alloy                         |
-| Master Control IC     | STM32/ESP32                             |
-| Program Methods       | APP Control、Makecode      |
+| Master Control IC     | ESP32                                   |
+| Program Methods       | APP Control、Makecode                   |
 | 2.4G Remote Control   | Support                                 |
 | Dimensions(L/*W/*H)   | Support                                 |
 | NW                    | 500g                                    |

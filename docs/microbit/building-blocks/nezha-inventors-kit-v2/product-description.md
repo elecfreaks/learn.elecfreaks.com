@@ -80,7 +80,7 @@ ELECFREAKS micro:bit Nezha Inventor’s Kit V2 是一款基于 Planet X 传感�
 
 ## 案例库
 
-![microbit wiki](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-01.png)
 
 ### 机器人主题
 ---

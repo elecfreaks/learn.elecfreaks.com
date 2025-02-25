@@ -1,9 +1,9 @@
 ---
-sidebar_position: 11
+sidebar_position: 3
+sidebar_label: 舵机与电机
 ---
 
-# FAQ
-
+# 目录
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
 

@@ -47,7 +47,7 @@ TPbot Edu is a STEAM educational intelligent programming car designed specifical
 | --- | --- |
 | Product Name | TPbot Edu |
 | SKU | EF08415 |
-| Product Dimensions | 58.1mm（without micro:bit board length）x W 38.1mm x H 1.6mm |
+| Product Dimensions | 128mm（without micro:bit board length）x W 113mm x H 90mm |
 | Product Weight | 378.7g（With Li-ion battery, without micro:bit board and peripheral accessories） |
 | Charging Voltage | 5V |
 | Charging Current | 2.8A |

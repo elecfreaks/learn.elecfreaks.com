@@ -1,9 +1,9 @@
 ---
-sidebar_position: 11
+sidebar_position: 1
+sidebar_label: PlanetX Series Expansion Board
 ---
 
-# FAQ
-
+# 目录
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
 

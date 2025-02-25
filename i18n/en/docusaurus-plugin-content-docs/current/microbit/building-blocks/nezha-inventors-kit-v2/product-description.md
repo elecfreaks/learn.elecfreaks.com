@@ -56,7 +56,7 @@ ELECFREAKS micro:bit Nezha Inventor's Kit V2 is a BBC micro:bit kit designed bas
 
 ## Packing List
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-11.png)
 
 | Item | QTY |
 |---|---|
@@ -82,7 +82,7 @@ ELECFREAKS micro:bit Nezha Inventor's Kit V2 is a BBC micro:bit kit designed bas
 
 ## Cases Libraries
 
-![microbit wiki](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-01.png)
 
 ### Robots Themes
 ---

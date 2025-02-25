@@ -1,8 +1,11 @@
 ---
-sidebar_position: 11
+sidebar_position: 1
+sidebar_label: Octopus Series Expansion Board
 ---
 
-# FAQ
+
+# Directory
+
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

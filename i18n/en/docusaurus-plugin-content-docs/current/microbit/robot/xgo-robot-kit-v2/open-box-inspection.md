@@ -56,28 +56,41 @@ Press the power switch on the back, the ring light flashes slowly, the robot dog
 
 ### Smartphone Remote Detection
 
-If the operating system of your smartphone is Android, you can search for "XGO" through **Gloogle Play** and install it; after the installation is complete, open the XGO APP startup interface as shown in the figure:
+If your smartphone's operating system is Android, you can download and install it through the following download link. After installation, open the XGO APP to see the startup interface as shown in the figure:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-1.png)
+Download link: https://www.elecfreaks.com/download/xgo/XGO_v3.2.3.apk
 
-**Notice**
-
-1. As of the completion date of this tutorial, the version number of the XGO APP used is: 2.4.0, please ensure that the downloaded XGO APP version is not lower than 2.4.0.
-2. After installing the XGO APP, please open the permissions of the XGO APP in the settings, including location information, and nearby devices, otherwise, XGO-lite V2 may not be searchable.
-
-Turn on the Bluetooth function of the smartphone, turn on the XGO-lite V2, and open the XGO APP, there is an ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-2.png) icon in the upper left corner of the home page click the Bluetooth icon, follow the prompts to connect the smartphone with XGO-lite V2.
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-3.png)
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-4.png)
+![xgo app打开界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-1.png)
 
 
+**Notice**:
 
-Go back to the main page and enter the "Complete Machine Control" page, operate the button in the figure below to see if the XGO-lite V2 acts according to the operation. If the corresponding operation instructions are taken, it means that the XGO-lite V2 is intact.
+1. As of the completion date of this tutorial, the version number of the XGO APP used is: 3.2.3, please ensure that the downloaded XGO APP version is not lower than 3.2.3.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-5.png)
+2. After installing the XGO APP, please open the permissions of the XGO APP in the settings, including: location information, nearby devices, otherwise XGO-lite V2 may not be searchable.
+3. The XGO APP is still being improved gradually. If you encounter any problems during use, please give us feedback, at the after-sales email address: support@elecfreakc.com.
 
+### Connect XGO-lite V2
 
+Turn on the Bluetooth function of the smartphone, turn on the XGO-lite V2, open the XGO APP, there is a ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/xgo-robot-kit-v2/images/microbit-xgo-lite-v2-app-2.png) icon in the upper left corner of the home page, click the Bluetooth icon, and follow the prompts to connect the smartphone to XGO-lite V2.
+
+![xgo app蓝牙连接界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-2.png)
+
+After the connection is successful, as shown in the figure below:
+
+![xgo app蓝牙连接界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-7.png)
+
+After the Bluetooth connection is successful, you will automatically return to the main page, where an arrow prompt will appear, as shown in the following figure:
+
+![xgo app蓝牙连接界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-4.png)
+
+##  Control Mode
+
+On the main interface of the XGO App, we can see that there are three ways to remotely control the XGO-lite V2, namely **MOTION**、**ARM**.
+
+![xgo app蓝牙连接界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-8.png)
+
+![xgo app蓝牙连接界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-robot-kit/images/microbit-xgo-robot-kit-08-9.png)
 
 ### micro:bit programming detection
 

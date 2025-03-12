@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: 哪吒Pro运动套装
+sidebar_label: 哪吒Pro运动套装（EF08428）
 ---
 
 # 哪吒Pro运动套装

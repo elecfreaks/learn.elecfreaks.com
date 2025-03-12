@@ -6,7 +6,7 @@ sidebar_position: 2
 
 # 第一节：SmartIot平台使用手册
 ---
-SmartIot是恩孚科技出品的一个简单易用的物联网平台，3分钟连接物联网，实施远程操控microbit。（中/英文切换暂时没有更新）
+SmartIot是恩孚科技出品的一个简单易用的物联网平台，3分钟连接物联网，随时上传传感器数据，并实施远程操控micro:bit。（中/英文切换暂时没有更新）
 
 平台链接：[SmartIot云平台: https://www.smartiot.space/](https://www.smartiot.space/)
 
@@ -16,7 +16,6 @@ SmartIot是恩孚科技出品的一个简单易用的物联网平台，3分钟�
 
 
 ## SmartIot 平台账号注册
-
 进入SmartIot 官网，点击Sign up进入注册新账号页面
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_02.png)
@@ -61,19 +60,15 @@ SmartIot是恩孚科技出品的一个简单易用的物联网平台，3分钟�
 
 ## SmartIot 平台数据上传及示例代码
 
-设备界面里左侧为上传数据，右侧由数据和时间组成二维折线图，可以选择要显示的数据，也可以导出数据（export data）
-Remote Control可以下发指令控制microbit。
+设备界面里左侧为上传数据，右侧由数据和时间组成二维折线图。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_11.png)
 
-
-## 编写代码
----
+### 编写代码
 
 [微软makecode](https://makecode.microbit.org/#)
 
 ### 编程
----
 
 进入“makecode.microbit.org”，点击“新建项目”。
 
@@ -92,9 +87,9 @@ Remote Control可以下发指令控制microbit。
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-add-extension-04.png)
 
 
-***注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
+**注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。**
 
-### 代码解释
+#### 代码解释
 
 
 连接SmartIot平台。User Token（暂时误写作ID）为账户唯一识别码，与账户绑定不可修改。
@@ -114,11 +109,11 @@ TOPIC，设备唯一识别码，连接时需要指定上传设备。设备号（
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_16.png)
 
-上传一个整数到SmartIot平台.
+上传数据到SmartIot平台，点击积木块下方`+`可添加上传数据，最多同时上传8个数据.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_17.png)
 
-测试效果。
+#### 测试效果
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_11.png)
 
@@ -206,10 +201,60 @@ TOPIC，设备唯一识别码，连接时需要指定上传设备。设备号（
 
 ## SmartIot 平台重置密码
 
-点击删除可以删除学生信息
+点击`Change password`可进入密码重置界面。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_29.png)
 
-点击删除可以删除学生信息
+输入旧密码和新密码即可修改密码。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_30.png)
+
+## SmartIot 数据筛选
+
+可通过 `Start Time` 和 `End Time`设定图表显示的数据范围。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_31.png)
+
+或者通过数据标签选择图表的显示数据。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_32.png)
+
+或者点击`Edit`进入设置界面。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_33.png)
+
+通过勾选标签选择显示数据信息。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_34.png)
+
+## SmartIot 配置共享
+
+点击`Edit`进入设置界面。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_33.png)
+
+点击`Copy`或者`Import`导出或者导入设备配置。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_35.png)
+
+## SmartIot 设备共享
+
+点击`Share`进入设备共享页面。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_36.png)
+
+点击`ALL`设置设备为公开共享设备，有设备共享链接的人员都可以访问该设备查看数据。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_37.png)
+
+点击`Specified`设置设备为私人共享设备，可通过邮箱指定账户共享，如果是教师账户，也可通过下方选项快速共享设备给班级成员。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_38.png)
+
+共享设备会在`Share Device`中显示。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_39.png)
+
+被分享者只拥有阅读权限，无法对数据对图表内容进行修改。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_40.png)

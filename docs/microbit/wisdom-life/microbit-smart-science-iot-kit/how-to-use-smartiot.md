@@ -92,7 +92,7 @@ SmartIot是恩孚科技出品的一个简单易用的物联网平台，3分钟�
 #### 代码解释
 
 
-连接SmartIot平台。User Token（暂时误写作ID）为账户唯一识别码，与账户绑定不可修改。
+连接SmartIot平台。User Token 为账户唯一识别码，与账户绑定不可修改。
 TOPIC，设备唯一识别码，连接时需要指定上传设备。设备号（Topic）顺序排列。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_12.png)
@@ -117,7 +117,7 @@ TOPIC，设备唯一识别码，连接时需要指定上传设备。设备号（
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_11.png)
 
-远程控制积木块，当平台上的开关被触发是运行指定程序。
+远程控制积木块，当平台上的开关被触发时运行指定程序。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-science-iot-kit/images/smartiot_15.png)
 

@@ -9,16 +9,17 @@ sidebar_label: 案例一:举重机器人
 
 设计一款举重机器人，它能够无需编程自动执行任务。该机器人利用曲柄连杆机构将电机的圆周运动转换为直线往复运动，以实现举重动作。
 
-案例首图
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-01-01.png)
 
 ## 教学准备
 
-
+|     名称     |            图示            |
+| :----------: | :--------------------------: |
+|   哪吒Pro运动套装   |   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-01.png)  |
 
 ## 教学目标
 
 理解基本的机械原理，如杠杆、滑轮和曲柄连杆机构。
-学习如何将圆周运动转换为直线运动。
 培养动手能力和解决问题的能力。
 激发对工程和机器人技术的兴趣。
 
@@ -31,7 +32,6 @@ sidebar_label: 案例一:举重机器人
 ## 学习探究
 
 探究曲柄连杆机构是如何工作的。
-讨论圆周运动和直线运动的区别及应用场景。
 
 ## 搭建步骤
 
@@ -89,7 +89,7 @@ sidebar_label: 案例一:举重机器人
 
 按下哪吒Pro上面的按键即可让举重机器人开始进行举重。
 
-（GIF）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-01.gif)
 
 ## 总结分享
 

@@ -1,19 +1,21 @@
 ---
-sidebar_position: 2
-sidebar_label: 案例二:竞走机器人
+sidebar_position: 3
+sidebar_label: 案例二:划船机器人
 ---
 
-# 案例二:竞走机器人
+# 案例二:划船机器人
 
 ## 案例简介
 
-设计一款竞走机器人，了解蜗轮蜗杆的特性及搭建方式。
+设计一款划船机器人，了解蜗轮蜗杆的特性及搭建方式。
 
-案例首图
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-02-01.png)
 
 ## 教学准备
 
-
+|     名称     |            图示            |
+| :----------: | :--------------------------: |
+|   哪吒Pro运动套装   |   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-01.png)  |
 
 ## 教学目标
 
@@ -21,27 +23,24 @@ sidebar_label: 案例二:竞走机器人
 培养动手能力和解决问题的能力。
 激发对工程和机器人技术的兴趣。
 
-
-
 ## 课程引入
 
-欢迎小朋友们加入我们的STEAM奇妙旅程！今天，我们将一起探索如何制作一个无需编程的竞走机器人，这个项目的核心在于利用蜗轮蜗杆结构的巧妙应用。在这个项目中，我们将学习到基本的机械设计原理，了解如何通过简单的机械传动来控制机器人的运动。不需要复杂的编程知识，只需动手组装和调整，你就能创造出一个能够自动竞走的机器人。让我们一起开启这段激动人心的STEAM学习之旅，激发你的创造力和解决问题的能力！
+欢迎小朋友们加入我们的STEAM奇妙旅程！今天，我们将一起探索如何制作一个无需编程的划船机器人，这个项目的核心在于利用蜗轮蜗杆结构的巧妙应用。在这个项目中，我们将学习到基本的机械设计原理，了解如何通过简单的机械传动来控制机器人的运动。不需要复杂的编程知识，只需动手组装和调整，你就能创造出一个划船机器人。让我们一起开启这段激动人心的STEAM学习之旅，激发你的创造力和解决问题的能力！
 
 ## 学习探究
 
-蜗轮蜗杆的工作原理是什么？
+蜗轮蜗杆的特点是什么？
 蜗轮蜗杆结构的效率如何？
-如何保持机器人的平衡？
 
 ## 搭建步骤
 
-23张搭建图
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E5%88%92%E8%88%B9%E6%9C%BA%E5%99%A8%E4%BA%BA.pdf" type="application/pdf" width="100%" height="600px" />
 
 ## 案例演示
 
-按下哪吒Pro上面的按键即可让竞走机器人向前行走。
+按下哪吒Pro上面的按键即可让划船机器人向前划动。
 
-（GIF）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-02.gif)
 
 ## 总结分享
 

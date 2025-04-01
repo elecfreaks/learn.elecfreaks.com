@@ -32,7 +32,7 @@ micro:bit程序下载方式
 
 ## 搭建步骤
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E5%BC%95%E4%BD%93%E5%90%91%E4%B8%8A%E6%9C%BA%E5%99%A8%E4%BA%BA.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%8A%95%E7%AF%AE%E6%9C%BA%E5%99%A8%E4%BA%BA.pdf" type="application/pdf" width="100%" height="600px" />
 
 ## 硬件连线
 

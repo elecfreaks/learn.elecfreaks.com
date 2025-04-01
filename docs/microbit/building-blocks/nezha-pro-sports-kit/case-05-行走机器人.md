@@ -32,7 +32,7 @@ sidebar_label: 案例五:行走机器人
 
 ## 搭建步骤
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E5%BC%95%E4%BD%93%E5%90%91%E4%B8%8A%E6%9C%BA%E5%99%A8%E4%BA%BA.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E8%A1%8C%E8%B5%B0%E6%9C%BA%E5%99%A8%E4%BA%BA.pdf" type="application/pdf" width="100%" height="600px" />
 
 ## 案例演示
 

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: Case 1: Weightlifting Robot
+sidebar_label: Case 1：Weightlifting Robot
 ---
 
 # Case 1: Weightlifting Robot

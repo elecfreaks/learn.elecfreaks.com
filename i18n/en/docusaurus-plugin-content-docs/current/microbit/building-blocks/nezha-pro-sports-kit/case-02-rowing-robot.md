@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Case 2: Rowing Robot
+sidebar_label: Case 2：Rowing Robot
 ---
 
 # Case 2: Rowing Robot

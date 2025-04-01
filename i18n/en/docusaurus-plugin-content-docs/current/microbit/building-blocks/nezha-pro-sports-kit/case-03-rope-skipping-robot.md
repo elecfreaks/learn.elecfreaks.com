@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-sidebar_label: Case 3: Rope skipping robot
+sidebar_label: Case 3：Rope skipping robot
 ---
 
 # Case 3: Rope skipping robot

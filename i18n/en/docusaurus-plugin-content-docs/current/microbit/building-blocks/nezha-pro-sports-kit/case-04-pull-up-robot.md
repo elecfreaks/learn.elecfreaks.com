@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-sidebar_label: Case 4: Pull-up robot
+sidebar_label: Case 4：Pull-up robot
 ---
 
 # Case 4: Pull-up robot

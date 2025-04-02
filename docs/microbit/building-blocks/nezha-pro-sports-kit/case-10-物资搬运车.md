@@ -1,15 +1,15 @@
 ---
-sidebar_position: 10
-sidebar_label: 案例九:巡线踢球机器人
+sidebar_position: 11
+sidebar_label: 案例十:物资搬运车
 ---
 
-# 案例九:巡线踢球机器人
+# 案例十:物资搬运车
 
 ## 案例简介
 
-设计一款巡线踢球机器人。
+设计一款物资搬运车。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-09-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-10-01.png)
 
 ## 教学准备
 
@@ -19,12 +19,14 @@ sidebar_label: 案例九:巡线踢球机器人
 
 ## 教学目标
 
-了解四路巡线传感器的基本使用
+制作物资搬运车，完成指定任务
+熟悉机械爪的搭建方式
+熟悉舵机控制
 
 
 ## 课程引入
 
-欢迎小朋友们加入我们的STEAM奇妙旅程！今天，我们将一起探索如何制作一个巡线踢球机器人。在这个项目中，我们将学习到如何通过四路巡线传感器来调整机器人的运动方向。不需要复杂的编程知识，只需动手组装和调整，你就能创造出一个游泳机器人。让我们一起开启这段激动人心的STEAM学习之旅，激发你的创造力和解决问题的能力！
+欢迎小朋友们加入我们的STEAM奇妙旅程！今天，我们将一起探索如何制作一个物资搬运车。通过编程，让物资搬运车完成自定任务，让我们一起开启这段激动人心的STEAM学习之旅，激发你的创造力和解决问题的能力！
 
 ## 学习探究
 
@@ -32,11 +34,11 @@ sidebar_label: 案例九:巡线踢球机器人
 
 ## 搭建步骤
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E5%B7%A1%E7%BA%BF%E8%B8%A2%E7%90%83%E8%BD%A6%E6%90%AD%E5%BB%BA%E5%9B%BE.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E8%BF%90%E5%8A%A8%E5%A4%B9%E7%88%AA%E8%BD%A6.pdf" type="application/pdf" width="100%" height="600px" />
 
 ## 硬件连线
 
-将两个智能电机分别连接到哪吒Pro扩展板的M1、M2接口，将四路巡线传感器连接到哪吒Pro扩展板的IIC接口。
+将四个个智能电机分别连接到哪吒Pro扩展板的M1、M2、M3、M4接口，将四路巡线传感器连接到哪吒Pro扩展板的IIC接口。
 
 硬件连线图
 
@@ -62,7 +64,7 @@ sidebar_label: 案例九:巡线踢球机器人
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-09-02.png)
 
-程序链接:[https://makecode.microbit.org/_Jxyg1qifi1F3](https://makecode.microbit.org/_Jxyg1qifi1F3)
+程序链接:[https://makecode.microbit.org/_3MJRxzMywTJE](https://makecode.microbit.org/_3MJRxzMywTJE)
 
 你也可以通过以下网页直接下载程序。
 
@@ -74,7 +76,7 @@ sidebar_label: 案例九:巡线踢球机器人
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_Jxyg1qifi1F3"
+        src="https://makecode.microbit.org/_3MJRxzMywTJE"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -119,7 +121,7 @@ sidebar_label: 案例九:巡线踢球机器人
 
 按下micro:bit上面的按键A即可让巡线踢球机器人从启动区开始运动，通过地图上的黑线调整姿态和行驶路线，并踢出足球完成射门动作。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-09.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-10.gif)
 
 ## 总结分享
 

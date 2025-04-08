@@ -3,7 +3,7 @@ sidebar_position: 12
 sidebar_label: 案例十一:物资搬运车2
 ---
 
-# 案例十:物资搬运车
+# 案例十一:物资搬运车2
 
 ## 案例简介
 
@@ -31,6 +31,7 @@ sidebar_label: 案例十一:物资搬运车2
 
 多个舵机的联动使用
 四路巡线传感器的使用
+如何使用四路巡线传感器帮助小车调整行驶路线
 
 ## 搭建步骤
 
@@ -86,9 +87,9 @@ sidebar_label: 案例十一:物资搬运车2
 
 ### 示例程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-09-02.png)
+此程序比较复杂，请通过以下共享程序链接查看。
 
-程序链接:[https://makecode.microbit.org/_3MJRxzMywTJE](https://makecode.microbit.org/_3MJRxzMywTJE)
+程序链接:[https://makecode.microbit.org/_CvogK9RvqWgT](https://makecode.microbit.org/_CvogK9RvqWgT)
 
 你也可以通过以下网页直接下载程序。
 
@@ -100,7 +101,7 @@ sidebar_label: 案例十一:物资搬运车2
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_3MJRxzMywTJE"
+        src="https://makecode.microbit.org/_CvogK9RvqWgT"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

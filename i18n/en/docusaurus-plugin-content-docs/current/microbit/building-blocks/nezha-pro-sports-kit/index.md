@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Nezha Pro Sport Kit
+sidebar_label: Nezha Pro Sport Kit(EF08428)
 ---
 
 # Nezha Pro Sport Kit

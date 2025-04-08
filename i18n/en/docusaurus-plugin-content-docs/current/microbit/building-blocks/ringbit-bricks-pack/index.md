@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Ring:bit Bricks Pack(EF08215/EF08216)
+sidebar_label: Ring:bit Bricks Pack(EF08217/EF08218)
 ---
 
 # Ring:bit Bricks Pack

@@ -26,11 +26,11 @@ sidebar_label: 案例十:物资搬运车
 
 ## 课程引入
 
-欢迎小朋友们加入我们的STEAM奇妙旅程！今天，我们将一起探索如何制作一个物资搬运车。通过编程，让物资搬运车完成自定任务，让我们一起开启这段激动人心的STEAM学习之旅，激发你的创造力和解决问题的能力！
+欢迎小朋友们加入我们的STEAM奇妙旅程！今天，我们将一起探索如何制作一个物资搬运车。通过编程，让物资搬运车完成指定搬运任务，让我们一起开启这段激动人心的STEAM学习之旅，激发你的创造力和解决问题的能力！
 
 ## 学习探究
 
-四路巡线传感器的基本使用
+多个舵机的联动使用
 
 ## 搭建步骤
 
@@ -56,13 +56,13 @@ sidebar_label: 案例十:物资搬运车
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-09.png)
 
-在弹出界面输入**nezha pro**并点击搜索图标，在显示**nezha pro**软件库后点击。
+在弹出界面输入**nezha pro**并点击搜索图标，在显示**nezha pro**软件库后点击。同样的方式加载PlanetX软件库。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-10.png)
 
 ### 示例程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-09-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-10-02.png)
 
 程序链接:[https://makecode.microbit.org/_3MJRxzMywTJE](https://makecode.microbit.org/_3MJRxzMywTJE)
 

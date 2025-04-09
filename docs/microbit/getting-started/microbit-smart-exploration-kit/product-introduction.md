@@ -47,9 +47,3 @@ sidebar_label: 产品介绍
 |![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Magnet%20Sensor.pn)|磁力传感器|用于测量磁场强度、方向的传感器。|
 |![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20LED%20Ring.png)|灯环|由8个RGB灯组成的光环。|
 
-## 目录
-```mdx-code-block
-import DocCardList from '@theme/DocCardList';
-
-<DocCardList />
-```

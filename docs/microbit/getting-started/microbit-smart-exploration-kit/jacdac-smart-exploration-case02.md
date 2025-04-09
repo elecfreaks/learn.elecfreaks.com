@@ -6,12 +6,12 @@
 ## 案例目的
 1. 认识灯环，了解什么是RGB颜色。
 
-2. 认识makecode中灯环编程积木块，掌握其使用方式。
+2. 认识MakeCode中灯环编程积木块，掌握其使用方式。
 
 ## 所需材料
 |项目|图片|数量|
 |--|--|--|
-|Micro:bit V2|**图片**|1|
+|micro:bit V2|**图片**|1|
 |jacdac扩展板|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png)|1|
 |jacdac 10cm连接线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png)|1|
 |灯环|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20LED%20Ring.png)|1|

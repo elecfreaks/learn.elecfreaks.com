@@ -6,14 +6,14 @@
 ## 案例目的
 1. 认识按钮传感器，了解按钮传感器的工作原理。
 
-2. 认识makecode中的按钮传感器编程积木块，掌握其参数的含义以及使用方式。
+2. 认识makecode中的按钮传感器编程积木块，掌握其使用方式。
 
 ## 所需材料
 |项目|图片|数量|
 |--|--|--|
 |Micro:bit V2|**图片**|1|
-|Jacdac:bit|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png)|1|
-|Jacdac 10cm连接线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png)|1|
+|jacdac扩展板![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png)|1|
+|jacdac 10cm连接线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png)|1|
 |按钮传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Button%20sensor.png)|1|
 
 ## 传感器原理说明：

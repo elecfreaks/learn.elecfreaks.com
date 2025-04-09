@@ -6,12 +6,12 @@
 ## 案例目的：
 1. 认识磁力传感器，掌握磁力传感器的使用。
 
-2. 认识makecode中的磁力传感器编程积木块，掌握其使用方式。
+2. 认识MakeCode中的磁力传感器编程积木块，掌握其使用方式。
 
 ## 所需材料：
 |项目|图片|数量|
 |--|--|--|
-|Micro:bit V2|**图片**|1|
+|micro:bit V2|**图片**|1|
 |jacdac扩展版|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png)|1|
 |jacdac 10cm连接线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png)|1|
 |磁力传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Magnet%20Sensor.png)|1|

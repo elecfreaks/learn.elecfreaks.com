@@ -11,7 +11,7 @@
 ## 所需材料
 |项目|图片|数量|
 |--|--|--|
-|Micro:bit V2|![]()|1|
+|Micro:bit V2|**图片**|1|
 |Jacdac:bit|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png)|1|
 |Jacdac 10cm连接线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png)|1|
 |按钮传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Button%20sensor.png)|1|
@@ -24,23 +24,23 @@
 ## 连接示意图
 如下图所示，将micro:bit主板插入jacdac扩展板，使用连接线将按钮传感器连接到jacdac扩展金手指接口上。
 
-**图片**![]()
+**图片**
 
 ## Makecode编程
 ### 步骤1：
 1. **注意**：若micro:bit主板初次运行jacdac程序，请先预装一个空白jacdac程序至主板，否则跳过此步骤。
 
-**图片**![]()
+**图片**
 
 2. 接入传感器，MakeCode自动识别并仿真呈现，在仿真区内传感器实时反馈传感器状态。
 
-**图片**![]()
+**图片**
 
 3. 点击“ADD BLOCKS”传感器扩展模块。
    
    **注意**：连接新的传感器，重复执行一次“点击“ADD BLOCKS”传感器扩展模块”操作流程。
 
-**图片**![]()
+**图片**
 
 ## 如图所示编写程序
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/program/jacdac-smart-exploration-kit-case-0111.png)
@@ -73,4 +73,4 @@ https://makecode.microbit.org/_dP55rzUipcuu
 
 ## 案例演示
 
-**图片**![]() 
+**图片**

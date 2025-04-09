@@ -46,7 +46,7 @@
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/program/jacdac-smart-exploration-kit-case-0111.png)
 
 ## 参考程序连接：
-https://makecode.microbit.org/_dP55rzUipcuu
+[https://makecode.microbit.org/_FEADwWWVCU31](https://makecode.microbit.org/_FEADwWWVCU31)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 
@@ -58,7 +58,7 @@ https://makecode.microbit.org/_dP55rzUipcuu
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_dP55rzUipcuu"
+        src="https://makecode.microbit.org/_FEADwWWVCU31"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

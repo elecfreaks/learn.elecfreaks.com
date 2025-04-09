@@ -27,16 +27,19 @@
 
 ## Makecode编程
 ### 步骤1：
-1.**注意**：若micro:bit主板初次运行jacdac程序，请先预装一个空白jacdac程序至主板，否则跳过此步骤。
-2.![]()
+1. **注意**：若micro:bit主板初次运行jacdac程序，请先预装一个空白jacdac程序至主板，否则跳过此步骤。
+
+**图片**![]()
 
 2. 接入传感器，MakeCode自动识别并仿真呈现，在仿真区内传感器实时反馈传感器状态。
-![]()
+
+**图片**![]()
 
 3. 点击“ADD BLOCKS”传感器扩展模块。
    
    **注意**：连接新的传感器，重复执行一次“点击“ADD BLOCKS”传感器扩展模块”操作流程。
-![]()
+
+**图片**![]()
 
 ## 如图所示编写程序
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/program/jacdac-smart-exploration-kit-case-0111.png)
@@ -45,7 +48,8 @@
 https://makecode.microbit.org/_dP55rzUipcuu
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;"src="https://makecode.microbit.org/_dP55rzUipcuu" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+
 
 ## 案例演示
 ![]() 

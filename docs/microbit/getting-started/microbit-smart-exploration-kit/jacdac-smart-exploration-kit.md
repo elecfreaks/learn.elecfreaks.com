@@ -6,7 +6,7 @@ sidebar_label: 产品介绍
 # jacdac智能探索套件
 
 ## 简介
-以micro:bit V2为主控的jacdac智能探索套装，配备了多种jacdac系列传感器，包括jacdac扩展板、按钮传感器、光敏传感器、人体红外传感器、磁力传感器、旋钮编码器、灯环模块等。Jacdac支持即插即用功能，能够自动识别传感器类型，并在编程makecode的仿真区中实时反馈传感器的数值，从而帮助用户迅速构建智能创意项目。此外，套装内含10个基础案例，旨在帮助初学者快速入门，同时激发他们对编程和电子元件的兴趣。
+以micro:bit V2为主控的jacdac智能探索套装，配备了多种jacdac系列传感器，包括jacdac扩展板、按钮传感器、光敏传感器、人体红外传感器、磁力传感器、旋钮编码器、灯环模块等。jacdac支持即插即用功能，能够自动识别传感器类型，并在编程MakeCode的仿真区中实时反馈传感器的数值，从而帮助用户迅速构建智能创意项目。此外，套装内含10个基础案例，旨在帮助初学者快速入门，同时激发他们对编程和电子元件的兴趣。
 
 **图片**
 
@@ -44,6 +44,6 @@ sidebar_label: 产品介绍
 |![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Rotray%20Encoder%20sensor.png)|旋转编码器|用于检测旋转运动方向和值的传感器。|
 |![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Motion%20Sensor.png)|人体红外传感器|感知人体移动的传感器。|
 |![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Light%20Sensor.png)|光敏传感器|用于检测环境光照强度的传感器。|
-|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Magnet%20Sensor.pn)|磁力传感器|用于测量磁场强度、方向的传感器。|
+|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Magnet%20Sensor.png)|磁力传感器|用于测量磁场强度、方向的传感器。|
 |![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20LED%20Ring.png)|灯环|由8个RGB灯组成的光环。|
 

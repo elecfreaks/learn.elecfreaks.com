@@ -62,7 +62,7 @@ micro:bit程序下载方式
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-07-02.png)
 
-程序链接:[https://makecode.microbit.org/_FbM7h88HL83f](https://makecode.microbit.org/_FbM7h88HL83f)
+程序链接:[https://makecode.microbit.org/_8vgFCod711oo](https://makecode.microbit.org/_8vgFCod711oo)
 
 你也可以通过以下网页直接下载程序。
 
@@ -74,7 +74,7 @@ micro:bit程序下载方式
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_LHXgcjVcJ5po"
+        src="https://makecode.microbit.org/_8vgFCod711oo"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -45,24 +45,24 @@ JupyterLab 是 Jupyter Notebook 的新一代用户界面，它提供了一个全
 ### 2、开启 JupyterLab 环境
 
 打开电脑端的浏览器，在地址栏输入树莓派的IP地址+端口号：192.168.206.179:8888
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case04-01.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case04-02.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case04-03.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case04-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-04.png)
 
 ### 3、WinSCP 远程传输文件
 
 双击打开桌面 WinSCP 图标，进入 WinSCP 软件。打开 WinSCP 软件后出现以下登录界面。
- 
+
 File protocol：文件协议选择 SFTP，Host name：树莓派 IP 地址，Port number：默认 22 就可以，User name：树莓派用户名(pi)，Password：登录密码(pi)。
 
 输入正确的信息后可以点击 Save 保存一下填写的信息，下次登录的时候不用重复输入。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case04-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-05.png)
 
 点击 Login 登录成功后会显示以下界面，左边的是 win 电脑的文件夹，右边的是树莓派的文件夹。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case04-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-06.png)
 
 文件传输有三种操作方式，第一种是直接把文件从左边拉到右边，或者从右边拉到左边，系统会自动复制一份文件传输过去。
 
@@ -70,15 +70,14 @@ File protocol：文件协议选择 SFTP，Host name：树莓派 IP 地址，Port
 
 第三种是选中文件点击鼠标右键，如果是从 win 电脑传到树莓派则点击 upload。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case04-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-07.png)
 
 会弹出一个提示，可以选择不再提示，并且点击 OK，则文件自动传输过去。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case04-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-08.png)
 
 如果从树莓派传文件到 win 电脑上，则按鼠标右键选中文件，选择 Download。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case04-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-09.png)
 
 注意：文件传输需要电脑和树莓派在同一个局域网下，并且树莓派已开启SSH服务才可以进行。有时若遇见传输文件失败一般是树莓派这边的权限不够，请在用户 pi 目录权限范围内操作。
-

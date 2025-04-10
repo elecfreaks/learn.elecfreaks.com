@@ -45,7 +45,7 @@ sidebar_label: 案例06：烧录系统镜像
 
 ### 2、启动 Raspberry Pi Imager
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case06-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case06-01.png)
 
 ### 3、选择操作系统以及镜像文件
 

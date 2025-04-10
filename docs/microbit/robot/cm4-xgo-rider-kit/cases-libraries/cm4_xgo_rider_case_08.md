@@ -42,7 +42,7 @@ sidebar_label: 案例08：树莓派系统扩容
 将 XGO Rider 开机后，进入遥控模式界面，即可查询到对应的 IP 地址。若没有 IP 地址，请按照联网操作重新联网。
 请参考案例03教程内容，使用 VNC-Viewer 远程登录树莓派系统，进入树莓派系统桌面并打开终端。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case07-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case07-01.png)
 
 ### 2、查看系统空间
 
@@ -50,7 +50,7 @@ sidebar_label: 案例08：树莓派系统扩容
 df -h
 可以看到树莓派系统的空间
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case08-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-01.png)
 
 ### 3、扩容
 
@@ -58,26 +58,26 @@ df -h
 sudo raspi-config
 就会进入此界面。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case08-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-02.png)
 
 选择第 6 个选项，按回车键。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case08-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-03.png)
 
 然后选择第 1 个选项，选确定。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case08-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-04.png)
 
 在这界面再按回车，然后选择Finish.之后重启 XGO Rider 即可。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case08-05.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case08-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-06.png)
 
 重启 XGO Rider。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case08-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-07.png)
 
 再次查询空间。
 df -h
 发现扩容完成.
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case08-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-08.png)

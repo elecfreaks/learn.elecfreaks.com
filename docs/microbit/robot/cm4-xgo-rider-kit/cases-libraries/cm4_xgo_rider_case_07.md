@@ -42,7 +42,7 @@ sidebar_label: 案例07：关闭大程序
 将 XGO Rider 开机后，进入遥控模式界面，即可查询到对应的 IP 地址。若没有 IP 地址，请按照联网操作重新联网。
 请参考案例03教程内容，使用 VNC-Viewer 远程登录树莓派系统，进入树莓派系统桌面并打开终端。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case07-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case07-01.png)
 
 ### 2、查看进程号
 
@@ -53,7 +53,7 @@ ps -ef | grep "python"
 
 然后找到 mian.py的进程号，每次开机的进程号都不一样，需要根据实际情况去获取，教程这里是878。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case07-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case07-02.png)
 
 ### 4、关闭进程
 
@@ -66,6 +66,6 @@ sudo kill 878  #878为进程号，需要根据实际情况获取。
 ps -ef | grep "python"
 发现大程序已经关闭了。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case07-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case07-03.png)
 
 如果大程序没关闭的情况下，运行了单独的例程会导致小车的屏幕花屏、黑屏的情况，需要重启 XGO Rider 后，屏幕才能恢复。

@@ -31,12 +31,12 @@
 
 **图片**
 
----
+
 ## 编程软件
 
 [微软makecode](https://makecode.microbit.org/#)
 
----
+
 ## Makecode编程
 ### 步骤1：
 1. **注意**：若micro:bit主板初次运行jacdac程序，请先预装一个空白jacdac程序至主板，否则跳过此步骤。

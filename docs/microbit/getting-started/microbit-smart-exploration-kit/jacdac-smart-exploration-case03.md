@@ -3,11 +3,13 @@
 ## 简介：
 磁铁贴近磁力传感器，micro:bit显示“√”图标并发出声音， 磁铁远离磁力传感器，micro:bit显示“×”图标。
 
+---
 ## 案例目的：
 1. 认识磁力传感器，掌握磁力传感器的使用。
 
 2. 认识MakeCode中的磁力传感器编程积木块，掌握其使用方式。
-
+   
+---
 ## 所需材料：
 |项目|图片|数量|
 |--|--|--|
@@ -16,15 +18,24 @@
 |jacdac 10cm连接线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png)|1|
 |磁力传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Magnet%20Sensor.png)|1|
 
+---
 ## 传感器原理说明：
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Magnet%20Sensor.png)
 
-**原理说明**:是一种用于测量磁场强度、方向的传感器。                   
+**原理说明**:是一种用于测量磁场强度、方向的传感器。
+
+---
 ## 连接示意图
 如下图所示，将micro:bit主板插入jacdac扩展板，使用连接线将磁力传感器连接到jacdac扩展板金手指接口上。
 
 **图片**
 
+---
+## 编程软件
+
+[微软makecode](https://makecode.microbit.org/#)
+
+---
 ## Makecode编程
 ### 步骤1：
 1. **注意**：若micro:bit主板初次运行jacdac程序，请先预装一个空白jacdac程序至主板，否则跳过此步骤。。
@@ -41,12 +52,15 @@
 
 **图片**
 
+---
 ## 如图所示编写程序
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/program/jacdac-smart-exploration-kit-case-0113.png)
 
+---
 ## 参考程序连接：
 [https://makecode.microbit.org/_h6DFV70EqF5c](https://makecode.microbit.org/_h6DFV70EqF5c)
 
+---
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 
 <div

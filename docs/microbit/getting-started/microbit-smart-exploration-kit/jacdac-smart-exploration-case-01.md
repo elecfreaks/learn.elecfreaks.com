@@ -71,7 +71,7 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/1jacdac-smart-exploration-kit-22.png)
 
-3. 点击“ADD BLOCKS”传感器扩展模块。
+4. 点击“ADD BLOCKS”传感器扩展模块。
    
    **注意**：连接新的传感器，重复执行一次“点击“ADD BLOCKS”传感器扩展模块”操作流程。
 

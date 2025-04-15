@@ -125,13 +125,13 @@ For Joystick:bit:
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-08-05.png)
 
-Link:[https://makecode.microbit.org/_3mK9cbULkLCy](https://makecode.microbit.org/_3mK9cbULkLCy)
+Link:[https://makecode.microbit.org/_EAT7WFD5yKVX](https://makecode.microbit.org/_EAT7WFD5yKVX)
 
 For the robot arm:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-08-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-08-06.png)
 
-Link:[https://makecode.microbit.org/_92hgiPE9Kdec](https://makecode.microbit.org/_92hgiPE9Kdec)
+Link:[https://makecode.microbit.org/_L5YAk7b887dC](https://makecode.microbit.org/_L5YAk7b887dC)
 
 
 ### Result

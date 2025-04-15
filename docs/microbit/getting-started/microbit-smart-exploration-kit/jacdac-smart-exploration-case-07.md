@@ -90,7 +90,7 @@
 
 ---
 ## 参考程序连接：
-[https://makecode.microbit.org/S42734-48987-34771-61285](https://makecode.microbit.org/S42734-48987-34771-61285)
+[https://makecode.microbit.org/S01236-99192-60732-04359](https://makecode.microbit.org/S01236-99192-60732-04359)
 
 ---
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
@@ -103,7 +103,7 @@
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/S42734-48987-34771-61285"
+        src="https://makecode.microbit.org/S01236-99192-60732-04359"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

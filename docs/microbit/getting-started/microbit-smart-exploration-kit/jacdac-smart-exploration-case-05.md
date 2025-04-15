@@ -36,7 +36,7 @@
 
 ---
 ## 连接示意图
-如下图所示，将micro:bit主板插入jacdac扩展板，使用连接线将旋转编码传感器与灯环采用并联的方式连接在jacdac扩展板金手指接口上。
+如下图所示，将micro:bit主板插入jacdac扩展板，使用连接线将旋转编码传感器与灯环采用星型方式连接在jacdac扩展板金手指接口上。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-05.png)
 

@@ -1,15 +1,14 @@
-# 案例一：比一比
+# 案例二：可视化的声音
 
 ## 简介
-
-按下按钮传感器，micro:bit主板随机显示1~6的数字，与小伙伴比一比数字大小。
+  利用micro:bit的麦克风捕捉声音响度，micro:bit v2解析器强度，通过jacdac线缆控制灯环。轻按主板“B”键，功能开启；轻按“A”键，则功能关闭。
 
 ---
-
 ## 案例目的
-1. 认识按钮传感器，了解按钮传感器的工作原理。
+1. 认识灯环，了解什么是RGB颜色。
 
-2. 认识MakeCode中的按钮传感器编程积木块，掌握其使用方式。
+2. 认识MakeCode中灯环编程积木块，掌握其使用方式。
+
 ---
 ## 所需材料
 |项目|图片|数量|
@@ -17,22 +16,22 @@
 |micro:bit V2|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png)|1|
 |jacdac扩展板|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png)|1|
 |jacdac 10cm连接线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png)|1|
-|按钮传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Button%20sensor.png)|1|
+|灯环|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20LED%20Ring.png)|1|
 |USB数据线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png)|1|
 
 ---
-## 传感器原理说明：
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Button%20sensor.png)
+## 传感器原理说明
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20LED%20Ring.png)
 
 **原理说明**: 
 
-按钮传感器：用于检测按钮状态的传感器，输出携带有“0”和“1”的信号。
+灯环：由8个RGB灯组成的圆形光环。
 
 ---
 ## 连接示意图
-如下图所示，将micro:bit主板插入jacdac扩展板，用连接线将按钮传感器连接到jacdac扩展板金手指接口上。
+如下图所示，将micro:bit主板插入jacdac扩展板，使用连接线将灯环连接到jacdac扩展板金手指接口上。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-011.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-02.png)
 
 ---
 ## 编程软件
@@ -50,7 +49,7 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-11.png)
 
----
+
 3. 点击代码抽屉中的“扩展”。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-09.png)
@@ -78,18 +77,17 @@
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-23.png)
 
 ---
-
 ## 如图所示编写程序
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/program/jacdac-smart-exploration-kit-case-0111.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/program/jacdac-smart-exploration-kit-case-0112.png)
 
 ---
-
-## 参考程序连接：
-[https://makecode.microbit.org/_FEADwWWVCU31](https://makecode.microbit.org/_FEADwWWVCU31)
+## 参考程序连接
+[https://makecode.microbit.org/_fqJ0EwTMFH12](https://makecode.microbit.org/_fqJ0EwTMFH12)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 
 ---
+
 <div
     style={{
         position: 'relative',
@@ -98,7 +96,7 @@
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_FEADwWWVCU31"
+        src="https://makecode.microbit.org/_fqJ0EwTMFH12"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -110,7 +108,5 @@
 </div>
 
 ---
-
 ## 案例演示
-
 **图片**

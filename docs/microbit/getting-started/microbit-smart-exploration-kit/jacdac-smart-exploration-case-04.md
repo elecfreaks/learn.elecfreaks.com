@@ -1,38 +1,46 @@
-# 案例一：比一比
+# 案例四：智能小夜灯
 
-## 简介
-
-按下按钮传感器，micro:bit主板随机显示1~6的数字，与小伙伴比一比数字大小。
+## 简介：
+人体红外传感器检测到行人经过，且光敏传感器检测到环境光强度小于5%，micro:bit显示“爱心”。
 
 ---
+## 案例目的：
+1. 认识人体红外传感器。
 
-## 案例目的
-1. 认识按钮传感器，了解按钮传感器的工作原理。
+2. 认识光敏传感器。
 
-2. 认识MakeCode中的按钮传感器编程积木块，掌握其使用方式。
+3. 认识MakeCode中的人体红外传感器与光敏传感器编程积木块，掌握其使用方式。
+
 ---
-## 所需材料
+## 所需材料：
 |项目|图片|数量|
 |--|--|--|
 |micro:bit V2|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png)|1|
 |jacdac扩展板|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png)|1|
-|jacdac 10cm连接线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png)|1|
-|按钮传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Button%20sensor.png)|1|
+|jacdac 10cm连接线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png)|2|
+|人体红外传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Motion%20Sensor.png)|1|
+|光敏传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Light%20Sensor.png)|1|
 |USB数据线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png)|1|
 
 ---
 ## 传感器原理说明：
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Button%20sensor.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Light%20Sensor.png)
 
-**原理说明**: 
+**原理说明**
 
-按钮传感器：用于检测按钮状态的传感器，输出携带有“0”和“1”的信号。
+光敏传感器：是一种用于检测环境光照强度的传感器。
 
----
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Motion%20Sensor.png)
+
+**原理说明**:
+
+人体红外传感器：是一种感知人体移动的传感器。
+
+---                 
 ## 连接示意图
-如下图所示，将micro:bit主板插入jacdac扩展板，用连接线将按钮传感器连接到jacdac扩展板金手指接口上。
+如下图所示，将micro:bit主板插入jacdac扩展板，用连接线将光敏传感器与人体红外传感器采用菊花链方式连接在jacdac扩展板金手指接口上。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-011.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-04.png)
 
 ---
 ## 编程软件
@@ -76,20 +84,17 @@
    **注意**：连接新的传感器，重复执行一次“点击“ADD BLOCKS”传感器扩展模块”操作流程。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-23.png)
-
 ---
-
 ## 如图所示编写程序
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/program/jacdac-smart-exploration-kit-case-0111.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/program/jacdac-smart-exploration-kit-case-0114.png)
 
 ---
-
 ## 参考程序连接：
-[https://makecode.microbit.org/_FEADwWWVCU31](https://makecode.microbit.org/_FEADwWWVCU31)
+[https://makecode.microbit.org/_RVtWqVD92ik5](https://makecode.microbit.org/_RVtWqVD92ik5)
 
+---
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 
----
 <div
     style={{
         position: 'relative',
@@ -98,7 +103,7 @@
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_FEADwWWVCU31"
+        src="https://makecode.microbit.org/_RVtWqVD92ik5"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -110,7 +115,6 @@
 </div>
 
 ---
-
-## 案例演示
+## 案例演示:
 
 **图片**

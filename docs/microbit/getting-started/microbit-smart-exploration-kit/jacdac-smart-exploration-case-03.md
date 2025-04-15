@@ -1,38 +1,37 @@
-# 案例一：比一比
+# 案例三：磁场特工小分队
 
-## 简介
-
-按下按钮传感器，micro:bit主板随机显示1~6的数字，与小伙伴比一比数字大小。
+## 简介：
+磁铁贴近磁力传感器，micro:bit显示“√”图标并发出声音， 磁铁远离磁力传感器，micro:bit显示“×”图标。
 
 ---
+## 案例目的：
+1. 认识磁力传感器，掌握磁力传感器的使用。
 
-## 案例目的
-1. 认识按钮传感器，了解按钮传感器的工作原理。
-
-2. 认识MakeCode中的按钮传感器编程积木块，掌握其使用方式。
+2. 认识MakeCode中的磁力传感器编程积木块，掌握其使用方式。
+   
 ---
-## 所需材料
+## 所需材料：
 |项目|图片|数量|
 |--|--|--|
 |micro:bit V2|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png)|1|
-|jacdac扩展板|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png)|1|
+|jacdac扩展版|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png)|1|
 |jacdac 10cm连接线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png)|1|
-|按钮传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Button%20sensor.png)|1|
+|磁力传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Magnet%20Sensor.png)|1|
 |USB数据线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png)|1|
 
 ---
 ## 传感器原理说明：
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Button%20sensor.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Magnet%20Sensor.png)
 
-**原理说明**: 
+**原理说明**
 
-按钮传感器：用于检测按钮状态的传感器，输出携带有“0”和“1”的信号。
+磁力传感器：是一种用于测量磁场强度、方向的传感器。
 
 ---
 ## 连接示意图
-如下图所示，将micro:bit主板插入jacdac扩展板，用连接线将按钮传感器连接到jacdac扩展板金手指接口上。
+如下图所示，将micro:bit主板插入jacdac扩展板，使用连接线将磁力传感器连接到jacdac扩展板金手指接口上。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-011.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-03.png)
 
 ---
 ## 编程软件
@@ -76,20 +75,17 @@
    **注意**：连接新的传感器，重复执行一次“点击“ADD BLOCKS”传感器扩展模块”操作流程。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-23.png)
-
 ---
-
 ## 如图所示编写程序
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/program/jacdac-smart-exploration-kit-case-0111.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/program/jacdac-smart-exploration-kit-case-0113.png)
 
 ---
-
 ## 参考程序连接：
-[https://makecode.microbit.org/_FEADwWWVCU31](https://makecode.microbit.org/_FEADwWWVCU31)
+[https://makecode.microbit.org/_h6DFV70EqF5c](https://makecode.microbit.org/_h6DFV70EqF5c)
 
+---
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 
----
 <div
     style={{
         position: 'relative',
@@ -98,7 +94,7 @@
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_FEADwWWVCU31"
+        src="https://makecode.microbit.org/_h6DFV70EqF5c"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -111,6 +107,6 @@
 
 ---
 
-## 案例演示
+## 案例演示:
 
 **图片**

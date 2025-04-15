@@ -28,6 +28,12 @@
 
 旋转编码器：是一种用于检测旋转运动方向和值的传感器。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20LED%20Ring.png)
+
+**原理说明**: 
+
+灯环：由8个RGB灯组成的圆形光环。
+
 ---
 ## 连接示意图
 如下图所示，将micro:bit主板插入jacdac扩展板，使用连接线将旋转编码传感器与灯环采用并联的方式连接在jacdac扩展板金手指接口上。

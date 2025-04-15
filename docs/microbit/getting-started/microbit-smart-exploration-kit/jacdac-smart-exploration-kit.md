@@ -25,6 +25,7 @@ sidebar_label: 产品介绍
 |灯环|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20LED%20Ring.png)|1|
 |jacdac-10cm连接线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/Jacdac-smart-exploration-kit-10cm-cable.png)|5|
 |jacdac-25cm连接线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/Jacdac-smart-exploration-kit-25cm-cable.png)|1|
+|USB数据线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png)|1|
 
 ---
 ## 产品特性
@@ -33,8 +34,6 @@ sidebar_label: 产品介绍
 2. jacda的各类传感器、执行器以及其他的电子模块，通过统一的软硬件设计标准，灵活组合帮助用户快速搭建项目。
 3. 兼容积木拓展设计，实现自由拼搭。
 4. 提供10个有趣的入门级案例，帮助用户轻松快速上手。
-
-**图片**
 
 ---
 ## 传感器介绍

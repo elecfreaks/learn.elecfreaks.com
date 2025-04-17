@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: Create AI 
 
 ---
-# Create AI （手表套件拓展）
+# Create AI 
 
 ## 项目背景
 

@@ -25,7 +25,7 @@ ___
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/microbit-smart-coding-kit-create-ai-1.png)
 
 ---
-2. 了解相关信息，定位到“Projects”点击“Simple Al exercise timer”项目
+2. 了解阅读相关信息，定位到“Projects”点击“Simple Al exercise timer”项目
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/microbit-smart-coding-kit-create-ai-2.png)
 

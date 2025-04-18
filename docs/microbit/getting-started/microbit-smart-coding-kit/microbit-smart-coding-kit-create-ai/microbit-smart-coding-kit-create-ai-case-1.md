@@ -20,7 +20,7 @@ ___
 
 --
 ## 使用教程
-1. 用Chrome或Edge网络浏览器访问[https://microbit.org/projects/make-it-code-it/simple-ai-exercise-timer/](https://microbit.org/projects/make-it-code-it/simple-ai-exercise-timer/)如下图所示。
+1. 用Chrome或Edge网络浏览器访问[https://createai.microbit.org/](https://createai.microbit.org/)如下图所示。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/microbit-smart-coding-kit-create-ai-1.png)
 
@@ -126,6 +126,12 @@ ___
 
 ---
 22. 遵循教程指引完成下载后，当你处于运动状态时，手表内的micro:bit主板LED矩阵屏将显示“stick figure”图标。而在静止不动时，手表中的micro:bit主板LED矩阵屏则会显示“asleep”图标。
+
+---
+
+## 结果
+
+当你处于运动状态时，手表内的micro:bit主板LED矩阵屏将显示“stick figure”图标。而在静止不动时，手表中的micro:bit主板LED矩阵屏则会显示“asleep”图标。按micro:bit主板上的“A”按钮，可以查看自己已经运动了多少秒；而按下按钮“B”，则可以查看静止不动的时间。
 
 ---
 ## 常见问题

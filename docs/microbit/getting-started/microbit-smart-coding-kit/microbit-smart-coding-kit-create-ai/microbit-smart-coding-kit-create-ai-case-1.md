@@ -104,7 +104,7 @@ ___
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-16.png)
 
 ---
-17. 当你处于静止状态时，可以观察到“不锻炼”数据模型的识别准确率超过80%。
+17. 当你处于静止状态时，可以观察到“静止”数据模型的识别准确率超过80%。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-17.png)
 

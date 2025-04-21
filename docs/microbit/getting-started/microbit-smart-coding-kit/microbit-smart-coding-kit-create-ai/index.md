@@ -14,3 +14,11 @@ ___
 micro:bit CreateAI 是一款免费的、基于网络的工具，学生们可以轻松地利用micro:bit的加速度计收集运动数据，并训练机器学习（ML）模型以识别数据中的模式。通过编写micro:bit代码来运行这些ML模型，学生们可以完成各种有趣且富有教育意义的项目案例。
 
 **图片**
+
+## 目录
+
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
+```

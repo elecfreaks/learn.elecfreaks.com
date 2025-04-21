@@ -99,7 +99,7 @@ ___
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-15.png)
 
 ---
-16. 请将手表套件佩戴在您的右手手腕上，注意确保带有徽标的那一面朝外。在您进行大幅度活动时，您会注意到“锻炼”数据模型的识别率超过了80%。
+16. 请将手表套件佩戴在您的右手手腕上，注意确保带有徽标的那一面朝外。在您进行大幅度活动时，可以观察到到“锻炼”数据模型的识别率超过80%。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-16.png)
 

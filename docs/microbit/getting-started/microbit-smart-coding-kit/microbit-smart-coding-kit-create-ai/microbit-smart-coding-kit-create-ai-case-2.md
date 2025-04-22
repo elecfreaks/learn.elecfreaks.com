@@ -122,7 +122,7 @@ ___
 
 19.点击“记录”按钮开始数据采集。当屏幕显示3.2.1倒计时并进入数据采集阶段时，您仅需正常步行。根据需要采集的样本数量，重复执行此步骤相应次数即可。
 
-**注意**：采集的数据样本应不少于3个，但不超过10个。一般来说，数据样本数量越多，识别数据模型的准确率越高。
+**注意**：采集的数据样本应不少于3个，一般来说，数据样本数量越多，识别数据模型的准确率越高。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case02/microbit-smart-coding-kit-create-ai-case21.png)
 

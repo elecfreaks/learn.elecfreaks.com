@@ -17,8 +17,7 @@ ___
 |个人电脑|![](microbit-smart-climate-kit-case-01-04.png (150×150))|1|
 ___
 ## 使用教程
-1. 用Chrome或Edge网络浏览器访问
-“https://microbit.org/projects/make-it-code-it/simple-ai-exercise-timer/”如下图所示，点击“开始使用”
+1. 用Chrome或Edge网络浏览器访问[https://microbit.org/projects/make-it-code-it/simple-ai-exercise-timer/](https://microbit.org/projects/make-it-code-it/simple-ai-exercise-timer/)如下图所示，点击“开始使用”
 
 
 ___

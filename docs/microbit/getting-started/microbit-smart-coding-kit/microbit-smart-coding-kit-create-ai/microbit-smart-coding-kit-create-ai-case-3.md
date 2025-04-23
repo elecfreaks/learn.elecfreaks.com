@@ -106,6 +106,7 @@ CreateAI 通过采集micro:bit主板陀螺仪的“X”、“Y”、“Z”轴�
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case03/microbit-smart-coding-kit-create-ai-14-1.png)
 
+---
 ### 步骤四：训练模型与数据模型识别校对
 
 1 .点击“训练模型”并等待模型训练完成。

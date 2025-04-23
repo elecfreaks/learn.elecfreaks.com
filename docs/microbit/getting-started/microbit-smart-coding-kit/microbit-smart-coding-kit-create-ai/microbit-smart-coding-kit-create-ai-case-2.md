@@ -147,7 +147,7 @@ ___
 23. 点击“下一步”
 若您下载的目标是用于数据采集的micro:bit主板，请选择“相同的micro:bit”。若您下载的目标是另一块不同的micro:bit主板，请选择“不同的micro:bit”。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/microbit-smart-coding-kit-create-ai-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-20-1.png)
 
 ---
 24. 按照教程步骤下载完成后，当你处于移动状态时，手表内的micro:bit显示“roller skate”图标。当你静止不动时，手表中的micro:bit则会显示“asleep”图标。而在进行跳跃运动时，手表中的micro:bit主则会展示“stick figure”图标。

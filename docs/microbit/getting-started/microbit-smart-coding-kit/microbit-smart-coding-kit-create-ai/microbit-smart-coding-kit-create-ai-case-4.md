@@ -81,27 +81,25 @@ ___
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case02/microbit-smart-coding-kit-create-ai-case21-1.png)
 
-___
 **采集原理说明**。
 Create AI 通过采集micro:bit主板陀螺仪的“X”、“Y”、“Z”轴数据，并以线条图的形式将这些数据绘制出来，提取特定时间段内的“X”、“Y”、“Z”轴数据，形成一组数据样本。
-
-![]()
 ___
 14.  在完成动作一数据采集后，点击“添加动作”以创建新的动作数据集，然后命名为“静止”，并开始采集动作数据。注意：采集数据时可以采集多个角度静止状态作为数据样本。
 
-![]()
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case04/microbit-smart-coding-kit-create-ai-14.png)
 ___
 15. 点击“训练模型”并等待模型训练完成。
-
-![]()
+    
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case04/microbit-smart-coding-kit-create-ai-15.png)
 ___
 16. 检测动作数据模型的准确率超过80%。若所有项目均达到此准确率，则完成数据采集。若某一动作数据模型的准确率低于80%，则需返回数据采集页面，重新采集数据并进行训练，直至这个动作数据模型的准确率达到或超过80%。
 
-![]()
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case04/microbit-smart-coding-kit-create-ai-16-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case04/microbit-smart-coding-kit-create-ai-16.png)
 ___
 17. 点击“在MakeCode编辑”。
-
-![]()
+    
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case04/microbit-smart-coding-kit-create-ai-16.png)
 ___
 18. 请根据下图所示，完成程序的编写，并使用数据线将micro:bit主板与个人电脑连接。
 
@@ -114,11 +112,11 @@ ___
 ___
 20. 按照教程指引完成下载后，用手轻轻推倒塑料瓶来模拟人体跌倒的过程，检测到塑料瓶倒下micro:bit发出警报。
 
-![]()
+
 ---
 ## 结果
 
-
+用手轻轻推倒塑料瓶来模拟人体跌倒的过程，检测到塑料瓶倒下micro:bit发出警报。
 
 ---
 ## 常见问题

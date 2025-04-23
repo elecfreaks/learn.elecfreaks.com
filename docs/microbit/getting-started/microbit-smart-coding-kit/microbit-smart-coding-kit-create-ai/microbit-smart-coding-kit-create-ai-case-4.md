@@ -102,7 +102,7 @@ ___
 ___
 18. 请根据下图所示，完成程序的编写，并使用数据线将micro:bit主板与个人电脑连接。
 
-![]()
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case04/microbit-smart-coding-kit-create-ai-18.png)
 ___
 19. 点击“下一步”
 如果你下载位置是数据采集用micro:bit的主板，则选择“相同的micro: bit”, 如果你下载是另一块micro:bit主板，则选择“不同的micro：bit”。
@@ -111,15 +111,31 @@ ___
 ___
 20. 按照教程指引完成下载后，检测门或窗被打开时，触发警报。
 
-21.用Chrome或Edge网络浏览器访问[https://makecode.microbit.org/](https://makecode.microbit.org/)如下图所示，编写对应的程序。
+21. 用Chrome或Edge网络浏览器访问[https://makecode.microbit.org/](https://makecode.microbit.org/)如下图所示，编写对应的程序。
 
-22.请参考程序连接[https://makecode.microbit.org/_27DPTdLpfUX6](https://makecode.microbit.org/_27DPTdLpfUX6)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case04/microbit-smart-coding-kit-create-ai-23.png)
 
-22.你也可以通过以下网页直接下载程序。
+22. 请参考程序连接[https://makecode.microbit.org/_27DPTdLpfUX6](https://makecode.microbit.org/_27DPTdLpfUX6)
 
-
-23.
-
+23. 你也可以通过以下网页直接下载程序。
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_27DPTdLpfUX6"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
 
 ---
 ## 结果

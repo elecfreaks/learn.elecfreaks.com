@@ -75,7 +75,7 @@ ___
 ---
 11. 选择“micro:bit 主板”，然后点击“配对”，等待直到连接成功。
 
-图片
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-11-1.png)
 
 ---
 12. 若连接成功，"实时数据区"内的"X"、"Y"、"Z"线条将随着手表的晃动而相应地发生变化。。
@@ -112,7 +112,7 @@ ___
 ---
 18. 点击“在MakeCode编辑”。
 
-图片
+![]9https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-18.png0
 
 ---
 19. 用数据线连接micro:bit主板，点击“下载”。
@@ -124,7 +124,7 @@ ___
     
 您下载的目标是用于采集数据的micro:bit主板，请选择“相同的micro:bit”。若您下载的目标是另一块不同的micro:bit主板，请选择“不同的micro:bit”。
 
-图片
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-20-1.png)
 
 ---
 22. 遵循教程指引完成下载后，当你处于运动状态时，手表内的micro:bit主板LED矩阵屏将显示“stick figure”图标。而在静止不动时，手表中的micro:bit主板LED矩阵屏则会显示“asleep”图标。

@@ -111,7 +111,7 @@ ___
 ---
 18. 点击“在MakeCode编辑”。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-17.png)
+图片
 
 ---
 19. 用数据线连接micro:bit主板，点击“下载”。

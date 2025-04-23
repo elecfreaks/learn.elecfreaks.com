@@ -31,7 +31,6 @@ ___
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-2.png)
 
----
 3. 浏览并阅读相关知识要点，然后定位至“Collect data samples”目录，点击“Open in micro:bit CreateAl”。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-3.png)
@@ -75,7 +74,6 @@ ___
 6. 选择“micro:bit 主板”，然后点击“配对”，等待直到连接成功。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-11-1.png)
-
 
 7. 若连接成功，"实时数据区"内的"X"、"Y"、"Z"线条将随着手表的晃动而相应地发生变化。。
 

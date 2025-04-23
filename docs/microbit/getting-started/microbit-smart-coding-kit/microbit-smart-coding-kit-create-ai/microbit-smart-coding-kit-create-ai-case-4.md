@@ -69,7 +69,7 @@ ___
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case03/microbit-smart-coding-kit-create-ai-14.png)
 
 ___
-12. **请将手表套件安装在塑料瓶的顶端，确保micro:bit按键A朝上，** 然后用手轻轻推倒塑料瓶来模拟人体跌倒的过程，以收集数据。
+12. **请将手表套件安装在塑料瓶的中间部分，确保micro:bit按键A朝上，** 然后用手轻轻推倒塑料瓶来模拟人体跌倒的过程，以收集数据。
 
 
 

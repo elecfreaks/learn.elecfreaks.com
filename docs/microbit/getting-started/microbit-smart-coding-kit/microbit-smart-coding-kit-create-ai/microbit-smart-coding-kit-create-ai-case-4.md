@@ -1,7 +1,7 @@
-# 案例四：模拟摔倒报警器
+# 案例四：门窗报警器
 ___
 ## 简介 
-通过采集与训练自定义手势数据，模拟人摔倒后发出警报。
+通过采集与训练门或者窗被打开的陀螺仪数据，感知到门或者窗被打开时，给另一个micro:bit主板发送信息，接收到信息后发出警报。
 
 ___
 ## 案例目的
@@ -13,7 +13,7 @@ ___
 |项目|图片|数量|
 |--|--|--|
 |手表套件Pro|图片|1|
-|micro:bit|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png)|1|
+|micro:bit|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png)|2|
 |USB数据线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png)|1|
 |个人电脑|![]((microbit-smart-climate-kit-case-01-04.png (150×150))|1|
 
@@ -69,13 +69,12 @@ ___
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case03/microbit-smart-coding-kit-create-ai-14.png)
 
 ___
-12. **请将手表套件安装在塑料瓶的中间部分，确保micro:bit按键A朝上，** 然后用手轻轻推倒塑料瓶来模拟人体跌倒的过程，以收集数据。
-
+12. **请将手表套件安装门或者窗处，确保micro:bit按键A朝上，**然后用手开门或者窗，用于收集数据。
 
 
 ___
-13. 点击“记录”开始收集摔倒数据样本，屏幕上将显示一个3.2.1的倒计，当“GO”字样出现时，请轻轻推倒塑料瓶。根据需要采集的数据样本数量，重复此过程相应次数。
-**注意：** 在采集动作数据时，可以尝试让塑料瓶往不同的方向倒下，这样有助于获取更高质量的有用数据。
+13. 点击“记录”开始收集摔倒数据样本，屏幕上将显示一个3.2.1的倒计，当“GO”字样出现时，推开门或者窗。根据需要采集的数据样本数量，重复此过程相应次数。
+**注意：** 在采集动作数据时，可以不同力度打开窗或者门，这样有助于获取更高质量的有用数据。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case03/microbit-smart-coding-kit-create-ai-16.png)
 
@@ -110,13 +109,22 @@ ___
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-20-1.png)
 ___
-20. 按照教程指引完成下载后，用手轻轻推倒塑料瓶来模拟人体跌倒的过程，检测到塑料瓶倒下micro:bit发出警报。
+20. 按照教程指引完成下载后，检测门或窗被打开时，触发警报。
+
+21.用Chrome或Edge网络浏览器访问[https://makecode.microbit.org/](https://makecode.microbit.org/)如下图所示，编写对应的程序。
+
+22.请参考程序连接[https://makecode.microbit.org/_27DPTdLpfUX6](https://makecode.microbit.org/_27DPTdLpfUX6)
+
+22.你也可以通过以下网页直接下载程序。
+
+
+23.
 
 
 ---
 ## 结果
 
-用手轻轻推倒塑料瓶来模拟人体跌倒的过程，检测到塑料瓶倒下micro:bit发出警报。
+检测门或窗被打开时，触发警报。
 
 ---
 ## 常见问题

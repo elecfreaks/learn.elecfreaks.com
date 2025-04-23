@@ -41,7 +41,8 @@ ___
 
 ---
 5. 在数据样本页面中，找到“connect”并点击它。
-   **（本项目使用预先采集的活动数据）**
+ 
+   **（本项目使用预先采集的数据）**
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-5.png)
 

@@ -38,7 +38,7 @@ ___
 ---
 4. 创建新项目，并为其命名，然后点击“开始项目”。
 
-图片
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-4.png)
 
 ---
 5. 在数据样本页面中，找到“connect”并点击它。
@@ -90,26 +90,26 @@ ___
 ---
 14. 点击“开始训练”并等待数据模型部署完成。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/microbit-smart-coding-kit-create-ai-14.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-14.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/microbit-smart-coding-kit-create-ai-14-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-14-1.png)
 
 ---
 15. 点击“下一步” 按照教程完成引导。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/microbit-smart-coding-kit-create-ai-15.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-15.png)
 
 ---
 16. **请将手表套件佩戴在您的右脚踝内侧，注意确保按钮“B”顶部。** 您现在可以执行步行、跳跃、静止等动作，查看相应数据模型的识别率是否超过80%，以完成任务。若某项动作未能达到这一标准，我们可以通过重新采集该动作的数据样本并训练数据模型，直至识别率超过80%。
 
-图片
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case02/microbit-smart-coding-kit-create-ai-case16.png)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case02/microbit-smart-coding-kit-create-ai-case17.png)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case02/microbit-smart-coding-kit-create-ai-case18.png)
 
 ---
-17.**这里以步行动作作为数据采集的案例**。
+17.**这里以步行动作,作为数据采集的案例**。
 
 如果你处于步行的状态，数据模型识别率不足80%的时候，返回“编辑数据样本”界面，重新采集行走的数据样本。
 
@@ -128,6 +128,7 @@ ___
 
 ---
 20. 点击“开始训练”，并检查各数据模型的识别率是否达到或超过80%。若发现某一项数据模型的识别率未达标，请重新采集该项目相应的数据样本，并对数据样本进行训练。
+
 **注意：在采集数据样本时，务必确保手表的佩戴方式正确无误。**
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case02/microbit-smart-coding-kit-create-ai-case22.png)

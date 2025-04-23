@@ -108,7 +108,7 @@ ___
 19. 点击“下一步”
 如果你下载位置是数据采集用micro:bit的主板，则选择“相同的micro: bit”, 如果你下载是另一块micro:bit主板，则选择“不同的micro：bit”。
 
-![](![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-20-1.png))
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-20-1.png)
 ___
 20. 按照教程指引完成下载后，用手轻轻推倒塑料瓶来模拟人体跌倒的过程，检测到塑料瓶倒下micro:bit发出警报。
 

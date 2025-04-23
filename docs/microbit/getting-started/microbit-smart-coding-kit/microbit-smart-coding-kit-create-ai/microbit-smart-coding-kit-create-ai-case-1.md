@@ -103,7 +103,7 @@ ___
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-17.png)
 
-### 步骤六：程序编写与下载
+### 步骤五：程序编写与下载
 ---
 1. 点击“在MakeCode编辑”。
 

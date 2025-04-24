@@ -9,7 +9,7 @@
 
 1.认识MakeCode中的变量积木
 
-2.认识MakeCode中的数字运算积木
+2.认识MakeCode中的For循环积木
 
 ---
 ## 所需材料：
@@ -72,7 +72,7 @@
 
 4. 在弹出界面输入"jacdac"并点击搜索图标, 选择jacdac软件库，如图所示。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-3.png)
 
 ---
 ### 步骤2：

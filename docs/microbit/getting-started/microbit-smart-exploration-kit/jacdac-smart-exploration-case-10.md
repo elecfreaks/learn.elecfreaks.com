@@ -94,11 +94,11 @@
 
 ---
 ## 如图所示编写程序
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/program/jacdac-smart-exploration-kit-case-01110.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/program/jacdac-smart-exploration-kit-case-%2001110.png)
 
 ---
 ## 参考程序连接：
- ![https://makecode.microbit.org/_DMbgmpEwoKjv](https://makecode.microbit.org/_DMbgmpEwoKjv)
+ ![https://makecode.microbit.org/_VT8PKvJvLCLi](https://makecode.microbit.org/_VT8PKvJvLCLi)
 
 ---
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
@@ -111,7 +111,7 @@
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_DMbgmpEwoKjv"
+        src="https://makecode.microbit.org/_VT8PKvJvLCLi"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

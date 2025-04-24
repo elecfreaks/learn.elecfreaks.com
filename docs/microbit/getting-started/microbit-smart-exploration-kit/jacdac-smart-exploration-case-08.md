@@ -33,7 +33,8 @@
 ## 连接示意图
 如下图所示，将micro:bit主板插入jacdac扩展板，用连接线将按钮传感器连接在jacdac扩展板金手指接口上。
 
-**图片**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-011.png)
+
 ---
 ## 编程软件
 

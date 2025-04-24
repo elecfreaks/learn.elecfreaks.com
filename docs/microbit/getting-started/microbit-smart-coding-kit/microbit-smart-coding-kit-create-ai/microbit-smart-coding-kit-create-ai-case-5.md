@@ -145,7 +145,7 @@ ___
 ---
 ### 步骤六：接收端的程序编写
 
-1. 用Chrome或Edge网络浏览器访问[https://makecode.microbit.org/](https://makecode.microbit.org/)如下图所示，编写对应的程序。
+1. 用Chrome或Edge网络浏览器访问[https://makecode.microbit.org/](https://makecode.microbit.org/)如下图所示，编写对应的程序，并下载程序。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case05/microbit-smart-coding-kit-create-ai-15.png)
 

@@ -58,7 +58,7 @@
 
 4. 在弹出界面输入"jacdac"并点击搜索图标, 选择jacdac软件库，如图所示。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-20.png)
+![]（https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-3.png)
 
 ---
 ### 步骤2：
@@ -111,7 +111,7 @@
 ---
 ## 结果
 
-检测到A按钮传感器被按下时，micro:bit主板左侧的两列LED灯中将亮起一个LED灯，用于计数。同样，当检测到B按钮传感器被按下时，主板右侧的两列LED灯中将亮起一个LED灯，用于计数。比赛的目标是看谁能够快速按下对应的按钮传感器10次，该玩家即为获胜方。
+检测到A按钮传感器被按下时，micro:bit主板左侧的两列LED灯中将亮起一个LED灯，用于计数。同样，当检测到B按钮传感器被按下时，主板右侧的两列LED灯中将亮起一个LED灯，用于计数。比赛的目标是看谁能够快速按下对应的按钮传感器10次，该玩家即为获胜方。如果需要重新开始游戏，请按micro:bit主板的复位键。
 
 ## 思考
 

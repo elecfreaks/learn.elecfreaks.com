@@ -76,10 +76,10 @@ ___
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case03/microbit-smart-coding-kit-create-ai-14.png)
 
 
-2. **请将手表套件安装门或者窗处，确保micro:bit按键A朝上** 然后用手开门或者窗，用于收集数据。
+2. **请将手表套件安装门或者窗处，确保micro:bit按键A朝上** 。
 
 
-3. 点击“记录”开始收集摔倒数据样本，屏幕上将显示一个3.2.1的倒计，当“GO”字样出现时，推开门或者窗。根据需要采集的数据样本数量，重复此过程相应次数。
+3. 点击“记录”开始收集开门或者开窗数据样本，屏幕上将显示一个3.2.1的倒计，当“GO”字样出现时，推开门或者窗。根据需要采集的数据样本数量，重复此过程相应次数。
 **注意：** 在采集动作数据时，可以不同力度打开窗或者门，这样有助于获取更高质量的有用数据。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case03/microbit-smart-coding-kit-create-ai-16.png)

@@ -1,14 +1,15 @@
-# 案例九：眼疾手快
+# 案例九：比一比谁的手速快
 
 ## 简介：
 
-检测到A按钮传感器被按下时，micro:bit主板左侧的两列LED灯中将亮起一个LED灯，用于计数。同样，当检测到B按钮传感器被按下时，主板右侧的两列LED灯中将亮起一个LED灯，用于计数。比赛的目标是看谁能够首先使对应的按钮传感器被按下10次，该玩家即为获胜方。
+两位玩家同时按下自己的按钮传感器，看谁能率先完成10次按压，从而赢得游戏。
 
 ---
 ## 案例目的：
 
 1.认识MakeCode中的变量积木
 
+2.认识MakeCode中的数字运算积木
 
 ---
 ## 所需材料：
@@ -22,18 +23,18 @@
 
 ---
 ## 传感器原理说明：
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Button%20sensor.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/Jacdac%20Button-1.png)
 
 **原理说明**
 
 按钮传感器：用于检测按钮状态的传感器，输出携带有“0”和“1”的信号。
 
-
 ---                 
 ## 连接示意图
 如下图所示，如下图所示，将micro:bit主板插入jacdac扩展板，并使用连接线将两个按钮传感器以星型连接的方式连接至jacdac扩展板的金手指接口。
 
-**图片**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-09.png)
+
 ---
 ## 编程软件
 
@@ -65,17 +66,17 @@
    
    **注意**：若micro:bit主板初次运行jacdac程序，请先预装一个空白jacdac程序至主板，否则跳过此步骤。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-21.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 
 2. 连接传感器，MakeCode自动识别并仿真呈现，在仿真区内传感器实时反馈传感器状态。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/1jacdac-smart-exploration-kit-22.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/1jacdac-smart-exploration-kit-6.png)
 
 3. 点击“ADD BLOCKS”传感器扩展模块。
    
    **注意**：连接新的传感器，重复执行一次“点击“ADD BLOCKS”传感器扩展模块”操作流程。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-23.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-7.png)
 
 ---
 ## 如图所示编写程序
@@ -108,7 +109,12 @@
 </div>
 
 ---
-## 案例演示:
+## 结果
 
-**图片**
+检测到A按钮传感器被按下时，micro:bit主板左侧的两列LED灯中将亮起一个LED灯，用于计数。同样，当检测到B按钮传感器被按下时，主板右侧的两列LED灯中将亮起一个LED灯，用于计数。比赛的目标是看谁能够快速按下对应的按钮传感器10次，该玩家即为获胜方。
+
+## 思考
+
+变量与常量有什么区别。
+
 

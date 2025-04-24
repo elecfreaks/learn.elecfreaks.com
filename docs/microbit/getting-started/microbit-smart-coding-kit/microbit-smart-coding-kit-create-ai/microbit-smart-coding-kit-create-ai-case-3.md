@@ -125,7 +125,7 @@ ___
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case01/microbit-smart-coding-kit-create-ai-18.png)
 ___
-2. 请根据下图所示，完成程序的编写，并使用数据线将micro:bit主板与个人电脑连接。
+2. 请根据下图所示，完成程序的编写，并使用数据线将micro:bit主板与个人电脑连接，并下载程序。
 
 **图片**
 ___

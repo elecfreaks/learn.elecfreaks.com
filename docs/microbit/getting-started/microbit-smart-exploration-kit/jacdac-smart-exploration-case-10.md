@@ -45,9 +45,9 @@
 
 ---                 
 ## 连接示意图
-如下图所示，如下图所示，将micro:bit主板插入jacdac扩展板，并使用连接线将两个按钮传感器以星型连接的方式连接至jacdac扩展板的金手指接口。
+如下图所示，如下图所示，将micro:bit主板插入jacdac扩展板，并使用连接线将旋转编码器、按钮传感器、灯环以菊链的方式连接至jacdac扩展板的金手指接口。
 
-![]()
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-10.png)
 
 ---
 ## 编程软件
@@ -94,11 +94,11 @@
 
 ---
 ## 如图所示编写程序
-![]()
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/program/jacdac-smart-exploration-kit-case-01110.png)
 
 ---
 ## 参考程序连接：
-[]()
+ ![https://makecode.microbit.org/_DMbgmpEwoKjv](https://makecode.microbit.org/_DMbgmpEwoKjv)
 
 ---
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
@@ -111,7 +111,7 @@
     }}
 >
     <iframe
-        src=""
+        src="https://makecode.microbit.org/_DMbgmpEwoKjv"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -126,5 +126,8 @@
 
 ## 结果
 
-
+主板开机后会自动生成一个“-5~5”的随机数作为密码， 按下micro:bit 主板按钮“A”开始游戏，游戏开始后micro:bit主板会出现9~0的倒计时并放声音，玩家需要通过旋转编码器来输入自己猜的密码。**旋转编码器的初始位置为密码“0”向左旋转一格密码为减1 ，向右旋转一格秘密增加1。** 当玩家旋转编码到自己认为正确的密码时候，按下按钮传感器确认是否正确，如果密码正确屏幕会出现“√”的图案，如果在倒计时结束前没有输入正确密码，则游戏失败。
+ 
 ## 思考
+
+如何构建更为复杂的密码？

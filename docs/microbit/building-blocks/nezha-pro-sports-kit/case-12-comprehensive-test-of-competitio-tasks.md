@@ -149,7 +149,7 @@ sidebar_label: 案例十二:比赛任务综合测试
 
 将小车放置在启动区的左上角，贴近边缘，按下micro:bit上面的按键A即可让机器人从启动区开始运动，并完成全部任务
 
-**注意：此案例因小车搭建误差，成功率并非100%，可优化程序以提供成功率**
+**注意：此案例因小车搭建误差，成功率并非100%，可优化程序以提高成功率**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SMI4ZmuTU9M?si=_3OCxxYvTJJ1SC3V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

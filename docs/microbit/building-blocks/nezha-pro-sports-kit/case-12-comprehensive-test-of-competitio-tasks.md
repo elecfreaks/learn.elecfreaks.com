@@ -38,11 +38,11 @@ sidebar_label: 案例十二:比赛任务综合测试
 
 ## 搭建步骤
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E8%BF%90%E5%8A%A8%E5%A4%B9%E7%88%AA%E8%BD%A6.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%AF%94%E8%B5%9B%E4%BB%BB%E5%8A%A1%E8%BD%A6.pdf" type="application/pdf" width="100%" height="600px" />
 
 ## 硬件连线
 
-将四个个智能电机分别连接到哪吒Pro扩展板的M1、M2、M3、M4接口，将四路巡线传感器连接到哪吒Pro扩展板的IIC接口。
+将三个智能电机分别连接到哪吒Pro扩展板的M1、M2、M3接口，将四路巡线传感器连接到哪吒Pro扩展板的IIC接口。
 
 硬件连线图
 
@@ -92,7 +92,7 @@ sidebar_label: 案例十二:比赛任务综合测试
 
 此程序比较复杂，请通过以下共享程序链接查看。
 
-程序链接:[https://makecode.microbit.org/_CvogK9RvqWgT](https://makecode.microbit.org/_CvogK9RvqWgT)
+程序链接:[https://makecode.microbit.org/_gif2bx60zehe](https://makecode.microbit.org/_gif2bx60zehe)
 
 你也可以通过以下网页直接下载程序。
 
@@ -104,7 +104,7 @@ sidebar_label: 案例十二:比赛任务综合测试
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_CvogK9RvqWgT"
+        src="https://makecode.microbit.org/_gif2bx60zehe"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -147,9 +147,11 @@ sidebar_label: 案例十二:比赛任务综合测试
 
 ## 案例演示
 
-按下micro:bit上面的按键A即可让巡线踢球机器人从启动区开始运动，通过地图上的黑线调整姿态和行驶路线，并踢出足球完成射门动作。
+将小车放置在启动区的左上角，贴近边缘，按下micro:bit上面的按键A即可让机器人从启动区开始运动，并完成全部任务
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-11-02.gif)
+**注意：此案例因小车搭建误差，成功率并非100%，可优化程序以提供成功率**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SMI4ZmuTU9M?si=_3OCxxYvTJJ1SC3V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 总结分享
 

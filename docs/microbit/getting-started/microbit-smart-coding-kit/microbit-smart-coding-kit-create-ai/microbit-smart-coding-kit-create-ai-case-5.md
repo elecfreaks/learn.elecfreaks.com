@@ -15,7 +15,7 @@ ___
 |手表套件Pro|图片|1|
 |micro:bit|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png)|2|
 |USB数据线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png)|1|
-|Cutebot|![]()|1|
+|Cutebot|图片|1|
 |个人电脑|![]((microbit-smart-climate-kit-case-01-04.png (150×150))|1|
 
 ___
@@ -79,8 +79,7 @@ ___
 点击三个竖点图标，采用连续采集的方式，然后开始采集“向前”手势动作数据样本，屏幕上将显示一个3.2.1的倒计，当“GO”字样出现时，开始上下晃动手表，直到10样本数据采集完。
 **注意：** 在采集动作数据时，需要采集晃动手表高、中、低频率，每个频率采集10个样本。
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case05/microbit-smart-coding-kit-create-ai-1.png)
-![]()
-![]()
+
 
 3. **请手拿手表表带，徽标方向朝外，micro:bit LED矩阵屏朝下**，如图所示。
 点击“添加动作”并命名“向后”，点击三个竖点图标，采用连续采集的方式，然后开始采集“向后”手势动作数据样本，屏幕上将显示一个3.2.1的倒计，当“GO”字样出现时，开始上下晃动手表，直到10样本数据采集完。
@@ -88,7 +87,7 @@ ___
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case05/microbit-smart-coding-kit-create-ai-6.png)
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case05/microbit-smart-coding-kit-create-ai-3.jpg)
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case05/microbit-smart-coding-kit-create-ai-1.png)
-![]()
+
 
 4. **请手拿手表表带，徽标方向朝外，micro:bit LED矩阵屏朝右**，如图所示。
 点击“添加动作”并命名“向右”，点击三个竖点图标，采用连续采集的方式，然后开始采集“向右”手势动作数据样本，屏幕上将显示一个3.2.1的倒计，当“GO”字样出现时，开始左右晃动手表，直到10样本数据采集完。
@@ -96,7 +95,7 @@ ___
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case05/microbit-smart-coding-kit-create-ai-7.png)
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case05/microbit-smart-coding-kit-create-ai-4.jpg)
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case05/microbit-smart-coding-kit-create-ai-1.png)
-![]()
+
 
 6. **请手拿手表表带，徽标方向朝外，micro:bit LED矩阵屏朝左**，如图所示。
 点击“添加动作”并命名“向左”，点击三个竖点图标，采用连续采集的方式，然后开始采集“向左”手势动作数据样本，屏幕上将显示一个3.2.1的倒计，当“GO”字样出现时，开始左右晃动手表，直到10样本数据采集完。
@@ -104,14 +103,14 @@ ___
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case05/microbit-smart-coding-kit-create-ai-8.png)
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case05/microbit-smart-coding-kit-create-ai-5.jpg)
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case05/microbit-smart-coding-kit-create-ai-1.png)
-![]()
+
 
 8.  点击“添加动作”并命名“停止”，点击三个竖点图标，采用连续采集的方式，然后开始采集“停止”手势动作数据样本，屏幕上将显示一个3.2.1的倒计，当“GO”字样出现时，手表静止不动，直到10样本数据采集完。
 **注意：** 在采集停止动作数据时，应采集前面四个方位的静止状态。
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case05/microbit-smart-coding-kit-create-ai-9.jpg)
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case05/microbit-smart-coding-kit-create-ai-13.jpg)
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/case05/microbit-smart-coding-kit-create-ai-1.png)
-![]()
+
 
 **采集原理说明**。
 Create AI 通过采集micro:bit主板陀螺仪的“X”、“Y”、“Z”轴数据，并以线条图的形式将这些数据绘制出来，提取特定时间段内的“X”、“Y”、“Z”轴数据，形成一组数据样本。

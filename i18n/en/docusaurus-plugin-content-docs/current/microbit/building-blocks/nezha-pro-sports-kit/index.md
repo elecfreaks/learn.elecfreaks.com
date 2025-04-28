@@ -5,7 +5,6 @@ sidebar_label: Nezha Pro Sport Kit(EF08428)
 
 # Nezha Pro Sport Kit
 
-首图
 
 ## Product Introduction
 

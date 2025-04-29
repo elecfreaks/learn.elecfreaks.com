@@ -23,6 +23,7 @@
 
 ---
 ## 传感器原理说明：
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/Jacdac%20Light%20Sensor-1.png)
 
 **原理说明**

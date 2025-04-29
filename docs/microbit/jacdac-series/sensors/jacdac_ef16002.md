@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Jacdac Button
+sidebar_label:  jacdac Button
 ---
 
 # 按钮传感器
@@ -9,10 +9,7 @@ sidebar_label: Jacdac Button
 ## 介绍
 **按钮传感器：** 用于检测按钮状态的传感器，输出携带有“0”和“1”的信号。
 
----
-## 产品链接
-
-暂无
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/Jacdac%20Button-1.png)
 
 ---
 ## 特性
@@ -24,7 +21,7 @@ jacdac按钮传感器是一个简单易用的数字输入模块。它能够敏�
 |项目|参数|
 |---|---|
 |名字|按钮传感器|
-|SKU||EF16002|
+|SKU|EF16002|
 |连接类型|数字输出|
 |输入电压|3.3V|
 |大小||
@@ -35,11 +32,16 @@ jacdac按钮传感器是一个简单易用的数字输入模块。它能够敏�
 **图片**
 
 ---
+
+## 产品链接
+暂无
+
+---
 ## 快速开始
 
 ### 连接图片
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-011.png)
 
 ---
 ## 使用教程
@@ -59,14 +61,14 @@ jacdac按钮传感器是一个简单易用的数字输入模块。它能够敏�
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-11.png)
 
-
+---
 3. 点击代码抽屉中的“扩展”。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-09.png)
 
 4. 在弹出界面输入"jacdac"并点击搜索图标, 选择jacdac软件库，如图所示。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-20.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-3.png)
 
 ---
 #### 步骤2：
@@ -84,11 +86,12 @@ jacdac按钮传感器是一个简单易用的数字输入模块。它能够敏�
    
    **注意**：连接新的传感器，重复执行一次“点击“ADD BLOCKS”传感器扩展模块”操作流程。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-7.png)
 
-#### 程序如图
+#### 如图编写程序
 
 
-## 参考
+## 参考程序连接
 
 链接
 

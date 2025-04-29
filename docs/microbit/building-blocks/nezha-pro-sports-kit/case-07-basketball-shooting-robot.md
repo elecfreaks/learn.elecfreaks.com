@@ -37,9 +37,9 @@ micro:bit程序下载方式
 
 ## 硬件连线
 
-将碰撞传感器连接到哪吒Pro扩展板的J1接口，将智能电机连接到哪吒Pro扩展板的M1接口。
+将碰撞传感器连接到哪吒Pro扩展板的J1接口，将智能电机连接到哪吒Pro扩展板的M4接口。
 
-硬件连线图
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-07-03.png)
 
 ## 代码编程
 

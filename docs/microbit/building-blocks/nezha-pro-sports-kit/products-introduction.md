@@ -15,6 +15,22 @@ Nezha Pro Sports Kit是一款专为中小学生设计的以运动为主题的STE
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-02.png)
 
+## 产品参数
+
+| 项目               | 参数                                                                 |
+|:------------------:|:--------------------------------------------------------------------:|
+| 产品名称           | micro:bit Nezha Pro Sports Kit                                                  |
+| SKU                | EF08428                                                           |
+| 产品重量（毛重）   | ********                                                             |
+| 包装尺寸           | 370mm × 288mm × 195mm                              |
+| 电子模块数量       | 12个                                                                |
+| 电子模块           | 哪吒Pro多功能扩展盒 × 1<br> 智能积木马达 × 4<br> 超声波传感器 × 1<br> 四路巡线传感器 × 1<br> 颜色识别传感器 × 1<br> OLED显示屏 × 1<br> 按键模块 × 1<br> 彩虹灯环 × 1<br> 碰撞模块 × 1|
+| 积木材质          | 塑料ABS                                                        |
+| 积木数量         | 500+                                                        |
+| 适用年龄           | 7+                                                                 |
+| 案例数量           | 20+                                                                 |
+| 编程方式           | makecode<br>python                                                  |
+
 ## 产品特性
 
 1. 无主控模式：支持无主控模式，无需编程即可完成简单案例，降低入门难度。

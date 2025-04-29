@@ -40,9 +40,9 @@ sidebar_label: 案例十:物资搬运车
 
 ## 硬件连线
 
-将四个个智能电机分别连接到哪吒Pro扩展板的M1、M2、M3、M4接口，将四路巡线传感器连接到哪吒Pro扩展板的IIC接口。
+将四个智能电机分别连接到哪吒Pro扩展板的M1、M2、M3、M4接口，将四路巡线传感器连接到哪吒Pro扩展板的IIC接口。
 
-硬件连线图
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-10-03.png)
 
 ## 代码编程
 

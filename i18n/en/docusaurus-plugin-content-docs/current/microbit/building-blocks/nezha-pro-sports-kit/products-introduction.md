@@ -15,7 +15,23 @@ Nezha Pro Sports Kit is a sports-themed STEAM educational kit designed for prima
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-02.png)
 
-1. ## Product Features
+## Product Parameters
+
+| Item               | Specification                                                                 |
+|:------------------:|:-----------------------------------------------------------------------------:|
+| Product Name       | micro:bit Nezha Pro Sports Kit                                                |
+| SKU                | EF08428                                                                       |
+| Gross Weight       | ******                                                         |
+| Package Dimensions | 370mm × 288mm × 195mm                                                        |
+| Number of Electronic Modules | 12 pcs                                                                     |
+| Electronic Modules | Nezha Pro Breakout Board × 1<br> PlanetX Smart Brick Motor × 4<br> PlanetX Ultrasonic Sensor × 1<br> PlanetX 4 Channel Tracking Sensor × 1<br> PlanetX Colour Sensor × 1<br> PlanetX OLED × 1<br> PlanetX Button Sensor × 1<br> PlanetX LED Rainbow × 1<br> PlanetX Crash Sensor × 1 |
+| Building Block Material | ABS Plastic                                                               |
+| Number of Building Blocks | 500+                                                                     |
+| Recommended Age    | 7+                                                                           |
+| Number of Cases    | 20+                                                                          |
+| Programming Methods | makecode<br>python                                                         |
+
+## Product Features
 
    1. No master control mode: Supports no master control mode, and can complete simple cases without programming, reducing the difficulty of entry.
    2. High-performance intelligent motor: The kit is equipped with four powerful encoder motors, suitable for competition-level case production, providing strong power and precise control.
@@ -38,7 +54,7 @@ Fully compatible with building block structural parts, inspiring unlimited build
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-introduction-04.png)
 
-- #### Features
+#### Features
 
   - 8-way sensor interface, 4-way closed-loop motor interface, unified RJ11 interface.
   - Color recognition system, the label color at the interface is consistent with the label color at the planetary sensor and motor interface.
@@ -101,7 +117,7 @@ PlanetX Smart Brick Motor combines high-precision servos and high-efficiency mot
 |  Color recognition system   |                           SUPPORT                            |
 |           weight            |                             31g                              |
 
-# PlanetX Sensor Introduction
+## PlanetX Sensor Introduction
 
 Planetx Sensor Introduction is a series of sensor combinations developed by ELECFREAKS specifically for primary and secondary school building cases. It has the characteristics of easy building blocks, a beautiful appearance, and a color recognition system. The following is an introduction to the planet series sensors included in the micro:bit Nezha Pro sports kit:
 

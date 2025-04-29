@@ -44,7 +44,7 @@ sidebar_label: 案例十二:比赛任务综合测试
 
 将三个智能电机分别连接到哪吒Pro扩展板的M1、M2、M3接口，将四路巡线传感器连接到哪吒Pro扩展板的IIC接口。
 
-硬件连线图
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-12-03.png)
 
 ## 四路巡线传感器——学习模式
 

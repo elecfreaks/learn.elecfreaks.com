@@ -39,6 +39,12 @@ sidebar_label: 案例二:划船机器人
 
 <embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E5%88%92%E8%88%B9%E6%9C%BA%E5%99%A8%E4%BA%BA.pdf" type="application/pdf" width="100%" height="600px" />
 
+## 硬件连线
+
+将智能电机连接到哪吒Pro扩展板的M1接口
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-01-02.png)
+
 ## 案例演示
 
 按下哪吒Pro上面的按键即可让划船机器人向前划动。

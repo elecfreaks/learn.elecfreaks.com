@@ -20,9 +20,8 @@ sidebar_label: 案例01：XGO APP 蓝牙遥控
 
 | 图片 | 名称 | 数量 | 备注 |
 |---|---|---|---|
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/)| CM4 XGO Rider | 1 |   |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/) | 智能手机 | 1 |   |
-| ![](https://wikimedia-ef.oss-cn-hongkong.al/otb.png) | PC | 1 | 自行准备 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/prepare-xgo-rider-cm4-kit-01.png)| CM4 XGO Rider | 1 |   |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/prepare-xgo-rider-cm4-kit-02.png) | 智能手机 | 1 |   |
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
 
@@ -88,4 +87,3 @@ XGO APP 的开发者模式是如何设置的？
 - 引导学生讨论他们在制作过程中遇到的问题和困难，以及如何解决这些问题。
 
 - 引导学生思考并共同讨论如何更有效的让 XGO Rider 做出有意思的运动。
-

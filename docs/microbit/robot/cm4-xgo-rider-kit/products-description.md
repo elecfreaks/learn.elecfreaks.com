@@ -10,7 +10,7 @@ sidebar_label: XGO-Rider 双轮足机器人套装-CM4 版
 
 CM4 XGO-Rider 是一款基于树莓派的桌面级双轮足开发平台，内置树莓派 CM4 模组，实现 AI 边缘计算应用，采用 4.5KG.CM 全金属磁编码总线串口舵机作为关节，FOC 轮毂一体化电机作为轮子，内部搭载惯性测量单元（IMU），能够根据不同地形反馈，实时调整关节角度实现全向移动、姿态稳定、多种运动叠加等动作。支持 Python 编程和 ROS 编程，支持无线遥控、人脸识别、手势识别、颜色追踪、物体检测、车牌识别、二维码运动控制等一系列智能功能。集成讯飞星火大模型，支持语音对话交流、文生图、图生文等多种 AI 功能。提供系统且丰富的学习教程，帮助您快速入门双轮足机器人智能控制。
 
-(主图)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-01.png)
 
 ## 产品特性
 
@@ -27,7 +27,7 @@ CM4 XGO-Rider 是一款基于树莓派的桌面级双轮足开发平台，内置
 
 ## 产品清单
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot-edu/product-list-c.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-packing-list.png)
 
 ## 规格参数
 
@@ -113,37 +113,39 @@ CM4 XGO-Rider 是一款基于树莓派的桌面级双轮足开发平台，内置
 
 请将 XGO Rider 以后仰姿态放置在 **地面! 地面！地面！**上，然后打开电源开关，XGO Rider 会弹起并保持平衡状态。
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-02.png)
 
 ### 示例模式
 
+开启电源后,按"A"或"B"选择"示例模式",然后分别使用"A"和"B"上下滚动选择所需的应用程序,然后按"D"确认并执行所选操作,按"C"返回上一个菜单。
 
+**根据CM4镜像不同，页面信息可能与当前图片不一致**
 
-### 关机
-
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-03.png)
 
 ### 充电
 
+在关机状态下使用随机的Type-C充电线插上任意5V充电头充电,充电过程中红色灯亮起,充满电绿色灯亮起。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-04.png)
 
 ### 注意事项
 
 XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-05.png)
 
 请将 XGO Rider 以后仰姿态放置在 **地面! 地面！地面！**上，然后打开电源开关，XGO Rider 会弹起并保持平衡状态。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-02.png)
 
 
+开机状态下，如果XGO Rider被拿起，则会进入锁定状态，此时将XGO Rider垂直放置在地面上，几秒后会恢复正常。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-06.png)
 
 ### 演示
 
 
 
-（动图）
-
 ### 常见问题
-
-1. 当 XGO Rider 进入到锁死状态时，将 XGO Rider 竖直放置到平面上

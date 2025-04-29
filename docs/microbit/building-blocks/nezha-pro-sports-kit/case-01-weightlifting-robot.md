@@ -86,6 +86,11 @@ sidebar_label: 案例一:举重机器人
 
 <embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E4%B8%BE%E9%87%8D%E6%9C%BA%E5%99%A8%E4%BA%BA%20-%20%E6%97%A0%E4%B8%BB%E6%9D%BF.pdf" type="application/pdf" width="100%" height="600px" />
 
+## 硬件连线
+
+将智能电机连接到哪吒Pro扩展板的M1接口
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-01-02.png)
 
 ## 案例演示
 

@@ -35,6 +35,12 @@ sidebar_label: 案例四:引体向上机器人
 
 <embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E5%BC%95%E4%BD%93%E5%90%91%E4%B8%8A%E6%9C%BA%E5%99%A8%E4%BA%BA.pdf" type="application/pdf" width="100%" height="600px" />
 
+## 硬件连线
+
+将智能电机连接到哪吒Pro扩展板的M1接口
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-01-02.png)
+
 ## 案例演示
 
 按下哪吒Pro上面的按键即可让引体向上机器人开始运动。

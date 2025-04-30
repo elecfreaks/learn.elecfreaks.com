@@ -29,7 +29,7 @@ Nezha Pro Sports Kit是一款专为中小学生设计的以运动为主题的STE
 | 积木数量         | 500+                                                        |
 | 适用年龄           | 7+                                                                 |
 | 案例数量           | 20+                                                                 |
-| 编程方式           | makecode<br>python                                                  |
+| 编程方式           | makecode<br />python                                                  |
 
 ## 产品特性
 

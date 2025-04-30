@@ -24,12 +24,12 @@ Nezha Pro Sports Kit is a sports-themed STEAM educational kit designed for prima
 | Gross Weight       | ******                                                         |
 | Package Dimensions | 370mm × 288mm × 195mm                                                        |
 | Number of Electronic Modules | 12 pcs                                                                     |
-| Electronic Modules | Nezha Pro Breakout Board × 1<br> PlanetX Smart Brick Motor × 4<br> PlanetX Ultrasonic Sensor × 1<br> PlanetX 4 Channel Tracking Sensor × 1<br> PlanetX Colour Sensor × 1<br> PlanetX OLED × 1<br> PlanetX Button Sensor × 1<br> PlanetX LED Rainbow × 1<br> PlanetX Crash Sensor × 1 |
+| Electronic Modules | Nezha Pro Breakout Board × 1<br />  PlanetX Smart Brick Motor × 4<br />  PlanetX Ultrasonic Sensor × 1<br />  PlanetX 4 Channel Tracking Sensor × 1<br />  PlanetX Colour Sensor × 1<br />  PlanetX OLED × 1<br />  PlanetX Button Sensor × 1<br />  PlanetX LED Rainbow × 1<br />  PlanetX Crash Sensor × 1 |
 | Building Block Material | ABS Plastic                                                               |
 | Number of Building Blocks | 500+                                                                     |
 | Recommended Age    | 7+                                                                           |
 | Number of Cases    | 20+                                                                          |
-| Programming Methods | makecode<br>python                                                         |
+| Programming Methods | makecode<br /> python                                                         |
 
 ## Product Features
 

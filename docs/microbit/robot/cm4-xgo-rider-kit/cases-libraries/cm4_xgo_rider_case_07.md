@@ -1,19 +1,20 @@
 ﻿---
 sidebar_position: 7
-sidebar_label: 案例07：关闭大程序
+sidebar_label: 案例07：树莓派系统扩容
 ---
 
-# 案例07：关闭大程序
+# 案例07：树莓派系统扩容
 
 ## 简介
 
-本课程旨在向学生介绍关闭树莓派系统的进程操作。
+本课程旨在向学生介绍树莓派系统扩容的操作。
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
 
 
 ## 教学目标
 
-了解树莓派系统进程以及关闭进程。
+了解树莓派系统扩容操作。
 
 ## 教学准备
 
@@ -28,44 +29,65 @@ sidebar_label: 案例07：关闭大程序
 
 ## 课程引入
 
-如果我们要进行其它实验时，为了避免进程间对临界资源的占用，我们必须停止大程序。接下来，我们开始进入学习旅程吧。
+因为出厂的镜像，系统只有15G,而sd卡的系统为32G.如果想要使用剩下的空间，可以看本教程。接下来，我们开始进入学习旅程吧。
 
 ## 探究活动
 
-如何使用进入树莓派系统并关闭进程。
+如何查看树莓派系统空间以及进行扩容。
 
 ## 软件
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
 
 ### 1、使用 VNC-Viewer 连接树莓派
 
 将 XGO Rider 开机后，进入遥控模式界面，即可查询到对应的 IP 地址。若没有 IP 地址，请按照联网操作重新联网。
+
 请参考案例03教程内容，使用 VNC-Viewer 远程登录树莓派系统，进入树莓派系统桌面并打开终端。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case07-01.png)
 
-### 2、查看进程号
+### 2、查看系统空间
 
-输入以下的命令 查出大程序的进程号
-ps -ef | grep "python"
+输入下方指令，查询一下空间
 
-### 3、找到 main.py 的进程
+df -h
 
-然后找到 mian.py的进程号，每次开机的进程号都不一样，需要根据实际情况去获取，教程这里是878。
+可以看到树莓派系统的空间
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case07-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-01.png)
 
-### 4、关闭进程
+### 3、扩容
 
-输入以下指令即可关闭大程序
-sudo kill 878  #878为进程号，需要根据实际情况获取。
-​
-### 5、再次检查
+输入以下指令进行扩容。
 
-确保大程序已经关闭，再查一下大程序是否还运行。
-ps -ef | grep "python"
-发现大程序已经关闭了。
+sudo raspi-config
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case07-03.png)
+就会进入此界面。
 
-如果大程序没关闭的情况下，运行了单独的例程会导致小车的屏幕花屏、黑屏的情况，需要重启 XGO Rider 后，屏幕才能恢复。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-02.png)
+
+选择第 6 个选项，按回车键。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-03.png)
+
+然后选择第 1 个选项，选确定。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-04.png)
+
+在这界面再按回车，然后选择Finish.之后重启 XGO Rider 即可。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-06.png)
+
+重启 XGO Rider。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-07.png)
+
+再次查询空间。
+
+df -h
+
+发现扩容完成.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-08.png)

@@ -1,19 +1,20 @@
 ﻿---
 sidebar_position: 6
-sidebar_label: 案例06：烧录系统镜像
+sidebar_label: 案例06：关闭大程序
 ---
 
-# 案例06：烧录系统镜像
+# 案例06：关闭大程序
 
 ## 简介
 
-本课程旨在向学生介绍更新系统镜像操作。
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。同时，XGO Rider 出厂的 TF 卡出厂已烧录镜像，可直接将 TF 卡插入树莓派使用，一般情况下无需按照本教程烧录镜像系统！！！**
+本课程旨在向学生介绍关闭树莓派系统的进程操作。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
 
 
 ## 教学目标
 
-了解系统镜像的更新操作。
+了解树莓派系统进程以及关闭进程。
 
 ## 教学准备
 
@@ -28,28 +29,50 @@ sidebar_label: 案例06：烧录系统镜像
 
 ## 课程引入
 
-随着技术的升级以及我们产品功能的增加，有可能会需要您更新系统镜像。接下来，我们开始进入学习旅程吧。
+如果我们要进行其它实验时，为了避免进程间对临界资源的占用，我们必须停止大程序。接下来，我们开始进入学习旅程吧。
 
 ## 探究活动
 
-如何正确的烧录系统镜像。
+如何使用进入树莓派系统并关闭进程。
 
 ## 软件
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
 
-### 1、准备工作
+### 1、使用 VNC-Viewer 连接树莓派
 
-硬件：准备一个 SD 卡读卡器，需要是 USB 3.0 的，将机器狗的 SD 卡拔出插入读卡器，插在电脑 USB 接口。
+将 XGO Rider 开机后，进入遥控模式界面，即可查询到对应的 IP 地址。若没有 IP 地址，请按照联网操作重新联网。
 
-软件：下载 [Raspberry Pi Imager](https://www.raspberrypi.com/software/) 并安装。
+请参考案例03教程内容，使用 VNC-Viewer 远程登录树莓派系统，进入树莓派系统桌面并打开终端。
 
-### 2、启动 Raspberry Pi Imager
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case07-01.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case06-01.png)
+### 2、查看进程号
 
-### 3、选择操作系统以及镜像文件
+输入以下的命令 查出大程序的进程号
 
-下载最新日期的[树莓派系统镜像](https://drive.google.com/drive/folders/1YJy-wIke6EJECcblV2LMFmRN6YSrPW-a)， 点击”选择操作系统“后选择使用自定义镜像和存储卡路径。
+ps -ef | grep "python"
 
-点击烧录，大约20分钟后结束。
-**注意，系统会提示格式化，切勿格式化SD卡。**
+### 3、找到 main.py 的进程
+
+然后找到 mian.py的进程号，每次开机的进程号都不一样，需要根据实际情况去获取，教程这里是878。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case07-02.png)
+
+### 4、关闭进程
+
+输入以下指令即可关闭大程序
+
+sudo kill 878  #878为进程号，需要根据实际情况获取。
+​
+### 5、再次检查
+
+确保大程序已经关闭，再查一下大程序是否还运行。
+
+ps -ef | grep "python"
+
+发现大程序已经关闭了。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case07-03.png)
+
+如果大程序没关闭的情况下，运行了单独的例程会导致小车的屏幕花屏、黑屏的情况，需要重启 XGO Rider 后，屏幕才能恢复。

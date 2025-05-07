@@ -1,19 +1,20 @@
 ﻿---
 sidebar_position: 4
-sidebar_label: 案例04：树莓派教程-远程传输文件
+sidebar_label: 案例04：JupyterLab 环境搭建与使用
 ---
 
-# 案例04：树莓派教程-远程传输文件
+# 案例04：JupyterLab 环境搭建与使用
 
 ## 简介
 
-本课程旨在向学生介绍远程传输文件的操作。
+本课程旨在向学生介绍JupyterLab环境搭建与使用操作。
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
 
 
 ## 教学目标
 
-了解 WinSCP 安装以及远程传输文件的基本概念与实际操作。
+了解 JupyterLab 的实际操作。
 
 ## 教学准备
 
@@ -28,33 +29,31 @@ sidebar_label: 案例04：树莓派教程-远程传输文件
 
 ## 课程引入
 
-在需要于电脑（比如Windows、macOS或Linux）与树莓派这样的单板计算机之间传输文件时，考虑到两者可能运行不同的操作系统和文件系统，SSH（Secure Shell）协议提供了一种安全可靠的方法来进行跨平台文件传输。
-接下来，我们开始进入学习旅程吧。
+JupyterLab 是 Jupyter Notebook 的新一代用户界面，它提供了一个全新的、更加强大和灵活的交互式计算环境。JupyterLab 环境使用需要电脑与树莓派在同一个局域网才能正常使用。出厂系统默认开机启动 JupyterLab 服务。接下来，我们开始进入学习旅程吧。
 
 ## 探究活动
 
-如何使用 WinSCP 软件进行远程传输文件。
+如何使用 JupyterLab 界面。
 
 ## 软件
 
-WinSCP 是一款功能强大的文件传输软件，支持多种协议，包括 SSH、SFTP、FTP、WebDAV 等。WinSCP 可以在 Windows、macOS 和 Linux 等操作系统上运行。
-WinSCP 官网下载链接：ttps://winscp.net/eng/download.php
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
-
 
 ### 1、获取 XGO Rider 树莓派 IP 地址
 
 将 XGO Rider 开机后，进入遥控模式界面，即可查询到对应的 IP 地址。若没有 IP 地址，请按照联网操作重新联网。
 
 
-### 2、安装 WinSCP 软件
+### 2、开启 JupyterLab 环境
 
-WinSCP 软件的官方下载链接：https://winscp.net/eng/download.php
-下载完成后，双击安装包，按照提示完成安装。
+打开电脑端的浏览器，在地址栏输入树莓派的IP地址+端口号：192.168.206.179:8888
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-01.png)
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-02.png)
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-03.png)
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-04.png)
 
 ### 3、WinSCP 远程传输文件

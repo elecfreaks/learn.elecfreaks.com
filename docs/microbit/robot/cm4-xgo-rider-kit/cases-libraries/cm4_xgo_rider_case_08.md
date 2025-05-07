@@ -1,20 +1,20 @@
 ﻿---
-sidebar_position: 7
-sidebar_label: 案例07：树莓派系统扩容
+sidebar_position: 9
+sidebar_label: 案例09：机器人基础教程-屏幕显示
 ---
 
-# 案例07：树莓派系统扩容
+# 案例09：机器人基础教程-屏幕显示
 
 ## 简介
 
-本课程旨在向学生介绍树莓派系统扩容的操作。
+本课程旨在向学生介绍屏幕显示画面操作。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
 
 
 ## 教学目标
 
-了解树莓派系统扩容操作。
+了解 XGO Rider 屏幕显示图形与文字。
 
 ## 教学准备
 
@@ -28,20 +28,18 @@ sidebar_label: 案例07：树莓派系统扩容
 
 ## 课程引入
 
-因为出厂的镜像，系统只有15G,而sd卡的系统为32G.如果想要使用剩下的空间，可以看本教程。接下来，我们开始进入学习旅程吧。
+因为出厂的镜像，系统只有15G,而sd卡的系统为32G，如果想要使用剩下的空间，可以看本教程。接下来，我们开始进入学习旅程吧。
 
 ## 探究活动
 
 如何查看树莓派系统空间以及进行扩容。
 
 ## 软件
-
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
 
 ### 1、使用 VNC-Viewer 连接树莓派
 
 将 XGO Rider 开机后，进入遥控模式界面，即可查询到对应的 IP 地址。若没有 IP 地址，请按照联网操作重新联网。
-
 请参考案例03教程内容，使用 VNC-Viewer 远程登录树莓派系统，进入树莓派系统桌面并打开终端。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case07-01.png)
@@ -84,9 +82,6 @@ sudo raspi-config
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-07.png)
 
 再次查询空间。
-
 df -h
-
 发现扩容完成.
-
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-08.png)

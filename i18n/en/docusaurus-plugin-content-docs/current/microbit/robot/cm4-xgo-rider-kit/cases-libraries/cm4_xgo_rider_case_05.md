@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 5
-sidebar_label: Case 05: Burning System Image
+sidebar_label: Case 05:Burning System Image
 ---
 
 # Case 05: Burning System Image

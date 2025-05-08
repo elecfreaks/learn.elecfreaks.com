@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 2
-sidebar_label: Case 02: Raspberry Pi Tutorial - SSH and VNC Remote Login
+sidebar_label: Case 02:Raspberry Pi Tutorial - SSH and VNC Remote Login
 ---
 
 # Case 02: Raspberry Pi Tutorial - SSH and VNC Remote Login

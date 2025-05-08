@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 6
-sidebar_label: Case 06: Close a large program
+sidebar_label: Case 06:Close a large program
 ---
 
 # Case 06: Close a large program

@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 4
-sidebar_label: Case 04: JupyterLab environment construction and use
+sidebar_label: Case 04:JupyterLab environment construction and use
 ---
 
 # Case 04: JupyterLab environment construction and use

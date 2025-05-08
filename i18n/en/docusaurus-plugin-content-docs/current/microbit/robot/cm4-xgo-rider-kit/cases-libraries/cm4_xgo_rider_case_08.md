@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 9
-sidebar_label: Case 08: Robot Basics Tutorial - Screen Display
+sidebar_label: Case 08:Robot Basics Tutorial - Screen Display
 ---
 
 # Case 08: Robot Basics Tutorial - Screen Display

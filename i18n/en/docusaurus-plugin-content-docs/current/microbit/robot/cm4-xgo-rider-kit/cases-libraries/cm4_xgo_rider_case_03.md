@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 3
-sidebar_label: Case 03: Raspberry Pi Tutorial - Remote File Transfer
+sidebar_label: Case 03:Raspberry Pi Tutorial - Remote File Transfer
 ---
 
 # Case 03: Raspberry Pi Tutorial - Remote File Transfer

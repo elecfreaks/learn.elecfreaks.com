@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Case 01: XGO APP Bluetooth Remote Control
+sidebar_label: Case 01:XGO APP Bluetooth Remote Control
 ---
 
 # Case 01: XGO APP Bluetooth Remote Control

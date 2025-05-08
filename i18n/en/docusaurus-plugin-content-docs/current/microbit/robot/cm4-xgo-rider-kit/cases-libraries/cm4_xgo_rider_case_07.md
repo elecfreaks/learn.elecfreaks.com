@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 7
-sidebar_label: Case 07: Raspberry Pi System Expansion
+sidebar_label: Case 07:Raspberry Pi System Expansion
 ---
 
 # Case 07: Raspberry Pi System Expansion

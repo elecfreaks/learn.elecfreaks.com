@@ -7,9 +7,9 @@ sidebar_label: 案例十三:秒表
 
 ## 案例简介
 
-制作一个秒表。
+设计一款基于哪吒 Pro 运动套装的秒表，通过编程实现精准计时。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-12-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-13-01.png)
 
 ## 教学准备
 
@@ -19,22 +19,18 @@ sidebar_label: 案例十三:秒表
 
 ## 教学目标
 
-制作比赛任务车，完成全部任务
+制作秒表，了解makecode上系统时间积木块的使用。
 
-熟悉四路巡线传感器及舵机的综合应用
+了解秒表的应用场景。
 
 
 ## 课程引入
 
-欢迎小朋友们加入我们的STEAM奇妙旅程！在前面的课程中我们了解了小车巡线、舵机控制等知识点，这节课我们需要将这些知识点融汇贯通，完成比赛地图上的全部任务。
+同学们，在运动会上裁判手中的秒表是如何精准计时的？今天我们要用哪吒 Pro 运动套装打造一个属于自己的秒表！让我们一起解锁时间管理的科技魔法吧！
 
 ## 学习探究
 
-多个舵机的联动使用
-
-四路巡线传感器的使用
-
-如何使用四路巡线传感器帮助小车调整行驶路线
+探究数字计时的算法实现与按钮事件触发逻辑。
 
 ## 搭建步骤
 
@@ -72,7 +68,7 @@ sidebar_label: 案例十三:秒表
 
 ### 示例程序
 
-此程序比较复杂，请通过以下共享程序链接查看。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-13-02.png)
 
 程序链接:[https://makecode.microbit.org/_JhfEpg61bc6C](https://makecode.microbit.org/_JhfEpg61bc6C)
 
@@ -129,14 +125,31 @@ sidebar_label: 案例十三:秒表
 
 ## 案例演示
 
-将小车放置在启动区的左上角，贴近边缘，按下micro:bit上面的按键A即可让机器人从启动区开始运动，并完成全部任务
-
-**注意：此案例因小车搭建误差，成功率并非100%，可优化程序以提高成功率**
+按下按键A开始计时，开始计时后可以通过按下按键A触发暂停计时或继续计时，按下按键B停止计时，清零计时数据。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SMI4ZmuTU9M?si=_3OCxxYvTJJ1SC3V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 总结分享
 
 
-
 ## 扩展知识
+
+**数字计时原理​**
+
+数字计时基于时钟脉冲信号，通过计数器对脉冲进行累加实现时间计量。常见的计时芯片如 DS1302，通过晶振产生稳定脉冲信号，经分频电路转换为秒、分、时等计时单位。在编程实现中，需利用定时器中断或循环计数方式确保计时精度。​
+
+**按钮交互逻辑​**
+
+按钮触发包含电平检测与消抖处理两部分：​
+
+电平检测：通过读取 GPIO 引脚高低电平判断按钮状态​
+
+消抖处理：采用软件延时或硬件滤波消除机械按键抖动产生的误触发​
+
+**运动计时应用场景​**
+
+田径赛事：百米赛跑分段计时分析​
+
+体能训练：间歇训练倒计时设置​
+
+康复治疗：运动康复时长监测​

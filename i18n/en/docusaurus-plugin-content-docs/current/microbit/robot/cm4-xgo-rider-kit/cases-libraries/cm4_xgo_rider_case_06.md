@@ -1,55 +1,76 @@
 ﻿---
 sidebar_position: 6
-sidebar_label: 案例06：烧录系统镜像
+sidebar_label: Case 06: Close a large program
 ---
 
-# 案例06：烧录系统镜像
+# Case 06: Close a large program
 
-## 简介
+## Introduction
 
-本课程旨在向学生介绍更新系统镜像操作。
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。同时，XGO Rider 出厂的 TF 卡出厂已烧录镜像，可直接将 TF 卡插入树莓派使用，一般情况下无需按照本教程烧录镜像系统！！！**
+This course aims to introduce students to the process operation of shutting down the Raspberry Pi system.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**Note: After the XGO Rider is turned on, it needs to move back and forth slightly to keep the fuselage balanced. Please do not place the XGO Rider on the edge of the table or in a dangerous place to avoid damage. **
 
-## 教学目标
+## Teaching objectives
 
-了解系统镜像的更新操作。
+Understand the Raspberry Pi system process and shut down the process.
 
-## 教学准备
+## Teaching preparation
 
-在开始教学之前，请确保您已经准备好以下必要的材料：
+Before starting the teaching, please make sure you have prepared the following necessary materials:
 
-| 图片 | 名称 | 数量 | 备注 |
+| Picture | Name | Quantity | Note |
 |---|---|---|---|
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/)| CM4 XGO Rider | 1 |   |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/) | 智能手机 | 1 |   |
-| ![](https://wikimedia-ef.oss-cn-hongkong.al/otb.png) | PC | 1 | 自行准备 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-01.png)| CM4 XGO Rider | 1 |   |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-03.png) | PC | 1 | Prepare Yourself |
+
+## Course Introduction
+
+If we want to conduct other experiments, we must stop the big program to avoid occupying critical resources between processes. Next, let's start the learning journey.
+
+## Exploration Activities
+
+How to use to enter the Raspberry Pi system and close the process.
+
+## Software
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**Note: After turning on the XGO Rider, in order to keep the fuselage balanced, it needs to move back and forth slightly. Please do not place the XGO Rider on the edge of the table or in a dangerous place to avoid damage. **
+
+### 1. Use VNC-Viewer to connect to the Raspberry Pi
+
+After turning on the XGO Rider, enter the remote control mode interface to query the corresponding IP address. If there is no IP address, please reconnect to the network according to the network operation.
+
+Please refer to the tutorial content of Case 03, use VNC-Viewer to remotely log in to the Raspberry Pi system, enter the Raspberry Pi system desktop and open the terminal.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case07-01.png)
+
+### 2. Check the process number
+
+Enter the following command to find the process number of the large program
+
+ps -ef | grep "python"
+
+### 3. Find the process of main.py
+
+Then find the process number of main.py. The process number is different every time you start the computer. You need to get it according to the actual situation. The tutorial here is 878.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case07-02.png)
+
+### 4. Close the process
+
+Enter the following command to close the big program
+
+sudo kill 878 #878 is the process number, which needs to be obtained according to the actual situation.
 
 
-## 课程引入
+### 5. Check again
 
-随着技术的升级以及我们产品功能的增加，有可能会需要您更新系统镜像。接下来，我们开始进入学习旅程吧。
+Make sure that the big program has been closed, and then check whether the big program is still running.
 
-## 探究活动
+ps -ef | grep "python"
 
-如何正确的烧录系统镜像。
+It is found that the big program has been closed.
 
-## 软件
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case07-03.png)
 
-### 1、准备工作
-
-硬件：准备一个 SD 卡读卡器，需要是 USB 3.0 的，将机器狗的 SD 卡拔出插入读卡器，插在电脑 USB 接口。
-
-软件：下载 [Raspberry Pi Imager](https://www.raspberrypi.com/software/) 并安装。
-
-### 2、启动 Raspberry Pi Imager
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case06-01.png)
-
-### 3、选择操作系统以及镜像文件
-
-下载最新日期的[树莓派系统镜像](https://drive.google.com/drive/folders/1YJy-wIke6EJECcblV2LMFmRN6YSrPW-a)， 点击”选择操作系统“后选择使用自定义镜像和存储卡路径。
-
-点击烧录，大约20分钟后结束。
-**注意，系统会提示格式化，切勿格式化SD卡。**
+If the main program is not closed, running a separate routine will cause the car's screen to be distorted or black. You need to restart XGO Rider before the screen can be restored.

@@ -1,71 +1,88 @@
 ﻿---
 sidebar_position: 7
-sidebar_label: 案例07：关闭大程序
+sidebar_label: Case 07: Raspberry Pi System Expansion
 ---
 
-# 案例07：关闭大程序
+# Case 07: Raspberry Pi System Expansion
 
-## 简介
+## Introduction
 
-本课程旨在向学生介绍关闭树莓派系统的进程操作。
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
+This course aims to introduce students to the operation of Raspberry Pi system expansion.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**Note: After XGO Rider is turned on, it needs to move back and forth slightly to keep the body balanced. Please do not place XGO Rider on the edge of the table or in dangerous places to avoid damage. **
 
-## 教学目标
+## Teaching Objectives
 
-了解树莓派系统进程以及关闭进程。
+Understand the operation of Raspberry Pi system expansion.
 
-## 教学准备
+## Teaching Preparation
 
-在开始教学之前，请确保您已经准备好以下必要的材料：
+Before starting the teaching, please make sure you have prepared the following necessary materials:
 
-| 图片 | 名称 | 数量 | 备注 |
+| Picture | Name | Quantity | Note |
 |---|---|---|---|
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/)| CM4 XGO Rider | 1 |   |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/) | 智能手机 | 1 |   |
-| ![](https://wikimedia-ef.oss-cn-hongkong.al/otb.png) | PC | 1 | 自行准备 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-01.png)| CM4 XGO Rider | 1 |   |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-03.png) | PC | 1 | Prepare Yourself |
 
+## Course Introduction
 
-## 课程引入
+Because of the factory image, the system is only 15G, and the SD card system is 32G. If you want to use the remaining space, you can read this tutorial. Next, let's start the learning journey.
 
-如果我们要进行其它实验时，为了避免进程间对临界资源的占用，我们必须停止大程序。接下来，我们开始进入学习旅程吧。
+## Exploration Activities
 
-## 探究活动
+How to view the Raspberry Pi system space and expand it.
 
-如何使用进入树莓派系统并关闭进程。
+## Software
 
-## 软件
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**Note: After turning on the XGO Rider, in order to keep the fuselage balanced, it needs to move back and forth slightly. Please do not place the XGO Rider on the edge of the table or in a dangerous place to avoid damage. **
 
-### 1、使用 VNC-Viewer 连接树莓派
+### 1. Use VNC-Viewer to connect to the Raspberry Pi
 
-将 XGO Rider 开机后，进入遥控模式界面，即可查询到对应的 IP 地址。若没有 IP 地址，请按照联网操作重新联网。
-请参考案例03教程内容，使用 VNC-Viewer 远程登录树莓派系统，进入树莓派系统桌面并打开终端。
+After turning on the XGO Rider, enter the remote control mode interface to query the corresponding IP address. If there is no IP address, please reconnect to the network according to the network operation.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case07-01.png)
+Please refer to the tutorial content of Case 03, use VNC-Viewer to remotely log in to the Raspberry Pi system, enter the Raspberry Pi system desktop and open the terminal.
 
-### 2、查看进程号
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case07-01.png)
 
-输入以下的命令 查出大程序的进程号
-ps -ef | grep "python"
+### 2. Check the system space
 
-### 3、找到 main.py 的进程
+Enter the command below to check the space
 
-然后找到 mian.py的进程号，每次开机的进程号都不一样，需要根据实际情况去获取，教程这里是878。
+df -h
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case07-02.png)
+You can see the space of the Raspberry Pi system
 
-### 4、关闭进程
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-01.png)
 
-输入以下指令即可关闭大程序
-sudo kill 878  #878为进程号，需要根据实际情况获取。
-​
-### 5、再次检查
+### 3. Expand capacity
 
-确保大程序已经关闭，再查一下大程序是否还运行。
-ps -ef | grep "python"
-发现大程序已经关闭了。
+Enter the following command to expand capacity.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case07-03.png)
+sudo raspi-config
 
-如果大程序没关闭的情况下，运行了单独的例程会导致小车的屏幕花屏、黑屏的情况，需要重启 XGO Rider 后，屏幕才能恢复。
+You will enter this interface.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-02.png)
+
+Select option 6 and press Enter.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-03.png)
+
+Then select option 1 and click OK.![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-04.png)
+
+Press Enter on this interface and select Finish. Then restart XGO Rider.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-06.png)
+
+Restart XGO Rider.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-07.png)
+
+Query the space again.
+
+df -h
+
+It is found that the expansion is complete.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-08.png)

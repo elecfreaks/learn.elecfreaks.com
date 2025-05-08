@@ -186,3 +186,29 @@ Direction of velocity: In circular motion, the direction of velocity always poin
 Acceleration: There is centripetal acceleration in circular motion, while there is only tangential acceleration in linear motion (if the velocity changes).
 Force requirement: Circular motion requires centripetal force to maintain, while linear motion does not require such force (unless there is acceleration).
 Understanding the difference and application scenarios of these two types of motion can help us design and analyze various mechanical systems and daily equipment, so as to make more reasonable decisions in engineering and scientific research.
+
+**Related Knowledge of Weightlifting**
+
+Weightlifting is a sport with a long history. Here is some related knowledge about weightlifting:
+
+***Project Introduction***
+
+Weightlifting is a strength sport. Athletes need to lift the barbell overhead with both hands through specific movements, reach a specified height and maintain stability, demonstrating maximum strength and explosive power.
+
+Modern weightlifting competitions include two events: the snatch and the clean and jerk. In the snatch, athletes are required to lift the barbell directly overhead from the lifting platform in a continuous motion, keep their bodies upright. After the barbell stays stable overhead, the referee signals success and the movement is completed. The clean and jerk consists of two steps. First, lift the barbell to the chest and support it between the collarbone and both shoulders, and then lift the barbell overhead.
+
+***Competition Rules***
+
+Weightlifting competitions are divided into different weight categories for both men and women. In the competition, athletes have three attempts. The highest successful weights in the snatch and the clean and jerk are added together as the total score to determine the ranking of the competition. If the total scores are the same, the athlete with the lighter body weight wins.
+
+During the competition, athletes' movements must comply with the rules. For example, the barbell must rise and fall vertically, and the body posture must be correct. Otherwise, it will be judged as a foul and the attempt will fail.
+
+***Training Methods***
+
+Weightlifting training requires the comprehensive development of athletes' physical qualities such as strength, speed, coordination, and flexibility. Common training methods include barbell training, such as squats, bench presses, deadlifts, etc. These movements can effectively improve the muscle strength of the legs, hips, chest, and back.
+
+In addition, there are some training specifically for weightlifting techniques, such as decomposition exercises of the snatch and the clean and jerk, as well as various auxiliary trainings, such as balance training and explosive power training, to help athletes better master weightlifting techniques and improve their athletic performance.
+
+***Important Competitions***
+
+The weightlifting competition in the Olympic Games is the highest-level international event in the weightlifting project. It is held every four years and attracts the best weightlifters from all over the world. In addition, the World Weightlifting Championships is also an important international event, held once a year, providing a platform for athletes from various countries to showcase their strength and communicate. In regional competitions, such as the Asian Games, Pan American Games, etc., weightlifting is also one of the important competition events.

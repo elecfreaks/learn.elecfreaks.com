@@ -1,91 +1,83 @@
 ﻿---
 sidebar_position: 4
-sidebar_label: 案例04：树莓派教程-远程传输文件
+sidebar_label: Case 04: JupyterLab environment construction and use
 ---
 
-# 案例04：树莓派教程-远程传输文件
+# Case 04: JupyterLab environment construction and use
 
-## 简介
+## Introduction
 
-本课程旨在向学生介绍远程传输文件的操作。
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
+This course aims to introduce students to the construction and use of JupyterLab environment.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**Note: After the XGO Rider is turned on, it needs to move back and forth slightly to keep the fuselage balanced. Please do not place the XGO Rider on the edge of the table or in a dangerous place to avoid damage. **
 
-## 教学目标
+## Teaching objectives
 
-了解 WinSCP 安装以及远程传输文件的基本概念与实际操作。
+Understand the actual operation of JupyterLab.
 
-## 教学准备
+## Teaching preparation
 
-在开始教学之前，请确保您已经准备好以下必要的材料：
+Before starting teaching, please make sure you have prepared the following necessary materials:
 
-| 图片 | 名称 | 数量 | 备注 |
+| Picture | Name | Quantity | Note |
 |---|---|---|---|
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/)| CM4 XGO Rider | 1 |   |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/) | 智能手机 | 1 |   |
-| ![](https://wikimedia-ef.oss-cn-hongkong.al/otb.png) | PC | 1 | 自行准备 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-01.png)| CM4 XGO Rider | 1 |   |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-03.png) | PC | 1 | Prepare Yourself |
 
+## Course Introduction
 
-## 课程引入
+JupyterLab is the next generation user interface of Jupyter Notebook, which provides a new, more powerful and flexible interactive computing environment. The JupyterLab environment requires the computer and Raspberry Pi to be in the same local area network to work properly. The factory default system starts the JupyterLab service when it is turned on. Next, let's start the learning journey.
 
-在需要于电脑（比如Windows、macOS或Linux）与树莓派这样的单板计算机之间传输文件时，考虑到两者可能运行不同的操作系统和文件系统，SSH（Secure Shell）协议提供了一种安全可靠的方法来进行跨平台文件传输。
-接下来，我们开始进入学习旅程吧。
+## Exploration Activities
 
-## 探究活动
+How to use the JupyterLab interface.
 
-如何使用 WinSCP 软件进行远程传输文件。
+## Software
 
-## 软件
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**Note: After the XGO Rider is turned on, it needs to move back and forth slightly to keep the fuselage balanced. Please do not place the XGO Rider on the edge of the table or in a dangerous place to avoid damage. **
 
-WinSCP 是一款功能强大的文件传输软件，支持多种协议，包括 SSH、SFTP、FTP、WebDAV 等。WinSCP 可以在 Windows、macOS 和 Linux 等操作系统上运行。
-WinSCP 官网下载链接：ttps://winscp.net/eng/download.php 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
+### 1. Get the IP address of the XGO Rider Raspberry Pi
 
+After turning on the XGO Rider, enter the remote control mode interface to query the corresponding IP address. If there is no IP address, please reconnect to the network according to the network operation.
 
-### 1、获取 XGO Rider 树莓派 IP 地址
+### 2. Open the JupyterLab environment
 
-将 XGO Rider 开机后，进入遥控模式界面，即可查询到对应的 IP 地址。若没有 IP 地址，请按照联网操作重新联网。
+Open the browser on the computer and enter the IP address + port number of the Raspberry Pi in the address bar: 192.168.206.179:8888
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-01.png)
 
-### 2、安装 WinSCP 软件
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-02.png)
 
-WinSCP 软件的官方下载链接：https://winscp.net/eng/download.php
-下载完成后，双击安装包，按照提示完成安装。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case04-01.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case04-02.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case04-03.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case04-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-04.png)
 
-### 3、WinSCP 远程传输文件
+### 3. WinSCP remote file transfer
 
-双击打开桌面 WinSCP 图标，进入 WinSCP 软件。打开 WinSCP 软件后出现以下登录界面。
- 
-File protocol：文件协议选择 SFTP，Host name：树莓派 IP 地址，Port number：默认 22 就可以，User name：树莓派用户名(pi)，Password：登录密码(pi)。
+Double-click the WinSCP icon on the desktop to open the WinSCP software. The following login interface appears after opening the WinSCP software.
 
-输入正确的信息后可以点击 Save 保存一下填写的信息，下次登录的时候不用重复输入。
+File protocol: select SFTP for the file protocol, Host name: Raspberry Pi IP address, Port number: 22 is the default, User name: Raspberry Pi user name (pi), Password: login password (pi).
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case04-05.png)
+After entering the correct information, you can click Save to save the filled information so that you don’t have to re-enter it the next time you log in.
 
-点击 Login 登录成功后会显示以下界面，左边的是 win 电脑的文件夹，右边的是树莓派的文件夹。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-05.png)Click Login and the following interface will be displayed after successful login. The folder on the left is the folder of the win computer, and the folder on the right is the folder of the Raspberry Pi.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case04-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-06.png)
 
-文件传输有三种操作方式，第一种是直接把文件从左边拉到右边，或者从右边拉到左边，系统会自动复制一份文件传输过去。
+There are three ways to transfer files. The first is to directly drag the file from the left to the right, or from the right to the left, and the system will automatically copy a copy of the file and transfer it.
 
-第二种是鼠标选中文件，然后按一下 F5 键，则被选中的文件会复制一份到另一边。
+The second is to select the file with the mouse and press the F5 key, and the selected file will be copied to the other side.
 
-第三种是选中文件点击鼠标右键，如果是从 win 电脑传到树莓派则点击 upload。
+The third is to select the file and click the right button of the mouse. If it is transferred from a Windows computer to a Raspberry Pi, click upload.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case04-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-07.png)
 
-会弹出一个提示，可以选择不再提示，并且点击 OK，则文件自动传输过去。
+A prompt will pop up. You can choose not to be prompted again and click OK, and the file will be automatically transferred.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case04-08.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-08.png)
 
-如果从树莓派传文件到 win 电脑上，则按鼠标右键选中文件，选择 Download。
+If you want to transfer files from the Raspberry Pi to a Windows computer, right-click the file and select Download.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case04-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-09.png)
 
-注意：文件传输需要电脑和树莓派在同一个局域网下，并且树莓派已开启SSH服务才可以进行。有时若遇见传输文件失败一般是树莓派这边的权限不够，请在用户 pi 目录权限范围内操作。
-
+Note: File transfer requires that the computer and Raspberry Pi are in the same LAN and the SSH service is enabled on the Raspberry Pi. If file transfer fails, it is usually because the Raspberry Pi does not have sufficient permissions. Please operate within the permissions of the user pi directory.

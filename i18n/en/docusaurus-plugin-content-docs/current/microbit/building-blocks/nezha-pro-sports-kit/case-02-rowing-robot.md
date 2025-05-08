@@ -79,3 +79,56 @@ Efficiency and application:
 
 The efficiency of the worm gear mechanism is affected by many factors, including the accuracy of the tooth shape, the choice of materials and the lubrication conditions.
 Due to its self-locking characteristics and ability to provide high torque, the worm gear mechanism is often used in applications that require precise control and large reduction ratios, such as elevators, conveying systems and robot joints.
+
+
+**Related Knowledge of Rowing**
+
+***Project Classification***
+
+Rowing: It is a water sport where one or more rowers sit in a boat, facing the direction opposite to the boat's movement, and propel the boat forward by rowing with oars via the simple lever mechanism of oarlocks. Rowing events are classified based on the number of rowers, the presence or absence of a coxswain, and whether single oars or double sculls are used. Olympic rowing events include single sculls, double sculls, quadruple sculls, and eight-oared boats with a coxswain.
+
+Canoeing: Divided into kayaks and canoes. In a kayak, the athlete sits inside the boat and uses a double-bladed paddle to row alternately on both sides; in a canoe, the athlete kneels on one knee and uses a single-bladed paddle to row on one side of the boat. Canoeing includes flatwater events and slalom events, with multiple related sub-events in the Olympic Games.
+
+***Competition Rules***
+
+Rowing: The race course is typically a 2000-meter straight line divided into several lanes. After the start, each boat rows within its lane, and the ranking is determined by the order in which the bow of the boat crosses the finish line.
+
+Canoeing:
+
+Flatwater Events: Similar to rowing, races are held on straight courses of specified distances, with rankings determined by the time taken to reach the finish line.
+
+Slalom Events: Athletes must navigate through a series of water gates in turbulent currents in a specified order. Water gates consist of two suspended gate poles and a connecting gate line, including downstream gates, upstream gates, and obstacle gates.
+
+Athletes’ scores are determined by their performance in passing the gates and their total time—those with fewer penalty points and shorter times win.
+
+***Training Methods***
+
+Strength Training: Rowing requires strong upper-body, core, and lower-body strength. Common strength exercises include push-ups, sit-ups, squats, deadlifts, etc., to build muscle strength in the arms, abdomen, hips, and legs. Specialized rowing equipment like indoor rowing machines is also used for targeted strength training.
+
+Aerobic Training: Long-term aerobic exercises such as jogging, swimming, and cycling are used to improve cardiopulmonary function and enhance endurance, ensuring sustained energy output during competitions.
+
+Technical Training: Focuses on standardizing rowing movements, mastering rhythm, and coordinating body and oar/paddle motion. Athletes practice decomposed movements and complete strokes repeatedly under coaching to improve rowing efficiency. For example, rowers emphasize the consistency and accuracy of blade entry, stroke, exit, and recovery; canoeists/kayakers focus on mastering paddle angles and force variations.
+
+***Important Events***
+
+The Olympic Games: Both rowing and canoeing are official Olympic events, attracting top athletes worldwide and serving as one of the highest-level international competitions in the sport.
+
+World Rowing Championships: Held annually, it is one of the most important international rowing events, providing a platform for rowers to showcase their strength and exchange experiences.
+
+World Canoeing Championships: Including flatwater and slalom events, it is a key international canoeing event held biennially, playing a vital role in promoting the sport’s development.
+
+***Equipment Introduction***
+
+Rowing: Main components include the boat hull, oars, oarlocks, and footrests. The hull is typically made of lightweight, sturdy materials like carbon fiber to reduce resistance and weight. Oars vary in length and shape to suit different athletes and events.
+
+Canoeing: A kayak consists of a hull, paddle, and rudder (if equipped), with hulls usually made of materials like plastic or fiberglass. Canoes have no rudder—athletes control direction through paddle strokes. Safety equipment such as life jackets is also required.
+
+***Benefits to the Body***
+
+Full-Body Exercise: Rowing engages almost all muscle groups, including upper-body muscles (shoulders, arms, back), lower-body muscles (legs, hips), and core muscles, helping to enhance strength, endurance, and physical tone.
+
+Cardiopulmonary Improvement: Rhythmic breathing during rowing boosts heart and lung function, enhancing blood circulation and oxygen exchange while reducing cardiovascular risks.
+
+Joint Flexibility: Gentle rowing movements place minimal stress on joints while increasing their flexibility and range of motion through flexion/extension, aiding in the prevention and relief of joint issues.
+
+Mental Health Promotion: Rowing on water allows athletes to enjoy natural scenery and tranquility, reducing stress and anxiety, relaxing the mind, and improving focus and self-confidence.

@@ -1,68 +1,89 @@
 ﻿---
 sidebar_position: 3
-sidebar_label: 案例03：树莓派教程-SSH与VNC远程登录
+sidebar_label: Case 03: Raspberry Pi Tutorial - Remote File Transfer
 ---
 
-# 案例03：树莓派教程-SSH与VNC远程登录
+# Case 03: Raspberry Pi Tutorial - Remote File Transfer
 
-## 简介
+## Introduction
 
-本课程旨在向学生介绍 SSH 与 VNC 远程登录操作。
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
+This course aims to introduce students to the operation of remote file transfer.
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**Note: After XGO Rider is turned on, it needs to move back and forth slightly to keep the fuselage balanced. Please do not place XGO Rider on the edge of the table or in dangerous places to avoid damage. **
 
+## Teaching Objectives
 
-## 教学目标
+Understand the basic concepts and practical operations of WinSCP installation and remote file transfer.
 
-了解 SSH 与 VNC 远程登录的基本概念与实际操作。
+## Teaching Preparation
 
-## 教学准备
+Before starting teaching, please make sure you have prepared the following necessary materials:
 
-在开始教学之前，请确保您已经准备好以下必要的材料：
-
-| 图片 | 名称 | 数量 | 备注 |
+| Picture | Name | Quantity | Note |
 |---|---|---|---|
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/)| CM4 XGO Rider | 1 |   |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/) | 智能手机 | 1 |   |
-| ![](https://wikimedia-ef.oss-cn-hongkong.al/otb.png) | PC | 1 | 自行准备 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-01.png)| CM4 XGO Rider | 1 |   |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-03.png) | PC | 1 | Prepare on your own |
 
+## Course Introduction
 
-## 课程引入
+When you need to transfer files between a computer (such as Windows, macOS, or Linux) and a single-board computer such as Raspberry Pi, considering that the two may run different operating systems and file systems, the SSH (Secure Shell) protocol provides a secure and reliable method for cross-platform file transfer.
 
-有没有想过，当你把树莓派塞进机器人、挂在墙上的电子相框，甚至部署在千里之外的服务器机房后，如何不用插键盘、鼠标、显示器，也能轻松操控它？
-——远程控制就是你的答案！
-本课将带你掌握两大「远程神器」：
-🔹 SSH：用一行命令直连树莓派终端，像黑客一样高效管理代码、安装服务
-🔹 VNC：直接看到树莓派的图形化桌面，鼠标点点就能操作，仿佛屏幕就在眼前
-📢 准备好让你的树莓派摆脱「线制」了吗？
-下一分钟开始，你的电脑就是树莓派的超级遥控器！
+Next, let's start our learning journey.
 
-## 探究活动
+## Exploration Activities
 
-如何使用 putty 软件使用 SSH 服务远程登录树莓派操作系统。
+How to use WinSCP software to transfer files remotely.
 
-使用 VNC-Viewer 软件远程登录树莓派桌面。
+## Software
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
+WinSCP is a powerful file transfer software that supports multiple protocols, including SSH, SFTP, FTP, WebDAV, etc. WinSCP can run on operating systems such as Windows, macOS, and Linux.
 
-## 软件
+WinSCP official website download link: [https://winscp.net/eng/download.php](https://winscp.net/eng/download.php)
 
-SSH 远程登录需要保证电脑主机和树莓派在同一个局域网才可以正常使用。如果树莓派连接网线或者 WiFi 信号，请确认电脑连接的网络信号与树莓派在同一局域网。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**Note: After XGO Rider is turned on, it needs to be moved back and forth slightly to keep the body balanced. Please do not place XGO Rider on the edge of the table or in dangerous places to avoid damage. **
 
-### 1、获取 XGO Rider 树莓派 IP 地址
+### 1. Get the IP address of XGO Rider Raspberry Pi
 
-将 XGO Rider 开机后，进入遥控模式界面，即可查询到对应的 IP 地址。若没有 IP 地址，请按照联网操作重新联网。
+After turning on XGO Rider, enter the remote control mode interface to query the corresponding IP address. If there is no IP address, please reconnect to the network according to the network operation.
 
-### 2、putty 远程登陆
+### 2. Install WinSCP software
 
-打开 putty 软件，使用 SSH 服务远程登录树莓派操作系统。putty 软件的官方下载链接：https://www.putty.org/
+Official download link of WinSCP software: https://winscp.net/eng/download.php
 
+After downloading, double-click the installation package and follow the prompts to complete the installation.
 
-输入用户名（pi）和密码（pi）。如果您更改过用户名与密码，请根据实际情况输入。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-04.png)
 
-### 3、VNC 远程登陆
+### 3. WinSCP remote file transfer
 
-打开 VNC-Viewer 软件，使用 VNC 服务远程登录树莓派桌面。VNC-Viewer 软件的官方下载链接：https://www.realvnc.com/en/connect/download/viewer/
+Double-click the WinSCP icon on the desktop to open the WinSCP software. The following login interface appears after opening the WinSCP software.
 
+File protocol: select SFTP for the file protocol, Host name: Raspberry Pi IP address, Port number: 22 is the default, User name: Raspberry Pi user name (pi), Password: login password (pi).
 
-输入 VNC 密码（pi），按 OK 即可进入桌面。
+After entering the correct information, you can click Save to save the filled information so that you don’t have to re-enter it the next time you log in.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-05.png)
+
+Click Login and the following interface will be displayed after successful login. The folder on the left is the folder of the win computer, and the folder on the right is the folder of the Raspberry Pi.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-06.png)
+
+There are three ways to transfer files. The first is to directly drag the file from the left to the right, or from the right to the left, and the system will automatically copy a copy of the file and transfer it.
+
+The second is to select the file with the mouse and press the F5 key, and the selected file will be copied to the other side.
+
+The third is to select the file and click the right button of the mouse. If it is transferred from a Windows computer to a Raspberry Pi, click upload.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-07.png)
+
+A prompt will pop up. You can choose not to be prompted again and click OK, and the file will be automatically transferred.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-08.png)
+
+If you want to transfer files from the Raspberry Pi to a Windows computer, right-click the file and select Download.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case04-09.png)
+
+Note: File transfer requires that the computer and Raspberry Pi are in the same LAN and the SSH service is enabled on the Raspberry Pi. If file transfer fails, it is usually because the Raspberry Pi does not have sufficient permissions. Please operate within the permissions of the user pi directory.

@@ -1,149 +1,145 @@
 ---
 sidebar_position: 1
-sidebar_label: XGO-Rider 双轮足机器人套装-CM4 版
+sidebar_label: XGO-Rider Dual-wheeled Foot Robot Kit-CM4 Version
 ---
 
-# XGO-Rider 双轮足机器人套装-CM4 版
+# XGO-Rider Dual-wheeled Foot Robot Kit-CM4 Version
 
-## 产品简介
+## Product Introduction
 
+CM4 XGO-Rider is a desktop-level dual-wheeled foot development platform based on Raspberry Pi. It has a built-in Raspberry Pi CM4 module to realize AI edge computing applications. It uses a 4.5KG.CM all-metal magnetic encoding bus serial port servo as a joint, FOC wheel hub integrated motor as a wheel, and an internal inertial measurement unit (IMU). It can adjust the joint angle in real time according to different terrain feedback to achieve omnidirectional movement, posture stability, multiple motion superposition and other actions. It supports Python programming and ROS programming, and supports a series of intelligent functions such as wireless remote control, face recognition, gesture recognition, color tracking, object detection, license plate recognition, and QR code motion control. It integrates the iFlytek Spark large model and supports multiple AI functions such as voice dialogue communication, text-to-picture, and picture-to-text. It provides a systematic and rich learning tutorial to help you quickly get started with the intelligent control of dual-wheeled foot robots.
 
-CM4 XGO-Rider 是一款基于树莓派的桌面级双轮足开发平台，内置树莓派 CM4 模组，实现 AI 边缘计算应用，采用 4.5KG.CM 全金属磁编码总线串口舵机作为关节，FOC 轮毂一体化电机作为轮子，内部搭载惯性测量单元（IMU），能够根据不同地形反馈，实时调整关节角度实现全向移动、姿态稳定、多种运动叠加等动作。支持 Python 编程和 ROS 编程，支持无线遥控、人脸识别、手势识别、颜色追踪、物体检测、车牌识别、二维码运动控制等一系列智能功能。集成讯飞星火大模型，支持语音对话交流、文生图、图生文等多种 AI 功能。提供系统且丰富的学习教程，帮助您快速入门双轮足机器人智能控制。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-01.png)
 
-(主图)
+## Product Features
 
-## 产品特性
+**Integrated AIGC capability**: Built-in Raspberry Pi CM4 module to realize AI edge computing applications, realize intelligent functions such as face recognition, voice dialogue, text-to-image, image-to-text, gesture recognition, color tracking, object detection, etc.
 
-**集成 AIGC 能力**：内置树莓派 CM4 模组，实现 AI 边缘计算应用，实现人脸识别、语音对话、文生图、图生文、手势识别、颜色追踪、物体检测等等智能功能。
+**Small size, powerful performance**: XGO Rider is equipped with FOC wheel hub integrated motor and 4.5KG.CM all-metal magnetic encoding bus serial port servo, realizing agile, stable, omnidirectional movement, ensuring powerful power and precise control.
 
-**体积小巧、性能强大**：XGO Rider 配备 FOC 轮毂一体化电机和 4.5KG.CM 全金属磁编码总线串口舵机，实现敏捷、稳定、全向的运动，确保强大的动力和精确控制。
+**Adaptive terrain**: Built-in six-axis inertial measurement unit (IMU), adjust the joint angle according to the position feedback from IMU to adapt to various terrain obstacles in real time.
 
-**自适应地形**：内置六轴惯性测量单元（IMU），根据IMU反馈的位置调整关节角度实时适应各种地形障碍。
+**Easy to program and remote control**: Support Python and ROS programming, realize Bluetooth remote control and graphical programming through XGO mobile APP, convenient for users to carry out secondary development and control.
 
-**易于编程与遥控**：支持 Python 和 ROS 编程，通过 XGO 手机 APP 实现蓝牙遥控和图形化编程，方便用户进行二次开发和控制。
+**Rich learning resources**: Provide systematic and rich learning tutorials to help users quickly get started with the intelligent control of two-wheeled foot robots.
 
-**丰富的学习资源**：提供系统且丰富的学习教程，帮助用户快速入门双轮足机器人智能控制。
+## Product list
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-packing-list.png)
 
-## 产品清单
+## Specifications
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot-edu/product-list-c.png)
+### XGO-Rider Dual-wheeled Robot Set-CM4 Version Product Parameters
 
-## 规格参数
+|         Product Name         |                          XGO-Rider                           |
+| :--------------------------: | :----------------------------------------------------------: |
+|             SKU              |                           EF08418                            |
+|         Packing size         |                   202 mm × 150 mm × 146 mm                   |
+|        Product Weight        |                            720 g                             |
+| Number of electronic modules |                             2个                              |
+|      Electronic modules      |     XGO-Rider complete machine, Raspberry Pi CM4 module      |
+|        Applicable age        |                             10+                              |
+|       Number of cases        |                             15+                              |
+|       Programmatically       | ROS programming, Python code programming, XGO APP Bluetooth remote control |
 
-### XGO-Rider 双轮足机器人套装-CM4 版 产品参数
+### XGO-Rider body parameters
 
-|   产品名称   |                XGO-Rider 双轮足机器人套装-CM4 版         |
-| :----------: | :----------------------------------------------------: |
-|     SKU      |                        EF08418                         |
-|   包装尺寸   |                202 mm × 150 mm × 146 mm                |
-|   产品重量   |                         720 g                          |
-| 电子模块数量 |                          2个                           |
-|   电子模块   |             XGO-Rider 整机、树莓派 CM4 模组              |
-|   适用年龄   |                          10+                           |
-|   案例数量   |                          15+                           |
-|   编程方式   | ROS 编程、Python 代码编程、XGO APP 蓝牙遥控 |
+|   Product Name   |                          XGO-Rider                           |
+| :--------------: | :----------------------------------------------------------: |
+|   Machine size   |          Length 135mm Width 118mm Height 116-158mm           |
+|  Machine weight  |                             560g                             |
+| Structural parts |             1mm aluminum alloy, PC, carbon fiber             |
+|   Joint servo    | 6V 4.5KG.CM Metal Shell Steel Gear 360 Degree Magnetic Encoding Dual Axis TTL Serial Port Servo |
+|    Hub Motor     | 8.4V magnetically encoded outer rotor brushless motor, rated torque 0.1N.m |
+|  Lower computer  | ESP32-WROVER-B module with WiFi and Bluetooth, Type-C charging port, toggle switch, etc. |
+|     Battery      |                      18500 2S 1400 mAh                       |
+|     speaker      |                   8 ohm 3W cavity speaker                    |
+|   Battery life   |           Comprehensive working conditions 2 hours           |
 
-### XGO-Rider 机身参数
+### AI module parameters
 
-| 产品名称 |                          XGO-Rider                           |
-| :------: | :----------------------------------------------------------: |
-| 整机尺寸 |               长 135mm 宽 118 mm 高 116-158mm                |
-| 整机重量 |                             560g                             |
-|  结构件  |                    1mm 铝合金，PC，碳纤维                    |
-| 关节舵机 |     6V 4.5KG.CM 金属壳钢齿 360 度磁编码双轴 TTL 串口舵机     |
-| 轮毂电机 |          8.4V 磁编码外转子无刷电机，额定扭矩 0.1N.m          |
-|  下位机  | ESP32-WROVER-B 模组，具有 WiFi 和蓝牙功能，Type-C 充电口，拨动开关等 |
-|   电池   |                      18500 2S 1400 毫安                      |
-|  扬声器  |                      8 欧 3W 腔体扬声器                      |
-| 续航时间 |                       综合工况 2 小时                        |
+| Controller  |                       Raspberry Pi CM4                       |
+| :---------: | :----------------------------------------------------------: |
+|   Screen    |                   2.0 inches IPS 320 × 240                   |
+|   Camera    |                      5 megapixel OV5647                      |
+| Microphone  |                Dual MEMS digital microphones                 |
+| Video Codec | Supports H.265 (HEVC) (supports up to 4Kp60 decoding), H.264 (supports up to 1080p60 decoding, 1080p30 encoding) |
+|  Interface  | Micro HDMI video output interface, Type-C USB interface, PH2.0 4PIN serial communication and power interface |
+|   Button    |                    4 programmable buttons                    |
 
-### AI 模组参数
+### Servo parameters
 
-|   控制器   |                       Raspberry Pi CM4                       |
-| :--------: | :----------------------------------------------------------: |
-|    屏幕    |                     2.0英寸 IPS 320 ×240                     |
-|   摄像头   |                       500万像素 OV5647                       |
-|   麦克风   |                      双 MEMS 数字麦克风                      |
-| 视频编解码 | 支持H.265 (HEVC) (最高支持4Kp60解码), H.264 (最高支持1080p60解码, 1080p30编码) |
-|    接口    | Micro Hdmi视频输出接口、Type-C USB接口、PH2.0 4PIN串口通信及电源接口 |
-|    按键    |                        4个可编程按键                         |
+|       Servo Type        |                       Serial Bus Servo                       |
+| :---------------------: | :----------------------------------------------------------: |
+|        Material         | The housing is made of aluminum alloy and the gear is made of 7075 aluminum plated with titanium |
+|      Rated torque       |                          4.5 KG.CM                           |
+|     speed（S/60°）      |                          0.08 S/60°                          |
+| Operating voltage range |                          4.8V ~7.4V                          |
+|  Operating temperature  |                        -10°C ~ +50°C                         |
+|          weigh          |                             25g                              |
+|       Motor Type        |                        Coreless Motor                        |
 
-### 舵机参数
+### Motor parameters
 
-|   舵机类型    |               串行总线舵机               |
-| :-----------: | :--------------------------------------: |
-|     材质      | 外壳为铝合金材质，齿轮为 7075 铝镀钛材质 |
-|   额定扭矩    |                4.5 KG.CM                 |
-| 速度（S/60°） |                0.08 S/60°                |
-| 工作电压范围  |                4.8V ~7.4V                |
-|   工作温度    |              -10°C ~ +50°C               |
-|     重量      |                   25g                    |
-|   电机类型    |                空心杯电机                |
+|  Motor Type   |     Brushless Motor      |
+| :-----------: | :----------------------: |
+|    Voltage    |          8.4 V           |
+| Rated current |          940 mA          |
+| Rated torque  |         0.13 N.m         |
+| No-load speed |         400 RPM          |
+|   KV value    |            75            |
+|     Size      | Length 48mm, height 20mm |
+|     Weigh     |           130g           |
 
-### 电机参数
-
-| 电机类型 |      无刷电机       |
-| :------: | :-----------------: |
-|   电压   |        8.4 V        |
-| 额定电流 |       940 mA        |
-| 额定扭矩 |      0.13 N.m       |
-| 空载转速 |       400 RPM       |
-|  KV 值   |         75          |
-|   尺寸   | 长度 48mm，高度20mm |
-|   重量   |        130g         |
-
-## 产品尺寸
+## Product size
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-products-sescription-06.png)
 
 
 
-## 产品结构
+## Product Structure
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-products-sescription-04.png)
 
-## 系统架构
+## System Architecture
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-products-sescription-05.png)
 
-## 快速入门
+## Quick Start
 
-### 开机
+### Power On
 
-请将 XGO Rider 以后仰姿态放置在 **地面! 地面！地面！**上，然后打开电源开关，XGO Rider 会弹起并保持平衡状态。
+Place XGO Rider in a backwards position on **the ground! the ground! the ground! **, then turn on the power switch, and XGO Rider will bounce up and maintain balance.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-02.png)
 
+### Sample Mode
 
-### 示例模式
+After turning on the power, press "A" or "B" to select "Sample Mode", then use "A" and "B" to scroll up and down to select the desired application, then press "D" to confirm and execute the selected operation, and press "C" to return to the previous menu.
 
+**Depending on the different CM4 images, the page information may be inconsistent with the current image**
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-03.png)
 
-### 关机
+### Charging
 
+When the device is powered off, use the Type-C charging cable provided to plug into any 5V charger to charge. The red light will turn on during charging and the green light will turn on when fully charged.![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-04.png)
 
+### Notes
 
-### 充电
+After turning on XGO Rider, you need to move it back and forth slightly to keep the body balanced. Please do not place XGO Rider on the edge of the table or in dangerous places to avoid damage
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-05.png)
 
+Please place XGO Rider in a backward position on **the ground! the ground! the ground! **, then turn on the power switch, XGO Rider will bounce up and keep balanced.
 
-### 注意事项
-
-XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。
-
-
-
-请将 XGO Rider 以后仰姿态放置在 **地面! 地面！地面！**上，然后打开电源开关，XGO Rider 会弹起并保持平衡状态。
-
-
-
-
-### 演示
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-02.png)
 
 
+When powered on, if XGO Rider is picked up, it will enter a locked state. At this time, place XGO Rider vertically on the ground and it will return to normal after a few seconds.
 
-（动图）
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-06.png)
 
-### 常见问题
+### Demo
 
-1. 当 XGO Rider 进入到锁死状态时，将 XGO Rider 竖直放置到平面上
+### FAQ

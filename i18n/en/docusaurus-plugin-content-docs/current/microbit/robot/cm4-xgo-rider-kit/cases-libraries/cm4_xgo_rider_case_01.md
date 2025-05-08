@@ -1,91 +1,88 @@
 ---
 sidebar_position: 1
-sidebar_label: 案例01：XGO APP 蓝牙遥控
+sidebar_label: Case 01: XGO APP Bluetooth Remote Control
 ---
 
-# 案例01：XGO APP 蓝牙遥控
+# Case 01: XGO APP Bluetooth Remote Control
 
-## 简介
+## Introduction
 
-本课程将学习 XGO APP 的下载与安装，以及如何使用 XGO APP 进行蓝牙遥控 XGO Rider。
+This course will learn how to download and install the XGO APP, and how to use the XGO APP to remotely control the XGO Rider via Bluetooth.
 
-## 教学目标
+## Teaching Objectives
 
-了解 XGO APP 的下载安装与界面介绍
-掌握使用 XGO APP 进行蓝牙遥控 XGO Rider 的基本操作
+Understand the download and installation of the XGO APP and the interface introduction
+Master the basic operations of using the XGO APP to remotely control the XGO Rider via Bluetooth
 
-## 教学准备
+## Teaching Preparation
 
-在开始教学之前，请确保您已经准备好以下必要的材料：
+Before starting the teaching, please make sure you have prepared the following necessary materials:
 
-| 图片 | 名称 | 数量 | 备注 |
+| Picture | Name | Quantity | Note |
 |---|---|---|---|
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/)| CM4 XGO Rider | 1 |   |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/) | 智能手机 | 1 |   |
-| ![](https://wikimedia-ef.oss-cn-hongkong.al/otb.png) | PC | 1 | 自行准备 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-01.png)| CM4 XGO Ride | 1 |   |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/prepare-xgo-rider-cm4-kit-02.png) | Smart Phone | 1 |   |
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**After turning on XGO Rider, in order to keep the body balanced, it needs to move back and forth slightly. Please do not place XGO Rider on the edge of the table or in dangerous places to avoid damage. **
 
-## 课程引入
+## Course Introduction
 
-我们为 XGO Rider 专门开发了 XGO APP，用于方便的控制 XGO Rider 的运动。您可以通过手指控制 XGO Rider 的运动，来切身感受 XGO Rider 的运动方式。
+We have developed XGO APP specifically for XGO Rider to conveniently control the movement of XGO Rider. You can control the movement of XGO Rider with your fingers to experience the movement of XGO Rider firsthand.
 
-本教程将带您从下载 XGO APP 开始，到最终熟练的通过 XGO APP 操控 XGO Rider 达到想要的运动效果，那我们开始吧。
+This tutorial will take you from downloading XGO APP to finally skillfully controlling XGO Rider through XGO APP to achieve the desired movement effect, so let's get started.
 
-## 探究活动
+## Exploration Activities
 
-如果将 XGO APP 与 XGO Rider 进行连接？
-XGO APP 能控制 XGO Rider 做出哪些运动？
-XGO APP 的开发者模式是如何设置的？
+How to connect XGO APP with XGO Rider?
 
-### 硬件连接
+What movements can XGO APP control XGO Rider to do?
 
-#### 下载并安装安卓系统的 XGO APP
+How to set the developer mode of XGO APP?
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-read03.png)**为了更好的保护您的 XGO Rider ，请将 XGO Rider 放置在宽敞的平地上运行。**
+1. ### Hardware connection
 
-1. 如果您的智能手机的操作系统是安卓系统，您可以通过点击 [XGO APP]([XGO_v3.1.2.apk - Google 云端硬盘](https://drive.google.com/file/d/1YFxmtNCSYDZ3RqYhHMIJsPgrY0ezNFYY/view?pli=1)) 链接下载最新的应用程序。并进行安装。
+   #### Download and install XGO APP for Android
 
-2. 将 XGO Rider 放置在地面上的安全区域并开机，打开智能手机的蓝牙功能。打开 XGO APP ，点击主界面左上角的蓝牙图标，并根据提示与 XGO Rider 进行蓝牙连接。**注意：XGO APP 与 XGO Rider 进行蓝牙连接时，需要同意XGO APP申请的蓝牙权限和搜索附近设备权限，不然会连接失败。**
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-read03.png)**To better protect your XGO Rider, please place XGO Rider on a spacious flat ground. **
+
+   1. If your smartphone's operating system is Android, you can download the latest application by clicking the [XGO APP]([XGO_v3.1.2.apk - Google Drive](https://drive.google.com/file/d/1YFxmtNCSYDZ3RqYhHMIJsPgrY0ezNFYY/view?pli=1)) link. And install it.
+
+   2. Place XGO Rider in a safe area on the ground and turn it on, and turn on the Bluetooth function of the smartphone. Open XGO APP, click the Bluetooth icon in the upper left corner of the main interface, and connect to XGO Rider via Bluetooth according to the prompts. **Note: When XGO APP connects to XGO Rider via Bluetooth, you need to agree to the Bluetooth permission and search nearby device permission requested by XGO APP, otherwise the connection will fail. **
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case-17-01.png)
 
-3. 连接成功后，XGO APP 会自动返回到主界面，其中蓝牙连接已经成功，如下图所示。
+3. After the connection is successful, the XGO APP will automatically return to the main interface, where the Bluetooth connection has been successful, as shown in the figure below.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case-17-02.png)
 
-4. 点击主页面的右边箭头，进入功能界面。
+4. Click the right arrow on the main page to enter the function interface.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case-17-03.png)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case-17-04.png)
 
-#### 安装苹果手机的 XGO APP
+#### Install XGO APP for iPhone
 
-1. 如果您的手机是苹果手机，您可以在应用商店搜索“XGO”，在搜索结果页面下载并安装XGO APP。
-2. 苹果手机端的 XGO APP 使用过程与安卓手机端一致，请参考上面内容。
+1. If your phone is an iPhone, you can search for "XGO" in the App Store, download and install XGO APP on the search results page.
 
+2. The use process of XGO APP for iPhone is the same as that for Android, please refer to the above content.
 
+### Teamwork and Presentation
 
-### 团队合作与展示
+- Students are divided into groups to complete the download and installation of XGO APP together.
 
-- 学生分成小组，共同完成 XGO APP 的下载和安装。
+- Encourage students to cooperate, communicate and share experiences with each other.
 
+- Each group has the opportunity to show other groups how they control XGO Rider to exercise through XGO APP and demonstrate.
 
-- 鼓励学生之间相互合作、交流和分享经验。
-
-
-- 每个小组有机会向其他小组展示他们通过 XGO APP 控制 XGO Rider进行运动，并演示。
-
-**预期效果：**
+**Expected results:**
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-case10014.gif)
 
-### 总结与反思
+- ### Summary and reflection
 
-- 回顾课程内容，提醒学生掌握了哪些知识和技能？
+  - Review the course content and remind students what knowledge and skills they have mastered?
 
-- 引导学生讨论他们在制作过程中遇到的问题和困难，以及如何解决这些问题。
+  - Guide students to discuss the problems and difficulties they encountered during the production process and how to solve these problems.
 
-- 引导学生思考并共同讨论如何更有效的让 XGO Rider 做出有意思的运动。
-
+  - Guide students to think and discuss together how to make XGO Rider perform interesting movements more effectively.

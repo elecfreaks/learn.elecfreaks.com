@@ -1,114 +1,114 @@
 ---
 sidebar_position: 2
-sidebar_label: 软件库说明文档
+sidebar_label: Software Library Documentation
 ---
 
-# 软件库说明文档
+# Software Library Documentation
 
-## XGO串口通信协议
+## XGO Serial Communication Protocol
 
-### 文档目的和对象
+### Document Purpose and Target
 
-本文档适用于任意上位机与XGO系列机器驱动板之间命令/数据交互的通信协议。示用于高阶开发者对XGO进行二次开发。
+This document applies to the communication protocol for command/data interaction between any host computer and the XGO series machine driver board. It is intended for advanced developers to perform secondary development on XGO.
 
-### 软件接口
+### Software interface
 
-采用标准TTL串行通讯。
+Uses standard TTL serial communication.
 
-| 波特率     | 115200 |
+| Baud rate  | 115200 |
 | ---------- | ------ |
-| 数据位     | 8      |
-| 停止位     | 1      |
-| 奇偶校验位 | 无     |
+| Data bits  | 8      |
+| Stop bits  | 1      |
+| Parity bit | No     |
 
-**数据帧格式**
+**Data frame format**
 
-数据帧采用固定格式：帧头+帧长度+数据+校验和+帧尾。
+The data frame uses a fixed format: frame header + frame length + data + checksum + frame tail.
 
-| 帧头   | 固定为0x55 0x00                                |
-| ------ | ---------------------------------------------- |
-| 帧长度 | 整个数据帧的字节数                             |
-| 数据   | 依据指令类型有不同含义，见第二部分             |
-| 校验和 | 长度和数据的所有字节相加，取最低字节，然后取反 |
-| 帧尾   | 固定为0x00 0xAA                                |
+| Frame Header | Fixed to 0x55 0x00                                           |
+| ------------ | ------------------------------------------------------------ |
+| Frame length | The number of bytes in the entire data frame                 |
+| Data         | It has different meanings depending on the instruction type, see the second part |
+| Checksum     | Add all bytes of the length and data, take the lowest byte, and then invert it |
+| Frame end    | Fixed to 0x00 0xAA                                           |
 
-### 指令
+### Instructions
 
-建议上位机每条指令之间的间隔至少为1ms，以防发送指令过快，机器狗来不及处理出现丢包的现象。
+It is recommended that the interval between each instruction of the host computer is at least 1ms to prevent the robot dog from losing packets due to sending instructions too quickly.
 
-可以参考python库中send和read的代码。
+You can refer to the send and read codes in the python library.
 
-#### 写指令，无应答（0x00）
+#### Write command, no response (0x00)
 
-| **帧头**  | **帧长度** | **指令类型** | **首地址** | **数据** | **校验和** | **帧尾**  |
-| --------- | ---------- | ------------ | ---------- | -------- | ---------- | --------- |
-| 0x55 0x00 |            | 0x00         |            | data     |            | 0x00 0xAA |
+| **Frame header** | **Frame Length** | **Command type** | **First address** | **Data** | **Checksum** | **Frame end** |
+| ---------------- | ---------------- | ---------------- | ----------------- | -------- | ------------ | ------------- |
+| 0x55 0x00        |                  | 0x00             |                   | data     |              | 0x00 0xAA     |
 
-写指令会修改从首地址开始的数据，不会产生应答。
+The write command will modify the data starting from the first address and will not generate a response.
 
-\>例如修改机器狗的前进速度，前进速度地址为0x30，以最大速度前进，即速度内容为0xFF，具体指令如下：
+\>For example, to modify the forward speed of the robot dog, the forward speed address is 0x30, and it moves at the maximum speed, that is, the speed content is 0xFF. The specific instructions are as follows:
 \>0x55 0x00 0x09 0x00 **0x30** **0xFF** 0xC7 0x00 0xAA
-\>其中校验和计算过程如下:
-\>0x09+0x00+0x30+0xFF=0x138，取最低字节0x38，取反得0xC7
+\>The checksum calculation process is as follows:
+\>0x09+0x00+0x30+0xFF=0x138, take the lowest byte 0x38, and invert it to get 0xC7
 
-#### 读指令，有应答（0x02）
+#### Read command, response (0x02)
 
-| **帧头**  | **帧长度** | **指令类型** | **首地址** | **读取长度** | **校验和** | **帧尾**  |
-| --------- | ---------- | ------------ | ---------- | ------------ | ---------- | --------- |
-| 0x55 0x00 |            | 0x02         |            | uint_8       |            | 0x00 0xAA |
+| **Frame header** | **Frame Length** | **Command type** | **First address** | **Read Length** | **Checksum** | **Frame end** |
+| ---------------- | ---------------- | ---------------- | ----------------- | --------------- | ------------ | ------------- |
+| 0x55 0x00        |                  | 0x02             |                   | uint_8          |              | 0x00 0xAA     |
 
-写指令会连续读取从首地址开始的数据，不会产生应答。
-返回数据包的格式为:
+The write command will continuously read data starting from the first address and will not generate a response.
+The format of the returned data packet is:
 
-| **帧头**  | **帧长度** | **指令类型** | **首地址** | **数据** | **校验和** | **帧尾**  |
-| --------- | ---------- | ------------ | ---------- | -------- | ---------- | --------- |
-| 0x55 0x00 |            | 0x12         |            | data     |            | 0x00 0xAA |
+| **Frame header** | **Frame Length** | **Command type** | **First address** | **Data** | **Checksum** | **Frame end** |
+| ---------------- | ---------------- | ---------------- | ----------------- | -------- | ------------ | ------------- |
+| 0x55 0x00        |                  | 0x12             |                   | data     |              | 0x00 0xAA     |
 
-\>例如读取12个舵机的角度,0x50为第一个舵机位置的地址,0x0C意思为连续读取12个,具体指令如下：
+\>For example, to read the angles of 12 servos, 0x50 is the address of the first servo position, and 0x0C means to read 12 servos in succession. The specific instructions are as follows:
 \>0x55 0x00 0x09 0x02 0x50 0x0C 0x98 0x00 0xAA
-\>其中校验和计算过程如下:
-\>0x09+0x02+0x50+0x0C=0x67，取反得0x98
-\>读取返回数据包:
-\>0x55 0x00 0x14 0x12 0x50 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x89 0x00 0xAA 
+\>The checksum calculation process is as follows:
+\>0x09+0x02+0x50+0x0C=0x67, inverted to get 0x98
+\>Read the return data packet:
+\>0x55 0x00 0x14 0x12 0x50 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x80 0x89 0x00 0xAA
 
-### 双轮足内存表  2024-11
+### Double wheel foot memory table 2024-11
 
-| 地址 | 功能                        | 读写 | 初始值 | 备注                                                         |
-| ---- | --------------------------- | ---- | ------ | ------------------------------------------------------------ |
-| 0x01 | 电池电量                    | 读   | 0xff   | 范围为0-100，线性对应电量最低值-最高值                       |
-| 0x02 | 工作状态                    | 读   | 0x01   | 0x00 倒地状态 \| 0x01 正常状态                               |
-| 0x03 | 表演模式                    | 写   | 0x00   | 0x00正常控制模式 \| 0x01循环做动作                           |
-| 0x04 | 标定模式                    | 写   | 0x00   | 0x01进入标定模式 0x00退出标定模式完成标定                    |
-| 0x05 | 更新固件                    | 写   | 0x00   | 0x01进入更新模式，下位机会发送一条内容为0x55的指令作为答复，延时1s后上位机开始传输hex |
-| 0x06 | 设置原点                    | 写   | 0x00   | 0x01设置，将当前朝向设置为0度，里程计归零                    |
-| 0x07 | 固件版本                    | 读   |        | 返回10字节的字符串，例如"R-1.2.3" L代表lite M代表mini R代表rider |
-| 0x08 | 数据自动反馈                | 写   | 0x00   | 以50Hz频率向串口发送 电量 关节角 imu6轴数据 里程计 的数据包  |
-| 0x0A | 静态转向环开关              | 写   | 0x01   | 0x00 关 \| 0x01 开  默认开启保持朝向，用手转动后会转回原先朝向 |
-| 0x13 | 蓝牙名称                    | 写   |        | 可命名长度为20个字节，只能是英文和数字的组合，命名后蓝牙名称为XGORider_xxxx |
-| 0x30 | 前后移动速度                | 写   | 0x80   | 范围为0x00-0xff，线性对应反向最大值-正向最大值               |
-| 0x32 | 顺逆时针旋转速度            | 写   | 0x80   | 迎着z轴射来方向顺时针对应最大值方向                          |
-| 0x35 | 身体高度                    | 写   | 0x80   |                                                              |
-| 0x39 | 以一定周期绕x轴旋转身体     | 写   | 0x00   | 0x00停止，0x01-0xff线性对应最小-最大旋转速度 ，该功能与直接设置roll不能同时起作用 |
-| 0x3E | 动作指令                    | 写   | 0x00   | 详情见动作指令表 255为恢复默认姿态 1-N为各个动作             |
-| 0x82 | 以一定周期沿Z轴方向平移运动 | 写   | 0x00   | 0x00停止，0x01-0xff对应最小-最大旋转速度，移动幅度为位置限幅的一半 |
-| 0x61 | ROLL平衡模式                | 写   | 0x00   | 0x00关闭 0x01自稳定模式                                      |
-| 0x62 | ROLL角度                    | 读   |        | float                                                        |
-| 0x63 | PITCH角度                   | 读   |        | float                                                        |
-| 0x64 | YAW角度                     | 读   |        | float                                                        |
-| 0x65 | IMU 6轴数据                 | 读   |        | float*6 一共24字节                                           |
-| 0x66 | ROLL角度                    | 读   |        | int16                                                        |
-| 0x67 | PITCH角度                   | 读   |        | int16                                                        |
-| 0x68 | YAW角度                     | 读   |        | int16                                                        |
-| 0x69 | 1号LED的颜色                | 写   |        | 三个字节，数值范围为0-255，[0,0,0]代表灭，[255,255,255]代表最亮的白光 |
-| 0x6A | 2号LED的颜色                | 写   |        | 同上                                                         |
-| 0x6B | 3号LED的颜色                | 写   |        | 同上                                                         |
-| 0x6C | 4号LED的颜色                | 写   |        | 同上                                                         |
+| Address                  | Function                                                  | Read  | Initial Value | Note                                                         |
+| ------------------------ | --------------------------------------------------------- | ----- | ------------- | ------------------------------------------------------------ |
+| 0x01                     | Battery level                                             | read  | 0xff          | The range is 0-100, linearly corresponding to the minimum value - maximum value of power |
+| 0x02                     | Working status                                            | read  | 0x01          | 0x00 Falling state                                           |
+| 0x03                     | Performance Mode                                          | write | 0x00          | 0x00 Normal control mode                                     |
+| 0x04                     | Calibration mode                                          | write | 0x00          | 0x01 Enter calibration mode 0x00 Exit calibration mode Complete calibration |
+| 0x05 Update the firmware | Update the firmware                                       | write | 0x00          | 0x01 Enter update mode, the lower computer will send a command with the content of 0x55 as a reply, and the upper computer will start transmitting hex after a delay of 1s |
+| 0x06                     | Setting the origin                                        | write | 0x00          | 0x01 setting, set the current direction to 0 degrees, and reset the odometer to zero |
+| 0x07                     | Firmware version                                          | read  |               | Returns a 10-byte string, for example "R-1.2.3" L stands for lite, M stands for mini, and R stands for rider |
+| 0x08                     | Automatic data feedback                                   | write | 0x00          | Send data packets of power, joint angle, IMU6-axis data and odometer to the serial port at a frequency of 50Hz |
+| 0x0A                     | Static steering ring switch                               | write | 0x01          | 0x00 Off \|0x01 On By default, the orientation is kept. After turning it manually, it will return to the original orientation. |
+| 0x13                     | Bluetooth Name                                            | write |               | The name length is 20 bytes and can only be a combination of English and numbers. The Bluetooth name after naming is XGORider_xxxx |
+| 0x30                     | Moving speed                                              | write | 0x80          | The range is 0x00- 0xff, linearly corresponding to the reverse maximum value - the forward maximum value |
+| 0x32                     | Clockwise and counterclockwise rotation speed             | write | 0x80          | Face the z-axis and point clockwise to the direction of the maximum value |
+| 0x35                     | Body height                                               | write | 0x80          |                                                              |
+| 0x39                     | Rotate the body around the x-axis at a certain period     | write | 0x00          | 0x00 stops, 0x01- 0xff linearly corresponds to the minimum-maximum rotation speed. This function cannot work at the same time as directly setting roll. |
+| 0x3E                     | Action Instructions                                       | write | 0x00          | For details, see the action instruction table. 255 is to restore the default posture. 1-N is each action. |
+| 0x82                     | Translational motion along the Z axis at a certain period | write | 0x00          | 0x00 Stop， 0x01- 0xff Corresponding to the minimum-maximum rotation speed, the movement amplitude is half of the position limit |
+| 0x61                     | ROLL balance mode                                         | write | 0x00          | 0x00 Off  0x01Self-stabilizing mode                          |
+| 0x62                     | ROLL angle                                                | read  |               | float                                                        |
+| 0x63                     | PITCH angle                                               | read  |               | float                                                        |
+| 0x64                     | YAW angle                                                 | read  |               | float                                                        |
+| 0x65                     | IMU 6-axis data                                           | read  |               | float*6 A total of 24 bytes                                  |
+| 0x66                     | ROLL angel                                                | read  |               | int16                                                        |
+| 0x67                     | PITCH angel                                               | read  |               | int16                                                        |
+| 0x68                     | YAW angel                                                 | read  |               | int16                                                        |
+| 0x69                     | Color of LED No. 1                                        | write |               | Three bytes, the value range is 0-255, [0,0,0] represents off, [255,255,255] represents the brightest white light |
+| 0x6A                     | Color of LED No. 2                                        | write |               | Same as above                                                |
+| 0x6B                     | Color of LED No. 3                                        | write |               | Same as above                                                |
+| 0x6C                     | Color of LED No. 4                                        | write |               | Same as above                                                |
 
-| 动作ID (十进制) | 动作内容 |
-| --------------- | -------- |
-| 1               | 左右摇摆 |
-| 2               | 高低起伏 |
-| 3               | 前进后退 |
-| 4               | 四方蛇形 |
-| 5               | 升降旋转 |
-| 6               | 圆周晃动 |
+| Action ID (decimal) | Action content               |
+| ------------------- | ---------------------------- |
+| 1                   | Swinging                     |
+| 2                   | Ups and downs                |
+| 3                   | Forward and Backward         |
+| 4                   | Four-sided serpentine motion |
+| 5                   | Lift and rotate              |
+| 6                   | Circular shake               |

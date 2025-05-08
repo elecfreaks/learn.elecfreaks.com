@@ -1,53 +1,67 @@
 ﻿---
 sidebar_position: 2
-sidebar_label: 案例02：联网实时图传
+sidebar_label: Case 02: Raspberry Pi Tutorial - SSH and VNC Remote Login
 ---
 
-# 案例02：联网实时图传
+# Case 02: Raspberry Pi Tutorial - SSH and VNC Remote Login
 
-## 简介
+## Introduction
 
-本课程旨在向学生介绍图形化编程和编码电机的概念。学生将使用天蓬智能车教育版学习如何编写程序来控制小车的行驶距离。
+This course aims to introduce students to SSH and VNC remote login operations.
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**Note: After XGO Rider is turned on, it needs to move back and forth slightly to keep the body balanced. Please do not place XGO Rider on the edge of the table or in dangerous places to avoid damage. **
 
-## 教学目标
+## Teaching Objectives
 
-了解编码电机的基本概念。
+Understand the basic concepts and practical operations of SSH and VNC remote login.
 
-学习使用Makecode软件创建程序控制小车的行驶距离。
+## Teaching Preparation
 
-## 教学准备
+Before starting teaching, please make sure you have prepared the following necessary materials:
 
-在开始教学之前，请确保您已经准备好以下必要的材料：
-
-| 图片 | 名称 | 数量 | 备注 |
+| Picture | Name | Quantity | Name |
 |---|---|---|---|
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/)| CM4 XGO Rider | 1 |   |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/) | 智能手机 | 1 |   |
-| ![](https://wikimedia-ef.oss-cn-hongkong.al/otb.png) | PC | 1 | 自行准备 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-01.png)| CM4 XGO Rider | 1 |   |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-03.png) | PC | 1 | Prepare on your own |
 
+## Course Introduction
 
-## 课程引入
+Have you ever thought about how to easily control the Raspberry Pi without a keyboard, mouse, or monitor when you put it into a robot, an electronic photo frame on the wall, or even deploy it in a server room thousands of miles away?
+——Remote control is your answer!
 
-在本节课，我们将探索如何通过图形化程序控制天蓬智能车教育版的行驶距离。你是否好奇如何使用编程来精确控制一辆小车行驶的距离呢？
+This course will teach you two "remote tools":
 
-现在，让我们来认识一下天蓬智能车教育版。它是一辆特殊的小车，具备编码电机，可以精确控制行驶的距离。这意味着我们可以编写程序来让它行驶特定的距离，无论是100厘米还是10厘米，我们都可以控制得非常准确。
+🔹 SSH: Use a line of command to connect directly to the Raspberry Pi terminal, manage code and install services efficiently like a hacker
 
-在今天的课程中，我们将学习如何编写一个精确控制行驶距离的程序和一个精确控制行驶速度的程序，并通过实践来验证我们的程序是否有效。
+🔹 VNC: Directly see the graphical desktop of the Raspberry Pi, and operate it with a click of the mouse, as if the screen is right in front of you
 
-现在，让我们一起动手实践吧！准备好使用天蓬智能车教育版探索图形化编程的世界了吗？让我们一起开启这个充满创造力和乐趣的学习旅程吧！
+📢 Are you ready to get rid of the "wire system" for your Raspberry Pi?
 
-## 探究活动
+Starting from the next minute, your computer will be the super remote control of the Raspberry Pi!
 
-如何使用图形化编程模块来控制小车的行驶距离？
+## Exploration Activities
 
-精确控制行驶距离的技术有什么实际的应用场景？
+How to use putty software to use the SSH service to remotely log in to the Raspberry Pi operating system.
 
+Use VNC-Viewer software to remotely log in to the Raspberry Pi desktop.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**Note: After XGO Rider is turned on, it needs to move back and forth slightly to keep the fuselage balanced. Please do not place XGO Rider on the edge of the table or in dangerous places to avoid damage. **
 
-## 软件
+## Software
 
+SSH remote login requires that the host computer and Raspberry Pi are in the same LAN to work properly. If the Raspberry Pi is connected to a network cable or WiFi signal, please confirm that the network signal connected to the computer is in the same LAN as the Raspberry Pi.
 
+### 1. Get the IP address of the Raspberry Pi of XGO Rider
 
+After turning on XGO Rider, enter the remote control mode interface to query the corresponding IP address. If there is no IP address, please reconnect to the network according to the network operation.
 
+### 2. Putty remote login
 
+Open the putty software and use the SSH service to remotely log in to the Raspberry Pi operating system. Official download link of putty software: https://www.putty.org/
 
+Enter the username (pi) and password (pi). If you have changed the username and password, please enter them according to the actual situation.
+
+### 3. VNC remote login
+
+Open the VNC-Viewer software and use the VNC service to remotely log in to the Raspberry Pi desktop. Official download link of VNC-Viewer software: https://www.realvnc.com/en/connect/download/viewer/
+
+Enter the VNC password (pi) and press OK to enter the desktop.

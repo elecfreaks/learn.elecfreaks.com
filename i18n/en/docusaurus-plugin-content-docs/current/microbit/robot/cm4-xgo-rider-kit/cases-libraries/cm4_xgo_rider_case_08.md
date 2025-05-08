@@ -1,83 +1,86 @@
 ﻿---
-sidebar_position: 8
-sidebar_label: 案例08：树莓派系统扩容
+sidebar_position: 9
+sidebar_label: Case 08: Robot Basics Tutorial - Screen Display
 ---
 
-# 案例08：树莓派系统扩容
+# Case 08: Robot Basics Tutorial - Screen Display
 
-## 简介
+## Introduction
 
-本课程旨在向学生介绍树莓派系统扩容的操作。
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
+This course aims to introduce students to screen display operations.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**Note: After XGO Rider is turned on, it needs to move back and forth slightly to keep the fuselage balanced. Please do not place XGO Rider on the edge of the table or in dangerous places to avoid damage. **
 
-## 教学目标
+## Teaching Objectives
 
-了解树莓派系统扩容操作。
+Understand the graphics and text displayed on the XGO Rider screen.
 
-## 教学准备
+## Teaching Preparation
 
-在开始教学之前，请确保您已经准备好以下必要的材料：
+Before starting teaching, please make sure you have prepared the following necessary materials:
 
-| 图片 | 名称 | 数量 | 备注 |
+| Picture | Name | Quantity | Note |
 |---|---|---|---|
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/)| CM4 XGO Rider | 1 |   |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/) | 智能手机 | 1 |   |
-| ![](https://wikimedia-ef.oss-cn-hongkong.al/otb.png) | PC | 1 | 自行准备 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/xgo-rider-cm4-kit-introdutin-01.png)| CM4 XGO Rider | 1 |   |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-03.png) | PC | 1 | Prepare Yourself |
 
+## Course Introduction
 
-## 课程引入
+Because the factory image only has 15G system, and the SD card system is 32G, if you want to use the remaining space, you can read this tutorial. Next, let's start the learning journey.
 
-因为出厂的镜像，系统只有15G,而sd卡的系统为32G.如果想要使用剩下的空间，可以看本教程。接下来，我们开始进入学习旅程吧。
+## Exploration Activities
 
-## 探究活动
+How to view the Raspberry Pi system space and expand it.
 
-如何查看树莓派系统空间以及进行扩容。
+## Software
 
-## 软件
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**注意：XGO Rider 开机后，为保持机身平衡，需要小幅度来回移动，请不要将 XGO Rider 放在桌子边缘或者危险的地方，避免损坏。**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-read-01.png)**Note: After turning on the XGO Rider, in order to keep the fuselage balanced, it needs to move back and forth slightly. Please do not place the XGO Rider on the edge of the table or in a dangerous place to avoid damage. **
 
-### 1、使用 VNC-Viewer 连接树莓派
+### 1. Use VNC-Viewer to connect to the Raspberry Pi
 
-将 XGO Rider 开机后，进入遥控模式界面，即可查询到对应的 IP 地址。若没有 IP 地址，请按照联网操作重新联网。
-请参考案例03教程内容，使用 VNC-Viewer 远程登录树莓派系统，进入树莓派系统桌面并打开终端。
+After turning on the XGO Rider, enter the remote control mode interface, and you can query the corresponding IP address. If there is no IP address, please reconnect to the network according to the network operation.
+Please refer to the tutorial content of Case 03, use VNC-Viewer to remotely log in to the Raspberry Pi system, enter the Raspberry Pi system desktop and open the terminal.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case07-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case07-01.png)
 
-### 2、查看系统空间
+### 2. Check the system space
 
-输入下方指令，查询一下空间
+Enter the command below to check the space
+
 df -h
-可以看到树莓派系统的空间
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case08-01.png)
+You can see the space of the Raspberry Pi system
 
-### 3、扩容
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-01.png)
 
-输入以下指令进行扩容。
+### 3. Expand capacity
+
+Enter the following command to expand capacity.
+
 sudo raspi-config
-就会进入此界面。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case08-02.png)
+You will enter this interface.
 
-选择第 6 个选项，按回车键。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case08-03.png)
+Select option 6 and press Enter.
 
-然后选择第 1 个选项，选确定。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case08-04.png)
+Then select option 1 and click OK.
 
-在这界面再按回车，然后选择Finish.之后重启 XGO Rider 即可。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-04.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case08-05.png)
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case08-06.png)
+Press Enter on this interface and select Finish. Then restart XGO Rider.
 
-重启 XGO Rider。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-06.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case08-07.png)
+Restart XGO Rider.
 
-再次查询空间。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-07.png)
+
+Query the space again.
 df -h
-发现扩容完成.
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/imagescm4-xgo-rider-kit-case08-08.png)
+It is found that the expansion is complete.
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-case08-08.png)

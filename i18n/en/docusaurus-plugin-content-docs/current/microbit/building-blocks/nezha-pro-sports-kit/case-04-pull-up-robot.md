@@ -66,3 +66,25 @@ The axes of the worm and worm wheel are staggered at 90°, with a compact struct
 **Transmission stability**
 
 The meshing between the worm and worm wheel is line contact, with less vibration and noise。
+
+**Knowledge of Pull-Ups**
+
+***Project Introduction***
+Pull-ups are an upper-body strength training exercise that uses one's own body weight as resistance. By gripping the bar with both hands, the body is pulled upward until the chin passes over the bar. The core of this movement relies on the coordinated force of the latissimus dorsi, biceps brachii, forearm muscle groups, and core muscles to vertically lift the body. Originating from gymnastics training and military physical fitness tests, it is a classic project for measuring upper-body pulling strength (pull-type strength), widely used in fitness, sports assessments, and competitive sports training. Pull-ups are highly effective for increasing back width, arm strength, core stability, and overall explosive power, making them a golden movement in the bodyweight training system.
+
+***Fitness Principles and Benefits***
+- **Core Muscle Activation**
+  - Primary Muscles: Latissimus dorsi (determines back width), teres major, rhomboid muscles;
+  - Synergistic Muscles: Biceps brachii, brachioradialis, forearm flexors (grip support);
+  - Stabilizing Muscles: Core (transversus abdominis, erector spinae) maintains a neutral trunk position to avoid lower back compensation.
+- **Functional Improvements**
+  - Corrects poor postures like rounded shoulders and hunchback, enhances rotator cuff stability;
+  - Enhances daily movement abilities (e.g., lifting, climbing) and improves grip strength and upper-limb coordination.
+- **Hormone Secretion Promotion**
+  - Compound movements of large muscle groups stimulate testosterone and growth hormone secretion, increasing overall metabolic rate and muscle synthesis efficiency.
+
+***Basic Training Methods**
+**Movement Standards**
+   - **Starting Position**: Grasp the bar slightly wider than shoulder-width, hang naturally with the body, retract and depress the scapulae, and tighten the core.
+   - **Pulling Phase**: Inhale, activate the latissimus dorsi to pull the body upward, keep elbows close to the torso, until the chin clears the bar.
+   - **Lowering Phase**: Exhale, control the descent speed and slowly lower the body to full extension, avoiding swinging from momentum.

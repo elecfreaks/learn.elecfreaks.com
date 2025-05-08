@@ -1,5 +1,5 @@
 ---
-sidebar_position: 13
+sidebar_position: 12
 sidebar_label: 案例十二:比赛任务综合测试
 ---
 

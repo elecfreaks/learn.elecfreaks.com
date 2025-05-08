@@ -1,13 +1,13 @@
 ---
-sidebar_position: 13
-sidebar_label: 案例十二:比赛任务综合测试
+sidebar_position: 14
+sidebar_label: 案例十三:秒表
 ---
 
-# 案例十二:比赛任务综合测试
+# 案例十三:秒表
 
 ## 案例简介
 
-制作一辆任务车，一次完成运动场上的任务四个任务。
+制作一个秒表。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-12-01.png)
 
@@ -38,49 +38,17 @@ sidebar_label: 案例十二:比赛任务综合测试
 
 ## 搭建步骤
 
-**小车搭建步骤**
 
 <embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%AF%94%E8%B5%9B%E4%BB%BB%E5%8A%A1%E8%BD%A6.pdf" type="application/pdf" width="100%" height="600px" />
 
-**取球器搭建步骤**
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%A1%88%E4%BE%8B%E5%8D%81%E4%BA%8C-%E6%95%B4%E4%BD%93%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90-%E7%AF%AE%E7%90%83%E6%94%BE%E7%BD%AE%E4%BD%8D%E7%BD%AE.pdf" type="application/pdf" width="100%" height="600px" />
-
-**简易球门搭建步骤**
-
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%A1%88%E4%BE%8B%E5%8D%81%E4%BA%8C-%E6%95%B4%E4%BD%93%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90-%E7%AE%80%E6%98%93%E7%90%83%E9%97%A8%E6%90%AD%E5%BB%BA.pdf" type="application/pdf" width="100%" height="600px" />
-
-**篮球架搭建步骤**
-
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%A1%88%E4%BE%8B%E5%8D%81%E4%BA%8C-%E6%95%B4%E4%BD%93%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90-%E7%AE%80%E6%98%93%E7%AF%AE%E7%90%83%E6%9E%B6.pdf" type="application/pdf" width="100%" height="600px" />
 
 ## 硬件连线
 
-将三个智能电机分别连接到哪吒Pro扩展板的M1、M2、M3接口，将四路巡线传感器连接到哪吒Pro扩展板的IIC接口。
+将OLED显示屏连接到哪吒Pro扩展板的IIC接口。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-12-03.png)
 
-## 四路巡线传感器——学习模式
-
-四路巡线传感器可通过按下传感器上的按键来学习地图背景和巡线轨迹（即黑色赛道）。按照以下步骤完成学习：
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05053_04.png)
-
-①将四路巡线传感器探头正对地图背景区域并按下学习按键；
-
-②此时 1~4 号探头指示灯倒序依次点亮，两个学习指示灯交替闪烁；
-
-③当巡线探头补光灯发出彩光并高频闪烁，此时应将巡线探头在背地图景和巡线轨迹上来回水平移动；
-
-④一直来回移动，直到巡线探头补光灯停止闪烁，学习完成。
-
-注意：使用时巡线探头的离地高度应在 8mm~16mm之间。
-
-学习成功后，两个学习指示灯会熄灭，当巡线探头检测到巡线轨迹时，对应的探头指示灯灯会点亮。当学习失败时，空心圆、实心圆 LED 同时快闪，补光RGB 灯熄灭。
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-11-01.gif)
-
-更多信息请查看：[行星系列四路巡线传感器WIKI](https://wiki.elecfreaks.com/microbit/planetx-series/sensors/Plant_X_EF05053)
 
 ## 代码编程
 
@@ -106,7 +74,7 @@ sidebar_label: 案例十二:比赛任务综合测试
 
 此程序比较复杂，请通过以下共享程序链接查看。
 
-程序链接:[https://makecode.microbit.org/_gif2bx60zehe](https://makecode.microbit.org/_gif2bx60zehe)
+程序链接:[https://makecode.microbit.org/_JhfEpg61bc6C](https://makecode.microbit.org/_JhfEpg61bc6C)
 
 你也可以通过以下网页直接下载程序。
 
@@ -118,7 +86,7 @@ sidebar_label: 案例十二:比赛任务综合测试
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_gif2bx60zehe"
+        src="https://makecode.microbit.org/_JhfEpg61bc6C"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

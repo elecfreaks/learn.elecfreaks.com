@@ -37,7 +37,21 @@ How to use four-way patrol sensors to help the car adjust its driving route
 
 ## Building steps
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E8%BF%90%E5%8A%A8%E5%A4%B9%E7%88%AA%E8%BD%A6.pdf" type="application/pdf" width="100%" height="600px" />
+**Car Assembly Steps**
+
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%AF%94%E8%B5%9B%E4%BB%BB%E5%8A%A1%E8%BD%A6.pdf" type="application/pdf" width="100%" height="600px" />
+
+**Ball Retrieval Device Assembly Steps**
+
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%A1%88%E4%BE%8B%E5%8D%81%E4%BA%8C-%E6%95%B4%E4%BD%93%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90-%E7%AF%AE%E7%90%83%E6%94%BE%E7%BD%AE%E4%BD%8D%E7%BD%AE.pdf" type="application/pdf" width="100%" height="600px" />
+
+**Simple Goal Assembly Steps**
+
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%A1%88%E4%BE%8B%E5%8D%81%E4%BA%8C-%E6%95%B4%E4%BD%93%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90-%E7%AE%80%E6%98%93%E7%90%83%E9%97%A8%E6%90%AD%E5%BB%BA.pdf" type="application/pdf" width="100%" height="600px" />
+
+**Basketball Hoop Assembly Steps**
+
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%A1%88%E4%BE%8B%E5%8D%81%E4%BA%8C-%E6%95%B4%E4%BD%93%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90-%E7%AE%80%E6%98%93%E7%AF%AE%E7%90%83%E6%9E%B6.pdf" type="application/pdf" width="100%" height="600px" />
 
 ## Hardware connection
 

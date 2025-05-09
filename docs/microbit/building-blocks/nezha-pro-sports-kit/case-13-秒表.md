@@ -1,6 +1,6 @@
 ---
 sidebar_position: 14
-sidebar_label: 案例十三: 秒表
+sidebar_label: 案例十三:秒表
 ---
 
 # 案例十三:秒表

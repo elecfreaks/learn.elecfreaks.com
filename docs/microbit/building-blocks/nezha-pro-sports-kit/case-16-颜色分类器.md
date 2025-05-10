@@ -67,9 +67,9 @@ sidebar_label: 案例十六:颜色分类器
 
 ### 示例程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-15-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-16-04.png)
 
-程序链接:[https://makecode.microbit.org/_gif2bx60zehe](https://makecode.microbit.org/_gif2bx60zehe)
+程序链接:[https://makecode.microbit.org/_RTJHpJcRkF4P](https://makecode.microbit.org/_RTJHpJcRkF4P)
 
 你也可以通过以下网页直接下载程序。
 
@@ -81,7 +81,7 @@ sidebar_label: 案例十六:颜色分类器
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_gif2bx60zehe"
+        src="https://makecode.microbit.org/_RTJHpJcRkF4P"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

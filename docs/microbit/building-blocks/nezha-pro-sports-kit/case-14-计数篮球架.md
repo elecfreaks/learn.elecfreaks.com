@@ -68,7 +68,7 @@ sidebar_label: 案例十四:计数篮球架
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-14-04.png)
 
-程序链接:[https://makecode.microbit.org/_gif2bx60zehe](https://makecode.microbit.org/_gif2bx60zehe)
+程序链接:[https://makecode.microbit.org/_dukDdVPHe9ik](https://makecode.microbit.org/_dukDdVPHe9ik)
 
 你也可以通过以下网页直接下载程序。
 
@@ -80,7 +80,7 @@ sidebar_label: 案例十四:计数篮球架
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_gif2bx60zehe"
+        src="https://makecode.microbit.org/_dukDdVPHe9ik"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

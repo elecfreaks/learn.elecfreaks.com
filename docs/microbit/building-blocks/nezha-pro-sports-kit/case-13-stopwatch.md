@@ -43,7 +43,7 @@ sidebar_label: 案例十三:秒表
 
 将OLED显示屏连接到哪吒Pro扩展板的IIC接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-12-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-13-03.png)
 
 
 ## 代码编程
@@ -127,7 +127,8 @@ sidebar_label: 案例十三:秒表
 
 按下按键A开始计时，开始计时后可以通过按下按键A触发暂停计时或继续计时，按下按键B停止计时，清零计时数据。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SMI4ZmuTU9M?si=_3OCxxYvTJJ1SC3V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-13.gif)
+
 
 ## 总结分享
 

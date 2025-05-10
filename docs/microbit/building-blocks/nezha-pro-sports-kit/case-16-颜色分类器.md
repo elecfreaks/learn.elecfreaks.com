@@ -1,15 +1,15 @@
 ---
-sidebar_position: 12
-sidebar_label: 案例十二:比赛任务综合测试
+sidebar_position: 17
+sidebar_label: 案例十六:颜色分类器
 ---
 
-# 案例十二:比赛任务综合测试
+# 案例十六:颜色分类器
 
 ## 案例简介
 
-制作一辆任务车，一次完成运动场上的任务四个任务。
+设计一款基于哪吒 Pro 运动套装的颜色分类器，利用颜色传感器精准识别红、蓝两种小球颜色，并通过舵机控制挡板实现自动分类。该装置可模拟运动训练中的器材整理场景，将颜色识别技术与机械传动结合，让球类分拣变得智能又高效。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-12-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-16-01.png)
 
 ## 教学准备
 
@@ -19,68 +19,31 @@ sidebar_label: 案例十二:比赛任务综合测试
 
 ## 教学目标
 
-制作比赛任务车，完成全部任务
+理解基于 HUE 值的颜色识别原理及传感器数据读取方法。​
 
-熟悉四路巡线传感器及舵机的综合应用
+掌握舵机角度控制与条件判断编程逻辑。​
+
+培养将传感器技术应用于实际运动场景的创新思维。
 
 
 ## 课程引入
 
-欢迎小朋友们加入我们的STEAM奇妙旅程！在前面的课程中我们了解了小车巡线、舵机控制等知识点，这节课我们需要将这些知识点融汇贯通，完成比赛地图上的全部任务。
+同学们，运动场上散落着不同颜色的训练小球，一个个分拣太麻烦啦！今天我们要用哪吒 Pro 运动套装制作一个神奇的颜色分类器！它能一眼认出小球颜色，还能指挥挡板自动把球分到不同区域。快来化身科技小能手，让球类分拣变得像变魔术一样有趣！
 
 ## 学习探究
 
-多个舵机的联动使用
-
-四路巡线传感器的使用
-
-如何使用四路巡线传感器帮助小车调整行驶路线
+探究颜色传感器如何识别 HUE 值并进行颜色判定，以及舵机根据颜色信号执行分类动作的编程实现。
 
 ## 搭建步骤
 
-**小车搭建步骤**
-
 <embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%AF%94%E8%B5%9B%E4%BB%BB%E5%8A%A1%E8%BD%A6.pdf" type="application/pdf" width="100%" height="600px" />
 
-**取球器搭建步骤**
-
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%A1%88%E4%BE%8B%E5%8D%81%E4%BA%8C-%E6%95%B4%E4%BD%93%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90-%E7%AF%AE%E7%90%83%E6%94%BE%E7%BD%AE%E4%BD%8D%E7%BD%AE.pdf" type="application/pdf" width="100%" height="600px" />
-
-**简易球门搭建步骤**
-
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%A1%88%E4%BE%8B%E5%8D%81%E4%BA%8C-%E6%95%B4%E4%BD%93%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90-%E7%AE%80%E6%98%93%E7%90%83%E9%97%A8%E6%90%AD%E5%BB%BA.pdf" type="application/pdf" width="100%" height="600px" />
-
-**篮球架搭建步骤**
-
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%A1%88%E4%BE%8B%E5%8D%81%E4%BA%8C-%E6%95%B4%E4%BD%93%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90-%E7%AE%80%E6%98%93%E7%AF%AE%E7%90%83%E6%9E%B6.pdf" type="application/pdf" width="100%" height="600px" />
 
 ## 硬件连线
 
-将三个智能电机分别连接到哪吒Pro扩展板的M1、M2、M3接口，将四路巡线传感器连接到哪吒Pro扩展板的IIC接口。
+将OLED显示屏和颜色识别传感器连接到哪吒Pro扩展板的IIC接口，将两个智能舵机分别连接到哪吒Pro扩展板的M1、M2接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-12-03.png)
-
-## 四路巡线传感器——学习模式
-
-四路巡线传感器可通过按下传感器上的按键来学习地图背景和巡线轨迹（即黑色赛道）。按照以下步骤完成学习：
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05053_04.png)
-
-①将四路巡线传感器探头正对地图背景区域并按下学习按键；
-
-②此时 1~4 号探头指示灯倒序依次点亮，两个学习指示灯交替闪烁；
-
-③当巡线探头补光灯发出彩光并高频闪烁，此时应将巡线探头在背地图景和巡线轨迹上来回水平移动；
-
-④一直来回移动，直到巡线探头补光灯停止闪烁，学习完成。
-
-注意：使用时巡线探头的离地高度应在 8mm~16mm之间。
-
-学习成功后，两个学习指示灯会熄灭，当巡线探头检测到巡线轨迹时，对应的探头指示灯灯会点亮。当学习失败时，空心圆、实心圆 LED 同时快闪，补光RGB 灯熄灭。
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-11-01.gif)
-
-更多信息请查看：[行星系列四路巡线传感器WIKI](https://wiki.elecfreaks.com/microbit/planetx-series/sensors/Plant_X_EF05053)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-16-03.png)
 
 ## 代码编程
 
@@ -104,7 +67,7 @@ sidebar_label: 案例十二:比赛任务综合测试
 
 ### 示例程序
 
-此程序比较复杂，请通过以下共享程序链接查看。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-15-05.png)
 
 程序链接:[https://makecode.microbit.org/_gif2bx60zehe](https://makecode.microbit.org/_gif2bx60zehe)
 
@@ -163,12 +126,30 @@ sidebar_label: 案例十二:比赛任务综合测试
 
 将小车放置在启动区的左上角，贴近边缘，按下micro:bit上面的按键A即可让机器人从启动区开始运动，并完成全部任务
 
-**注意：此案例因小车搭建误差，成功率并非100%，可优化程序以提高成功率**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SMI4ZmuTU9M?si=_3OCxxYvTJJ1SC3V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-16.gif)
 
 ## 总结分享
 
 
 
-## 扩展知识
+## 扩展知识​
+
+**颜色传感器工作原理​**
+
+颜色传感器利用 HUE（色相）值实现颜色检测。HUE 作为色彩的基本属性，决定了颜色的类别，如红色、蓝色等。传感器通过捕获光线中的光谱信息，并将其转换为相应的 HUE 数值。当物体反射的光线进入传感器时，内部的光电元件将光信号转变为电信号，随后通过算法将电信号解析为 HUE 值，并与预先设定的颜色 HUE 阈值进行对比，以此判断物体的颜色。通过设定不同的 HUE 值范围，能够精确识别红色、蓝色等多种颜色。
+
+**舵机控制技术​**
+
+舵机是一种角度可控的伺服电机，通过 PWM（脉冲宽度调制）信号控制转动角度：​
+
+- 信号周期：标准舵机信号周期为 20ms​
+- 脉冲宽度：0.5ms - 2.5ms 脉冲宽度对应 0° - 180° 转动范围​
+- 控制方式：通过编程改变脉冲宽度，实现精确角度控制​
+
+**运动场景中的自动化应用​**
+
+颜色分类器可延伸至更多运动场景：​
+
+- 器材整理：自动分拣不同颜色的训练器材​
+- 体能训练：按颜色区分不同重量的哑铃或阻力带​
+- 趣味运动：设计颜色识别闯关游戏，提升训练趣味性

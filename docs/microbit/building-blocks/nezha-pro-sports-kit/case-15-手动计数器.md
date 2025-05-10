@@ -1,15 +1,15 @@
 ---
-sidebar_position: 12
-sidebar_label: 案例十二:比赛任务综合测试
+sidebar_position: 16
+sidebar_label: 案例十六:手动计数器
 ---
 
-# 案例十二:比赛任务综合测试
+# 案例十六:手动计数器
 
 ## 案例简介
 
-制作一辆任务车，一次完成运动场上的任务四个任务。
+制作一款基于哪吒 Pro 运动套装的手动计数器，通过按下按键 C 或按键 D，实现对应数值的独立计数，并在 OLED 显示屏上实时展示。该计数器可应用于运动训练中的次数统计，如击剑训练中的有效刺击计数、投篮训练中的命中次数统计等场景，将简单的按键操作与数字显示相结合，打造便捷的手动计数工具。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-12-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-15-01.png)
 
 ## 教学准备
 
@@ -19,68 +19,30 @@ sidebar_label: 案例十二:比赛任务综合测试
 
 ## 教学目标
 
-制作比赛任务车，完成全部任务
+理解按键事件触发机制与变量自增逻辑。​
 
-熟悉四路巡线传感器及舵机的综合应用
+掌握在 OLED 显示屏上动态更新不同数值的编程方法。​
+
+培养将基础编程技能应用于实际运动场景的能力。
 
 
 ## 课程引入
 
-欢迎小朋友们加入我们的STEAM奇妙旅程！在前面的课程中我们了解了小车巡线、舵机控制等知识点，这节课我们需要将这些知识点融汇贯通，完成比赛地图上的全部任务。
+同学们，在击剑训练时想要记录有效刺击次数，或是投篮训练时想统计命中次数，靠脑子数可太难了！今天我们用哪吒 Pro 运动套装制作一个超实用的手动计数器！按下按键 C、D 就能让数字自动增加，还能在屏幕上看得清清楚楚。快来动手打造属于你的运动小助手，让计数变得轻松又准确！
 
 ## 学习探究
 
-多个舵机的联动使用
-
-四路巡线传感器的使用
-
-如何使用四路巡线传感器帮助小车调整行驶路线
+探究按键触发事件的编程响应方式，以及如何实现不同按键对应独立计数变量的自增与显示。
 
 ## 搭建步骤
 
-**小车搭建步骤**
-
 <embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%AF%94%E8%B5%9B%E4%BB%BB%E5%8A%A1%E8%BD%A6.pdf" type="application/pdf" width="100%" height="600px" />
-
-**取球器搭建步骤**
-
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%A1%88%E4%BE%8B%E5%8D%81%E4%BA%8C-%E6%95%B4%E4%BD%93%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90-%E7%AF%AE%E7%90%83%E6%94%BE%E7%BD%AE%E4%BD%8D%E7%BD%AE.pdf" type="application/pdf" width="100%" height="600px" />
-
-**简易球门搭建步骤**
-
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%A1%88%E4%BE%8B%E5%8D%81%E4%BA%8C-%E6%95%B4%E4%BD%93%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90-%E7%AE%80%E6%98%93%E7%90%83%E9%97%A8%E6%90%AD%E5%BB%BA.pdf" type="application/pdf" width="100%" height="600px" />
-
-**篮球架搭建步骤**
-
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%A1%88%E4%BE%8B%E5%8D%81%E4%BA%8C-%E6%95%B4%E4%BD%93%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90-%E7%AE%80%E6%98%93%E7%AF%AE%E7%90%83%E6%9E%B6.pdf" type="application/pdf" width="100%" height="600px" />
 
 ## 硬件连线
 
-将三个智能电机分别连接到哪吒Pro扩展板的M1、M2、M3接口，将四路巡线传感器连接到哪吒Pro扩展板的IIC接口。
+将按钮模块连接到哪吒Pro扩展板的J1接口，将OLED显示器连接到哪吒Pro扩展板的IIC接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-12-03.png)
-
-## 四路巡线传感器——学习模式
-
-四路巡线传感器可通过按下传感器上的按键来学习地图背景和巡线轨迹（即黑色赛道）。按照以下步骤完成学习：
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05053_04.png)
-
-①将四路巡线传感器探头正对地图背景区域并按下学习按键；
-
-②此时 1~4 号探头指示灯倒序依次点亮，两个学习指示灯交替闪烁；
-
-③当巡线探头补光灯发出彩光并高频闪烁，此时应将巡线探头在背地图景和巡线轨迹上来回水平移动；
-
-④一直来回移动，直到巡线探头补光灯停止闪烁，学习完成。
-
-注意：使用时巡线探头的离地高度应在 8mm~16mm之间。
-
-学习成功后，两个学习指示灯会熄灭，当巡线探头检测到巡线轨迹时，对应的探头指示灯灯会点亮。当学习失败时，空心圆、实心圆 LED 同时快闪，补光RGB 灯熄灭。
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-11-01.gif)
-
-更多信息请查看：[行星系列四路巡线传感器WIKI](https://wiki.elecfreaks.com/microbit/planetx-series/sensors/Plant_X_EF05053)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-15-03.png)
 
 ## 代码编程
 
@@ -104,7 +66,7 @@ sidebar_label: 案例十二:比赛任务综合测试
 
 ### 示例程序
 
-此程序比较复杂，请通过以下共享程序链接查看。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-15-04.png)
 
 程序链接:[https://makecode.microbit.org/_gif2bx60zehe](https://makecode.microbit.org/_gif2bx60zehe)
 
@@ -161,14 +123,24 @@ sidebar_label: 案例十二:比赛任务综合测试
 
 ## 案例演示
 
-将小车放置在启动区的左上角，贴近边缘，按下micro:bit上面的按键A即可让机器人从启动区开始运动，并完成全部任务
+按下按键 C，显示屏上 “C 计数” 数值加 1；按下按键 D，“D 计数” 数值增加。多次按键后，可清晰看到两个独立计数数值在屏幕上动态更新。
 
-**注意：此案例因小车搭建误差，成功率并非100%，可优化程序以提高成功率**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SMI4ZmuTU9M?si=_3OCxxYvTJJ1SC3V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-15.gif)
 
 ## 总结分享
 
 
 
 ## 扩展知识
+
+**按键事件编程原理​**
+
+按键本质是通过改变电路通断产生电平变化，在编程中，需设置引脚为输入模式监测电平信号。当按键按下，引脚电平从高电平变为低电平（或反之），触发预设的事件函数，实现计数变量的自增操作。同时，为避免按键抖动造成误触发，常采用软件延时消抖或状态机消抖等处理方法。​
+
+**变量与数据存储​**
+
+在手动计数器程序中，每个计数对应一个独立变量。变量是编程中存储数据的 “容器”，可根据需求改变数值。除了基本的整数变量，还存在浮点型、字符型等多种数据类型，在更复杂的程序中，数组、列表等数据结构能实现大量数据的有序存储与处理。​
+
+**数学在计数中的应用​**
+
+计数本质是数学中的加法运算，通过每次按键触发 “+1” 操作实现数值累加。在实际应用中，可拓展为减法计数（如倒计时）、乘法计数（批量统计）等运算，将数学原理与编程逻辑结合，能创造出功能更丰富的计数器，例如带有倍数统计、差值计算的复合型计数器。

@@ -1,9 +1,9 @@
 ---
 sidebar_position: 16
-sidebar_label: 案例十六:手动计数器
+sidebar_label: 案例十五:手动计数器
 ---
 
-# 案例十六:手动计数器
+# 案例十五:手动计数器
 
 ## 案例简介
 
@@ -110,7 +110,7 @@ sidebar_label: 案例十六:手动计数器
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-manual12.png)
 
 点击![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-manual09.png)。
-
+l
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-manual13.png)
 
 在弹出窗口选择 **BBC micro:bit CMSIS-DAP**，然后选择**连接**，至此，我们的 micro:bit 就已经连接成功。

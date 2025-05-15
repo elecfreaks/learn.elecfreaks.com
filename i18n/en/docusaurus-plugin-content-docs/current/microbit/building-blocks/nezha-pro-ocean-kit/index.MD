@@ -1,12 +1,9 @@
 ---
 sidebar_position: 1
-sidebar_label: 哪吒pro海洋套件
+sidebar_label: Nezha Pro Ocean Kit
 ---
 
-# 哪吒pro海洋套件
-
----
-## 目录
+# Nezha Pro Ocean Kit
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

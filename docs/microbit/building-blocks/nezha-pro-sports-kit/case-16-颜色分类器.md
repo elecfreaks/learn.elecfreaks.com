@@ -36,7 +36,7 @@ sidebar_label: 案例十六:颜色分类器
 
 ## 搭建步骤
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%AF%94%E8%B5%9B%E4%BB%BB%E5%8A%A1%E8%BD%A6.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB%E5%99%A8%E6%90%AD%E5%BB%BA%E5%9B%BE.pdf" type="application/pdf" width="100%" height="600px" />
 
 
 ## 硬件连线

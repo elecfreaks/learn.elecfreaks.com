@@ -36,7 +36,7 @@ sidebar_label: 案例十五:手动计数器
 
 ## 搭建步骤
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%AF%94%E8%B5%9B%E4%BB%BB%E5%8A%A1%E8%BD%A6.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%89%8B%E5%8A%A8%E8%AE%A1%E6%95%B0%E5%99%A8.pdf" type="application/pdf" width="100%" height="600px" />
 
 ## 硬件连线
 

@@ -1,15 +1,15 @@
 ---
-sidebar_position: 18
-sidebar_label: 案例十七:射箭运动员
+sidebar_position: 19
+sidebar_label: 案例十八:独轮车机器人
 ---
 
-# 案例十七:射箭运动员
+# 案例十八:独轮车机器人
 
 ## 案例简介
 
-制作一款模拟射箭运动的智能装置，需手动将箭矢安置在弓上并完成上弦，通过编程控制舵机转动模拟放弦动作，实现箭矢发射。让用户体验科技赋能的射箭运动，同时学习机械传动与舵机控制的应用知识。
+利用运动主题 Steam 套装制作独轮车机器人，通过控制电机转动驱动机器人在独轮上前进，模拟独轮车骑行运动。在此过程中深入了解独轮车运动的相关知识与机械原理。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-17-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-18-01.png)
 
 ## 教学准备
 
@@ -19,24 +19,24 @@ sidebar_label: 案例十七:射箭运动员
 
 ## 教学目标
 
-理解舵机角度控制原理及其在模拟运动中的应用。​
+了解独轮车运动的基本特点与技巧，掌握独轮车机器人结构辅助稳定的原理。​
 
-掌握舵机编程控制方法。​
+通过搭建和调试，培养机械结构设计与动手实践能力。​
 
-培养将机械结构与编程结合的实践能力。
+激发对独轮车运动的兴趣，拓展对运动项目的认知。
 
 
 ## 课程引入
 
-同学们，想体验用科技改造传统射箭运动吗？今天我们要用哪吒 Pro 运动套装制作一个智能射箭装置！先手动把箭矢装上弓、拉好弦，再通过舵机 “一键放弦” 发射，感受科技与运动结合的奇妙。快来动手，成为玩转机械与编程的射箭小达人！
+同学们，独轮车骑行是一项极具挑战性的运动，需要高超的平衡技巧！今天我们要制作的独轮车机器人，不用像骑手那样靠自身保持平衡，而是巧妙利用特殊结构来稳稳 “站” 住。通过控制电机，让它模拟独轮车骑行，像真正的独轮车一样前进！想知道这个神奇的结构是什么样的吗？快来一起开启制作之旅吧！
 
 ## 学习探究
 
-探究舵机如何通过编程实现放弦动作的模拟，掌握舵机角度控制与指令触发的编程逻辑。
+探究如何通过机械结构辅助支撑实现独轮车机器人稳定运动，研究电机驱动与独轮车实际运动状态的关联，了解独轮车运动背后的物理原理。
 
 ## 搭建步骤
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E5%B0%84%E7%AE%AD%E8%BF%90%E5%8A%A8%E5%91%98.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E7%8B%AC%E8%BD%AE%E8%BD%A6%E8%BF%90%E5%8A%A8.pdf" type="application/pdf" width="100%" height="600px" />
 
 
 ## 硬件连线
@@ -67,9 +67,9 @@ sidebar_label: 案例十七:射箭运动员
 
 ### 示例程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-17-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-18-04.png)
 
-程序链接:[https://makecode.microbit.org/_9Ppc65ggC4H8](https://makecode.microbit.org/_9Ppc65ggC4H8)
+程序链接:[https://makecode.microbit.org/_PdAAyTHXfHsH](https://makecode.microbit.org/_PdAAyTHXfHsH)
 
 你也可以通过以下网页直接下载程序。
 
@@ -81,7 +81,7 @@ sidebar_label: 案例十七:射箭运动员
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_9Ppc65ggC4H8"
+        src="https://makecode.microbit.org/_PdAAyTHXfHsH"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -124,7 +124,7 @@ sidebar_label: 案例十七:射箭运动员
 
 ## 案例演示
 
-手动上弦后，按下按键A卡住箭矢，按下按键B完成放弦动作，箭矢射出。
+按下按键A，独轮车机器人开始骑行，按下按键B，独轮车机器人停止骑行。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-17.gif)
 
@@ -134,32 +134,18 @@ sidebar_label: 案例十七:射箭运动员
 
 ## 扩展知识​
 
-**弓箭的组成​**
+**独轮车运动的起源与发展​**
 
-弓箭主要由弓和箭两大部分构成，各部分都有着独特的设计和功能：​
+独轮车起源于中国汉代，最初作为运输工具使用，后来逐渐演变为民间杂耍和竞技项目。在古代，独轮车不仅用于日常劳作，还在庙会、庆典等活动中展示高超技艺。随着时间推移，独轮车运动传播到世界各地，并在现代发展成为一项充满挑战与乐趣的极限运动和竞技项目。如今，独轮车运动涵盖平地技巧、越野、竞速等多种类型，吸引了众多爱好者参与。​
 
-***弓：​***
+**独轮车运动的技巧与训练​**
 
-弓臂：是弓的主要弹性部件，上弦后储存弹性势能。传统弓臂常用木材、动物筋等材料制作，现代弓臂多采用复合材料，如玻璃纤维、碳纤维，兼具强度和弹性。​
+在实际的独轮车运动中，骑手需要掌握上车、下车、直线骑行、转弯、刹车等基本技巧。上车时，通常需要先将一只脚踩在踏板上，另一只脚蹬地获得初速度后迅速踏上另一个踏板；转弯时，通过身体重心的转移和脚对踏板的力量控制来实现方向改变。训练过程中，骑手要从基础平衡练习开始，逐步提升骑行速度和技巧难度。此外，核心力量、腿部力量以及身体协调性的训练，对于提升独轮车骑行水平至关重要。​
 
-弓弦：连接弓臂两端，用于传递力量。材质从早期的动物筋、植物纤维，发展到现代的高强度合成纤维，能承受较大拉力且不易断裂。​
+**独轮车运动的竞技项目​**
 
-弓把：位于弓的中间位置，是射手握持的部分。现代弓把通常设计有减震装置，可减少射箭时的震动，提升稳定性。​
+***平地技巧赛：***选手在平坦场地完成各种高难度动作，如单脚骑行、跳跃、旋转等，裁判根据动作难度、完成度和流畅性进行打分。​
 
-***箭：***​
+***越野赛：***在山地、丛林等复杂地形进行骑行，考验选手的耐力、操控能力和对不同路况的适应能力。​
 
-箭头：根据用途分为多种类型，狩猎箭头尖锐锋利，用于穿透猎物；比赛箭头注重飞行稳定性，一般为平头或圆头设计。​
-
-箭杆：是箭的主体，要求有一定的硬度和弹性。材质有木质、铝质、碳纤维等，不同材质的箭杆重量、强度和柔韧性有所差异，影响箭矢的飞行性能。​
-
-箭羽：安装在箭杆尾部，通常为三片或四片。箭羽起到稳定飞行方向的作用，如同飞机的尾翼，通过调整空气动力，使箭矢保持直线飞行。​
-
-箭尾：位于箭杆末端，用于与弓弦连接。其设计需保证与弓弦紧密配合，同时在放弦时能顺利脱离，不影响箭矢飞行。
-
-**射箭运动中的力学原理​**
-
-弹性势能与动能的转化：在手动上弦过程中，弓片发生形变，储存弹性势能，弓的形变程度越大，储存的弹性势能越多。当舵机模拟放弦动作时，弓弦恢复原状，弹性势能迅速转化为箭矢的动能，使箭矢获得初速度飞射出去。根据机械能守恒定律，在理想状态下，弓储存的弹性势能全部转化为箭矢的动能，但实际中会因空气阻力、摩擦等因素存在能量损耗。​
-
-抛物线运动：箭矢发射后的飞行轨迹符合抛物线规律，受发射初速度和角度影响 。发射角度为 45° 时，在不考虑空气阻力的情况下，箭矢可达到最远的水平射程；而在实际射箭运动中，运动员需要根据距离、风向等因素调整发射角度。​
-
-稳定性：箭矢的重心设计、尾翼结构影响其飞行稳定性 。合理的重心分布和尾翼形状能够减少箭矢飞行过程中的翻转和偏移，使其沿着预定轨迹飞行。
+***速度赛：***在规定赛道上比拼骑行速度，选手需要具备强大的爆发力和持久的耐力，通过合理的骑行节奏和技巧争取最佳成绩。

@@ -30,6 +30,7 @@ sidebar_label:  jacdac Button
 ## 外观和尺寸
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-button-01.png)
+
 ---
 
 ## 产品链接
@@ -87,19 +88,22 @@ sidebar_label:  jacdac Button
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-7.png)
 
+---
 #### 如图编写程序
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-button-01-03.png)
 
+
+---
 ## 参考程序连接
 
 链接
 
 [https://makecode.microbit.org/_7C43iwgjJFuX](https://makecode.microbit.org/_7C43iwgjJFuX)
 
+---
 你还可以通过链接下载。
 
----
 <div
     style={{
         position: 'relative',

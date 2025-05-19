@@ -21,11 +21,11 @@ sidebar_label: Jacdac Rotray Encoder
 ## 规格
 |项目|参数|
 |---|---|
-|名字|旋转编码器|
-|SKU|EF16003|
-|连接类型|模拟输出|
-|输入电压|3.3V|
-|大小|38.00mm*28.00mm|
+|**名字**|旋转编码器|
+|**SKU**|EF16003|
+|**连接类型**|模拟输出|
+|**工作电压**|4.15V|
+|**大小**|38.00mm×28.00mm （长×宽）|
 
 ---
 ## 外观和尺寸
@@ -98,7 +98,7 @@ sidebar_label: Jacdac Rotray Encoder
 
 [https://makecode.microbit.org/_4ptKYC5vjVA9](https://makecode.microbit.org/_4ptKYC5vjVA9)
 
-你还可以下载一下链接
+你还可以通过链接下载。
 
 ---
 <div

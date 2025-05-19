@@ -22,9 +22,9 @@ sidebar_label:  jacdac Button
 |---|---|
 |**名字**|按钮传感器|
 |**SKU**|EF16002|
-|**连接类型**|数字输出|
+|**接口类型**|数字输入|
 |**工作电压**|4.15V|
-|**大小**|38.00mm*31.40mm|
+|**大小**|38.00mm*31.40mm （长×宽）|
 
 ---
 ## 外观和尺寸
@@ -97,7 +97,7 @@ sidebar_label:  jacdac Button
 
 [https://makecode.microbit.org/_7C43iwgjJFuX](https://makecode.microbit.org/_7C43iwgjJFuX)
 
-你还可以下载一下链接
+你还可以通过链接下载。
 
 ---
 <div

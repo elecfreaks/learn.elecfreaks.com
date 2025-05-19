@@ -9,12 +9,12 @@ sidebar_label:  jacdac Button
 ## 介绍
 **按钮传感器：** 用于检测按钮状态的传感器，输出携带有“0”和“1”的信号。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/Jacdac%20Button-1.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-button-01-02.png)
 
 ---
 ## 特性
 
-jacdac按钮传感器是一个简单易用的数字输入模块。它能够敏感地捕捉用户的按压操作，并将物理动作转换为数字信号，使连接的设备能够快速响应。它广泛应用于人机交互场景中，如开始和暂停控制，为各种项目增加便捷的操作体验。
+jacdac按钮传感器:是一个简单易用的数字输入模块。它能够敏感地捕捉用户的按压操作，并将物理动作转换为数字信号，使连接的设备能够快速响应。它广泛应用于人机交互场景中，如开始和暂停控制，为各种项目增加便捷的操作体验。
 
 ---
 ## 规格
@@ -24,13 +24,12 @@ jacdac按钮传感器是一个简单易用的数字输入模块。它能够敏�
 |SKU|EF16002|
 |连接类型|数字输出|
 |输入电压|3.3V|
-|大小||
+|大小|38.00*31.40mm|
 
 ---
 ## 外观和尺寸
 
-**图片**
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-button-01.png)
 ---
 
 ## 产品链接
@@ -39,9 +38,9 @@ jacdac按钮传感器是一个简单易用的数字输入模块。它能够敏�
 ---
 ## 快速开始
 
-### 连接图片
+### 硬件连接图片
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-011.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-button-01-01.png)
 
 ---
 ## 使用教程
@@ -90,6 +89,7 @@ jacdac按钮传感器是一个简单易用的数字输入模块。它能够敏�
 
 #### 如图编写程序
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-button-01-03.png)
 
 ## 参考程序连接
 
@@ -122,3 +122,4 @@ jacdac按钮传感器是一个简单易用的数字输入模块。它能够敏�
 ---
 
 ## 结果
+

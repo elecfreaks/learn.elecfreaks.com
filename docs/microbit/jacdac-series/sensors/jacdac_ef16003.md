@@ -31,15 +31,15 @@ sidebar_label: Jacdac Rotray Encoder
 ## 外观和尺寸
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-01.png)
----
 
+---
 ## 产品链接
 暂无
 
 ---
 ## 快速开始
 
-### 硬件连接图片
+### 硬件连接图
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-01-01.png)
 
@@ -61,7 +61,6 @@ sidebar_label: Jacdac Rotray Encoder
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-11.png)
 
----
 3. 点击代码抽屉中的“扩展”。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-09.png)
@@ -88,19 +87,21 @@ sidebar_label: Jacdac Rotray Encoder
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-7.png)
 
+---
 #### 如图编写程序
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-sensor-01-03.png)
 
+---
 ## 参考程序连接
 
 链接
 
 [https://makecode.microbit.org/_4ptKYC5vjVA9](https://makecode.microbit.org/_4ptKYC5vjVA9)
 
+---
 你还可以通过链接下载。
 
----
 <div
     style={{
         position: 'relative',

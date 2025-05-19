@@ -29,8 +29,8 @@ sidebar_label: Jacdac Light Sensor
 ## 外观和尺寸
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-light-sensor-01.png)
----
 
+---
 ## 产品链接
 暂无
 
@@ -59,7 +59,6 @@ sidebar_label: Jacdac Light Sensor
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-11.png)
 
----
 3. 点击代码抽屉中的“扩展”。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-09.png)
@@ -86,19 +85,21 @@ sidebar_label: Jacdac Light Sensor
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-7.png)
 
+---
 #### 如图编写程序
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-led-ring-01-03.png)
 
 ## 参考程序连接
 
+---
 链接
 
 [https://makecode.microbit.org/S31641-04208-03004-97894](https://makecode.microbit.org/S31641-04208-03004-97894)
 
+---
 你还可以通过链下载
 
----
 <div
     style={{
         position: 'relative',

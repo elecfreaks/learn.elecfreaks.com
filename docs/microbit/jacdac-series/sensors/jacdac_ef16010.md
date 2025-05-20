@@ -1,47 +1,48 @@
 ---
-sidebar_position: 2
-sidebar_label: Jacdac Rotray Encoder
+sidebar_position: 9
+sidebar_label: Jacdac Motion Sensor
 ---
 
-# 旋转编码器
+# 人体红外传感器
 
 ---
 ## 介绍
-**旋转编码器：** 是一种用于检测旋转运动方向和值的传感器。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-01-02.png)
+**人体红传感器：** 是一种感知人体移动的传感器。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-motion-sensor-01.png)
 
 ---
 ## 特性
 
-**旋转编码传感器：** 提供精确的旋转反馈。通过旋转操作，它可以生成不同的编码信号，以准确反映旋转方向和步数。它常用于参数调整场景，如音量控制和菜单选择，允许用户在旋转过程中进行精细设置。
+**人体红外传感器：** 它可以敏感地检测周围物体的运动状态，一旦检测到动态变化，立即输出信号。在安全监控中，它自动捕捉入侵者;在智能照明中，它实现人在时灯亮，人走时灯灭，提高空间的智能化和能源效率。
 
 ---
-
 ## 规格
 |项目|参数|
 |---|---|
-|**名字**|旋转编码器|
-|**SKU**|EF16003|
-|**连接类型**|模拟输出|
+|**名字**|人体红外传感器|
+|**SKU**|EF16010|
+|**连接类型**|数字输出|
 |**工作电压**|4.15V|
-|**产品尺寸**|38.00mm×28.00mm （长×宽）|
+|**产品尺寸**|31.40mm*38mm（长×宽）|
 
 ---
 ## 外观和尺寸
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-motion-sensor-01.png)
 
 ---
+
 ## 产品链接
 暂无
 
 ---
 ## 快速开始
 
-### 硬件连接图
+### 硬件连接图片
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-motion-sensor-01-01.png)
 
 ---
 ## 使用教程
@@ -61,6 +62,7 @@ sidebar_label: Jacdac Rotray Encoder
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-11.png)
 
+---
 3. 点击代码抽屉中的“扩展”。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-09.png)
@@ -90,14 +92,15 @@ sidebar_label: Jacdac Rotray Encoder
 ---
 #### 如图编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-sensor-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-motion-sensor-01-03.png)
 
 ---
+
 ## 参考程序连接
 
 链接
 
-[https://makecode.microbit.org/_4ptKYC5vjVA9](https://makecode.microbit.org/_4ptKYC5vjVA9)
+[https://makecode.microbit.org/_3TuVXqXMyUzs](https://makecode.microbit.org/_3TuVXqXMyUzs)
 
 ---
 你还可以通过链接下载。
@@ -110,7 +113,7 @@ sidebar_label: Jacdac Rotray Encoder
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_7C43iwgjJFuX"
+        src="https://makecode.microbit.org/_3TuVXqXMyUzs"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

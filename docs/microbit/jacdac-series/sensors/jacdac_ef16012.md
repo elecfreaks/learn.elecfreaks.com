@@ -1,48 +1,47 @@
 ---
-sidebar_position: 2
-sidebar_label: Jacdac Rotray Encoder
+sidebar_position: 11
+sidebar_label: Jacdac LED Ring
 ---
 
-# 旋转编码器
+# 灯环
 
 ---
 ## 介绍
-**旋转编码器：** 是一种用于检测旋转运动方向和值的传感器。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-01-02.png)
+**灯环：** 由8个RGB灯组成的圆形光环。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-led-ring-01-02.png)
 
 ---
 ## 特性
 
-**旋转编码传感器：** 提供精确的旋转反馈。通过旋转操作，它可以生成不同的编码信号，以准确反映旋转方向和步数。它常用于参数调整场景，如音量控制和菜单选择，允许用户在旋转过程中进行精细设置。
+**jacdac灯环：** 由多个独立可控的 LED 组成，形成一个环形发光体，可以呈现丰富的色彩和动态的灯光效果。它用于装饰照明，营造出华丽的氛围;在设备状态指示上，它使用不同的照明模式反馈工作状态，兼具美观性和实用性。
 
 ---
-
 ## 规格
 |项目|参数|
 |---|---|
-|**名字**|旋转编码器|
-|**SKU**|EF16003|
-|**连接类型**|模拟输出|
+|**名字**|灯环|
+|**SKU**|EF16012|
+|**接口类型**|执行器|
 |**工作电压**|4.15V|
-|**产品尺寸**|38.00mm×28.00mm （长×宽）|
+|**产品尺寸**|38.00mm*28.20mm（长×宽）|
 
 ---
 ## 外观和尺寸
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-01.png)
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-led-ring-01.png)
 ---
+
 ## 产品链接
 暂无
 
 ---
 ## 快速开始
 
-### 硬件连接图
+### 硬件连接
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-01-01.png)
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-led-ring-01-01.png)
 ---
 ## 使用教程
 ### 编程软件
@@ -90,17 +89,17 @@ sidebar_label: Jacdac Rotray Encoder
 ---
 #### 如图编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-sensor-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-led-ring-01-03.png)
 
 ---
 ## 参考程序连接
 
 链接
 
-[https://makecode.microbit.org/_4ptKYC5vjVA9](https://makecode.microbit.org/_4ptKYC5vjVA9)
+[https://makecode.microbit.org/S31641-04208-03004-97894](https://makecode.microbit.org/S31641-04208-03004-97894)
 
 ---
-你还可以通过链接下载。
+你还可以通过链接下载
 
 <div
     style={{
@@ -110,7 +109,7 @@ sidebar_label: Jacdac Rotray Encoder
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_7C43iwgjJFuX"
+        src="https://makecode.microbit.org/S31641-04208-03004-97894"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

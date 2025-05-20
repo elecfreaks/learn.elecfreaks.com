@@ -185,7 +185,7 @@ Remote control handle program
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-69-07.png)
 
 ### Reference
-link: [https://makecode.microbit.org/_51MbzXhRTDvq](https://makecode.microbit.org/_51MbzXhRTDvq)
+link: [https://makecode.microbit.org/_CRzJ1dE356Rx](https://makecode.microbit.org/_CRzJ1dE356Rx)
 
 You may also download it directly:
 
@@ -197,7 +197,7 @@ You may also download it directly:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_51MbzXhRTDvq"
+        src="https://makecode.microbit.org/_CRzJ1dE356Rx"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

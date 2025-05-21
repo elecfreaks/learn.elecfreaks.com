@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
-sidebar_label: Petal系列传感器
+sidebar_label: Patel系列传感器
 ---
 
-# Petal系列传感器
+# Patel系列传感器
 
 ## 产品简介
 

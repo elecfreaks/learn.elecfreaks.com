@@ -155,6 +155,37 @@ Search with "nezha2" and have it downloaded.
 
 *Note:* If you get a prompt that some codebase will be removed for incompatibility, you can either follow the prompt and continue, or create a new project.
 
+### Introduction to Software Building Blocks
+
+| Building Block | Function | Parameters |
+| ------ | ----- | -------- |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-01.png) | Set the motor at the corresponding interface to rotate in a specified direction. | Parameter 1: Drop-down option <br /> Options: M1, M2, M3, M4 <br /> Parameter 2: Drop-down option <br /> Options: Clockwise, Counterclockwise <br /> Parameter 3: Integer <br /> Parameter 4: Drop-down option <br /> Options: Degree, Revolution, Second |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-02.png) | Set the motor at the corresponding interface to rotate a specified angle in a specified direction. | Parameter 1: Drop-down option <br /> Options: M1, M2, M3, M4 <br /> Parameter 2: Drop-down option <br /> Options: Clockwise, Counterclockwise <br /> Parameter 3: Integer |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-03.png) | Set the motor at the corresponding interface to rotate in a specified direction. | Parameter 1: Drop-down option <br /> Options: M1, M2, M3, M4 <br /> Parameter 2: Drop-down option <br /> Options: Clockwise, Counterclockwise |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-04.png) | Stop the motor at the corresponding interface. | Parameter 1: Drop-down option <br /> Options: M1, M2, M3, M4 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-05.png) | Set the motor at the corresponding interface to run at a specified speed. | Parameter 1: Drop-down option <br /> Options: M1, M2, M3, M4 <br /> Parameter 2: Integer <br /> Value range: -100~100 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-06-1.png) | Obtain the relative angle value of the current motor through this building block. | Parameter 1: Drop-down option <br /> Options: M1, M2, M3, M4 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-06-2.png) | Obtain the absolute angle value of the current motor through this building block. | Parameter 1: Drop-down option <br /> Options: M1, M2, M3, M4 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-07.png) | Obtain the speed of the current motor through this building block. | Parameter 1: Drop-down option <br /> Options: M1, M2, M3, M4 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-08-1.png) | Set the current position of the motor at the corresponding interface as the zero position of the relative angle. | Parameter 1: Drop-down option <br /> Options: M1, M2, M3, M4 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-08-2.png) | Set the motor at the corresponding interface to rotate to the zero position. | Parameter 1: Drop-down option <br /> Options: M1, M2, M3, M4 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-09.png) | Set the connection interfaces of the left and right motors of the car. | Parameter 1: Drop-down option <br /> Options: M1, M2, M3, M4 <br /> Parameter 2: Drop-down option <br /> Options: M1, M2, M3, M4 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-10.png) | Set the speed of the car. | Parameter 1: Value <br /> Value range: -100~100 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-11.png) | Stop the car from running. | Parameter 1: Value <br /> Value range: -100~100 <br /> Parameter 2: Value <br /> Value range: -100~100 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-12.png) | Set the car to move forward or backward. | Parameter 1: Drop-down option <br /> Options: Forward, Backward |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-13.png) | Set the speeds of the left and right wheels of the car. | Parameter 1: Value <br /> Value range: -100~100 <br /> Parameter 2: Value <br /> Value range: -100~100 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-14.png) | Obtain the current firmware version number. | |
+
+**Notes:**
+
+**Relative Angle:**
+The relative angle refers to the **offset** of the servo from its `current position`. When controlling the relative angle, only the `rotation direction and offset` need to be specified, without concerning the mechanical zero point.
+**Example:** If the current angle of the servo is 30°, sending a relative command of "+60°" will make the servo rotate 60° in the positive direction and finally stop at 90°.
+
+**Absolute Angle:**
+The absolute angle refers to the angular position of the servo relative to a `fixed reference point (usually the mechanical zero point)`. When controlling the absolute angle, it is necessary to clearly specify that the servo rotates to a `fixed position`, which is independent of the current position.
+**Example:** If the mechanical zero point of the servo is 0° and its maximum rotation angle is 180°, the absolute angle range is typically 0°–180° (the specific range depends on the servo model).
+
 ## Operation Methods
 
 ### Hardware Connections

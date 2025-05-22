@@ -187,15 +187,28 @@ Type-C 充电接口，最大支持5V3A，充电时长50min。
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-03.png) | 设置对应接口的电机以指定方向转动 | 参数一：下拉选项 <br /> 选项：M1、M2、M3、M4 <br /> 参数二：下拉选项 <br /> 选项：顺时针、逆时针 |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-04.png) | 设置对应接口的电机停止运行 | 参数一：下拉选项 <br /> 选项：M1、M2、M3、M4 |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-05.png) | 设置对应接口的电机以指定速度运行 |  参数一：下拉选项 <br /> 选项：M1、M2、M3、M4 <br /> 参数二：整数 <br /> 数值范围：-100~100 |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-06.png) | 通过此积木块可以获取当前电机的角度值 |  |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-07.png) | 通过此积木块可以获取当前电机的速度 |  |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-08.png) | 设置对应接口的电机转动到零位 |  |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-06-1.png) | 通过此积木块可以获取当前电机的相对角度值 | 参数一：下拉选项 <br /> 选项：M1、M2、M3、M4 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-06-2.png) | 通过此积木块可以获取当前电机的绝对角度值 | 参数一：下拉选项 <br /> 选项：M1、M2、M3、M4 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-07.png) | 通过此积木块可以获取当前电机的速度 | 参数一：下拉选项 <br /> 选项：M1、M2、M3、M4 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-08-1.png) | 设置对应接口的电机当前位置为相对角度的零位 | 参数一：下拉选项 <br /> 选项：M1、M2、M3、M4 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-08-2.png) | 设置对应接口的电机转动到零位 | 参数一：下拉选项 <br /> 选项：M1、M2、M3、M4 |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-09.png) | 设置小车左轮电机和右轮电机的连接接口 | 参数一：下拉选项 <br /> 选项：M1、M2、M3、M4 <br /> 参数二：下拉选项 <br /> 选项：M1、M2、M3、M4  |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-10.png) | 设置小车的速度 | 参数一：数值 <br /> 数值范围：-100~100 |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-11.png) | 设置小车停止运行 | 参数一：数值 <br /> 数值范围：-100~100 <br /> 参数二：数值 <br /> 数值范围：-100~100 |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-12.png) | 设置小车前进或者后退 | 参数一：下拉选项 <br /> 选项：前进、后退 |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-13.png) | 设置小车左轮和右轮的速度 | 参数一：数值 <br /> 数值范围：-100~100 <br /> 参数二：数值 <br /> 数值范围：-100~100 |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/nezha-v2-block-notes-14.png) | 获取当前固件版本号 |  |
+
+**备注：**
+
+**相对角度：**相对角度是指舵机从`当前位置`出发，相对于当前角度的`偏移量`。控制相对角度时，只需指定`旋转方向和偏移量`，无需关注机械零点。
+
+例如：若舵机当前角度为 30°，发送 “+60°” 的相对指令，舵机将向正方向旋转 60°，最终停在 90° 位置。
+
+**绝对角度：**绝对角度是指舵机旋转时相对于 `固定参考点（通常为机械零点）` 的角度位置。控制绝对角度时，需要明确指定舵机旋转到某个`固定位置`，与当前位置无关。
+
+例如：若舵机的机械零点为 0°，其最大旋转角度为 180°，则绝对角度范围通常为 0°~180°（具体范围取决于舵机型号）。
+
 
 ### 硬件连接
 

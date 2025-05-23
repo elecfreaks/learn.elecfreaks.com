@@ -1,6 +1,6 @@
 ---
 sidebar_position: 9
-sidebar_label: Jacdac Motion Sensor
+sidebar_label: jacdac人体红外传感器
 ---
 
 # 人体红外传感器

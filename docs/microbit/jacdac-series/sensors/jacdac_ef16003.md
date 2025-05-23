@@ -124,3 +124,5 @@ sidebar_label: Jacdac Rotray Encoder
 ---
 
 ## 结果
+
+旋转编码器旋转角度＞0，micro:bit显示“√”。否则micro:bit显示“×”

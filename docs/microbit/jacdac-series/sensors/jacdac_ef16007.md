@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-sidebar_label:  Jacdac Buzzer
+sidebar_label:  jacdac蜂鸣器
 ---
 
 # 蜂鸣器

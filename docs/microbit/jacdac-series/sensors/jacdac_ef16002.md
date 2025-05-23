@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label:  jacdac Button
+sidebar_label: jacdac按钮传感器
 ---
 
 # 按钮传感器

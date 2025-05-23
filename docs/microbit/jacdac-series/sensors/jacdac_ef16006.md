@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-sidebar_label:  Jacdac Moisture Sensor
+sidebar_label:  jacdac土壤湿度传感器
 ---
 
 # 土壤湿度传感器 

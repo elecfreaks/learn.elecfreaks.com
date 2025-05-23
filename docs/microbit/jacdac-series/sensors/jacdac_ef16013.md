@@ -1,6 +1,6 @@
 ---
 sidebar_position: 12
-sidebar_label:  jacdac magnet Sensor
+sidebar_label:  jacdac磁力传感器
 ---
 
 # 磁力传感器

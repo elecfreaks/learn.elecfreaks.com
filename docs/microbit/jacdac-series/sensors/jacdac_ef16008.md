@@ -34,9 +34,7 @@ sidebar_label: jacdac电源模块
 暂无
 
 ---
-## 快速开始
 
----
 ## 使用教程
 ### 硬件连接图
 **注意：** 电源需要自行准备。
@@ -60,20 +58,21 @@ sidebar_label: jacdac电源模块
  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-power-01-06.png)
 
 5.可以Wed调试界面中打开或关闭电源模块输出端口的状态。
+
 若关闭端口的电源输出，端口的LED指示灯将熄灭。反之，若开启端口的电源输出，端口的LED指示灯则会亮起。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-power-01-07.png)
 
-### 硬件连接图
+---
+## 硬件连接图
 
  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Servo-01-01.png)
 
-### 编程软件
+## 编程软件
 
 [微软makecode](https://makecode.microbit.org/#)
 
----
-### Makecode编程
+## Makecode编程
 
 #### 步骤1：如何添加jacdac扩展
 1. 进入[微软makecode](https://makecode.microbit.org/#)，点击“新建项目”。

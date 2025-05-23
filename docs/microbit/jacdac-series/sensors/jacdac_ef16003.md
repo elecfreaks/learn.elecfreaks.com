@@ -97,7 +97,7 @@ sidebar_label: Jacdac Rotray Encoder
 
 链接
 
-[https://makecode.microbit.org/_4ptKYC5vjVA9](https://makecode.microbit.org/_4ptKYC5vjVA9)
+[https://makecode.microbit.org/_1jp3gk6amULU](https://makecode.microbit.org/_1jp3gk6amULU)
 
 ---
 你还可以通过链接下载。
@@ -110,7 +110,7 @@ sidebar_label: Jacdac Rotray Encoder
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_7C43iwgjJFuX"
+        src="https://makecode.microbit.org/_1jp3gk6amULU"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

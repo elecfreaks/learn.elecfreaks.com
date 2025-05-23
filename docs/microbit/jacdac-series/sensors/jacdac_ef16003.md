@@ -7,18 +7,17 @@ sidebar_label: Jacdac Rotray Encoder
 
 ---
 ## 介绍
-**旋转编码器：** 是一种用于检测旋转运动方向和值的传感器。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-01-02.png)
 
----
-## 特性
+
+### 特性
 
 **旋转编码传感器：** 提供精确的旋转反馈。通过旋转操作，它可以生成不同的编码信号，以准确反映旋转方向和步数。它常用于参数调整场景，如音量控制和菜单选择，允许用户在旋转过程中进行精细设置。
 
 ---
 
-## 规格
+### 规格
 |项目|参数|
 |---|---|
 |**名字**|旋转编码器|
@@ -28,7 +27,7 @@ sidebar_label: Jacdac Rotray Encoder
 |**产品尺寸**|38.00mm×28.00mm （长×宽）|
 
 ---
-## 外观和尺寸
+### 外观和尺寸
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-01.png)
 

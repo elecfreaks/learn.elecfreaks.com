@@ -1,6 +1,6 @@
 ---
 sidebar_position: 11
-sidebar_label: Jacdac LED Ring
+sidebar_label: jacdac 灯环
 ---
 
 # 灯环

@@ -7,17 +7,15 @@ sidebar_label:  jacdac Button
 
 ---
 ## 介绍
-**按钮传感器：** 用于检测按钮状态的传感器，输出携带有“0”和“1”的信号。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-button-01-02.png)
 
----
-## 特性
+### 特性
 
 **按钮传感器:** 个简单易用的数字输入模块。它能够敏感地捕捉用户的按压操作，并将物理动作转换为数字信号，使连接的设备能够快速响应。它广泛应用于人机交互场景中，如开始和暂停控制，为各种项目增加便捷的操作体验。
 
 ---
-## 规格
+### 规格
 |项目|参数|
 |---|---|
 |**名字**|按钮传感器|
@@ -27,7 +25,7 @@ sidebar_label:  jacdac Button
 |**产品尺寸**|38.00mm×31.40mm （长×宽）|
 
 ---
-## 外观和尺寸
+### 外观和尺寸
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-button-01.png)
 

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Jacdac TempRH Sensor
+sidebar_label: jacdac温湿度传感器
 ---
 
 # 温湿度传感器

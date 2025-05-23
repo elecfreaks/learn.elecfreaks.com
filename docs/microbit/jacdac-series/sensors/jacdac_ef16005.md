@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-sidebar_label: Jacdac Light Sensor
+sidebar_label:jacdac光线传感器
 ---
 
 # 光线传感器
@@ -10,7 +10,7 @@ sidebar_label: Jacdac Light Sensor
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-light-sensor-01-02.png)
 
----
+
 ### 特性
 **光线传感器：** 对光的变化极其敏感，可以根据环境光强度输出相应的信号。在智能照明系统中，它能够自动区分明暗以实现自动开灯/关灯或亮度调节;在户外设备中，它还可以根据光线调整屏幕显示亮度，节省能源并保护眼睛。
 

@@ -90,7 +90,7 @@ sidebar_label: Jacdac Rotray Encoder
 ---
 #### 如图编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-sensor-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-sensor-01-03(1).png)
 
 ---
 ## 参考程序连接

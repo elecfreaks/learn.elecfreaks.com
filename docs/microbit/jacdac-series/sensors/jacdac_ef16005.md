@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-sidebar_label:jacdac光线传感器
+sidebar_label: jacdac光线传感器
 ---
 
 # 光线传感器

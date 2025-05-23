@@ -7,17 +7,16 @@ sidebar_label:  jacdac magnet Sensor
 
 ---
 ## 介绍
-**磁力传感器:** 是一种用于测量磁场强度、方向的传感器。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-magnet-sensor-01-02.png)
 
----
-## 特性
+
+### 特性
 
 **jacdac磁力传感器：** 是用霍尔效应来检测磁场变化，并将磁场强度转换为电信号。常用于电机转速检测，通过感应转子的磁场变化来推断转速;在电子罗盘等应用中，它可以准确确定导航和定位设备的方向。
 
 ---
-## 规格
+### 规格
 |项目|参数|
 |---|---|
 |**名字**|磁力传感器|
@@ -27,13 +26,13 @@ sidebar_label:  jacdac magnet Sensor
 |**产品尺寸**|38.00mm×28.20mm(长×宽)|
 
 ---
-## 外观和尺寸
+### 外观和尺寸
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-magnet-sensor-01.png)
 
 ---
 
-## 产品链接
+### 产品链接
 暂无
 
 ---
@@ -125,3 +124,4 @@ sidebar_label:  jacdac magnet Sensor
 ---
 
 ## 结果
+磁力传感器检测磁铁，micro:bit 显示“√”，否则micro:bit 显示“×”。

@@ -125,3 +125,4 @@ sidebar_label: Jacdac Motion Sensor
 ---
 
 ## 结果
+人体红外传感器检测人体在移动，micro:bit 显示“√”，否则micro:bit 显示“×”。

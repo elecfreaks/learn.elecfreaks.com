@@ -8,27 +8,25 @@ sidebar_label: Jacdac Motion Sensor
 ---
 ## 介绍
 
-**人体红传感器：** 是一种感知人体移动的传感器。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-motion-sensor-01-02.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-motion-sensor-01.png)
 
----
-## 特性
+### 特性
 
 **人体红外传感器：** 它可以敏感地检测周围物体的运动状态，一旦检测到动态变化，立即输出信号。在安全监控中，它自动捕捉入侵者;在智能照明中，它实现人在时灯亮，人走时灯灭，提高空间的智能化和能源效率。
 
 ---
-## 规格
+### 规格
 |项目|参数|
 |---|---|
 |**名字**|人体红外传感器|
 |**SKU**|EF16010|
 |**连接类型**|数字输出|
 |**工作电压**|4.15V|
-|**产品尺寸**|31.40mm*38mm（长×宽）|
+|**产品尺寸**|38.00mm×28.20mm（长×宽）|
 
 ---
-## 外观和尺寸
+### 外观和尺寸
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-motion-sensor-01.png)
 

@@ -122,3 +122,4 @@ sidebar_label: Jacdac Light Sensor
 ---
 
 ## 结果
+检测到的环境光强度＜10，micro:bi 显示“√”，否则micro:bit 显示“×”。

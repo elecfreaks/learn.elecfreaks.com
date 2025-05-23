@@ -88,7 +88,7 @@ sidebar_label: Jacdac Light Sensor
 ---
 #### 如图编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-led-ring-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-light-sensor-01-03.png)
 
 ## 参考程序连接
 

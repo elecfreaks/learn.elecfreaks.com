@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: Jacdac Rotray Encoder
+sidebar_label: Jacdac 旋转编码器
 ---
 
 # 旋转编码器

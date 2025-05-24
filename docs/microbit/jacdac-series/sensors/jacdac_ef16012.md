@@ -1,6 +1,6 @@
 ---
 sidebar_position: 11
-sidebar_label: Jacdac LED Ring
+sidebar_label: jacdac 灯环
 ---
 
 # 灯环
@@ -8,17 +8,16 @@ sidebar_label: Jacdac LED Ring
 ---
 ## 介绍
 
-**灯环：** 由8个RGB灯组成的圆形光环。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-led-ring-01-02.png)
 
----
-## 特性
+
+### 特性
 
 **jacdac灯环：** 由多个独立可控的 LED 组成，形成一个环形发光体，可以呈现丰富的色彩和动态的灯光效果。它用于装饰照明，营造出华丽的氛围;在设备状态指示上，它使用不同的照明模式反馈工作状态，兼具美观性和实用性。
 
 ---
-## 规格
+### 规格
 |项目|参数|
 |---|---|
 |**名字**|灯环|
@@ -28,7 +27,7 @@ sidebar_label: Jacdac LED Ring
 |**产品尺寸**|38.00mm*28.20mm（长×宽）|
 
 ---
-## 外观和尺寸
+### 外观和尺寸
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-led-ring-01.png)
 ---
@@ -123,3 +122,4 @@ sidebar_label: Jacdac LED Ring
 ---
 
 ## 结果
+按下micro:bit的A按钮，灯环亮红色灯，按下 micro:bit的B按钮，灯环关闭灯光。

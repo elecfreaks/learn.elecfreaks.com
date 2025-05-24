@@ -1,22 +1,21 @@
 ---
 sidebar_position: 4
-sidebar_label: Jacdac Light Sensor
+sidebar_label: jacdac光线传感器
 ---
 
 # 光线传感器
 
 ---
 ## 介绍
-**光线传感器：** 用于检测环境光强度的传感器。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-light-sensor-01-02.png)
 
----
-## 特性
+
+### 特性
 **光线传感器：** 对光的变化极其敏感，可以根据环境光强度输出相应的信号。在智能照明系统中，它能够自动区分明暗以实现自动开灯/关灯或亮度调节;在户外设备中，它还可以根据光线调整屏幕显示亮度，节省能源并保护眼睛。
 
 ---
-## 规格
+### 规格
 |项目|参数|
 |---|---|
 |**名字**|光线传感器|
@@ -26,7 +25,7 @@ sidebar_label: Jacdac Light Sensor
 |**产品尺寸**|38.00mm×28.20mm（长×宽）|
 
 ---
-## 外观和尺寸
+### 外观和尺寸
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-light-sensor-01.png)
 
@@ -88,7 +87,7 @@ sidebar_label: Jacdac Light Sensor
 ---
 #### 如图编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-led-ring-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-light-sensor-01-03.png)
 
 ## 参考程序连接
 
@@ -122,3 +121,4 @@ sidebar_label: Jacdac Light Sensor
 ---
 
 ## 结果
+检测到的环境光强度＜10，micro:bi 显示“√”，否则micro:bit 显示“×”。

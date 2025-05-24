@@ -7,18 +7,17 @@ sidebar_label: Jacdac Rotray Encoder
 
 ---
 ## 介绍
-**旋转编码器：** 是一种用于检测旋转运动方向和值的传感器。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-01-02.png)
 
----
-## 特性
+
+### 特性
 
 **旋转编码传感器：** 提供精确的旋转反馈。通过旋转操作，它可以生成不同的编码信号，以准确反映旋转方向和步数。它常用于参数调整场景，如音量控制和菜单选择，允许用户在旋转过程中进行精细设置。
 
 ---
 
-## 规格
+### 规格
 |项目|参数|
 |---|---|
 |**名字**|旋转编码器|
@@ -28,7 +27,7 @@ sidebar_label: Jacdac Rotray Encoder
 |**产品尺寸**|38.00mm×28.00mm （长×宽）|
 
 ---
-## 外观和尺寸
+### 外观和尺寸
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-01.png)
 
@@ -90,14 +89,14 @@ sidebar_label: Jacdac Rotray Encoder
 ---
 #### 如图编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-sensor-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-rotray-encoder-sensor-01-03(1).png)
 
 ---
 ## 参考程序连接
 
 链接
 
-[https://makecode.microbit.org/_4ptKYC5vjVA9](https://makecode.microbit.org/_4ptKYC5vjVA9)
+[https://makecode.microbit.org/_1jp3gk6amULU](https://makecode.microbit.org/_1jp3gk6amULU)
 
 ---
 你还可以通过链接下载。
@@ -110,7 +109,7 @@ sidebar_label: Jacdac Rotray Encoder
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_7C43iwgjJFuX"
+        src="https://makecode.microbit.org/_1jp3gk6amULU"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -124,3 +123,5 @@ sidebar_label: Jacdac Rotray Encoder
 ---
 
 ## 结果
+
+旋转编码器旋转角度＞0，micro:bit显示“√”。否则micro:bit显示“×”

@@ -37,7 +37,7 @@ sidebar_label: jacdac电源模块
 
 ## 使用教程
 ### 硬件连接图
-**注意：** 电源需要自行准备。
+**注意：** 请自行准备5V电源。
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-power-01-00.png)
 
 ### 开启端口电源输出/关闭电源输出方式。
@@ -113,7 +113,7 @@ sidebar_label: jacdac电源模块
 ---
 #### 如图编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-button-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-power-01-03.png)
 
 
 ---
@@ -121,7 +121,7 @@ sidebar_label: jacdac电源模块
 
 链接
 
-[https://makecode.microbit.org/_7C43iwgjJFuX](https://makecode.microbit.org/_7C43iwgjJFuX)
+[https://makecode.microbit.org/_bW1btg9VzLg9](https://makecode.microbit.org/_bW1btg9VzLg9)
 
 ---
 你还可以通过链接下载。
@@ -134,7 +134,7 @@ sidebar_label: jacdac电源模块
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_7C43iwgjJFuX"
+        src="https://makecode.microbit.org/_bW1btg9VzLg9"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -148,4 +148,4 @@ sidebar_label: jacdac电源模块
 ---
 
 ## 结果
-按下按钮传感器，micro:bit显示“√”。松开按钮传感器，micro:bit 显示“×”
+舵机从角度0°转到90°再转到180°，然后从180°转到0°。

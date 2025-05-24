@@ -12,8 +12,7 @@ sidebar_label: jacdac电源模块
 
 ### 特性
 
-**电源模块:** 它负责整个系统的供电和管理，稳定地输出适合每个模块的电压和电流，以确保系统的稳定运行。有些还具有电源监控功能，允许用户实时了解电源储备，提前计划充电或更换电源，并确保设备的连续运行。
-
+**电源模块:** 它负责整个系统的供电和管理，稳定地输出适合每个模块的电压和电流，以确保系统的稳定运行。
 ---
 ### 规格
 |项目|参数|
@@ -45,7 +44,7 @@ sidebar_label: jacdac电源模块
 
  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-power-01-03.png)
 
-2.使用USB数据线连接micro:bit与个人电脑,点击“CONNECT”进行连接。
+2.使用USB数据线连接micro:bit与个人电脑,点击“设备仪表盘”再点击“连接”进行设备连接。
 
  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-power-01-04.png)
 

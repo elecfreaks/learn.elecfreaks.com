@@ -9,8 +9,7 @@ sidebar_label: 案例二十一:摩托机器人
 
 利用运动主题 Steam 套装搭建一款双轮摩托车机器人，采用后轮电机驱动 + 前轮舵机转向的经典布局，模拟真实摩托车的运动逻辑。通过编程控制电机转速与舵机角度，实现前进、转向、调速等基础功能，帮助学习者理解 “动力系统 + 转向系统” 的机械联动原理，掌握电机与舵机的基础控制方法，体验从机械搭建到编程调试的完整工程流程。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-06-01-01.png)
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-21-01.png)
 ## 教学准备
 
 |     名称     |            图示            |
@@ -45,7 +44,7 @@ sidebar_label: 案例二十一:摩托机器人
 
 将两个智能电机分别连接到哪吒Pro扩展板的M1接口和M4接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-21-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-06-01-01.png)
 
 ## 代码编程
 

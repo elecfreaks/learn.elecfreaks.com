@@ -43,7 +43,7 @@ sidebar_label: jacdac电源模块
 ### 开启端口电源输出/关闭电源输出方式。
 1.前往[Wed设备调试界面]（https://jacdac.github.io/jacdac-docs/dashboard/）
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-power-01-03.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-power-01-08.png)
 
 2.使用USB数据线连接micro:bit与个人电脑,点击“设备仪表盘”再点击“连接”进行设备连接。
 

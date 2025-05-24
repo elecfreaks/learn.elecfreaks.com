@@ -1,15 +1,15 @@
 ---
-sidebar_position: 21
-sidebar_label: 案例二十:计数篮球架-2
+sidebar_position: 15
+sidebar_label: 案例十四:计数篮球架
 ---
 
-# 案例二十:计数篮球架-2
+# 案例十四:计数篮球架
 
 ## 案例简介
 
-利用运动主题 Steam 套装制作一款智能篮球计数器，通过碰撞传感器精准检测篮球落入篮筐的瞬间，实时统计进球次数并通过 LED 屏显示。无需人工计数，让篮球训练或小游戏实现自动化数据记录，帮助学习者理解传感器在运动场景中的应用原理，掌握 “物理碰撞→电子信号→数据处理” 的信息转化逻辑。
+设计一款自动计数篮球架，通过编程实现进球数量自动统计，并在 OLED 显示屏上实时显示。将传统篮球架升级为具备智能计数功能的运动设备，让投篮练习更具趣味性与数据化。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-20-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-14-01.png)
 
 ## 教学准备
 
@@ -19,23 +19,19 @@ sidebar_label: 案例二十:计数篮球架-2
 
 ## 教学目标
 
-传感器原理：理解碰撞传感器（微动开关）的工作机制，掌握 “接触 - 触发 - 信号” 的物理转化过程。
-​
-编程逻辑：学会通过条件判断语句（如if）识别传感器信号，实现计数器的累加与显示。​
+理解超声波传感器测距原理及其在运动检测中的应用。​
 
-工程设计：掌握传感器与机械结构的结合方法（如传感器安装位置对检测精度的影响）。​
+掌握数据统计与 OLED 屏幕实时显示的编程方法。​
 
-运动应用：体会科技如何辅助运动训练，理解 “数据化运动” 的实际价值（如统计投篮命中率）。
+培养将物理运动与电子技术结合的创新思维。
 
 ## 课程引入
 
-篮球比赛中裁判如何判断进球？如果是自己练习，怎么快速知道投进了多少球？​
-
-能不能让篮筐自己 “数” 进球次数？场景导入：“今天我们要给篮筐装上‘智能大脑’！当篮球穿过篮筐时，碰撞传感器会像裁判一样立刻‘看到’进球，主控板马上记录次数并显示在屏幕上。无论是练习投篮还是和同学比赛，这个计数器都能让你专注运动，数据交给科技处理！”
+同学们，在篮球训练中，一个个数投篮次数是不是很麻烦？今天我们要用哪吒 Pro 运动套装制作一个神奇的自动计数篮球架！装上超声波传感器后，它能像眼睛一样精准捕捉进球瞬间，还能自动记录得分。让我们一起用科技为篮球运动 “升级”，感受运动与编程碰撞的魅力！
 
 ## 学习探究
 
-探究碰撞传感器如何识别“进球碰撞”，分析传感器安装角度对检测准确率的影响，研究如何通过编程实现 “防重复计数”（如两次进球需间隔 1 秒以上）。
+探究超声波传感器如何通过测距变化判断篮球入筐，以及计数逻辑的编程实现。
 
 ## 搭建步骤
 
@@ -43,9 +39,9 @@ sidebar_label: 案例二十:计数篮球架-2
 
 ## 硬件连线
 
-将碰撞传感器连接到哪吒Pro扩展板的J1接口，将OLED显示屏连接到哪吒Pro扩展板的IIC接口。
+将超声波传感器连接到哪吒Pro扩展板的J1接口，将OLED显示屏连接到哪吒Pro扩展板的IIC接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-20-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-14-03.png)
 
 ## 代码编程
 
@@ -72,7 +68,7 @@ sidebar_label: 案例二十:计数篮球架-2
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-14-04.png)
 
-程序链接:[https://makecode.microbit.org/_H3d7gHP279HD](https://makecode.microbit.org/_H3d7gHP279HD)
+程序链接:[https://makecode.microbit.org/_dukDdVPHe9ik](https://makecode.microbit.org/_dukDdVPHe9ik)
 
 你也可以通过以下网页直接下载程序。
 
@@ -84,7 +80,7 @@ sidebar_label: 案例二十:计数篮球架-2
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_H3d7gHP279HD"
+        src="https://makecode.microbit.org/_dukDdVPHe9ik"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -125,33 +121,37 @@ sidebar_label: 案例二十:计数篮球架-2
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-manual10.png)
 
-## 案例演示
-
-投篮后篮球触碰篮筐内侧的微动开关，传感器触发信号，主控板接收到信号后计数 + 1，LED 屏实时更新数字（如从 “0” 变为 “1”）。
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/nezha-pro-sports-kit-case-20.gif)
-
 ## 总结分享
+
+**现象**
+
+在理论验证的过程中，将小球放置在超声波传感器前方是可以检测到的，但在实际测试中我们发现如果小球快速通过，超声波传感器会出现检测不到的情况。
+
+**优化方向**
+
+1.从以上案例中我们发现超声波传感器对快速通过的篮球触发不灵敏，容易检测不到，我们可以在原有的基础上改装篮球架，从超声波检测改为物理接触的碰撞传感器检测。
+2.在篮筐下方安装一个挡板，当检测到小球后再打开，保证小球停留的时间足够超声波传感器检测到小球。
+
+
+
 
 
 
 ## 扩展知识
 
 
-**碰撞传感器工作原理​**
+**超声波传感器工作原理​**
 
-微动开关结构：内部含金属簧片，按压时触点闭合（导通电路），松开时触点断开（断开电路）。本案例中，篮球触压开关时，主控板检测到引脚电平从高（5V）变为低（0V），判定为一次有效进球。​
+超声波传感器通过发射高频声波，并接收反射回来的声波计算距离。其核心公式为：距离 = 声速 × 时间 ÷2。在篮球架应用中，当篮球进入检测范围，反射声波时间缩短，通过设定阈值判断是否进球。​
 
-去抖处理：实际碰撞中开关可能因震动产生多次误触发，编程时需添加 20-50ms 的延时过滤短时间内的重复信号。
+**运动检测技术拓展​**
 
-**运动数据化的价值​**
+除超声波检测外，运动检测还可采用红外对管、压力传感器、图像识别等技术：​
 
-训练优化：通过统计进球次数计算命中率（如投 50 次进 30 次，命中率 60%），针对性改进投篮姿势。​
+- 红外对管：通过红外光线被遮挡判断物体经过​
+- 压力传感器：检测物体接触产生的压力变化​
+- 图像识别：利用摄像头与 AI 算法识别运动轨迹​
 
-游戏化运动：设置 “1 分钟限时挑战”，计数器实时显示成绩，增加运动趣味性（可连接蜂鸣器，进球时播放提示音）。​
+**体育数据化应用​**
 
-**传感器类型扩展​**
-
-非接触式方案：替换为红外对管传感器（安装在篮筐两侧），通过检测光束遮挡判断进球，避免机械磨损（适合高频使用场景）。​
-
-压力传感器升级：在篮筐底部铺设压力感应片，通过压力变化识别进球（可区分空心球与碰筐进球）。
+自动计数篮球架是体育数据化的缩影。现代体育训练与赛事中，可穿戴设备、运动捕捉系统、智能裁判技术等广泛应用，通过数据采集与分析，帮助运动员提升训练效率、优化战术策略，推动体育科技融合发展。​

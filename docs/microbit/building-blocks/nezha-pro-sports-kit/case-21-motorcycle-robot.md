@@ -1,15 +1,15 @@
 ---
-sidebar_position: 16
-sidebar_label: 案例十五:手动计数器
+sidebar_position: 22
+sidebar_label: 案例二十一:摩托机器人
 ---
 
-# 案例十五:手动计数器
+# 案例二十一:摩托机器人
 
 ## 案例简介
 
-制作一款基于哪吒 Pro 运动套装的手动计数器，通过按下按键 C 或按键 D，实现对应数值的独立计数，并在 OLED 显示屏上实时展示。该计数器可应用于运动训练中的次数统计，如击剑训练中的有效刺击计数、投篮训练中的命中次数统计等场景，将简单的按键操作与数字显示相结合，打造便捷的手动计数工具。
+利用运动主题 Steam 套装搭建一款双轮摩托车机器人，采用后轮电机驱动 + 前轮舵机转向的经典布局，模拟真实摩托车的运动逻辑。通过编程控制电机转速与舵机角度，实现前进、转向、调速等基础功能，帮助学习者理解 “动力系统 + 转向系统” 的机械联动原理，掌握电机与舵机的基础控制方法，体验从机械搭建到编程调试的完整工程流程。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-15-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-06-01-01.png)
 
 ## 教学准备
 
@@ -19,30 +19,33 @@ sidebar_label: 案例十五:手动计数器
 
 ## 教学目标
 
-理解按键事件触发机制与变量自增逻辑。​
+机械传动：理解 “后轮驱动 + 前轮转向” 的摩托车运动原理，掌握电机与舵机的机械安装方式。​
 
-掌握在 OLED 显示屏上动态更新不同数值的编程方法。​
+控制技术：学会通过编程设置电机转速（PWM 调节）和舵机角度，实现直线行驶与转向操作。​
 
-培养将基础编程技能应用于实际运动场景的能力。
+编程逻辑：掌握 “输入指令→主控板处理→执行器动作” 的控制流程，理解条件语句（如if）在运动控制中的应用。​
 
+跨学科融合：结合物理（齿轮传动比）、工程（结构稳定性）、编程（模块化控制）知识，培养系统整合能力。
 
 ## 课程引入
 
-同学们，在击剑训练时想要记录有效刺击次数，或是投篮训练时想统计命中次数，靠脑子数可太难了！今天我们用哪吒 Pro 运动套装制作一个超实用的手动计数器！按下按键 C、D 就能让数字自动增加，还能在屏幕上看得清清楚楚。快来动手打造属于你的运动小助手，让计数变得轻松又准确！
+篮球比赛中裁判如何判断进球？如果是自己练习，怎么快速知道投进了多少球？​
+
+能不能让篮筐自己 “数” 进球次数？场景导入：“今天我们要给篮筐装上‘智能大脑’！当篮球穿过篮筐时，碰撞传感器会像裁判一样立刻‘看到’进球，主控板马上记录次数并显示在屏幕上。无论是练习投篮还是和同学比赛，这个计数器都能让你专注运动，数据交给科技处理！”
 
 ## 学习探究
 
-探究按键触发事件的编程响应方式，以及如何实现不同按键对应独立计数变量的自增与显示。
+探究电机转速与机器人行驶速度的关系，分析舵机转向角度对转弯半径的影响，研究如何通过调整前后轮轴距提升行驶稳定性。
 
 ## 搭建步骤
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%89%8B%E5%8A%A8%E8%AE%A1%E6%95%B0%E5%99%A8.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/files/%E6%91%A9%E6%89%98%E8%BD%A6.pdf" type="application/pdf" width="100%" height="600px" />
 
 ## 硬件连线
 
-将按钮模块连接到哪吒Pro扩展板的J1接口，将OLED显示器连接到哪吒Pro扩展板的IIC接口。
+将两个智能电机分别连接到哪吒Pro扩展板的M1接口和M4接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-15-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-21-03.png)
 
 ## 代码编程
 
@@ -66,9 +69,10 @@ sidebar_label: 案例十五:手动计数器
 
 ### 示例程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-15-04.png)
 
-程序链接:[https://makecode.microbit.org/_6amKXJLV5U14](https://makecode.microbit.org/_6amKXJLV5U14)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-21-04.png)
+
+程序链接:[https://makecode.microbit.org/_L6k80WEzcUCz](https://makecode.microbit.org/_L6k80WEzcUCz)
 
 你也可以通过以下网页直接下载程序。
 
@@ -80,7 +84,7 @@ sidebar_label: 案例十五:手动计数器
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_6amKXJLV5U14"
+        src="https://makecode.microbit.org/_L6k80WEzcUCz"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -110,7 +114,7 @@ sidebar_label: 案例十五:手动计数器
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-manual12.png)
 
 点击![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-manual09.png)。
-l
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-manual13.png)
 
 在弹出窗口选择 **BBC micro:bit CMSIS-DAP**，然后选择**连接**，至此，我们的 micro:bit 就已经连接成功。
@@ -123,9 +127,9 @@ l
 
 ## 案例演示
 
-按下按键 C，显示屏上 “C 计数” 数值加 1；按下按键 D，“D 计数” 数值增加。多次按键后，可清晰看到两个独立计数数值在屏幕上动态更新。
+按下按键A，摩托车向前行驶，按下按键B，摩托车停止行驶。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-15.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/nezha-pro-sports-kit-case-21.gif)
 
 ## 总结分享
 
@@ -133,14 +137,7 @@ l
 
 ## 扩展知识
 
-**按键事件编程原理​**
 
-按键本质是通过改变电路通断产生电平变化，在编程中，需设置引脚为输入模式监测电平信号。当按键按下，引脚电平从高电平变为低电平（或反之），触发预设的事件函数，实现计数变量的自增操作。同时，为避免按键抖动造成误触发，常采用软件延时消抖或状态机消抖等处理方法。​
-
-**变量与数据存储​**
-
-在手动计数器程序中，每个计数对应一个独立变量。变量是编程中存储数据的 “容器”，可根据需求改变数值。除了基本的整数变量，还存在浮点型、字符型等多种数据类型，在更复杂的程序中，数组、列表等数据结构能实现大量数据的有序存储与处理。​
-
-**数学在计数中的应用​**
-
-计数本质是数学中的加法运算，通过每次按键触发 “+1” 操作实现数值累加。在实际应用中，可拓展为减法计数（如倒计时）、乘法计数（批量统计）等运算，将数学原理与编程逻辑结合，能创造出功能更丰富的计数器，例如带有倍数统计、差值计算的复合型计数器。
+**摩托车运动中的物理知识​**
+转向几何：前轮转向轴与地面的交点需位于轮胎接地点内侧（阿克曼转向原理），减少转向时的轮胎滑动，本案例通过连杆长度模拟这一特性。​
+惯性影响：高速行驶时突然转向可能因离心力导致侧翻，可通过降低重心（加装底盘配重）提升稳定性。​

@@ -43,7 +43,7 @@ sidebar_label: 案例十八:独轮车机器人
 
 将智能舵机连接到哪吒Pro扩展板的M1接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-17-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-17-02.png)
 
 ## 代码编程
 
@@ -126,7 +126,7 @@ sidebar_label: 案例十八:独轮车机器人
 
 按下按键A，独轮车机器人开始骑行，按下按键B，独轮车机器人停止骑行。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-17.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-18.gif)
 
 ## 总结分享
 

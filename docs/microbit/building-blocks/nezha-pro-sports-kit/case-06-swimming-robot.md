@@ -37,9 +37,9 @@ micro:bit程序下载方式
 
 ## 硬件连线
 
-将智能电机连接到哪吒Pro扩展板的M1接口
+将两个智能电机分别连接到哪吒Pro扩展板的M1和M4接口
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-06-01-01.png)
 
 ## 代码编程
 

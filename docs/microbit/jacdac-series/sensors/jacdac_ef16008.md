@@ -68,6 +68,7 @@ sidebar_label: jacdac电源模块
 
  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Servo-01-01.png)
 
+**注意** 电源模块需要接入5V电源。
 ## 编程软件
 
 [微软makecode](https://makecode.microbit.org/#)

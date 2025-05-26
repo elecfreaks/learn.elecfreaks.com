@@ -17,8 +17,8 @@ Two players press their button sensors at the same time to see who can complete 
 |Item|图片|Quantity|
 |--|--|--|
 |micro:bit V2|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png)|1|
-|jacdac Expand board|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png)|1|
-|jacdac 10cmConnection Line|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png)|2|
+|Jacdac Expand board|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png)|1|
+|Jacdac 10cmConnection Line|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png)|2|
 |Button Sensor|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Button%20sensor.png)|2|
 |USB Cable|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png)|1|
 
@@ -35,7 +35,7 @@ Button sensor: A sensor used to detect the status of a button, which outputs sig
 ## Connection diagram
 
 As shown in the figure below, insert the micro:bit
-board into the jacdac expansion board, and use the connecting wire to connect the two button sensors in a star connection to the gold finger interface of the jacdac expansion board.![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-09.png)
+board into the Jacdac expansion board, and use the connecting wire to connect the two button sensors in a star connection to the gold finger interface of the Jacdac expansion board.![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-09.png)
 
 ## Programming software
 
@@ -45,7 +45,7 @@ board into the jacdac expansion board, and use the connecting wire to connect th
 
 ## Makecode programming
 
-### Step 1: How to add jacdac extension
+### Step 1: How to add Jacdac extension
 
 1. Enter [Microsoft Makecode](https://makecode.microbit.org/#) and click "New Project".
 
@@ -60,7 +60,7 @@ board into the jacdac expansion board, and use the connecting wire to connect th
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-09.png)
 
-4. In the pop-up interface, enter "jacdac" and click the search icon, select the jacdac software library, as shown in the figure.
+4. In the pop-up interface, enter "Jacdac" and click the search icon, select the Jacdac software library, as shown in the figure.
 
 ![]（https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-3.png)
 
@@ -69,7 +69,7 @@ board into the jacdac expansion board, and use the connecting wire to connect th
 
 1. Connect the micro:bit mainboard to the computer with a data cable.
 
-**Note**: If the micro:bit mainboard is running the jacdac program for the first time, please pre-install a blank jacdac program on the mainboard, otherwise skip this step.![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
+**Note**: If the micro:bit mainboard is running the Jacdac program for the first time, please pre-install a blank Jacdac program on the mainboard, otherwise skip this step.![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 
 2. Connect the sensor, MakeCode will automatically identify and simulate it, and the sensor will provide real-time feedback of the sensor status in the simulation area.
 

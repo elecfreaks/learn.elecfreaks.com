@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: jacdac系列传感器
+sidebar_label: Jacdac系列传感器
 ---
 
 # 目录

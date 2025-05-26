@@ -3,11 +3,11 @@ sidebar_position: 1
 sidebar_label: Product Introduction
 ---
 
-# jacdac Smart Exploration Kit
+# Jacdac Smart Exploration Kit
 
 ---
 ## Introduction
-The jacdac Smart Exploration Kit, which is based on micro:bit V2, is equipped with a variety of jacdac series sensors, including jacdac expansion boards, button sensors, light sensors, human infrared sensors, magnetic sensors, knob encoders, light ring modules, etc. jacdac supports plug-and-play functions, can automatically identify sensor types, and provide real-time feedback of sensor values in the simulation area of programming MakeCode, thereby helping users quickly build smart creative projects. In addition, the kit contains 10 basic cases, designed to help beginners get started quickly and stimulate their interest in programming and electronic components.
+The Jacdac Smart Exploration Kit, which is based on micro:bit V2, is equipped with a variety of Jacdac series sensors, including jacdac expansion boards, button sensors, light sensors, human infrared sensors, magnetic sensors, knob encoders, light ring modules, etc. Jacdac supports plug-and-play functions, can automatically identify sensor types, and provide real-time feedback of sensor values in the simulation area of programming MakeCode, thereby helping users quickly build smart creative projects. In addition, the kit contains 10 basic cases, designed to help beginners get started quickly and stimulate their interest in programming and electronic components.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-01.png)
 
@@ -23,8 +23,8 @@ The jacdac Smart Exploration Kit, which is based on micro:bit V2, is equipped wi
 |Light sensor|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Light%20Sensor.png)|1|
 |Magnetic sensor|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Magnet%20Sensor.png)|1|
 |Light Ring|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20LED%20Ring.png)|1|
-|jacdac-10cm Connection lines|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/Jacdac-smart-exploration-kit-10cm-cable.png)|5|
-|jacdac-25cm Connection lines|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/Jacdac-smart-exploration-kit-25cm-cable.png)|1|
+|Jacdac-10cm Connection lines|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/Jacdac-smart-exploration-kit-10cm-cable.png)|5|
+|Jacdac-25cm Connection lines|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/Jacdac-smart-exploration-kit-25cm-cable.png)|1|
 |USB Cable|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png)|1|
 
 ---

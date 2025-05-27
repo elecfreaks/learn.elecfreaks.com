@@ -1,8 +1,8 @@
 ---
 sidebar_position: 3
-sidebar_label: jacdac Smart Exploration Kit
+sidebar_label: Jacdac Smart Exploration Kit
 ---
-# jacdac Smart Exploration Kit
+# Jacdac Smart Exploration Kit
 
 ## Introduction
 

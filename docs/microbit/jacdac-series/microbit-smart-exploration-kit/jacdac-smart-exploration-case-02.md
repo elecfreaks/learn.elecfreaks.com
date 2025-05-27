@@ -1,7 +1,7 @@
 # 案例二：可视化的声音
 
 ## 简介
-  利用micro:bit的麦克风捕捉声音响度，micro:bit v2解析器强度，通过jacdac线缆控制灯环。轻按主板“B”键，功能开启；轻按“A”键，则功能关闭。
+  利用micro:bit的麦克风捕捉声音响度，micro:bit v2解析器强度，通过Jacdac线缆控制灯环。轻按主板“B”键，功能开启；轻按“A”键，则功能关闭。
 
 ---
 ## 案例目的
@@ -14,8 +14,8 @@
 |项目|图片|数量|
 |--|--|--|
 |micro:bit V2|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png)|1|
-|jacdac扩展板|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png)|1|
-|jacdac 10cm连接线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png)|1|
+|Jacdac扩展板|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png)|1|
+|Jacdac 10cm连接线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png)|1|
 |灯环|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20LED%20Ring.png)|1|
 |USB数据线|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png)|1|
 
@@ -29,7 +29,7 @@
 
 ---
 ## 连接示意图
-如下图所示，将micro:bit主板插入jacdac扩展板，使用连接线将灯环连接到jacdac扩展板金手指接口上。
+如下图所示，将micro:bit主板插入Jacdac扩展板，使用连接线将灯环连接到Jacdac扩展板金手指接口上。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-02.png)
 
@@ -40,7 +40,7 @@
 
 ---
 ## Makecode编程
-### 步骤1：如何添加jacdac扩展
+### 步骤1：如何添加Jacdac扩展
 1. 进入[微软makecode](https://makecode.microbit.org/#)，点击“新建项目”。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-07.png)
@@ -54,7 +54,7 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-09.png)
 
-4. 在弹出界面输入"jacdac"并点击搜索图标, 选择jacdac软件库，如图所示。
+4. 在弹出界面输入"Jacdac"并点击搜索图标, 选择Jacdac软件库，如图所示。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-3.png)
 
@@ -62,7 +62,7 @@
 ### 步骤2：
 1. 用数据线将micro:bit主板连接到计算机。
    
-   **注意**：若micro:bit主板初次运行jacdac程序，请先预装一个空白jacdac程序至主板，否则跳过此步骤。
+   **注意**：若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 

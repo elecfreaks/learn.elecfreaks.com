@@ -19,8 +19,8 @@ When the human infrared sensor detects a pedestrian passing by and the light sen
 |Item|Picture|Quantity|
 |--|--|--|
 |micro:bit V2|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png)|1|
-|jacdac Expansion board|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png)|1|
-|jacdac 10cm Connection Wire|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png)|2|
+|Jacdac Expansion board|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png)|1|
+|Jacdac 10cm Connection Wire|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png)|2|
 |Human infrared sensor|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Motion%20Sensor.png)|1|
 |Light Sensor|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Light%20Sensor.png)|1|
 |USB Cable|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png)|1|
@@ -43,7 +43,7 @@ Human infrared sensor: a sensor that senses human movement.
 
 ## Connection diagram
 
-As shown in the figure below, insert the micro:bit into the jacdac expansion board, and use the connecting wire to connect the light sensor and the human infrared sensor to the gold finger interface of the jacdac expansion board in a daisy chain manner.
+As shown in the figure below, insert the micro:bit into the Jacdac expansion board, and use the connecting wire to connect the light sensor and the human infrared sensor to the gold finger interface of the Jacdac expansion board in a daisy chain manner.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-04.png)
 
@@ -56,7 +56,7 @@ As shown in the figure below, insert the micro:bit into the jacdac expansion boa
 
 ## Makecode programming
 
-### Step 1: How to add jacdac extension
+### Step 1: How to add Jacdac extension
 
 1. Enter [Microsoft Makecode](https://makecode.microbit.org/#) and click "New Project".
 
@@ -71,7 +71,7 @@ As shown in the figure below, insert the micro:bit into the jacdac expansion boa
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-09.png)
 
-4. In the pop-up interface, enter "jacdac" and click the search icon, select the jacdac software library, as shown in the figure.
+4. In the pop-up interface, enter "Jacdac" and click the search icon, select the Jacdac software library, as shown in the figure.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-3.png)
 
@@ -80,7 +80,7 @@ As shown in the figure below, insert the micro:bit into the jacdac expansion boa
 
 1. Connect micro:bit to the computer with a data cable.
 
-**Note**: If the micro:bit is running the jacdac program for the first time, please pre-install a blank jacdac program on the motherboard, otherwise skip this step.
+**Note**: If the micro:bit is running the Jacdac program for the first time, please pre-install a blank Jacdac program on the motherboard, otherwise skip this step.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 

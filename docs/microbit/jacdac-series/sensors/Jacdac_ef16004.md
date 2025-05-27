@@ -1,36 +1,35 @@
 ---
-sidebar_position: 1
-sidebar_label: jacdac按钮传感器
+sidebar_position: 3
+sidebar_label: Jacdac温湿度传感器
 ---
 
-# 按钮传感器
-
+# 温湿度传感器
 ---
 ## 介绍
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-button-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-tempRH-sensor-01-02.png)
 
-### 特性
+## 特性
 
-**按钮传感器:** 简单易用的数字输入模块。它能够敏感地捕捉用户的按压操作，并将物理动作转换为数字信号，使连接的设备能够快速响应。它广泛应用于人机交互场景中，如开始和暂停控制，为各种项目增加便捷的操作体验。
+**温湿度传感器：** 可以实时感知周围空气的温度和相对湿度。无论是在智能家居系统中的室内环境控制，还是在农业温室中的温度和湿度警报，它都能提供准确的数据支持，以确保环境舒适和作物生长条件。
 
 ---
-### 规格
+
+## 规格
 |项目|参数|
 |---|---|
-|**名字**|按钮传感器|
-|**SKU**|EF16002|
-|**连接类型**|数字输出|
+|**名字**|温湿度传感器|
+|**SKU**|EF16004|
+|**连接类型**|模拟输出|
 |**工作电压**|4.15V|
-|**产品尺寸**|38.00mm×31.40mm （长×宽）|
+|**产品尺寸**|38.00mm×28.00mm （长×宽）|
 
 ---
-### 外观和尺寸
+## 外观和尺寸
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-button-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-tempRH-sensor-01.png)
 
 ---
-
 ## 产品链接
 暂无
 
@@ -39,7 +38,7 @@ sidebar_label: jacdac按钮传感器
 
 ### 硬件连接图
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-button-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-tempRH-sensor-01-01.png)
 
 ---
 ## 使用教程
@@ -50,7 +49,7 @@ sidebar_label: jacdac按钮传感器
 ---
 ### Makecode编程
 
-#### 步骤1：如何添加jacdac扩展
+#### 步骤1：如何添加Jacdac扩展
 1. 进入[微软makecode](https://makecode.microbit.org/#)，点击“新建项目”。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-07.png)
@@ -63,7 +62,7 @@ sidebar_label: jacdac按钮传感器
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-09.png)
 
-4. 在弹出界面输入"jacdac"并点击搜索图标, 选择jacdac软件库，如图所示。
+4. 在弹出界面输入"Jacdac"并点击搜索图标, 选择Jacdac软件库，如图所示。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-3.png)
 
@@ -71,7 +70,7 @@ sidebar_label: jacdac按钮传感器
 #### 步骤2：
 1. 用数据线将micro:bit主板连接到计算机。
    
-   **注意**：若micro:bit主板初次运行jacdac程序，请先预装一个空白jacdac程序至主板，否则跳过此步骤。
+   **注意**：若micro:bit主板初次运行jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 
@@ -88,15 +87,14 @@ sidebar_label: jacdac按钮传感器
 ---
 #### 如图编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-button-01-03.png)
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-TempRH-Sensor-01-03.png)
 
 ---
 ## 参考程序连接
 
 链接
 
-[https://makecode.microbit.org/_7C43iwgjJFuX](https://makecode.microbit.org/_7C43iwgjJFuX)
+[https://makecode.microbit.org/_eH55mKKVdATu](https://makecode.microbit.org/_eH55mKKVdATu)
 
 ---
 你还可以通过链接下载。
@@ -109,7 +107,7 @@ sidebar_label: jacdac按钮传感器
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_7C43iwgjJFuX"
+        src="https://makecode.microbit.org/_eH55mKKVdATu"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -123,4 +121,5 @@ sidebar_label: jacdac按钮传感器
 ---
 
 ## 结果
-按下按钮传感器，micro:bit显示“√”。松开按钮传感器，micro:bit 显示“×”
+
+检测到环境温度＞30°且环境湿度＞60%，micro:bit显示“笑脸”否则micro:bit显示“哭脸”。

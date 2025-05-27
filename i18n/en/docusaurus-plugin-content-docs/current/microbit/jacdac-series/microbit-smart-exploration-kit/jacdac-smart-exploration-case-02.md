@@ -19,8 +19,8 @@ Use the microphone of micro:bit to capture the sound loudness and the strength o
 |Item|Picture|Quantity|
 |--|--|--|
 |micro:bit V2|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png)|1|
-|jacdac expansion board|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png)|1|
-|jacdac 10cm connection wire|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png)|1|
+|Jacdac expansion board|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png)|1|
+|Jacdac 10cm connection wire|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png)|1|
 |Light Ring|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20LED%20Ring.png)|1|
 |USB Cable|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png)|1|
 
@@ -36,7 +36,7 @@ Light ring: a circular light ring composed of 8 RGB lights.
 
 ## Connection diagram
 
-As shown in the figure below, insert the micro:bit into the jacdac expansion board and use the connecting wire to connect the light ring to the gold finger interface of the jacdac expansion board.
+As shown in the figure below, insert the micro:bit into the Jacdac expansion board and use the connecting wire to connect the light ring to the gold finger interface of the Jacdac expansion board.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-02.png)
 
@@ -49,7 +49,7 @@ As shown in the figure below, insert the micro:bit into the jacdac expansion boa
 
 ## Makecode programming
 
-### Step 1: How to add jacdac extension
+### Step 1: How to add Jacdac extension
 
 1. Enter [Microsoft Makecode](https://makecode.microbit.org/#) and click "New Project".
 
@@ -64,7 +64,7 @@ As shown in the figure below, insert the micro:bit into the jacdac expansion boa
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-09.png)
 
-4. In the pop-up interface, enter "jacdac" and click the search icon, select the jacdac software library, as shown in the figure.
+4. In the pop-up interface, enter "Jacdac" and click the search icon, select the Jacdac software library, as shown in the figure.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-20.png)
 
@@ -72,7 +72,7 @@ As shown in the figure below, insert the micro:bit into the jacdac expansion boa
 ### Step 2：
 1. Connect micro:bit to the computer with a data cable.
    
-   **Note**: If the micro:bit is running the jacdac program for the first time, please pre-install a blank jacdac program to the micro:bit, otherwise skip this step.
+   **Note**: If the micro:bit is running the Jacdac program for the first time, please pre-install a blank Jacdac program to the micro:bit, otherwise skip this step.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 

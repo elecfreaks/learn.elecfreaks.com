@@ -62,7 +62,7 @@ sidebar_label:  Jacdac加速度陀螺仪
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-09.png)
 
-4. 在弹出界面输入"jacdac"并点击搜索图标, 选择jacdac软件库，如图所示。
+4. 在弹出界面输入"Jacdac"并点击搜索图标, 选择Jacdac软件库，如图所示。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-3.png)
 

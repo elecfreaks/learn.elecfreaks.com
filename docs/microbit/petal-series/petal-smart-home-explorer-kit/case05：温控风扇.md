@@ -1,21 +1,24 @@
 ---
-sidebar_position: 1
-sidebar_label: 智能灯
+sidebar_position: 7
+sidebar_label: 温控风扇
 ---
 
-# 智能灯
+# 温控风扇
 
 ## 简介
 
-在本项目中，我们将学习如何制作一个智能灯，采用micro:bit监测环境光照。当检测到光线不足时，系统自动启动LED灯，提供充足的照明。
+欢迎来到温控风扇的制作课堂！本项目使用micro:bit开发板、OLED显示屏、温湿度传感器和风扇模块，亲手制作一个能“感知温度”的智能小风扇，感受科技与生活的结合。
 
-<!-- 首图 -->
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-05-01.png)
+
 
 ## 教学目标
 
-了解micro:bit是如何检测光线强度的。
+认识温湿度传感器的功能，学会读取温度数据
 
-掌握使用micro:bit控制LED灯的基本编程技能。
+掌握风扇模块的控制方法和OLED显示屏的显示逻辑
+
+能用图形化编程实现“温度触发风扇启停”的智能逻辑
 
 ## 教学准备
 
@@ -31,15 +34,17 @@ sidebar_label: 智能灯
 
 ## 课程引入
 
-有些公共场所的灯是自动感应的，不需要用手按动开关，这样能够很好的节能减排，那么这个灯是如何实现智能开启的呢，我们能自己制作一个吗？
+夏天写作业时，风扇总是手动开关很麻烦？能不能让风扇自己“知道”什么时候该转？今天我们就来制作一个**温控风扇**：当温度超过设定值时，风扇自动启动送风；温度降低后，风扇自动停止。它就像一个贴心的小助手，帮我们保持舒适的学习环境！
+
 
 ## 项目制作
 
 ### 硬件连接
 
-将彩虹灯连接到悟空扩展板的P1接口。
+将温湿度传感器和OLED显示屏连接到花瓣基础扩展板的IIC接口，将风扇模块连接到花瓣基础扩展板的J1接口。
 
-<!-- 连线图 -->
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-05-02.png)
+
 
 ### 编程平台
 
@@ -75,9 +80,9 @@ sidebar_label: 智能灯
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_cvA28PcpAWLJ](https://makecode.microbit.org/_cvA28PcpAWLJ)
+示例程序：[https://makecode.microbit.org/_UbbhJc0mP75C](https://makecode.microbit.org/_UbbhJc0mP75C)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-05-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -89,7 +94,7 @@ sidebar_label: 智能灯
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_cvA28PcpAWLJ"
+        src="https://makecode.microbit.org/_UbbhJc0mP75C"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -143,28 +148,22 @@ sidebar_label: 智能灯
 
 ## 扩展知识
 
-**智能光控灯在生活中的应用**
+**温控风扇在生活中的应用**
 
-智能光控灯在生活中的应用非常广泛，它们通过智能化的控制提高了照明系统的便利性、节能性和舒适度。以下是一些具体的应用场景：
+**1. 家庭场景**
 
-家庭自动化：在家庭环境中，智能光控灯可以根据居民的日常生活习惯自动调节亮度和色温，比如在晚上自动降低亮度以营造舒适的睡眠环境，或者在早晨模拟日出逐渐亮起，帮助人们更自然地醒来。
+卧室 / 书房：代替传统手动风扇，自动调节室内温度
 
-节能照明：智能光控灯能够根据环境光线的变化自动开关，例如在自然光线充足时减少或关闭人工照明，从而节省能源。
+宠物窝 / 植物角：为小动物或植物提供舒适的温度环境（如多肉植物怕高温）
 
-安全照明：在安全监控领域，智能光控灯可以在检测到异常活动时自动亮起，起到警示和威慑作用。
+**2. 创意改造**
 
-商业照明：商场、超市和办公楼等商业环境中，智能光控灯可以根据人流量和时间自动调节照明，既节能又能满足不同场景的照明需求。
+桌面小空调：在风扇前放置冰块，降温效果更明显
 
-公共照明：在街道、公园和广场等公共区域，智能光控灯可以根据季节、天气和时间自动调整亮度，保证照明的均匀性和安全性。
+加湿风扇：搭配喷雾瓶，干燥时同时加湿（需额外材料）
 
-教育照明：在学校和图书馆等教育场所，智能光控灯可以提供适宜的光线，减少眼睛疲劳，提高学习效率。
+**3. 其他场景**
 
-医疗照明：在医院和诊所，智能光控灯可以根据不同的医疗活动和病人需求提供适当的照明，比如在手术室提供无影灯效果。
+小发明拓展：给风扇加装 LED 灯，风扇转动时显示彩色灯光
 
-酒店照明：酒店房间可以通过智能光控灯提供多种照明模式，如阅读模式、放松模式等，以提升住客的舒适度和满意度。
-
-智能窗帘系统：与智能窗帘系统结合，智能光控灯可以根据窗帘的开合自动调节亮度，确保室内光线的适宜。
-
-紧急照明：在紧急情况下，如火灾或地震，智能光控灯可以自动切换到紧急照明模式，引导人们安全疏散。
-
-智能光控灯的这些应用不仅提高了生活质量，还有助于节能减排，是现代智能家居和智能城市建设的重要组成部分。随着技术的进步和消费者对智能化需求的增加，智能光控灯的应用将更加广泛和深入。
+节能设计：白天光线充足时自动增强风力，夜晚光线暗时降低风力

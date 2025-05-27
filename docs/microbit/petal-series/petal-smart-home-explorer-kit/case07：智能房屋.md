@@ -1,21 +1,21 @@
 ---
-sidebar_position: 1
-sidebar_label: 智能灯
+sidebar_position: 9
+sidebar_label: 智能房屋
 ---
 
-# 智能灯
+# 智能房屋
 
 ## 简介
 
-在本项目中，我们将学习如何制作一个智能灯，采用micro:bit监测环境光照。当检测到光线不足时，系统自动启动LED灯，提供充足的照明。
+在本项目中，我们将学习如何制作一个智能房屋，结合前面的几个课程和结构件，实际制作一个拥有智能晾衣架、温控风扇、温湿度提醒、节能灯的综合性案例。
 
-<!-- 首图 -->
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-07-01.png)
 
 ## 教学目标
 
-了解micro:bit是如何检测光线强度的。
+复习前面学习的课程
 
-掌握使用micro:bit控制LED灯的基本编程技能。
+完成整体展示案例的综合制作
 
 ## 教学准备
 
@@ -31,15 +31,27 @@ sidebar_label: 智能灯
 
 ## 课程引入
 
-有些公共场所的灯是自动感应的，不需要用手按动开关，这样能够很好的节能减排，那么这个灯是如何实现智能开启的呢，我们能自己制作一个吗？
+在前面的课程中我们学习了智能晾衣架、温控风扇、温湿度提醒、节能灯等案例，这节课我们要制作一个综合性的小屋，把这些功能都集合起来，做一个智能房屋。
 
 ## 项目制作
 
 ### 硬件连接
 
-将彩虹灯连接到悟空扩展板的P1接口。
+将水位传感器连接到花瓣基础扩展板的J1接口，
 
-<!-- 连线图 -->
+将风扇模块连接到花瓣基础扩展板的J2接口，
+
+将RGB灯连接到花瓣基础扩展板的J3接口，
+
+将Adapter连接到花瓣基础扩展板的J4接口，
+
+将180度舵机连接到Adapter的S1接口，
+
+将温湿度传感器和OLED显示屏连接到花瓣基础扩展板的IIC接口。
+
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-07-02.png)
+
 
 ### 编程平台
 
@@ -75,9 +87,9 @@ sidebar_label: 智能灯
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_cvA28PcpAWLJ](https://makecode.microbit.org/_cvA28PcpAWLJ)
+示例程序：[https://makecode.microbit.org/_4yca1hJhV7d2](https://makecode.microbit.org/_4yca1hJhV7d2)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-07-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -89,7 +101,7 @@ sidebar_label: 智能灯
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_cvA28PcpAWLJ"
+        src="https://makecode.microbit.org/_4yca1hJhV7d2"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -137,7 +149,10 @@ sidebar_label: 智能灯
 
 ### 结果
 
-开机后，智能灯根据环境光强度自动点亮或者熄灭彩虹灯。
+  - 智能灯光：光线控制彩虹灯
+  - 智能晾衣架：水位传感器检测，当检测到雨水时，自动收起晾衣架
+  - 温控风扇：自动控温风扇
+  - 居住环境检测：通过OLED显示屏显示当前的温湿度、噪音、光线强度、是否降雨等信息
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/1.gif)
 

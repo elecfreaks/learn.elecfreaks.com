@@ -1,21 +1,24 @@
 ---
-sidebar_position: 1
-sidebar_label: 智能灯
+sidebar_position: 5
+sidebar_label: 楼道灯
 ---
 
-# 智能灯
+# 楼道灯
 
 ## 简介
 
-在本项目中，我们将学习如何制作一个智能灯，采用micro:bit监测环境光照。当检测到光线不足时，系统自动启动LED灯，提供充足的照明。
+本项目基于micro:bit开发板，利用**板载噪音检测模块**和**光线传感器**，结合外接RGB LED灯，实现环境光与声音的双重智能响应。当检测到**光线不足且噪音超过阈值**时，RGB灯自动亮起；环境恢复安静或光线充足时，灯光自动熄灭，适用于智能家居、创意互动装置等场景。
 
-<!-- 首图 -->
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-03-01.png)
+
 
 ## 教学目标
 
-了解micro:bit是如何检测光线强度的。
+掌握micro:bit板载传感器（光线、噪音）的实时数据采集方法
 
-掌握使用micro:bit控制LED灯的基本编程技能。
+学会多条件判断（逻辑与/或）
+
+理解环境数据联动照明的智能控制逻辑
 
 ## 教学准备
 
@@ -31,15 +34,18 @@ sidebar_label: 智能灯
 
 ## 课程引入
 
-有些公共场所的灯是自动感应的，不需要用手按动开关，这样能够很好的节能减排，那么这个灯是如何实现智能开启的呢，我们能自己制作一个吗？
+公共场所的智能灯如何实现自动感应？本项目将通过micro:bit的**光线+噪音双重检测**，模拟楼道灯的智能开关逻辑——只有在光线昏暗且有声音（如 footsteps）时才自动开灯，既节能又贴合实际需求。
+
+**思考互动**：为什么楼道灯需要同时检测光线和声音？单一传感器可能存在什么缺陷？
 
 ## 项目制作
 
 ### 硬件连接
 
-将彩虹灯连接到悟空扩展板的P1接口。
+将彩虹灯连接到花瓣基础扩展板的J1接口。
 
-<!-- 连线图 -->
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-03-02.png)
+
 
 ### 编程平台
 
@@ -75,9 +81,9 @@ sidebar_label: 智能灯
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_cvA28PcpAWLJ](https://makecode.microbit.org/_cvA28PcpAWLJ)
+示例程序：[https://makecode.microbit.org/_AidEXMgeMAJt](https://makecode.microbit.org/_AidEXMgeMAJt)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-03-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -89,7 +95,7 @@ sidebar_label: 智能灯
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_cvA28PcpAWLJ"
+        src="https://makecode.microbit.org/_AidEXMgeMAJt"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -137,34 +143,33 @@ sidebar_label: 智能灯
 
 ### 结果
 
-开机后，智能灯根据环境光强度自动点亮或者熄灭彩虹灯。
+开机后，楼道灯根据光线强度和环境光强度自动开启或者关闭LED灯。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/1.gif)
 
 ## 扩展知识
 
-**智能光控灯在生活中的应用**
+**楼道灯的应用场景延伸**
 
-智能光控灯在生活中的应用非常广泛，它们通过智能化的控制提高了照明系统的便利性、节能性和舒适度。以下是一些具体的应用场景：
+**一、住宅楼道**
 
-家庭自动化：在家庭环境中，智能光控灯可以根据居民的日常生活习惯自动调节亮度和色温，比如在晚上自动降低亮度以营造舒适的睡眠环境，或者在早晨模拟日出逐渐亮起，帮助人们更自然地醒来。
+基础功能：夜间光线暗 + 有声音（如脚步声）时自动亮灯，安静 / 天亮后熄灭
 
-节能照明：智能光控灯能够根据环境光线的变化自动开关，例如在自然光线充足时减少或关闭人工照明，从而节省能源。
+优化：增加 10-30 秒延时关灯，避免频繁触发
 
-安全照明：在安全监控领域，智能光控灯可以在检测到异常活动时自动亮起，起到警示和威慑作用。
+**二、医院 / 养老院**
 
-商业照明：商场、超市和办公楼等商业环境中，智能光控灯可以根据人流量和时间自动调节照明，既节能又能满足不同场景的照明需求。
+核心需求：静音模式（用人体红外替代噪音检测），避免打扰病人
 
-公共照明：在街道、公园和广场等公共区域，智能光控灯可以根据季节、天气和时间自动调整亮度，保证照明的均匀性和安全性。
+升级：紧急呼叫时楼道灯闪烁指引方向
 
-教育照明：在学校和图书馆等教育场所，智能光控灯可以提供适宜的光线，减少眼睛疲劳，提高学习效率。
+**三、工业厂房**
 
-医疗照明：在医院和诊所，智能光控灯可以根据不同的医疗活动和病人需求提供适当的照明，比如在手术室提供无影灯效果。
+特殊需求：抗粉尘、振动，危险区域警示
 
-酒店照明：酒店房间可以通过智能光控灯提供多种照明模式，如阅读模式、放松模式等，以提升住客的舒适度和满意度。
+方案：用红外对管替代光线传感器，设备运行时亮红灯警示
 
-智能窗帘系统：与智能窗帘系统结合，智能光控灯可以根据窗帘的开合自动调节亮度，确保室内光线的适宜。
+**四、校园 / 办公楼**
 
-紧急照明：在紧急情况下，如火灾或地震，智能光控灯可以自动切换到紧急照明模式，引导人们安全疏散。
+高频场景：人流量大，需动态调节亮度
 
-智能光控灯的这些应用不仅提高了生活质量，还有助于节能减排，是现代智能家居和智能城市建设的重要组成部分。随着技术的进步和消费者对智能化需求的增加，智能光控灯的应用将更加广泛和深入。
+优化：噪音越大灯光越亮，火灾时切换绿色疏散指引光

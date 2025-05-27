@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 sidebar_label: 智能灯
 ---
 
@@ -7,9 +7,9 @@ sidebar_label: 智能灯
 
 ## 简介
 
-在本项目中，我们将学习如何制作一个智能灯，采用micro:bit监测环境光照。当检测到光线不足时，系统自动启动LED灯，提供充足的照明。
+在本项目中，我们将学习如何制作一个智能灯，采用micro:bit监测环境光照。当检测到光线不足时，系统自动触发LED灯组提供照明，实现自动化光控功能。
 
-<!-- 首图 -->
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-01-01.png)
 
 ## 教学目标
 
@@ -17,13 +17,15 @@ sidebar_label: 智能灯
 
 掌握使用micro:bit控制LED灯的基本编程技能。
 
+理解光控逻辑在智能家居中的实际应用场景。
+
 ## 教学准备
 
 在开始教学之前，请确保您已经准备好以下必要的材料：
 
 | **图片** | **名称** | **数量** | **备注** |
 | --- | --- | --- | --- |
-| <!-- 套装产品图 -->| 智能家居探索者套装 | 1 |  |
+| | 智能家居探索者套装 | 1 |  |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit.png) | micro:bit | 1 | 自行准备 |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/pc.png) | PC | 1 | 自行准备 |
 
@@ -31,15 +33,21 @@ sidebar_label: 智能灯
 
 ## 课程引入
 
-有些公共场所的灯是自动感应的，不需要用手按动开关，这样能够很好的节能减排，那么这个灯是如何实现智能开启的呢，我们能自己制作一个吗？
+在现代建筑中，光控照明系统已广泛应用于：
+- 地下车库自动启停照明
+- 教室自然光联动补光系统
+- 智能家居夜间自动感应夜灯
+其核心原理是通过光敏元件将光信号转化为电信号，再由微控制器执行逻辑判断。
+
+**思考互动**：观察生活中光控灯的工作特点，尝试分析其与手动开关灯的本质区别？
 
 ## 项目制作
 
 ### 硬件连接
 
-将彩虹灯连接到悟空扩展板的P1接口。
+将彩虹灯连接到花瓣基础扩展板的J1接口。
 
-<!-- 连线图 -->
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-01-02.png)
 
 ### 编程平台
 
@@ -75,9 +83,9 @@ sidebar_label: 智能灯
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_cvA28PcpAWLJ](https://makecode.microbit.org/_cvA28PcpAWLJ)
+示例程序：[https://makecode.microbit.org/_7Yv4EfLiC53y](https://makecode.microbit.org/_7Yv4EfLiC53y)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-01-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -89,7 +97,7 @@ sidebar_label: 智能灯
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_cvA28PcpAWLJ"
+        src="https://makecode.microbit.org/_7Yv4EfLiC53y"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -139,7 +147,7 @@ sidebar_label: 智能灯
 
 开机后，智能灯根据环境光强度自动点亮或者熄灭彩虹灯。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/1.gif)
+
 
 ## 扩展知识
 

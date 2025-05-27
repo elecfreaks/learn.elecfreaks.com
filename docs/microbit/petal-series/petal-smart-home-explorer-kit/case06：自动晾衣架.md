@@ -1,21 +1,24 @@
 ---
-sidebar_position: 1
-sidebar_label: 智能灯
+sidebar_position: 8
+sidebar_label: 智能晾衣架
 ---
 
-# 智能灯
+# 智能晾衣架
 
 ## 简介
 
-在本项目中，我们将学习如何制作一个智能灯，采用micro:bit监测环境光照。当检测到光线不足时，系统自动启动LED灯，提供充足的照明。
+在本项目中，我们将学习如何制作一个智能晾衣架，本项目使用micro:bit开发板、水位传感器和舵机，通过花瓣基础扩展板连接，实现雨天自动收回晾衣杆、晴天自动伸出的智能功能。亲手制作一个能“感知天气”的晾衣架，体验物联网在生活中的应用。
 
-<!-- 首图 -->
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-06-01.png)
+
 
 ## 教学目标
 
-了解micro:bit是如何检测光线强度的。
+认识水位传感器的作用，学会检测雨水
 
-掌握使用micro:bit控制LED灯的基本编程技能。
+掌握舵机的控制方法，实现晾衣杆的自动伸缩
+
+能用图形化编程实现“雨水触发晾衣杆动作”的逻辑
 
 ## 教学准备
 
@@ -31,15 +34,16 @@ sidebar_label: 智能灯
 
 ## 课程引入
 
-有些公共场所的灯是自动感应的，不需要用手按动开关，这样能够很好的节能减排，那么这个灯是如何实现智能开启的呢，我们能自己制作一个吗？
+晾衣服时遇到突然下雨怎么办？传统晾衣架需要手动收回，容易淋湿衣物。今天我们要制作一个**自动晾衣架**：当水位传感器检测到雨水时，舵机会自动转动收回晾衣杆；雨停后，晾衣架又能自动伸出。再也不用担心忘记收衣服啦！
 
 ## 项目制作
 
 ### 硬件连接
 
-将彩虹灯连接到悟空扩展板的P1接口。
+将水位传感器连接到花瓣基础扩展板的J1接口，将Adapter连接到花瓣基础扩展板的J2接口，将舵机连接到Adapter的S1接口。
 
-<!-- 连线图 -->
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-06-02.png)
+
 
 ### 编程平台
 
@@ -75,7 +79,7 @@ sidebar_label: 智能灯
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_cvA28PcpAWLJ](https://makecode.microbit.org/_cvA28PcpAWLJ)
+示例程序：[https://makecode.microbit.org/_beJ7yi8TR0bJ](https://makecode.microbit.org/_beJ7yi8TR0bJ)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-01-03.png)
 
@@ -89,7 +93,7 @@ sidebar_label: 智能灯
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_cvA28PcpAWLJ"
+        src="https://makecode.microbit.org/_beJ7yi8TR0bJ"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

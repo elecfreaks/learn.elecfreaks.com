@@ -45,7 +45,6 @@ sidebar_label: 案例十三:秒表
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-13-03.png)
 
-
 ## 代码编程
 
 进入“[makecode.microbit.org](https://makecode.microbit.org)”，点击**新建项目**。

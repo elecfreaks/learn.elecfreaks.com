@@ -7,12 +7,12 @@
 
 ---
 ## 产品清单 
-
+**图片** 
 
 ---
 ## 产品参数
 |**项目**|**参数**|
-| ：-----：| ：-----： |
+| :----------: | :--------------------------: |
 |**产品名称**|micro:bit Nezha Pro Ocean Kit |
 |**SKU**|EF08436|
 |**产品重量**|****|
@@ -97,8 +97,18 @@
 
 ---
 ### 传感介绍
-|名称|图片|说明|
+|名称|图片|简介|
 |---|---|---|
+|OLED显示屏|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-planetx-02.png)|OLED显示屏，用于在屏幕上打印想要显示的数据信息（不支持显示中文）|
+|行星系列碰撞传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-planetx-03.png)|行星系列碰撞传感器，碰撞传感器是一种基于碰撞元件的传感器模块，可用于碰撞检测。|
+|超声波传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-planetx-04.png)|超声波传感器用于短距离测量。|
+|行星系列八颗灯环|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-planetx-05.png)|行星系列八颗灯环，彩虹灯环可以显示RGB颜色。|
+||![]()||
+||![]()||
+||![]()||
+||![]()||
+||![]()||
+||![]()||
 
 ---
 ### 案例知识架构

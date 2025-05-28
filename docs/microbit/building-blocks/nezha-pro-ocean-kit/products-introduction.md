@@ -12,7 +12,7 @@
 ---
 ## 产品参数
 |**项目**|**参数**|
-|---|---|
+|：---：|---|
 |**产品名称**|micro:bit Nezha Pro Ocean Kit |
 |**SKU**|EF08436|
 |**产品重量**|****|
@@ -86,9 +86,13 @@
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-motor02.png)
 
 1.PlanetX智能电机是一种结合了高精度伺服和高效率电机特性的智能电机。
+
 2.实现电机旋转角度精准控制与反馈，更好的实现运动控制。
+
 3.扭力大，反应速度快，适合更多高扭矩的应用场景。
+
 4.电机设有温度保护、电压保护、堵转保护等功能，让使用者放心无忧。
+
 5.兼容积木结构件，解锁更多玩法。
 
 ---

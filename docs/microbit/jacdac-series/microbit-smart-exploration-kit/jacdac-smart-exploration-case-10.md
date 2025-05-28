@@ -7,9 +7,9 @@
 ---
 ## 案例目的：
 
-1.认识MakeCode中的变量积木
+1.认识MakeCode中的变量积木块
 
-2.认识MakeCode中的For循环积木
+2.认识MakeCode中的For循环积木快
 
 ---
 ## 所需材料：

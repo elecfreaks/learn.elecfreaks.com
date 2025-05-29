@@ -95,7 +95,7 @@ sidebar_label: Jacdac 灯环
 
 链接
 
-[https://makecode.microbit.org/S31641-04208-03004-97894](https://makecode.microbit.org/S31641-04208-03004-97894)
+[https://makecode.microbit.org/_DdMYKefUdJ33](https://makecode.microbit.org/_DdMYKefUdJ33)
 
 ---
 你还可以通过链接下载
@@ -108,7 +108,7 @@ sidebar_label: Jacdac 灯环
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/S31641-04208-03004-97894"
+        src="https://makecode.microbit.org/_DdMYKefUdJ33"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

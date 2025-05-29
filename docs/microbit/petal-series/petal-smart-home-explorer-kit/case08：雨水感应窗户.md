@@ -1,24 +1,21 @@
 ---
-sidebar_position: 8
-sidebar_label: 智能晾衣架
+sidebar_position: 10
+sidebar_label: 雨水感应窗户
 ---
 
-# 智能晾衣架
+# 雨水感应窗户
 
 ## 简介
 
-在本项目中，我们将学习如何制作一个智能晾衣架，本项目使用micro:bit开发板、水位传感器和舵机，通过花瓣基础扩展板连接，实现雨天自动收回晾衣杆、晴天自动伸出的智能功能。亲手制作一个能“感知天气”的晾衣架，体验物联网在生活中的应用。
+在本项目中，我们将学习如何制作一个雨水感应窗户。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-06-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-08-01.png)
 
+**注意：此案例无法使用套装结构件进行实际的应用场景模拟，但可以实现基本的案例制作。**
 
 ## 教学目标
 
-认识水位传感器的作用，学会检测雨水
-
-掌握舵机的控制方法，实现晾衣杆的自动伸缩
-
-能用图形化编程实现“雨水触发晾衣杆动作”的逻辑
+了解雨水感应窗户的工作原理
 
 ## 教学准备
 
@@ -34,15 +31,25 @@ sidebar_label: 智能晾衣架
 
 ## 课程引入
 
-晾衣服时遇到突然下雨怎么办？传统晾衣架需要手动收回，容易淋湿衣物。今天我们要制作一个**自动晾衣架**：当水位传感器检测到雨水时，舵机会自动转动收回晾衣杆；雨停后，晾衣架又能自动伸出。再也不用担心忘记收衣服啦！
+这节课我们将制作一个雨水感应窗，在下雨的时候自动关窗户。
+雨水感应窗通过水位传感器检测窗台雨水堆积情况，当检测到雨水时，自动驱动舵机升起窗沿挡板防止雨水溅入室内，同时 OLED 显示器显示 “雨天模式”，彩虹灯呈现蓝色呼吸灯效，为家居生活提供智能防护。
 
 ## 项目制作
 
 ### 硬件连接
 
-将水位传感器连接到花瓣基础扩展板的J1接口，将Adapter连接到花瓣基础扩展板的J2接口，将舵机连接到Adapter的S1接口。
+将水位传感器连接到花瓣基础扩展板的J1接口，
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-06-02.png)
+将RGB灯连接到花瓣基础扩展板的J3接口，
+
+将Adapter连接到花瓣基础扩展板的J4接口，
+
+将180度舵机连接到Adapter的S1接口，
+
+将OLED显示屏连接到花瓣基础扩展板的IIC接口。
+
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-08-02.png)
 
 
 ### 编程平台
@@ -79,9 +86,9 @@ sidebar_label: 智能晾衣架
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_beJ7yi8TR0bJ](https://makecode.microbit.org/_beJ7yi8TR0bJ)
+示例程序：[https://makecode.microbit.org/_bzq5Xj70wJDt](https://makecode.microbit.org/_bzq5Xj70wJDt)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-08-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -93,7 +100,7 @@ sidebar_label: 智能晾衣架
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_beJ7yi8TR0bJ"
+        src="https://makecode.microbit.org/_bzq5Xj70wJDt"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -141,8 +148,6 @@ sidebar_label: 智能晾衣架
 
 ### 结果
 
-开机后，智能灯根据环境光强度自动点亮或者熄灭彩虹灯。
+当检测到雨水时，自动驱动舵机升起窗沿挡板防止雨水溅入室内，同时 OLED 显示器显示 “雨天模式”，彩虹灯呈现蓝色呼吸灯效，为家居生活提供智能防护。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/1.gif)
-
-## 扩展知识

@@ -136,3 +136,4 @@ You can also download it via the embedded link below:
 ## Results
 
 If the soil moisture sensor reading is <50%, the micro:bit displays "√"; otherwise, it displays "×".
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Malsture-06-08.gif)

@@ -37,7 +37,7 @@ sidebar_label:  Jacdac系列扩展板
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-bit-01-07.png)
 
 
-01:电源的选择开关,选择micro：bit由micro：bit主板向Jacdac模块供电，可以在MakeCode中的设备仿真区可以实时反馈Jacdac传感器的数值，选择电源需要外接电源模块进行供电。
+01: 电源的选择开关,选择micro：bit由micro：bit主板向Jacdac模块供电，可以在MakeCode中的设备仿真区可以实时反馈Jacdac传感器的数值，选择电源需要外接电源模块进行供电。
 
 02：micro:bit插座。
 

@@ -125,3 +125,4 @@ sidebar_label: Jacdac 旋转编码器
 ## 结果
 
 旋转编码器旋转角度＞0，micro:bit显示“√”。否则micro:bit显示“×”
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Rotary-Encoder-03-08.gif)

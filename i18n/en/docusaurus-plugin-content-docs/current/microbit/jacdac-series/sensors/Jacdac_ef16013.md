@@ -127,3 +127,4 @@ You can also download it via the embedded link:
 ## Results
 
 When the magnetic sensor detects a magnet, the micro:bit displays "√"; otherwise, it displays "×"
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0321.gif)

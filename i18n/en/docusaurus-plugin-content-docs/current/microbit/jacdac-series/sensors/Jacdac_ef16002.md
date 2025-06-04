@@ -135,3 +135,4 @@ You can also download it via the embedded link below:
 ## Results
 
 When the button sensor is pressed, the micro:bit displays "√"; when released, it displays "×".
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Button-01-08.gif)

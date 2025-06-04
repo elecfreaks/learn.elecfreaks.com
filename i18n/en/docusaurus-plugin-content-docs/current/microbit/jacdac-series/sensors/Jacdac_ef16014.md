@@ -131,3 +131,4 @@ You can also download it via the embedded link:
 - When it tilts right, the micro:bit displays "√".
 - When it tilts upward, the micro:bit displays "❤️".
 - When it tilts downward, the micro:bit displays "♡".
+- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Gyro-09-08.gif)

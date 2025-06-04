@@ -125,4 +125,4 @@ sidebar_label:  Jacdac磁力传感器
 
 ## 结果
 磁力传感器检测磁铁，micro:bit 显示“√”，否则micro:bit 显示“×”。
-![]()
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0321.gif)

@@ -114,6 +114,7 @@
 ## 结果
 
 当按钮传感器被按下时，micro:bit主板显示“爱心”并播放声音，通过蓝牙通讯的方式给另一个micro:bit主板发送信息，当另一个主板接收信息后，显示图案与播放声音。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0821.gif)
 
 ## 思考
 

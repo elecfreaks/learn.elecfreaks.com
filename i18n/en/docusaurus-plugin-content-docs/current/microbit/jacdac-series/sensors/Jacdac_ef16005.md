@@ -122,3 +122,4 @@ https://makecode.microbit.org/_AAALazD9MevC
 ## Result
 
 When the detected ambient light intensity is **< 10**, the micro:bit displays "√"; otherwise, it displays "×".
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Light-05-01.gif)

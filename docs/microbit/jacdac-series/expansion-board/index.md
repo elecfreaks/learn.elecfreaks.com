@@ -144,3 +144,5 @@ sidebar_label:  Jacdac系列扩展板
 </div>
 
 ---
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Buzzer-08-08.gif)

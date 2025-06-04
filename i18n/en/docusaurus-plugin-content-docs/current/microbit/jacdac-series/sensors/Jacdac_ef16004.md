@@ -133,3 +133,4 @@ You can also download it via the embedded link below:
 ## Results
 
 When the detected ambient temperature is **> 30°C** and humidity is **> 60%**, the micro:bit displays a "smiley face"; otherwise, it displays a "crying face".
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Humidity%2BTemperature-04-08.gif)

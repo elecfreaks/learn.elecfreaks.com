@@ -130,3 +130,4 @@ You can also download it via the link.
 ## Result
 
 When the human infrared sensor detects human movement, the micro:bit displays "√"; otherwise, it displays "×".
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Motion-11-08.gif)

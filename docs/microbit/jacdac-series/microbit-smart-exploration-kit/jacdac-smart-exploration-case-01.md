@@ -113,7 +113,9 @@
 ## 结果
 
  当按下按钮传感器，micro:bit主板随机出现数字1~6.
+
  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0121.gif)
+
 
 ## 思考
 

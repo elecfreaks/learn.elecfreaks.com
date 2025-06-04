@@ -130,3 +130,5 @@ You can also download and run it via the embedded link:
 ## Result
 
 When pressing button A on the micro:bit, the buzzer emits a sound.
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Buzzer-08-08.gif)
+

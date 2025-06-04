@@ -123,3 +123,4 @@ sidebar_label: Jacdac 灯环
 
 ## 结果
 按下micro:bit的A按钮，灯环亮红色灯，按下 micro:bit的B按钮，灯环关闭灯光。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-LED-Ring-12-08.gif)

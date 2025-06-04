@@ -119,6 +119,7 @@
 ## 结果
 
 人体红外传感器检测到行人经过，且光敏传感器检测到环境光强度小于5%，micro:bit显示“爱心”。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0421.gif)
 
 ## 思考
 

@@ -115,6 +115,7 @@ You can also download the program directly from the following webpage and start 
 ## Result
 
 When the A button sensor is detected to be pressed, one LED light will be lit in the two columns of LED lights on the left side of the micro:bit motherboard for counting. Similarly, when the B button sensor is detected to be pressed, one LED light will be lit in the two columns of LED lights on the right side of the motherboard for counting. The goal of the game is to see who can quickly press the corresponding button sensor 10 times, and that player will be the winner. If you need to restart the game, press the reset button of the micro:bit motherboard.
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0921.gif)
 
 ## Thinking
 

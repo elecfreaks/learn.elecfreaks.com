@@ -130,6 +130,8 @@
 
 **如果需要重新开始游戏，请按micro:bit主板复位键，注意旋转编码不会初始化位置。**
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-01021.gif)
+
  
 ## 思考
 

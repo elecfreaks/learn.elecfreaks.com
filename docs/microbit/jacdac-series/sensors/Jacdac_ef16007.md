@@ -124,3 +124,4 @@ sidebar_label:  Jacdac蜂鸣器
 
 ## 结果
 按下micro:bit的按键A，蜂鸣器发出声音。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Buzzer-08-08.gif)

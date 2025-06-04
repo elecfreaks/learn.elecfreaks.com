@@ -127,3 +127,4 @@ You can also download and run it via the embedded link:
 ## Result
 
 Press the A button on the micro:bit, and the LED ring lights up red; press the B button, and the LED ring turns off.
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-LED-Ring-12-08.gif)

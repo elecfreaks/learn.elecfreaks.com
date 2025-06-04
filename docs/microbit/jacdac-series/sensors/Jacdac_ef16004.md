@@ -123,3 +123,4 @@ sidebar_label: Jacdac温湿度传感器
 ## 结果
 
 检测到环境温度＞30°且环境湿度＞60%，micro:bit显示“笑脸”否则micro:bit显示“哭脸”。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Humidity%2BTemperature-04-08.gif)

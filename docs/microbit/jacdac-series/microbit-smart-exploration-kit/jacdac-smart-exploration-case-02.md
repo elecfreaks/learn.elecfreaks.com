@@ -113,6 +113,7 @@
 ## 结果
 
 micro:bit的麦克风检测环境声音响度，灯环LED灯会随着声音响度大小呈现圆形进行跳动，按下micro:bit主板按钮A打开LED灯，按下主板按钮B关闭LED灯。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0221.gif)
 
 ## 思考
 

@@ -43,7 +43,7 @@ sidebar_label:  Jacdac系列扩展板
 
 03：积木扩展结构件。
 
-04：Jacdac标准螺丝孔。
+04：Jacdac标准螺丝孔,从标记位置起顺时针分别为GND、PWR、DATA、DATA接口。
 
 05： Jacdac金手指 PWR引脚
 

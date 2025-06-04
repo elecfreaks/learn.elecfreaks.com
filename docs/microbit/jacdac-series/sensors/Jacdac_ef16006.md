@@ -124,3 +124,4 @@ sidebar_label:  Jacdac土壤湿度传感器
 
 ## 结果
 土壤湿度传感器反馈的值＜50%，micro:bit显示“√”否则micro:bit显示“×”。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Malsture-06-08.gif)

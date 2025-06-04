@@ -43,12 +43,21 @@ sidebar_label:  Jacdac Expansion Board
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-bit-01-07.png)
 
 01: Power selection switch. When selecting power supply from the micro:bit to Jacdac modules, real-time feedback of Jacdac sensor values can be viewed in the device emulator of MakeCode. For an external power supply, connect a power module.
+
 02: micro:bit socket.
+
 03: Building block expansion structure.
+
 04: Jacdac standard screw holes (clockwise from the mark: GND, PWR, DATA, DATA interfaces).
+
 05: Jacdac gold finger (PWR pin).
+
 06: Jacdac gold finger (GND pin).
-07: Jacdac gold finger (DATA pin).Product Links
+
+07: Jacdac gold finger (DATA pin).
+
+---
+Product Links
 
 None
 

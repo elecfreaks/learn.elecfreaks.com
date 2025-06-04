@@ -126,3 +126,4 @@ sidebar_label: Jacdac人体红外传感器
 
 ## 结果
 人体红外传感器检测人体在移动，micro:bit 显示“√”，否则micro:bit 显示“×”。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Motion-11-08.gif)

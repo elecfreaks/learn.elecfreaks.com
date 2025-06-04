@@ -121,6 +121,7 @@ You can also download the program directly from the following webpage, and start
 ## Result
 
 When the button sensor is pressed, numbers 1 to 6 appear randomly on the micro:bit screen.
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0121.gif)
 
 ## Thinking
 

@@ -122,6 +122,7 @@ You can also download the program directly from the following webpage, and start
 ## Result
 
 When the magnetic sensor detects a magnet, the micro:bit displays the "√" icon and makes a sound. When the magnet moves away from the magnetic sensor, the micro:bit displays the "×" icon.
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0321.gif)
 
 ## Thinking
 

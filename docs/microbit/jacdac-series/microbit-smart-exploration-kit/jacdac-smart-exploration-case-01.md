@@ -114,7 +114,11 @@
 
  当按下按钮传感器，micro:bit主板随机出现数字1~6.
 
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0121.gif)
+
+
 ## 思考
 
 在本案例的中，micro:bit主板除了显示数字外，还有用哪些方式表达数字。
+
 

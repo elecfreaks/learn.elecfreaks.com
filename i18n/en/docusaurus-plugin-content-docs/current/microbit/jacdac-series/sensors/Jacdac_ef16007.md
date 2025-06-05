@@ -1,105 +1,110 @@
 ---
-sidebar_position: 6
-sidebar_label:  Jacdac蜂鸣器
+sidebar_position: 3
+sidebar_label: Jacdac Buzzer
 ---
 
-# 蜂鸣器
+# Buzzer
 
----
-## 介绍
+------
+
+## Introduction
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-buzzer-01-02.png)
 
-### 特性
+### Features
 
-**蜂鸣器:** 
+**Buzzer:**
 
----
-### 规格
-|项目|参数|
-|---|---|
-|**名字**|蜂鸣器|
-|**SKU**|EF16007|
-|**连接类型**|执行器|
-|**工作电压**|4.15V|
-|**产品尺寸**|38.00mm×28.20mm（长×宽）|
+------
 
----
-### 外观和尺寸
+### Specifications
+
+| Item                  | Parameter             |
+| --------------------- | --------------------- |
+| **Name**              | Buzzer                |
+| **SKU**               | EF16007               |
+| **Connection**        | Actuator              |
+| **Operating Voltage** | 4.15V                 |
+| **Product Size**      | 38.00mm×28.20mm (L×W) |
+
+------
+
+### Appearance and Dimensions
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-buzzer-01.png)
 
 ---
 
-## 产品链接
-暂无
+## Product Links
 
----
-## 快速开始
+None
 
-### 硬件连接图
+------
+
+## Quick Start
+
+### Hardware Connection Diagram
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-buzzer-01-01.png)
 
 ---
-## 使用教程
-### 编程软件
+## Usage Tutorials
 
-[微软makecode](https://makecode.microbit.org/#)
+## Programming Software
 
----
-### Makecode编程
+[Microsoft MakeCode](https://makecode.microbit.org/#)
 
-#### 步骤1：如何添加jacdac扩展
-1. 进入[微软makecode](https://makecode.microbit.org/#)，点击“新建项目”。
+## MakeCode Programming
+
+#### Step 1: How to Add Jacdac Extension
+
+1. Go to [Microsoft MakeCode](https://makecode.microbit.org/#) and click "New Project".
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-07.png)
 
-2. 在弹出窗口输入项目名称并点击创建。
+2. Enter the project name in the pop-up window and click "Create".
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-11.png)
 
-3. 点击代码抽屉中的“扩展”。
+3. Click "Extensions" in the code drawer.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-09.png)
 
-4. 在弹出界面输入"Jacdac"并点击搜索图标, 选择Jacdac软件库，如图所示。
+4. Enter "Jacdac" in the pop-up interface, click the search icon, and select the Jacdac library as shown.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-3.png)
 
 ---
-#### 步骤2：
-1. 用数据线将micro:bit主板连接到计算机。
-   
-   **注意**：若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
+#### Step 2:
+
+1. Connect the micro:bit to the computer with a data cable.
+   **Note:** If the micro:bit runs a Jacdac program for the first time, please pre-install a blank Jacdac program on the micro:bit first; otherwise, skip this step.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 
-2. 连接传感器，MakeCode自动识别并仿真呈现，在仿真区内传感器实时反馈传感器状态。
+2. Connect the sensor. MakeCode will automatically recognize it and simulate its status in real time in the simulation area.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/1jacdac-smart-exploration-kit-6.png)
 
-3. 点击“ADD BLOCKS”传感器扩展模块。
-   
-   **注意**：连接新的传感器，重复执行一次“点击“ADD BLOCKS”传感器扩展模块”操作流程。
+3. Click "ADD BLOCKS" for the sensor extension module.
+   **Note:** When connecting a new sensor, repeat the operation of clicking "ADD BLOCKS" for the sensor extension module.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-7.png)
 
 ---
-#### 如图编写程序
+#### Program Code Example
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Buzzer-01-03.png)
 
 
 ---
-## 参考程序连接
+## Reference Program Link
 
-链接
+https://makecode.microbit.org/_bW1btg9VzLg9
 
-[https://makecode.microbit.org/_Trw28pdDFhf4](https://makecode.microbit.org/_Trw28pdDFhf4)
 
----
-你还可以通过链接下载。
+
+You can also download and run it via the embedded link:
 
 <div
     style={{
@@ -122,5 +127,8 @@ sidebar_label:  Jacdac蜂鸣器
 
 ---
 
-## 结果
-按下micro:bit的按键A，蜂鸣器发出声音。
+## Result
+
+When pressing button A on the micro:bit, the buzzer emits a sound.
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Buzzer-08-08.gif)
+

@@ -33,6 +33,26 @@ sidebar_label:  Jacdac系列扩展板
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-bit-01.png)
 
 ---
+### Jacdac扩展板介绍
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-bit-01-07.png)
+
+
+01: 电源的选择开关,选择micro：bit由micro：bit主板向Jacdac模块供电，可以在MakeCode中的设备仿真区可以实时反馈Jacdac传感器的数值，选择电源需要外接电源模块进行供电。
+
+02：micro:bit插座。
+
+03：积木扩展结构件。
+
+04：Jacdac标准螺丝孔,从标记位置起顺时针分别为GND、PWR、DATA、DATA接口。
+
+05： Jacdac金手指 PWR引脚
+
+06：Jacdac金手指 GND引脚
+
+07：Jacdac金手指 DATA引脚
+
+
+---
 
 ## 产品链接
 暂无
@@ -124,3 +144,5 @@ sidebar_label:  Jacdac系列扩展板
 </div>
 
 ---
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Buzzer-08-08.gif)

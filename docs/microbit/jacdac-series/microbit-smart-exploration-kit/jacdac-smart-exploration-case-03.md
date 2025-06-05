@@ -110,6 +110,8 @@
 ## 结果
 
 当磁力传感器检测到磁铁，micro:bit显示“√”图标并发出声音， 磁铁远离磁力传感器，micro:bit显示“×”图标。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0321.gif)
+
 
 ## 思考
 

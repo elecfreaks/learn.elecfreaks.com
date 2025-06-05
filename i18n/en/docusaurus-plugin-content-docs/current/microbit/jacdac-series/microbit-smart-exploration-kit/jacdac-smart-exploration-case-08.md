@@ -122,6 +122,7 @@ You can also download the program directly from the following webpage, and start
 ## Result
 
 When the button sensor is pressed, the micro:bit displays "heart" and plays a sound, and sends information to another micro:bit via Bluetooth communication. When the other board receives the information, it displays a pattern and plays a sound.
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0821.gif)
 
 ## Thinking
 

@@ -121,6 +121,7 @@ You can also download the program directly from the following webpage, and start
 ## Result
 
 The microphone of micro:bit detects the ambient sound volume, and the LED light of the light ring will jump in a circle according to the volume of the sound. Press button A on the micro:bit to turn on the LED light, and press button B on the motherboard to turn off the LED light.
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0221.gif)
 
 ## Thinking
 

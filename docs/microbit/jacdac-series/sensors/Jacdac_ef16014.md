@@ -123,3 +123,4 @@ sidebar_label:  Jacdac加速度陀螺仪
 
 ## 结果
 陀螺仪向左倾斜，micro:bit显示“×”，向右倾斜，micro:bit显示“√”。陀螺仪向上倾斜，micro:bit显示“爱心”向下倾斜显示“小爱心”
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Gyro-09-08.gif)

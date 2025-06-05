@@ -1,63 +1,39 @@
 ---
-sidebar_position: 6
-sidebar_label:  Jacdac Expansion Board
+sidebar_position: 3
+sidebar_label: Jacdac Light Sensor
 ---
 
-------
-
-# Expansion Board
+# Light Sensor
 
 ------
 
 ## Introduction
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-bit-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-light-sensor-01-02.png)
 
 ### Features
 
-**Expansion Board:** The Jacdac expansion board connects to the micro:bit mainboard, providing Jacdac interfaces for the micro:bit.
+**Light Sensor:** Highly sensitive to light changes, it outputs corresponding signals based on ambient light intensity. In smart lighting systems, it automatically distinguishes between light and dark to turn lights on/off or adjust brightness; in outdoor devices, it can also adjust screen brightness according to light levels, saving energy and protecting eyes.
 
 ------
 
 ### Specifications
 
-| Item                     | Parameter              |
-| ------------------------ | ---------------------- |
-| **Name**                 | Jacdac Expansion Board |
-| **SKU**                  | EF16001                |
-| **Product Weight**       | 14.3g                  |
-| **Input Rated Voltage**  | 3.3V                   |
-| **Output Rated Voltage** | 4.15V                  |
-| **Product Size**         | 65.00mm×35.06mm (L×W)  |
-| **Jacdac Interfaces**    | 5                      |
+| Item              | Parameter             |
+| ----------------- | --------------------- |
+| **Name**          | Light Sensor          |
+| **SKU**           | EF16005               |
+| **Connection**    | Analog Output         |
+| **Input Voltage** | 4.15V                 |
+| **Product Size**  | 38.00mm×28.20mm (L×W) |
 
-------
-
+---
 ### Appearance and Dimensions
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-bit-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-light-sensor-01.png)
 
 ---
-### Introduction to Jacdac Expansion Board
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-bit-01-07.png)
-
-01: Power selection switch. When selecting power supply from the micro:bit to Jacdac modules, real-time feedback of Jacdac sensor values can be viewed in the device emulator of MakeCode. For an external power supply, connect a power module.
-
-02: micro:bit socket.
-
-03: Building block expansion structure.
-
-04: Jacdac standard screw holes (clockwise from the mark: GND, PWR, DATA, DATA interfaces).
-
-05: Jacdac gold finger (PWR pin).
-
-06: Jacdac gold finger (GND pin).
-
-07: Jacdac gold finger (DATA pin).
-
----
-Product Links
+## Product Links
 
 None
 
@@ -67,7 +43,7 @@ None
 
 ### Hardware Connection Diagram
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-buzzer-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-light-sensor-01-01.png)
 
 ---
 ## Usage Tutorials
@@ -118,20 +94,12 @@ None
 ---
 #### Program Code
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Buzzer-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-light-sensor-01-03.png)
 
-
----
-## Reference Program Link
+## Reference Program
 
 Link:
-https://makecode.microbit.org/_Trw28pdDFhf4
-
-------
-
-
-
-You can also download it via the link.
+https://makecode.microbit.org/_AAALazD9MevC
 
 <div
     style={{
@@ -141,7 +109,7 @@ You can also download it via the link.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_Trw28pdDFhf4"
+        src="https://makecode.microbit.org/S31641-04208-03004-97894"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -151,7 +119,7 @@ You can also download it via the link.
         }}
     />
 </div>
+## Result
 
----
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Buzzer-08-08.gif)
+When the detected ambient light intensity is **< 10**, the micro:bit displays "√"; otherwise, it displays "×".
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Light-05-01.gif)

@@ -1,63 +1,41 @@
 ---
-sidebar_position: 6
-sidebar_label:  Jacdac Expansion Board
+sidebar_position: 5
+sidebar_label:  Jacdac Soil Moisture Sensor
 ---
 
-------
-
-# Expansion Board
+# Soil Moisture Sensor
 
 ------
 
 ## Introduction
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-bit-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-%20moisture-sensor-01-02.png)
 
 ### Features
 
-**Expansion Board:** The Jacdac expansion board connects to the micro:bit mainboard, providing Jacdac interfaces for the micro:bit.
+**Soil Moisture Sensor:** Detects the moisture content of specific media, such as soil. In horticulture, it helps gardeners accurately assess soil dryness for scientific irrigation. In industrial processes requiring humidity control, it provides critical data to maintain optimal humidity levels and ensure smooth operations.
 
 ------
 
 ### Specifications
 
-| Item                     | Parameter              |
-| ------------------------ | ---------------------- |
-| **Name**                 | Jacdac Expansion Board |
-| **SKU**                  | EF16001                |
-| **Product Weight**       | 14.3g                  |
-| **Input Rated Voltage**  | 3.3V                   |
-| **Output Rated Voltage** | 4.15V                  |
-| **Product Size**         | 65.00mm×35.06mm (L×W)  |
-| **Jacdac Interfaces**    | 5                      |
+| Item                  | Parameter             |
+| --------------------- | --------------------- |
+| **Name**              | Soil Moisture Sensor  |
+| **SKU**               | EF16006               |
+| **Connection**        | Analog Output         |
+| **Operating Voltage** | 4.15V                 |
+| **Product Size**      | 38.00mm×81.00mm (W×L) |
 
 ------
 
 ### Appearance and Dimensions
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-bit-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-%20moisture-sensor-01.png)
 
 ---
-### Introduction to Jacdac Expansion Board
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-bit-01-07.png)
-
-01: Power selection switch. When selecting power supply from the micro:bit to Jacdac modules, real-time feedback of Jacdac sensor values can be viewed in the device emulator of MakeCode. For an external power supply, connect a power module.
-
-02: micro:bit socket.
-
-03: Building block expansion structure.
-
-04: Jacdac standard screw holes (clockwise from the mark: GND, PWR, DATA, DATA interfaces).
-
-05: Jacdac gold finger (PWR pin).
-
-06: Jacdac gold finger (GND pin).
-
-07: Jacdac gold finger (DATA pin).
-
----
-Product Links
+## Product Links
 
 None
 
@@ -67,7 +45,7 @@ None
 
 ### Hardware Connection Diagram
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-buzzer-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-%20moisture-sensor-01-01.png)
 
 ---
 ## Usage Tutorials
@@ -86,7 +64,8 @@ None
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-07.png)
 
-2. Enter a project name in the pop-up window and click **Create**.
+2. 
+   Enter a project name in the pop-up window and click **Create**.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-11.png)
 
@@ -118,20 +97,20 @@ None
 ---
 #### Program Code
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Buzzer-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Moisture-Sensor-01-03.png)
 
 
 ---
-## Reference Program Link
+## Reference Program
 
-Link:
-https://makecode.microbit.org/_Trw28pdDFhf4
+
+https://makecode.microbit.org/_AAALazD9MevC
 
 ------
 
 
 
-You can also download it via the link.
+You can also download it via the embedded link below:
 
 <div
     style={{
@@ -141,7 +120,7 @@ You can also download it via the link.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_Trw28pdDFhf4"
+        src="https://makecode.microbit.org/_AAALazD9MevC"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -154,4 +133,7 @@ You can also download it via the link.
 
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Buzzer-08-08.gif)
+## Results
+
+If the soil moisture sensor reading is <50%, the micro:bit displays "√"; otherwise, it displays "×".
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Malsture-06-08.gif)

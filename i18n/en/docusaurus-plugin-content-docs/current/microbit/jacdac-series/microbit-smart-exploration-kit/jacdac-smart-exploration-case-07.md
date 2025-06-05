@@ -132,6 +132,7 @@ You can also download the program directly from the following webpage, and start
 ## Result
 
 When the light sensor detects that the ambient light is less than 4%, and the micro:bit microphone detects that the ambient sound volume is greater than 100%, the light ring lights up.
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0721.gif)
 
 ## Thinking
 

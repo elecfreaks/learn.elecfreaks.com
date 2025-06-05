@@ -120,6 +120,7 @@
 ## 结果
 
 当光敏传感器检测环境光＜4%，而且micro:bit主板麦克风检测到环境声音响度＞100%时，灯环点亮。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0721.gif)
 
 ## 思考
 

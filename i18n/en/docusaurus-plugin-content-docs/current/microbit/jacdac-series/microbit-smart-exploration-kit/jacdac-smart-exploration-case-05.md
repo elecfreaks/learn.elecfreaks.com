@@ -130,6 +130,7 @@ You can also download the program directly from the following webpage, and start
 ## Result
 
 Use the knob encoder to adjust the brightness of the light ring, and press the micro:bit motherboard buttons A and B to switch the color of the light ring.
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0521.gif)
 
 ## Thinking
 

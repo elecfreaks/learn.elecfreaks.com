@@ -1,63 +1,41 @@
 ---
-sidebar_position: 6
-sidebar_label:  Jacdac Expansion Board
+sidebar_position: 1
+sidebar_label: Jacdac Button Sensor
 ---
 
-------
-
-# Expansion Board
+# Button Sensor
 
 ------
 
 ## Introduction
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-bit-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-button-01-02.png)
 
 ### Features
 
-**Expansion Board:** The Jacdac expansion board connects to the micro:bit mainboard, providing Jacdac interfaces for the micro:bit.
+**Button Sensor:** A simple and easy-to-use digital input module. It sensitively captures user presses and converts physical actions into digital signals, enabling connected devices to respond quickly. Widely used in human-computer interaction scenarios such as start/pause control, it adds convenient operation to various projects.
 
 ------
 
 ### Specifications
 
-| Item                     | Parameter              |
-| ------------------------ | ---------------------- |
-| **Name**                 | Jacdac Expansion Board |
-| **SKU**                  | EF16001                |
-| **Product Weight**       | 14.3g                  |
-| **Input Rated Voltage**  | 3.3V                   |
-| **Output Rated Voltage** | 4.15V                  |
-| **Product Size**         | 65.00mm×35.06mm (L×W)  |
-| **Jacdac Interfaces**    | 5                      |
+| Item                  | Parameter             |
+| --------------------- | --------------------- |
+| **Name**              | Button Sensor         |
+| **SKU**               | EF16002               |
+| **Connection**        | Digital Output        |
+| **Operating Voltage** | 4.15V                 |
+| **Product Size**      | 38.00mm×31.40mm (L×W) |
 
 ------
 
 ### Appearance and Dimensions
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-bit-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-button-01.png)
 
 ---
-### Introduction to Jacdac Expansion Board
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-bit-01-07.png)
-
-01: Power selection switch. When selecting power supply from the micro:bit to Jacdac modules, real-time feedback of Jacdac sensor values can be viewed in the device emulator of MakeCode. For an external power supply, connect a power module.
-
-02: micro:bit socket.
-
-03: Building block expansion structure.
-
-04: Jacdac standard screw holes (clockwise from the mark: GND, PWR, DATA, DATA interfaces).
-
-05: Jacdac gold finger (PWR pin).
-
-06: Jacdac gold finger (GND pin).
-
-07: Jacdac gold finger (DATA pin).
-
----
-Product Links
+## Product Links
 
 None
 
@@ -67,7 +45,7 @@ None
 
 ### Hardware Connection Diagram
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-buzzer-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-button-01-01.png)
 
 ---
 ## Usage Tutorials
@@ -118,20 +96,20 @@ None
 ---
 #### Program Code
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Buzzer-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-button-01-03.png)
 
 
 ---
-## Reference Program Link
+## Reference Program
 
 Link:
-https://makecode.microbit.org/_Trw28pdDFhf4
+https://makecode.microbit.org/_7C43iwgjJFuX
 
 ------
 
 
 
-You can also download it via the link.
+You can also download it via the embedded link below:
 
 <div
     style={{
@@ -141,7 +119,7 @@ You can also download it via the link.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_Trw28pdDFhf4"
+        src="https://makecode.microbit.org/_7C43iwgjJFuX"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -154,4 +132,7 @@ You can also download it via the link.
 
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Buzzer-08-08.gif)
+## Results
+
+When the button sensor is pressed, the micro:bit displays "√"; when released, it displays "×".
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Button-01-08.gif)

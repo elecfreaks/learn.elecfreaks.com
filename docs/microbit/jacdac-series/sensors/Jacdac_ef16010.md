@@ -1,35 +1,35 @@
 ---
-sidebar_position: 11
-sidebar_label: Jacdac 灯环
+sidebar_position: 9
+sidebar_label: Jacdac人体红外传感器
 ---
 
-# 灯环
+# 人体红外传感器
 
 ---
 ## 介绍
 
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-led-ring-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-motion-sensor-01-02.png)
 
 
 ### 特性
 
-**灯环：** 由多个独立可控的 LED 组成，形成一个环形发光体，可以呈现丰富的色彩和动态的灯光效果。它用于装饰照明，营造出华丽的氛围;在设备状态指示上，它使用不同的照明模式反馈工作状态，兼具美观性和实用性。
+**人体红外传感器：** 它可以敏感地检测周围物体的运动状态，一旦检测到动态变化，立即输出信号。在安全监控中，它自动捕捉入侵者;在智能照明中，它实现人在时灯亮，人走时灯灭，提高空间的智能化和能源效率。
 
 ---
 ### 规格
 |项目|参数|
 |---|---|
-|**名字**|灯环|
-|**SKU**|EF16012|
-|**接口类型**|执行器|
+|**名字**|人体红外传感器|
+|**SKU**|EF16010|
+|**连接类型**|数字输出|
 |**工作电压**|4.15V|
-|**产品尺寸**|38.00mm*28.20mm（长×宽）|
+|**产品尺寸**|38.00mm×28.20mm（长×宽）|
 
 ---
 ### 外观和尺寸
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-led-ring-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-motion-sensor-01.png)
+
 ---
 
 ## 产品链接
@@ -38,9 +38,10 @@ sidebar_label: Jacdac 灯环
 ---
 ## 快速开始
 
-### 硬件连接
+### 硬件连接图片
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-led-ring-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-motion-sensor-01-01.png)
+
 ---
 ## 使用教程
 ### 编程软件
@@ -59,6 +60,7 @@ sidebar_label: Jacdac 灯环
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-11.png)
 
+---
 3. 点击代码抽屉中的“扩展”。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-09.png)
@@ -88,17 +90,18 @@ sidebar_label: Jacdac 灯环
 ---
 #### 如图编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-led-ring-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-motion-sensor-01-03.png)
 
 ---
+
 ## 参考程序连接
 
 链接
 
-[https://makecode.microbit.org/_DdMYKefUdJ33](https://makecode.microbit.org/_DdMYKefUdJ33)
+[https://makecode.microbit.org/_3TuVXqXMyUzs](https://makecode.microbit.org/_3TuVXqXMyUzs)
 
 ---
-你还可以通过链接下载
+你还可以通过链接下载。
 
 <div
     style={{
@@ -108,7 +111,7 @@ sidebar_label: Jacdac 灯环
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_DdMYKefUdJ33"
+        src="https://makecode.microbit.org/_3TuVXqXMyUzs"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -122,4 +125,5 @@ sidebar_label: Jacdac 灯环
 ---
 
 ## 结果
-按下micro:bit的A按钮，灯环亮红色灯，按下 micro:bit的B按钮，灯环关闭灯光。
+人体红外传感器检测人体在移动，micro:bit 显示“√”，否则micro:bit 显示“×”。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Motion-11-08.gif)

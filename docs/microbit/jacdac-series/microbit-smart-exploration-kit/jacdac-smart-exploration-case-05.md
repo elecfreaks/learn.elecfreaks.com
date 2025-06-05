@@ -117,6 +117,7 @@
 ## 结果
 
 通过旋钮编码器调整灯环的亮度，按下micro:bit主板按键A和B赖切换灯环的颜色。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0521.gif)
 
 ## 思考 
 

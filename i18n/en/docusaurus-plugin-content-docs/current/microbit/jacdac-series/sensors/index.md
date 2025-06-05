@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
-sidebar_label: Jacdac Series Sensors
+sidebar_label: Jacdac Sensor
 ---
 
-# 目录
+# Catalog
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
 

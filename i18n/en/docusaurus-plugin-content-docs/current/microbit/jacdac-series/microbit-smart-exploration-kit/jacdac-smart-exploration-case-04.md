@@ -129,6 +129,7 @@ You can also download the program directly from the following website, and start
 ## Result
 
 The human infrared sensor detects a pedestrian passing by, and the light sensor detects that the ambient light intensity is less than 5%, and the micro:bit displays "heart".
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0421.gif)
 
 ## Thinking
 

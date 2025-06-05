@@ -124,3 +124,4 @@ sidebar_label: Jacdac按钮传感器
 
 ## 结果
 按下按钮传感器，micro:bit显示“√”。松开按钮传感器，micro:bit 显示“×”
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Button-01-08.gif)

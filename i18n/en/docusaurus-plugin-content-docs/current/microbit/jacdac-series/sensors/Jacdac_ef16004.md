@@ -1,103 +1,113 @@
 ---
 sidebar_position: 3
-sidebar_label: Jacdac温湿度传感器
+sidebar_label: Jacdac Temperature and Humidity Sensor
 ---
 
-# 温湿度传感器
----
-## 介绍
+# Temperature and Humidity Sensor
+
+------
+
+## Introduction
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-tempRH-sensor-01-02.png)
 
-## 特性
+## Features
 
-**温湿度传感器：** 可以实时感知周围空气的温度和相对湿度。无论是在智能家居系统中的室内环境控制，还是在农业温室中的温度和湿度警报，它都能提供准确的数据支持，以确保环境舒适和作物生长条件。
+**Temperature and Humidity Sensor:** Real-time monitoring of ambient temperature and relative humidity. It provides accurate data support for indoor environmental control in smart home systems and temperature/humidity alarms in agricultural greenhouses, ensuring comfortable environments and optimal crop growth conditions.
 
----
+------
 
-## 规格
-|项目|参数|
-|---|---|
-|**名字**|温湿度传感器|
-|**SKU**|EF16004|
-|**连接类型**|模拟输出|
-|**工作电压**|4.15V|
-|**产品尺寸**|38.00mm×28.00mm （长×宽）|
+## Specifications
 
----
-## 外观和尺寸
+| Item                  | Parameter                       |
+| --------------------- | ------------------------------- |
+| **Name**              | Temperature and Humidity Sensor |
+| **SKU**               | EF16004                         |
+| **Connection**        | Analog Output                   |
+| **Operating Voltage** | 4.15V                           |
+| **Product Size**      | 38.00mm×28.00mm (L×W)           |
+
+------
+
+## Appearance and Dimensions
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-tempRH-sensor-01.png)
 
 ---
-## 产品链接
-暂无
+## Product Links
 
----
-## 快速开始
+None
 
-### 硬件连接图
+------
+
+## Quick Start
+
+### Hardware Connection Diagram
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-tempRH-sensor-01-01.png)
 
 ---
-## 使用教程
-### 编程软件
+## Usage Tutorials
 
-[微软makecode](https://makecode.microbit.org/#)
+### Programming Software
 
----
-### Makecode编程
+[Microsoft MakeCode](https://makecode.microbit.org/#)
 
-#### 步骤1：如何添加Jacdac扩展
-1. 进入[微软makecode](https://makecode.microbit.org/#)，点击“新建项目”。
+------
+
+### MakeCode Programming
+
+#### Step 1: Adding the Jacdac Extension
+
+1. Go to [Microsoft MakeCode](https://makecode.microbit.org/#) and click **New Project**.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-07.png)
 
-2. 在弹出窗口输入项目名称并点击创建。
+2. Enter a project name in the pop-up window and click **Create**.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-11.png)
 
-3. 点击代码抽屉中的“扩展”。
+3. Click **Extensions** in the code drawer.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-09.png)
 
-4. 在弹出界面输入"Jacdac"并点击搜索图标, 选择Jacdac软件库，如图所示。
+4. Type "Jacdac" in the search bar, click the magnifying glass icon, and select the **Jacdac** software library as shown.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-3.png)
 
 ---
-#### 步骤2：
-1. 用数据线将micro:bit主板连接到计算机。
-   
-   **注意**：若micro:bit主板初次运行jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
+#### Step 2:
+
+1. Connect the micro:bit to your computer using a data cable.
+   **Note**: If this is the first time running the Jacdac program on the micro:bit, preload a blank Jacdac program first. Skip this step if already done.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 
-2. 连接传感器，MakeCode自动识别并仿真呈现，在仿真区内传感器实时反馈传感器状态。
+2. Connect the sensor. MakeCode will automatically detect it and simulate the sensor status in the emulator.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/1jacdac-smart-exploration-kit-6.png)
 
-3. 点击“ADD BLOCKS”传感器扩展模块。
-   
-   **注意**：连接新的传感器，重复执行一次“点击“ADD BLOCKS”传感器扩展模块”操作流程。
+3. Click **ADD BLOCKS** for the sensor extension module.
+   **Note**: Repeat this step each time you connect a new sensor.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-7.png)
 
 ---
-#### 如图编写程序
+#### Program Code
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-TempRH-Sensor-01-03.png)
 
 ---
-## 参考程序连接
+## Reference Program
 
-链接
+Link:
+https://makecode.microbit.org/_eH55mKKVdATu
 
-[https://makecode.microbit.org/_eH55mKKVdATu](https://makecode.microbit.org/_eH55mKKVdATu)
+------
 
----
-你还可以通过链接下载。
+
+
+You can also download it via the embedded link below:
 
 <div
     style={{
@@ -120,7 +130,7 @@ sidebar_label: Jacdac温湿度传感器
 
 ---
 
-## 结果
+## Results
 
-检测到环境温度＞30°且环境湿度＞60%，micro:bit显示“笑脸”否则micro:bit显示“哭脸”。
+When the detected ambient temperature is **> 30°C** and humidity is **> 60%**, the micro:bit displays a "smiley face"; otherwise, it displays a "crying face".
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Humidity%2BTemperature-04-08.gif)

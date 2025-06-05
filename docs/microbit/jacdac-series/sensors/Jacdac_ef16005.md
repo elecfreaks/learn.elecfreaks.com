@@ -1,45 +1,44 @@
 ---
-sidebar_position: 5
-sidebar_label:  Jacdac土壤湿度传感器
+sidebar_position: 4
+sidebar_label: Jacdac光线传感器
 ---
 
-# 土壤湿度传感器 
+# 光线传感器
 
 ---
 ## 介绍
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-%20moisture-sensor-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-light-sensor-01-02.png)
+
 
 ### 特性
-
-**土壤湿度传感器:** 检测特定介质的湿度，如土壤湿度。在园艺领域，它帮助园丁准确了解土壤的干湿情况，以便进行科学的灌溉;在涉及湿度控制的工业生产过程中，它还可以提供关键数据，以保持最佳湿度水平并确保流程顺畅。
+**光线传感器：** 对光的变化极其敏感，可以根据环境光强度输出相应的信号。在智能照明系统中，它能够自动区分明暗以实现自动开灯/关灯或亮度调节;在户外设备中，它还可以根据光线调整屏幕显示亮度，节省能源并保护眼睛。
 
 ---
 ### 规格
 |项目|参数|
 |---|---|
-|**名字**|土壤湿度传感器|
-|**SKU**|EF16006|
+|**名字**|光线传感器|
+|**SKU**|EF16005|
 |**连接类型**|模拟输出|
-|**工作电压**|4.15V|
-|**产品尺寸**|38.00mm×81.00mm （宽×长）|
+|**输入电压**|4.15V|
+|**产品尺寸**|38.00mm×28.20mm（长×宽）|
 
 ---
 ### 外观和尺寸
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-%20moisture-sensor-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-light-sensor-01.png)
 
 ---
-
 ## 产品链接
 暂无
 
 ---
 ## 快速开始
 
-### 硬件连接图
+### 硬件连接图片
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-%20moisture-sensor-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-light-sensor-01-01.png)
 
 ---
 ## 使用教程
@@ -50,7 +49,7 @@ sidebar_label:  Jacdac土壤湿度传感器
 ---
 ### Makecode编程
 
-#### 步骤1：如何添加jacdac扩展
+#### 步骤1：如何添加Jacdac扩展
 1. 进入[微软makecode](https://makecode.microbit.org/#)，点击“新建项目”。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-07.png)
@@ -71,7 +70,7 @@ sidebar_label:  Jacdac土壤湿度传感器
 #### 步骤2：
 1. 用数据线将micro:bit主板连接到计算机。
    
-   **注意**：若micro:bit主板初次运Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
+   **注意**：若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 
@@ -88,18 +87,17 @@ sidebar_label:  Jacdac土壤湿度传感器
 ---
 #### 如图编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Moisture-Sensor-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-light-sensor-01-03.png)
 
-
----
 ## 参考程序连接
 
+---
 链接
 
-[https://makecode.microbit.org/_AAALazD9MevC](https://makecode.microbit.org/_AAALazD9MevC)
+[https://makecode.microbit.org/S31641-04208-03004-97894](https://makecode.microbit.org/S31641-04208-03004-97894)
 
 ---
-你还可以通过链接下载。
+你还可以通过链下载
 
 <div
     style={{
@@ -109,7 +107,7 @@ sidebar_label:  Jacdac土壤湿度传感器
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_AAALazD9MevC"
+        src="https://makecode.microbit.org/S31641-04208-03004-97894"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -123,4 +121,5 @@ sidebar_label:  Jacdac土壤湿度传感器
 ---
 
 ## 结果
-土壤湿度传感器反馈的值＜50%，micro:bit显示“√”否则micro:bit显示“×”。
+检测到的环境光强度＜10，micro:bi 显示“√”，否则micro:bit 显示“×”。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Light-05-01.gif)

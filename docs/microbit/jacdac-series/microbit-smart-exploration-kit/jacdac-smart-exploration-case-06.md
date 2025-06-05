@@ -123,6 +123,7 @@
 ## 结果
 
 当人体红外检测传感器侦测到人在移动时，灯环将亮起，并发出警报声。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-0621.gif)
 
 ## 思考
 

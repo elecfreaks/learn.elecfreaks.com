@@ -131,6 +131,7 @@ You can also download the program directly from the following webpage and start 
 After the micro:bit is turned on, it will automatically generate a random number of "-5 ~ 5" as the password. Press the micro:bit motherboard button "A" to start the game. After the game starts, the micro:bit motherboard will display a countdown from 9 to 0 and play a sound. The player needs to enter the password he guessed by rotating the encoder. **The initial position of the rotary encoder is the password "0". Rotating it one grid to the left will reduce the password by 1, and rotating it one grid to the right will increase the secret by 1. ** When the player rotates the code to the password he thinks is correct, press the button sensor to confirm whether it is correct. If the password is correct, the screen will display a "√" pattern. If the correct password is not entered before the countdown ends, the game fails.
 
 **If you need to restart the game, press the reset button of the micro:bit motherboard. Note that the rotary encoder will not initialize the position. **
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/hardware-connection-diagram/jacdac-smart-exploration-kit-case-01021.gif)
 
 ## Thinking
 

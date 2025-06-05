@@ -1,45 +1,46 @@
 ---
-sidebar_position: 3
-sidebar_label: Jacdac温湿度传感器
+sidebar_position: 11
+sidebar_label: Jacdac 灯环
 ---
 
-# 温湿度传感器
+# 灯环
+
 ---
 ## 介绍
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-tempRH-sensor-01-02.png)
 
-## 特性
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-led-ring-01-02.png)
 
-**温湿度传感器：** 可以实时感知周围空气的温度和相对湿度。无论是在智能家居系统中的室内环境控制，还是在农业温室中的温度和湿度警报，它都能提供准确的数据支持，以确保环境舒适和作物生长条件。
+
+### 特性
+
+**灯环：** 由多个独立可控的 LED 组成，形成一个环形发光体，可以呈现丰富的色彩和动态的灯光效果。它用于装饰照明，营造出华丽的氛围;在设备状态指示上，它使用不同的照明模式反馈工作状态，兼具美观性和实用性。
 
 ---
-
-## 规格
+### 规格
 |项目|参数|
 |---|---|
-|**名字**|温湿度传感器|
-|**SKU**|EF16004|
-|**连接类型**|模拟输出|
+|**名字**|灯环|
+|**SKU**|EF16012|
+|**接口类型**|执行器|
 |**工作电压**|4.15V|
-|**产品尺寸**|38.00mm×28.00mm （长×宽）|
+|**产品尺寸**|38.00mm*28.20mm（长×宽）|
 
 ---
-## 外观和尺寸
+### 外观和尺寸
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-tempRH-sensor-01.png)
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-led-ring-01.png)
 ---
+
 ## 产品链接
 暂无
 
 ---
 ## 快速开始
 
-### 硬件连接图
+### 硬件连接
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-tempRH-sensor-01-01.png)
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-led-ring-01-01.png)
 ---
 ## 使用教程
 ### 编程软件
@@ -70,7 +71,7 @@ sidebar_label: Jacdac温湿度传感器
 #### 步骤2：
 1. 用数据线将micro:bit主板连接到计算机。
    
-   **注意**：若micro:bit主板初次运行jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
+   **注意**：若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 
@@ -87,17 +88,17 @@ sidebar_label: Jacdac温湿度传感器
 ---
 #### 如图编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-TempRH-Sensor-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/jacdac-led-ring-01-03.png)
 
 ---
 ## 参考程序连接
 
 链接
 
-[https://makecode.microbit.org/_eH55mKKVdATu](https://makecode.microbit.org/_eH55mKKVdATu)
+[https://makecode.microbit.org/_DdMYKefUdJ33](https://makecode.microbit.org/_DdMYKefUdJ33)
 
 ---
-你还可以通过链接下载。
+你还可以通过链接下载
 
 <div
     style={{
@@ -107,7 +108,7 @@ sidebar_label: Jacdac温湿度传感器
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_eH55mKKVdATu"
+        src="https://makecode.microbit.org/_DdMYKefUdJ33"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -121,6 +122,5 @@ sidebar_label: Jacdac温湿度传感器
 ---
 
 ## 结果
-
-检测到环境温度＞30°且环境湿度＞60%，micro:bit显示“笑脸”否则micro:bit显示“哭脸”。
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-Humidity%2BTemperature-04-08.gif)
+按下micro:bit的A按钮，灯环亮红色灯，按下 micro:bit的B按钮，灯环关闭灯光。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/jacdac-sensors/Jacdac-LED-Ring-12-08.gif)

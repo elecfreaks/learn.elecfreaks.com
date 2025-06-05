@@ -13,7 +13,7 @@
 ## 所需材料
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-01-02.png)
 
-搭建视频链接:
+**搭建视频链接:**
 [https://player.bilibili.com/player.html?bvid=BV1V64y117zM](https://player.bilibili.com/player.html?bvid=BV1V64y117zM)
 
 
@@ -62,5 +62,6 @@
 
 ### 程序
 
+程序截图
 
 程序链接:[https://makecode.microbit.org/_8iVYPXex5h1o](https://makecode.microbit.org/_8iVYPXex5h1o)

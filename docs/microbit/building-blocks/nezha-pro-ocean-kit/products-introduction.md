@@ -103,11 +103,14 @@
 ### 传感介绍
 |名称|图片|简介|
 |---|---|---|
-|OLED显示屏|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-planetx-02.png)|OLED显示屏，用于在屏幕上打印想要显示的数据信息（不支持显示中文）|
+|行星系列OLED显示屏|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-planetx-02.png)|OLED显示屏，用于在屏幕上打印想要显示的数据信息（不支持显示中文）|
 |行星系列碰撞传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-planetx-03.png)|行星系列碰撞传感器，碰撞传感器是一种基于碰撞元件的传感器模块，可用于碰撞检测。|
-|超声波传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-planetx-04.png)|超声波传感器用于短距离测量。|
+|行星系列超声波传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-planetx-04.png)|超声波传感器用于短距离测量。|
 |行星系列八颗灯环|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-planetx-05.png)|行星系列八颗灯环，彩虹灯环可以显示RGB颜色。|
-
+|行星系列电位器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05018_01.png)|模拟电位器，旋转角度300°，根据旋转角度返回0~1023的模拟值。|
+|行星系列光线传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05001_01.png)|这是一种可以检测光线强度的传感器。|
+|行星系列DHT11温湿度传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05004_01.png)|温湿度传感器是基于DHT11数字温湿度传感元件的模块，对环境温度和湿度变化敏感，可用于温度报警，湿度测试等工作。|
+|行星系列双路巡线传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05019_01.png)|两路巡线模块集成了两组反射式红外对管，可通过它来制作小车智能巡线项目。|
 
 ---
 ### 案例知识架构

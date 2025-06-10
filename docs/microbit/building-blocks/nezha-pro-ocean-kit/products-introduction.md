@@ -18,7 +18,7 @@
 |**产品重量**|****|
 |**包装尺寸**|370mm × 288mm × 195mm|
 |**电子模块数量**|13|
-|**电子模块**|哪吒Pro多功能扩展板×1 <br />智能马达×2<br />超声波传感器×2<br />双路巡线传感器×2<br />OLED显示屏×1<br />碰撞模块×1<br />灯环×1<br />光线传感器×1<br />电位器×1<br />水位传感器×1<br />DHT11温湿度传感器×1|
+|**电子模块**|哪吒Pro多功能扩展板×1 <br />智能马达×2<br />超声波传感器×1<br />双路巡线传感器×1<br />OLED显示屏×1<br />碰撞传感器×1<br />灯环×1<br />光线传感器×1<br />电位器×1<br />水位传感器×1<br />DHT11温湿度传感器×1|
 |**积木材质**|ABS|
 |**积木数量**|500+|
 |**适用年龄**|7+|
@@ -40,9 +40,12 @@
 ### 扩展板介绍
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-introduction-04.png)
+
 哪吒多功能扩展盒V2 是一款专为创意编程设计的 micro:bit 扩展板。它配备8路传感器接口与4路闭环电机接口，接口统一采用防呆防反插的 RJ11 接口，并巧妙利用颜色识别系统辅助中小学生正确对接行星传感器，提升学习效率。
 快速充电技术确保1小时内充满电，支持长达4小时使用。无主控模式的创新设计简化操作，按键即可控制电机正反转，让编程初学者也能轻松享受创造的乐趣。
 全面兼容积木结构件，激发无限搭建可能。升级Type-C充电口、4颗电量指示灯及电源物理拨动开关，进一步提升使用的便捷性与直观性，为学生的创意之旅提供强大助力。
+
+---
 ### 功能介绍
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-nezha201.png)
@@ -56,6 +59,8 @@
 4.50分钟充满电，续航4个小时。
 
 5.兼容积木结构件，解锁更多玩法
+
+---
 ### 引脚介绍
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-nezha202.png)
@@ -67,6 +72,7 @@
 
 行星系列智能积木马达融合高精度舵机与高效电机特性，打造出前所未有的全能驱动核心。它拥有超高的控制精度、瞬时响应速度及强大扭力，同时内置智能保护系统，包括温度监控、堵转检测与电压稳定保护，确保安全稳定的运行环境，为您的创意项目注入澎湃动力。
 
+---
 ### 技术参数
 |     项目     |             参数             |
 | :----------: | :--------------------------: |
@@ -85,6 +91,7 @@
 | **颜色识别系统** |             支持             |
 |     **重量**     |             31g              |
 
+---
 ### 功能介绍
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-motor02.png)

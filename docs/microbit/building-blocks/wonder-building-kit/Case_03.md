@@ -6,6 +6,8 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-03-01.png)
 
+**此装置的陀螺需要自行组装**
+
 ## 购买链接
 
 [悟空创意搭建套装](https://item.taobao.com/item.htm?id=649813731275&spm=2015.23436601.0.0)
@@ -47,6 +49,12 @@
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-03-13.png)
 
 
+## 硬件连接
+
+将电机连接到悟空扩展板的M1接口。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-03-06.png)
+
 ## 软件编程平台
 
 [MakeCode](https://makecode.microbit.org/)
@@ -68,3 +76,10 @@
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-03-05.png)
 
 程序链接：[https://makecode.microbit.org/_RxjRuPiKR8gJ](https://makecode.microbit.org/_RxjRuPiKR8gJ)
+
+
+## 结果
+
+按下按键A装置停止运行，按下按键B装置运行。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-03.gif)

@@ -43,6 +43,13 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-01-12.png)
 
+
+## 硬件连线
+
+将两个电机分别连接到悟空扩展板的M1和M2接口。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-01-06.png)
+
 ## 软件编程平台
 
 [MakeCode](https://makecode.microbit.org/)
@@ -62,6 +69,12 @@
 
 ### 程序
 
-程序截图
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-01-05.png)
 
 程序链接:[https://makecode.microbit.org/_8iVYPXex5h1o](https://makecode.microbit.org/_8iVYPXex5h1o)
+
+## 结果
+
+当按键A按下后，小车向前行驶，当按键B被按下后，小车向后行驶，当A、B键同时按下时，小车停止行驶。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-01.gif)

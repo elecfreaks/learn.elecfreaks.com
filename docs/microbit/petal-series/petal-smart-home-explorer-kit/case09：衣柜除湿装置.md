@@ -1,9 +1,9 @@
 ---
-sidebar_position: 11
-sidebar_label: 雨水感应窗户
+sidebar_position: 12
+sidebar_label: 衣柜除湿装置
 ---
 
-# 雨水感应窗户
+# 衣柜除湿装置
 
 ## 简介
 

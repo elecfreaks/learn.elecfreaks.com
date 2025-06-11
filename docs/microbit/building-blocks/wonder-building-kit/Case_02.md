@@ -35,6 +35,12 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-02-08.png)
 
+## 硬件连线
+
+将两个电机分别连接到悟空扩展板的M1和M2接口，将双路巡线传感器的两个端口连接到悟空扩展板的P1和P2接口。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-02-06.png)
+
 ## 软件编程平台
 
 [MakeCode](https://makecode.microbit.org/)
@@ -53,8 +59,14 @@
 
 ### 程序
 
+
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-02-05.png)
+
+程序链接：[https://makecode.microbit.org/_dJA3pWdX3LkD](https://makecode.microbit.org/_dJA3pWdX3LkD)
+
+## 结果
+
 巡线车会按照地图黑线匀速前进，偏离黑线会保持速度和方向行驶，直到回归黑线。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-01-05.png)
-
-程序链接：[https://makecode.microbit.org/_09y508g6EMK2](https://makecode.microbit.org/_09y508g6EMK2)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-02.gif)

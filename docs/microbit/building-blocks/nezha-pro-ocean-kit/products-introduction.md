@@ -121,7 +121,7 @@
 
 ---
 ### 案例知识架构
-在哪吒Pro海洋套装案例中，设计一下相关知识点。
+在哪吒Pro海洋套装案例中，涉及以下相关知识点。
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/nezha-pro-ocean-kit-products-introduction-001.png)
 
 ---

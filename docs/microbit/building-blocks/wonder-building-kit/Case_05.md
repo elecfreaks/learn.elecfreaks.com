@@ -67,6 +67,11 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-05-24.png)
 
+## 硬件连接
+
+将电机连接到悟空扩展板的M1接口。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-03-06.png)
 
 ## 软件编程平台
 
@@ -89,4 +94,11 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-05-05.png)
 
-程序链接：[https://makecode.microbit.org/_efMVCrH4RJ93](https://makecode.microbit.org/_efMVCrH4RJ93)
+程序链接：[https://makecode.microbit.org/_KfwUsX1bxF67](https://makecode.microbit.org/_KfwUsX1bxF67)
+
+
+## 结果
+
+开启之后，小车向前行驶，当小车遇到障碍物时，自动转弯。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-05.gif)

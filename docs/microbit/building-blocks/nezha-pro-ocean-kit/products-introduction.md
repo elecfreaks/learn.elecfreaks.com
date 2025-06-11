@@ -18,7 +18,7 @@
 |**产品重量**|****|
 |**包装尺寸**|370mm × 288mm × 195mm|
 |**电子模块数量**|13|
-|**电子模块**|哪吒Pro多功能扩展板×1 <br />智能马达×2<br />超声波传感器×1<br />双路巡线传感器×1<br />OLED显示屏×1<br />碰撞传感器×1<br />灯环×1<br />光线传感器×1<br />电位器×1<br />水位传感器×1<br />DHT11温湿度传感器×1|
+|**电子模块**|哪吒Pro多功能扩展板×1 <br />智能马达×2<br />超声波传感器×1<br />双路巡线传感器×1<br />OLED显示屏×1<br />碰撞传感器×2<br />灯环×1<br />光线传感器×1<br />电位器×1<br />水位传感器×1<br />DHT11温湿度传感器×1|
 |**积木材质**|ABS|
 |**积木数量**|500+|
 |**适用年龄**|7+|
@@ -121,7 +121,8 @@
 
 ---
 ### 案例知识架构
-
+在哪吒Pro海洋套装案例中，设计一下相关知识点。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/nezha-pro-ocean-kit-products-introduction-001.png)
 
 ---
 ## 目录

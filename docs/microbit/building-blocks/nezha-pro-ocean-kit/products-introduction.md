@@ -5,9 +5,11 @@
 
 哪吒pro海洋套装用编辑电子件+积木为载体，通过小恩海洋冒险作为主线，紧紧围绕海洋知识展开，通过项目制的学习方式，学习海洋生态和生物多样性，了解海洋生物的独特生存技能以及人类对海洋的开发和利用，例如：潮汐发电、海洋养殖等。探究海洋资源开发中的挑战，并尝试提出解决方案。同时，面对人类活动给海洋生态、环境来的问题，学习如何应对，尝试给出解决方案。该课程旨在提高学生对海洋的认知，激发对海洋探索的兴趣，在学生心中种下一颗向往海洋的种子。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/nezha-pro-ocean-kit-products-introduction-002.png.png)
+
 ---
 ## 产品清单 
-**图片** 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/nezha-pro-ocean-kit-products-introduction-003.png.png)
 
 ---
 ## 产品参数
@@ -118,6 +120,7 @@
 |行星系列光线传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05001_01.png)|这是一种可以检测光线强度的传感器。|
 |行星系列DHT11温湿度传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05004_01.png)|温湿度传感器是基于DHT11数字温湿度传感元件的模块，对环境温度和湿度变化敏感，可用于温度报警，湿度测试等工作。|
 |行星系列双路巡线传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05019_01.png)|两路巡线模块集成了两组反射式红外对管，可通过它来制作小车智能巡线项目。|
+|行星系列水位传感器| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05023_01.png)|水位传感器通过具有一系列的暴露的平行导线测量其水量大小而判断水位。|
 
 ---
 ### 案例知识架构

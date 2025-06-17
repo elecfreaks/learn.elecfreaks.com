@@ -14,9 +14,3 @@ sidebar_label: 悟空搭建套装
     description=""
     img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-01-01.png'}
   />
-
-```mdx-code-block
-import DocCardList from '@theme/DocCardList';
-
-<DocCardList />
-```

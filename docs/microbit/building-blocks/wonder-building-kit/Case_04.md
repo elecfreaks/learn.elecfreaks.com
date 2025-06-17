@@ -39,9 +39,9 @@
 ## 硬件连接
 
 将两个电机分别连接到悟空扩展板的M1和M2接口，将超声波传感器安装到P1接口。
-
+<!--
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-04-06.png)
-
+-->
 ## 软件编程平台
 
 [MakeCode](https://makecode.microbit.org/)

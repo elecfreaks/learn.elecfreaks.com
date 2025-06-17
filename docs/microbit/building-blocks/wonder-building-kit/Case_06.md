@@ -46,6 +46,13 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-06-14.png)
 
+# 硬件连接
+
+将电机连接到悟空扩展板的M1接口。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-03-06.png)
+
+
 ## 软件编程平台
 
 [MakeCode](https://makecode.microbit.org/)
@@ -69,3 +76,10 @@
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-06-05.png)
 
 程序链接：[https://makecode.microbit.org/_3KD5c5DHtcME](https://makecode.microbit.org/_3KD5c5DHtcME)
+
+
+## 结果
+
+开启之后，按下A键，机器人向前行走，按下B键，机器人向后行走，A、B键同时按下时，机器人停止行走。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-06.gif)

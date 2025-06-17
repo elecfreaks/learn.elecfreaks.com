@@ -99,6 +99,6 @@
 
 ## 结果
 
-开启之后，小车向前行驶，当小车遇到障碍物时，自动转弯。
+开启之后，按下按键A，装置开始运行，按下按键B，装置停止运行。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-05.gif)

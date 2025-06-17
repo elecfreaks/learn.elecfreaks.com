@@ -17,7 +17,6 @@
 
 ## 搭建步骤
 
-
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-07-01.png)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-07-02.png)
@@ -52,6 +51,11 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-07-17.png)
 
+# 硬件连接
+
+将超声波传感器连接到悟空扩展板的P1接口。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-07-06.png)
 
 ## 软件编程平台
 
@@ -76,6 +80,13 @@
 
 ### 程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-04-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-07-05.png)
 
 程序链接：[https://makecode.microbit.org/_WWPPEHi4kiqR](https://makecode.microbit.org/_WWPPEHi4kiqR)
+
+
+## 结果
+
+开启之后，当小球投入篮筐，LED矩阵计数自动加一。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-07.gif)

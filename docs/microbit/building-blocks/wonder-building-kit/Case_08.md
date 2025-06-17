@@ -8,8 +8,6 @@
 
 [悟空创意搭建套装](https://item.taobao.com/item.htm?id=649813731275&spm=2015.23436601.0.0)
 
-[Joystick bit](https://www.elecfreaks.com/joystick-bit-2-for-micro-bit.html)
-
 ## 所需材料
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-08-02.png)
@@ -105,20 +103,16 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-01-04.png)
 
-在搜索框中搜索joystickbit，点击图片中joystickbit，添加扩展包。
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-08-04.png)
-
-
-
 ### 程序
-游戏手柄程序：
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-08-05.png)
-
-程序链接：[https://makecode.microbit.org/_H50J7qeA3FvT](https://makecode.microbit.org/_H50J7qeA3FvT)
-机械爪程序：
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-08-06.png)
 
-程序链接：[https://makecode.microbit.org/_L5YAk7b887dC](https://makecode.microbit.org/_L5YAk7b887dC)
+程序链接：[https://makecode.microbit.org/_8trckL06XY5r](https://makecode.microbit.org/_8trckL06XY5r)
+
+
+
+## 结果
+
+开启之后，通过A、B按键控制机械臂左右转动，通过徽标控制机械臂放下/抬升，通过A+B按键控制机械爪抓取/松开。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-07.gif)

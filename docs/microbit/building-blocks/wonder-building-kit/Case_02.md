@@ -59,8 +59,6 @@
 
 ### 程序
 
-
-
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-02-05.png)
 
 程序链接：[https://makecode.microbit.org/_dJA3pWdX3LkD](https://makecode.microbit.org/_dJA3pWdX3LkD)

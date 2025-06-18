@@ -47,11 +47,7 @@
 ## 硬件连线
 
 将两个电机分别连接到悟空扩展板的M1和M2接口。
-<!--
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-01-06.png)
-
--->
 ## 软件编程平台
 
 [MakeCode](https://makecode.microbit.org/)

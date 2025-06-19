@@ -18,8 +18,8 @@ Designed for 8-16-year-old teenagers, this hands-on kit uses sensors, servos, an
 
 |           **Item**           |                        **Parameters**                        |
 |:------------------:|:--------------------------------------------------------------------:|
-| Product Name | micro:bit 智能家庭探索者套装                                                  |
-| SKU                | ******                                                            |
+| Product Name | micro:bit Smart Home Explorer Kit                                                 |
+| SKU                | EF08435                                                            |
 | Gross Weight | ******                                                             |
 | Package Size | 25cm × 18cm × 4cm                              |
 | Number of Electronic Modules | 8个                                                                |

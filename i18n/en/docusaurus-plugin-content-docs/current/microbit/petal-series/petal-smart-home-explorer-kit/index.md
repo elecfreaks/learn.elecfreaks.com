@@ -17,16 +17,16 @@ The micro:bit Smart Home Explorer Kit is a hands-on learning suite designed for 
 
 |           **Item**           |                        **Parameters**                        |
 |:------------------:|:--------------------------------------------------------------------:|
-|         Product Name         |                    Nezha Inventor Kit V2                     |
-|             SKU              |                            EF////                            |
-|         Gross Weight         |                      Approximately ///g                      |
-|         Package Size         |                      25cm × 18cm × 4cm                       |
-| Number of Electronic Modules |                              8                               |
+| Product Name | micro:bit Smart Home Explorer Kit                                                 |
+| SKU                | EF08435                                                            |
+| Gross Weight | ******                                                             |
+| Package Size | 25cm × 18cm × 4cm                              |
+| Number of Electronic Modules | 8个                                                                |
 | Electronic Modules | Petal Base Expansion Board<br/>Petal Series Temperature-Humidity Sensor<br/>Petal Series Water Level Sensor<br/>Petal Series Adapter<br/>Petal Series Fan Module<br/>Petal Series Rainbow Light<br/>Petal Series OLED Display<br/>180° Servo |
-|    Structural Components     |                Basswood boards, nylon rivets                 |
-|         Suitable Age         |                             10+                              |
-|       Number of Cases        |                             10+                              |
-|     Programming Methods      |                       makecode python                        |
+| Structural Components | Basswood boards, nylon rivets                           |
+| Suitable Age | 10+                                                                 |
+| Number of Cases | 10+                                                                 |
+| Programming Methods | makecode<br/>python                               |
 
 ## Product List
 

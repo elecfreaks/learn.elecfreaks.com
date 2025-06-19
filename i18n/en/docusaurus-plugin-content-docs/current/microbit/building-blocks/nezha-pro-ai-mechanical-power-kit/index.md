@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-sidebar_label: 哪吒Pro运动套装
+sidebar_label: 哪吒Pro AI机械动力套装
 ---
 
-# 哪吒Pro运动套装
+# 哪吒Pro AI机械动力套装
 
 首图
 

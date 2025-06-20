@@ -1,4 +1,9 @@
-﻿# Case 43: 蠕虫车
+﻿---
+sidebar_position: 43
+sidebar_label: Case 43: 蠕虫车
+---
+
+# Case 43: 蠕虫车
 ## 目的
 制作一辆蠕虫车。
 

@@ -1,4 +1,9 @@
-﻿# Case 35: 游泳机器人
+﻿---
+sidebar_position: 35
+sidebar_label: Case 35: 游泳机器人
+---
+
+# Case 35: 游泳机器人
 ## 目的
 制作一个游泳机器人。
 

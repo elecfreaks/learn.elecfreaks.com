@@ -1,4 +1,9 @@
-﻿# Case 46: 独轮车小人
+﻿---
+sidebar_position: 46
+sidebar_label: Case 46: 独轮车小人
+---
+
+# Case 46: 独轮车小人
 ## 目的
 制作一个骑着独轮车走钢丝的小人。
 

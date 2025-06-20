@@ -1,4 +1,9 @@
-﻿# Case 20: 智能晾衣架
+﻿---
+sidebar_position: 20
+sidebar_label: Case 20: 智能晾衣架
+---
+
+# Case 20: 智能晾衣架
 ## 目的
 使用悟空创意搭建套装制作一辆智能晾衣架。
 

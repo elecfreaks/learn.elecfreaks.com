@@ -1,4 +1,9 @@
-﻿# Case 13: 跷跷板
+﻿---
+sidebar_position: 13
+sidebar_label: Case 13: 跷跷板
+---
+
+# Case 13: 跷跷板
 ## 目的
 使用悟空创意搭建套装制作一个跷跷板。
 

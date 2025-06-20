@@ -1,4 +1,9 @@
-﻿# Case 18: 云梯车
+﻿---
+sidebar_position: 18
+sidebar_label: Case 18: 云梯车
+---
+
+# Case 18: 云梯车
 ## 目的
 使用悟空创意搭建套装制作一辆云梯车。
 

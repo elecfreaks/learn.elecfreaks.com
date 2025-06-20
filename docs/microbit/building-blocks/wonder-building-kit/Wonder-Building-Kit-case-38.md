@@ -1,4 +1,9 @@
-﻿# Case 38: 钟摆
+﻿---
+sidebar_position: 38
+sidebar_label: Case 38: 钟摆
+---
+
+# Case 38: 钟摆
 ## 目的
 制作一个钟摆。
 

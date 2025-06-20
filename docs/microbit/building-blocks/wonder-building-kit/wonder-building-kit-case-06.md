@@ -1,4 +1,9 @@
-﻿# Case 06: 大脚怪
+﻿---
+sidebar_position: 6
+sidebar_label: Case 06: 大脚怪
+---
+
+# Case 06: 大脚怪
 ## 目的
 使用悟空创意搭建套装制作一只大脚怪。
 

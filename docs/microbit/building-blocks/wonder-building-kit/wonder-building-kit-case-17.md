@@ -1,4 +1,9 @@
-﻿# Case 17: 黄包车
+﻿---
+sidebar_position: 17
+sidebar_label: Case 17: 黄包车
+---
+
+# Case 17: 黄包车
 ## 目的
 使用悟空创意搭建套装制作一辆黄包车。
 

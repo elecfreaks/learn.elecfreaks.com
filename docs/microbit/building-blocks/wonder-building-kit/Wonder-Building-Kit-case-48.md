@@ -1,4 +1,9 @@
-﻿# Case 48: 跳绳机器人
+﻿---
+sidebar_position: 48
+sidebar_label: Case 48: 跳绳机器人
+---
+
+# Case 48: 跳绳机器人
 ## 目的
 制作一个跳绳机器人。
 

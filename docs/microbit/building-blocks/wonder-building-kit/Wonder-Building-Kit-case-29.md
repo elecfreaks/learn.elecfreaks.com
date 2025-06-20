@@ -1,4 +1,9 @@
-﻿# Case 29: 投石车
+﻿---
+sidebar_position: 29
+sidebar_label: Case 29: 投石车
+---
+
+# Case 29: 投石车
 ## 目的
 制作一辆投石车。
 

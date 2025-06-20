@@ -1,4 +1,9 @@
-﻿# Case 16: 清扫车
+﻿---
+sidebar_position: 16
+sidebar_label: Case 16: 清扫车
+---
+
+# Case 16: 清扫车
 ## 目的
 使用悟空创意搭建套装制作一台清扫车。
 

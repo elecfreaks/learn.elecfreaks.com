@@ -1,4 +1,9 @@
-﻿# Case 25: 打蛋器
+﻿---
+sidebar_position: 25
+sidebar_label: Case 25: 打蛋器
+---
+
+# Case 25: 打蛋器
 ## 目的
 制作一个打蛋器。
 

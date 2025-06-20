@@ -1,4 +1,9 @@
-﻿# Case 19: 爬行车
+﻿---
+sidebar_position: 19
+sidebar_label: Case 19: 爬行车
+---
+
+# Case 19: 爬行车
 ## 目的
 使用悟空创意搭建套装制作一辆爬行车。
 

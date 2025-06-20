@@ -1,4 +1,9 @@
-﻿# Case 28:雨刷器
+﻿---
+sidebar_position: 28
+sidebar_label: Case 28:雨刷器
+---
+
+# Case 28:雨刷器
 ## 目的
 制作一个雨刷器。
 

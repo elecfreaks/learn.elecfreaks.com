@@ -1,4 +1,9 @@
-﻿# Case 24: 陀螺发射器
+﻿---
+sidebar_position: 24
+sidebar_label: Case 24: 陀螺发射器
+---
+
+# Case 24: 陀螺发射器
 ## 目的
 制作一个陀螺发射器。
 

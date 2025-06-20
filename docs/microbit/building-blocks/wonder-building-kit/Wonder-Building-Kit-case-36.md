@@ -1,4 +1,9 @@
-﻿# Case 36: 叉车
+﻿---
+sidebar_position: 36
+sidebar_label: Case 36: 叉车
+---
+
+# Case 36: 叉车
 ## 目的
 制作一辆叉车。
 

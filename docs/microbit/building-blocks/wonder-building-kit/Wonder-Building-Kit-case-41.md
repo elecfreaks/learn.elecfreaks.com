@@ -1,4 +1,9 @@
-﻿# Case 41: 翅膀
+﻿---
+sidebar_position: 41
+sidebar_label: Case 41: 翅膀
+---
+
+# Case 41: 翅膀
 ## 目的
 制作一对翅膀。
 

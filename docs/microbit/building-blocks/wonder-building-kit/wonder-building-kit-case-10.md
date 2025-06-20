@@ -1,4 +1,9 @@
-﻿# Case 10: 划船车
+﻿---
+sidebar_position: 10
+sidebar_label: Case 10: 划船车
+---
+
+# Case 10: 划船车
 ## 目的
 使用悟空创意搭建套装制作一辆划船车。
 

@@ -1,4 +1,9 @@
-﻿# Case 26: 海盗船
+﻿---
+sidebar_position: 26
+sidebar_label: Case 26: 海盗船
+---
+
+# Case 26: 海盗船
 ## 目的
 制作一艘海盗船。
 

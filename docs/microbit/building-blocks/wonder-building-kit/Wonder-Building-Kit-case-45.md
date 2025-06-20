@@ -1,4 +1,9 @@
-﻿# Case 45: 蟋蟀
+﻿---
+sidebar_position: 45
+sidebar_label: Case 45: 蟋蟀
+---
+
+# Case 45: 蟋蟀
 ## 目的
 制作一只蟋蟀。
 

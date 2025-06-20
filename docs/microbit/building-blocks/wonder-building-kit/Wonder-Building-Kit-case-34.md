@@ -1,4 +1,9 @@
-﻿# Case 34: 机械狗
+﻿---
+sidebar_position: 34
+sidebar_label: Case 34: 机械狗
+---
+
+# Case 34: 机械狗
 ## 目的
 制作一只机械狗。
 

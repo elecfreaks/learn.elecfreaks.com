@@ -1,4 +1,9 @@
-﻿# Case 15: 行走机器人
+﻿---
+sidebar_position: 15
+sidebar_label: Case 15: 行走机器人
+---
+
+# Case 15: 行走机器人
 ## 目的
 使用悟空创意搭建套装制作一台行走机器人。
 

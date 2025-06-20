@@ -1,4 +1,9 @@
-﻿# Case 42: 引体向上
+﻿---
+sidebar_position: 42
+sidebar_label: Case 42: 引体向上
+---
+
+# Case 42: 引体向上
 ## 目的
 制作一个会做引体向上运动的机器人。
 

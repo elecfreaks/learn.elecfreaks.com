@@ -1,4 +1,9 @@
-﻿# Case 08: 机械臂
+﻿---
+sidebar_position: 8
+sidebar_label: Case 08: 机械臂
+---
+
+# Case 08: 机械臂
 ## 目的
 使用悟空创意搭建套装制作一台机械臂。
 

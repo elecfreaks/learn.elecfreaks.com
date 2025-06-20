@@ -1,4 +1,10 @@
-﻿# Case 22: 直升飞机
+﻿---
+sidebar_position: 22
+sidebar_label: Case 22: 直升飞机
+---
+
+
+# Case 22: 直升飞机
 ## 目的
 制作一架直升飞机。
 

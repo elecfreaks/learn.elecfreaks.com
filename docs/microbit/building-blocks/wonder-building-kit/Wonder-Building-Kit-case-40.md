@@ -1,4 +1,9 @@
-﻿# Case 40: 弓弩
+﻿---
+sidebar_position: 40
+sidebar_label: Case 40: 弓弩
+---
+
+# Case 40: 弓弩
 ## 目的
 制作一台弓弩。
 

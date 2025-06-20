@@ -1,4 +1,9 @@
-﻿# Case 09: 自动感应门
+﻿---
+sidebar_position: 9
+sidebar_label: Case 09: 自动感应门
+---
+
+# Case 09: 自动感应门
 ## 目的
 使用悟空创意搭建套装制作一扇自动感应门。
 

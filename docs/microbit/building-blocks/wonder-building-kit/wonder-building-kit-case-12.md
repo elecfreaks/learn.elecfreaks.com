@@ -1,4 +1,9 @@
-﻿# Case 12: 小铲车
+﻿---
+sidebar_position: 12
+sidebar_label: Case 12: 小铲车
+---
+
+# Case 12: 小铲车
 ## 目的
 使用悟空创意搭建套装制作一辆小铲车。
 

@@ -1,4 +1,10 @@
-﻿# Case 33: 两轮摩托车
+﻿---
+sidebar_position: 33
+sidebar_label: Case 33: 两轮摩托车
+---
+
+
+# Case 33: 两轮摩托车
 ## 目的
 制作一辆可以使用手柄遥控的两轮摩托车。
 

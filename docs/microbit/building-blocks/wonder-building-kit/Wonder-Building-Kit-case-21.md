@@ -1,4 +1,9 @@
-﻿# Case 21: 爬行蜘蛛
+﻿---
+sidebar_position: 21
+sidebar_label: Case 21: 爬行蜘蛛
+---
+
+# Case 21: 爬行蜘蛛
 ## 目的
 制作一只爬行蜘蛛。
 

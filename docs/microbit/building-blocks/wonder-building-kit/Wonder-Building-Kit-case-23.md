@@ -1,4 +1,9 @@
-﻿# Case 23: 火车头
+﻿---
+sidebar_position: 23
+sidebar_label: Case 23: 火车头
+---
+
+# Case 23: 火车头
 ## 目的
 制作一个火车头。
 

@@ -1,4 +1,9 @@
-﻿# Case 14: 测距吉他
+﻿---
+sidebar_position: 14
+sidebar_label: Case 14: 测距吉他
+---
+
+# Case 14: 测距吉他
 
 ## 目的
 

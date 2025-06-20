@@ -1,4 +1,9 @@
-﻿# Case 01: 三轮小摩托
+﻿---
+sidebar_position: 1
+sidebar_label: Case 01: 三轮小摩托
+---
+
+# Case 01: 三轮小摩托
 
 ## 目的
 

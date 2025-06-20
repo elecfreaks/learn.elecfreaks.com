@@ -1,4 +1,9 @@
-﻿# Case 03: 陀螺仪底座
+﻿---
+sidebar_position: 3
+sidebar_label: Case 03: 陀螺仪底座
+---
+
+# Case 03: 陀螺仪底座
 
 ## 目的
 

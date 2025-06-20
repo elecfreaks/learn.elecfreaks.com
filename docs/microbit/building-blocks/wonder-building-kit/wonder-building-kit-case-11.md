@@ -1,4 +1,9 @@
-﻿# Case 11: 迷你摩天轮
+﻿---
+sidebar_position: 11
+sidebar_label: Case 11: 迷你摩天轮
+---
+
+# Case 11: 迷你摩天轮
 ## 目的
 使用悟空创意搭建套装制作一个迷你摩天轮.
 

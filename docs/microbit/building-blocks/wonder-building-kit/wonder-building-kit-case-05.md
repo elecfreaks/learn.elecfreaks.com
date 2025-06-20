@@ -1,4 +1,9 @@
-﻿# Case 05:  旋转飞椅
+﻿---
+sidebar_position: 5
+sidebar_label: Case 05: 旋转飞椅
+---
+
+# Case 05:  旋转飞椅
 ## 目的
 
 使用悟空创意搭建套装制作一个旋转飞椅。

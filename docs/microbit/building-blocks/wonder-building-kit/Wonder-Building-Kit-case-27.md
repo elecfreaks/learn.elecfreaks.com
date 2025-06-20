@@ -1,4 +1,9 @@
-﻿# Case 27: 智能垃圾桶
+﻿---
+sidebar_position: 27
+sidebar_label: Case 27: 智能垃圾桶
+---
+
+# Case 27: 智能垃圾桶
 ## 目的
 制作一个智能垃圾桶。
 

@@ -1,4 +1,9 @@
-﻿# Case 30: 氛围灯
+﻿---
+sidebar_position: 30
+sidebar_label: Case 30: 氛围灯
+---
+
+# Case 30: 氛围灯
 ## 目的
 制作一个氛围灯。
 

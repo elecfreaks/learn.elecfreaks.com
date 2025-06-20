@@ -1,4 +1,9 @@
-﻿# Case 44: 摇头风扇
+﻿---
+sidebar_position: 44
+sidebar_label: Case 44: 摇头风扇
+---
+
+# Case 44: 摇头风扇
 ## 目的
 制作一台摇头风扇。
 

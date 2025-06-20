@@ -1,4 +1,9 @@
-﻿# Case 07: 计数篮球架
+﻿---
+sidebar_position: 7
+sidebar_label: Case 07: 计数篮球架
+---
+
+# Case 07: 计数篮球架
 ## 目的
 使用悟空创意搭建套装制作一个计数篮球架。
 

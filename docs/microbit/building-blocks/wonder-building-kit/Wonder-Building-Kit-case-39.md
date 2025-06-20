@@ -1,4 +1,9 @@
-﻿# Case 39: 举重机器人
+﻿---
+sidebar_position: 39
+sidebar_label: Case 39: 举重机器人
+---
+
+# Case 39: 举重机器人
 ## 目的
 制作一个举重机器人。
 

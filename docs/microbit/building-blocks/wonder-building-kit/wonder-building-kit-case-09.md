@@ -61,6 +61,17 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-09-22.png)
 
+## 传感器安装示意图
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-09-07.png)
+
+## 硬件连接
+
+将超声波传感器安装到悟空扩展板的P0接口，将舵机连接到悟空扩展板的S0接口。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-09-06.png)
+
+
 ## 软件编程平台
 
 [MakeCode](https://makecode.microbit.org/)

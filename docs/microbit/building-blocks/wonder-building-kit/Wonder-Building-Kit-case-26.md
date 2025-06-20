@@ -71,6 +71,12 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-26-29.png)
 
+## 硬件连接
+
+将舵机连接到悟空扩展板的S1接口。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-26-06.png)
+
 ## 编程平台
 
 [MakeCode](https://makecode.microbit.org/)

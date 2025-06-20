@@ -35,12 +35,17 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/step-case-02-08.png)
 
+## 传感器安装示意图
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-02-07.png)
+
 ## 硬件连线
 
 将两个电机分别连接到悟空扩展板的M1和M2接口，将双路巡线传感器的两个端口连接到悟空扩展板的P1和P2接口。
-<!--
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-02-06.png)
--->
+
+
 ## 软件编程平台
 
 [MakeCode](https://makecode.microbit.org/)

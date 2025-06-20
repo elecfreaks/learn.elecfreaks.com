@@ -71,6 +71,11 @@
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-34-29.png)
 
+## 硬件连接
+
+将电机连接到悟空扩展板的M1接口。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-23-06.png)
 
 
 ## 编程平台
@@ -78,7 +83,8 @@
 [MakeCode](https://makecode.microbit.org/)
 
 ## 编程
-## 添加扩展
+
+### 添加扩展
 在MakeCode的代码抽屉中点击高级，查看更多代码选项，点击扩展。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-21-02.png)

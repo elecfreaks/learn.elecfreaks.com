@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 33
-sidebar_label: Case 33: 两轮摩托车
+sidebar_label: Case 33:两轮摩托车
 ---
 
 

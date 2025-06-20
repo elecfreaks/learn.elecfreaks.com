@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 22
-sidebar_label: Case 22: 直升飞机
+sidebar_label: Case 22:直升飞机
 ---
 
 

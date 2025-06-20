@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 21
-sidebar_label: Case 21: 爬行蜘蛛
+sidebar_label: Case 21:爬行蜘蛛
 ---
 
 # Case 21: 爬行蜘蛛

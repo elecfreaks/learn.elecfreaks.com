@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 27
-sidebar_label: Case 27: 智能垃圾桶
+sidebar_label: Case 27:智能垃圾桶
 ---
 
 # Case 27: 智能垃圾桶

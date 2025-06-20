@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 18
-sidebar_label: Case 18: 云梯车
+sidebar_label: Case 18:云梯车
 ---
 
 # Case 18: 云梯车

@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 15
-sidebar_label: Case 15: 行走机器人
+sidebar_label: Case 15:行走机器人
 ---
 
 # Case 15: 行走机器人

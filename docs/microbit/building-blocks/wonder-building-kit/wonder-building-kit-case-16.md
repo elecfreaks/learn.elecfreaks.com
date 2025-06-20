@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 16
-sidebar_label: Case 16: 清扫车
+sidebar_label: Case 16:清扫车
 ---
 
 # Case 16: 清扫车

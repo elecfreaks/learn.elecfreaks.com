@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 47
-sidebar_label: Case 47: 会飞的车
+sidebar_label: Case 47:会飞的车
 ---
 
 # Case 47: 会飞的车

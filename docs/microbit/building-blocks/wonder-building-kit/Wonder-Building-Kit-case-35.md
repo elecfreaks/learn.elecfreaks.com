@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 35
-sidebar_label: Case 35: 游泳机器人
+sidebar_label: Case 35:游泳机器人
 ---
 
 # Case 35: 游泳机器人

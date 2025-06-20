@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 48
-sidebar_label: Case 48: 跳绳机器人
+sidebar_label: Case 48:跳绳机器人
 ---
 
 # Case 48: 跳绳机器人

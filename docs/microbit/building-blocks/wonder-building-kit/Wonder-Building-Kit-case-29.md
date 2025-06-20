@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 29
-sidebar_label: Case 29: 投石车
+sidebar_label: Case 29:投石车
 ---
 
 # Case 29: 投石车

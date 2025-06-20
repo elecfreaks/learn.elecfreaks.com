@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 24
-sidebar_label: Case 24: 陀螺发射器
+sidebar_label: Case 24:陀螺发射器
 ---
 
 # Case 24: 陀螺发射器

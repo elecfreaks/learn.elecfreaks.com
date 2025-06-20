@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 32
-sidebar_label: Case 32: 机械狗
+sidebar_label: Case 32:机械狗
 ---
 
 # Case 32: 机械狗

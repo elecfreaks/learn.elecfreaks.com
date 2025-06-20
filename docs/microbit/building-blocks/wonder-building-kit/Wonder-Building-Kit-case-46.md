@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 46
-sidebar_label: Case 46: 独轮车小人
+sidebar_label: Case 46:独轮车小人
 ---
 
 # Case 46: 独轮车小人

@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 20
-sidebar_label: Case 20: 智能晾衣架
+sidebar_label: Case 20:智能晾衣架
 ---
 
 # Case 20: 智能晾衣架

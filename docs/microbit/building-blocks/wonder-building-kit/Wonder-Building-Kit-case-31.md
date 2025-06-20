@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 31
-sidebar_label: Case 31: 画画机
+sidebar_label: Case 31:画画机
 ---
 
 # Case 31: 画画机

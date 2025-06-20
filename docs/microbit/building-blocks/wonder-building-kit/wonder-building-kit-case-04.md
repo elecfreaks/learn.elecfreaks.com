@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 4
-sidebar_label: Case 04: 避障车
+sidebar_label: Case 04:避障车
 ---
 
 # Case 04: 避障车

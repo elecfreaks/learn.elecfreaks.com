@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 2
-sidebar_label: Case 02: 巡线车
+sidebar_label: Case 02:巡线车
 ---
 
 # Case 02: 巡线车

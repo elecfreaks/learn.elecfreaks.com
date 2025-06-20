@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 11
-sidebar_label: Case 11: 迷你摩天轮
+sidebar_label: Case 11:迷你摩天轮
 ---
 
 # Case 11: 迷你摩天轮

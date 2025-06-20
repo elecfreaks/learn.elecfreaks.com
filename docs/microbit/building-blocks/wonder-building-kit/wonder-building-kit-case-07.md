@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 7
-sidebar_label: Case 07: 计数篮球架
+sidebar_label: Case 07:计数篮球架
 ---
 
 # Case 07: 计数篮球架

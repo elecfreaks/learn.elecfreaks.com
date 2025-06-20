@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 9
-sidebar_label: Case 09: 自动感应门
+sidebar_label: Case 09:自动感应门
 ---
 
 # Case 09: 自动感应门

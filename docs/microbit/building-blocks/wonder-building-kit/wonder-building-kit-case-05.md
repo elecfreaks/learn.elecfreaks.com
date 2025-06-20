@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 5
-sidebar_label: Case 05: 旋转飞椅
+sidebar_label: Case 05:旋转飞椅
 ---
 
 # Case 05:  旋转飞椅

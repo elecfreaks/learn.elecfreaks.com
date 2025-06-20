@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 44
-sidebar_label: Case 44: 摇头风扇
+sidebar_label: Case 44:摇头风扇
 ---
 
 # Case 44: 摇头风扇

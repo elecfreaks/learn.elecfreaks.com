@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 13
-sidebar_label: Case 13: 跷跷板
+sidebar_label: Case 13:跷跷板
 ---
 
 # Case 13: 跷跷板

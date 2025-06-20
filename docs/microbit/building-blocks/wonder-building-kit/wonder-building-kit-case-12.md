@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 12
-sidebar_label: Case 12: 小铲车
+sidebar_label: Case 12:小铲车
 ---
 
 # Case 12: 小铲车

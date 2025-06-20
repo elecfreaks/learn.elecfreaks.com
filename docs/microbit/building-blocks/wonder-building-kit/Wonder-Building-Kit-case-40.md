@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 40
-sidebar_label: Case 40: 弓弩
+sidebar_label: Case 40:弓弩
 ---
 
 # Case 40: 弓弩

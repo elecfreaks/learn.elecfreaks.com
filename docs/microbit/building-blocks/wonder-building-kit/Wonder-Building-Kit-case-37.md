@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 37
-sidebar_label: Case 37: 转向车
+sidebar_label: Case 37:转向车
 ---
 
 # Case 37: 转向车

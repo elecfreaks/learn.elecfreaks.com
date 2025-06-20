@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 30
-sidebar_label: Case 30: 氛围灯
+sidebar_label: Case 30:氛围灯
 ---
 
 # Case 30: 氛围灯

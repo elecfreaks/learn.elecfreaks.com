@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 26
-sidebar_label: Case 26: 海盗船
+sidebar_label: Case 26:海盗船
 ---
 
 # Case 26: 海盗船

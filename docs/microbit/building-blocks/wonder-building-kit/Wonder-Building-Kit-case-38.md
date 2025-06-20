@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 38
-sidebar_label: Case 38: 钟摆
+sidebar_label: Case 38:钟摆
 ---
 
 # Case 38: 钟摆

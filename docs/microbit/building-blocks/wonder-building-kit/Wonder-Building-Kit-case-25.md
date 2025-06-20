@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 25
-sidebar_label: Case 25: 打蛋器
+sidebar_label: Case 25:打蛋器
 ---
 
 # Case 25: 打蛋器

@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 39
-sidebar_label: Case 39: 举重机器人
+sidebar_label: Case 39:举重机器人
 ---
 
 # Case 39: 举重机器人

@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 10
-sidebar_label: Case 10: 划船车
+sidebar_label: Case 10:划船车
 ---
 
 # Case 10: 划船车

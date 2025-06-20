@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 45
-sidebar_label: Case 45: 蟋蟀
+sidebar_label: Case 45:蟋蟀
 ---
 
 # Case 45: 蟋蟀

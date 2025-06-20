@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 43
-sidebar_label: Case 43: 蠕虫车
+sidebar_label: Case 43:蠕虫车
 ---
 
 # Case 43: 蠕虫车

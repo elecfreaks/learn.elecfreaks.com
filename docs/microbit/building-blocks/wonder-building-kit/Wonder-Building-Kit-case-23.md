@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 23
-sidebar_label: Case 23: 火车头
+sidebar_label: Case 23:火车头
 ---
 
 # Case 23: 火车头

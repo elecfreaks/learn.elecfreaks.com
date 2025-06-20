@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 6
-sidebar_label: Case 06: 大脚怪
+sidebar_label: Case 06:大脚怪
 ---
 
 # Case 06: 大脚怪

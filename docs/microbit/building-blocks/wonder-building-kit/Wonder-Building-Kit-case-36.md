@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 36
-sidebar_label: Case 36: 叉车
+sidebar_label: Case 36:叉车
 ---
 
 # Case 36: 叉车

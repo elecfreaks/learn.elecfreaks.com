@@ -79,3 +79,9 @@ sidebar_label: Case 10:划船车
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-10-05.png)
 
 程序链接：[https://makecode.microbit.org/_5t8W90cX625t](https://makecode.microbit.org/_5t8W90cX625t)
+
+## 结果
+
+开启之后，当超声波传感器检测到前方有人时，自动打开门。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-09.gif)

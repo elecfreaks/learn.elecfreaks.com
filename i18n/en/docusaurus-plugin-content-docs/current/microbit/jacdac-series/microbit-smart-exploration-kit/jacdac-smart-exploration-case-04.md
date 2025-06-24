@@ -15,7 +15,7 @@ When the human infrared sensor detects a pedestrian passing by and the light sen
 3. Learn about the human infrared sensor and light sensor programming blocks in MakeCode.
 
 ---
-## 所需材料：
+## Materials required：
 |Item|Picture|Quantity|
 |--|--|--|
 |micro:bit V2|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png)|1|

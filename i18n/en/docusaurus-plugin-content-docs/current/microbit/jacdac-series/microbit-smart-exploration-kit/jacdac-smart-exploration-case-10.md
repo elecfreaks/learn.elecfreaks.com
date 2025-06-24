@@ -13,7 +13,7 @@ A password system built using a rotary encoder and a button sensor, where a ligh
 2. Understand the For loop building blocks in MakeCode
 
 ---
-## 所需材料：
+## Materials required：
 |Item|Picture|Number|
 |--|--|--|
 |micro:bit V2|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png)|1|

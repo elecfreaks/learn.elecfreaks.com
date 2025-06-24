@@ -8,7 +8,7 @@ sidebar_label: Product Introduction
 ## Overview
 
 **micro:bit Smart Home Explorer Kit**
-Designed for 8-16-year-old teenagers, this hands-on kit uses sensors, servos, and 拼装 (assemblable) structural components to build life-oriented devices such as smart lighting, automatic clothes drying racks, and temperature-controlled fans. From hardware connection to logical control, it enables learning of basic programming and electronic engineering principles, cultivating creativity and problem-solving skills in real-world scenarios, and bringing technological exploration back to the essence of life.
+Designed for 8-16-year-old teenagers, this hands-on kit uses sensors, servos, and assemblable structural components to build life-oriented devices such as smart lighting, automatic clothes drying racks, and temperature-controlled fans. From hardware connection to logical control, it enables learning of basic programming and electronic engineering principles, cultivating creativity and problem-solving skills in real-world scenarios, and bringing technological exploration back to the essence of life.
 
 
 

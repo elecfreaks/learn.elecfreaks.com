@@ -1,3 +1,4 @@
+---
 sidebar_position: 1
 sidebar_label: Petal Series Basic Expansion Board (Petal:bit)
 ---

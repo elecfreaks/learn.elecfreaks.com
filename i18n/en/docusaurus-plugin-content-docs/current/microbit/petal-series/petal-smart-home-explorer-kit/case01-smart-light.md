@@ -33,7 +33,7 @@ These materials will provide you with a complete experience to ensure you can sm
 
   In modern architecture, light-controlled lighting systems are widely used in:
 
-  
+
 
   - Automatic on/off lighting in underground garages
 - Classroom natural light linkage supplementary lighting system
@@ -58,7 +58,7 @@ Programming platform entry: https://makecode.microbit.org/
 
 ### Create a New Project
 
-Open https://makecode.microbit.org/.https://makecode.microbit.org/)
+Open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/makecode.png)
 

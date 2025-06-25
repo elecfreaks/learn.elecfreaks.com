@@ -1,5 +1,5 @@
 ---
-sidebar_position: 五
+sidebar_position: 5
 sidebar_label: 案例五：天气小伙伴
 ---
 

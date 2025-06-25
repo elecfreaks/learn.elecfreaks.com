@@ -9,7 +9,7 @@ sidebar_label: 温控风扇
 
 欢迎来到温控风扇的制作课堂！本项目使用micro:bit开发板、OLED显示屏、温湿度传感器和风扇模块，亲手制作一个能“感知温度”的智能小风扇，感受科技与生活的结合。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-05-01.png)
 
 
 ## 教学目标
@@ -43,7 +43,7 @@ sidebar_label: 温控风扇
 
 将温湿度传感器和OLED显示屏连接到花瓣基础扩展板的IIC接口，将风扇模块连接到花瓣基础扩展板的J1接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-05-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-05-02.png)
 
 
 ### 编程平台
@@ -80,9 +80,9 @@ sidebar_label: 温控风扇
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_UbbhJc0mP75C](https://makecode.microbit.org/_UbbhJc0mP75C)
+示例程序：[https://makecode.microbit.org/_8V9RkW0go0F2](https://makecode.microbit.org/_8V9RkW0go0F2)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-05-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-05-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -94,7 +94,7 @@ sidebar_label: 温控风扇
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_UbbhJc0mP75C"
+        src="https://makecode.microbit.org/_8V9RkW0go0F2"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

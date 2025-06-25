@@ -9,7 +9,7 @@ sidebar_label: Smart Light
 
 In this project, we will learn how to make a smart light that uses a micro:bit to monitor ambient light. When insufficient light is detected, the system automatically triggers the LED light set to provide illumination, achieving automated light control functionality.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-01-01.png)
 
 ## Teaching Objectives
 
@@ -46,7 +46,7 @@ These materials will provide you with a complete experience to ensure you can sm
 
 Connect the rainbow light to the J1 interface of the Petal Base Expansion Board.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-01-02.png)
 
 ### Programming Platform
 
@@ -83,9 +83,9 @@ In the pop-up page, search for `petal` and click to select the petal software li
 
 ### Write the Program
 
-Example program: https://makecode.microbit.org/_7Yv4EfLiC53y
+Example program: [https://makecode.microbit.org/_UXT4YHJEmYYc](https://makecode.microbit.org/_UXT4YHJEmYYc)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-01-03.png)
 
 You can also directly download the program through the following web page.
 
@@ -97,7 +97,7 @@ You can also directly download the program through the following web page.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_7Yv4EfLiC53y"
+        src="https://makecode.microbit.org/_UXT4YHJEmYYc"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

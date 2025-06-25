@@ -9,7 +9,7 @@ sidebar_label: 智能灯
 
 在本项目中，我们将学习如何制作一个智能灯，采用micro:bit监测环境光照。当检测到光线不足时，系统自动触发LED灯组提供照明，实现自动化光控功能。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-01-01.png)
 
 ## 教学目标
 
@@ -47,7 +47,7 @@ sidebar_label: 智能灯
 
 将彩虹灯连接到花瓣基础扩展板的J1接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-01-02.png)
 
 ### 编程平台
 
@@ -83,21 +83,21 @@ sidebar_label: 智能灯
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_7Yv4EfLiC53y](https://makecode.microbit.org/_7Yv4EfLiC53y)
+示例程序：[https://makecode.microbit.org/_UXT4YHJEmYYc](https://makecode.microbit.org/_UXT4YHJEmYYc)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-01-03.png)
 
 你也可以通过以下网页直接下载程序。
 
 <div
-    style={{
+    style={{l
         position: 'relative',
         paddingBottom: '60%',
         overflow: 'hidden',
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_7Yv4EfLiC53y"
+        src="https://makecode.microbit.org/_UXT4YHJEmYYc"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

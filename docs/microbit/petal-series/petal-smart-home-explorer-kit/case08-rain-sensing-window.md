@@ -9,7 +9,7 @@ sidebar_label: 雨水感应窗户
 
 在本项目中，我们将学习如何制作一个雨水感应窗户。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-08-01.png)
+
 
 **注意：此案例无法使用套装结构件进行实际的应用场景模拟，但可以实现基本的案例制作。**
 
@@ -49,7 +49,7 @@ sidebar_label: 雨水感应窗户
 将OLED显示屏连接到花瓣基础扩展板的IIC接口。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-08-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-08-02.png)
 
 
 ### 编程平台
@@ -86,9 +86,9 @@ sidebar_label: 雨水感应窗户
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_bzq5Xj70wJDt](https://makecode.microbit.org/_bzq5Xj70wJDt)
+示例程序：[https://makecode.microbit.org/_6bk0s8bqf5rF](https://makecode.microbit.org/_6bk0s8bqf5rF)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-08-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-08-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -100,7 +100,7 @@ sidebar_label: 雨水感应窗户
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_bzq5Xj70wJDt"
+        src="https://makecode.microbit.org/_6bk0s8bqf5rF"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

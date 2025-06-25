@@ -9,7 +9,7 @@ sidebar_label: Rain Sensing Window
 
 In this project, we will learn how to make a rain sensing window.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-08-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-08-01.png)
 
 **Note: This case cannot be used with the kit's structural components for actual application scenario simulation, but basic case production can be achieved.**
 
@@ -45,7 +45,7 @@ The rain sensing window detects the accumulation of rainwater on the windowsill 
 - Connect the OLED display to the IIC interface of the Petal Base Expansion Board.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-08-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-08-02.png)
 
 ### Programming Platform
 
@@ -57,7 +57,7 @@ Programming platform entry: https://makecode.microbit.org/
 
 ### Create a New Project
 
-Open https://makecode.microbit.org/.https://makecode.microbit.org/)
+Open https://makecode.microbit.org/.https://makecode.microbit.org/
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/makecode.png)
 
@@ -82,9 +82,9 @@ In the pop-up page, search for `petal` and click to select the petal software li
 
 ###  Write the Program
 
-Example program: https://makecode.microbit.org/_bzq5Xj70wJDthttps://makecode.microbit.org/_bzq5Xj70wJDt)
+Example program: [https://makecode.microbit.org/_6bk0s8bqf5rF](https://makecode.microbit.org/_6bk0s8bqf5rF)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-08-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-08-03.png)
 
 You can also directly download the program through the following web page.
 
@@ -96,7 +96,7 @@ You can also directly download the program through the following web page.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_bzq5Xj70wJDt"
+        src="https://makecode.microbit.org/_6bk0s8bqf5rF"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

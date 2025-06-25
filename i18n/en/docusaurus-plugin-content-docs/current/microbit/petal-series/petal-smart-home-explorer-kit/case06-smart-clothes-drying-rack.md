@@ -9,7 +9,7 @@ sidebar_label: Smart Clothes Drying Rack
 
 In this project, we will learn how to make a smart clothes drying rack. Using a micro:bit board, water level sensor, and servo motor connected via a Petal Base Expansion Board, this project achieves the intelligent function of automatically retracting the drying rod in rainy weather and extending it in sunny weather. By making a drying rack that can "sense the weather," you can experience the application of the Internet of Things in daily life.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-06-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-06-01.png)
 
 ## Teaching Objectives
 
@@ -41,7 +41,7 @@ What if it suddenly rains while drying clothes? Traditional drying racks need to
 - Connect the Adapter to the J2 interface of the Petal Base Expansion Board.
 - Connect the servo motor to the S1 interface of the Adapter.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-06-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-06-02.png)
 
 ### Programming Platform
 
@@ -78,7 +78,7 @@ In the pop-up page, search for `petal` and click to select the petal software li
 
 ### Write the Program
 
-Example program: https://makecode.microbit.org/_beJ7yi8TR0bJ
+Example program: [https://makecode.microbit.org/_KVLL2cbfpWChJ](https://makecode.microbit.org/_KVLL2cbfpWChJ)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-01-03.png)
 
@@ -92,7 +92,7 @@ You can also directly download the program through the following web page.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_beJ7yi8TR0bJ"
+        src="https://makecode.microbit.org/_KVLL2cbfpWChJ"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

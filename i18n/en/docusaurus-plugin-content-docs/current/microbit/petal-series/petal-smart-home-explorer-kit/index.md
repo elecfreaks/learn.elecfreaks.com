@@ -9,7 +9,7 @@ sidebar_label: micro:bit Smart Home Explorer Kit
 
 The micro:bit Smart Home Explorer Kit is a hands-on learning suite designed for teenagers aged 8-16. Using sensors, servos, and assemblable structural components, it enables the construction of life-oriented devices like smart lighting, automatic clothes drying racks, and temperature-controlled fans. From hardware connection to logical control, users can learn basic programming and principles of electronic engineering, cultivating creativity and problem-solving skills in real-world scenarios, and bringing technological exploration back to the essence of daily life.
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/petal-smart-home-explorer-kit-01.png)
 
 **Build your smart home devices with micro:bit and unlock the mysteries of technology through hands-on creation!**
 
@@ -30,7 +30,7 @@ The micro:bit Smart Home Explorer Kit is a hands-on learning suite designed for 
 
 ## Product List
 
-List diagram
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/petal-smart-home-explorer-kit-02.png)
 
 ## Hardware Introduction
 

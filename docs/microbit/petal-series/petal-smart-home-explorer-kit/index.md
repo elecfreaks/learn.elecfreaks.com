@@ -10,6 +10,8 @@ sidebar_label: micro:bit Smart Home Explorer Kit
 micro:bit 智能家庭探索者套装
 专为8-16岁青少年设计的动手实践套件，通过传感器、舵机与可拼装结构件，搭建智能灯光、自动晾衣架、温控风扇等生活化装置。从硬件连接到逻辑控制，学习基础编程与电子工程原理，在真实场景中培养创造力与解决问题的能力，让科技探索回归生活本质。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/petal-smart-home-explorer-kit-01.png)
+
 **用micro:bit搭建你的智能家居装置，在动手创造中解锁科技奥秘！**
 
 ## 产品参数
@@ -29,7 +31,9 @@ micro:bit 智能家庭探索者套装
 
 ## 产品清单
 
-清单图
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/petal-smart-home-explorer-kit-02.png)
+
 
 ## 硬件介绍
 

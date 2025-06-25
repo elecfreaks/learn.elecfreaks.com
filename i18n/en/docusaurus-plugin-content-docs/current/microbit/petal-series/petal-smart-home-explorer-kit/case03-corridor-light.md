@@ -9,7 +9,7 @@ sidebar_label: Corridor Light
 
 This project uses a micro:bit board, leveraging its **onboard noise detection module** and **light sensor**, combined with an external RGB LED light, to achieve intelligent response to both ambient light and sound. When it detects **insufficient light and noise exceeding a threshold**, the RGB light automatically turns on; when the environment returns to quiet or light is sufficient, the light automatically turns off. It is suitable for smart home, creative interactive installations, and other scenarios.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-03-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-03-01.png)
 
 ## Teaching Objectives
 
@@ -43,7 +43,7 @@ How do smart lights in public places achieve automatic induction? This project w
 
 Connect the rainbow light to the J1 interface of the Petal Base Expansion Board.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-03-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-03-02.png)
 
 ### Programming Platform
 
@@ -55,7 +55,7 @@ Programming platform entry: https://makecode.microbit.org/
 
 ### Create a New Project
 
-Open https://makecode.microbit.org/.https://makecode.microbit.org/)
+Open (https://makecode.microbit.org/.https://makecode.microbit.org/)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/makecode.png)
 
@@ -80,9 +80,9 @@ In the pop-up page, search for `petal` and click to select the petal software li
 
 ### Write the Program
 
-Example program: https://makecode.microbit.org/_AidEXMgeMAJt
+Example program: [https://makecode.microbit.org/_g0eLuTR1KJjD](https://makecode.microbit.org/_g0eLuTR1KJjD)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-03-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-03-03.png)
 
 You can also directly download the program through the following web page.
 
@@ -94,7 +94,7 @@ You can also directly download the program through the following web page.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_AidEXMgeMAJt"
+        src="https://makecode.microbit.org/_g0eLuTR1KJjD"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

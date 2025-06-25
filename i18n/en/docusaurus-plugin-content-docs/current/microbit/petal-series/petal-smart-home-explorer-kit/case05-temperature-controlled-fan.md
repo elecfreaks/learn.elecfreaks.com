@@ -9,7 +9,7 @@ sidebar_label: Temperature-Controlled Fan
 
 Welcome to the class on making a temperature-controlled fan! This project uses a micro:bit board, OLED display, temperature-humidity sensor, and fan module to build a smart small fan that can "sense temperature," allowing you to experience the integration of technology and daily life.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-05-01.png)
 
 ## Teaching Objectives
 
@@ -40,7 +40,7 @@ When doing homework in summer, it's troublesome to manually switch the fan on an
 - Connect the temperature-humidity sensor and OLED display to the IIC interface of the Petal Base Expansion Board.
 - Connect the fan module to the J1 interface of the Petal Base Expansion Board.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-05-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-05-02.png)
 
 ### Programming Platform
 
@@ -77,9 +77,9 @@ In the pop-up page, search for `petal` and click to select the petal software li
 
 ### Write the Program
 
-Example program: https://makecode.microbit.org/_UbbhJc0mP75C
+Example program: [https://makecode.microbit.org/_8V9RkW0go0F2](https://makecode.microbit.org/_8V9RkW0go0F2)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-05-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-05-03.png)
 
 You can also directly download the program through the following web page.
 
@@ -91,7 +91,7 @@ You can also directly download the program through the following web page.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_UbbhJc0mP75C"
+        src="https://makecode.microbit.org/_8V9RkW0go0F2"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

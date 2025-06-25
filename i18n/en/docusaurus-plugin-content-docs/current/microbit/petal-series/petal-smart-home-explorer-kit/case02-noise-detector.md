@@ -9,7 +9,7 @@ sidebar_label:  Noise Detector
 
 This project guides you to build a simple noise detector using a micro:bit board. By leveraging the onboard microphone module to collect real-time environmental sound signals, the noise level is visualized on an OLED matrix after data processing, enabling intuitive monitoring of ambient noise.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-02-01.png)
 
 ## Teaching Objectives
 
@@ -71,9 +71,9 @@ Search for `petal` in the pop-up window and select the petal software library.
 
 ### Write the Program
 
-Example program: https://makecode.microbit.org/_W6k11ULjzM63
+Example program: [https://makecode.microbit.org/_XDP81wYyXbf8](https://makecode.microbit.org/_XDP81wYyXbf8)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-02-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-02-03.png)
 
 You can also directly download the program via the embedded iframe below:
 
@@ -85,7 +85,7 @@ You can also directly download the program via the embedded iframe below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_W6k11ULjzM63"
+        src="https://makecode.microbit.org/_XDP81wYyXbf8"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

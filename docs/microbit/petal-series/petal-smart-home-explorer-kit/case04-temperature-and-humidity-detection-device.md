@@ -9,7 +9,7 @@ sidebar_label: 温湿度检测装置
 
 欢迎来到温湿度检测装置的制作课堂！本项目使用micro:bit开发板、OLED显示屏和温湿度传感器，通过花瓣基础扩展板的IIC接口连接，实现实时环境温湿度的检测与显示。中小学生可以通过简单的硬件连接和图形化编程，亲手制作一个能“感知”天气的小仪器，了解身边的温湿度变化。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-04-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-04-01.png)
 
 ## 教学目标
 
@@ -83,9 +83,9 @@ sidebar_label: 温湿度检测装置
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_g7FeULdFucYt](https://makecode.microbit.org/_g7FeULdFucYt)
+示例程序：[https://makecode.microbit.org/_7Wog5ydxPRym](https://makecode.microbit.org/_7Wog5ydxPRym)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-04-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-04-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -97,7 +97,7 @@ sidebar_label: 温湿度检测装置
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_g7FeULdFucYt"
+        src="https://makecode.microbit.org/_7Wog5ydxPRym"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

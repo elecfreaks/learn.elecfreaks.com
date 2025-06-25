@@ -9,7 +9,7 @@ sidebar_label: 智能房屋
 
 在本项目中，我们将学习如何制作一个智能房屋，结合前面的几个课程和结构件，实际制作一个拥有智能晾衣架、温控风扇、温湿度提醒、节能灯的综合性案例。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-07-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-07-01.png)
 
 ## 教学目标
 
@@ -87,9 +87,9 @@ sidebar_label: 智能房屋
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_4yca1hJhV7d2](https://makecode.microbit.org/_4yca1hJhV7d2)
+示例程序：[https://makecode.microbit.org/_1HFgEsKExWMq](https://makecode.microbit.org/_1HFgEsKExWMq)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-07-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-07-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -101,7 +101,7 @@ sidebar_label: 智能房屋
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_4yca1hJhV7d2"
+        src="https://makecode.microbit.org/_1HFgEsKExWMq"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

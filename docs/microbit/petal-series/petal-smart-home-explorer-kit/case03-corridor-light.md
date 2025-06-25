@@ -9,7 +9,7 @@ sidebar_label: 楼道灯
 
 本项目基于micro:bit开发板，利用**板载噪音检测模块**和**光线传感器**，结合外接RGB LED灯，实现环境光与声音的双重智能响应。当检测到**光线不足且噪音超过阈值**时，RGB灯自动亮起；环境恢复安静或光线充足时，灯光自动熄灭，适用于智能家居、创意互动装置等场景。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-03-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-03-01.png)
 
 
 ## 教学目标
@@ -44,7 +44,7 @@ sidebar_label: 楼道灯
 
 将彩虹灯连接到花瓣基础扩展板的J1接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-03-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-03-02.png)
 
 
 ### 编程平台
@@ -81,9 +81,9 @@ sidebar_label: 楼道灯
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_AidEXMgeMAJt](https://makecode.microbit.org/_AidEXMgeMAJt)
+示例程序：[https://makecode.microbit.org/_g0eLuTR1KJjD](https://makecode.microbit.org/_g0eLuTR1KJjD)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-03-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-03-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -95,7 +95,7 @@ sidebar_label: 楼道灯
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_AidEXMgeMAJt"
+        src="https://makecode.microbit.org/_g0eLuTR1KJjD"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -9,7 +9,7 @@ sidebar_label: Temperature and Humidity Detection Device
 
 Welcome to the class on making a temperature and humidity detection device! This project uses a micro:bit board, OLED display, and temperature-humidity sensor connected via the IIC interface of the Petal Base Expansion Board to achieve real-time detection and display of environmental temperature and humidity. Primary and middle school students can make a small instrument that "senses" the weather through simple hardware connection and graphical programming, understanding the changes in temperature and humidity around them.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-04-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-04-01.png)
 
 ## Teaching Objectives
 
@@ -55,7 +55,7 @@ Programming platform entry: https://makecode.microbit.org/
 
 ### Create a New Project
 
-Open https://makecode.microbit.org/.https://makecode.microbit.org/)
+Open https://makecode.microbit.org/.https://makecode.microbit.org/
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/makecode.png)
 
@@ -80,7 +80,7 @@ In the pop-up page, search for `petal` and click to select the petal software li
 
 ### Write the Program
 
-Example program: https://makecode.microbit.org/_g7FeULdFucYt
+Example program: [https://makecode.microbit.org/_7Wog5ydxPRym](https://makecode.microbit.org/_7Wog5ydxPRym)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-04-03.png)
 
@@ -94,7 +94,7 @@ You can also directly download the program through the following web page.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_g7FeULdFucYt"
+        src="https://makecode.microbit.org/_7Wog5ydxPRym"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

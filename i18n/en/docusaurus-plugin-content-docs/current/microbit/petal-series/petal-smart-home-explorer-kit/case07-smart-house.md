@@ -9,7 +9,7 @@ sidebar_label: Smart House
 
 In this project, we will learn how to build a smart house. By combining the previous courses and structural components, we will create a comprehensive case featuring a smart clothes drying rack, temperature-controlled fan, temperature-humidity reminder, and energy-saving lights.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-07-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-07-01.png)
 
 ## Teaching Objectives
 
@@ -44,7 +44,7 @@ In the previous courses, we learned about cases such as the smart clothes drying
 - Connect the temperature-humidity sensor and OLED display to the IIC interface of the Petal Base Expansion Board.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-07-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-07-02.png)
 
 ### Programming Platform
 
@@ -56,7 +56,7 @@ Programming platform entry: https://makecode.microbit.org/
 
 ### Create a New Project
 
-Open https://makecode.microbit.org/.https://makecode.microbit.org/)
+Open https://makecode.microbit.org/.https://makecode.microbit.org/
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/makecode.png)
 
@@ -81,9 +81,9 @@ In the pop-up page, search for `petal` and click to select the petal software li
 
 ### Write the Program
 
-Example program: https://makecode.microbit.org/_4yca1hJhV7d2
+Example program: [https://makecode.microbit.org/_1HFgEsKExWMq](https://makecode.microbit.org/_1HFgEsKExWMq)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-07-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-07-03.png)
 
 You can also directly download the program through the following web page.
 
@@ -95,7 +95,7 @@ You can also directly download the program through the following web page.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_4yca1hJhV7d2"
+        src="https://makecode.microbit.org/_1HFgEsKExWMq"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

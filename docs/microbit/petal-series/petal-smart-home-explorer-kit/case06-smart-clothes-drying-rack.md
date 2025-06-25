@@ -9,7 +9,7 @@ sidebar_label: 智能晾衣架
 
 在本项目中，我们将学习如何制作一个智能晾衣架，本项目使用micro:bit开发板、水位传感器和舵机，通过花瓣基础扩展板连接，实现雨天自动收回晾衣杆、晴天自动伸出的智能功能。亲手制作一个能“感知天气”的晾衣架，体验物联网在生活中的应用。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-06-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-06-01.png)
 
 
 ## 教学目标
@@ -42,7 +42,7 @@ sidebar_label: 智能晾衣架
 
 将水位传感器连接到花瓣基础扩展板的J1接口，将Adapter连接到花瓣基础扩展板的J2接口，将舵机连接到Adapter的S1接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-06-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-06-02.png)
 
 
 ### 编程平台
@@ -79,9 +79,9 @@ sidebar_label: 智能晾衣架
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_beJ7yi8TR0bJ](https://makecode.microbit.org/_beJ7yi8TR0bJ)
+示例程序：[https://makecode.microbit.org/_KVLL2cbfpWChJ](https://makecode.microbit.org/_KVLL2cbfpWChJ)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-06-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -93,7 +93,7 @@ sidebar_label: 智能晾衣架
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_beJ7yi8TR0bJ"
+        src="https://makecode.microbit.org/_KVLL2cbfpWChJ"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

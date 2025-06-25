@@ -9,7 +9,7 @@ sidebar_label: 噪音检测仪
 
 本项目将指导您使用micro:bit开发板制作一款简易噪音检测仪。通过板载麦克风模块实时采集环境声音信号，经数据处理后在OLED矩阵显示噪音等级，实现对环境噪音的可视化监测。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-02-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-02-01.png)
 
 ## 教学目标
 
@@ -44,7 +44,7 @@ sidebar_label: 噪音检测仪
 
 将OLED显示屏连接到花瓣基础扩展板的IIC接口。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-02-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-02-02.png)
 
 ### 编程平台
 
@@ -80,9 +80,9 @@ sidebar_label: 噪音检测仪
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_W6k11ULjzM63](https://makecode.microbit.org/_W6k11ULjzM63)
+示例程序：[https://makecode.microbit.org/_XDP81wYyXbf8](https://makecode.microbit.org/_XDP81wYyXbf8)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/smart-home-explorer-kit/images/case-02-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-02-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -94,7 +94,7 @@ sidebar_label: 噪音检测仪
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_W6k11ULjzM63"
+        src="https://makecode.microbit.org/_XDP81wYyXbf8"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

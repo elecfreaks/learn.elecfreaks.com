@@ -12,6 +12,7 @@ sidebar_label: Case 12:小铲车
 ## 购买链接
 
 [悟空创意搭建套装](https://item.taobao.com/item.htm?id=649813731275&spm=2015.23436601.0.0)
+
 [Joystick bit](https://www.elecfreaks.com/joystick-bit-2-for-micro-bit.html)
 
 ## 所需材料

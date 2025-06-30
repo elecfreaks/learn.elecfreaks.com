@@ -90,7 +90,7 @@ sidebar_label: 智能灯
 你也可以通过以下网页直接下载程序。
 
 <div
-    style={{l
+    style={{
         position: 'relative',
         paddingBottom: '60%',
         overflow: 'hidden',
@@ -107,7 +107,6 @@ sidebar_label: 智能灯
         }}
     />
 </div>
-
 
 
 

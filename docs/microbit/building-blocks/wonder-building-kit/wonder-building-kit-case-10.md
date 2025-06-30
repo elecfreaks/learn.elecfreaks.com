@@ -82,6 +82,6 @@ sidebar_label: Case 10:划船车
 
 ## 结果
 
-开启之后，当超声波传感器检测到前方有人时，自动打开门。
+开启之后，当按下micro:bit上面的按键A时，划船车向前滑动，当按下micro:bit上面的按键B时，划船车向后滑动，当按下micro:bit上面的按键A+B时，划船车停止滑动。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-09.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-10.gif)

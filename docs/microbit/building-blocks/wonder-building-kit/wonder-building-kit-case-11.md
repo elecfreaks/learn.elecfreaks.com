@@ -95,3 +95,9 @@ sidebar_label: Case 11:迷你摩天轮
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-11-03.png)
 
 程序链接：[https://makecode.microbit.org/_iFDPfDex5CqA](hhttps://makecode.microbit.org/_iFDPfDex5CqA)
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，装置开始工作，当按下micro:bit上面的按键B时，装置停止工作。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-11.gif)

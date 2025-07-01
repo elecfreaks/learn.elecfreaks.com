@@ -114,3 +114,10 @@ sidebar_label: Case 14:测距吉他
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-13-05.png)
 
 程序链接：[https://makecode.microbit.org/_eRoHiEXrt6yU](https://makecode.microbit.org/_eRoHiEXrt6yU)
+
+
+## 结果
+
+开启之后，推动挡板，micro:bit根据挡板位置发出不同音符的声音。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-14.gif)

@@ -1,19 +1,19 @@
 ---
-sidebar_position: 10
-sidebar_label: 雨水感应窗户
+sidebar_position: 11
+sidebar_label: 衣柜除湿装置
 ---
 
-# 雨水感应窗户
+# 衣柜除湿装置
 
 ## 简介
 
-在本项目中，我们将学习如何制作一个雨水感应窗户。
+在本项目中，我们将学习如何制作一个衣柜除湿装置。
 
-
+**注意：此案例无法使用套装结构件进行应用场景模拟，但可以实现基本的案例制作。**
 
 ## 教学目标
 
-了解雨水感应窗户的工作原理
+复习温湿度传感器的使用
 
 ## 教学准备
 
@@ -29,25 +29,19 @@ sidebar_label: 雨水感应窗户
 
 ## 课程引入
 
-这节课我们将制作一个雨水感应窗，在下雨的时候自动关窗户。
-雨水感应窗通过水位传感器检测窗台雨水堆积情况，当检测到雨水时，自动驱动舵机升起窗沿挡板防止雨水溅入室内，同时 OLED 显示器显示 “雨天模式”，彩虹灯呈现蓝色呼吸灯效，为家居生活提供智能防护。
+这节课我们将制作一个衣柜除湿装置，在衣柜潮湿的时候自动通风。
+衣柜除湿装置通过温湿度传感器检测衣柜内的温湿度，当湿度过高的时候，自动通风。
 
 ## 项目制作
 
 ### 硬件连接
 
-将水位传感器连接到花瓣基础扩展板的J1接口，
+将风扇模块连接到花瓣基础扩展板的J1接口，
 
-将RGB灯连接到花瓣基础扩展板的J3接口，
-
-将Adapter连接到花瓣基础扩展板的J4接口，
-
-将180度舵机连接到Adapter的S1接口，
-
-将OLED显示屏连接到花瓣基础扩展板的IIC接口。
+将OLED显示屏和温湿度传感器连接到花瓣基础扩展板的IIC接口。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-08-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-09-02.png)
 
 
 ### 编程平台
@@ -78,15 +72,13 @@ sidebar_label: 雨水感应窗户
 
 在弹出页面搜索`petal`，并点击选择petal的软件库。
 
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/images/classroom-science-pack-add-extensions-03.png)
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-10-04.png)
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_6bk0s8bqf5rF](https://makecode.microbit.org/_6bk0s8bqf5rF)
+示例程序：[https://makecode.microbit.org/_7eEgMzf57Y9f](https://makecode.microbit.org/_7eEgMzf57Y9f)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-08-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-09-03.png)
 
 你也可以通过以下网页直接下载程序。
 
@@ -98,7 +90,7 @@ sidebar_label: 雨水感应窗户
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_6bk0s8bqf5rF"
+        src="https://makecode.microbit.org/_7eEgMzf57Y9f"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -146,6 +138,4 @@ sidebar_label: 雨水感应窗户
 
 ### 结果
 
-当检测到雨水时，自动驱动舵机升起窗沿挡板防止雨水溅入室内，同时 OLED 显示器显示 “雨天模式”，彩虹灯呈现蓝色呼吸灯效，为家居生活提供智能防护。
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/1.gif)
+当温湿度传感器检测到湿度过高的时候，自动通风。

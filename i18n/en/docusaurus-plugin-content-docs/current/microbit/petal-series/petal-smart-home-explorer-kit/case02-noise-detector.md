@@ -67,7 +67,7 @@ In the makecode programming interface, click **Extensions** in the Toolbox.
 Search for `petal` in the pop-up window and select the petal software library.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/images/classroom-science-pack-add-extensions-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/add-petal.png)
 
 ### Write the Program
 
@@ -133,6 +133,8 @@ Click to download the program.
 ### Results
 
 After powering on, the OLED display shows the current noise level, with a bar graph on the LED matrix for visual indication.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-02.gif)
 
 ## Extended Knowledge
 

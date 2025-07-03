@@ -74,11 +74,11 @@ In the makecode programming interface, click Extensions in the Toolbox.
 In the pop-up page, search for `petal` and click to select the petal software library.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/images/classroom-science-pack-add-extensions-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/add-petal.png)
 
 ### Write the Program
 
-Example program: [https://makecode.microbit.org/_KVLL2cbfpWChJ](https://makecode.microbit.org/_KVLL2cbfpWChJ)
+Example program: [https://makecode.microbit.org/_PcY0whPtFD7E](https://makecode.microbit.org/_PcY0whPtFD7E)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-01-03.png)
 
@@ -92,7 +92,7 @@ You can also directly download the program through the following web page.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_KVLL2cbfpWChJ"
+        src="https://makecode.microbit.org/_PcY0whPtFD7E"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -138,6 +138,6 @@ Click to download the program.
 
 After powering on, the smart light automatically turns on or off the rainbow light according to the ambient light intensity.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/1.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-06.gif)
 
 ## Extended Knowledge

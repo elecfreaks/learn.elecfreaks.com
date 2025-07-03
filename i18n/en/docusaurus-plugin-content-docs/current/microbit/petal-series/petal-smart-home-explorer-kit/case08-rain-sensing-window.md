@@ -78,7 +78,7 @@ In the makecode programming interface, click Extensions in the Toolbox.
 In the pop-up page, search for `petal` and click to select the petal software library.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/images/classroom-science-pack-add-extensions-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/add-petal.png)
 
 ###  Write the Program
 

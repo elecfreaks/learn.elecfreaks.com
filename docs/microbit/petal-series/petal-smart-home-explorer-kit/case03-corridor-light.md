@@ -76,7 +76,7 @@ sidebar_label: 楼道灯
 在弹出页面搜索`petal`，并点击选择petal的软件库。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/images/classroom-science-pack-add-extensions-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/add-petal.png)
 
 
 ### 编写程序
@@ -145,6 +145,7 @@ sidebar_label: 楼道灯
 
 开机后，楼道灯根据光线强度和环境光强度自动开启或者关闭LED灯。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-03.gif)
 
 ## 扩展知识
 

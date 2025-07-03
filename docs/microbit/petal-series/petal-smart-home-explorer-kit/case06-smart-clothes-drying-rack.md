@@ -74,12 +74,12 @@ sidebar_label: 智能晾衣架
 在弹出页面搜索`petal`，并点击选择petal的软件库。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/images/classroom-science-pack-add-extensions-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/add-petal.png)
 
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_KVLL2cbfpWChJ](https://makecode.microbit.org/_KVLL2cbfpWChJ)
+示例程序：[https://makecode.microbit.org/_PcY0whPtFD7E](https://makecode.microbit.org/_PcY0whPtFD7E)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-06-03.png)
 
@@ -93,7 +93,7 @@ sidebar_label: 智能晾衣架
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_KVLL2cbfpWChJ"
+        src="https://makecode.microbit.org/_PcY0whPtFD7E"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -143,6 +143,6 @@ sidebar_label: 智能晾衣架
 
 开机后，智能灯根据环境光强度自动点亮或者熄灭彩虹灯。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/1.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-06.gif)
 
 ## 扩展知识

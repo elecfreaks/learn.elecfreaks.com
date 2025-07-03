@@ -75,7 +75,7 @@ sidebar_label: 噪音检测仪
 在弹出页面搜索`petal`，并点击选择petal的软件库。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/images/classroom-science-pack-add-extensions-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/add-petal.png)
 
 
 ### 编写程序
@@ -144,7 +144,7 @@ sidebar_label: 噪音检测仪
 
 开机后，OLED显示屏显示当前噪音强度，并在LED矩阵上显示柱状图进行提示。
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-02.gif)
 
 ## 扩展知识
 

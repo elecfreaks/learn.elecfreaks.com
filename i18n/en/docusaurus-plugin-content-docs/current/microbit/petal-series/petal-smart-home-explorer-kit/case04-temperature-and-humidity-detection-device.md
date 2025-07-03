@@ -76,7 +76,7 @@ In the makecode programming interface, click Extensions in the Toolbox.
 In the pop-up page, search for `petal` and click to select the petal software library.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/images/classroom-science-pack-add-extensions-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/add-petal.png)
 
 ### Write the Program
 
@@ -145,7 +145,7 @@ The OLED display shows two lines of real-time data:
 - First line: Temperature (unit: °C)
 - Second line: Humidity (unit: %)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/1.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-04.gif)
 
 ## Extended Knowledge
 

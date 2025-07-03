@@ -71,7 +71,7 @@ sidebar_label: 书籍保护装置
 
 在弹出页面搜索`petal`，并点击选择petal的软件库。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-01-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/add-petal.png)
 
 ### 编写程序
 

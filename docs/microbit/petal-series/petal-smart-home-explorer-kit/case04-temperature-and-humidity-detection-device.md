@@ -47,7 +47,7 @@ sidebar_label: 温湿度检测装置
 
 将温湿度传感器和OLED显示屏连接到花瓣基础扩展板的IIC接口。
 
-<!-- 连线图 -->
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-04-02.png)
 
 ### 编程平台
 
@@ -78,7 +78,7 @@ sidebar_label: 温湿度检测装置
 在弹出页面搜索`petal`，并点击选择petal的软件库。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/images/classroom-science-pack-add-extensions-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/add-petal.png)
 
 
 ### 编写程序
@@ -151,7 +151,7 @@ OLED 显示屏实时显示两行数据：
 
 第二行：湿度（单位 %）
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/1.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-04.gif)
 
 ## 扩展知识
 

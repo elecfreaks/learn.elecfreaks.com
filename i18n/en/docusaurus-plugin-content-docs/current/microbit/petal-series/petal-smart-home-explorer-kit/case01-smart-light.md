@@ -29,13 +29,11 @@ Before starting the teaching, please ensure you have prepared the following nece
 
 These materials will provide you with a complete experience to ensure you can smoothly proceed with subsequent operations and learning. If you have prepared the above, we can continue to the next step.
 
-- ## Course Introduction
+## Course Introduction
 
   In modern architecture, light-controlled lighting systems are widely used in:
 
-
-
-  - Automatic on/off lighting in underground garages
+- Automatic on/off lighting in underground garages
 - Classroom natural light linkage supplementary lighting system
 - Smart home automatic induction night lights at night
 - Their core principle is to convert light signals into electrical signals through photosensitive components, and then the microcontroller executes logical judgment.
@@ -79,7 +77,7 @@ In the makecode programming interface, click Extensions in the Toolbox.
 In the pop-up page, search for `petal` and click to select the petal software library.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/images/classroom-science-pack-add-extensions-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/add-petal.png)
 
 ### Write the Program
 
@@ -144,6 +142,8 @@ Click to download the program.
 ### Results
 
 After powering on, the smart light automatically turns on or off the rainbow light according to the ambient light intensity.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-01.gif)
 
 ## Extended Knowledge
 

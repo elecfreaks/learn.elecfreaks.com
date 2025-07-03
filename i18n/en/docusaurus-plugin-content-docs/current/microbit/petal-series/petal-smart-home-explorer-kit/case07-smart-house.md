@@ -43,7 +43,6 @@ In the previous courses, we learned about cases such as the smart clothes drying
 - Connect the 180-degree servo motor to the S1 interface of the Adapter.
 - Connect the temperature-humidity sensor and OLED display to the IIC interface of the Petal Base Expansion Board.
 
-
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-07-02.png)
 
 ### Programming Platform
@@ -77,7 +76,7 @@ In the makecode programming interface, click Extensions in the Toolbox.
 In the pop-up page, search for `petal` and click to select the petal software library.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/images/classroom-science-pack-add-extensions-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/add-petal.png)
 
 ### Write the Program
 

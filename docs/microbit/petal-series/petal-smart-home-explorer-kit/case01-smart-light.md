@@ -78,7 +78,7 @@ sidebar_label: 智能灯
 在弹出页面搜索`petal`，并点击选择petal的软件库。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/images/classroom-science-pack-add-extensions-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/add-petal.png)
 
 
 ### 编写程序
@@ -146,6 +146,7 @@ sidebar_label: 智能灯
 
 开机后，智能灯根据环境光强度自动点亮或者熄灭彩虹灯。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-01.gif)
 
 
 ## 扩展知识

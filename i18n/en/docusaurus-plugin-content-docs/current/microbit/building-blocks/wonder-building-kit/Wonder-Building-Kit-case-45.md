@@ -67,7 +67,7 @@ Make a cricket robot.
 
 
 
-## Hardware Connections 
+## Hardware Connections
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-45-03.png)
 
@@ -94,3 +94,10 @@ Search for wukong in the search box, click on wukong in the image and add the ex
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-45-04.png)
 
 Link: [https://makecode.microbit.org/_aLE0jWH5K9rv](https://makecode.microbit.org/_aLE0jWH5K9rv)
+
+
+### Result
+
+After turning it on, when you press button A on the micro:bit, the cricket starts running, and when you press button B on the micro:bit, the cricket stops running.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-45.gif)

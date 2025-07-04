@@ -109,3 +109,14 @@ Search for wukong in the search box, click on wukong in the image and add the ex
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-36-04.png)
 
 Program Links: [https://makecode.microbit.org/_9FodsTURxTme](https://makecode.microbit.org/_9FodsTURxTme)
+
+### Result
+
+After turning it on,
+When you press button A on the micro:bit, the forklift moves forward;
+When you press button B on the micro:bit, the forklift moves backward;
+When you press buttons A+B on the micro:bit, the forklift stops;
+When you press the logo on the micro:bit, the forklift is raised;
+When you release the logo on the micro:bit, the forklift is lowered.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-36.gif)

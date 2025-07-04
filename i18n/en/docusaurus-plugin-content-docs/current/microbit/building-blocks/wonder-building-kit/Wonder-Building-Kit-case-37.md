@@ -80,3 +80,10 @@ Search for wukong in the search box, click on wukong in the image and add the ex
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-37-04.png)
 
 Link: [https://makecode.microbit.org/_Eqb7fEREYacV](https://makecode.microbit.org/_Eqb7fEREYacV)
+
+
+### Result
+
+After turning it on, when you press button A on the micro:bit, the steering car turns right, and when you press button B on the micro:bit, the steering car turns left.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-37.gif)

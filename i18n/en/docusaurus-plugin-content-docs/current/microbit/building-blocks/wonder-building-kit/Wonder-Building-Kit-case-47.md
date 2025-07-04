@@ -1,4 +1,4 @@
-﻿# Case 47: The Flying Cars 
+﻿# Case 47: The Flying Cars
 ## Purpose
 Make a Flying car.
 
@@ -84,3 +84,10 @@ Search for wukong in the search box, click on wukong in the image and add the ex
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-47-04.png)
 
 Link: [https://makecode.microbit.org/_2mW5X7euYTVd](https://makecode.microbit.org/_2mW5X7euYTVd)
+
+
+### Result
+
+After turning it on, when you press button A on the micro:bit, the flying car starts running, and when you press button B on the micro:bit, the flying car stops running.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-45.gif)

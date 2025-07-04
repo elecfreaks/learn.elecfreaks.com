@@ -92,3 +92,9 @@ Search for wukong in the search box, click on wukong in the image and add the ex
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-40-04.png)
 
 Link: [https://makecode.microbit.org/_4U1CcwP1bCXi](https://makecode.microbit.org/_4U1CcwP1bCXi)
+
+### Result
+
+After turning it on, when you press button A on the micro:bit, the crossbow turns left, and when you press button B on the micro:bit, the crossbow turns right. When the logo is touched, the building blocks are fired.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-40.gif)

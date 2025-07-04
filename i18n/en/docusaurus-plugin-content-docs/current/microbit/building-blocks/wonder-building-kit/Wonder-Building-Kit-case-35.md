@@ -95,3 +95,9 @@ Search for wukong in the search box, click on wukong in the image and add the ex
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-35-04.png)
 
 Link: [https://makecode.microbit.org/_Hj30v3fu208P](https://makecode.microbit.org/_Hj30v3fu208P)
+
+### Result
+
+After turning it on, when you press button A on the micro:bit, the swimming robot starts moving, and when you press button B on the micro:bit, the swimming robot stops moving.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-35.gif)

@@ -78,3 +78,5 @@ Link:[https://makecode.microbit.org/_KRcLTWaab2sk](https://makecode.microbit.org
 ### Result
 
 Use the leather band to fix the pen on the gray double bolt parts, the drawing machine is placed on a piece of white paper, when the button A is pressed, the drawing machine begins to draw. By adjusting the speed of the motor M1 and motor M2, you can draw different patterns; when the button B is pressed, the drawing machine stops.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-31.gif)

@@ -96,3 +96,5 @@ Link:[https://makecode.microbit.org/_E5pWvtMr1CK1](https://makecode.microbit.org
 
 ### Result
 When button A is pressed, the robot dog moves forward; and when button B is pressed, the robot dog stops moving.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-32.gif)

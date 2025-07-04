@@ -56,7 +56,7 @@ Make a worm car.
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-case-43-21.png)
 
 
-## Hardware Connectivitym  
+## Hardware Connectivitym
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-43-03.png)
 
@@ -83,3 +83,10 @@ Search for wukong in the search box, click on wukong in the image and add the ex
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-43-04.png)
 
 Link: [https://makecode.microbit.org/_Dp7TAW80jJAE](https://makecode.microbit.org/_Dp7TAW80jJAE)
+
+
+### Result
+
+After turning it on, the worm car starts running.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-43.gif)

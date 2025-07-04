@@ -93,3 +93,5 @@ Link:[https://makecode.microbit.org/_hHDAH6Fz6YCb](https://makecode.microbit.org
 ### Result
 
 When button A is pressed, the four Rainbow LEDs of the Wukong breakout board will light up. Pressing button A again, the color will change; and when button B is pressed, all LEDs are off.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-30.gif)

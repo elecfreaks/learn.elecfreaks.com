@@ -126,3 +126,10 @@ Cart-side program
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-33-06.png)
 
 Link: [https://makecode.microbit.org/_gp6KjP4J0DCU](https://makecode.microbit.org/_gp6KjP4J0DCU)
+
+
+### Result
+
+After turning it on, control the car's movement through the handle.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-33.gif)

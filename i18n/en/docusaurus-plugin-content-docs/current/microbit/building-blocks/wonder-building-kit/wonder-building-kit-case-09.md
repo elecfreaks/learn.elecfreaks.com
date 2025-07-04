@@ -108,3 +108,5 @@ Link:[https://makecode.microbit.org/_eUPf4XEudVKY](https://makecode.microbit.org
 ### Result
 
 When the ultrasonic sensor detects someone passing by, it will display √ on the micro:bit and control the servo to open the door and close it automatically after 5 seconds, if the ultrasonic sensor does not detect anyone, it will keep displaying × on the micro:bit and the door is closed.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-09.gif)

@@ -105,3 +105,10 @@ sidebar_label: Case 41:翅膀
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-41-04.png)
 
 程序链接：[https://makecode.microbit.org/_CC2a6sUmy1kE](https://makecode.microbit.org/_CC2a6sUmy1kE)
+
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，翅膀开始运行5000ms。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-41.gif)

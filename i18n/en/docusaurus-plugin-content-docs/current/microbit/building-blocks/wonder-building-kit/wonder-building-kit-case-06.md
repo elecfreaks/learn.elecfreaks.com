@@ -83,3 +83,5 @@ Link:[https://makecode.microbit.org/_2gH040Us5LX7](https://makecode.microbit.org
 
 ### Result
 Press button A to move the bigfoot monster forward and press button A+B to stop it.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-06.gif)

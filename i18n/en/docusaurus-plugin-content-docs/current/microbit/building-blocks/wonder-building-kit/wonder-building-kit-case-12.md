@@ -108,3 +108,5 @@ Link:[https://makecode.microbit.org/_UoAP69ArTfyT](https://makecode.microbit.org
 ### Result
 
 Use the handle to control the forklift, the up and down, left and right directions of the handle rocker are to control the forward and backward, the left and right movement of the forklift, D button to control the raisin of the forklift, C button to control the lowering of it.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-12.gif)

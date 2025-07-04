@@ -100,3 +100,10 @@ sidebar_label: Case 35:游泳机器人
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-35-04.png)
 
 程序链接：[https://makecode.microbit.org/_FJEJecVXe8au](https://makecode.microbit.org/_FJEJecVXe8au)
+
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，游泳机器人开始运动，当按下micro:bit上面的按键B时，游泳机器人停止运动。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-35.gif)

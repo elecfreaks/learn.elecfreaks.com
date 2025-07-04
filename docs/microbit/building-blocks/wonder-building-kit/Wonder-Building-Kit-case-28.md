@@ -84,3 +84,10 @@ sidebar_label: Case 28:雨刷器
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-28-04.png)
 
 程序链接：[https://makecode.microbit.org/_Y78e7rHq514x](https://makecode.microbit.org/_Y78e7rHq514x)
+
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，启动雨刷器，当按下micro:bit上面的按键B时，关闭雨刷器。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-28.gif)

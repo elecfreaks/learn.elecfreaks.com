@@ -112,3 +112,10 @@ sidebar_label: Case 27:智能垃圾桶
 
 
 程序链接：[https://makecode.microbit.org/_V6t23odpKY3r](https://makecode.microbit.org/_V6t23odpKY3r)
+
+
+## 结果
+
+开启之后，当检测到有物体靠近时，自动打开垃圾桶。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-27.gif)

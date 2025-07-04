@@ -108,3 +108,11 @@ sidebar_label: Case 17:黄包车
 
 
 程序链接：[https://makecode.microbit.org/_fTwXKM2Tae9r](https://makecode.microbit.org/_fTwXKM2Tae9r)
+
+
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，小车向前行驶，当按下micro:bit上面的按键B时，小车停止行驶。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-17.gif)

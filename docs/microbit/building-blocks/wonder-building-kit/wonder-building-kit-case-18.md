@@ -105,3 +105,11 @@ For the aerial ladder truck:
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-18-06.png)
 
 程序链接：[https://makecode.microbit.org/_V004ujT5wJ9j](https://makecode.microbit.org/_V004ujT5wJ9j)
+
+
+
+## 结果
+
+通过手柄控制小车行驶和抬升/放下云梯。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-18.gif)

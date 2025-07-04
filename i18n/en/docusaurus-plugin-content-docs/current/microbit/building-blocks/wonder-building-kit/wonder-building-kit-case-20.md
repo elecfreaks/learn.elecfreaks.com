@@ -137,3 +137,5 @@ Link:[https://makecode.microbit.org/_diR3FMErAfWF](https://makecode.microbit.org
 when button A is pressed, the two windows open outward and the airer extends outward.
 When button B is pressed, the airer retracts inward and the two windows close inward.
 When button A is pressed, the two windows open outward and the airer extends outward, the water level sensor will detect the current rain value, and when the rain value is greater than 10, the airer will automatically retract and the two windows will automatically close.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-20.gif)

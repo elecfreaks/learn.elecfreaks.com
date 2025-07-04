@@ -97,3 +97,5 @@ Link:[https://makecode.microbit.org/_VuRXgH1y30yp](https://makecode.microbit.org
 ### Result
 
 When button A is pressed the tiny sky wheel starts to rotate and when button B is pressed it stops rotating.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-11.gif)

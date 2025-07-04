@@ -89,3 +89,9 @@ sidebar_label: Case 47:会飞的车
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-47-04.png)
 
 程序链接：[https://makecode.microbit.org/_2mW5X7euYTVd](https://makecode.microbit.org/_2mW5X7euYTVd)
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，会飞的车开始运行，当按下micro:bit上面的按键B时，会飞的车停止运行。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-47.gif)

@@ -99,3 +99,5 @@ Link:[https://makecode.microbit.org/_hueHXycJJgv1](https://makecode.microbit.org
 ### Result
 
 When the ultrasonic sensor detects the ball goes through the basket, it will be counted, and the value will be displayed on the micro:bit. (The principle of ultrasonic counting in this case requires to be tested according to the actual construction of the basket, it is the detection of ultrasonic sensors to the ball basket with the fixed distance value, and by judging this fixed distance value, the score plus one, so as to achieve the purpose of counting. (Ultrasonic sensor counting may have deviations, inaccurate, belonging to the normal situation of not detecting the small ball.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-07.gif)

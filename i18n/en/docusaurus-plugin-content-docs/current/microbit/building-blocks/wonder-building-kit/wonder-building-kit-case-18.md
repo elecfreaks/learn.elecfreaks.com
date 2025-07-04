@@ -107,3 +107,6 @@ Link:[https://makecode.microbit.org/_2vYd4UPpWf24](https://makecode.microbit.org
 ### Result
 
 Use the handle to control the ladder truck, the up and down, left and right directions of the rocker are to control the forward and backward, the left and right movement of the ladder truck, the C and D buttons are to control the lift of the ladder truck.
+
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-18.gif)

@@ -95,3 +95,5 @@ Link:[https://makecode.microbit.org/_289eegA6E7jP](https://makecode.microbit.org
 ### Result
 
 The crawler moves forward when button A is pressed, and stops moving when button B is pressed.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-19.gif)

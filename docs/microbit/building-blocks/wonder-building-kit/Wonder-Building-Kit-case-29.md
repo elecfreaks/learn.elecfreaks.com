@@ -130,3 +130,10 @@ sidebar_label: Case 29:投石车
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-29-04.png)
 
 程序链接：[https://makecode.microbit.org/_K6oek8JP8bgf](https://makecode.microbit.org/_K6oek8JP8bgf)
+
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，投石车前进，当按下micro:bit上面的按键B时，投石车发射弹药。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-29.gif)

@@ -107,3 +107,5 @@ Link:[https://makecode.microbit.org/_VrPehd4athgo](https://makecode.microbit.org
 ### Result
 
 When the micro:bit is powering on, it displays a heart icon. When button A is pressed, the corsair begins to swing; when button B is pressed for the second time, the swing amplitude increases, the third time press the A button amplitude and the swing goes to the maximum, the fourth time press the A button, swing amplitude has change; when the button B is pressed, the swing amplitude begins to decrease, when repeatedly pressed B button in three times, it stopped swinging.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-26.gif)

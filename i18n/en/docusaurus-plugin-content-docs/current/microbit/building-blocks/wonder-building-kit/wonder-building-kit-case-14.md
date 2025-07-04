@@ -120,3 +120,5 @@ Link:[https://makecode.microbit.org/_1YvYtE8RM8oL](https://makecode.microbit.org
 ### Result
 
 By detecting the value of the distance between the ultrasonic sensor and the baffle only, the buzzer is controlled to emit different tones.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-14.gif)

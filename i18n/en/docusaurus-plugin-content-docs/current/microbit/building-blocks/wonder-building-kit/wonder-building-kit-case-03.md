@@ -79,3 +79,5 @@ Link:[https://makecode.microbit.org/_FFibega47Hwy](https://makecode.microbit.org
 ### Result
 
 Press the button B and the motor connecting to M1 starts driving, put the gyroscope base on the swirling yellow connectors, when the accelerate speed meets the standard, release your hands and it will not fall off; press button A to stop driving the motor.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-03.gif)

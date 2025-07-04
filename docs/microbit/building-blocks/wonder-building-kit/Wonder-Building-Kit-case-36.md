@@ -116,3 +116,16 @@ sidebar_label: Case 36:叉车
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-36-04.png)
 
 程序链接：[https://makecode.microbit.org/_L5xaXEHc0WEC](https://makecode.microbit.org/_L5xaXEHc0WEC)
+
+
+## 结果
+
+开启之后，
+当按下micro:bit上面的按键A时，叉车向前行驶；
+当按下micro:bit上面的按键B时，叉车向后行驶；
+当按下micro:bit上面的按键A+B时，叉车停止行驶；
+当按下micro:bit上面的徽标时，抬升车叉；
+当松开micro:bit上面的徽标时，降低车叉。
+
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-36.gif)

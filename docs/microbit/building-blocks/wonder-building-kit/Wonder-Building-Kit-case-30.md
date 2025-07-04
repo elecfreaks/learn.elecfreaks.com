@@ -91,3 +91,9 @@ sidebar_label: Case 30:氛围灯
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-30-04.png)
 
 程序链接：[https://makecode.microbit.org/_VP93p79dFU69](https://makecode.microbit.org/_VP93p79dFU69)
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，调整氛围灯的灯光颜色，当按下micro:bit上面的按键B时，关闭氛围灯。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-30.gif)

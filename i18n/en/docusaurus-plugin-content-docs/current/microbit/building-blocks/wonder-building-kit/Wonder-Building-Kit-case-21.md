@@ -94,3 +94,6 @@ Link:[https://makecode.microbit.org/_fyVf4ii4v0p8](https://makecode.microbit.org
 ### Result
 
 The spider moves forward when button A is pressed, it moves backward when button B is pressed, and it stops moving when button A+B is pressed.
+
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-21.gif)

@@ -99,3 +99,10 @@ sidebar_label: Case 45:蟋蟀
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-45-04.png)
 
 程序链接：[https://makecode.microbit.org/_aLE0jWH5K9rv](https://makecode.microbit.org/_aLE0jWH5K9rv)
+
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，蟋蟀开始运行，当按下micro:bit上面的按键B时，蟋蟀停止运行。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-45.gif)

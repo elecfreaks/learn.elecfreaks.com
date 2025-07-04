@@ -108,3 +108,9 @@ sidebar_label: Case 48:跳绳机器人
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-48-04.png)
 
 程序链接：[https://makecode.microbit.org/_a2gYtr4r2dMo](https://makecode.microbit.org/_a2gYtr4r2dMo)
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，跳绳机器人开始运行，当按下micro:bit上面的按键B时，跳绳机器人停止运行。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-48.gif)

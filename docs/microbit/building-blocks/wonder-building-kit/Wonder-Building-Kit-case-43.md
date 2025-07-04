@@ -88,3 +88,9 @@ sidebar_label: Case 43:蠕虫车
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-43-04.png)
 
 程序链接：[https://makecode.microbit.org/_Dp7TAW80jJAE](https://makecode.microbit.org/_Dp7TAW80jJAE)
+
+## 结果
+
+开启之后，蠕虫车开始运行。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-43.gif)

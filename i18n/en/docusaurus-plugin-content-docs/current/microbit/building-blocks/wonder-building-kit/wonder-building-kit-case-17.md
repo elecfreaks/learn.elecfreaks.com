@@ -110,3 +110,5 @@ Link:[https://makecode.microbit.org/_448W1dKFLEXt](https://makecode.microbit.org
 ### Result
 
 When button A is pressed the rickshaw moves forward, when button B is pressed the rickshaw moves backward, when button A+B is pressed the it stops moving.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-17.gif)

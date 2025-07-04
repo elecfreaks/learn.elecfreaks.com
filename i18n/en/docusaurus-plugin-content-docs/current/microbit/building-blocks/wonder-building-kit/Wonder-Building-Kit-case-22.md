@@ -140,3 +140,5 @@ Link:[https://makecode.microbit.org/_2zv14dduY6D7](https://makecode.microbit.org
 ### Result
 
 When button A is pressed, the micro:bit displays a heart pattern and the helicopter propeller starts to rotate; when button B is pressed, the micro:bit screen is cleared and the helicopter propeller stops rotating.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-22.gif)

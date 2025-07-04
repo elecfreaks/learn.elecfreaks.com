@@ -131,3 +131,11 @@ sidebar_label: Case 33:两轮摩托车
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-33-06.png)
 
 程序链接：[https://makecode.microbit.org/_gp6KjP4J0DCU](https://makecode.microbit.org/_gp6KjP4J0DCU)
+
+
+
+## 结果
+
+开启之后，通过手柄控制小车行驶。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-33.gif)

@@ -111,3 +111,6 @@ Link:[https://makecode.microbit.org/_Vw1agAfMAccF](https://makecode.microbit.org
 ### Result
 
 Place the gyro in the acceleration position, when the button A is pressed (long press) , the bottom baffle will support the small gyro on the baffle to accelerate the rotation; release the A button, the bottom baffle will move to the right, and the gyro falls off, then the motor will stop rotating.
+
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-24.gif)

@@ -105,3 +105,10 @@ sidebar_label: Case 26:海盗船
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-26-04.png)
 
 程序链接：[https://makecode.microbit.org/_CAA2TadbWR74](https://makecode.microbit.org/_CAA2TadbWR74)
+
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，提高海盗船摆动幅度，当按下micro:bit上面的按键B时，降低海盗船摆动幅度。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-26.gif)

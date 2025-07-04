@@ -119,3 +119,6 @@ Link:[https://makecode.microbit.org/_XeMXzj7z3JFx](https://makecode.microbit.org
 ### Result
 
 When the micro:bit is powering on, it displays a heart icon, then the lid will automatically open when the ultrasonic sensor detects someone approaching, and it will automatically close after three seconds.
+
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-27.gif)

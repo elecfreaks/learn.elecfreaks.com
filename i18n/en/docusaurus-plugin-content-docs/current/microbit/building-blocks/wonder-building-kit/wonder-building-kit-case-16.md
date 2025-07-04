@@ -105,3 +105,5 @@ Link:[https://makecode.microbit.org/_18WVrTE5LTzb](https://makecode.microbit.org
 ### Result
 
 When button A is pressed, the sweeper moves forward and starts sweeping, when button B is pressed, the sweeper stops moving and ends sweeping.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-16.gif)

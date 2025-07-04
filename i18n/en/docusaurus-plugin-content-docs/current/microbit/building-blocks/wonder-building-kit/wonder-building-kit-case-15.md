@@ -113,3 +113,5 @@ Link:[https://makecode.microbit.org/_b5D9689YX8R3](https://makecode.microbit.org
 ### Result
 
 The robot moves forward when button A is pressed, it moves backward when button B is pressed, and it stops moving when button A+B is pressed.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-15.gif)

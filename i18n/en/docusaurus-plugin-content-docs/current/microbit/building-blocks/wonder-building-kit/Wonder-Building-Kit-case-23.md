@@ -114,3 +114,5 @@ Link:[https://makecode.microbit.org/_5WjDde1jAF6R](https://makecode.microbit.org
 ### Result
 
 When button A is pressed, the locomotive moves forward; when button B is pressed, the locomotive moves backward; when button A+B is pressed, the locomotive stops moving.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-23.gif)

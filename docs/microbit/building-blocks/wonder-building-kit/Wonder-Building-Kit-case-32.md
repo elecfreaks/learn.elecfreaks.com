@@ -96,3 +96,10 @@ sidebar_label: Case 32:机械狗
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-32-04.png)
 
 程序链接：[https://makecode.microbit.org/_gVd7hoRwkW2m](https://makecode.microbit.org/_gVd7hoRwkW2m)
+
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，机械狗向前行走，当按下micro:bit上面的按键B时，机械狗停止行走。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-32.gif)

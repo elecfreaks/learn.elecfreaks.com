@@ -78,3 +78,9 @@ sidebar_label: Case 31:画画机
 
 
 程序链接：[https://makecode.microbit.org/_EChT9d1ko2iJ](https://makecode.microbit.org/_EChT9d1ko2iJ)
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，画画机开始运行，当按下micro:bit上面的按键B时，画画机停止运行。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-31.gif)

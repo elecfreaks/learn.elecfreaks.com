@@ -78,3 +78,5 @@ Link:[https://makecode.microbit.org/_K6mFyJ16ofCj](https://makecode.microbit.org
 
 ### Result
 While button A being pressed, the motorcycle moves forward and it reverses if button B is pressed, while pressing button A+B, it stops driving.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-01.gif)

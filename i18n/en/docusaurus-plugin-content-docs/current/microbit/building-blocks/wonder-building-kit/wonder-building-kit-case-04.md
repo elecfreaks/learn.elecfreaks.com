@@ -3,7 +3,7 @@
 ## Purpose
 ---
 To make an obstacle-avoidance car.
- 
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-04-01.png)
 
 ## Link
@@ -39,7 +39,7 @@ Video link:
 
 ## Installation Mthods of Hardwares
 
-Install the sonar:bit with the bricks. 
+Install the sonar:bit with the bricks.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-step-sonar-bit-1.png)
 
@@ -57,25 +57,27 @@ Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-w
 ---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
- 
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-01-03.png)
 
-Search with Wukong in the dialogue box to download it. 
+Search with Wukong in the dialogue box to download it.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-01-04.png)
 
- Search with https://github.com/elecfreaks/pxt-sonarbit in the dialogue box to add the sonar:bit extension. 
+ Search with https://github.com/elecfreaks/pxt-sonarbit in the dialogue box to add the sonar:bit extension.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-04-04.png)
 
 
 
 ### Program
- 
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-04-05.png)
 
 Link:[https://makecode.microbit.org/_7K4bgpCKv2WJ](https://makecode.microbit.org/_7K4bgpCKv2WJ)
 
 ## Result
 
-While on start, the car moves forward at the full speed and it turns right if it detects any obstacles within the scope of 20cm, and then it keeps moving forward. 
+While on start, the car moves forward at the full speed and it turns right if it detects any obstacles within the scope of 20cm, and then it keeps moving forward.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-04.gif)

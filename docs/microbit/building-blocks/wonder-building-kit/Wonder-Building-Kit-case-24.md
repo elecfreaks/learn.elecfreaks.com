@@ -111,3 +111,9 @@ sidebar_label: Case 24:陀螺发射器
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-24-04.png)
 
 程序链接：[https://makecode.microbit.org/_aVDHqfaFbDRq](https://makecode.microbit.org/_aVDHqfaFbDRq)
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，陀螺发射器准备发射陀螺，松开按键A后，发射陀螺。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-24.gif)

@@ -139,3 +139,9 @@ sidebar_label: Case 22:直升飞机
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-22-04.png)
 
 程序链接：[https://makecode.microbit.org/_CV04yrUtVhHz](https://makecode.microbit.org/_CV04yrUtVhHz)
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，直升飞机向前运动，当按下micro:bit上面的按键B时，直升飞机停止运动。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-22.gif)

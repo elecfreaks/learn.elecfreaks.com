@@ -113,3 +113,9 @@ sidebar_label: Case 23:火车头
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-23-04.png)
 
 程序链接：[https://makecode.microbit.org/_U4iDok1b91Hh](https://makecode.microbit.org/_U4iDok1b91Hh)
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，火车头向前运动，当按下micro:bit上面的按键B时，火车头向后运动。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-23.gif)

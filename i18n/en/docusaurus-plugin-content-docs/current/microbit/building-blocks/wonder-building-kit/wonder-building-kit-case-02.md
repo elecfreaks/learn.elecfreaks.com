@@ -77,3 +77,5 @@ Link:[https://makecode.microbit.org/_RXCL9zU1pW5m](https://makecode.microbit.org
 ### Result
 
 The car moves along with the maps at a uniform speed, it will keep its speed and directions if it deviates from the black line until it goes back.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-02.gif)

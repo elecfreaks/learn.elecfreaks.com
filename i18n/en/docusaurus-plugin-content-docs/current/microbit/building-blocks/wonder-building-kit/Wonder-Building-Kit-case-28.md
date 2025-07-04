@@ -84,3 +84,5 @@ Link:[https://makecode.microbit.org/_5RT3t9DX6Lv0](https://makecode.microbit.org
 ### Result
 
 When the micro:bit is powering on, it displays a heart icon. When button A is pressed, the wiper starts driving; when button A is pressed again, the wiper accelerates; and when button B is pressed, the wiper decelerates.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-28.gif)

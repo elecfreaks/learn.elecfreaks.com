@@ -1,11 +1,11 @@
 ﻿---
 sidebar_position: 34
-sidebar_label: Case 34:机械狗
+sidebar_label: Case 34:螃蟹
 ---
 
-# Case 34: 机械狗
+# Case 34: 螃蟹
 ## 目的
-制作一只机械狗。
+制作一只螃蟹。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-34-01.png)
 
@@ -107,3 +107,9 @@ sidebar_label: Case 34:机械狗
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-34-04.png)
 
 程序链接：[https://makecode.microbit.org/_C7LCAX8M8EsK](https://makecode.microbit.org/_C7LCAX8M8EsK)
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，螃蟹向右行走，当按下micro:bit上面的按键B时，螃蟹向左行走。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-34.gif)

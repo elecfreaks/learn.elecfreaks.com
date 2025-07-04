@@ -112,3 +112,9 @@ sidebar_label: Case 15:行走机器人
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-06-05.png)
 
 程序链接：[https://makecode.microbit.org/_3KD5c5DHtcME](https://makecode.microbit.org/_3KD5c5DHtcME)
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，机器人向前行走，当按下micro:bit上面的按键B时，机器人向后退。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-15.gif)

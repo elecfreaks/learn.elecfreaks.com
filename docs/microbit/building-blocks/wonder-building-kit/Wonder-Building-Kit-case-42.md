@@ -95,3 +95,10 @@ sidebar_label: Case 42:引体向上
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-42-04.png)
 
 程序链接：[https://makecode.microbit.org/_2p0HxkVjCiLY](https://makecode.microbit.org/_2p0HxkVjCiLY)
+
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，引体向上机器人开始运行，当按下micro:bit上面的按键B时，引体向上机器人停止运行。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-42.gif)

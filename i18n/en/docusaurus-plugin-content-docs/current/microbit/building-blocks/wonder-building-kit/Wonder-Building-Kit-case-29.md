@@ -131,3 +131,5 @@ Link:[https://makecode.microbit.org/_K6oek8JP8bgf](https://makecode.microbit.org
 ### Result
 
 When the micro:bit is powering on, it displays a heart icon. When button A is pressed, the stone thrower performs a stone throwing action; when button B is continuously pressed, the stone thrower moves forward; release button B and the stone thrower stops.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-29.gif)

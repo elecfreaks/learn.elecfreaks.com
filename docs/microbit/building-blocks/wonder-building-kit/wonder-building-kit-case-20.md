@@ -127,3 +127,10 @@ sidebar_label: Case 20:智能晾衣架
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-20-05.png)
 
 程序链接：[https://makecode.microbit.org/_PhyDFqJw8JXC](https://makecode.microbit.org/_PhyDFqJw8JXC)
+
+
+## 结果
+
+开启之后，水位传感器检测到雨水时，自动收起晾衣架，通过按键手动打开晾衣架。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case20.gif)

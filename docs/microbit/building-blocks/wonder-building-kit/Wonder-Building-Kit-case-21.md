@@ -92,3 +92,10 @@ sidebar_label: Case 21:爬行蜘蛛
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-21-04.png)
 
 程序链接：[https://makecode.microbit.org/_6jmDY3YyH9aW](https://makecode.microbit.org/_6jmDY3YyH9aW)
+
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，蜘蛛向前爬行，当按下micro:bit上面的按键B时，蜘蛛停止爬行。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-20.gif)

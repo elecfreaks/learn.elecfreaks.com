@@ -97,3 +97,9 @@ sidebar_label: Case 40:弓弩
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-40-04.png)
 
 程序链接：[https://makecode.microbit.org/_4U1CcwP1bCXi](https://makecode.microbit.org/_4U1CcwP1bCXi)
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，弓弩向左转向，当按下micro:bit上面的按键B时，弓弩向右转向，当徽标被触摸时发射积木。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-40.gif)

@@ -102,3 +102,5 @@ Link:[https://makecode.microbit.org/_UHqVom5dM35P](https://makecode.microbit.org
 ### Result
 
 When the micro:bit is powering on, it displays a heart icon. When button A is pressed, the egg beater starts rotating, and when button B is pressed, it stops rotating.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-25.gif)

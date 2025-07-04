@@ -1,12 +1,12 @@
-﻿# Case 10: Boating 
+﻿# Case 10: Boating
 
 ## Purpose
 ---
-To make a boating car. 
- 
+To make a boating car.
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-10-01.png)
 
-## Link 
+## Link
 ---
 [micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
@@ -59,10 +59,10 @@ Connect a [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with
 ---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
- 
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-01-03.png)
 
-Search with Wukong in the dialogue box to download it. 
+Search with Wukong in the dialogue box to download it.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-01-04.png)
 
@@ -71,7 +71,7 @@ Search with Wukong in the dialogue box to download it.
 
 
 ### Program
- 
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-10-05.png)
 
 Link:[https://makecode.microbit.org/_4wuFkYirTVqd](https://makecode.microbit.org/_4wuFkYirTVqd)
@@ -79,3 +79,5 @@ Link:[https://makecode.microbit.org/_4wuFkYirTVqd](https://makecode.microbit.org
 ### Result
 
 When button A is pressed the rower moves forward, when button B is pressed the rower moves backward, when button A+B is pressed the rower stops moving.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-10.gif)

@@ -5,7 +5,7 @@ sidebar_label: Case 46:独轮车小人
 
 # Case 46: 独轮车小人
 ## 目的
-制作一个骑着独轮车走钢丝的小人。
+制作一个骑着独轮车的小人。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-46-01.png)
 
@@ -125,3 +125,9 @@ sidebar_label: Case 46:独轮车小人
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/Wonder-Building-Kit-case-46-04.png)
 
 程序链接：[https://makecode.microbit.org/_X8dUPgCjMV4f](https://makecode.microbit.org/_X8dUPgCjMV4f)
+
+## 结果
+
+开启之后，当按下micro:bit上面的按键A时，独轮车小人开始运行，当按下micro:bit上面的按键B时，独轮车小人停止运行。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-45.gif)

@@ -104,3 +104,5 @@ Link:[https://makecode.microbit.org/_cYPE670Rz5cc](https://makecode.microbit.org
 ### Result
 
 Press button A to start the rotary chairs and press button B to stop it.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-05.gif)

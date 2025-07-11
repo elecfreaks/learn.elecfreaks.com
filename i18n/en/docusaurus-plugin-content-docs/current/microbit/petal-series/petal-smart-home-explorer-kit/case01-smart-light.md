@@ -21,7 +21,7 @@ In this project, we will learn how to make a smart light that uses a micro:bit t
 
 Before starting the teaching, please ensure you have prepared the following necessary materials:
 
-| **Image** | **Name** | **Quantity** | **备注** |
+| **Image** | **Name** | **Quantity** | **Remarks** |
 | --- | --- | --- | --- |
 | | Smart Home Explorer Kit | 1 |  |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit.png) | micro:bit | 1 | Prepare separately |

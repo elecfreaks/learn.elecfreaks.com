@@ -21,7 +21,7 @@ In this project, we will learn how to make a smart clothes drying rack. Using a 
 
 Before starting the teaching, please ensure you have prepared the following necessary materials:
 
-| **Image** | Name | **数量** | **Remarks** |
+| **Image** | **Name** | **Quantity** | **Remarks** |
 | --- | --- | --- | --- |
 | <!-- 套装产品图 -->| Smart Home Explorer Kit | 1 |  |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit.png) | micro:bit | 1 | Prepare separately |

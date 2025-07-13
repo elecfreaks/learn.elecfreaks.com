@@ -13,7 +13,7 @@ ___
 
 | Item              | Image                                                        | Quantity |
 |--|--|--|
-|Watch Kit Pro|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/microbit-smart-coding-kit-create-ai-00.png.png)|1|
+|Watch Kit Pro|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/microbit-smart-coding-kit-create-ai-00.png)|1|
 |micro:bit|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png)|2|
 |USB Cable|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png)|1|
 |Cutebot|图片|1|

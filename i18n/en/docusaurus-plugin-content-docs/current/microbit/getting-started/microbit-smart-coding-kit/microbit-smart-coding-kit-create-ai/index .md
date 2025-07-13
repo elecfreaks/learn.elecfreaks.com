@@ -14,7 +14,7 @@ ___
 
 micro:bit CreateAI is a free, web-based tool that enables students to easily collect motion data using the micro:bit's accelerometer and train machine learning (ML) models to recognize patterns in the data. By writing micro:bit code to run these ML models, students can complete various interesting and educational project cases.
 
-**图片**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/microbit-smart-coding-kit-create-ai-001.png.png)
 
 ## Table of Contents
 

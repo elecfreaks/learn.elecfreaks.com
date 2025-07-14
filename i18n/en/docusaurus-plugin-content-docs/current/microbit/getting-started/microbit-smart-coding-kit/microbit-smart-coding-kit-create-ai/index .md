@@ -16,8 +16,7 @@ micro:bit CreateAI is a free, web-based tool that enables students to easily col
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-smart-coding-kit/Create%20AI/microbit-smart-coding-kit-create-ai-001.png.png)
 
-
-## 目录
+## Table of Contents
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

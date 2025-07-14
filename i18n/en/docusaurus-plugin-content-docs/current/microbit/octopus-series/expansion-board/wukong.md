@@ -49,7 +49,7 @@ Support fast charge
 |  IO Port Lead Out   |     P0、P1、P2、P8、P12、P13、P14、P15、IIC     |                    Support 3V&5V modules                     |                           GVS                            |
 |     Rainbow LED     |             LED0、LED1、LED2、LED3              |               Available for Neopixel database                |              Connect to micro:bit P16 port               |
 |       Buzzer        |      Passive buzzer    |                 Available for music database                 |               Connect to micro:bit P0 port               |
-| LED        | 8 LEDs can be programmed on the base side | Light on, twinkle, breathing light  | The LED twinkles when power on |
+| LED        | 4 LEDs can be programmed on the base side | Light on, twinkle, breathing light  | The LED twinkles when power on |
 | Base board | Standard 7*5 baseboard                    | The battery is placed in the middle | -                              |
 
 

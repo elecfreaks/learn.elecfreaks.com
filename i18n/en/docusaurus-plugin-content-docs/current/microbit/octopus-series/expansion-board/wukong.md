@@ -24,7 +24,7 @@ Tiny shape with high integration
 Standard Lego bricks connection
 Most of the IO ports led out in GVS form
 Standalone IIC pots, available for OLED and BME280.
-Integrated buzzer and switch
+Integrated buzzer
 Integrated motor-drive circuit
 Integrated servo-drive circuit
 Support 5V sensors
@@ -48,7 +48,7 @@ Support fast charge
 | Servo Drive |Eight ways servo connection (S0~S7)|Servo drive circuit onboard| Rated voltage:3.7V |
 |  IO Port Lead Out   |     P0、P1、P2、P8、P12、P13、P14、P15、IIC     |                    Support 3V&5V modules                     |                           GVS                            |
 |     Rainbow LED     |             LED0、LED1、LED2、LED3              |               Available for Neopixel database                |              Connect to micro:bit P16 port               |
-|       Buzzer        |      Passive buzzer with a switch on board      |                 Available for music database                 |               Connect to micro:bit P0 port               |
+|       Buzzer        |      Passive buzzer    |                 Available for music database                 |               Connect to micro:bit P0 port               |
 | LED        | 8 LEDs can be programmed on the base side | Light on, twinkle, breathing light  | The LED twinkles when power on |
 | Base board | Standard 7*5 baseboard                    | The battery is placed in the middle | -                              |
 

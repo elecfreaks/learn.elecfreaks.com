@@ -78,9 +78,9 @@ In the pop-up page, search for `petal` and click to select the petal software li
 
 ### Write the Program
 
-Example program: [https://makecode.microbit.org/_PcY0whPtFD7E](https://makecode.microbit.org/_PcY0whPtFD7E)
+Example program: [https://makecode.microbit.org/_F2fUgTeYu0xy](https://makecode.microbit.org/_F2fUgTeYu0xy)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-01-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-06-03.png)
 
 You can also directly download the program through the following web page.
 
@@ -92,7 +92,7 @@ You can also directly download the program through the following web page.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_PcY0whPtFD7E"
+        src="https://makecode.microbit.org/_F2fUgTeYu0xy"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -79,7 +79,7 @@ sidebar_label: 智能晾衣架
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_PcY0whPtFD7E](https://makecode.microbit.org/_PcY0whPtFD7E)
+示例程序：[https://makecode.microbit.org/_F2fUgTeYu0xy](https://makecode.microbit.org/_F2fUgTeYu0xy)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-06-03.png)
 
@@ -93,7 +93,7 @@ sidebar_label: 智能晾衣架
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_PcY0whPtFD7E"
+        src="https://makecode.microbit.org/_F2fUgTeYu0xy"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

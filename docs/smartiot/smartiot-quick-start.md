@@ -113,7 +113,7 @@ SmartIot 平台支持最多八条数据上传。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-add-extension-03.png)
 
-在弹出界面输入“Petal”，按下回车键进行搜索，并选择加载IOT软件库。
+在弹出界面输入“Petal”，按下回车键进行搜索，并选择加载Petal软件库。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/smartiot-16.png)
 

@@ -51,7 +51,7 @@ In addition to driving forward, what other actions can be controlled by programm
 
 Click `Advanced` in the code drawer of MakeCode to view more code options.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/images/classroom-science-pack-add-extensions-02.png)
 
 In order to program TPbot Edu, we need to add an extension library. Find `Extensions` at the bottom of the code drawer and click it. A dialog box will pop up, search for `tpbot`, and then click to download this code library.
 
@@ -77,7 +77,7 @@ You can also download the program directly from the following website.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_UatK2a6cgc7u"
+        src="https://makecode.microbit.org/_0r5C5L029L9m"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -113,7 +113,7 @@ You can also download the program directly from the following website.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_UatK2a6cgc7u"
+        src="https://makecode.microbit.org/_XXH3yP66oRRp"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

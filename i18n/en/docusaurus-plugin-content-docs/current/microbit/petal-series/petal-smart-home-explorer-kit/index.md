@@ -21,7 +21,7 @@ The micro:bit Smart Home Explorer Kit is a hands-on learning suite designed for 
 | SKU                | EF08435                                                            |
 | Gross Weight | ******                                                             |
 | Package Size | 25cm × 18cm × 4cm                              |
-| Number of Electronic Modules | 8个                                                                |
+| Number of Electronic Modules | 8                                                              |
 | Electronic Modules | Petal Base Expansion Board<br/>Petal Series Temperature-Humidity Sensor<br/>Petal Series Water Level Sensor<br/>Petal Series Adapter<br/>Petal Series Fan Module<br/>Petal Series Rainbow Light<br/>Petal Series OLED Display<br/>180° Servo |
 | Structural Components | Basswood boards, nylon rivets                           |
 | Suitable Age | 10+                                                                 |

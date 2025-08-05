@@ -10,7 +10,7 @@ sidebar_label: TPbot Edu
 
 TPbot Edu is a STEAM educational intelligent programming car designed specifically for children. It stimulates children's interest in learning through entertainment modes, allowing them to master programming basics while playing. This smart car adopts an environmentally friendly lithium battery charging system, equipped with an encoded motor and onboard gyroscope, achieving precise speed control and precise steering. At the same time, it has a delicate user-friendly shell design and an easily expandable RJ11 sensor interface, making connection and use simple and worry free, making it an ideal partner for children to explore the world of technology.
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot-edu/PBot_tianpeng_case_01_01.png)
 
 ## Product Characteristics
 
@@ -39,7 +39,7 @@ TPbot Edu is a STEAM educational intelligent programming car designed specifical
 
 ## Product List
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot-edu/PBot_tianpeng_case_01_02.png)
 
 ## Specification
 

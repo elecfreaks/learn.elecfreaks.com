@@ -61,11 +61,11 @@ In order to program TPbot Edu, we need to add an extension library. Find `Extens
 
 Drag a block for setting the left and right wheel speeds from the block drawer and put it into the `When power on` block, and set all parameters to 100.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot-edu/TPBot_tianpeng_case_01_04.png)
 
 ### Program
 
-Please refer to the program link: [https://makecode.microbit.org/_0r5C5L029L9m](https://makecode.microbit.org/_0r5C5L029L9m)
+Please refer to the program link: [https://makecode.microbit.org/_UJsfdg9VhTo7](https://makecode.microbit.org/_UJsfdg9VhTo7)
 
 You can also download the program directly from the following website.
 
@@ -77,7 +77,7 @@ You can also download the program directly from the following website.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_0r5C5L029L9m"
+        src="https://makecode.microbit.org/_UJsfdg9VhTo7"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -97,11 +97,11 @@ TPbot Edu will keep moving forward
 
 Drag a block called `Forward speed 100% for 0 seconds` from the block drawer and put it into the `When powered on` block, and set the parameters to 100 speed and 3 seconds.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot-edu/TPBot_tianpeng_case_01_05.png)
 
 ### Program
 
-Please refer to the program link: [https://makecode.microbit.org/_XXH3yP66oRRp](https://makecode.microbit.org/_XXH3yP66oRRp)
+Please refer to the program link: [https://makecode.microbit.org/_2KWRpTe4Rfir](https://makecode.microbit.org/_2KWRpTe4Rfir)
 
 You can also download the program directly from the following website.
 
@@ -113,7 +113,7 @@ You can also download the program directly from the following website.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_XXH3yP66oRRp"
+        src="https://makecode.microbit.org/_2KWRpTe4Rfir"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -133,11 +133,11 @@ TPbot Edu moves forward at full speed for three seconds and then stops
 
 Drag a block with a forward speed of 100% from the block drawer and put it in the block when button A is pressed, then set a pause of 2000ms, then drag a block with a stop immediately from the block drawer and put it in the block when button A is pressed.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot-edu/TPBot_tianpeng_case_01_06.png)
 
 ### Program
 
-Please refer to the program link: [https://makecode.microbit.org/_7YPHM8Tkfbka](https://makecode.microbit.org/_7YPHM8Tkfbka)
+Please refer to the program link: [https://makecode.microbit.org/_PywAYedm0Juu](https://makecode.microbit.org/_PywAYedm0Juu)
 
 You can also download the program directly from the following website.
 
@@ -149,7 +149,7 @@ You can also download the program directly from the following website.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_7YPHM8Tkfbka"
+        src="https://makecode.microbit.org/_PywAYedm0Juu"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -50,11 +50,11 @@ In order to program the TPbot Edu car, we need to add an extension library. Find
 
 ## Sample program
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot-edu/TPBot_tianpeng_edu_case_10_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot-edu/TPBot_tianpeng_edu_case_10_07.png)
 
 ### Program
 
-Please refer to the program link: [https://makecode.microbit.org/_1pJXAKfkw3C7](https://makecode.microbit.org/_1pJXAKfkw3C7)
+Please refer to the program link: [https://makecode.microbit.org/_KFo0k5e0rP3t](https://makecode.microbit.org/_KFo0k5e0rP3t)
 
 You can also download the program directly from the following website.
 
@@ -66,7 +66,7 @@ You can also download the program directly from the following website.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_1pJXAKfkw3C7"
+        src="https://makecode.microbit.org/_KFo0k5e0rP3t"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

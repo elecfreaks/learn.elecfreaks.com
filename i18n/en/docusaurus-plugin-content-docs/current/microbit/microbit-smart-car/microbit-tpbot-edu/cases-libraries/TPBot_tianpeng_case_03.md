@@ -58,11 +58,11 @@ In order to program TPbot Edu, we need to add an extension library. Find `Extens
 
 Drag a block called "Move forward 0 cm" and a block called "Set the car to turn left 0 degrees" from the block drawer and put them into "When button A is pressed", and modify the parameters as shown below.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot-edu/TPBot_tianpeng_edu_case_03_07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot-edu/TPBot_tianpeng_edu_case_03_07.png)
 
 ### Program
 
-Please refer to the program link: [https://makecode.microbit.org/_WYj3k574g31v](https://makecode.microbit.org/_WYj3k574g31v)
+Please refer to the program link: [https://makecode.microbit.org/_1giUsjcL93Uy](https://makecode.microbit.org/_1giUsjcL93Uy)
 
 You can also download the program directly from the following website.
 
@@ -74,7 +74,7 @@ You can also download the program directly from the following website.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_WYj3k574g31v"
+        src="https://makecode.microbit.org/_1giUsjcL93Uy"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -10,7 +10,7 @@ sidebar_label: TPbot Edu
 
 TPbot Edu is a STEAM educational intelligent programming car designed specifically for children. It stimulates children's interest in learning through entertainment modes, allowing them to master programming basics while playing. This smart car adopts an environmentally friendly lithium battery charging system, equipped with an encoded motor and onboard gyroscope, achieving precise speed control and precise steering. At the same time, it has a delicate user-friendly shell design and an easily expandable RJ11 sensor interface, making connection and use simple and worry free, making it an ideal partner for children to explore the world of technology.
 
-(主图)
+
 
 ## Product Characteristics
 
@@ -39,7 +39,7 @@ TPbot Edu is a STEAM educational intelligent programming car designed specifical
 
 ## Product List
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot-edu/product-list-cn.png)
+
 
 ## Specification
 
@@ -134,13 +134,13 @@ Search for tpbot on the pop-up page and click to select the tpbot software libra
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_03.png)
 
-*** For an explanation of the software library building blocks, please visit [https://makecode.microbit.org/_gahPvi18Vdh5](https://makecode.microbit.org/_gahPvi18Vdh5) ***
+*** For an explanation of the software library building blocks, please visit [https://makecode.microbit.org/_KXqEvJJsAiKM](https://makecode.microbit.org/_KXqEvJJsAiKM) ***
 
 ### Write a program
 
-Sample program: [https://makecode.microbit.org/_gahPvi18Vdh5](https://makecode.microbit.org/_gahPvi18Vdh5)
+Sample program: [https://makecode.microbit.org/_KXqEvJJsAiKM](https://makecode.microbit.org/_KXqEvJJsAiKM)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot-edu/images/case-01-01.png)
+
 
 You can also download the program directly from the following webpage.
 
@@ -152,7 +152,7 @@ You can also download the program directly from the following webpage.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_gahPvi18Vdh5"
+        src="https://makecode.microbit.org/_KXqEvJJsAiKM"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -200,5 +200,3 @@ Click to download the program.
 ### Result
 
 Press button A and TPbot Edu moves forward.
-
-（动图）

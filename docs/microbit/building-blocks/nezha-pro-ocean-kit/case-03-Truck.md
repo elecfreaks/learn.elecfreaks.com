@@ -36,7 +36,7 @@ sidebar_label: 案例三：运输车
 
 ## 搭建步骤
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case03/nezha-pro-ocean-kit-step-03-1.png.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="https://https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case03/nezha-pro-ocean-kit-step-03-1.png.pdf" type="application/pdf" width="100%" height="600px" />
 
 --- 
 

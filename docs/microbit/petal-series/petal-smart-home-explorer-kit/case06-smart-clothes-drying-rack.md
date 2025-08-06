@@ -141,7 +141,7 @@ sidebar_label: 智能晾衣架
 
 ### 结果
 
-开机后，智能灯根据环境光强度自动点亮或者熄灭彩虹灯。
+开机后，智能晾衣架根据是否下雨自动打开或者收起晾衣架。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-06.gif)
 

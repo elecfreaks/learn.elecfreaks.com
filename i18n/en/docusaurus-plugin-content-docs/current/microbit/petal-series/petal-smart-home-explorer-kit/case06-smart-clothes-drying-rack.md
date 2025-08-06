@@ -136,7 +136,7 @@ Click to download the program.
 
 ### Results
 
-After powering on, the smart light automatically turns on or off the rainbow light according to the ambient light intensity.
+After being turned on, the smart clothes drying rack will automatically open or close depending on whether it is raining.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-06.gif)
 

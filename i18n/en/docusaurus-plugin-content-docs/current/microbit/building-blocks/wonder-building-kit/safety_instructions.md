@@ -1,4 +1,9 @@
-﻿#  Safety instructions
+﻿---
+sidebar_position: 1
+sidebar_label: Safety instructions
+---
+
+#  Safety instructions
  Wonder Building Kit is an electronic product and we need to pay attention to the following issues in daily use, please read carefully and know the relevant precautions.
 
 1. Do not use the Wukong expansion board while it is being charged. Using the Wukong expansion board while charging will not only shorten the life of the Wukong expansion board, but may also cause damage to the product.

@@ -1,4 +1,9 @@
-﻿# Case 16: The Road Sweeper
+﻿---
+sidebar_position: 16
+sidebar_label: Case 16:The Road Sweeper
+---
+
+# Case 16: The Road Sweeper
 
 ## Purpose
 ---

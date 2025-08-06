@@ -1,4 +1,10 @@
-﻿# Case 38: The Pendulum
+﻿---
+sidebar_position: 38
+sidebar_label: Case 38:The Pendulum
+---
+
+
+# Case 38: The Pendulum
 ## Purpose
 Make a Pendulum.
 

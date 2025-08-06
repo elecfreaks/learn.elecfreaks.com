@@ -1,4 +1,9 @@
-﻿# Case 22: The Helicopter
+﻿---
+sidebar_position: 22
+sidebar_label: Case 22:The Helicopter
+---
+
+# Case 22: The Helicopter
 
 ## Purpose
 ---

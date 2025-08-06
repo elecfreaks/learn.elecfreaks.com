@@ -1,4 +1,9 @@
-﻿# Case 33: Two-wheeled Motorcycle
+﻿---
+sidebar_position: 33
+sidebar_label: Case 33:Two-wheeled Motorcycle
+---
+
+# Case 33: Two-wheeled Motorcycle
 ## Purpose
 Make a two-wheeled motorcycle that can be remotely controlled using a handle.
 

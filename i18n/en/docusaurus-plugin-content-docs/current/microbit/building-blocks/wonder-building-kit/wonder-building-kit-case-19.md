@@ -1,4 +1,9 @@
-﻿# Case 19: The Crawler
+﻿---
+sidebar_position: 19
+sidebar_label: Case 19:The Crawler
+---
+
+# Case 19: The Crawler
 
 ## Purpose
 ---

@@ -1,4 +1,9 @@
-﻿# Case 21: The Spider Walker
+﻿---
+sidebar_position: 21
+sidebar_label: Case 21:The Spider Walker
+---
+
+# Case 21: The Spider Walker
 
 ## Purpose
 ---

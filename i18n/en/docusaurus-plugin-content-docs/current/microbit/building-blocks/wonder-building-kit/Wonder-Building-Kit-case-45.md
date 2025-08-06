@@ -1,4 +1,9 @@
-﻿# Case 45: The Cricket Robot
+﻿---
+sidebar_position: 45
+sidebar_label: Case 45:The Cricket Robot
+---
+
+# Case 45: The Cricket Robot
 ## Purpose
 Make a cricket robot.
 

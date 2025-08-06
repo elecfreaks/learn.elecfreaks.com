@@ -1,4 +1,9 @@
-﻿# Case 30: The Ambient Lighting
+﻿---
+sidebar_position: 30
+sidebar_label: Case 30:The Ambient Lighting
+---
+
+# Case 30: The Ambient Lighting
 
 ## Purpose
 ---

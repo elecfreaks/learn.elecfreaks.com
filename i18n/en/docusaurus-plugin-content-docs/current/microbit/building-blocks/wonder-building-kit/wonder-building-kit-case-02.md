@@ -1,4 +1,9 @@
-﻿# Case 02: Line-following Cars
+﻿---
+sidebar_position: 2
+sidebar_label: Case 02:Line-following Cars
+---
+
+# Case 02: Line-following Cars
 
 ## Purpose
 ---

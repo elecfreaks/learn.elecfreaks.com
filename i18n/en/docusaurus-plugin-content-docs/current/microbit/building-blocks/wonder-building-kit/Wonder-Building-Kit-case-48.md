@@ -1,4 +1,9 @@
-﻿# Case 48: The Jump Rope Robot
+﻿---
+sidebar_position: 48
+sidebar_label: Case 48:The Jump Rope Robot
+---
+
+# Case 48: The Jump Rope Robot
 ## Purpose
 Make a Jump rope robot
 

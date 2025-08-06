@@ -1,4 +1,9 @@
-﻿# Case 35: Swimming Robot
+﻿---
+sidebar_position: 35
+sidebar_label: Case 35:Swimming Robot
+---
+
+# Case 35: Swimming Robot
 ## Purpose
 Make a swimming robot.
 

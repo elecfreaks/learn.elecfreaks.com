@@ -1,4 +1,9 @@
-﻿# Case 36: Forklift
+﻿---
+sidebar_position: 36
+sidebar_label: Case 36:Forklift
+---
+
+# Case 36: Forklift
 ## Purpose
 Make a forklift.
 

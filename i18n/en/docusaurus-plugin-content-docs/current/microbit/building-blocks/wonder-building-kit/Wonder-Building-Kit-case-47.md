@@ -1,4 +1,9 @@
-﻿# Case 47: The Flying Cars
+﻿---
+sidebar_position: 47
+sidebar_label: Case 47:The Flying Cars
+---
+
+# Case 47: The Flying Cars
 ## Purpose
 Make a Flying car.
 

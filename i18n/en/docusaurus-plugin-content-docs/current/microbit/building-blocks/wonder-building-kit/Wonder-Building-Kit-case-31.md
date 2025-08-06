@@ -1,4 +1,9 @@
-﻿# Case 31: The Drawing Machine
+﻿---
+sidebar_position: 31
+sidebar_label: Case 31:The Drawing Machine
+---
+
+# Case 31: The Drawing Machine
 
 ## Purpose
 ---

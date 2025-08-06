@@ -1,4 +1,9 @@
-﻿# Case 15: The Walking Robot
+﻿---
+sidebar_position: 15
+sidebar_label: Case 15:The Walking Robot
+---
+
+# Case 15: The Walking Robot
 
 ## Purpose
 ---

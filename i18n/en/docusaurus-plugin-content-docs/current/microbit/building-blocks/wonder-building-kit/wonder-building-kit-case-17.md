@@ -1,4 +1,9 @@
-﻿# Case 17: The Rickshaw
+﻿---
+sidebar_position: 17
+sidebar_label: Case 17:The Rickshaw
+---
+
+# Case 17: The Rickshaw
 
 ## Purpose
 ---

@@ -1,4 +1,9 @@
-﻿# Case 01: The Motorcycle
+﻿---
+sidebar_position: 1
+sidebar_label: Case 01:The Motorcycle
+---
+
+# Case 01: The Motorcycle
 
 ## Purpose
 ---

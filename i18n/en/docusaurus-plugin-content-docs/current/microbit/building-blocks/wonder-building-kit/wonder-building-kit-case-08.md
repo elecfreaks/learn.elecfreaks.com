@@ -1,4 +1,9 @@
-﻿# Case 08: The Robot Arm
+﻿---
+sidebar_position: 8
+sidebar_label: Case 08:The Robot Arm
+---
+
+# Case 08: The Robot Arm
 
 ## Purpose
 ---

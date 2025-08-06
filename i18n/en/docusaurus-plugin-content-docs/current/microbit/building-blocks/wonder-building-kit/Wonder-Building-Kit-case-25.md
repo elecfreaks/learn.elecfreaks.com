@@ -1,4 +1,9 @@
-﻿# Case 25: The Egg Beater
+﻿---
+sidebar_position: 25
+sidebar_label: Case 25:The Egg Beater
+---
+
+# Case 25: The Egg Beater
 
 ## Purpose
 ---

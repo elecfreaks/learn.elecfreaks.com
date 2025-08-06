@@ -1,4 +1,9 @@
-﻿# Case 42: The Pull-ups Robot
+﻿---
+sidebar_position: 42
+sidebar_label: Case 42:The Pull-ups Robot
+---
+
+# Case 42: The Pull-ups Robot
 ## Purpose
 Make a robot that does pull-ups.
 

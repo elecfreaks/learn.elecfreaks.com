@@ -1,4 +1,9 @@
-﻿# Case 24: The Top Emitter
+﻿---
+sidebar_position: 24
+sidebar_label: Case 24:The Top Emitter
+---
+
+# Case 24: The Top Emitter
 
 ## Purpose
 ---

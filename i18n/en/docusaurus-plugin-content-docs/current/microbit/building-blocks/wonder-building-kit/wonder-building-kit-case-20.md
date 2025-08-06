@@ -1,4 +1,9 @@
-﻿# Case 20: The Smart Airer
+﻿---
+sidebar_position: 20
+sidebar_label: Case 20:The Smart Airer
+---
+
+# Case 20: The Smart Airer
 
 ## Purpose
 ---

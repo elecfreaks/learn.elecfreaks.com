@@ -1,4 +1,9 @@
-﻿# Case 28:The Wiper
+﻿---
+sidebar_position: 28
+sidebar_label: Case 28:The Wiper
+---
+
+# Case 28:The Wiper
 
 ## Purpose
 ---

@@ -1,4 +1,9 @@
-﻿# Case 07: The Basketball Counter
+﻿---
+sidebar_position: 7
+sidebar_label: Case 07:The Basketball Counter
+---
+
+# Case 07: The Basketball Counter
 
 ## Purpose
 ---

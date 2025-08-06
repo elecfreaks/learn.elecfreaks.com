@@ -1,4 +1,9 @@
-﻿# Case 13: The Seesaw
+﻿---
+sidebar_position: 13
+sidebar_label: Case 13:The Seesaw
+---
+
+# Case 13: The Seesaw
 
 ## Purpose
 ---

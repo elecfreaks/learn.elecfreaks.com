@@ -1,4 +1,9 @@
-﻿# Case 46: The Unicycle Mini Man
+﻿---
+sidebar_position: 46
+sidebar_label: Case 46:The Unicycle Mini Man
+---
+
+# Case 46: The Unicycle Mini Man
 ## Purpose
 Make a small person who rides a unicycle on a tightrope.
 

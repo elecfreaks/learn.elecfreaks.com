@@ -1,4 +1,9 @@
-﻿# Case 29: The Stone Thrower
+﻿---
+sidebar_position: 29
+sidebar_label: Case 29:The Stone Thrower
+---
+
+# Case 29: The Stone Thrower
 
 ## Purpose
 ---

@@ -1,4 +1,9 @@
-﻿# Case 04: Obstacles-avoidance Cars
+﻿---
+sidebar_position: 4
+sidebar_label: Case 04:Obstacles-avoidance Cars
+---
+
+# Case 04: Obstacles-avoidance Cars
 
 ## Purpose
 ---

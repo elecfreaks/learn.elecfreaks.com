@@ -1,4 +1,9 @@
-﻿# Case 27: The Smart Garbage Can
+﻿---
+sidebar_position: 27
+sidebar_label: Case 27:The Smart Garbage Can
+---
+
+# Case 27: The Smart Garbage Can
 
 ## Purpose
 ---

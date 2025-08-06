@@ -1,4 +1,9 @@
-﻿# Case 03: The Gyroscope Base
+﻿---
+sidebar_position: 3
+sidebar_label: Case 03:The Gyroscope Base
+---
+
+# Case 03: The Gyroscope Base
 
 ## Purpose
 ---

@@ -1,4 +1,9 @@
-﻿# Case 34: Mechanical Dog
+﻿---
+sidebar_position: 34
+sidebar_label: Case 34:Mechanical Dog
+---
+
+# Case 34: Mechanical Dog
 ## Purpose
 Make a mechanical dog.
 

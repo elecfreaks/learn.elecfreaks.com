@@ -1,4 +1,9 @@
-﻿# Case 14: The Reading Range Guitar
+﻿---
+sidebar_position: 14
+sidebar_label: Case 14:The Reading Range Guitar
+---
+
+# Case 14: The Reading Range Guitar
 
 ## Purpose
 ---

@@ -1,4 +1,9 @@
-﻿# Case 23: The Locomotive
+﻿---
+sidebar_position: 23
+sidebar_label: Case 23:The Locomotive
+---
+
+# Case 23: The Locomotive
 
 ## Purpose
 ---

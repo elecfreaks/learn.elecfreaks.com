@@ -1,4 +1,9 @@
-﻿# Case 11: The Tiny Sky Wheel
+﻿---
+sidebar_position: 11
+sidebar_label: Case 11:The Tiny Sky Wheel
+---
+
+# Case 11: The Tiny Sky Wheel
 
 ## Purpose
 ---

@@ -1,4 +1,9 @@
-﻿# Case 10: Boating
+﻿---
+sidebar_position: 10
+sidebar_label: Case 10:Boating
+---
+
+# Case 10: Boating
 
 ## Purpose
 ---

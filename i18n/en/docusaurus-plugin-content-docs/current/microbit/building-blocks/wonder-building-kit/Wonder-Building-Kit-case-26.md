@@ -1,4 +1,9 @@
-﻿# Case 26: The Corsair
+﻿---
+sidebar_position: 26
+sidebar_label: Case 26:The Corsair
+---
+
+# Case 26: The Corsair
 
 ## Purpose
 ---

@@ -1,4 +1,10 @@
-﻿# Case 40: The Bow
+﻿---
+sidebar_position: 40
+sidebar_label: Case 40:The Bow
+---
+
+
+# Case 40: The Bow
 ## Purpose
 To make a bow.
 

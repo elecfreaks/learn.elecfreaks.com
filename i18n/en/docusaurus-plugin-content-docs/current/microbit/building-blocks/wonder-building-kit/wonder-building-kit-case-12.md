@@ -1,4 +1,9 @@
-﻿# Case 12: The Forklift
+﻿---
+sidebar_position: 12
+sidebar_label: Case 12:The Forklift
+---
+
+# Case 12: The Forklift
 
 ## Purpose
 ---

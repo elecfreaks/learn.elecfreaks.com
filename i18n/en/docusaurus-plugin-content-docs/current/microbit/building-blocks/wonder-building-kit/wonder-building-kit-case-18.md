@@ -1,4 +1,9 @@
-﻿# Case 18: The Aerial Ladder Truck
+﻿---
+sidebar_position: 18
+sidebar_label: Case 18:The Aerial Ladder Truck
+---
+
+# Case 18: The Aerial Ladder Truck
 
 ## Purpose
 ---

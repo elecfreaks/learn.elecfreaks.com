@@ -1,4 +1,9 @@
-﻿# Case 05:  Rotary Chairs
+﻿---
+sidebar_position: 5
+sidebar_label: Case 05:Rotary Chairs
+---
+
+# Case 05: Rotary Chairs
 
 ## Purpose
 ---

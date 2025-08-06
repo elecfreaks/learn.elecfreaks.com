@@ -1,4 +1,9 @@
-﻿# Case 43: The Worm car
+﻿---
+sidebar_position: 43
+sidebar_label: Case 43:The Worm car
+---
+
+# Case 43: The Worm car
 ## Purpose
 Make a worm car.
 

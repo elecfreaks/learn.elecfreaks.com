@@ -1,4 +1,9 @@
-﻿# Case 41: The Wings
+﻿---
+sidebar_position: 41
+sidebar_label: Case 41:The Wings
+---
+
+# Case 41: The Wings
 ## Purpose
 Make a pair of wings.
 

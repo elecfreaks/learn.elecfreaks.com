@@ -1,4 +1,10 @@
-﻿# Case 39: The Weight-Lifting Robot
+﻿---
+sidebar_position: 39
+sidebar_label: Case 39:The Weight-Lifting Robot
+---
+
+
+# Case 39: The Weight-Lifting Robot
 ## Purpose
 Make a weight-lifting robot.
 

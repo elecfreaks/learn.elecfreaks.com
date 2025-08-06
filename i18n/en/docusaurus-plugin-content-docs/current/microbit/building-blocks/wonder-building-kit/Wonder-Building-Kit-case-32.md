@@ -1,4 +1,9 @@
-﻿# Case 32: Robot Dog
+﻿---
+sidebar_position: 32
+sidebar_label: Case 32:Robot Dog
+---
+
+# Case 32: Robot Dog
 
 ## Purpose
 ---

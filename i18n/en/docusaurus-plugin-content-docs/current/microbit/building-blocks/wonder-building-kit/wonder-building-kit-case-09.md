@@ -1,4 +1,10 @@
-﻿# Case 09: Automatic Doors
+﻿---
+sidebar_position: 9
+sidebar_label: Case 09:Automatic Doors
+---
+
+
+# Case 09: Automatic Doors
 
 ## Purpose
 ---

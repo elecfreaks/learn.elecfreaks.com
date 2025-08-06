@@ -1,4 +1,9 @@
-﻿# Case 44: The Oscillating Fan
+﻿---
+sidebar_position: 44
+sidebar_label: Case 44:The Oscillating Fan
+---
+
+# Case 44: The Oscillating Fan
 ##  Purpose
 Make an oscillating head fan.
 

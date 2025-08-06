@@ -1,4 +1,9 @@
-﻿# Case 37: The Steering Vehicle
+﻿---
+sidebar_position: 37
+sidebar_label: Case 37:The Steering Vehicle
+---
+
+# Case 37: The Steering Vehicle
 ## Purpose
 Make a steering car.
 

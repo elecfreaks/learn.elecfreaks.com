@@ -1,4 +1,9 @@
-﻿# Case 06: The Bigfoot Monster
+﻿---
+sidebar_position: 6
+sidebar_label: Case 06:The Bigfoot Monster
+---
+
+# Case 06: The Bigfoot Monster
 
 ## Purpose
 ---

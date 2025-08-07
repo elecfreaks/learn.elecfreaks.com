@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-sidebar_label: Case 4: Crane
+sidebar_label: Case4:Crane
 ---
 
 # Compass

@@ -42,13 +42,13 @@ sidebar_label: 案例十二：模拟潮汐发电
 
 ## 硬件连接
 
-1号电机连接哪吒扩展板M1接口；
+1号电机连接哪吒扩展板“M1”端口；
 
-2号电机连接哪吒扩展板M2接口；
+2号电机连接哪吒扩展板“M2”端口；
 
-双路巡线传感器连接哪吒扩展板J1接口；
+双路巡线传感器连接哪吒扩展板“J1”端口；
 
-彩虹灯环连接哪吒扩展板J4端口。
+彩虹灯环连接哪吒扩展板“J4”端口。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case12/nezha-pro-ocean-kit-12-2.png.png)
 

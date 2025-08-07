@@ -7,7 +7,7 @@ sidebar_label: Case6:Fishing Rod
 
 ## Story Introduction
 
-It is the seventh day after setting sail. Xiao En is navigating the Hope across the vast, calm ocean. He thinks today is the perfect day for a fishing break, but after searching everywhere on the boat, he can't find a fishing rod. So, Xiao En hopes that his friends can build a fishing rod with building blocks by themselves.
+It is the seventh day after setting sail. Ian is navigating the Hope across the vast, calm ocean. He thinks today is the perfect day for a fishing break, but after searching everywhere on the boat, he can't find a fishing rod. So, Ian hopes that his friends can build a fishing rod with building blocks by themselves.
 
 ---
 

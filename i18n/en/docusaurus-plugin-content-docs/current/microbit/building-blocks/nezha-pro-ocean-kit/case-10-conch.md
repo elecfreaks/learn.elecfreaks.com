@@ -1,6 +1,6 @@
 ---
 sidebar_position: 10
-sidebar_label: Case 10: Conch
+sidebar_label: Case10:Conch
 ---
 
 # Conch

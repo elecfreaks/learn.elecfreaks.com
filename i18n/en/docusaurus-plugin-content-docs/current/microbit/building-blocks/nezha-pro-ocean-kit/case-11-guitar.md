@@ -6,7 +6,7 @@ sidebar_label: Case11:Guitar
 # Guitar
 ## Story Introduction
 
-After several competitions, Xiao En and Jack were still not satisfied. Xiao En sighed, "You guys seem to have a special love for the sea; even the competitions are full of marine elements." Jack nodded with a smile, "Of course! The sea is our treasure, bringing us countless amounts of food. We are truly grateful to it." As soon as he finished speaking, the local residents began dancing happily to the drumbeats. Jack's eyes lit up, and he pulled Xiao En, saying, "The most lively moment is here! Come on, let's jump into this music carnival!"
+After several competitions, Ian and Jack were still not satisfied. Ian sighed, "You guys seem to have a special love for the sea; even the competitions are full of marine elements." Jack nodded with a smile, "Of course! The sea is our treasure, bringing us countless amounts of food. We are truly grateful to it." As soon as he finished speaking, the local residents began dancing happily to the drumbeats. Jack's eyes lit up, and he pulled Ian, saying, "The most lively moment is here! Come on, let's jump into this music carnival!"
 
 ---
 

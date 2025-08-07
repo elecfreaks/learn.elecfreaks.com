@@ -38,7 +38,11 @@ sidebar_label: 案例七：灯塔
 
 ## 硬件连接
 
-1号电机连接哪吒扩展板“M4”端口，光线传感器连接哪吒拓展板“J1”端口，彩虹灯环模块连接哪吒拓展板“J2”端口。
+1号电机连接哪吒扩展板“M4”端口；
+
+光线传感器连接哪吒拓展板“J1”端口；
+
+彩虹灯环模块连接哪吒拓展板“J2”端口。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case07/nezha-pro-ocean-kit-step-07-3.png.png)
 

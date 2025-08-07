@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
-sidebar_label: 哪吒Pro海洋套件
+sidebar_label: 产品介绍
+
 ---
 
 # 哪吒Pro海洋套件

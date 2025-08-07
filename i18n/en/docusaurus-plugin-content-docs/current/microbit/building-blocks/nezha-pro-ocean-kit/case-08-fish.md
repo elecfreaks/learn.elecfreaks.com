@@ -1,6 +1,6 @@
 ---
 sidebar_position: 8
-sidebar_label: Case 8: Fish
+sidebar_label: Case8:Fish
 ---
 
 # Fish

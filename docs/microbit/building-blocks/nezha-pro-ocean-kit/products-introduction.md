@@ -1,4 +1,10 @@
-# 哪吒Pro海洋套装
+---
+sidebar_position: 0
+sidebar_label: 产品介绍
+
+---
+
+# 哪吒Pro海洋套件
 
 ---
 ## 产品介绍

@@ -40,7 +40,9 @@ sidebar_label: 案例一：帆船
 
 ## 硬件连接
 
-1号电机连接哪吒扩展板“M4”端口，2号电机连接哪吒扩展板“M1”端口，双路巡线传感器连接在哪吒扩展板“J4”端口
+1号电机连接哪吒扩展板“M4”端口；
+2号电机连接哪吒扩展板“M1”端口；
+双路巡线传感器连接在哪吒扩展板“J4”端口。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case01/nezha-pro-ocean-kit-step-01-2.png)
 

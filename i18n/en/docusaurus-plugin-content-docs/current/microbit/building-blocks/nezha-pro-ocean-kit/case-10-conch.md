@@ -6,7 +6,7 @@ sidebar_label: Case10:Conch
 # Conch
 ## Story Introduction
 
-Xiao En was still immersed in the excitement of the crab racing when Jack dragged him to a new venue. The host announced, "Next up is the conch crawling competition! Whoever builds a conch model that crawls the slowest will be the champion!" Jack's eyes lit up, and he raised his eyebrows at Xiao En: "See that? I'm an expert at building conchs! Dare to compete with me?"
+Ian was still immersed in the excitement of the crab racing when Jack dragged him to a new venue. The host announced, "Next up is the conch crawling competition! Whoever builds a conch model that crawls the slowest will be the champion!" Jack's eyes lit up, and he raised his eyebrows at Ian: "See that? I'm an expert at building conchs! Dare to compete with me?"
 
 --- 
 

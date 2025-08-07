@@ -20,7 +20,9 @@ sidebar_label: 案例五：天气小伙伴
 --- 
 ## 教学目标 
 1.认识OLED显示。
+
 2.认识DHT11温湿度传感器。
+
 3.掌握OLED与DHT11积木块的使用。
 
 --- 
@@ -36,9 +38,9 @@ sidebar_label: 案例五：天气小伙伴
 --- 
 
 ## 硬件连接
-使用RJ11线将OLED显示屏连接在哪吒扩展板“IIC”端口；
+OLED显示屏连接在哪吒扩展板“IIC”端口；
 
-使用RJ11线将DHT11温湿度传感器连接在哪吒扩展板“J1”端口。
+DHT11温湿度传感器连接在哪吒扩展板“J1”端口。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case05/nezha-pro-ocean-kit-step-05-2.png.png)
 

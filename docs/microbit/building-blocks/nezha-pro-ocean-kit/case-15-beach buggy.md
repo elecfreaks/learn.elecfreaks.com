@@ -37,7 +37,7 @@ sidebar_label: 案例十五：沙滩车
 --- 
 ## 搭建步骤
 
-**注意事项** 安装时请注意与1号电机的零点位置对齐！如下图所示
+**注意事项** 安装时请注意与1号电机的零点位置对齐！如下图所示。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/nezha-pro-ocean-kit-00.png)
 

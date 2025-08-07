@@ -5,7 +5,7 @@ sidebar_label: Case9:Crab
 
 # Crab
 ## Story Introduction
-Right after the thrilling model-building competition, Jack pulled Xiao En to another venue. On the track, several building block crabs were chasing each other, and the audience around them was shouting loudly to cheer for their favorite "contestants". The scene is lively and bustling. Come and join this joyful building block crab race with Xiao En and Jack!
+Right after the thrilling model-building competition, Jack pulled Ian to another venue. On the track, several building block crabs were chasing each other, and the audience around them was shouting loudly to cheer for their favorite "contestants". The scene is lively and bustling. Come and join this joyful building block crab race with Ian and Jack!
 
 ---
 
@@ -37,6 +37,7 @@ Right after the thrilling model-building competition, Jack pulled Xiao En to ano
 ## Hardware Connection
 
 Motor 1 is connected to the "M1" port of the Nezha expansion board;
+
 The ultrasonic sensor is connected to the "J4" port of the Nezha expansion board.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case09/nezha-pro-ocean-kit-step-09-2.png.png)

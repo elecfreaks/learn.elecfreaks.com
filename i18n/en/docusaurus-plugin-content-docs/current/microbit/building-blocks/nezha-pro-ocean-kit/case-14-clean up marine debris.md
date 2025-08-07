@@ -6,7 +6,7 @@ sidebar_label: Case14:Simulating Marine Debris Cleanup
 # Simulating Marine Debris Cleanup
 ## Story Introduction
 
-With the aquaculture farm repaired, Jack looked at the storm debris floating on the sea, his face full of worry: "If this debris drifts away with the ocean currents, marine life and the environment will suffer." Xiao En patted his shoulder: "Don't worry! Let's figure out a way together—we'll definitely clean it up!" Do you have any good plans to help deal with marine debris? Besides cleaning up marine debris, what other ways can reduce the pollution of debris to the ocean?
+With the aquaculture farm repaired, Jack looked at the storm debris floating on the sea, his face full of worry: "If this debris drifts away with the ocean currents, marine life and the environment will suffer." Ian patted his shoulder: "Don't worry! Let's figure out a way together—we'll definitely clean it up!" Do you have any good plans to help deal with marine debris? Besides cleaning up marine debris, what other ways can reduce the pollution of debris to the ocean?
 
 --- 
 

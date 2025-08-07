@@ -1,6 +1,6 @@
 ---
 sidebar_position: 16
-sidebar_label: Case 16: Sluice Gate
+sidebar_label: Case16:Sluice Gate
 ---
 
 # Sluice Gate

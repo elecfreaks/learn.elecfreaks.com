@@ -1,6 +1,6 @@
 ---
 sidebar_position: 9
-sidebar_label: Case 9: Crab
+sidebar_label: Case9:Crab
 ---
 
 # Crab

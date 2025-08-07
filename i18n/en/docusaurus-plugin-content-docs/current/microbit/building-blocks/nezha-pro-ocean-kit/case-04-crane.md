@@ -72,7 +72,7 @@ In the pop-up interface, enter **nezha pro** and click the search icon. After th
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case04/nezha-pro-ocean-kit-step-04-2.png.png)
 
 Program link
-[https://makecode.microbit.org/_XYu4st3UF7X2](https://makecode.microbit.org/_XYu4st3UF7X2)
+[https://makecode.microbit.org/_AquKFJ527Rop](https://makecode.microbit.org/_AquKFJ527Rop)
 
 You can also download the program directly through the following webpage.
 
@@ -84,7 +84,7 @@ You can also download the program directly through the following webpage.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_XYu4st3UF7X2"
+        src="https://makecode.microbit.org/_AquKFJ527Rop"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

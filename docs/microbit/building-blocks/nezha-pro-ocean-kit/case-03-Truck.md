@@ -41,11 +41,15 @@ sidebar_label: 案例三：运输车
 --- 
 
 ## 硬件连接
-使用RJ11线将2号马达连接到哪吒扩展板的“M1”端口上；
-使用RJ11线将1号马达连接到哪吒扩展板的“M2”端口上；
-使用RJ11线将电位器传感器连接到哪吒扩展板的“J1”端口上；
-使用RJ11线将1号碰撞传感器连接到哪吒扩展板的“J2”端口上；
-使用RJ11线将2号碰撞传感器连接到哪吒扩展板的“J3”端口上；
+2号马达连接到哪吒扩展板的“M1”端口；
+
+1号马达连接到哪吒扩展板的“M2”端口；
+
+电位器传感器连接到哪吒扩展板的“J1”端口；
+
+1号碰撞传感器连接到哪吒扩展板的“J2”端口；
+
+2号碰撞传感器连接到哪吒扩展板的“J3”端口；
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case03/nezha-pro-ocean-kit-step-03-3.png.png)
 

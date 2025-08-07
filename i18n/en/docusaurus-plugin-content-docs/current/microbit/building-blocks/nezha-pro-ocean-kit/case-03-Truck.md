@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Case 3: Transport Vehicle
+sidebar_label: Case3:Transport Vehicle
 
 ---
 

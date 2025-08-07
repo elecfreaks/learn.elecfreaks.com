@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-sidebar_label: Case 5: Weather Pal
+sidebar_label: Case5:Weather Pal
 ---
 
 # Weather Pal

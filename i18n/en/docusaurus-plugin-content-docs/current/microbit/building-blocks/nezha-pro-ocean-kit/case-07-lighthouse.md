@@ -1,6 +1,6 @@
 ---
 sidebar_position: 7
-sidebar_label: Case 7: Lighthouse
+sidebar_label: Case7:Lighthouse
 ---
 
 # Lighthouse

@@ -23,7 +23,7 @@ Before starting the teaching, please make sure you have prepared the following n
 
 | **Picture**                                                  | **Name**                | **Quantity** | **Remarks**         |
 | --- | --- | --- | --- |
-| <!-- 套装产品图 -->| Smart Home Explorer Kit | 1 |  |
+| | Smart Home Explorer Kit | 1 |  |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit.png) | micro:bit | 1 | Prepare by yourself |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/pc.png) | PC | 1 | Prepare by yourself |
 

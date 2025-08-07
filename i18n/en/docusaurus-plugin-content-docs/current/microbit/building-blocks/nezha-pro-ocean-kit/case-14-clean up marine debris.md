@@ -131,7 +131,15 @@ Click **Download Program**
 ---
 ## Case Demonstration
 
-When the ultrasonic sensor detects a distance ＜ 20CM and both touch sensors are pressed, the debris cleanup device moves backward; if the left collision sensor is pressed, the device turns right; if the right collision sensor is pressed, the device turns left; otherwise, the device moves forward.
+If the ultrasonic sensor detects a distance > 20 cm:
+If both touch sensors are pressed, the garbage cleaning device moves backward;
+If the left collision sensor is pressed, the garbage cleaning device turns right;
+If the right collision sensor is pressed, the garbage cleaning device turns left;
+Otherwise, the garbage cleaning device moves forward.
+If the ultrasonic sensor detects a distance < 20 cm:
+If the left collision sensor is pressed, the garbage cleaning device turns right;
+If the right collision sensor is pressed, the garbage cleaning device turns left;
+Otherwise, it turns right.
 
 **Picture**
 

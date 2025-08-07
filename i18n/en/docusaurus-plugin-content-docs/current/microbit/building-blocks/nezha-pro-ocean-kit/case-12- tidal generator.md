@@ -1,6 +1,6 @@
 ---
 sidebar_position: 12
-sidebar_label: Case 12: Simulating Tidal Power Generation
+sidebar_label: Case12:Simulating Tidal Power Generation
 ---
 
 # Simulating Tidal Power Generation

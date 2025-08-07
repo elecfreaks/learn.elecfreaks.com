@@ -41,13 +41,13 @@ sidebar_label: 案例十三：模拟海上养殖场
 
 ## 硬件连接
 
-光线传感器连接哪吒扩展板J1端口；
+光线传感器连接哪吒扩展板“J1”端口；
 
-彩虹灯环连接哪吒扩展板J2端口;
+彩虹灯环连接哪吒扩展板“J2”端口;
 
-DHT11温湿度传感连接哪吒扩展J3端口；
+DHT11温湿度传感连接哪吒扩展“J3”端口；
 
-OLED显示屏连接哪吒扩展传感IIC端口。
+OLED显示屏连接哪吒扩展传感“IIC”端口。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case13/nezha-pro-ocean-kit-13-3.png.png)
 

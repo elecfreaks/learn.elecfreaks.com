@@ -1,6 +1,6 @@
 ---
 sidebar_position: 13
-sidebar_label: Case 13: Simulating an Offshore Aquaculture Farm
+sidebar_label: Case13:Simulating an Offshore Aquaculture Farm
 ---
 
 # Simulating an Offshore Aquaculture Farm

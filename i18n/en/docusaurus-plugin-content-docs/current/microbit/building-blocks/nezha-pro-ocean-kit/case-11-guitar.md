@@ -1,6 +1,6 @@
 ---
 sidebar_position: 11
-sidebar_label: Case 11: Guitar
+sidebar_label: Case11:Guitar
 ---
 
 # Guitar

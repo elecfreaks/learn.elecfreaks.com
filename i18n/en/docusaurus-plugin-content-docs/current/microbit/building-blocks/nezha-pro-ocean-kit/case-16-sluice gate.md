@@ -36,6 +36,12 @@ Ian and Jack were walking on the street when they heard workers discussing: due 
 
 ## Construction Steps
 
+**Notes**
+
+During installation, please ensure alignment with the zero position of the smart motor! As shown in the figure below：
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/nezha-pro-ocean-kit-00.png)
+
 <embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case16/nezha-pro-ocean-kit-16-1.png.pdf" type="application/pdf" width="100%" height="600px" />
 
 ---

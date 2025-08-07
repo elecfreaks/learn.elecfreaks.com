@@ -43,11 +43,11 @@ sidebar_label: 案例十五：沙滩车
 
 ## 硬件连接
 
-超声波传感连接哪吒扩展板J1端口；
+超声波传感连接哪吒扩展板“J1”端口；
 
-1号电机连接哪吒扩展板M1端口；
+1号电机连接哪吒扩展板“M1”端口；
 
-2号电机连接哪吒扩展板M4端口。
+2号电机连接哪吒扩展板“M4”端口。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case15/nezha-pro-ocean-kit-15-3.png.png)
 

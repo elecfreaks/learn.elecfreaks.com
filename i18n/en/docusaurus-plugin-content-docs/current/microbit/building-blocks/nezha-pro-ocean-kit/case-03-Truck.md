@@ -6,7 +6,7 @@ sidebar_label: Case3:Transport Vehicle
 
 # Transport Vehicle
 ## Story Introduction
-The morning fog had not yet lifted, and Xiao En looked发愁 at the boxes of supplies piled up at the town entrance — thirty barrels of fresh water, more than fifty boxes of grain, half a bundle of hemp rope, as well as the box of nautical instruments left by his father and numerous daily supplies. To carry all these to the port by himself, he would need to make many round trips. Please help Xiao En find a way to transport the supplies to the port.
+The morning fog had not yet lifted, and Ian looked at the boxes of supplies piled up at the town entrance — thirty barrels of fresh water, more than fifty boxes of grain, half a bundle of hemp rope, as well as the box of nautical instruments left by his father and numerous daily supplies. To carry all these to the port by himself, he would need to make many round trips. Please help Ian find a way to transport the supplies to the port.
 
 --- 
 

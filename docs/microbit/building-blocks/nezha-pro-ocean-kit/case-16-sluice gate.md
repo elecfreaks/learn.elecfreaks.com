@@ -39,9 +39,9 @@ sidebar_label: 案例十六：闸门
 
 ## 硬件连接
 
-水位传感器连接哪吒扩展板J1端口；
+水位传感器连接哪吒扩展板“J1”端口；
 
-1号电机连接哪吒扩展板M1端口。
+1号电机连接哪吒扩展板“M1”端口。
 
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case16/nezha-pro-ocean-kit-16-4.png.png)

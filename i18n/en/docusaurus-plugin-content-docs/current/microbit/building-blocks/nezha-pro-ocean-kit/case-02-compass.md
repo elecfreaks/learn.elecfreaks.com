@@ -5,8 +5,8 @@ sidebar_label: Case2:Compass
 
 # Compass
 ## Story Introduction
-Xiao En's eyes welled up as he looked at the "Hope". This boat was built by friends working together. A friend handed over a shell wind chime: "Hang it on the boat, and the sea won't trouble you!" Xiao En solemnly promised: "I'll bring back wonderful stories!"
-As night fell, unease crept in quietly. Xiao En squatted on the shore, remembering the rumors of fishing boats going missing he'd heard at the market. Looking out at the vast sea, he felt uneasy: "In the boundless sea, can I really find my way?" Can friends help Xiao En find direction in the vast sea?
+Ian's eyes welled up as he looked at the "Hope". This boat was built by friends working together. A friend handed over a shell wind chime: "Hang it on the boat, and the sea won't trouble you!" Ian solemnly promised: "I'll bring back wonderful stories!"
+As night fell, unease crept in quietly. Ian squatted on the shore, remembering the rumors of fishing boats going missing he'd heard at the market. Looking out at the vast sea, he felt uneasy: "In the boundless sea, can I really find my way?" Can friends help Ian find direction in the vast sea?
 
 ---
 

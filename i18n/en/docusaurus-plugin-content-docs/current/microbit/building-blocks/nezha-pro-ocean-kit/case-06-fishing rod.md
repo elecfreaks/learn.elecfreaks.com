@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-sidebar_label: Case 6: Fishing Rod
+sidebar_label: Case6:Fishing Rod
 ---
 
 # Fishing Rod

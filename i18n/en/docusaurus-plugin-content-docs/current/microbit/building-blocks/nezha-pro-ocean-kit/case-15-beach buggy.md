@@ -1,6 +1,6 @@
 ---
 sidebar_position: 15
-sidebar_label: Case 15: Beach Buggy
+sidebar_label: Case15:Beach Buggy
 ---
 
 # Beach Buggy

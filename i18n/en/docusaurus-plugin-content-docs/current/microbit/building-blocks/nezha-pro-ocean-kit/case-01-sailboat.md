@@ -1,6 +1,8 @@
 ---
-sidebar_position:1
-sidebar_label: Case 1: Sailboat
+
+sidebar_position: 1
+sidebar_label:Case1:Sailboat
+
 ---
 
 # Sailboat

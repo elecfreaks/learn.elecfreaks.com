@@ -1,6 +1,6 @@
 ---
 sidebar_position: 14
-sidebar_label: Case 14: Simulating Marine Debris Cleanup
+sidebar_label: Case14:Simulating Marine Debris Cleanup
 ---
 
 # Simulating Marine Debris Cleanup

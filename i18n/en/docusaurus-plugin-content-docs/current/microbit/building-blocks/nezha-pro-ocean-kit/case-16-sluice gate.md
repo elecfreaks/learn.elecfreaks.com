@@ -7,7 +7,7 @@ sidebar_label: Case16:Sluice Gate
 
 ## Story Introduction
 
-Xiao En and Jack were walking on the street when they heard workers discussing: due to continuous heavy rains causing the river water to rise sharply, it was necessary to open the sluice gate to discharge the river water into the sea; while in normal times when the water level is low, the sluice gate should be closed to not only ensure the city's fresh water supply but also prevent seawater intrusion. Upon hearing this, Xiao En and Jack began to think about how to help the workers design an intelligent sluice gate system.
+Ian and Jack were walking on the street when they heard workers discussing: due to continuous heavy rains causing the river water to rise sharply, it was necessary to open the sluice gate to discharge the river water into the sea; while in normal times when the water level is low, the sluice gate should be closed to not only ensure the city's fresh water supply but also prevent seawater intrusion. Upon hearing this, Ian and Jack began to think about how to help the workers design an intelligent sluice gate system.
 
 (More exciting stories are being updated......)
 

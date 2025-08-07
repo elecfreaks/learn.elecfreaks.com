@@ -34,6 +34,7 @@ Ian was tired after a long day and went to bed early. The next morning, as the s
 ## Construction Steps
 
 **Notes**
+
 During installation, please ensure alignment with the zero position of Motor 1! As shown in the figure below:
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/nezha-pro-ocean-kit-00.png)

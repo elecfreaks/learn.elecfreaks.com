@@ -1,9 +1,10 @@
 ---
-sidebar_position: 1
+sidebar_position:1
 sidebar_label: Case 1: Sailboat
 ---
 
 # Sailboat
+
 ## Story Introduction
 Xiao En harbors a dream of exploring the ocean, eager to witness the wonders of sperm whales, coral reefs, and deep-sea fish. He hopes to head to the vast sea to find his father who went to sea years ago and hasn't returned. At night, Xiao En clutches his father's nautical log, falls asleep to the rhythm of the waves, and in his dream, he sails a small boat, uncovering the mysteries of the deep ocean. Please help Xiao En build a small boat.
 
@@ -11,9 +12,9 @@ Xiao En harbors a dream of exploring the ocean, eager to witness the wonders of 
 
 ## Teaching Preparation
 
-| Name | Illustration |
-| :----------: | :--------------------------: |
-| Nezha Pro Ocean Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/nezha-pro-ocean-kit-products-introduction-002.png.png) |
+|Name|Illustration|
+|:----------: | :--------------------------:|
+|Nezha Pro Ocean Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/nezha-pro-ocean-kit-products-introduction-002.png.png)|
 
 --- 
 ## Teaching Objectives 

@@ -6,7 +6,7 @@ sidebar_label: Case13:Simulating an Offshore Aquaculture Farm
 # Simulating an Offshore Aquaculture Farm
 ## Story Introduction
 
-After solving the island's power crisis, Xiao En began to worry about Jack, who had left in a hurry. After inquiring around, he learned that Jack's offshore aquaculture farm was damaged by a storm, and Jack had rushed back to repair it. Xiao En decided to go to help. What suggestions do you have for repairing the farm? What sensors need to be added to monitor the environment and better promote aquaculture?
+After solving the island's power crisis, Ian began to worry about Jack, who had left in a hurry. After inquiring around, he learned that Jack's offshore aquaculture farm was damaged by a storm, and Jack had rushed back to repair it. Ian decided to go to help. What suggestions do you have for repairing the farm? What sensors need to be added to monitor the environment and better promote aquaculture?
 
 --- 
 

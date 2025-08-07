@@ -41,7 +41,9 @@ sidebar_label: 案例九：螃蟹
 
 ## 硬件连接
 
-1号电机连接哪吒扩展板“M1”端口，超声波传感器连接哪吒拓展板“J4”端口。
+1号电机连接哪吒扩展板“M1”端口；
+
+超声波传感器连接哪吒拓展板“J4”端口。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case09/nezha-pro-ocean-kit-step-09-2.png.png)
 

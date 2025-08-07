@@ -72,7 +72,7 @@ In the pop-up interface, enter **nezha pro** and click the search icon. After th
 ---
 ### Sample Program
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case13/nezha-pro-ocean-kit-13-2.png(1).png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/nezha-pro-ocean-kit-13.png)
 
 Program link
 [https://makecode.microbit.org/_Lu54UhC8PdUC](https://makecode.microbit.org/_Lu54UhC8PdUC)

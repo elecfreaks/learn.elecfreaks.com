@@ -11,10 +11,9 @@ Xiao En harbors a dream of exploring the ocean, eager to witness the wonders of 
 --- 
 
 ## Teaching Preparation
-
 |Name|Illustration|
 |:----------: | :--------------------------:|
-|Nezha Pro Ocean Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/nezha-pro-ocean-kit-products-introduction-002.png.png)|
+|Nezha Pro Ocean Kit|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/nezha-pro-ocean-kit-products-introduction-002.png.png)|
 
 --- 
 ## Teaching Objectives 

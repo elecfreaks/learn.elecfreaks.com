@@ -6,7 +6,7 @@ sidebar_label: Case1:Sailboat
 # Sailboat
 
 ## Story Introduction
-Xiao En harbors a dream of exploring the ocean, eager to witness the wonders of sperm whales, coral reefs, and deep-sea fish. He hopes to head to the vast sea to find his father who went to sea years ago and hasn't returned. At night, Xiao En clutches his father's nautical log, falls asleep to the rhythm of the waves, and in his dream, he sails a small boat, uncovering the mysteries of the deep ocean. Please help Xiao En build a small boat.
+Ian harbors a dream of exploring the ocean, eager to witness the wonders of sperm whales, coral reefs, and deep-sea fish. He hopes to head to the vast sea to find his father who went to sea years ago and hasn't returned. At night, Ian clutches his father's nautical log, falls asleep to the rhythm of the waves, and in his dream, he sails a small boat, uncovering the mysteries of the deep ocean. Please help Ian build a small boat.
 
 --- 
 
@@ -40,7 +40,9 @@ Xiao En harbors a dream of exploring the ocean, eager to witness the wonders of 
 ## Hardware Connection
 
 Motor 1 is connected to the "M4" port of the Nezha expansion board;
+
 Motor 2 is connected to the "M1" port of the Nezha expansion board;
+
 The dual-track line sensor is connected to the "J4" port of the Nezha expansion board.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case01/nezha-pro-ocean-kit-step-01-2.png)

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: Case 2: Compass
+sidebar_label: Case2:Compass
 ---
 
 # Compass

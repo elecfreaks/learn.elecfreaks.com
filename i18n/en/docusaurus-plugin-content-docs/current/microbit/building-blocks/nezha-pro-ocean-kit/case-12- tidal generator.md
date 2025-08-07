@@ -6,9 +6,9 @@ sidebar_label: Case12:Simulating Tidal Power Generation
 # Simulating Tidal Power Generation
 ## Story Introduction
 
-Xiao En and Jack were dancing to the music when a hurried man ran over and whispered something in Jack's ear. Jack immediately turned to Xiao En and said, "You stay here and enjoy yourself. I have something urgent to deal with and need to go back!" Before he finished speaking, he quickly merged into the bustling crowd with that man and disappeared.
+Ian and Jack were dancing to the music when a hurried man ran over and whispered something in Jack's ear. Jack immediately turned to Ian and said, "You stay here and enjoy yourself. I have something urgent to deal with and need to go back!" Before he finished speaking, he quickly merged into the bustling crowd with that man and disappeared.
 
-After Jack left, Xiao En had to wander around the street. As he walked, he heard passers-by talking— it turned out that the small island was in big trouble! The storm a few days ago damaged the power generation equipment, and now there is an urgent shortage of electricity supply. A new device needs to be replaced, but everyone can't think of a solution for the moment.
+After Jack left, Ian had to wander around the street. As he walked, he heard passers-by talking— it turned out that the small island was in big trouble! The storm a few days ago damaged the power generation equipment, and now there is an urgent shortage of electricity supply. A new device needs to be replaced, but everyone can't think of a solution for the moment.
 
 ---
 

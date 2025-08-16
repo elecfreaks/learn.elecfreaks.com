@@ -3,7 +3,7 @@ sidebar_position: 4
 sidebar_label: Case4:Crane
 ---
 
-# Compass
+# Crane
 ## Story Introduction
 The midday sun made the port's reefs scorching hot. Ian rubbed his hands while looking at the mountain of supplies piled up at the port, feeling worried. How could he load these supplies from the port onto the "Hope"? Especially that box of navigation instruments left by his father, which weighed over 150 catties. What methods can friends help Ian with loading the supplies?
 
@@ -69,10 +69,10 @@ In the pop-up interface, enter **nezha pro** and click the search icon. After th
 ---
 ### Sample Program
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case04/nezha-pro-ocean-kit-step-04-2.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/nezha-pro-ocean-kit-04.png)
 
 Program link
-[https://makecode.microbit.org/_XYu4st3UF7X2](https://makecode.microbit.org/_XYu4st3UF7X2)
+[https://makecode.microbit.org/_AquKFJ527Rop](https://makecode.microbit.org/_AquKFJ527Rop)
 
 You can also download the program directly through the following webpage.
 
@@ -84,7 +84,7 @@ You can also download the program directly through the following webpage.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_XYu4st3UF7X2"
+        src="https://makecode.microbit.org/_AquKFJ527Rop"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

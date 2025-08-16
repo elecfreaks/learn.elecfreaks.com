@@ -33,6 +33,12 @@ Ian was tired after a long day and went to bed early. The next morning, as the s
 ---
 ## Construction Steps
 
+**Notes**
+
+During installation, please ensure alignment with the zero position of Motor 1! As shown in the figure below:
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/nezha-pro-ocean-kit-00.png)
+
 <embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case15/nezha-pro-ocean-kit-15-1.png.pdf" type="application/pdf" width="100%" height="600px" />
 
 ---
@@ -68,10 +74,10 @@ In the pop-up interface, enter **nezha pro** and click the search icon. After th
 ---
 ### Sample Program
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case15/nezha-pro-ocean-kit-15-2.png(1).png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/nezha-pro-ocean-kit-15.png)
 
 Program link
-[https://makecode.microbit.org/_HYmi2gKFeh6j](https://makecode.microbit.org/_HYmi2gKFeh6j)
+[https://makecode.microbit.org/_bPWMAKVFkggR](https://makecode.microbit.org/_bPWMAKVFkggR)
 
 You can also download the program directly through the following webpage.
 
@@ -83,7 +89,7 @@ You can also download the program directly through the following webpage.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_HYmi2gKFeh6j"
+        src="https://makecode.microbit.org/_bPWMAKVFkggR"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

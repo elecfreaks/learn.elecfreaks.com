@@ -67,13 +67,11 @@ For more information about the Bluetooth antenna features of the micro:bit V2, c
 
 Let's familiarize ourselves with the basic use of this feature with a simple Bluetooth communication example.
 
-*** Transmitter ***![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/football-game-case-01-01.png)
+*** Transmitter ***
 
 Example link：[https://makecode.microbit.org/_5Uk2whHFuV6e](https://makecode.microbit.org/_5Uk2whHFuV6e)
 
 ***Receiving End ***
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/football-game-case-01-02.png)
 
 Example link：[https://makecode.microbit.org/_5Uk2whHFuV6e](https://makecode.microbit.org/_5Uk2whHFuV6e)
 

@@ -5,11 +5,9 @@ sidebar_label: 哪吒Pro AI机械动力套装
 
 # 哪吒Pro AI机械动力套装
 
-首图
-
 ## 产品简介
 
-micro:bit 哪吒 Pro AI 机械动力套装专为 8-14 岁青少年设计，以哪吒 Pro 扩展板为核心，搭配语音识别模块、手势识别传感器等多个传感器及 500 + 积木，支持通过语音指令或手势动作操控机械装置（如机器人、机械臂等）。融合机械搭建与 AI 交互，16 个案例引导从基础传动到 AI 编程，培养空间思维与智能控制能力，开启科创启蒙。
+micro:bit 哪吒 Pro AI 机械动力套装专为 7-14 岁青少年设计，以哪吒 Pro 扩展板为核心，搭配语音识别模块、手势识别传感器等多个传感器及 500 + 积木，支持通过语音指令或手势动作操控机械装置（如机器人、机械臂等）。融合机械搭建与 AI 交互，16 个案例引导从基础传动到 AI 编程，培养空间思维与智能控制能力，开启科创启蒙。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-01.png)
 
@@ -108,14 +106,14 @@ micro:bit 哪吒 Pro AI 机械动力套装专为 8-14 岁青少年设计，以�
 
 | 图示 | 名称 | 简介 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |------------------------------------------------------------ |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-planetx-01.png) | 语音识别模块 |  |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-planetx-02.png) | 手势识别传感器 |  |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-planetx-03.png) | 行星系列碰撞传感器 | 行星系列碰撞传感器，碰撞传感器是一种基于碰撞元件的传感器模块，可用于碰撞检测。 |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-planetx-04.png) | 超声波传感器 | 超声波传感器用于短距离测量。                                 |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-planetx-05.png) | 行星系列八颗灯环 | 行星系列八颗灯环，彩虹灯环可以显示RGB颜色。 |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-planetx-06.png) | 双路巡线传感器 |  |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-planetx-07.png) | OLED显示屏 |   |
-| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-planetx-08.png) | 风扇模块 |   |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-planetx-01.png) | 语音识别模块 | 可识别21个预设语音指令，10个自定义语音指令，可实现语音智能控制，如语音控制智能车前进、后退、启动巡线模式等。 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-planetx-02.png) | 手势识别传感器 | 手势识别传感器可以识别9个手势，包括向上移动、向下移动、向左移动、向右移动等。 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-planetx-03.png) | 行星系列碰撞传感器 | 行星系列碰撞传感器，碰撞传感器是一种基于碰撞元件的传感器模块，可用于碰撞检测。 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-planetx-04.png) | 超声波传感器 | 超声波传感器用于短距离测量。                                 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-planetx-05.png) | 行星系列八颗灯环 | 行星系列八颗灯环，彩虹灯环可以显示RGB颜色。 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-planetx-06.png) | 双路巡线传感器 | 两路巡线模块集成了两组反射式红外对管，可通过它来制作小车智能巡线项目。 |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-planetx-07.png) | OLED显示屏 | OLED显示屏，用于在屏幕上打印想要显示的数据信息（不支持显示中文） |
+| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-planetx-08.png) | 风扇模块 | 一种简单的风扇电机驱动模块 |
 
 ## 目录
 

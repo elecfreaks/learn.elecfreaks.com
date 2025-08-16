@@ -405,7 +405,7 @@ The micro:bit displays the current hardware version number after powering on.
 
 ### Step 1
 
-Download the package and unzip it:[EF_Produce_MicroPython-master](https://github.com/lionyhw/EF_Produce_MicroPython/archive/master.zip)
+Download the package and unzip it:[EF_Produce_MicroPython-master](https://github.com/elecfreaks/EF_Produce_MicroPython/archive/refs/heads/master.zip)
 
 Open [Python editor](https://python.microbit.org/)
 

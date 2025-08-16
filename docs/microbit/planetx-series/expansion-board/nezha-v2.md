@@ -458,7 +458,7 @@ Type-C 充电接口，最大支持5V3A，充电时长50min。
 
 ### 步骤 1
 
-下载压缩包并解压[EF_Produce_MicroPython-master](https://github.com/lionyhw/EF_Produce_MicroPython/archive/master.zip)
+下载压缩包并解压[EF_Produce_MicroPython-master](https://github.com/elecfreaks/EF_Produce_MicroPython/archive/refs/heads/master.zip)
 
 打开[Python editor](https://python.microbit.org/)
 

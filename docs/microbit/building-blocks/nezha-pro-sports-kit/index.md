@@ -5,7 +5,7 @@ sidebar_label: 哪吒Pro运动套装
 
 # 哪吒Pro运动套装
 
-首图
+
 
 ## 产品简介
 

@@ -64,13 +64,9 @@ sidebar_label: 遥控小车
 
 *** 发送端 ***
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/football-game-case-01-01.png)
-
 例程链接：[https://makecode.microbit.org/_5Uk2whHFuV6e](https://makecode.microbit.org/_5Uk2whHFuV6e)
 
 *** 接收端 ***
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/football-game-case-01-02.png)
 
 例程链接：[https://makecode.microbit.org/_5Uk2whHFuV6e](https://makecode.microbit.org/_5Uk2whHFuV6e)
 

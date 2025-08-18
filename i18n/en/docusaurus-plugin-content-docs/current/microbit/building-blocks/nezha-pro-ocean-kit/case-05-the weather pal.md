@@ -28,7 +28,7 @@ As the ship sailed away from the port, the outline of the coastline gradually be
 ---
 ## Learning and Exploration
 
-1. Discuss with friends where temperature and humidity sensors are used in daily life and why people need to know temperature and humidity?
+Discuss with friends where temperature and humidity sensors are used in daily life and why people need to know temperature and humidity?
 
 ## Construction Steps
 

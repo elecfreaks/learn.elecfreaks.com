@@ -125,7 +125,6 @@ Click **Download Program**
 
 The closer the object detected by the ultrasonic sensor, the greater the swimming amplitude of the fish. When the ultrasonic sensor detects a distance of 0, the fish stops swimming.
 
-**Picture**
 
 ---
 ## Extended Knowledge

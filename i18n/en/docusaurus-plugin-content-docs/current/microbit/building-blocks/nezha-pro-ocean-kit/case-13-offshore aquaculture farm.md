@@ -134,7 +134,6 @@ Click **Download Program**
 
 The DHT11 temperature and humidity sensor acquires the current environmental temperature and humidity data, which are displayed on the OLED display. When the light sensor detects that the current ambient light brightness is less than 100, the rainbow light ring lights up; otherwise, it turns off.
 
-**Picture**
 
 ---
 ## Extended Knowledge

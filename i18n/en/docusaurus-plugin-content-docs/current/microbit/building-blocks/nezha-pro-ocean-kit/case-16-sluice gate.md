@@ -30,7 +30,7 @@ Ian and Jack were walking on the street when they heard workers discussing: due 
 
 ## Learning and Exploration
 
-1. According to the task requirements, discuss in groups how to design an intelligent sluice gate and what functions it should have. Draw a simple prototype based on the discussion results and share it with other groups.
+According to the task requirements, discuss in groups how to design an intelligent sluice gate and what functions it should have. Draw a simple prototype based on the discussion results and share it with other groups.
 
 ---
 
@@ -140,8 +140,6 @@ Click **Download Program**
 
 When the water level sensor detects that the seawater level is ＜50, the sluice gate opens; when the water level sensor detects that the seawater level is ＞50, the sluice gate closes to prevent seawater intrusion.
 
-
-**Pictures**
 
 ---
 ## Extended Knowledge

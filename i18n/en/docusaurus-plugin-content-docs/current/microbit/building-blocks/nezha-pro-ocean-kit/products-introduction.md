@@ -40,7 +40,7 @@ The Nezha Pro Ocean Kit uses electronic components + building blocks as the carr
 
 3. Rich building block accessories, suitable for building various cases.
 
-4. Provides 16 cases, with Xiao En's ocean adventure as the main line, closely focusing on marine knowledge, allowing children to learn in an immersive way.
+4. Provides 16 cases, with Ian's ocean adventure as the main line, closely focusing on marine knowledge, allowing children to learn in an immersive way.
 
 5. The project-based learning approach gives students more learning space and imagination space.
 

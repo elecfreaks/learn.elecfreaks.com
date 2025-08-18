@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-sidebar_label: Case 3: Simple Mechanical Dog
+sidebar_label: Case 3:Simple Mechanical Dog
 ---
 
 # Case 3: Simple Mechanical Dog

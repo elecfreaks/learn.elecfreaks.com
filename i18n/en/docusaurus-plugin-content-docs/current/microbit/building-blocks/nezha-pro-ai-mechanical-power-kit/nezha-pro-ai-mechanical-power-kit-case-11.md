@@ -1,6 +1,6 @@
 ---
 sidebar_position: 12
-sidebar_label: Case 11: Gesture-Controlled Excavator
+sidebar_label: Case 11:Gesture-Controlled Excavator
 ---
 
 # Case 11: Gesture-Controlled Excavator

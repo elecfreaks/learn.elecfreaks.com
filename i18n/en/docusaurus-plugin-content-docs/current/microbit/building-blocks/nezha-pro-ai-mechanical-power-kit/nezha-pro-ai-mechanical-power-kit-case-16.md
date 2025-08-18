@@ -1,6 +1,6 @@
 ---
 sidebar_position: 17
-sidebar_label: Case 16: Voice-Controlled Beetle Robot
+sidebar_label: Case 16:Voice-Controlled Beetle Robot
 ---
 
 # Case 16: Voice-Controlled Beetle Robot

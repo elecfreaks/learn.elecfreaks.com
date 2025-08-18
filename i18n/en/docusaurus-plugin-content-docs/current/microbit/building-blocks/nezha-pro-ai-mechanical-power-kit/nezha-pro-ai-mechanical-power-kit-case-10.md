@@ -1,6 +1,6 @@
 ---
 sidebar_position: 11
-sidebar_label: Case 10: Gesture-Controlled Robotic Arm
+sidebar_label: Case 10:Gesture-Controlled Robotic Arm
 ---
 
 # Case 10: Gesture-Controlled Robotic Arm

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 15
-sidebar_label: Case 14: Voice-Controlled Light
+sidebar_label: Case 14:Voice-Controlled Light
 ---
 
 # Case 14: Voice-Controlled Light

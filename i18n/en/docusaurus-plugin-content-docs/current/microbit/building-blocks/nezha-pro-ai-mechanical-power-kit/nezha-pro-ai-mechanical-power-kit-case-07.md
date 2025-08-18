@@ -1,6 +1,6 @@
 ---
 sidebar_position: 8
-sidebar_label: Case 7: Gesture-Controlled Racing Car
+sidebar_label: Case 7:Gesture-Controlled Racing Car
 ---
 
 # Case 7: Gesture-Controlled Racing Car

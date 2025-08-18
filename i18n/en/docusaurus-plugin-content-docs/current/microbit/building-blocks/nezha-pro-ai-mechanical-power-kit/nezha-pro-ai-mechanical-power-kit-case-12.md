@@ -1,6 +1,6 @@
 ---
 sidebar_position: 13
-sidebar_label: Case 12: Voice-Controlled Fan
+sidebar_label: Case 12:Voice-Controlled Fan
 ---
 
 # Case 12: Voice-Controlled Fan

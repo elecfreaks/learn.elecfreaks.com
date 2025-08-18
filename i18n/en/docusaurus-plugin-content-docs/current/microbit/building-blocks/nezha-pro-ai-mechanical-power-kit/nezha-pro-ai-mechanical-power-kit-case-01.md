@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: Case 1: Simple Quadruped Robot
+sidebar_label: Case 1:Simple Quadruped Robot
 ---
 
 # Case 1: Simple Quadruped Robot

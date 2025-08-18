@@ -1,6 +1,6 @@
 ---
 sidebar_position: 7
-sidebar_label: Case 6: Wood-Sawing Robot
+sidebar_label: Case 6:Wood-Sawing Robot
 ---
 
 # Case 6: Wood-Sawing Robot

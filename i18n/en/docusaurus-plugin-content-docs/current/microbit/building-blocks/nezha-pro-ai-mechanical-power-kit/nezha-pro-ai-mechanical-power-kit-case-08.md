@@ -1,6 +1,6 @@
 ---
 sidebar_position: 9
-sidebar_label: Case 8: Gesture-Controlled Desk Lamp
+sidebar_label: Case 8:Gesture-Controlled Desk Lamp
 ---
 
 # Case 8: Gesture-Controlled Desk Lamp

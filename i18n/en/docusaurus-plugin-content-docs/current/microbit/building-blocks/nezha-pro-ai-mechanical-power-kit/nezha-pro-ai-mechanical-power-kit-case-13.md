@@ -1,6 +1,6 @@
 ---
 sidebar_position: 14
-sidebar_label: Case 13: Voice-Controlled Forklift
+sidebar_label: Case 13:Voice-Controlled Forklift
 ---
 
 # Case 13: Voice-Controlled Forklift

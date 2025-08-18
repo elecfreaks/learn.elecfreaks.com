@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Case 2: Bipedal Walking Robot
+sidebar_label: Case 2:Bipedal Walking Robot
 ---
 
 # Case 2: Bipedal Walking Robot

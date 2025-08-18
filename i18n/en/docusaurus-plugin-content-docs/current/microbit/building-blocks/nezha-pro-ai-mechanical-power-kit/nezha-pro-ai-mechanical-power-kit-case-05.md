@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-sidebar_label: Case 5: Helicopter
+sidebar_label: Case 5:Helicopter
 ---
 
 # Case 5: Helicopter

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 10
-sidebar_label: Case 9: Gesture-Controlled Bulldozer
+sidebar_label: Case 9:Gesture-Controlled Bulldozer
 ---
 
 # Case 9: Gesture-Controlled Bulldozer

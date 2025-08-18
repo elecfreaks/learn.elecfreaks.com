@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-sidebar_label: Case 4: Vibration Robot
+sidebar_label: Case 4:Vibration Robot
 ---
 
 # Case 4: Vibration Robot

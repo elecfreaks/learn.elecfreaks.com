@@ -1,6 +1,6 @@
 ---
 sidebar_position: 16
-sidebar_label: Case 15: Voice-Controlled Transport Vehicle
+sidebar_label: Case 15:Voice-Controlled Transport Vehicle
 ---
 
 # Case 15: Voice-Controlled Transport Vehicle

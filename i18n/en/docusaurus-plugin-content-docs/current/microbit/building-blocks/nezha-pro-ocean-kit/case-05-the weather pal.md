@@ -126,7 +126,7 @@ Click **Download Program**
 ## Case Demonstration
 The OLED displays the current temperature and humidity. When the temperature is higher than 30°C, the micro:bit shows a "crying face"; otherwise, it shows a "smiling face".
 
-**Picture**
+
 
 ---
 ## Extended Knowledge

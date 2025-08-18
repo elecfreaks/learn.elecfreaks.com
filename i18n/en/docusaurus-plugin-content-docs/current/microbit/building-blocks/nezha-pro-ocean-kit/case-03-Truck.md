@@ -137,7 +137,7 @@ Click **Download Program**
 
 Press Collision Sensor 1, and the car moves forward; press Collision Sensor 2, and the car moves backward. The speed of the car is controlled by the potentiometer sensor.
 
-**Picture**
+
 
 ---
 ### Extended Knowledge

@@ -26,7 +26,7 @@ Ian has been sailing at sea for two weeks. Late at night, he flipped through his
 --- 
 ## Learning and Exploration
 
-1. Do you know lighthouses? Do you know their functions?
+Do you know lighthouses? Do you know their functions?
 
 --- 
 ## Construction Steps

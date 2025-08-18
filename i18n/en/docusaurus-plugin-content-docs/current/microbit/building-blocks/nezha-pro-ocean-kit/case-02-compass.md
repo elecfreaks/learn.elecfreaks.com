@@ -125,7 +125,7 @@ Click **Download Program**
 
 2. Using the micro:bit compass function.
 
-**Pictures**
+
 
 ---
 ## Extended Knowledge

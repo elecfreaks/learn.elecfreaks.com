@@ -131,7 +131,7 @@ Click **Download Program**
 
 Blow or push the sail control lever by hand until the dual-track line sensor cannot detect the lever, the boat moves forward; when the sail control lever returns to its original position, the boat stops moving.
 
-**Picture**
+
 
 ---
 ## Extended Knowledge

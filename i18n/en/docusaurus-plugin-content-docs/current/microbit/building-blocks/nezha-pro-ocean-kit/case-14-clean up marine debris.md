@@ -141,7 +141,7 @@ If the left collision sensor is pressed, the garbage cleaning device turns right
 If the right collision sensor is pressed, the garbage cleaning device turns left;
 Otherwise, it turns right.
 
-**Picture**
+
 
 ---
 ## Extended Knowledge

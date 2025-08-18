@@ -7,9 +7,9 @@ sidebar_label: 案例十六:语音识别甲虫
 
 ## 案例简介
 
-制作一辆语音识别运载车，通过语音控制车的行驶方向及车斗抬升、放下。
+制作一辆语音识别甲虫，通过语音控制甲虫的功能。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-case-15-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-case-16-01.png)
 
 ## 教学准备
 

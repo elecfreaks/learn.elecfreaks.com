@@ -22,7 +22,7 @@ Click the language switch button in the upper right corner.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/smartiot-02.png)
 
-Select the language you want to use. 
+Select the language you want to use.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/smartiot-03.png)
 
@@ -109,7 +109,7 @@ Click "Create" in the pop up window.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-add-extension-02.png)
 
-Click "Extensions" in the Makecode drawer. 
+Click "Extensions" in the Makecode drawer.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/about-the-microbit-smart-climate-kit/images/smart-weather-station-kit-add-extension-03.png)
 
@@ -187,7 +187,7 @@ When the device is turned on, it automatically connects to Wi-Fi and SmartIoT, a
 
 ## Device Page Component Management
 
-点击左上角Click "Add Component" on the left upper corner.
+Click "Add Component" on the left upper corner.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/smartiot-42.png)
 

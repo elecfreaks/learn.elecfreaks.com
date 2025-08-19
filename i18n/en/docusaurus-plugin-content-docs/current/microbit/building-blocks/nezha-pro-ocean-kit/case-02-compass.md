@@ -27,7 +27,7 @@ As night fell, unease crept in quietly. Ian squatted on the shore, remembering t
 ---
 ## Learning and Exploration
 
-1. Discuss with your friends why a compass always points in one direction.
+Discuss with your friends why a compass always points in one direction.
 
 
 ## Construction Steps
@@ -125,7 +125,7 @@ Click **Download Program**
 
 2. Using the micro:bit compass function.
 
-**Pictures**
+
 
 ---
 ## Extended Knowledge

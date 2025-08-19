@@ -137,7 +137,6 @@ Long press button A on the micro:bit to control the tidal generator to move down
 
 Long press button B on the micro:bit to control the tidal generator to move upward. When the dual-track line sensor no longer detects the tidal generator, the tidal generator stops rotating and the rainbow LED ring turns off.
 
-**Picture**
 
 ---
 ## Extended Knowledge

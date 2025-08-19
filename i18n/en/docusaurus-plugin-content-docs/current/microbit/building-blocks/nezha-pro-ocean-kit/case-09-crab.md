@@ -126,7 +126,7 @@ Click **Download Program**
 
 When the ultrasonic sensor detects an object at a distance > 2cm and < 10cm, the crab moves randomly left or right.
 
-**Picture**
+
 
 ---
 ## Extended Knowledge

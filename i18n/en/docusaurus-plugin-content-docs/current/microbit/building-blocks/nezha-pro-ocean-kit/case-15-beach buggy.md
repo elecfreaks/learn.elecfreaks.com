@@ -137,7 +137,6 @@ Click **Download Program**
 When the ultrasonic sensor detects a distance < 20CM, the beach buggy randomly retreats to the left or right; if the ultrasonic sensor detects a distance > 20CM, the beach buggy moves forward.
 
 
-**Pictures**
 
 ---
 ## Extended Knowledge

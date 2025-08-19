@@ -27,7 +27,7 @@ It is the seventh day after setting sail. Ian is navigating the Hope across the 
 ---
 ## Learning and Exploration
 
-1. By consulting relevant materials, explore the characteristics of the ratchet and understand its applications in daily life.
+ By consulting relevant materials, explore the characteristics of the ratchet and understand its applications in daily life.
 
 ## Construction Steps
 
@@ -36,8 +36,7 @@ It is the seventh day after setting sail. Ian is navigating the Hope across the 
 ---
 ## Case Demonstration
 
-
-**Pictures**
+The reel seat of the fishing rod features a ratchet mechanism. When letting out the line, the ratchet is released; when reeling in the line, it makes a clicking sound.
 
 ---
 ## Extended Knowledge

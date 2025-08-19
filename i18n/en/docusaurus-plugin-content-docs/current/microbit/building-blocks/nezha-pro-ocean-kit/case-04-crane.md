@@ -24,7 +24,7 @@ The midday sun made the port's reefs scorching hot. Ian rubbed his hands while l
 ---
 ## Learning and Exploration
 
-1. Discuss in groups how to help Xiao En transfer the supplies to the ship. Try to display the plan through drawings and share it with other friends.
+Discuss in groups how to help Ian transfer the supplies to the ship. Try to display the plan through drawings and share it with other friends.
 
 
 ## Assembly Steps

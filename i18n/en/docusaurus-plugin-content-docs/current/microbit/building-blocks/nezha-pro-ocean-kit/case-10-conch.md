@@ -131,7 +131,6 @@ Click **Download Program**
 When the ultrasonic sensor detects a distance greater than 5cm, the conch stops moving; when it detects a distance less than 5cm, the conch moves forward.
 
 
-**Pictures**
 
 ---
 ## Extended Knowledge

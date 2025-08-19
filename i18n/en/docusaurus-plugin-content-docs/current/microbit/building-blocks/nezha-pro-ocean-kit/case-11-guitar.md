@@ -131,8 +131,6 @@ When button A is pressed:
 - If the distance is in 20~21, it plays Middle B.
 
 
-**Picture**
-
 ---
 ## Extended Knowledge
 

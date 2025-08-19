@@ -115,6 +115,9 @@ SmartIot 平台支持最多八条数据上传。
 
 在弹出界面输入“Petal”，按下回车键进行搜索，并选择加载Petal软件库。
 
+*** 如果你现有设备为iot:bit，则添加` iot-environment-kit `软件库 ***
+*** 如果你现有设备为行星系列wifi模块，则添加` PlanetX `软件库 ***
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/smartiot-16.png)
 
 

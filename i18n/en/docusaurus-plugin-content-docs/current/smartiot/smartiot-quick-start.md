@@ -115,6 +115,9 @@ Click "Extensions" in the Makecode drawer.
 
 Search with "Petal" and add Petal extensions.
 
+*** If your device is an iot:bit, add the `iot-environment-kit` repository. ***
+*** If your device is a Planet series Wi-Fi module, add the `PlanetX` repository. ***
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/smartiot-16.png)
 
 

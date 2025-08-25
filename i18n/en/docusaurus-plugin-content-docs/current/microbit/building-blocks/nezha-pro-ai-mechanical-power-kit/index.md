@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Nezha Pro AI Mechanical Power Kit
+sidebar_label: Nezha Pro AI Mechanical Power Kit(EF08437)
 ---
 
 # Nezha Pro AI Mechanical Power Kit

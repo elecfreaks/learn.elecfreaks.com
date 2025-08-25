@@ -108,7 +108,7 @@ On start
 
 
 ### Link
-Link: [https : //makecode.microbit.org/_AF1g8HYYeTjH](https://makecode.microbit.org/_AF1g8HYYeTjH)
+Link: [https://makecode.microbit.org/_AF1g8HYYeTjH](https://makecode.microbit.org/_AF1g8HYYeTjH)
 
 You may download it directly here:
 

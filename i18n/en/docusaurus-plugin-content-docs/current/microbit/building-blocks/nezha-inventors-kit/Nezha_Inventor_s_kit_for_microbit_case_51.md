@@ -99,7 +99,7 @@ For programming the PIR sensor, we need to add a package. Search with “PlanetX
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/51_19.png)
 
-Link: https://makecode.microbit.org/_h9DHW1dEa6rT
+Link: https://makecode.microbit.org/_Wrbb4i3iTCrM
 
 You may also download it directly:
 
@@ -111,7 +111,7 @@ You may also download it directly:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_h9DHW1dEa6rT"
+        src="https://makecode.microbit.org/_Wrbb4i3iTCrM"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

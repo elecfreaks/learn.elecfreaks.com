@@ -158,7 +158,7 @@ For programming [Nezha Breakout Board](https://shop.elecfreaks.com/products/elec
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-41-07.png)
 
 ### Reference
-Link: [https://makecode.microbit.org/_J8J3EcJP3Xdz](https://makecode.microbit.org/_J8J3EcJP3Xdz)
+Link: [https://makecode.microbit.org/_iKcXC5iiuY7E](https://makecode.microbit.org/_iKcXC5iiuY7E)
 
 You may also download it directly:
 
@@ -170,7 +170,7 @@ You may also download it directly:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_J8J3EcJP3Xdz"
+        src="https://makecode.microbit.org/_iKcXC5iiuY7E"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

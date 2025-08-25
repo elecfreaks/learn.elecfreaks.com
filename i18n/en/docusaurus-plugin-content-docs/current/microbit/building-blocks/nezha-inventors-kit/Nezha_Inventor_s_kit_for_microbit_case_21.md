@@ -94,7 +94,7 @@ We need to add a package for programming. Click “Extensions” in the bottom o
 
 
 ### Link
-Link：[https://makecode.microbit.org/_hWzUHCY0yioM](https://makecode.microbit.org/_hWzUHCY0yioM)
+Link：[https://makecode.microbit.org/_fLtdmb8EmHxR](https://makecode.microbit.org/_fLtdmb8EmHxR)
 
 You may also downoad it directly below:
 
@@ -107,7 +107,7 @@ You may also downoad it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_hWzUHCY0yioM"
+        src="https://makecode.microbit.org/_fLtdmb8EmHxR"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

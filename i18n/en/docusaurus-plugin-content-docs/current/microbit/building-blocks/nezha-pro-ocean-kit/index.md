@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Nezha Pro Ocean Kit
+sidebar_label: Nezha Pro Ocean Kit(EF08436)
 ---
 
 # Nezha Pro Ocean Kit

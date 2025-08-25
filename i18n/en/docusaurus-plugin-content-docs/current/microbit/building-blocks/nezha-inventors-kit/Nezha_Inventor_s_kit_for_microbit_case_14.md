@@ -57,7 +57,7 @@ While the variable j is true, set k=k+1 after button A being pressed and display
 
 ### Link
 
-link: [https://makecode.microbit.org/_DK41ckRkTb4o](https://makecode.microbit.org/_DK41ckRkTb4o)
+link: [https://makecode.microbit.org/_8R3CtLKhqgv3](https://makecode.microbit.org/_8R3CtLKhqgv3)
 
 You may also download it directly below:
 
@@ -69,7 +69,7 @@ You may also download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_DK41ckRkTb4o"
+        src="https://makecode.microbit.org/_8R3CtLKhqgv3"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

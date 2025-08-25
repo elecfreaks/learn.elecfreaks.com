@@ -95,7 +95,7 @@ For programming [Nezha Breakout Board](https://shop.elecfreaks.com/products/elec
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-43-07.png)
 
 ### Reference
-Link: [https://makecode.microbit.org/_HEDitaH5CLRF](https://makecode.microbit.org/_HEDitaH5CLRF)
+Link: [https://makecode.microbit.org/_J52f8j7fwU8L](https://makecode.microbit.org/_J52f8j7fwU8L)
 
 You may also download it directly:
 
@@ -107,7 +107,7 @@ You may also download it directly:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_HEDitaH5CLRF"
+        src="https://makecode.microbit.org/_J52f8j7fwU8L"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -107,7 +107,7 @@ For programming [Ultrasonic sensor](https://shop.elecfreaks.com/products/elecfre
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit/images/neza-inventor-s-kit-case-46-07.png)
 
 ### Reference
-Link: [https://makecode.microbit.org/_YzwYdqDiifXh](https://makecode.microbit.org/_YzwYdqDiifXh)
+Link: [https://makecode.microbit.org/_JK0epeHjvHKw](https://makecode.microbit.org/_JK0epeHjvHKw)
 
 You may also download it directly:
 
@@ -119,7 +119,7 @@ You may also download it directly:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_YzwYdqDiifXh"
+        src="https://makecode.microbit.org/_JK0epeHjvHKw"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

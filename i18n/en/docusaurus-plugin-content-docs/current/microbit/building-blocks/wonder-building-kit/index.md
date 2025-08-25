@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-sidebar_label: Wonder Building Kit
+sidebar_label: Wonder Building Kit(EF08239)
 ---
 
 # Wonder Building Kit

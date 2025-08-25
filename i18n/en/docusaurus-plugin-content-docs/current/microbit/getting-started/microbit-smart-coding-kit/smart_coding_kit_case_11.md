@@ -1,4 +1,4 @@
-# Case 1: Simple AI Exercise Timer
+# Case 11: Simple AI Exercise Timer
 
 ## Introduction
 

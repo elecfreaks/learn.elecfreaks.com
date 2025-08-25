@@ -1,4 +1,4 @@
-#  Case 2: AI Activity Timer
+#  Case 12: AI Activity Timer
 
 ## Introduction
 

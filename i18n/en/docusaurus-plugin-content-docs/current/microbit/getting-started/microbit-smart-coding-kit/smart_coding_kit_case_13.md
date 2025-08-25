@@ -6,7 +6,7 @@ By collecting and training custom gesture data, the micro:bit can automatically 
 
 ## Purpose of the Case
 
-1. Learn the data collection method for Create AI custom gestures.
+Learn the data collection method for Create AI custom gestures.
 
 ## Required Materials
 

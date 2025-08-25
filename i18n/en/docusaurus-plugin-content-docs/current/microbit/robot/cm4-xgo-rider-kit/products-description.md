@@ -97,13 +97,13 @@ CM4 XGO-Rider is a desktop-level dual-wheeled foot development platform based on
 
 
 
-## Product Structure
+<!-- ## Product Structure
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-products-sescription-04.png)
 
 ## System Architecture
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-products-sescription-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-rider-kit/images/cm4-xgo-rider-kit-products-sescription-05.png) -->
 
 ## Quick Start
 

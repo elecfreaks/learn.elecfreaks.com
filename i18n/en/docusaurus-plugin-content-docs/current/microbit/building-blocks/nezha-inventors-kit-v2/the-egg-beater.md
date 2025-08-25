@@ -1,4 +1,4 @@
-﻿ ---
+﻿---
 sidebar_position: 18
 ---
 
@@ -105,7 +105,7 @@ Build an egg beater from blocks according to your own design.
 
 ##### Hardware Connections
 
-Connect the crash sensor to J1 and the motor to M1 on Nezha expansion board. 
+Connect the crash sensor to J1 and the motor to M1 on Nezha expansion board.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-16-02.png)
 
@@ -122,7 +122,7 @@ Click extensions
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-04.png)
 
 
-Search with `PlanetX` to download the package. 
+Search with `PlanetX` to download the package.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-05.png)
 
@@ -137,7 +137,7 @@ Code
 
 Link: [https://makecode.microbit.org/_4pvKroATsiao](https://makecode.microbit.org/_4pvKroATsiao)
 
-You may download it directly below: 
+You may download it directly below:
 
 <div
     style={{
@@ -165,7 +165,7 @@ You may download it directly below:
 
 #### Result
 
-Start the device by pressing the crash sensor and release it to stop. 
+Start the device by pressing the crash sensor and release it to stop.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-17.gif)
 

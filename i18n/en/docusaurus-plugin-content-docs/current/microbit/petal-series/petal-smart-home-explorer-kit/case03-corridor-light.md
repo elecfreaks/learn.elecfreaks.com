@@ -148,22 +148,22 @@ After powering on, the corridor light automatically turns the LED light on or of
 
 **Application Scenario Extensions of Corridor Lights**
 
-### 一、Residential Corridors
+### 1. Residential Corridors
 
 - **Basic function**: Automatically turns on at night when light is dim and there is sound (e.g., footsteps), and turns off when quiet/dawn.
 - **Optimization**: Add a 10-30 second delay to turn off the light to avoid frequent triggering.
 
-### 二、Hospitals/Nursing Homes
+### 2. Hospitals/Nursing Homes
 
 - **Core needs**: Mute mode (replace noise detection with human infrared) to avoid disturbing patients.
 - **Upgrade**: Corridor lights flash to guide the direction in case of emergency calls.
 
-### 三、Industrial Factories
+### 3. Industrial Factories
 
 - **Special needs**: Dust and vibration resistance, warning for dangerous areas.
 - **Solution**: Replace light sensors with infrared tubes, and turn on red warning lights when equipment is running.
 
-### 四、Campuses/Office Buildings
+### 4. Campuses/Office Buildings
 
 - **High-frequency scenarios**: Large human flow, requiring dynamic brightness adjustment.
 - **Optimization**: The louder the noise, the brighter the light; switch to green evacuation guidance light during fires.

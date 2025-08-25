@@ -45,7 +45,7 @@ In order to program the Nezha expansion board, we need to add an extension libra
 
 ### Write the program as shown
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/ef09081-5.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/servo-and-motor/images/ef09081-5.png)
 
 ### Reference Program
 
@@ -71,6 +71,7 @@ You can also download the program directly from the following website.
         }}
     />
 </div>
+
 ### Result
 
 When button A is pressed, the servo rotates at full speed, and when button B is pressed, the servo stops rotating.

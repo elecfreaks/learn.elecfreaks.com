@@ -61,7 +61,7 @@ If the sound level is below 100, program to light on in green; if the sound leve
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-12-08.png)
 
 
-Link: [https://makecode.microbit.org/_MbT02YXJbHoo](https://makecode.microbit.org/_MbT02YXJbHoo)
+Link: [https://makecode.microbit.org/_EiPAcXJhqPo5](https://makecode.microbit.org/_EiPAcXJhqPo5)
 
 <div
     style={{
@@ -71,7 +71,7 @@ Link: [https://makecode.microbit.org/_MbT02YXJbHoo](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_MbT02YXJbHoo"
+        src="https://makecode.microbit.org/_EiPAcXJhqPo5"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

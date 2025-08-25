@@ -56,7 +56,7 @@ Drag the forever block from the drawer, set  the servo connecting to P2 to drive
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-06-08.png)
 
-Link: [https://makecode.microbit.org/_ae72379ieU5W](https://makecode.microbit.org/_ae72379ieU5W)
+Link: [https://makecode.microbit.org/_fjgKyFH61frd](https://makecode.microbit.org/_fjgKyFH61frd)
 
 <div
     style={{
@@ -66,7 +66,7 @@ Link: [https://makecode.microbit.org/_ae72379ieU5W](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_ae72379ieU5W"
+        src="https://makecode.microbit.org/_fjgKyFH61frd"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -54,7 +54,7 @@ Judge if the variable is over 5, if yes, set the servo connecting to P2 to drive
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-02-08.png)
 
-Link: [https://makecode.microbit.org/_exdb9fFJjeuj](https://makecode.microbit.org/_exdb9fFJjeuj)
+Link: [https://makecode.microbit.org/_J617apiXhYJo](https://makecode.microbit.org/_J617apiXhYJo)
 
 <div
     style={{
@@ -64,7 +64,7 @@ Link: [https://makecode.microbit.org/_exdb9fFJjeuj](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_exdb9fFJjeuj"
+        src="https://makecode.microbit.org/_J617apiXhYJo"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -53,7 +53,7 @@ If yes, set to light on the LED; or light off it.
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-07-08.png)
 
 
-Link: [https://makecode.microbit.org/_RJV5CuH4i1f9](https://makecode.microbit.org/_RJV5CuH4i1f9)
+Link: [https://makecode.microbit.org/_CbKaXqeV9fb5](https://makecode.microbit.org/_CbKaXqeV9fb5)
 
 <div
     style={{
@@ -63,7 +63,7 @@ Link: [https://makecode.microbit.org/_RJV5CuH4i1f9](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_RJV5CuH4i1f9"
+        src="https://makecode.microbit.org/_CbKaXqeV9fb5"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

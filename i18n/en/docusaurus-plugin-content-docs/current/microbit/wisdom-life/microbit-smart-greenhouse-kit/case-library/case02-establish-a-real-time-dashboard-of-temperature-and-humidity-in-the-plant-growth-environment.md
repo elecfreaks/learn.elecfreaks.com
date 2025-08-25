@@ -20,7 +20,7 @@ This course will introduce students to the WiFi function of the IOT:bit expansio
 
 Before starting teaching, make sure you have prepared the following necessary items:
 
-|                             图片                             |                名称                |
+|                           Picture                            |                Name                |
 | :----------------------------------------------------------: | :--------------------------------: |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-hardware-introduction-014.png) |             micro:bit              |
 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-hardware-introduction-020.png) |              IOT:bit               |

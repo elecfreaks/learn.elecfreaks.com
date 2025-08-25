@@ -50,7 +50,7 @@ Turn on the lights in accordance with the micro:bit status, if the micro:bit log
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-04-08.png)
 
-Link: [https://makecode.microbit.org/_cCmX94iMVVvh](https://makecode.microbit.org/_cCmX94iMVVvh)
+Link: [https://makecode.microbit.org/_daHFHheR9ct7](https://makecode.microbit.org/_daHFHheR9ct7)
 
 <div
     style={{
@@ -60,7 +60,7 @@ Link: [https://makecode.microbit.org/_cCmX94iMVVvh](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_cCmX94iMVVvh"
+        src="https://makecode.microbit.org/_daHFHheR9ct7"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

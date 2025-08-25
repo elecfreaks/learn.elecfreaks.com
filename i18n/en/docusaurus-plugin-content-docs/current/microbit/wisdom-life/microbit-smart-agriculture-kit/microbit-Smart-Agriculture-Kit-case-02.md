@@ -51,7 +51,7 @@ Initialize the OLED screen and display the returned value on it.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-02-08.png)
 
-Link: [https://makecode.microbit.org/_hT5JjX0JDWqV](https://makecode.microbit.org/_hT5JjX0JDWqV)
+Link: [https://makecode.microbit.org/_C3TEJg44216X](https://makecode.microbit.org/_C3TEJg44216X)
 
 <div
     style={{
@@ -61,7 +61,7 @@ Link: [https://makecode.microbit.org/_hT5JjX0JDWqV](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_hT5JjX0JDWqV"
+        src="https://makecode.microbit.org/_C3TEJg44216X"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

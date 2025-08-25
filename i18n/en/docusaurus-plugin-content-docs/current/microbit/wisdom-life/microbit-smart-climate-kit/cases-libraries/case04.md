@@ -89,7 +89,7 @@ Search with "IoT" and download the extension.
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-case-04-09.png)
 
 
-Link: [https://makecode.microbit.org/_M4kMsw6sy0q3](https://makecode.microbit.org/_M4kMsw6sy0q3)
+Link: [https://makecode.microbit.org/_Pyi2H1c3gP6Y](https://makecode.microbit.org/_Pyi2H1c3gP6Y)
 
 You may download it directly below:
 
@@ -101,7 +101,7 @@ You may download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_M4kMsw6sy0q3"
+        src="https://makecode.microbit.org/_Pyi2H1c3gP6Y"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

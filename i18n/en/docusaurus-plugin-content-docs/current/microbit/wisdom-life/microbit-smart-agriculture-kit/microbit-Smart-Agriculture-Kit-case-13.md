@@ -131,7 +131,7 @@ Code:
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-13-16.png)
 
 
-Reference link: [https://makecode.microbit.org/_eYRf5hcaDEeR](https://makecode.microbit.org/_eYRf5hcaDEeR)
+Reference link: [https://makecode.microbit.org/_FJJ9kCLxRVjs](https://makecode.microbit.org/_FJJ9kCLxRVjs)
 
 <div
     style={{
@@ -141,7 +141,7 @@ Reference link: [https://makecode.microbit.org/_eYRf5hcaDEeR](https://makecode.m
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_eYRf5hcaDEeR"
+        src="https://makecode.microbit.org/_FJJ9kCLxRVjs"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

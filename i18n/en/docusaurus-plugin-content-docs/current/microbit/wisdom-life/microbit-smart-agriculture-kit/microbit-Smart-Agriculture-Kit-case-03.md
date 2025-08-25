@@ -51,7 +51,7 @@ Judge if the light level is below 100, if yes, program to light on; or turn it o
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-03-08.png)
 
-Link: [https://makecode.microbit.org/_Pzv57whfMgPa](https://makecode.microbit.org/_Pzv57whfMgPa)
+Link: [https://makecode.microbit.org/_5JdHCLdLeMFT](https://makecode.microbit.org/_5JdHCLdLeMFT)
 
 <div
     style={{
@@ -61,7 +61,7 @@ Link: [https://makecode.microbit.org/_Pzv57whfMgPa](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_Pzv57whfMgPa"
+        src="https://makecode.microbit.org/_5JdHCLdLeMFT"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -59,7 +59,7 @@ If the returned value is in the threshold scope, it means there is a pet in the 
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-06-09.png)
 
-Link: [https://makecode.microbit.org/_0fiexRbyoKpE](https://makecode.microbit.org/_0fiexRbyoKpE)
+Link: [https://makecode.microbit.org/_57LEeh5Jui9K](https://makecode.microbit.org/_57LEeh5Jui9K)
 
 <div
     style={{
@@ -69,7 +69,7 @@ Link: [https://makecode.microbit.org/_0fiexRbyoKpE](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_0fiexRbyoKpE"
+        src="https://makecode.microbit.org/_57LEeh5Jui9K"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

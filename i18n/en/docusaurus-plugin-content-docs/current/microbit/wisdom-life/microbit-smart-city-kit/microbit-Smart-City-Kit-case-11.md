@@ -52,7 +52,7 @@ Judge the sound level, if the value is over the threshold, program to light on t
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-11-07.png)
 
 
-Link: [https://makecode.microbit.org/_VrMF7Da1uAib](https://makecode.microbit.org/_VrMF7Da1uAib)
+Link: [https://makecode.microbit.org/_HKrCU87zWd8c](https://makecode.microbit.org/_HKrCU87zWd8c)
 
 <div
     style={{
@@ -62,7 +62,7 @@ Link: [https://makecode.microbit.org/_VrMF7Da1uAib](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_VrMF7Da1uAib"
+        src="https://makecode.microbit.org/_HKrCU87zWd8c"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

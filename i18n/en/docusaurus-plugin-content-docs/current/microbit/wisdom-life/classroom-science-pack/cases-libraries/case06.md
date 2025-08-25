@@ -80,7 +80,7 @@ Search for ``iot-environment-kit`` to add the iot-environment-kit repository.
 3. When the values of A and B are displayed separately and the screen information is cleared after two seconds.![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/classroom-science-pack/cases-libraries/images/classroom-science-pack-case-06-11.png)
 
 
-Please refer to the program link：[https://makecode.microbit.org/_M0rMpv63oEoF](https://makecode.microbit.org/_M0rMpv63oEoF)
+Please refer to the program link：[https://makecode.microbit.org/_dp0btUKLi1qv](https://makecode.microbit.org/_dp0btUKLi1qv)
 
 You can also download the program directly from the following page.
 
@@ -92,7 +92,7 @@ You can also download the program directly from the following page.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_M0rMpv63oEoF"
+        src="https://makecode.microbit.org/_dp0btUKLi1qv"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -59,7 +59,7 @@ After the green led gets turned on, set another countdown in 5 seconds for the r
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-10-09.png)
 
-Link: [https://makecode.microbit.org/_cjwYXhcDbXRE](https://makecode.microbit.org/_cjwYXhcDbXRE)
+Link: [https://makecode.microbit.org/_Wmm4ePL7HEFb](https://makecode.microbit.org/_Wmm4ePL7HEFb)
 
 <div
     style={{
@@ -69,7 +69,7 @@ Link: [https://makecode.microbit.org/_cjwYXhcDbXRE](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_cjwYXhcDbXRE"
+        src="https://makecode.microbit.org/_Wmm4ePL7HEFb"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

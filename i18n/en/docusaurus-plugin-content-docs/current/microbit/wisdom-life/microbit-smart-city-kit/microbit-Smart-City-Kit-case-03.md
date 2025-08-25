@@ -59,7 +59,7 @@ If the varible value is in the scope, it means there are people approching the c
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-03-09.png)
 
-Link: [https://makecode.microbit.org/_LP22ogi0t1KJ](https://makecode.microbit.org/_LP22ogi0t1KJ)
+Link: [https://makecode.microbit.org/_d0KdmrUqs2F2](https://makecode.microbit.org/_d0KdmrUqs2F2)
 
 <div
     style={{
@@ -69,7 +69,7 @@ Link: [https://makecode.microbit.org/_LP22ogi0t1KJ](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_LP22ogi0t1KJ"
+        src="https://makecode.microbit.org/_d0KdmrUqs2F2"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

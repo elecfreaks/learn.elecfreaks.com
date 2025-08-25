@@ -68,7 +68,7 @@ If yes, it also indicates that the water level has risen to a risk value, now pr
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-01-09.png)
 
 
-Link: [https://makecode.microbit.org/_0DFXLye3Ee5j](https://makecode.microbit.org/_0DFXLye3Ee5j)
+Link: [https://makecode.microbit.org/_FUHCjJJ4qAAR](https://makecode.microbit.org/_FUHCjJJ4qAAR)
 
 <div
     style={{
@@ -78,7 +78,7 @@ Link: [https://makecode.microbit.org/_0DFXLye3Ee5j](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_0DFXLye3Ee5j"
+        src="https://makecode.microbit.org/_FUHCjJJ4qAAR"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -91,7 +91,7 @@ Search with "IOT" in the dialogue box and get it downloaded.
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-case-04-07.png)
 
 
-Link: [https://makecode.microbit.org/_a7sXEcgtc1M3](https://makecode.microbit.org/_a7sXEcgtc1M3)
+Link: [https://makecode.microbit.org/_9XChAW3gqg6K](https://makecode.microbit.org/_9XChAW3gqg6K)
 
 You may download it directly below:
 
@@ -103,7 +103,7 @@ You may download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_a7sXEcgtc1M3"
+        src="https://makecode.microbit.org/_9XChAW3gqg6K"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

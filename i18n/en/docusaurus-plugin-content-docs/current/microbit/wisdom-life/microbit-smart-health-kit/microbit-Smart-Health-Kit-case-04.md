@@ -59,7 +59,7 @@ Judge the value of the variable "i", if it's over 50, set the rainbow LED to lig
 
 
 
-Link: [https://makecode.microbit.org/_1e3fAF0gp8Uv](https://makecode.microbit.org/_1e3fAF0gp8Uv)
+Link: [https://makecode.microbit.org/_P8Reb5WYEAct](https://makecode.microbit.org/_P8Reb5WYEAct)
 
 <div
     style={{
@@ -69,7 +69,7 @@ Link: [https://makecode.microbit.org/_1e3fAF0gp8Uv](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_1e3fAF0gp8Uv"
+        src="https://makecode.microbit.org/_P8Reb5WYEAct"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

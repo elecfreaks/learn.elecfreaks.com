@@ -83,7 +83,7 @@ Pause 1 second.
 
 ### Program
 
-Program link：[https://makecode.microbit.org/_2jvctXPa0heW](https://makecode.microbit.org/_2jvctXPa0heW)
+Program link：[https://makecode.microbit.org/_FMEEF89p68dX](https://makecode.microbit.org/_FMEEF89p68dX)
 
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
@@ -95,7 +95,7 @@ If you don't want to type these code by yourself, you can directly download the 
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_2jvctXPa0heW"
+        src="https://makecode.microbit.org/_FMEEF89p68dX"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

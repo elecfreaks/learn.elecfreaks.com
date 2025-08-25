@@ -58,7 +58,7 @@ Clear the OLED screen and display the humidity and temperature value on the OLED
 
 
 
-Link: [https://makecode.microbit.org/_Dqi8jjF750cV](https://makecode.microbit.org/_Dqi8jjF750cV)
+Link: [https://makecode.microbit.org/_FDCczvJfCHUF](https://makecode.microbit.org/_FDCczvJfCHUF)
 
 <div
     style={{
@@ -68,7 +68,7 @@ Link: [https://makecode.microbit.org/_Dqi8jjF750cV](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_Dqi8jjF750cV"
+        src="https://makecode.microbit.org/_FDCczvJfCHUF"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -79,7 +79,7 @@ Search for wukong on the pop-up page and click to select the wukong software lib
 
 ### Write a program
 
-Sample program: [https://makecode.microbit.org/_9mhFH7d5pDJi](https://makecode.microbit.org/_9mhFH7d5pDJi)
+Sample program: [https://makecode.microbit.org/_0PT9Ua7zjUqP](https://makecode.microbit.org/_0PT9Ua7zjUqP)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-06-03.png)
 
@@ -93,7 +93,7 @@ You can also download the program directly from the following web page.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_9mhFH7d5pDJi"
+        src="https://makecode.microbit.org/_0PT9Ua7zjUqP"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

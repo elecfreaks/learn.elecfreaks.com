@@ -51,7 +51,7 @@ Judge the value of the variable "IR", if yes, program to display a "√" and set
 
 
 
-Link: [https://makecode.microbit.org/_KuhhtHVds1EH](https://makecode.microbit.org/_KuhhtHVds1EH)
+Link: [https://makecode.microbit.org/_aXkgzhcmeVrh](https://makecode.microbit.org/_aXkgzhcmeVrh)
 
 <div
     style={{
@@ -61,7 +61,7 @@ Link: [https://makecode.microbit.org/_KuhhtHVds1EH](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_KuhhtHVds1EH"
+        src="https://makecode.microbit.org/_aXkgzhcmeVrh"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

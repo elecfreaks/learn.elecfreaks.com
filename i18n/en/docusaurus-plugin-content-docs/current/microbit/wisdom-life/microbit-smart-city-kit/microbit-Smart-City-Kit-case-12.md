@@ -52,7 +52,7 @@ Detect the magnetic intensity in the current field, if the returned value is bel
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-12-07.png)
 
-Link: [https://makecode.microbit.org/_0fiexRbyoKpE](https://makecode.microbit.org/_0fiexRbyoKpE)
+Link: [https://makecode.microbit.org/_J9sXzmH5WV9W](https://makecode.microbit.org/_J9sXzmH5WV9W)
 
 <div
     style={{
@@ -62,7 +62,7 @@ Link: [https://makecode.microbit.org/_0fiexRbyoKpE](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_0fiexRbyoKpE"
+        src="https://makecode.microbit.org/_J9sXzmH5WV9W"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

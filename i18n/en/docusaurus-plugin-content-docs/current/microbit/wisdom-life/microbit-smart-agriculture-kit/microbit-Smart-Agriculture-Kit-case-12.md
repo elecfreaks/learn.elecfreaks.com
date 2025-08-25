@@ -52,7 +52,7 @@ If yes, program to set the servo connecting to P1 to drive to 180°; or to drive
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-12-08.png)
 
 
-Link: [https://makecode.microbit.org/_dHgWHFfYvgTR](https://makecode.microbit.org/_dHgWHFfYvgTR)
+Link: [https://makecode.microbit.org/_AdbP8MevrCsh](https://makecode.microbit.org/_AdbP8MevrCsh)
 
 <div
     style={{
@@ -62,7 +62,7 @@ Link: [https://makecode.microbit.org/_dHgWHFfYvgTR](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_dHgWHFfYvgTR"
+        src="https://makecode.microbit.org/_AdbP8MevrCsh"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

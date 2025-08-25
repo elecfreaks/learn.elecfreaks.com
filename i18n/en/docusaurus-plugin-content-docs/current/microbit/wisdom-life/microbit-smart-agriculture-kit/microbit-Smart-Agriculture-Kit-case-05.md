@@ -55,7 +55,7 @@ Clear the OLED screen and display the water temperature.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-05-09.png)
 
-Link: [https://makecode.microbit.org/_Jx2d4JgU6iWj](https://makecode.microbit.org/_Jx2d4JgU6iWj)
+Link: [https://makecode.microbit.org/_gxKFryf4o061](https://makecode.microbit.org/_gxKFryf4o061)
 
 <div
     style={{
@@ -65,7 +65,7 @@ Link: [https://makecode.microbit.org/_Jx2d4JgU6iWj](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_Jx2d4JgU6iWj"
+        src="https://makecode.microbit.org/_gxKFryf4o061"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

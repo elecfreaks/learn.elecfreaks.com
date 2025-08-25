@@ -102,7 +102,7 @@ Write `write api key` into `set data` and snap the randow number block to the fi
 
 #### Program
 
-program link：[https://makecode.microbit.org/_Ys5AzqE1uEC0](https://makecode.microbit.org/_Ys5AzqE1uEC0)
+program link：[https://makecode.microbit.org/_UqfP4zhrzVbs](https://makecode.microbit.org/_UqfP4zhrzVbs)
 
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
@@ -114,7 +114,7 @@ If you don't want to type these code by yourself, you can directly download the 
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_Ys5AzqE1uEC0"
+        src="https://makecode.microbit.org/_UqfP4zhrzVbs"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -140,8 +140,6 @@ You can check all datas on the thingspeak.
  Click the visulization button to choose the three choices: [stopwatch],[Numeric Display],[Threshold indicator light].
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_14.png)
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-science-iot-kit/images/case_ts_15.png)
 
  Choose types of the stopwatch and click NEXT, write the name, filed, the maximum and minimum value of the chart, then click Create to create a new chart.
 

@@ -60,7 +60,7 @@ While button A being pressed, program to set the variable "i" in true and progra
 
 
 
-Link: [https://makecode.microbit.org/_PH4YUi598FXc](https://makecode.microbit.org/_PH4YUi598FXc)
+Link: [https://makecode.microbit.org/_0ghhCxUhXgjT](https://makecode.microbit.org/_0ghhCxUhXgjT)
 
 <div
     style={{
@@ -70,7 +70,7 @@ Link: [https://makecode.microbit.org/_PH4YUi598FXc](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_PH4YUi598FXc"
+        src="https://makecode.microbit.org/_0ghhCxUhXgjT"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

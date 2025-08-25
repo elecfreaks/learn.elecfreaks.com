@@ -35,7 +35,7 @@ If the micro:bit displays a sad face, program to start melody for reminding.
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-10-08.png)
 
 
-Link: [https://makecode.microbit.org/_Mws2cyWm6RFg](https://makecode.microbit.org/_Mws2cyWm6RFg)
+Link: [https://makecode.microbit.org/_972ThCKuXC67](https://makecode.microbit.org/_972ThCKuXC67)
 
 <div
     style={{
@@ -45,7 +45,7 @@ Link: [https://makecode.microbit.org/_Mws2cyWm6RFg](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_Mws2cyWm6RFg"
+        src="https://makecode.microbit.org/_972ThCKuXC67"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

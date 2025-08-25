@@ -44,7 +44,7 @@ While pressing button A, set "NUM" as 0.
 
 
 
-Link: [https://makecode.microbit.org/_5fT7CVV8dCiK](https://makecode.microbit.org/_5fT7CVV8dCiK)
+Link: [https://makecode.microbit.org/_cg1MVdFDLCiu](https://makecode.microbit.org/_cg1MVdFDLCiu)
 
 <div
     style={{
@@ -54,7 +54,7 @@ Link: [https://makecode.microbit.org/_5fT7CVV8dCiK](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_5fT7CVV8dCiK"
+        src="https://makecode.microbit.org/_cg1MVdFDLCiu"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

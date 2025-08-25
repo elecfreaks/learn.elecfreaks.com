@@ -66,7 +66,7 @@ If the “soil_moisture” value is below the threshold, it means the landscapes
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-02-09.png)
 
 
-Link: [https://makecode.microbit.org/_e36JXPW3r31t](https://makecode.microbit.org/_e36JXPW3r31t)
+Link: [https://makecode.microbit.org/_bfsMHLRDaemP](https://makecode.microbit.org/_bfsMHLRDaemP)
 
 <div
     style={{
@@ -76,7 +76,7 @@ Link: [https://makecode.microbit.org/_e36JXPW3r31t](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_e36JXPW3r31t"
+        src="https://makecode.microbit.org/_bfsMHLRDaemP"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

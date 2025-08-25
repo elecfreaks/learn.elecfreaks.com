@@ -59,7 +59,7 @@ If the second is 1, set the servo to drive to 90°, pause 5000ms and then set th
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-11-09.png)
 
-Link: [https://makecode.microbit.org/_RE7cgtJCJMFP](https://makecode.microbit.org/_RE7cgtJCJMFP)
+Link: [https://makecode.microbit.org/_T8z5tm3T2CfA](https://makecode.microbit.org/_T8z5tm3T2CfA)
 
 <div
     style={{
@@ -69,7 +69,7 @@ Link: [https://makecode.microbit.org/_RE7cgtJCJMFP](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_RE7cgtJCJMFP"
+        src="https://makecode.microbit.org/_T8z5tm3T2CfA"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

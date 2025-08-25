@@ -59,7 +59,7 @@ Judge if the returned value is in the scope of the threshold, if yes, it means t
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-07-10.png)
 
-Link: [https://makecode.microbit.org/_4rfVpw74kVdW](https://makecode.microbit.org/_4rfVpw74kVdW)
+Link: [https://makecode.microbit.org/_0UF1zaasHYM9](https://makecode.microbit.org/_0UF1zaasHYM9)
 
 <div
     style={{
@@ -69,7 +69,7 @@ Link: [https://makecode.microbit.org/_4rfVpw74kVdW](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_4rfVpw74kVdW"
+        src="https://makecode.microbit.org/_0UF1zaasHYM9"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

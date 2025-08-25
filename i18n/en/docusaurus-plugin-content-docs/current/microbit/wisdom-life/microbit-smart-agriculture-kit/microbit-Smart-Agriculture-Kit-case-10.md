@@ -59,7 +59,7 @@ Judge if the current value is over the threshold, if yes, program to light on th
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-10-09.png)
 
 
-Link: [https://makecode.microbit.org/_dHJDqwUoDDTf](https://makecode.microbit.org/_dHJDqwUoDDTf)
+Link: [https://makecode.microbit.org/_VXsHaaTzPX8F](https://makecode.microbit.org/_VXsHaaTzPX8F)
 
 <div
     style={{
@@ -69,7 +69,7 @@ Link: [https://makecode.microbit.org/_dHJDqwUoDDTf](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_dHJDqwUoDDTf"
+        src="https://makecode.microbit.org/_VXsHaaTzPX8F"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

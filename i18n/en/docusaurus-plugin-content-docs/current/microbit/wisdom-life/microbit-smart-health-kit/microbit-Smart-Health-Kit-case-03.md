@@ -55,7 +55,7 @@ Judge the value of the variable "i", if it's over 29, program to turn on the fan
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-03-09.png)
 
-Link: [https://makecode.microbit.org/_7WLC6kVYXh9z](https://makecode.microbit.org/_7WLC6kVYXh9z)
+Link: [https://makecode.microbit.org/_bsh49hPDx4y0](https://makecode.microbit.org/_bsh49hPDx4y0)
 
 <div
     style={{
@@ -65,7 +65,7 @@ Link: [https://makecode.microbit.org/_7WLC6kVYXh9z](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_7WLC6kVYXh9z"
+        src="https://makecode.microbit.org/_bsh49hPDx4y0"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

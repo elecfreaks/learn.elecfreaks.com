@@ -59,7 +59,7 @@ If the variable "ultrasonic_distance" is not in the threshold, program to turn o
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-agriculture-kit/images/microbit-Smart-Agriculture-Kit-case-04-10.png)
 
-Link: [https://makecode.microbit.org/_gDhV67AceFJw](https://makecode.microbit.org/_gDhV67AceFJw)
+Link: [https://makecode.microbit.org/_g4MfHrWjhb5p](https://makecode.microbit.org/_g4MfHrWjhb5p)
 
 <div
     style={{
@@ -69,7 +69,7 @@ Link: [https://makecode.microbit.org/_gDhV67AceFJw](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_gDhV67AceFJw"
+        src="https://makecode.microbit.org/_g4MfHrWjhb5p"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

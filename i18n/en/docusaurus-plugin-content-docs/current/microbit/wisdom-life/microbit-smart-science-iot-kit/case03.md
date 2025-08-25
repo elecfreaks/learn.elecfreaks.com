@@ -69,7 +69,7 @@ Then, snap into the `insert newline`.
 
 ### Program
 
-Program link：[https://makecode.microbit.org/_ePDLFuUwqUhK](https://makecode.microbit.org/_ePDLFuUwqUhK)
+Program link：[https://makecode.microbit.org/_f9bXVA94p63F](https://makecode.microbit.org/_f9bXVA94p63F)
 
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
@@ -81,7 +81,7 @@ If you don't want to type these code by yourself, you can directly download the 
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_ePDLFuUwqUhK"
+        src="https://makecode.microbit.org/_f9bXVA94p63F"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

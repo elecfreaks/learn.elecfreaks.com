@@ -61,7 +61,7 @@ Judge if the current moisture is a proper value to preserve the books, if not, t
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-05-10.png)
 
-Link: [https://makecode.microbit.org/_01gdJmbcq65D](https://makecode.microbit.org/_01gdJmbcq65D)
+Link: [https://makecode.microbit.org/_66MTVUHcs2wz](https://makecode.microbit.org/_66MTVUHcs2wz)
 
 <div
     style={{
@@ -71,7 +71,7 @@ Link: [https://makecode.microbit.org/_01gdJmbcq65D](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_01gdJmbcq65D"
+        src="https://makecode.microbit.org/_66MTVUHcs2wz"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

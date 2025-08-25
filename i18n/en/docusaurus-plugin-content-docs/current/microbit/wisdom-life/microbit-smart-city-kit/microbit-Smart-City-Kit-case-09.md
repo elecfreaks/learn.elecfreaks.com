@@ -56,7 +56,7 @@ If the sound level is below 100, program to light on the green led, if it's belo
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-city-kit/images/microbit-Smart-City-Kit-case-09-08.png)
 
 
-Link: [https://makecode.microbit.org/_2D82PVTC2Vhr](https://makecode.microbit.org/_2D82PVTC2Vhr)
+Link: [https://makecode.microbit.org/_5o3dr2bds8k7](https://makecode.microbit.org/_5o3dr2bds8k7)
 
 <div
     style={{
@@ -66,7 +66,7 @@ Link: [https://makecode.microbit.org/_2D82PVTC2Vhr](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_2D82PVTC2Vhr"
+        src="https://makecode.microbit.org/_5o3dr2bds8k7"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

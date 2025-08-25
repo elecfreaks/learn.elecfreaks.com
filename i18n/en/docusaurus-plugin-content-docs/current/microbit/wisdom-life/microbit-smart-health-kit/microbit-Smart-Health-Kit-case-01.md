@@ -49,7 +49,7 @@ Judge the detected motion of  variable "IR", if yes, set to show "√" and the s
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-health-kit/images/microbit-Smart-Health-Kit-case-01-07.png)
 
-Link: [https://makecode.microbit.org/_KuhhtHVds1EH](https://makecode.microbit.org/_KuhhtHVds1EH)
+Link: [https://makecode.microbit.org/_56cEUe9XzF9v](https://makecode.microbit.org/_56cEUe9XzF9v)
 
 <div
     style={{
@@ -59,7 +59,7 @@ Link: [https://makecode.microbit.org/_KuhhtHVds1EH](https://makecode.microbit.or
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_KuhhtHVds1EH"
+        src="https://makecode.microbit.org/_56cEUe9XzF9v"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

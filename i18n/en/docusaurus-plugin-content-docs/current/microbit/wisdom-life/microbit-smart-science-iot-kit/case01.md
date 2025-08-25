@@ -72,7 +72,7 @@ Pause `60s`, once a minute.
 
 ### Program
 
-Program link：[https://makecode.microbit.org/_YFCE0bc7vbVC](https://makecode.microbit.org/_YFCE0bc7vbVC)
+Program link：[https://makecode.microbit.org/_JkxKoxehwHEq](https://makecode.microbit.org/_JkxKoxehwHEq)
 
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
@@ -84,7 +84,7 @@ If you don't want to type these code by yourself, you can directly download the 
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_YFCE0bc7vbVC"
+        src="https://makecode.microbit.org/_JkxKoxehwHEq"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

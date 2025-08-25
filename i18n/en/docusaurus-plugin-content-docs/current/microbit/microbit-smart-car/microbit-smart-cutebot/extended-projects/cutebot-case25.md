@@ -46,7 +46,7 @@ In order to program the 8*16 dot matrix screen, we need to add a code library. F
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-25-04.png)
 
-Link: [https://makecode.microbit.org/_8YgWzm4hWF6p](https://makecode.microbit.org/_8YgWzm4hWF6p)
+Link: [https://makecode.microbit.org/_PL2hrV271WfU](https://makecode.microbit.org/_PL2hrV271WfU)
 
 You can also download the program directly from the following webpage.
 
@@ -58,7 +58,7 @@ You can also download the program directly from the following webpage.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_8YgWzm4hWF6p"
+        src="https://makecode.microbit.org/_PL2hrV271WfU"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

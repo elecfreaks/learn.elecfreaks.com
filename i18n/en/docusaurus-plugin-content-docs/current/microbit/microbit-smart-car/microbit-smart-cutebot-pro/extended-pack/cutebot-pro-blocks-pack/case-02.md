@@ -80,7 +80,7 @@ Joystick side
 
 ### Programs
 
-Please refer to the program link：[https://makecode.microbit.org/_DHyiYdULjKg0](https://makecode.microbit.org/_DHyiYdULjKg0)
+Please refer to the program link：[https://makecode.microbit.org/_gd9TXcWo3Pfh](https://makecode.microbit.org/_gd9TXcWo3Pfh)
 
 You can also download the program directly from the following page.
 
@@ -92,7 +92,7 @@ You can also download the program directly from the following page.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_DHyiYdULjKg0"
+        src="https://makecode.microbit.org/_gd9TXcWo3Pfh"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -110,7 +110,7 @@ You can also download the program directly from the following page.
 
 ### Programs
 
-Please refer to the program link：[https://makecode.microbit.org/_6sDHHp3Jwgbq](https://makecode.microbit.org/_6sDHHp3Jwgbq)
+Please refer to the program link：[https://makecode.microbit.org/_MvJRATTKuidu](https://makecode.microbit.org/_MvJRATTKuidu)
 
 You can also download the program directly from the following page.
 
@@ -122,7 +122,7 @@ You can also download the program directly from the following page.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_6sDHHp3Jwgbq"
+        src="https://makecode.microbit.org/_MvJRATTKuidu"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

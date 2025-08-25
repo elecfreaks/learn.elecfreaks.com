@@ -133,7 +133,7 @@ To program joysticks: bit, we need to add a software library for joysticks: bit.
 
 The following is an example program for the car end. Simply download the program to the micro: bit using the above method.
 
-Example Program :[https://makecode.microbit.org/_bueAsJ15thxz](https://makecode.microbit.org/_bueAsJ15thxz)
+Example Program :[https://makecode.microbit.org/_7Wm5UePwTP6q](https://makecode.microbit.org/_7Wm5UePwTP6q)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/football-game-case-01.png)
 
@@ -147,7 +147,7 @@ You can also download the program directly from the following webpage.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_bueAsJ15thxz"
+        src="https://makecode.microbit.org/_7Wm5UePwTP6q"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -162,7 +162,7 @@ You can also download the program directly from the following webpage.
 
 The following is an example program for a remote controller. Simply download the program to the micro: bit using the above method.
 
-Example program:[https://makecode.microbit.org/_5FXEbpPHkFmo](https://makecode.microbit.org/_5FXEbpPHkFmo)
+Example program:[https://makecode.microbit.org/_ax83cMRWHetU](https://makecode.microbit.org/_ax83cMRWHetU)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/football-game-case-02.png)
 
@@ -176,7 +176,7 @@ You can also download the program directly from the following webpage.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_5FXEbpPHkFmo"
+        src="https://makecode.microbit.org/_ax83cMRWHetU"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

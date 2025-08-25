@@ -103,7 +103,7 @@ We need to add a package for programming the [AI Lens](https://www.elecfreaks.co
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/cutebot-ailens/images/case-21-03.png)
 
-Link: [https://makecode.microbit.org/_KFMLijP1xdh5](https://makecode.microbit.org/_KFMLijP1xdh5)
+Link: [https://makecode.microbit.org/_LDjadc3aiAp2](https://makecode.microbit.org/_LDjadc3aiAp2)
 
 You may also download it directly below:
 
@@ -115,7 +115,7 @@ You may also download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_KFMLijP1xdh5"
+        src="https://makecode.microbit.org/_LDjadc3aiAp2"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

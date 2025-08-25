@@ -52,7 +52,7 @@ sidebar_label: Case 02:Light Control
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_02_04.png)
 
 ### Link
-- Link: [https://makecode.microbit.org/_0RM5AJgos7C5](https://makecode.microbit.org/_0RM5AJgos7C5)
+- Link: [https://makecode.microbit.org/_g2JDJgMjqUFT](https://makecode.microbit.org/_g2JDJgMjqUFT)
 
 - You may also download it directly below:
 
@@ -64,7 +64,7 @@ sidebar_label: Case 02:Light Control
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_0RM5AJgos7C5"
+        src="https://makecode.microbit.org/_g2JDJgMjqUFT"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

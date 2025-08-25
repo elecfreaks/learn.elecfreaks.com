@@ -6,7 +6,7 @@ Use another micro:bit as a remote control for your Cutebot
 
 Both micro:bit needs to be programmed.
 
-``![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-11-01.png)``
+<!-- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-11-01.png) -->
 
 ## Materials
 

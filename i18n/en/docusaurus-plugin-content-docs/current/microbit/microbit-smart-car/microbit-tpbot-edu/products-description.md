@@ -132,7 +132,7 @@ Click Extensions in the Toolbox of the MakeCode programming interface.
 Search for tpbot on the pop-up page and click to select the tpbot software library.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/images/TPBot_tianpeng_case_01_03.png)
 
 *** For an explanation of the software library building blocks, please visit [https://makecode.microbit.org/_KXqEvJJsAiKM](https://makecode.microbit.org/_KXqEvJJsAiKM) ***
 

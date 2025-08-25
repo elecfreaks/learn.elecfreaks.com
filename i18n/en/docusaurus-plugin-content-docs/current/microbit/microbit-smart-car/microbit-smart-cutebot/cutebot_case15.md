@@ -37,7 +37,7 @@ Judge the luminous intensity with the block "light level " in "forever" ; if the
 
 ### Link
 
-Link: [https://makecode.microbit.org/_3xCUWo1iMc5Y](https://makecode.microbit.org/_3xCUWo1iMc5Y)
+Link: [https://makecode.microbit.org/_YHFJwe3Hcei1](https://makecode.microbit.org/_YHFJwe3Hcei1)
 
 You can also download it directly below:
 
@@ -49,7 +49,7 @@ You can also download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_3xCUWo1iMc5Y"
+        src="https://makecode.microbit.org/_YHFJwe3Hcei1"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -66,7 +66,7 @@ Connect the AI Lens to the IIC port on TPBot.
 
 
 ### Reference
-- Link: [https://makecode.microbit.org/_i4aLd1MvADLU](https://makecode.microbit.org/_i4aLd1MvADLU)
+- Link: [https://makecode.microbit.org/_hF6bL0WVi3g4](https://makecode.microbit.org/_hF6bL0WVi3g4)
 
 - You may also download it directly here:
 
@@ -78,7 +78,7 @@ Connect the AI Lens to the IIC port on TPBot.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_i4aLd1MvADLU"
+        src="https://makecode.microbit.org/_hF6bL0WVi3g4"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

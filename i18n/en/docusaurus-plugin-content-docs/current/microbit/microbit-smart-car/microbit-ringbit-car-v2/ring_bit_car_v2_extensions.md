@@ -76,32 +76,6 @@ To detect the status of the detector with the line-tracking sensor.
 To get the distance detected from the ultrasonic sound sensor.
 
 
-## Program
-
-- Link: [https://makecode.microbit.org/_AgF9MT0sWAF2](https://makecode.microbit.org/_AgF9MT0sWAF2)
-
-- Or to download it directly:
-
-<div
-    style={{
-        position: 'relative',
-        paddingBottom: '60%',
-        overflow: 'hidden',
-    }}
->
-    <iframe
-        src="https://makecode.microbit.org/_AgF9MT0sWAF2"
-        frameborder="0"
-        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
-        style={{
-            position: 'absolute',
-            width: '100%',
-            height: '100%',
-        }}
-    />
-</div>
-
-
 ## FAQ
 
 

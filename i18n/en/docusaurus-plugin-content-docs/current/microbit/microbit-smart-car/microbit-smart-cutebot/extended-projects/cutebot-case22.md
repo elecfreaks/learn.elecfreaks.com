@@ -86,7 +86,7 @@ You can also download the program directly from the following webpage.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-22-05.png)
 
-Link: [https://makecode.microbit.org/_V857iRc9PTFv](https://makecode.microbit.org/_V857iRc9PTFv)
+Link: [https://makecode.microbit.org/_AwA806fbx98F](https://makecode.microbit.org/_AwA806fbx98F)
 
 You can also download the program directly from the following webpage.
 
@@ -98,7 +98,7 @@ You can also download the program directly from the following webpage.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_V857iRc9PTFv"
+        src="https://makecode.microbit.org/_AwA806fbx98F"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

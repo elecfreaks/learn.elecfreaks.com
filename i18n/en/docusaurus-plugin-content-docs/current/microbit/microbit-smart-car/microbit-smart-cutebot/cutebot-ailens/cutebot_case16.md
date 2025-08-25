@@ -99,7 +99,7 @@ Connect the RJ11 cable with the [AI Lens](https://www.elecfreaks.com/elecfreaks-
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/cutebot-ailens/images/case-16-03.png)
 
-Link: [https://makecode.microbit.org/_APW2Ps3hAU9L](https://makecode.microbit.org/_APW2Ps3hAU9L)
+Link: [https://makecode.microbit.org/_1uidk013cboz](https://makecode.microbit.org/_1uidk013cboz)
 
 You may also download it directly below:
 
@@ -111,7 +111,7 @@ You may also download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_APW2Ps3hAU9L"
+        src="https://makecode.microbit.org/_1uidk013cboz"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

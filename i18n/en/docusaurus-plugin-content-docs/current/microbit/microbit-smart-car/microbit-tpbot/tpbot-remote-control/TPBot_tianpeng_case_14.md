@@ -49,7 +49,7 @@ sidebar_label: Remote Control with Joystick:bit
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_14_04.png)
 
 ### Link
-- Link: [https://makecode.microbit.org/_7rzb5TEfrbu7](https://makecode.microbit.org/_7rzb5TEfrbu7)
+- Link: [https://makecode.microbit.org/_RVDck41csEMk](https://makecode.microbit.org/_RVDck41csEMk)
 
 - You may also download it directly below:
 
@@ -61,7 +61,7 @@ sidebar_label: Remote Control with Joystick:bit
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_7rzb5TEfrbu7"
+        src="https://makecode.microbit.org/_RVDck41csEMk"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -81,7 +81,7 @@ sidebar_label: Remote Control with Joystick:bit
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_14_05.png)
 
 ### Link
-- Link: [https://makecode.microbit.org/_HPVCEx29zTPx](https://makecode.microbit.org/_HPVCEx29zTPx)
+- Link: [https://makecode.microbit.org/_aE8faq1Ct7cf](https://makecode.microbit.org/_aE8faq1Ct7cf)
 
 - You may also download it dorectly below:
 
@@ -93,7 +93,7 @@ sidebar_label: Remote Control with Joystick:bit
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_HPVCEx29zTPx"
+        src="https://makecode.microbit.org/_aE8faq1Ct7cf"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

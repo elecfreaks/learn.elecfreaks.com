@@ -101,7 +101,7 @@ For programming, we need to add a package. Click “Extensions” at the bottom 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-26-04.png)
 
 
-Link: [https://makecode.microbit.org/_6kD6KAaEfA8W](https://makecode.microbit.org/_6kD6KAaEfA8W)
+Link: [https://makecode.microbit.org/_cVvCvaXRxV7s](https://makecode.microbit.org/_cVvCvaXRxV7s)
 
 You can also download the program directly from the following webpage.
 
@@ -113,7 +113,7 @@ You can also download the program directly from the following webpage.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_6kD6KAaEfA8W"
+        src="https://makecode.microbit.org/_cVvCvaXRxV7s"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -130,7 +130,7 @@ You can also download the program directly from the following webpage.
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-26-05.png)
 
 
-Link: [https://makecode.microbit.org/_6fy3K4Xctdgz](https://makecode.microbit.org/_6fy3K4Xctdgz)
+Link: [https://makecode.microbit.org/_htk1Jv0mVfLz](https://makecode.microbit.org/_htk1Jv0mVfLz)
 
 You can also download the program directly from the following webpage.
 
@@ -142,7 +142,7 @@ You can also download the program directly from the following webpage.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_6fy3K4Xctdgz"
+        src="https://makecode.microbit.org/_htk1Jv0mVfLz"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

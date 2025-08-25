@@ -87,7 +87,7 @@ In `Forever`,get the information of a frame from the lens, if the image contains
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/extended-projects/images/cutebot-case-24-06.png)
 
-Link: [https://makecode.microbit.org/_2781gFCseJMs](https://makecode.microbit.org/_2781gFCseJMs)
+Link: [https://makecode.microbit.org/_TvgMKFHkuhCL](https://makecode.microbit.org/_TvgMKFHkuhCL)
 
 You can also download the program directly from the following webpage.
 
@@ -99,7 +99,7 @@ You can also download the program directly from the following webpage.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_2781gFCseJMs"
+        src="https://makecode.microbit.org/_TvgMKFHkuhCL"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

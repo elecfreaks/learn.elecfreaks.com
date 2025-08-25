@@ -51,7 +51,7 @@ If not any, the car moves forward to catch up with the hands because of the far 
 
 ### Programming
 
-Links: [https://makecode.microbit.org/_YxxfyPVsmHjg](https://makecode.microbit.org/_YxxfyPVsmHjg)
+Links: [https://makecode.microbit.org/_UTpUciPYJL6r](https://makecode.microbit.org/_UTpUciPYJL6r)
 
 You can also download it directly below:
 
@@ -63,7 +63,7 @@ You can also download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_YxxfyPVsmHjg"
+        src="https://makecode.microbit.org/_UTpUciPYJL6r"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

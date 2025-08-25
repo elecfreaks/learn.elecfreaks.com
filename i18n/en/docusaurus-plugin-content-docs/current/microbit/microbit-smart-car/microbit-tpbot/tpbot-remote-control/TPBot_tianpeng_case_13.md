@@ -45,7 +45,7 @@ sidebar_label: Remote Control with micro:bit Accelerometer
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_13_04.png)
 
 ### Link
-- Link: [https://makecode.microbit.org/_11kPTbbxM9Mf](https://makecode.microbit.org/_11kPTbbxM9Mf)
+- Link: [https://makecode.microbit.org/_11P6DHcgfHdA](https://makecode.microbit.org/_11P6DHcgfHdA)
 
 - You may also download it directly below:
 
@@ -57,7 +57,7 @@ sidebar_label: Remote Control with micro:bit Accelerometer
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_11kPTbbxM9Mf"
+        src="https://makecode.microbit.org/_11P6DHcgfHdA"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -79,7 +79,7 @@ sidebar_label: Remote Control with micro:bit Accelerometer
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-tpbot/tpbot-remote-control/images/TPBot_tianpeng_case_13_05.png)
 
 ### Link
-- Link: [https://makecode.microbit.org/_a6LLFsMfDT7K](https://makecode.microbit.org/_a6LLFsMfDT7K)
+- Link: [https://makecode.microbit.org/_2mVAvH4g82U2](https://makecode.microbit.org/_2mVAvH4g82U2)
 
 - You may also download it directly below:
 
@@ -91,7 +91,7 @@ sidebar_label: Remote Control with micro:bit Accelerometer
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_a6LLFsMfDT7K"
+        src="https://makecode.microbit.org/_2mVAvH4g82U2"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

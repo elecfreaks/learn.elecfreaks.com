@@ -78,7 +78,7 @@ For programing the Joystick:bit kit v2, we need to add a package. Click "extensi
 
 ### Program
 
-Link: [https://makecode.microbit.org/_DHyiYdULjKg0](https://makecode.microbit.org/_DHyiYdULjKg0)
+Link: [https://makecode.microbit.org/_fztRUe2UT8bR](https://makecode.microbit.org/_fztRUe2UT8bR)
 
 You may download it directly below:
 
@@ -90,7 +90,7 @@ You may download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_DHyiYdULjKg0"
+        src="https://makecode.microbit.org/_fztRUe2UT8bR"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -108,7 +108,7 @@ You may download it directly below:
 
 ### Program
 
-Link: [https://makecode.microbit.org/_6sDHHp3Jwgbq](https://makecode.microbit.org/_6sDHHp3Jwgbq)
+Link: [https://makecode.microbit.org/_9sKE08309dkj](https://makecode.microbit.org/_9sKE08309dkj)
 
 You may download it directly below:
 
@@ -120,7 +120,7 @@ You may download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_6sDHHp3Jwgbq"
+        src="https://makecode.microbit.org/_9sKE08309dkj"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

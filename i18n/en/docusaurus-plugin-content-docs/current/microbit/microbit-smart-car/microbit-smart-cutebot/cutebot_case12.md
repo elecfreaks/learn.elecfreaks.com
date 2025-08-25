@@ -6,7 +6,7 @@ Use the accelerometer in another micro:bit to remote control the Cutebot for the
 
 Both of the micro:bit need to be programmed.
 
-``![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-12-01.png)``
+<!--![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot-case-12-01.png)-->
 
 ## Materials
 

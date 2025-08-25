@@ -110,7 +110,7 @@ We need to add a package for programming the [AI Lens](https://www.elecfreaks.co
 
 
 
-Link: [https://makecode.microbit.org/_eoJAsHgdx4tr](https://makecode.microbit.org/_eoJAsHgdx4tr)
+Link: [https://makecode.microbit.org/_EUs1K6RRX0Ty](https://makecode.microbit.org/_EUs1K6RRX0Ty)
 
 You may also download it directly below:
 
@@ -122,7 +122,7 @@ You may also download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_eoJAsHgdx4tr"
+        src="https://makecode.microbit.org/_EUs1K6RRX0Ty"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -80,7 +80,7 @@ While `on start`, set to show an icon and while pressing button A,  make the ser
 
 ### Program
 
-Reference program: [https://makecode.microbit.org/_abKfLKhV4V99](https://makecode.microbit.org/_abKfLKhV4V99)
+Reference program: [https://makecode.microbit.org/_CLmEXUVf6bbW](https://makecode.microbit.org/_CLmEXUVf6bbW)
 
 You may download it directly here:
 
@@ -92,7 +92,7 @@ You may download it directly here:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_abKfLKhV4V99"
+        src="https://makecode.microbit.org/_CLmEXUVf6bbW"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

@@ -105,7 +105,7 @@ While `on start`, set to show an icon, while button A being pressed, make the se
 
 ### Program
 
-Reference link: [https://makecode.microbit.org/_abKfLKhV4V99](https://makecode.microbit.org/_abKfLKhV4V99)
+Reference link: [https://makecode.microbit.org/_ib90KUXUUhVU](https://makecode.microbit.org/_ib90KUXUUhVU)
 
 You may download it directly here:
 
@@ -117,7 +117,7 @@ You may download it directly here:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_abKfLKhV4V99"
+        src="https://makecode.microbit.org/_ib90KUXUUhVU"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

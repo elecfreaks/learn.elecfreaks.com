@@ -49,7 +49,7 @@ sidebar_label: Case 03:Line Tracking
 
 ### Link
 
-- Link: [https://makecode.microbit.org/_Tc45z4cwMaLE](https://makecode.microbit.org/_Tc45z4cwMaLE)
+- Link: [https://makecode.microbit.org/_RY4UwLfjcUjc](https://makecode.microbit.org/_RY4UwLfjcUjc)
 - You may also download it directly below:
 
 <div
@@ -60,7 +60,7 @@ sidebar_label: Case 03:Line Tracking
     }}
 >
     <iframe
-        src="​https://makecode.microbit.org/_Tc45z4cwMaLE"
+        src="​https://makecode.microbit.org/_RY4UwLfjcUjc"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

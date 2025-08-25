@@ -48,7 +48,7 @@ Judge the instructions given from the pressed buttons while receiving IR signals
 
 ### Link
 
-Link：[https://makecode.microbit.org/_0sqE05ecEehv](https://makecode.microbit.org/_0sqE05ecEehv)
+Link：[https://makecode.microbit.org/_c80TqtiypMUC](https://makecode.microbit.org/_c80TqtiypMUC)
 
 You can also download it directly below:
 
@@ -60,7 +60,7 @@ You can also download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_0sqE05ecEehv"
+        src="https://makecode.microbit.org/_c80TqtiypMUC"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

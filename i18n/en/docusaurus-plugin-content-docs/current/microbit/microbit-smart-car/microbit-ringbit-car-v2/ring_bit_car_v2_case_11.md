@@ -128,7 +128,7 @@ Send the value of x and y via radio.
 
 ### Link
 
-Link：[https://makecode.microbit.org/_Ct3UpWKx3eb0](https://makecode.microbit.org/_Ct3UpWKx3eb0)
+Link：[https://makecode.microbit.org/_Ux6DsH3vm4m5](https://makecode.microbit.org/_Ux6DsH3vm4m5)
 
 You may also download it directly below:
 
@@ -140,7 +140,7 @@ You may also download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_Ct3UpWKx3eb0"
+        src="https://makecode.microbit.org/_Ux6DsH3vm4m5"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

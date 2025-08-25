@@ -131,7 +131,7 @@ In order to programme the joystick:bit V2, we need to add an extension library. 
 
 ### Reference
 
-Link: [https://makecode.microbit.org/_DHyiYdULjKg0](https://makecode.microbit.org/_DHyiYdULjKg0)
+Link: [https://makecode.microbit.org/_YMeUyvcFsJAF](https://makecode.microbit.org/_YMeUyvcFsJAF)
 
 You can also download the links directly:
 
@@ -143,7 +143,7 @@ You can also download the links directly:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_DHyiYdULjKg0"
+        src="https://makecode.microbit.org/_YMeUyvcFsJAF"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -161,7 +161,7 @@ You can also download the links directly:
 
 ### Reference
 
-Link: [https://makecode.microbit.org/_dJEd2JUesXHy](https://makecode.microbit.org/_dJEd2JUesXHy)
+Link: [https://makecode.microbit.org/_UgbbY1cMEXuo](https://makecode.microbit.org/_UgbbY1cMEXuo)
 
 You can also download the links directly:
 
@@ -173,7 +173,7 @@ You can also download the links directly:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_dJEd2JUesXHy"
+        src="https://makecode.microbit.org/_UgbbY1cMEXuo"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

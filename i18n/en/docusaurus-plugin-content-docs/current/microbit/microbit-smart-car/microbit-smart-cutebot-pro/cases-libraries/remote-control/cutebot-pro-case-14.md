@@ -48,7 +48,7 @@ In group discussions, students are encouraged to share their views and ideas.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot-pro/cases-libraries/remote-control/images/cutebot-pro-case-14-02.png)
 
-Link：[https://makecode.microbit.org/_6LW3TzF0DYXX](https://makecode.microbit.org/_6LW3TzF0DYXX)
+Link：[https://makecode.microbit.org/_bP46kxeuUDpE](https://makecode.microbit.org/_bP46kxeuUDpE)
 
 You can also download the program directly from the following web page.
 
@@ -60,7 +60,7 @@ You can also download the program directly from the following web page.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_6LW3TzF0DYXX"
+        src="https://makecode.microbit.org/_bP46kxeuUDpE"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

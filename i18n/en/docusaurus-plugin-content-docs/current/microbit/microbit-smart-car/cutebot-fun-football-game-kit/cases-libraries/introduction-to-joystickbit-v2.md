@@ -121,7 +121,7 @@ To program joysticks: bit, we need to add a software library for joysticks: bit.
 
 ### Sample program
 
-Sample Program:[https://makecode.microbit.org/_FgL6MY6L7YVq](https://makecode.microbit.org/_FgL6MY6L7YVq)
+Sample Program:[https://makecode.microbit.org/_5hxM9kdAsMUF](https://makecode.microbit.org/_5hxM9kdAsMUF)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-01.png)
 
@@ -135,7 +135,7 @@ You can also download the program directly from the following page.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_FgL6MY6L7YVq"
+        src="https://makecode.microbit.org/_5hxM9kdAsMUF"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

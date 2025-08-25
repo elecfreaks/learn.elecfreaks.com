@@ -48,7 +48,7 @@ Drag ``reverse at full speed` brick into `on button B pressed` brick.
 
 ### Programming
 
-Links: [https://makecode.microbit.org/_c95AfgFdWiPH](https://makecode.microbit.org/_c95AfgFdWiPH)
+Links: [https://makecode.microbit.org/_1ha3HA0dD6z5](https://makecode.microbit.org/_1ha3HA0dD6z5)
 
 You can also download it directly below:
 
@@ -60,7 +60,7 @@ You can also download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_c95AfgFdWiPH"
+        src="https://makecode.microbit.org/_1ha3HA0dD6z5"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

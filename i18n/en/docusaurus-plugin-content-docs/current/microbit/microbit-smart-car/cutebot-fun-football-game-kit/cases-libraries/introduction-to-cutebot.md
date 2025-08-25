@@ -157,7 +157,7 @@ Search for `cutbot` on the pop-up page and click to select the cutbot repository
 
 
 
-Sample Programs:[https://makecode.microbit.org/_bV3cyW8JDPp7](https://makecode.microbit.org/_bV3cyW8JDPp7)
+Sample Programs:[https://makecode.microbit.org/_cKvJ6XP6PTD7](https://makecode.microbit.org/_cKvJ6XP6PTD7)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-01.png)
 
@@ -171,7 +171,7 @@ You can also download the program directly from the following webpage.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_bV3cyW8JDPp7"
+        src="https://makecode.microbit.org/_cKvJ6XP6PTD7"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -219,7 +219,7 @@ Pressing key A of micro:bit moves the cart forward at 100%.
 
 #### sets the cart to run at a fixed speed in a certain direction for a specified time.
 
-Sample Program:[https://makecode.microbit.org/_6sc5d0ij3WL9](https://makecode.microbit.org/_6sc5d0ij3WL9)
+Sample Program:[https://makecode.microbit.org/_Utm8UM0gzY7H](https://makecode.microbit.org/_Utm8UM0gzY7H)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-02.png)
 
@@ -233,7 +233,7 @@ Sample Program:[https://makecode.microbit.org/_6sc5d0ij3WL9](https://makecode.mi
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_6sc5d0ij3WL9"
+        src="https://makecode.microbit.org/_Utm8UM0gzY7H"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -247,7 +247,7 @@ Sample Program:[https://makecode.microbit.org/_6sc5d0ij3WL9](https://makecode.mi
 
 #### Set the cart to move forward at full speed.
 
-Sample Program :[https://makecode.microbit.org/_eup6qgbb2gYz](https://makecode.microbit.org/_eup6qgbb2gYz)
+Sample Program :[https://makecode.microbit.org/_iufW60UPmJsH](https://makecode.microbit.org/_iufW60UPmJsH)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-03.png)
 
@@ -261,7 +261,7 @@ You can also download the program directly from the following web.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_eup6qgbb2gYz"
+        src="https://makecode.microbit.org/_iufW60UPmJsH"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -275,7 +275,7 @@ You can also download the program directly from the following web.
 
 #### Set the cart to go backward at full speed.
 
-Sample program :[https://makecode.microbit.org/_acjeice30TKp](https://makecode.microbit.org/_acjeice30TKp)
+Sample program :[https://makecode.microbit.org/_8wmD9bCoMAys](https://makecode.microbit.org/_8wmD9bCoMAys)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-04.png)
 
@@ -289,7 +289,7 @@ You can also download the program directly from the following web.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_acjeice30TKp"
+        src="https://makecode.microbit.org/_8wmD9bCoMAys"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -303,7 +303,7 @@ You can also download the program directly from the following web.
 
 #### Set the cart to turn left at full speed.
 
-Sample program :[https://makecode.microbit.org/_0PfPA7f83Rmo](https://makecode.microbit.org/_0PfPA7f83Rmo)
+Sample program :[https://makecode.microbit.org/_XW9FFjg7fb95](https://makecode.microbit.org/_XW9FFjg7fb95)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-05.png)
 
@@ -317,7 +317,7 @@ You can also download the program directly from the following web.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_0PfPA7f83Rmo"
+        src="https://makecode.microbit.org/_XW9FFjg7fb95"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -331,7 +331,7 @@ You can also download the program directly from the following web.
 
 #### Set the cart to turn right at full speed.
 
-Sample program :[https://makecode.microbit.org/_Pz2ebkPvH8p1](https://makecode.microbit.org/_Pz2ebkPvH8p1)
+Sample program :[https://makecode.microbit.org/_0vpWTe1Uo78d](https://makecode.microbit.org/_0vpWTe1Uo78d)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-06.png)
 
@@ -345,7 +345,7 @@ You can also download the program directly from the following web.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_Pz2ebkPvH8p1"
+        src="https://makecode.microbit.org/_0vpWTe1Uo78d"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -359,7 +359,7 @@ You can also download the program directly from the following web.
 
 #### Set the cart to stop immediately.
 
-Sample program :[https://makecode.microbit.org/_XDDPKvarbfrK](https://makecode.microbit.org/_XDDPKvarbfrK)
+Sample program :[https://makecode.microbit.org/_W30fPxcLs5Cs](https://makecode.microbit.org/_W30fPxcLs5Cs)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-07.png)
 
@@ -373,7 +373,7 @@ You can also download the program directly from the following web.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_XDDPKvarbfrK"
+        src="https://makecode.microbit.org/_W30fPxcLs5Cs"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -387,7 +387,7 @@ You can also download the program directly from the following web.
 
 #### Set the headlight of the cart to the preset color.
 
-Sample program :[https://makecode.microbit.org/_FxxXC2e6LTHF](https://makecode.microbit.org/_FxxXC2e6LTHF)
+Sample program :[https://makecode.microbit.org/_1AU1TkXkbdcK](https://makecode.microbit.org/_1AU1TkXkbdcK)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-08.png)
 
@@ -401,7 +401,7 @@ You can also download the program directly from the following web.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_FxxXC2e6LTHF"
+        src="https://makecode.microbit.org/_1AU1TkXkbdcK"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -415,7 +415,7 @@ You can also download the program directly from the following web.
 
 #### Set the cart headlight color in RGB mode.
 
-Sample program :[https://makecode.microbit.org/_DJTUyJiesU9q](https://makecode.microbit.org/_DJTUyJiesU9q)
+Sample program :[https://makecode.microbit.org/_gPeV4uD2UFuH](https://makecode.microbit.org/_gPeV4uD2UFuH)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-09.png)
 
@@ -429,7 +429,7 @@ You can also download the program directly from the following web.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_DJTUyJiesU9q"
+        src="https://makecode.microbit.org/_gPeV4uD2UFuH"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -443,7 +443,7 @@ You can also download the program directly from the following web.
 
 #### Turn off the cart headlight.
 
-Sample Program :[https://makecode.microbit.org/_ersCDADdWWV4](https://makecode.microbit.org/_ersCDADdWWV4)
+Sample Program :[https://makecode.microbit.org/_eCwdWUXycY69](https://makecode.microbit.org/_eCwdWUXycY69)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-10.png)
 
@@ -457,7 +457,7 @@ You can also download the program directly from the following web.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_ersCDADdWWV4"
+        src="https://makecode.microbit.org/_eCwdWUXycY69"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -472,7 +472,7 @@ You can also download the program directly from the following web.
 
 #### Determine the status of the two roving sensors.
 
-Sample program :[https://makecode.microbit.org/_8dbgTr2ku0Ko](https://makecode.microbit.org/_8dbgTr2ku0Ko)
+Sample program :[https://makecode.microbit.org/_36hLJHC7M98x](https://makecode.microbit.org/_36hLJHC7M98x)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-11.png)
 
@@ -486,7 +486,7 @@ You can also download the program directly from the following web.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_8dbgTr2ku0Ko"
+        src="https://makecode.microbit.org/_36hLJHC7M98x"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -500,7 +500,7 @@ You can also download the program directly from the following web.
 
 #### Judge the status of the two rover sensors respectively.
 
-Sample Program :[https://makecode.microbit.org/_PwmF7fP6agxC](https://makecode.microbit.org/_PwmF7fP6agxC)
+Sample Program :[https://makecode.microbit.org/_RMcARVP8yTEj](https://makecode.microbit.org/_RMcARVP8yTEj)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-12.png)
 
@@ -514,7 +514,7 @@ You can also download the program directly from the following web.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_PwmF7fP6agxC"
+        src="https://makecode.microbit.org/_RMcARVP8yTEj"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -529,7 +529,7 @@ You can also download the program directly from the following web.
 
 #### Execute the internal program when the wire patrol head of the cart detects the corresponding state.
 
-Example program:[https://makecode.microbit.org/_cpLdyi79t9pb](https://makecode.microbit.org/_cpLdyi79t9pb)
+Example program:[https://makecode.microbit.org/_bmKdgy4KzDHo](https://makecode.microbit.org/_bmKdgy4KzDHo)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-13.png)
 
@@ -543,7 +543,7 @@ You can also download the program directly from the following web.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_cpLdyi79t9pb"
+        src="https://makecode.microbit.org/_bmKdgy4KzDHo"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -557,7 +557,7 @@ You can also download the program directly from the following web.
 
 #### Detect the distance of obstacles in front of the cart.
 
-Example program:[https://makecode.microbit.org/_czUc7rFp4Eu2](https://makecode.microbit.org/_czUc7rFp4Eu2)
+Example program:[https://makecode.microbit.org/_hoeC7gJuKVaH](https://makecode.microbit.org/_hoeC7gJuKVaH)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-14.png)
 
@@ -571,7 +571,7 @@ You can also download the program directly from the following web.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_czUc7rFp4Eu2"
+        src="https://makecode.microbit.org/_hoeC7gJuKVaH"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -585,7 +585,7 @@ You can also download the program directly from the following web.
 
 #### Set the 180° servo connected to the specified interface to rotate to the specified angle.
 
-Sample Program:[https://makecode.microbit.org/_99PFCsWEFbTR](https://makecode.microbit.org/_99PFCsWEFbTR)
+Sample Program:[https://makecode.microbit.org/_iP0g11L1Jcyj](https://makecode.microbit.org/_iP0g11L1Jcyj)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-15.png)
 
@@ -599,7 +599,7 @@ You can also download the program directly from the following web.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_99PFCsWEFbTR"
+        src="https://makecode.microbit.org/_iP0g11L1Jcyj"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -616,7 +616,7 @@ You can also download the program directly from the following web.
 
 *** Note: This case needs to be tested with an IR remote controller. ***
 
-Example program :[https://makecode.microbit.org/_LV7E45CaML5t](https://makecode.microbit.org/_LV7E45CaML5t)
+Example program :[https://makecode.microbit.org/_FteHdXcrycgu](https://makecode.microbit.org/_FteHdXcrycgu)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-16.png)
 
@@ -630,7 +630,7 @@ You can also download the program directly from the following web.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_LV7E45CaML5t"
+        src="https://makecode.microbit.org/_FteHdXcrycgu"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -646,7 +646,7 @@ You can also download the program directly from the following web.
 
 *** Note: This case needs to be tested with an infrared remote controller. ***
 
-Example program :[https://makecode.microbit.org/_7hm0LUXxAYjR](https://makecode.microbit.org/_7hm0LUXxAYjR)
+Example program :[https://makecode.microbit.org/_8Mr6dbJY1L9y](https://makecode.microbit.org/_8Mr6dbJY1L9y)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/cutebot-fun-football-game-kit/cases-libraries/images/microbit-cutebot-block-17.png)
 
@@ -660,7 +660,7 @@ You can also download the program directly from the following web.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_7hm0LUXxAYjR"
+        src="https://makecode.microbit.org/_8Mr6dbJY1L9y"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

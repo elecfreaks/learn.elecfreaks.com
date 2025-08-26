@@ -102,7 +102,7 @@ For Joystick:bit:
 程序链接：[https://makecode.microbit.org/_f5DVqMKrtgYA](https://makecode.microbit.org/_f5DVqMKrtgYA)
 For the aerial ladder truck:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-18-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-18-07.png)
 
 程序链接：[https://makecode.microbit.org/_V004ujT5wJ9j](https://makecode.microbit.org/_V004ujT5wJ9j)
 

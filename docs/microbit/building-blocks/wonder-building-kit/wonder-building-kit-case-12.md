@@ -105,3 +105,15 @@ sidebar_label: Case 12:小铲车
 开启之后，当按下micro:bit上面的按键A时，铲车向前行驶并执行抬升动作。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-11.gif)
+
+
+## 扩展案例——遥控小铲车
+
+手柄程序：[https://makecode.microbit.org/_f5DVqMKrtgYA](https://makecode.microbit.org/_f5DVqMKrtgYA)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-12-07.png)
+
+
+小车程序：[https://makecode.microbit.org/_VcEPXd2Ds2Wh](hhttps://makecode.microbit.org/_VcEPXd2Ds2Wh)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-12-08.png)

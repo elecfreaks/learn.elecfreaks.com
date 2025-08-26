@@ -127,3 +127,17 @@ sidebar_label: Case 08:机械臂
 开启之后，通过A、B按键控制机械臂左右转动，通过徽标控制机械臂放下/抬升，通过A+B按键控制机械爪抓取/松开。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-08.gif)
+
+
+
+## 扩展案例——遥控机械臂
+
+
+手柄程序：[https://makecode.microbit.org/_X8fi3JXR4Ybp](https://makecode.microbit.org/_X8fi3JXR4Ybp)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-08-07.png)
+
+
+机械臂程序：[https://makecode.microbit.org/_544Vadd8sHJc](https://makecode.microbit.org/_544Vadd8sHJc)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-08-08.png)

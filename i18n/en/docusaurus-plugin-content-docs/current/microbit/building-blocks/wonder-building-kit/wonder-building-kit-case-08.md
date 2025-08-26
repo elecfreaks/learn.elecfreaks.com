@@ -144,3 +144,14 @@ Link:[https://makecode.microbit.org/_L5YAk7b887dC](https://makecode.microbit.org
 Control the robot arm with the Joystick:bit, the left and right direction of the handle rocker controls the rotation of the robot arm to the left and right, the up and down direction of the handle rocker controls the rise and fall of the robot arm, the C button controls the clamping of the robot arm, and the D button controls the release of the robot arm clamp.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-08.gif)
+
+
+## Extended Case Study - Remote Controlled Robotic Arm
+
+Handle Program: [https://makecode.microbit.org/_X8fi3JXR4Ybp](https://makecode.microbit.org/_X8fi3JXR4Ybp)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-08-07 .png)
+
+Robotic Arm Program: [https://makecode.microbit.org/_544Vadd8sHJc](https://makecode.microbit.org/_544Vadd8sHJc)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-08-08.png)

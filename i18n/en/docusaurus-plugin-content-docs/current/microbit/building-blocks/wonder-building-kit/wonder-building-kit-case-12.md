@@ -115,3 +115,15 @@ Link:[https://makecode.microbit.org/_UoAP69ArTfyT](https://makecode.microbit.org
 Use the handle to control the forklift, the up and down, left and right directions of the handle rocker are to control the forward and backward, the left and right movement of the forklift, D button to control the raisin of the forklift, C button to control the lowering of it.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/wonder-building-kit-case-12.gif)
+
+
+
+## Extended Example - Remote Controlled Forklift
+
+Handle Program: [https://makecode.microbit.org/_f5DVqMKrtgYA](https://makecode.microbit.org/_f5DVqMKrtgYA)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-12-07 .png)
+
+Car program: [https://makecode.microbit.org/_VcEPXd2Ds2Wh](hhttps://makecode.microbit.org/_VcEPXd2Ds2Wh)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-12-08.png)

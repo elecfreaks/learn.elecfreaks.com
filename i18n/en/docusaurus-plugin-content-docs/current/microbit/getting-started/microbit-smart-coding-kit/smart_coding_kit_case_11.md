@@ -1,4 +1,4 @@
-# Case 1: Simple AI Exercise Timer
+# Case 11: Simple AI Exercise Timer
 
 ## Introduction
 
@@ -6,7 +6,7 @@ By comparing the trained data model and downloading it to the micro:bit board, p
 
 ## Purpose of the Case
 
-1. Learn the basic operations of Create AI projects.
+Learn the basic operations of Create AI projects.
 
 ## Required Materials
 

@@ -1,4 +1,4 @@
-# Case 5: Gesture-Controlled Car
+# Case 15: Gesture-Controlled Car
 
 ## Introduction
 
@@ -6,7 +6,7 @@ Control the movements of the Cutebot car through custom gestures that are collec
 
 ## Purpose of the Case
 
-1. Learn the data collection method for Create AI custom gestures.
+Learn the data collection method for Create AI custom gestures.
 
 ___
 ## Required Materials

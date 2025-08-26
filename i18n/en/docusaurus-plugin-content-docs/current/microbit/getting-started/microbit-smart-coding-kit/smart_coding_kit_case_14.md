@@ -1,4 +1,4 @@
-# Case 4: Door and Window Alarm
+# Case 14: Door and Window Alarm
 
 ## Introduction
 
@@ -7,7 +7,7 @@ By collecting and training the gyroscope data of a door or window being opened, 
 ___
 ## Purpose of the Case
 
-1. Learn the method of collecting data for Create AI custom gestures.
+Learn the method of collecting data for Create AI custom gestures.
 
 ## Required Materials
 

@@ -138,3 +138,5 @@ Click to download the program.
 ### Result
 
 When the water level sensor detects water accumulation, it will automatically turn on the red light for prompt.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-10.gif)

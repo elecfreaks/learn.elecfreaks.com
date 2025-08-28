@@ -144,3 +144,6 @@ When the temperature and humidity sensor detects that the temperature or humidit
 ## Extended Knowledge
 
 Generally speaking, the suitable temperature and humidity standards for book preservation are: the temperature is controlled between 14℃ and 24℃, and the relative humidity is controlled between 45% and 60%. When the temperature is higher than 24℃ or lower than 14℃, and the humidity is higher than 60% or lower than 45%, it may cause damage to books. High temperature can easily make the book paper brittle and yellow; high humidity can easily breed mold and cause paper to stick; low humidity can make the paper dry and brittle, reducing the life of books. Applying this standard to intelligent devices, we can monitor and warn through temperature and humidity sensors.
+
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-11.gif)

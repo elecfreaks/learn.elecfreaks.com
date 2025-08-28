@@ -141,3 +141,5 @@ Click to download the program.
 ### Result
 
 When the temperature and humidity sensor detects that the humidity is too high, it will automatically ventilate.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-09.gif)

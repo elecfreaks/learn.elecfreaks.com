@@ -3,7 +3,7 @@ sidebar_position: 5
 sidebar_label: 案例五：智能气候站
 ---
 
-# 案例四：环境灰尘监测装置
+# 案例五：智能气候站
 
 ## 简介
 
@@ -35,9 +35,6 @@ sidebar_label: 案例五：智能气候站
 
 这些材料将为您提供一个完整的体验，确保您可以顺利地进行后续的操作和学习。如果您已准备好以上内容，我们可以继续进入下一步。
 
-为了更好的将风速传感器安装到ELECFREAKS Smart Home Material Pack上，我们可以通过激光切割制作一个简单的结构件。
-
-请查看以下文件：
 
 ## 教学过程
 
@@ -58,7 +55,6 @@ sidebar_label: 案例五：智能气候站
 ### 硬件连接
 
 风速传感器连接到P1接口，紫外线传感器连接到P2接口，灰尘传感器的LED连接到P3接口，out连接到P4接口，DHT11温湿度传感器连接到P10接口，并将OLED显示屏安装在IoT:bit上。
-
 
 
 ### 代码编程
@@ -84,7 +80,7 @@ sidebar_label: 案例五：智能气候站
 *** 示例代码 ***
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-case-04-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-case-05-07.png)
 
 
 请参考程序连接：[https://makecode.microbit.org/_a7sXEcgtc1M3](https://makecode.microbit.org/_a7sXEcgtc1M3)

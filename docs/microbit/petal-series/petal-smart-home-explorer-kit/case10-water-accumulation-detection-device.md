@@ -138,3 +138,5 @@ sidebar_label: 积水检测装置
 ### 结果
 
 当水位传感器检测到积水的时候，自动点亮红色灯光进行提示。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-10.gif)

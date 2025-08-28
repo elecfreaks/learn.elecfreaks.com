@@ -139,3 +139,5 @@ sidebar_label: 衣柜除湿装置
 ### 结果
 
 当温湿度传感器检测到湿度过高的时候，自动通风。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-09.gif)

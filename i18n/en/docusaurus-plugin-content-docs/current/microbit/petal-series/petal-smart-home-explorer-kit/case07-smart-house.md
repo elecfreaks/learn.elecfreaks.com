@@ -145,4 +145,4 @@ Click to download the program.
 - **Temperature-Controlled Fan**: Automatically regulates temperature.
 - **Living Environment Detection**: The OLED display shows real-time temperature, humidity, noise, light intensity, and whether it is raining.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/1.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-07.gif)

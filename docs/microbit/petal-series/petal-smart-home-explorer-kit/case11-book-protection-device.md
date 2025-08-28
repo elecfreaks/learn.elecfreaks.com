@@ -142,3 +142,5 @@ sidebar_label: 书籍保护装置
 ## 扩展知识
 
 一般来说，适合书籍保存的温湿度标准为：温度控制在 14℃ - 24℃ ，相对湿度控制在 45% - 60% 。当温度高于 24℃或低于 14℃，湿度高于 60% 或低于 45% 时，都可能对书籍造成损害。温度过高，书籍纸张易变脆、发黄；湿度过高，容易滋生霉菌、导致纸张粘连；湿度过低，纸张会变干发脆，降低书籍寿命。将这个标准应用到智能设备中，就可以通过温湿度传感器进行监测和警示。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-11.gif)

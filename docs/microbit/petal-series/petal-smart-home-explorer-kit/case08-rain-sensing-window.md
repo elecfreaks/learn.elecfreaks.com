@@ -148,4 +148,4 @@ sidebar_label: 雨水感应窗户
 
 当检测到雨水时，自动驱动舵机升起窗沿挡板防止雨水溅入室内，同时 OLED 显示器显示 “雨天模式”，彩虹灯呈现蓝色呼吸灯效，为家居生活提供智能防护。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/1.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-08.gif)

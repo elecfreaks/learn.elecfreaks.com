@@ -88,7 +88,7 @@ Search with "IOT" in the dialogue box and get it downloaded.
 *** Sample Code ***
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-case-04-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-case-05-07.png)
 
 
 Link: [https://makecode.microbit.org/_9XChAW3gqg6K](https://makecode.microbit.org/_9XChAW3gqg6K)

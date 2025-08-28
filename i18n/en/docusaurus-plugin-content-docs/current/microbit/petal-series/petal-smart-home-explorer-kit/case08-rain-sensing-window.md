@@ -145,4 +145,4 @@ Click to download the program.
 
 When rain is detected, the servo motor is automatically driven to raise the window sill baffle to prevent rainwater from splashing into the room. At the same time, the OLED display shows "Rainy Mode", and the rainbow light presents a blue breathing light effect, providing intelligent protection for home life.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/1.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-08.gif)

@@ -140,3 +140,5 @@ sidebar_label: 智能控噪门窗
 ### 结果
 
 当水位传感器检测到积水的时候，自动点亮红色灯光进行提示。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-12.gif)

@@ -154,4 +154,4 @@ sidebar_label: 智能房屋
   - 温控风扇：自动控温风扇
   - 居住环境检测：通过OLED显示屏显示当前的温湿度、噪音、光线强度、是否降雨等信息
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-life-kit/1.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-07.gif)

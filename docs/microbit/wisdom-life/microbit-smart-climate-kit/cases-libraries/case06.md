@@ -74,7 +74,7 @@ sidebar_label: 案例六：智能气象站&SmartIoT
 
 风速传感器连接到P1接口，紫外线传感器连接到P2接口，灰尘传感器的LED连接到P3接口，out连接到P4接口，DHT11温湿度传感器连接到P10接口，并将OLED显示屏安装在IoT:bit上。
 
-### SmartIoT平台
+### SmartIoT平台设置
 
 平台链接：[https://www.smartiot.space/](https://www.smartiot.space/)
 
@@ -353,38 +353,6 @@ TOPIC，设备唯一识别码，连接时需要指定上传设备。设备号（
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/smartiot-35.png)
 
-### 饼状图
-
-最多可显示8组数据，便于呈现数据占比关系。
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/smartiot-44.png)
-
-### 仪表盘
-
-可显示1组数据，直观展示关键指标。
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/smartiot-45.png)
-
-可设置不同阈值区间的表盘颜色
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/smartiot-46.png)
-
-### 数据显示
-
-可显示1组数据，精确呈现具体数据数值。
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/smartiot-47.png)
-
-### 状态指示灯
-
-可显示1组数据，实现数据可视化预警。
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/smartiot-48.png)
-
-可设置不同阈值区间的LED灯的颜色
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/smartiot-49.png)
-
 ### 团队合作与展示
 
 学生分成小组，共同完成案例的制作和程序编写。
@@ -393,60 +361,39 @@ TOPIC，设备唯一识别码，连接时需要指定上传设备。设备号（
 
 每个小组有机会向其他小组展示他们制作的案例，并演示。
 
-*** 预期效果：连接电源后，在OLED显示屏上显示当前温湿度、风速、紫外线强度、噪音强度、灰尘浓度。 ***
+*** 预期效果：连接电源后，在SmartIoT上显示当前风速、紫外线强度、灰尘量、温度、湿度、噪音强度。 ***
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-05.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-06-09.png)
+
+上传数据到SmartIoT之后，通过数据导出按钮将上传的数据导出为EXCEL表格。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-06-10.png)
+
+通过Deepseek进行简单的数据分析。
+
+打开[Deepseek](https://chat.deepseek.com/)
+
+通过文件上传按钮将数据上传到Deepseek。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-06-11.png)
+
+
+输入提示词，让Deepseek基于文件数据进行分析。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-06-12.png)
+
+
 
 ### 总结与反思
 
-回顾课程内容，提醒学生掌握了哪些知识和技能。
+小组整理分析结论：将 AI 给出的趋势图描述、相关性结论，结合 SmartIoT 的可视化图表，形成小组分析报告。
 
-引导学生讨论他们在制作过程中遇到的问题和困难，以及如何解决这些问题。
+说明 “数据从采集到分析” 的全流程，分享遇到的问题（如 WiFi 调试、数据格式错误）及解决方法；
 
-引导学生主动了解气候变化的原因和影响，以及国际社会为减缓气候变化所采取的行动。
+重点关注数据上传成功率、AI 分析结论的合理性，鼓励创新思路（如调整采集频率优化分析精度）。
 
-## 扩展知识
+知识回顾：梳理 “传感器采集→WiFi 传输→SmartIoT 存储可视化→AI 分析” 的技术链，强调每一步的关键节点（如数据格式、API 密钥）；
 
-### 气候变化的原因和影响
+问题反思：“如果想让 AI 分析更准确，我们可以优化哪些环节？”（如延长数据采集时间、增加样本量、校准传感器精度）；
 
-气候变化的原因和影响是一个复杂而广泛的话题，这里我们简单的了解一些基本的信息：
-
-原因：
-
-温室气体排放：人类活动导致了大量温室气体的排放，主要包括二氧化碳（CO2）、甲烷（CH4）、氧化亚氮（N2O）等。这些气体在大气中形成一个"温室效应"，使得地球的表面温度升高。
-
-化石燃料的使用：燃烧化石燃料如煤、石油和天然气释放出大量的二氧化碳。这是主要的温室气体排放来源之一。
-
-森林砍伐：森林是地球上最重要的二氧化碳吸收者之一，但大规模的森林砍伐导致了二氧化碳的释放，破坏了森林的吸收能力。
-
-工业活动：工业过程的能源使用和排放也是温室气体的重要来源。
-
-影响：
-
-气候极端事件增加：气候变化导致了更频繁和更严重的极端天气事件，如暴雨、干旱、飓风和洪水等。这些事件对人类的生活、农业、基础设施和生态系统造成严重影响。
-
-海平面上升：全球变暖导致冰川和极地冰层融化，从而导致海平面上升。这将威胁沿海地区的居民和生态系统，增加海洋侵蚀和洪涝风险。
-
-生物多样性丧失：气候变化对生态系统产生压力，导致物种灭绝和生物多样性的丧失。许多动植物无法适应快速变化的气候条件，生态平衡受到破坏。
-
-农业和粮食安全威胁：气候变化对农作物生长季节、水资源和农业病虫害等产生影响，威胁到粮食安全和农民的生计。
-
-健康风险增加：气候变化导致空气污染、疾病传播和饮用水供应问题。极端热浪和自然灾害还会对人类健康产生直接影响。
-
-这些只是气候变化原因和影响的一小部分，它们之间相互交织，对我们的星球和我们自身的生活产生深远的影响。因此，对气候变化问题的认识和应对变得尤为重要。
-
-### 国际社会为减缓气候变化所采取的行动
-
-国际社会为减缓气候变化所采取的行动包括以下几个主要方面：
-
-1. 《巴黎协定》：巴黎协定是联合国于2015年通过的一项重要国际气候变化协议。该协定旨在通过全球合作控制全球变暖，将全球平均气温上升控制在1.5摄氏度以内，并采取行动减少温室气体排放。各国自愿提交减排目标，并定期向联合国报告其减排进展。
-
-2. 温室气体减排承诺：许多国家采取了具体的减排承诺。其中，一些国家承诺实现碳中和，即在特定时间将自己的温室气体排放量降至零或将排放量与吸收量平衡。一些国家还制定了具体的减排目标和政策，促进可再生能源的发展，提高能源效率，并推动清洁能源转型。
-
-3. 可再生能源推广：国际社会鼓励和支持可再生能源的发展和应用，如太阳能、风能、水能等。许多国家采取了政策和措施，通过减少对化石燃料的依赖，促进可再生能源的使用，以减少温室气体的排放。
-
-4. 国际合作和技术转让：各国在减缓气候变化方面开展广泛的合作和技术转让。发达国家向发展中国家提供资金、技术和能力建设支持，帮助他们应对气候变化挑战并实现可持续发展。
-
-5. 推动可持续发展议程：可持续发展议程是联合国的全球发展框架，旨在实现经济、社会和环境的可持续发展。减缓气候变化是可持续发展目标之一，各国在推动可持续发展议程中也积极采取行动，以实现气候变化和可持续发展的双重目标。
-
-这些行动代表了国际社会在减缓气候变化方面的努力和合作。然而，面对气候变化的挑战，仍需要进一步加强国际合作，采取更加积极和有力的行动，以实现全球气候的可持续未来。
+行动延伸：鼓励学生课后用气候站监测家庭 / 校园环境，将 AI 分析结论反馈给学校环保社团，提出具体环保建议（如 “午间紫外线强，建议户外活动戴防晒帽”）。

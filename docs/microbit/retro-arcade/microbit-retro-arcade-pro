@@ -1,227 +1,188 @@
-# micro:bit Retro Arcade
+# micro:bit Retro Arcade Pro
 
-## Product introduction
+## 产品介绍
 
-micro:bit Retro Arcade is a color screen joystick expansion board for micro:bit V2, it contains a TFT 160*128 color screen, 4 directional buttons, two A/B buttons and a reset button. micro:bit Retro Arcade can be used with micro:bit V2 to program games online and play offline on the Microsoft Arcade programming platform. It is a simple and fun way to help children write their own games and understand the mystery behind them. It also supports custom game characters, diverse scenarios and plot design using graphical programming software, making it easy for everyone to achieve fun electronic creations and unlimited game ideas.
-micro:bit Retro Arcade can also be used as a remote control handle in addition to a game programming learning machine.
+micro:bit Retro Arcade Pro是一款适用于micro:bit V2的彩屏摇杆扩展板，配备240*320分辨率TFT彩屏、4向方向按键、两个A/B功能键以及一个复位键，一个菜单键。该扩展板可与micro:bit V2配合，在微软Arcade编程平台上进行在线游戏编程，并支持离线游玩。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-01.png)
+这是一种简单有趣的方式，能帮助孩子们编写自己的游戏，并了解游戏背后的奥秘。同时，它还支持通过图形化编程软件自定义游戏角色、设计丰富多样的场景与剧情，让所有人都能轻松实现有趣的电子创作，将无限的游戏创意变为现实。
+
+除用作游戏编程学习设备外，micro:bit复古街机扩展板还可作为遥控手柄使用。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-pro-01.png)
 
 
-## Purchase link
-
+## 购买链接
 <!--[Microbit Retro Arcade]()-->
 
-## Features
+## 功能特点
 
-- It can be used as a remote control handle to communicate with the robot trolley
-- It can be used as an extended game handheld to create individual games through graphical programming
+- 可作为遥控手柄，与机器人小车进行通信控制
+- 可作为扩展游戏掌机，通过图形化编程打造个性化游戏
 
-## Basic parameters
+## 基本参数
 
-| Projects | Parameters |
+| 项目（Projects） | 参数（Parameters） |
 |---|---|
-| Screen Type | TFT screen |
-| Screen size | 128 x 160 |
-| Size | 13.79cm x 8.13cm |
-| Net weight | 52g |
-| Power supply method | Dry Battery |
+| 屏幕类型（Screen Type） | 2.4TFT屏幕 |
+| 屏幕尺寸（Screen Size） | 240×320（分辨率） |
+| 产品尺寸（Size） |  |
+| 净重（Net Weight） |  |
+| 供电方式（Power Supply Method） | 锂电池供电 |
+| 充电电压 | 5V |
+| 充电电流 | 1A |
+| 传感器扩展 | 支持jacdac传感器 |
+| 积木件兼容 | 支持 |
 
-<!--## Form and size positioning
+## 指示灯状态
+- 低电量(剩余20%可用电)：红灯
+- 充电中：红灯闪烁
+- 电量充满：绿灯
+- 电量耗尽时，红灯闪烁五秒，并自动关机
+
+<!--## 外形及尺寸定位
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-02.png)
 
-
-
-
-## Introduction of functional modules
-
+## 功能模块介绍
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-03.png)-->
 
 
-### Installation steps
+### 安装步骤
+1. 组装micro:bit复古街机扩展板
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-04.png)
+2. 安装电池
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-05.png)
+3. 打开电源
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-06.png)
+4. 将micro:bit V2与扩展板组合，并使用microUSB线连接至micro:bit V2。
 
-Assemble the micro:bit retro arcade
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-04.png)
+## 游戏编程指南
+欢迎学习Retro Arcade（复古街机扩展板）的使用！如需更多信息，请参考：[https://arcade.makecode.com/](https://arcade.makecode.com/)
 
-install battery
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-05.png)
-
-turn on the power
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-06.png)
-
-The micro:bit V2 is combined with an expansion board and microUSB is connected to the micro:bit V2.
-
-## Game Programming Guide
-
-Welcome to learning Retro Arcade! For more information, please refer to: [https://arcade.makecode.com/](https://arcade.makecode.com/)
-
-Click on the corresponding project to access the project tutorial and learn through the process of game development.
+点击对应的项目即可进入项目教程，通过游戏开发流程逐步学习。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-28.png)
 
->At this time, if power is supplied from the micro:bit V2 side, the power switch of the expansion board will be on regardless of the switch.
->The expansion board power switch will control the power supply from the expansion board side.
+> 注意：若从micro:bit V2端供电，无论扩展板的电源开关处于何种状态，扩展板都会通电；扩展板的电源开关仅控制从扩展板端接入的供电。
 
-## Programming Platform
 
-Arcade game programming platform address: [https://arcade.makecode.com](https://arcade.makecode.com)
+## 编程平台
+Arcade游戏编程平台地址：[https://arcade.makecode.com](https://arcade.makecode.com)
 
-### Programming page introduction
-
-1. Click on the section numbered 1 and enter the project name to create a project to start programming
-2. The following part of number 2 is a simple tutorial provided by some platforms and the game works shared by the community
+### 编程页面介绍
+1. 点击编号1对应的区域，输入项目名称即可创建项目，开始编程
+2. 编号2下方的区域包含平台提供的简易教程及社区分享的游戏作品
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-08.png)
 
-**Introduction to the programming interface, for the basic introduction to the first roughly divided into 3 parts need to understand**
-
-1. Online simulator: Simulate the running effect in real time according to the logic of the code
-2. Programming blocks bar: we drag in programming code from here for programming
-3. Code editing area: we drag out the code from the block bar and put it together here to finish building the image, interface and logic of the game
+**编程界面介绍：新手入门需先了解以下3个核心部分**
+1. 在线模拟器：根据代码逻辑实时模拟程序运行效果
+2. 编程积木栏：从这里拖拽编程积木进行代码编写
+3. 代码编辑区：将积木栏中的积木拖拽至此，拼接组合，完成游戏的图像、界面及逻辑搭建
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-09.png)
 
-## Rapid Creation
 
-Click New Project.
+## 快速创作
+1. 点击“New Project”（新建项目）
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-10.png)
+2. 输入项目名称，创建新项目
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-11.png)
+3. 创建角色（精灵）：点击积木中的灰色矩形，打开图像编辑器
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-12.png)
+4. 自定义角色图像，或直接从素材库中选择预设角色；通过“按键控制角色移动”积木，实现角色的运动控制
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-13.png)
+5. 设置屏幕背景颜色
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-14.png)
+6. 为防止角色移出屏幕，设置角色始终在屏幕范围内活动
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-15.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-10.png)
 
-Enter a project name to create a new project.
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-11.png)
-
-
-Create sprites and click on the gray rectangle in the block to open the image editor.
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-12.png)
-
-Customize the sprite image or just select a preset sprite from the gallery.
-Control sprite movement by moving the sprite blocks with the buttons.
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-13.png)
-
-Set the screen background color.
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-14.png)
-
-To prevent the sprite from moving out of the screen screen, set the sprite to be within the screen range.
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-15.png)
-
-## Game Download
-
-### Download steps
-
-Since the micro:bit V2 (nRF52833) is still in beta for the Arcade platform officials, we need to first go to the platform's settings page to open up the hardware options that are still in the trial version.
+## 游戏下载
+### 下载步骤
+由于micro:bit V2（搭载nRF52833芯片）在Arcade平台官方仍处于测试版（beta）阶段，需先进入平台设置页面，开启仍处于试用阶段的硬件选项。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-16.png)
 
-
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-17.png)
 
-Make sure Expermental Hardware is enabled (you only need to set it once)
-
+确保“Experimental Hardware”（实验性硬件）选项已开启（此设置仅需操作一次）
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-18.png)
 
-Then go back to the programming home page, click on the download button in the bottom left corner, and in the pop-up select hardware window pull down to the bottom and select N3
-
+返回编程主页，点击左下角的“下载”按钮，在弹出的硬件选择窗口中下拉至底部，选择“N3”
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-19.png)
 
-You will get a file in .hex format, drag it into the MICROBIT drive to run it on micro:bit V2 + Microbit Retro Arcade.
+下载完成后将获得一个.hex格式的文件，将其拖拽至MICROBIT磁盘驱动器中，即可在“micro:bit V2 + micro:bit复古街机扩展板”上运行。
 
 
-## Remote Control Handle Guide
-
-### Material Preparation
-
-The following materials are required for this case.
-
+## 遥控手柄使用指南
+### 材料准备
+本案例需准备以下材料：
 - micro:bit V2 × 2
-- Microbit Retro Arcade × 1
-- Cutebot × 1
+- micro:bit复古街机扩展板（Microbit Retro Arcade）× 1
+- Cutebot智能小车 × 1
 
-### Cutebot side program
-
-Programming platform
-
-Link: [https://makecode.microbit.org/#](https://makecode.microbit.org/#)
-Create a new project to go to the programming home page
+### Cutebot小车端程序
+#### 编程平台
+链接：[https://makecode.microbit.org/#](https://makecode.microbit.org/#)
+创建新项目，进入编程主页
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-20.png)
 
-**Add extension**
+**添加扩展库**
+1. 需添加Cutebot智能赛车扩展库，点击“扩展”（Extend）按钮
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-21.png)
+2. 在搜索框中输入“cutebot”，点击搜索并添加该扩展库
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-22.png)
 
-Add the Cutebot Smart Racing Extension software library and click on the extension.
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-21.png)
-
-Type "cutebot" in the search field, click Search, and add the extensions library.
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-22.png)
-
-Writing programs .
-
+#### 编写程序
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-23.png)
 
-Link: [https://makecode.microbit.org/_gC9gJDET83xd](https://makecode.microbit.org/_gC9gJDET83xd)
+程序链接：[https://makecode.microbit.org/_gC9gJDET83xd](https://makecode.microbit.org/_gC9gJDET83xd)
 
 
-### Remote control end program
-
-**Programming Platform**
-
-Link: [https://arcade.makecode.com/#](https://arcade.makecode.com/#)
-
-Create a new project to go to the programming home page.
+### 遥控端程序
+#### 编程平台
+链接：[https://arcade.makecode.com/#](https://arcade.makecode.com/#)
+创建新项目，进入编程主页
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-24.png)
 
-**Add extension**
+**添加扩展库**
+1. 需添加无线通信扩展库，点击“扩展”（Extend）按钮
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-25.png)
+2. 在搜索框中输入“radio”，点击搜索并添加该扩展库
+   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-26.png)
 
-Add the wireless communication extension library and click Extend.
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-25.png)
-
-Type "radio" in the search field and click Search to add the extension library.
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-26.png)
-
-Writing programs .
-
+#### 编写程序
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-27.png)
 
-Link: [https://makecode.com/_1HCLTf71TFJk](https://makecode.com/_1HCLTf71TFJk)
+程序链接：[https://makecode.com/_1HCLTf71TFJk](https://makecode.com/_1HCLTf71TFJk)
 
-### Download steps
 
-Since the micro:bit V2 (nRF52833) is still in beta for the Arcade platform officials, we need to first go to the platform's settings page to open up the hardware options that are still in the trial version.
+### 下载步骤
+由于micro:bit V2（搭载nRF52833芯片）在Arcade平台官方仍处于测试版（beta）阶段，需先进入平台设置页面，开启仍处于试用阶段的硬件选项。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-16.png)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-17.png)
 
-
-Make sure Expermental Hardware is enabled (you only need to set it once)
+确保“Experimental Hardware”（实验性硬件）选项已开启（此设置仅需操作一次）
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-18.png)
 
-Then go back to the programming home page, click on the download button in the bottom left corner, and in the pop-up select hardware window pull down to the bottom and select `micro:bit Retro Shield`。
+返回编程主页，点击左下角的“下载”按钮，在弹出的硬件选择窗口中下拉至底部，选择“micro:bit Retro Shield”（micro:bit复古扩展板）。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-19.png)
 
-Click to download, you will get a file in .hex format, drag it into the MICROBIT drive to run it on micro:bit V2 + Microbit Retro Arcade.
+点击下载，将获得一个.hex格式的文件，将其拖拽至MICROBIT磁盘驱动器中，即可在“micro:bit V2 + micro:bit复古街机扩展板”上运行。
 
 
-## More Tutorials
-
-For more tutorials, please refer to: [https://arcade.makecode.com/](https://arcade.makecode.com/)
+## 更多教程
+如需更多教程，请参考：[https://arcade.makecode.com/](https://arcade.makecode.com/)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-28.png)

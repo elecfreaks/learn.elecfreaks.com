@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: Pico 小小科学家套件
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-starter-kit-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/pico-starter-kit/images/pico-starter-kit-01.png)
 
 # 简介
 

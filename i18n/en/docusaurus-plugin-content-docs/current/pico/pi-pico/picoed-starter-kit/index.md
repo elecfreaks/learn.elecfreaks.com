@@ -5,7 +5,7 @@ sidebar_label: ELECFREAKS Raspberry Pi Starter Kit
 
 # ELECFREAKS Raspberry Pi Starter Kit
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-starter-kit-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/pico-starter-kit/images/pico-starter-kit-01.png)
 
 ## Introduction
 

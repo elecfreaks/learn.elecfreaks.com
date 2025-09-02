@@ -36,8 +36,6 @@ sidebar_label: 光敏二极管
 ### 硬件连接
 根据下面的图片将你的元件连接起来：
 
-1. 将光敏二极管与P0口连接；
-2. 将10kΩ电阻与光敏二极管串联。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/pico-starter-kit/images/pico-starter-kit-case-03-08.png)
 
@@ -49,17 +47,17 @@ sidebar_label: 光敏二极管
 # 导入程序所需要的模块
 import board
 import analogio
-from digitalio import
-from time import
+import digitalio
+from time import *
 
 # 设置光敏电阻连接的引脚和读取模拟电压作为亮度的参考值
-light = AnalogIn(board.GP28)
-led_0 = DigitalInOut(board.GP0)
-led_0.direction = Direction.OUTPUT
+light = analogio.AnalogIn(board.GP28)
+led_0 = digitalio.DigitalInOut(board.GP0)
+led_0.direction = digitalio.Direction.OUTPUT
 
 # 判断光敏电阻的模拟电压值是否小于参考值，根据判断结果显示不同效果
 while True:
-    if light.value < 100:
+    if light.value > 1000:
         led_0.value = True
     else:
         led_0.value = False
@@ -74,23 +72,23 @@ while True:
 # 导入程序所需要的模块
 import board
 import analogio
-from digitalio import
-from time import
+import digitalio
+from time import *
 ```
 
 2. 设置光敏二极管连接的引脚和读取模拟电压作为亮度的参考值。
 ```python
 # 设置光敏电阻连接的引脚和读取模拟电压作为亮度的参考值
-light = AnalogIn(board.GP28)
-led_0 = DigitalInOut(board.GP0)
-led_0.direction = Direction.OUTPUT
+light = analogio.AnalogIn(board.GP28)
+led_0 = digitalio.DigitalInOut(board.GP0)
+led_0.direction = digitalio.Direction.OUTPUT
 ```
 
 3. 判断实时光敏二极管的模拟电压值是否小于参考值，根据判断结果显示不同效果。
 ```python
 # 判断光敏电阻的模拟电压值是否小于参考值，根据判断结果显示不同效果
 while True:
-    if light.value < 100:
+    if light.value > 1000:
         led_0.value = True
     else:
         led_0.value = False

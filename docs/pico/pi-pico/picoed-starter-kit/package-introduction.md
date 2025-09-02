@@ -3,7 +3,9 @@ sidebar_position: 1
 sidebar_label: Pico小小科学家套件介绍
 ---
 
-# 简介
+# Pico小小科学家套件介绍
+
+## 简介
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/pico-starter-kit/images/pico-starter-kit-01.png)
 

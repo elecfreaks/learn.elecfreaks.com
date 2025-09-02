@@ -3,7 +3,7 @@ sidebar_position: 3
 sidebar_label: 编程环境准备
 ---
 
-## 编程环境搭建
+# 编程环境搭建
 
 1. 我们编写程序需要在编程软件中进行，所以，我们首先应该下载和安装编程软件，我们推荐编程软件是: [Thonny](https://thonny.org/) 。
 

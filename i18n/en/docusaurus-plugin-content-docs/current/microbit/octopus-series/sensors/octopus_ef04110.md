@@ -41,23 +41,23 @@ Add the extension [https://github.com/ZY2516/tft_lcd](https://github.com/ZY2516/
 #### Block Definition
 | Category | Block | Function Definition |
 | ------- | --- | --- |
-| **Basic** | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_01.png) | Turn on or off the backlight |
-|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_02.png) | Clear the screen display content |
-|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_03.png) | Set the background color to a preset color |
-|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_04.png) | Set the brush/font color |
-|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_05.png) | Clear the content of the first line |
-|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_06.png) | Display text information on the Nth (1 - 8) line |
-|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_07.png) | Display numerical information on the Nth (1 - 8) line |
-|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_08.png) | Display text information at the specified coordinates (X: 0 - 320, Y: 0 - 240) |
-|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_09.png) | Display numerical information at the specified coordinates (X: 0 - 320, Y: 0 - 240) |
-| **Graphics** | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_10.png) | Set the starting and ending points of a line and draw the line |
-|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_11.png) | Set the starting and ending points of the diagonal of a rectangle, whether to fill it, and draw the rectangle |
-|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_12.png) | Set the center, radius, and whether to fill a circle and draw the circle |
-|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_13.png) | Draw an arc loader and set its background color |
-|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_14.png) | Display a progress bar |
-| **Charts** | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_15.png) | Draw a bar chart/line chart and initialize its data domain, number of columns, color, and label of each group of data |
-|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_16.png) | Set the label name and data input of each column of data in the bar chart/line chart |
-|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04110_block_17.png) | Draw a pie chart and set its data, labels, and colors |
+| **Basic** | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04110_block_01.png) | Turn on or off the backlight |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04110_block_02.png) | Clear the screen display content |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04110_block_03.png) | Set the background color to a preset color |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04110_block_04.png) | Set the brush/font color |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04110_block_05.png) | Clear the content of the first line |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04110_block_06.png) | Display text information on the Nth (1 - 8) line |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04110_block_07.png) | Display numerical information on the Nth (1 - 8) line |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04110_block_08.png) | Display text information at the specified coordinates (X: 0 - 320, Y: 0 - 240) |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04110_block_09.png) | Display numerical information at the specified coordinates (X: 0 - 320, Y: 0 - 240) |
+| **Graphics** | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04110_block_10.png) | Set the starting and ending points of a line and draw the line |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04110_block_11.png) | Set the starting and ending points of the diagonal of a rectangle, whether to fill it, and draw the rectangle |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04110_block_12.png) | Set the center, radius, and whether to fill a circle and draw the circle |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04110_block_13.png) | Draw an arc loader and set its background color |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04110_block_14.png) | Display a progress bar |
+| **Charts** | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04110_block_15.png) | Draw a bar chart/line chart and initialize its data domain, number of columns, color, and label of each group of data |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04110_block_16.png) | Set the label name and data input of each column of data in the bar chart/line chart |
+|  | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/04110_block_17.png) | Draw a pie chart and set its data, labels, and colors |
 
 #### Example Programs
 

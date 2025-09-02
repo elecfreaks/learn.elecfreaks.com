@@ -15,10 +15,10 @@ sidebar_label: 编程环境准备
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/pico-starter-kit/images/pico-starter-kit-programming-preparation-02.png)
 
-## 链接Pico与电脑
+<!--## 链接Pico与电脑
 
-按住BOOTSEL按鈕，將Pico插入Raspberry Pi或其他電腦的USB端口。連接Pico後，鬆開BOOTSEL按鈕。這會讓設備把Pico辨識成名為RPI-RP2 的大容量存儲設備.
+按住BOOTSEL按钮，将Pico插入Raspberry Pi或其他电脑的USB端口。连接Pico后，松开BOOTSEL按钮。这会让电脑把Pico识别成名为RPI-RP2 的大容量存储设备.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/pico-starter-kit/images/pico-starter-kit-programming-preparation-03.png)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/pico-starter-kit/images/pico-starter-kit-programming-preparation-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/pico-starter-kit/images/pico-starter-kit-programming-preparation-04.png) -->

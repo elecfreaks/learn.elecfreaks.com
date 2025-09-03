@@ -1,4 +1,4 @@
-﻿# 2.4-inch TFT Display
+﻿# 2.4-inch TFT Display（EF04110）
 
 ## Introduction
 The 2.4-inch TFT display is a high-performance color screen specially designed for educational scenarios. With its excellent color performance and high-resolution image display capabilities, this display brings a vivid visual experience to your projects. It comes with built-in chart templates such as line charts, pie charts, and bar charts, making your data presentation more intuitive and professional.

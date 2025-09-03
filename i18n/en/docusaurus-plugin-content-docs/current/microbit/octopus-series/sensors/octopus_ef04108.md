@@ -1,4 +1,4 @@
-﻿# Speech Recognition Sensor
+﻿# Speech Recognition Sensor（EF04108）
 
 ## Introduction
 Speech recognition sensor can realize the voice recognition function, and support self-learning words. Combined with rainbow LED, intelligent cars and other hardware can realize voice recognition control lamps, voice recognition control cars and other interesting cases.

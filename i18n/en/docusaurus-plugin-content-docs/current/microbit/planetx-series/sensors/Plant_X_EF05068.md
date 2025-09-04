@@ -1,4 +1,4 @@
-# PS2 Controller Kit
+# Planet PS2 Joystick Kit
 
 ## Introduction
 The PS2 controller is a remote control suitable for various types and structures of devices such as remote-controlled robots, smart cars, and robotic arms. We can use the controller's joysticks, buttons, and other components to control robots to perform corresponding actions.

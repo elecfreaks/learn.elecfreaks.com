@@ -4,6 +4,9 @@ sidebar_label: Case2:Compass
 ---
 
 # Compass
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case02/nezha-pro-ocean-kit-step-02-00.png.png)
+
 ## Story Introduction
 Ian's eyes welled up as he looked at the "Hope". This boat was built by friends working together. A friend handed over a shell wind chime: "Hang it on the boat, and the sea won't trouble you!" Ian solemnly promised: "I'll bring back wonderful stories!"
 As night fell, unease crept in quietly. Ian squatted on the shore, remembering the rumors of fishing boats going missing he'd heard at the market. Looking out at the vast sea, he felt uneasy: "In the boundless sea, can I really find my way?" Can friends help Ian find direction in the vast sea?

@@ -4,6 +4,9 @@ sidebar_label: 案例十：海螺
 ---
 
 # 海螺
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case10/nezha-pro-ocean-kit-step-10-00.png.png)
+
 ## 故事导入
 
 小恩还沉浸在螃蟹竞速的兴奋中，就被杰克拽到新场地。主持人宣布：“接下来是海螺爬行大赛，谁搭的海螺模型爬得最慢，谁就是冠军！” 杰克两眼放光，冲小恩挑眉：“瞧见没？搭海螺我可是行家！敢不敢和我一决高下？

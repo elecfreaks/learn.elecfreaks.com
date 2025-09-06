@@ -4,6 +4,9 @@ sidebar_label: Case12:Simulating Tidal Power Generation
 ---
 
 # Simulating Tidal Power Generation
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case12/nezha-pro-ocean-kit-step-12-00.png.png)
+
 ## Story Introduction
 
 Ian and Jack were dancing to the music when a hurried man ran over and whispered something in Jack's ear. Jack immediately turned to Ian and said, "You stay here and enjoy yourself. I have something urgent to deal with and need to go back!" Before he finished speaking, he quickly merged into the bustling crowd with that man and disappeared.

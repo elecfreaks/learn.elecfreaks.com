@@ -5,6 +5,8 @@ sidebar_label: Case16:Sluice Gate
 
 # Sluice Gate
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case16/nezha-pro-ocean-kit-step-16-00.png.png)
+
 ## Story Introduction
 
 Ian and Jack were walking on the street when they heard workers discussing: due to continuous heavy rains causing the river water to rise sharply, it was necessary to open the sluice gate to discharge the river water into the sea; while in normal times when the water level is low, the sluice gate should be closed to not only ensure the city's fresh water supply but also prevent seawater intrusion. Upon hearing this, Ian and Jack began to think about how to help the workers design an intelligent sluice gate system.

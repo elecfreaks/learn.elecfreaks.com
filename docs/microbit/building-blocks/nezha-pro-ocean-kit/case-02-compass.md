@@ -4,6 +4,9 @@ sidebar_label: 案例二：指南针
 ---
 
 # 指南针
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case02/nezha-pro-ocean-kit-step-02-00.png.png)
+
 ## 故事导入
 小恩望着 “希望号” 眼眶发热。这艘船是朋友们齐心协力造的。朋友递来贝壳风铃：“挂船上，大海就不会为难你！” 小恩郑重承诺：“等我带回奇妙故事！”
 夜幕降临，不安却悄悄爬上心头。小恩蹲在岸边，想起集市听闻的渔船失踪传闻，望着茫茫的大海，满心忐忑：“茫茫大海，真能找到方向吗？”小伙伴能帮助小恩在茫茫大海中寻找到方向吗？

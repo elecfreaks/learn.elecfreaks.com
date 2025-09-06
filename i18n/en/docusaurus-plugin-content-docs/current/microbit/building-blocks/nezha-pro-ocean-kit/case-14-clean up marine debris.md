@@ -5,7 +5,7 @@ sidebar_label: Case14:Simulating Marine Debris Cleanup
 
 # Simulating Marine Debris Cleanup
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case15/nezha-pro-ocean-kit-step-15-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case14/nezha-pro-ocean-kit-step-14-00.png.png)
 
 ## Story Introduction
 

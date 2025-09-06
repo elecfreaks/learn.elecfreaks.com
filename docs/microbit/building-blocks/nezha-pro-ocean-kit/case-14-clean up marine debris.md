@@ -5,6 +5,8 @@ sidebar_label: 案例十四：模拟清理海上垃圾
 
 # 模拟清理海上垃圾
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case14/nezha-pro-ocean-kit-step-14-00.png.png)
+
 ## 故事导入
 
 养殖场修复完毕，杰克望着海面漂浮的暴风雨遗留垃圾，满脸愁容：“这些垃圾要是跟着洋流漂走，海洋生物和环境都得遭殃。” 小恩拍拍他的肩膀：“别担心！咱们一起想办法，肯定能把它们清理干净！”小伙伴有好的方案帮忙处理海上的垃圾吗？除了处理海上垃圾还可以通过哪些方式来减少垃圾对海洋的污染。

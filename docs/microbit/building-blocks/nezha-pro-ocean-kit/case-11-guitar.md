@@ -4,6 +4,9 @@ sidebar_label: 案例十一：吉他
 ---
 
 # 吉他
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case11/nezha-pro-ocean-kit-step-11-00.png.png)
+
 ## 故事导入
 
 几场比赛结束，小恩和杰克仍意犹未尽。小恩感慨道：“你们好像特别钟爱大海，连比赛都充满海洋元素。” 杰克笑着点头：“当然！大海是我们的宝藏，给我们带来数不清的食物，我们打心底感激它。” 话音刚落，周边居民已伴着鼓点跳起欢快的舞蹈。杰克眼睛发亮，一把拉住小恩：“最热闹的时刻到啦！走，一起跳进这场音乐狂欢！

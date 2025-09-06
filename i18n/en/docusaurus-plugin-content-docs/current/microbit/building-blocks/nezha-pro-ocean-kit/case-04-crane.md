@@ -4,6 +4,10 @@ sidebar_label: Case4:Crane
 ---
 
 # Crane
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case04/nezha-pro-ocean-kit-step-04-00.png.png)
+
+
 ## Story Introduction
 The midday sun made the port's reefs scorching hot. Ian rubbed his hands while looking at the mountain of supplies piled up at the port, feeling worried. How could he load these supplies from the port onto the "Hope"? Especially that box of navigation instruments left by his father, which weighed over 150 catties. What methods can friends help Ian with loading the supplies?
 

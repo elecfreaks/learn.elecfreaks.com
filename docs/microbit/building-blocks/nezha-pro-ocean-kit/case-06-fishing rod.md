@@ -5,6 +5,8 @@ sidebar_label: 案例六：钓鱼竿
 
 # 钓鱼竿
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case06/nezha-pro-ocean-kit-step-06-00.png.png)
+
 ## 故事导入
 
 这是启航后的第七天，小恩驾驶着希望号在浩瀚的大海中前行，海面上风平浪静。小恩认为今天是钓鱼休息的理想日子，但他在船内四处寻找，却未能发现钓鱼竿的踪影。于是，小恩希望小伙伴们能够利用积木，亲手搭建一支钓鱼竿。

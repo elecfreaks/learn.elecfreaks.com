@@ -5,6 +5,8 @@ sidebar_label: 案例十五：沙滩车
 
 # 沙滩车
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case15/nezha-pro-ocean-kit-step-15-00.png.png)
+
 ## 故事导入
 
 小恩累了一天，早早睡下了。第二天清晨，阳光刚爬上沙滩，杰克就蹦蹦跳跳地敲响了门，眼睛亮晶晶地喊：“快来看呀！沙滩上铺满了海浪送来的白贝壳，还有好多金黄的沙丘，咱们动手造一辆能自己躲开障碍的沙滩车比赛吧！” 快叫上你的好朋友，一起加入这场超酷的沙滩车大冒险吧！

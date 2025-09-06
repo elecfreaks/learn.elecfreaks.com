@@ -4,6 +4,9 @@ sidebar_label: Case13:Simulating an Offshore Aquaculture Farm
 ---
 
 # Simulating an Offshore Aquaculture Farm
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case13/nezha-pro-ocean-kit-step-13-00.png.png)
+
 ## Story Introduction
 
 After solving the island's power crisis, Ian began to worry about Jack, who had left in a hurry. After inquiring around, he learned that Jack's offshore aquaculture farm was damaged by a storm, and Jack had rushed back to repair it. Ian decided to go to help. What suggestions do you have for repairing the farm? What sensors need to be added to monitor the environment and better promote aquaculture?

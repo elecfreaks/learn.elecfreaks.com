@@ -5,7 +5,7 @@ sidebar_label: Case9:Crab
 
 # Crab
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case09/nezha-pro-ocean-kit-step-09-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-09-00.png.png)
 
 ## Story Introduction
 Right after the thrilling model-building competition, Jack pulled Ian to another venue. On the track, several building block crabs were chasing each other, and the audience around them was shouting loudly to cheer for their favorite "contestants". The scene is lively and bustling. Come and join this joyful building block crab race with Ian and Jack!
@@ -129,7 +129,7 @@ Click **Download Program**
 
 When the ultrasonic sensor detects an object at a distance > 2cm and < 10cm, the crab moves randomly left or right.
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-09-00.png.gif)
 
 ---
 ## Extended Knowledge

@@ -5,7 +5,7 @@ sidebar_label: 案例六：钓鱼竿
 
 # 钓鱼竿
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case06/nezha-pro-ocean-kit-step-06-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-06-00.png.png)
 
 ## 故事导入
 
@@ -42,6 +42,8 @@ sidebar_label: 案例六：钓鱼竿
 ## 案例演示
 
 钓鱼竿轮座采用棘轮结构，放线的时候松开棘轮，收线的时候会发出咔咔的声音。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-06-00.png.gif)
 
 ---
 ## 扩展知识

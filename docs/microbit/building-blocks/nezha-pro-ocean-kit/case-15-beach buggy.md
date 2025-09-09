@@ -5,7 +5,7 @@ sidebar_label: 案例十五：沙滩车
 
 # 沙滩车
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case15/nezha-pro-ocean-kit-step-15-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-15-00.png.JPG)
 
 ## 故事导入
 
@@ -142,7 +142,7 @@ sidebar_label: 案例十五：沙滩车
 超声波传感检测到距离＜20CM时，沙滩车随机的向左或者向右后退，如果超声波检测距离＞20CM沙滩车向前走。
 
 
-**图片**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-15-00.png.gif)
 
 ---
 ## 扩展知识

@@ -5,7 +5,7 @@ sidebar_label: Case2:Compass
 
 # Compass
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case02/nezha-pro-ocean-kit-step-02-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-02-00.png.JPG)
 
 ## Story Introduction
 Ian's eyes welled up as he looked at the "Hope". This boat was built by friends working together. A friend handed over a shell wind chime: "Hang it on the boat, and the sea won't trouble you!" Ian solemnly promised: "I'll bring back wonderful stories!"
@@ -128,7 +128,7 @@ Click **Download Program**
 
 2. Using the micro:bit compass function.
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-02-00.png.gif)
 
 ---
 ## Extended Knowledge

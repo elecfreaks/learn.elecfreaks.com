@@ -133,7 +133,7 @@ Click **Download Program**
 
 Blow or push the sail control lever by hand until the dual-track line sensor cannot detect the lever, the boat moves forward; when the sail control lever returns to its original position, the boat stops moving.
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-01-00.png.gif)
 
 ---
 ## Extended Knowledge

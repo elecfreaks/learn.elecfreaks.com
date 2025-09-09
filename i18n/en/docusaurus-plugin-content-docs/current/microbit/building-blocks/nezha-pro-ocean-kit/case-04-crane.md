@@ -5,7 +5,7 @@ sidebar_label: Case4:Crane
 
 # Crane
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case04/nezha-pro-ocean-kit-step-04-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-04-00.png.png)
 
 
 ## Story Introduction
@@ -146,7 +146,7 @@ If the collision sensor at port "J3" is pressed, Motor 1 will start rotating at 
 In other cases, Motor 1 will stop.
 
 
-**Picture**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-04-00.png.gif)
 
 ---
 ## Extended Knowledge

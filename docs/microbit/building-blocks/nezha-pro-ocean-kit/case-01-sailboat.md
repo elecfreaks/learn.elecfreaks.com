@@ -133,7 +133,8 @@ sidebar_label: 案例一：帆船
 
 吹开或者用手拨开船帆控制杆，直到双路巡线传感器检测不到控制杆，小船向前进，帆船控制杆回到原位，小船停止前进。
 
-**图片**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-01-00.png.gif)
+
 
 ---
 ## 扩展知识

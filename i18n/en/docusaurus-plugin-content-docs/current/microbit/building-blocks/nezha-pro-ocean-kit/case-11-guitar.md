@@ -5,7 +5,7 @@ sidebar_label: Case11:Guitar
 
 # Guitar
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case11/nezha-pro-ocean-kit-step-11-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-11-00.png.JPG)
 
 ## Story Introduction
 
@@ -133,6 +133,7 @@ When button A is pressed:
 - If the distance is in 19~20, it plays Middle A;
 - If the distance is in 20~21, it plays Middle B.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-11-00.png.gif)
 
 ---
 ## Extended Knowledge

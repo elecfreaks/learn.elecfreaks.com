@@ -5,7 +5,7 @@ sidebar_label: Case7:Lighthouse
 
 # Lighthouse
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case07/nezha-pro-ocean-kit-step-07-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-07-00.png.png)
 
 ## Story Introduction
 Ian has been sailing at sea for two weeks. Late at night, he flipped through his father's navigation log, which clearly recorded that there was an island nearby, but he couldn't find it. Suddenly, a violent storm hit, with huge waves tilting the hull by 15 degrees, and the wooden planks creaked as they shook. He gripped the rudder tightly, stared firmly at the sea, and finally caught a glimpse of the island's outline through the rain curtain. But the night was pitch-black, and he couldn't find the port at all. What can our little friends do to help Ian?
@@ -132,7 +132,7 @@ Click **Download Program**
 
 When the optical fiber sensor detects that the ambient light intensity is ＜ 100, the rainbow LED ring lights up in yellow.
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-07-00.png.gif)
 
 ---
 ## Extended Knowledge

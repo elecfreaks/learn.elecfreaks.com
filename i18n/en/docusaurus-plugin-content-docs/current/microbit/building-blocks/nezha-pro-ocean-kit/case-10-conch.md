@@ -5,7 +5,7 @@ sidebar_label: Case10:Conch
 
 # Conch
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case10/nezha-pro-ocean-kit-step-10-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-10-00.png.JPG)
 
 ## Story Introduction
 
@@ -133,7 +133,7 @@ Click **Download Program**
 ## Case Demonstration
 When the ultrasonic sensor detects a distance greater than 5cm, the conch stops moving; when it detects a distance less than 5cm, the conch moves forward.
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-10-00.png.gif)
 
 ---
 ## Extended Knowledge

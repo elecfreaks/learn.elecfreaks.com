@@ -5,7 +5,7 @@ sidebar_label: 案例十三：模拟海上养殖场
 
 # 模拟海洋养殖场
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case13/nezha-pro-ocean-kit-step-13-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-13-00.png.JPG)
 
 ## 故事导入
 
@@ -138,7 +138,7 @@ OLED显示屏连接哪吒扩展传感“IIC”端口。
 
 DHT11温湿度传感器获取当前环境的温湿度数据，并通过OLED显示屏进行显示，光线传感器检测当前环境光亮度＜100时，彩虹灯环点亮，否则彩虹灯环关闭。
 
-**图片**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-13-00.png.gif)
 
 ---
 ## 扩展知识

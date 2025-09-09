@@ -5,7 +5,7 @@ sidebar_label: Case12:Simulating Tidal Power Generation
 
 # Simulating Tidal Power Generation
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-12-00.png.png)
 
 ## Story Introduction
 

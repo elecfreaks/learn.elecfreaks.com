@@ -5,7 +5,7 @@ sidebar_label: Case6:Fishing Rod
 
 # Fishing Rod
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case06/nezha-pro-ocean-kit-step-06-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-06-00.png.png)
 
 ## Story Introduction
 
@@ -39,6 +39,8 @@ It is the seventh day after setting sail. Ian is navigating the Hope across the 
 ## Case Demonstration
 
 The reel seat of the fishing rod features a ratchet mechanism. When letting out the line, the ratchet is released; when reeling in the line, it makes a clicking sound.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-06-00.png.gif)
 
 ---
 ## Extended Knowledge

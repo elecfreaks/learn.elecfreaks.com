@@ -5,7 +5,7 @@ sidebar_label: 案例十一：吉他
 
 # 吉他
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case11/nezha-pro-ocean-kit-step-11-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-11-00.png.JPG)
 
 ## 故事导入
 
@@ -145,7 +145,7 @@ sidebar_label: 案例十一：吉他
 
 
 
-**图片**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-11-00.png.gif)
 
 ---
 ## 扩展知识

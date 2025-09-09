@@ -5,7 +5,7 @@ sidebar_label: 案例十二：模拟潮汐发电
 
 # 模拟潮汐发电
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case12/nezha-pro-ocean-kit-step-12-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-12-00.png.png)
 
 ## 故事导入
 
@@ -140,7 +140,7 @@ sidebar_label: 案例十二：模拟潮汐发电
 长按micro:bit的按键A控制潮汐发电机向下移动，当双路巡线传感检测潮汐发电机下降到一定位置时，潮汐发电机停止向下移动，并触发潮汐发电机旋转，彩虹灯环亮起，模拟潮汐发电的场景；
 长按micro:bit的按键B控制潮汐发电机向上移动，当双路巡线传感器检测没有检测到潮汐发电机，潮汐发电机停止转动，彩虹灯环关闭。
 
-**图片**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-12-00.png.gif)
 
 ---
 ## 扩展知识

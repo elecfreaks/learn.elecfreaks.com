@@ -15,7 +15,7 @@ This project uses a micro:bit board, leveraging its **onboard noise detection mo
 
 - Master the real-time data collection method for micro:bit onboard sensors (light, noise).
 - Learn multi-condition judgment (logical AND/OR).
-- Understand the intelligent control logic of environmental data 联动 (linked) lighting.
+- Understand the intelligent control logic of environmental data linked lighting.
 
 ## Teaching Preparations
 

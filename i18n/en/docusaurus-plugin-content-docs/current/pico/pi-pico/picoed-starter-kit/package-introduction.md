@@ -15,7 +15,7 @@ This kit comes with a variety of electronic components, such as LEDs, buttons, l
 
 ## Raspberry Pi Pico
 
-The Raspberry Pi Pico is a development board featuring flexible pins, low cost, and high performance. It adopts the RP2040 microcontroller—the first self-developed microcontroller by Raspberry Pi—and is equipped with a dual-core Arm Cortex-M0+ processor running at a frequency of 133MHz. It has 264K SRAM (Static Random-Access Memory) and 2MB of on-board storage, and can be developed using C/C++ or MicroPython.
+The Raspberry Pi Pico is a development board featuring flexible pins, low cost, and high performance. It adopts the RP2040 microcontroller—the first self-developed microcontroller by Raspberry Pi—and is equipped with a dual-core Arm Cortex-M0+ processor running at a frequency of 133MHz. It has 264KB SRAM (Static Random-Access Memory) and 2MB of on-board storage, and can be developed using C/C++ or MicroPython.
 
 The Raspberry Pi Pico is integrated with 26 GPIO (General-Purpose Input/Output) pins, 2 SPI (Serial Peripheral Interface) ports, 2 I2C (Inter-Integrated Circuit) buses, 2 UART (Universal Asynchronous Receiver/Transmitter) ports, 3 12-bit ADC (Analog-to-Digital Converter) modules, and 16 controllable PWM (Pulse-Width Modulation) channels. It supports pin function configuration, enabling flexible development and application for users.
 

@@ -13,11 +13,11 @@ Wind Speed Sensor × 1
 
 Dust Sensor × 1
 
-Temperature and Humidity Sensor × 1
+DHT11 Sensor × 1
 
 UV Sensor × 1
 
-OLED Display × 1
+OLED Screen × 1
 
 R3090 Rivets × 10
 

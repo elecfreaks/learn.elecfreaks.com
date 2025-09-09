@@ -12,6 +12,7 @@ This course is designed to show how to build an anemometer using the wind speed 
 ## **Teaching Objectives **
 
 Understanding the use of wind sensors
+
 Understanding the effects of wind
 
 ## **Teaching Preparation**
@@ -144,7 +145,7 @@ Each group will have the opportunity to present the cases they have produced and
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-02.gif)
 
-### ** Relection **
+### Reflection
 
 Review the course content and remind students what knowledge and skills they have acquired.
 Lead students in a discussion about the problems and difficulties they encountered during the making of their productions and how they solved them.

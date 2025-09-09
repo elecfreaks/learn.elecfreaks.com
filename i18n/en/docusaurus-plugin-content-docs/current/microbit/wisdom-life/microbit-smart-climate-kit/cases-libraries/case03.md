@@ -9,7 +9,7 @@ sidebar_label: Case 03 Environmental temperature and humidity monitoring device
 
 The purpose of this course is to guide students in creating an environmental temperature and humidity detection device that will help them understand the effects of temperature and humidity on the human body by recording data under different temperature and humidity conditions and displaying the data locally using an OLED display. Through this inquiry activity, students will learn how to use the DHT11 temperature and humidity sensor and Micro:bit for data acquisition and display.
 
-## **Teaching 0bjectives **
+## **Teaching Objectives **
 
 Understanding the use of the DHT11 temperature and humidity sensor
 

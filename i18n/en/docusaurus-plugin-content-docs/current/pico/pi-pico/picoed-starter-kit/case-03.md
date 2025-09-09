@@ -22,7 +22,7 @@ A light-dependent resistor (LDR), also known as a photoresistor, is a type of re
 1 × 10kΩ Resistor
 Several Dupont Wires
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-04-02.png)
+
 
 ## Introduction to Key Components
 

@@ -9,7 +9,7 @@ sidebar_label: ELECFREAKS Raspberry Pi Starter Kit
 
 ## Introduction
 
-The ELECFREAKS Raspberry Pi Starter Kit is an entry-level Pico kit developed by the ELECFREAKS team specifically for teenagers to learn circuit and programming knowledge.
+The ELECFREAKS Raspberry Pi Pico Starter Kit is an entry-level kit developed by the ELECFREAKS team, designed for teenagers to learn about circuits and programming.
 This kit comes with a variety of electronic components, such as LEDs, buttons, light-sensitive sensors, and more. Additionally, it is equipped with numerous reference cases and detailed documentation to help you get started quickly. The ELECFREAKS Raspberry Pi Starter Kit accompanies you into the wonderful world of electronics.
 
 

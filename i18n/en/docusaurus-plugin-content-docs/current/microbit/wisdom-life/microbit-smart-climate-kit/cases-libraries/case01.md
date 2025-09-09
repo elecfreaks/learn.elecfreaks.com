@@ -12,6 +12,7 @@ The purpose of this project is to guide students to create a UV-level display de
 ## **Teaching Objectives **
 
 Understanding the use of UV sensors
+
 Health risks at different UV levels
 
 ## **Teaching Preparation**
@@ -93,7 +94,7 @@ In the pop-up interface, type "IOT", press the enter key to search, and choose t
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-smart-climate-kit-case-01-09.png)
 
-Link: [hhttps://makecode.microbit.org/_ftUFCg5hmgP3](hhttps://makecode.microbit.org/_ftUFCg5hmgP3)
+Link: [https://makecode.microbit.org/_ftUFCg5hmgP3](https://makecode.microbit.org/_ftUFCg5hmgP3)
 
 You can also download the program directly from the following page.
 
@@ -125,7 +126,7 @@ After a successful connection, a disk drive named `MICROBIT` is recognized on th
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/microbit-drive.png)
 
-Click on the bottom left corner of the![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-01.png)，Chose`Connect Device`.
+Click on the bottom left corner of the![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-01.png)，Choose`Connect Device`.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-02.png)
 
@@ -133,7 +134,7 @@ Click![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-p
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-04.png)
 
-Ckick ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-05.png)。
+Click ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-05.png)。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/interesting-case/microbit-smart-climate-kit/cases-libraries/images/download-06.png)
 

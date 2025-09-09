@@ -22,7 +22,6 @@ Momentary pushbutton switches are widely used electronic components. In daily li
 1 × Momentary Pushbutton Switch
 Several Dupont Wires
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/picoed/circuit-design/picoed-starter-kit/images/pico-ed-starter-kit-case-02-02.png)
 
 ## Introduction to Key Components
 

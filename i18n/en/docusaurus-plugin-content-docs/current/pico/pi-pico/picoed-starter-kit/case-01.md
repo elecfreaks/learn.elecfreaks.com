@@ -27,7 +27,7 @@ LED lights are a crucial part of urban development, such as traffic lights at in
 
 Several Dupont Wires
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/pico-starter-kit/images/pico-starter-kit-case-01-02.png)
+
 
 ## Introduction to Key Components
 

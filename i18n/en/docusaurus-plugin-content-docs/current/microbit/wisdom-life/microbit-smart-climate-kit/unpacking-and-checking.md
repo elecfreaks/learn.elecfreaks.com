@@ -14,7 +14,7 @@ Check if the packaging is in good condition and make sure that the labelling and
 
 ## 2. Check the accessories
 
-Confirm that all accessories that come with the product are all complete and match the description in the product listing.
+Confirm that all included accessories are complete and consistent with the packing list.
 
 ## Packing List
 

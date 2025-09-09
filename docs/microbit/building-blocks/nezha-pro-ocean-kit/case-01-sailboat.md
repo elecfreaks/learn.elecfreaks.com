@@ -5,7 +5,7 @@ sidebar_label: 案例一：帆船
 
 # 帆船
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case01/nezha-pro-ocean-kit-step-01-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-01-00.png.JPG)
 
 ## 故事导入
 小恩怀揣着探索海洋的梦想，渴望亲眼目睹抹香鲸、珊瑚礁和深海鱼类的奇观。他希望前往浩瀚的大海，寻找多年未归的出海父亲。在夜晚，小恩紧握着父亲的航海日志，伴随着海浪的节奏进入梦乡，在梦中他驾驶着小船，揭开海洋深处的神秘面纱。请小伙伴帮助小恩打造一艘小船。

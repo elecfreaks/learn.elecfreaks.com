@@ -6,7 +6,7 @@ sidebar_label: Case3:Transport Vehicle
 
 # Transport Vehicle
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case03/nezha-pro-ocean-kit-step-03-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-03-00.png.JPG)
 
 ## Story Introduction
 The morning fog had not yet lifted, and Ian looked at the boxes of supplies piled up at the town entrance — thirty barrels of fresh water, more than fifty boxes of grain, half a bundle of hemp rope, as well as the box of nautical instruments left by his father and numerous daily supplies. To carry all these to the port by himself, he would need to make many round trips. Please help Ian find a way to transport the supplies to the port.
@@ -140,7 +140,7 @@ Click **Download Program**
 
 Press Collision Sensor 1, and the car moves forward; press Collision Sensor 2, and the car moves backward. The speed of the car is controlled by the potentiometer sensor.
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-03-00.png.gif)
 
 ---
 ### Extended Knowledge

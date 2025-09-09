@@ -5,6 +5,9 @@ sidebar_label: 案例十六：闸门
 
 # 闸门
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case16/nezha-pro-ocean-kit-step-16-00.png.png)
+
+
 ## 故事导入
 
 小恩和杰克走在街上，听到工人们正在讨论：由于连日大雨导致河水暴涨，需要开启闸门将河水排入海中；而在平时水位较低时，则要关闭闸门，既能保障城市的淡水供应，又能防止海水倒灌。听到这里，小恩和杰克开始思考如何帮助工人叔叔设计一个智能闸门系统。

@@ -4,6 +4,9 @@ sidebar_label: 案例九：螃蟹
 ---
 
 # 螃蟹
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case09/nezha-pro-ocean-kit-step-09-00.png.png)
+
 ## 故事导入
 刚结束紧张刺激的模型搭建赛，杰克就拉着小恩跑到另一个场地。赛道上，几只积木螃蟹正你追我赶，观众们围在旁边，大声喊着加油，为自己支持的 “选手” 助威。现场热闹非凡，快来和小恩、杰克一起加入这场欢乐的积木螃蟹竞速赛吧！
 

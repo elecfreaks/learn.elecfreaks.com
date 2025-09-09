@@ -5,6 +5,8 @@ sidebar_label: 案例五：天气小伙伴
 
 # 天气小伙伴
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case05/nezha-pro-ocean-kit-step-05-00.png.png)
+
 ## 故事导入
 
 随着船只驶离港口，海岸线的轮廓逐渐变得朦胧，防波堤上的灯塔也缩小成海平线上微小的光点。希望号在浩瀚的海洋中航行，正午的阳光使得甲板热得发烫。小恩蹲下身子，注视着自己在阳光下的影子。小恩心中暗想，要是能知道此时此刻的温度和湿度该有多好，小伙伴们能帮助实现他的想法吗？

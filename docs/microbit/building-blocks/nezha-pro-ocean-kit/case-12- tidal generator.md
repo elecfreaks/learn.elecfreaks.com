@@ -4,6 +4,9 @@ sidebar_label: 案例十二：模拟潮汐发电
 ---
 
 # 模拟潮汐发电
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case12/nezha-pro-ocean-kit-step-12-00.png.png)
+
 ## 故事导入
 
 小恩和杰克正随着音乐尽情舞动，一名神色匆匆的人跑来，在杰克耳边低语几句。杰克立刻转头对小恩说：“你先在这儿玩，我有点急事得回去！” 话音未落，他便和那人迅速融入熙攘的人群，不见了踪影。

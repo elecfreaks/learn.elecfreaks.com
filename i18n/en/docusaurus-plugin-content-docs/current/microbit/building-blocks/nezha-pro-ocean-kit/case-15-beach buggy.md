@@ -5,6 +5,8 @@ sidebar_label: Case15:Beach Buggy
 
 # Beach Buggy
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case15/nezha-pro-ocean-kit-step-15-00.png.png)
+
 ## Story Introduction
 
 Ian was tired after a long day and went to bed early. The next morning, as the sun just climbed over the beach, Jack bounced over and knocked on the door, his eyes shining, shouting: "Come and see! The beach is covered with white shells brought by the waves, and there are many golden sand dunes. Let's build a beach buggy that can avoid obstacles by itself and have a race!" Call your good friends and join this super cool beach buggy adventure!

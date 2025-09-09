@@ -4,6 +4,9 @@ sidebar_label: 案例七：灯塔
 ---
 
 # 灯塔
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case07/nezha-pro-ocean-kit-step-07-00.png.png)
+
 ## 故事导入
 小恩在海上航行了两周。深夜，他翻看着父亲的航海日志，明明记载附近有岛，却始终不见踪影。突然，狂风骤雨袭来，巨浪将船体掀斜 15 度，木板在摇晃中发出吱呀声。他死死攥住舵轮，眼神坚定的看着海面，终于在雨幕中瞥见岛屿轮廓。可夜色如墨，根本找不到港口位置，这可怎么办？小伙伴们有什么办法帮助到小恩吗？
 

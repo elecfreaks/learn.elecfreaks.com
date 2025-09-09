@@ -5,6 +5,8 @@ sidebar_label: Case6:Fishing Rod
 
 # Fishing Rod
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case06/nezha-pro-ocean-kit-step-06-00.png.png)
+
 ## Story Introduction
 
 It is the seventh day after setting sail. Ian is navigating the Hope across the vast, calm ocean. He thinks today is the perfect day for a fishing break, but after searching everywhere on the boat, he can't find a fishing rod. So, Ian hopes that his friends can build a fishing rod with building blocks by themselves.

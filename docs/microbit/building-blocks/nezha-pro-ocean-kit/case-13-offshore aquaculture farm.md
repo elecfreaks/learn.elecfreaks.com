@@ -4,6 +4,9 @@ sidebar_label: 案例十三：模拟海上养殖场
 ---
 
 # 模拟海洋养殖场
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case13/nezha-pro-ocean-kit-step-13-00.png.png)
+
 ## 故事导入
 
 解决完小岛电力危机，小恩惦记起匆匆离开的杰克。多方打听后得知，杰克家的海洋养殖场被暴风雨损毁，他赶回去抢修了。小恩决定前去帮忙，对于修复养殖场小伙伴们有什么建议，需要加入哪些传感器来监控环境，更好的来促进养殖。

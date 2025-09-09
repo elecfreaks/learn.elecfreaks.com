@@ -5,6 +5,8 @@ sidebar_label: Case5:Weather Pal
 
 # Weather Pal
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case05/nezha-pro-ocean-kit-step-05-00.png.png)
+
 ## Story Introduction
 
 As the ship sailed away from the port, the outline of the coastline gradually became hazy, and the lighthouse on the breakwater shrank into a tiny spot on the horizon. The Hope was navigating through the vast ocean, and the noonday sun made the deck burning hot. Ian squatted down and stared at his shadow in the sunlight. He thought to himself, how nice it would be to know the current temperature and humidity. Could his friends help make this wish come true?

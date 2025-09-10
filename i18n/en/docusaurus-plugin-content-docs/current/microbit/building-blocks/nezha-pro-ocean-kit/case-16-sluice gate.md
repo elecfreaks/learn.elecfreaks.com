@@ -55,7 +55,8 @@ The water level sensor is connected to the "J1" port of the Nezha expansion boar
 Motor 1 is connected to the "M1" port of the Nezha expansion board.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case16/nezha-pro-ocean-kit-16-4.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case16/nezha-pro-ocean-kit-16-4.png)
+
 
 ---
 

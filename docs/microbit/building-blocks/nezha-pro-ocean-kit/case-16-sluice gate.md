@@ -5,7 +5,7 @@ sidebar_label: 案例十六：闸门
 
 # 闸门
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case16/nezha-pro-ocean-kit-step-16-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-16-00.png.png)
 
 
 ## 故事导入
@@ -54,7 +54,7 @@ sidebar_label: 案例十六：闸门
 1号电机连接哪吒扩展板“M1”端口。
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case16/nezha-pro-ocean-kit-16-4.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case16/nezha-pro-ocean-kit-16-4.png)
 
 --- 
 ## 代码编程
@@ -140,8 +140,7 @@ sidebar_label: 案例十六：闸门
 
 水位传感器检测海水的水位值＜50时，打开闸门，水位传感器检测到啊海水的水位值＞50时，关闭闸门防止海水倒灌。
 
-
-**图片**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-16-00.png.gif)
 
 ---
 ## 扩展知识

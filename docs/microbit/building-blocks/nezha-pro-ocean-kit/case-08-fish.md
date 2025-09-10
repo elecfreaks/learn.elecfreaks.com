@@ -5,7 +5,7 @@ sidebar_label: 案例八：鱼
 
 # 鱼
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case08/nezha-pro-ocean-kit-step-08-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-08-00.png.JPG)
 
 ## 故事导入
 哪天夜晚小恩在岛上朋友帮助下，成功登岛。小恩已经在岛上待了两天，结识了新朋友杰克。这天杰克兴奋地告诉他，岛上正在举办丰收节，有许多有趣活动，还拉着他去参加积木模型搭建大赛。两人匆匆赶到现场，只听主持人宣布：“今年主题是搭建鱼模型，看谁搭建的模型最神似。快来和小恩、杰克一起加入这场欢乐积木搭建比赛吧！
@@ -134,7 +134,7 @@ sidebar_label: 案例八：鱼
 
 超声波传感器检测物体距离越近，鱼游动幅度越大，当超声波检测到距离为0时，鱼停止游动。
 
-**图片**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-08-00.png.gif)
 
 ---
 ## 扩展知识

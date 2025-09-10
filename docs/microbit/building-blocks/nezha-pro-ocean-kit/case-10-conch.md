@@ -5,7 +5,7 @@ sidebar_label: 案例十：海螺
 
 # 海螺
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case10/nezha-pro-ocean-kit-step-10-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-10-00.png.JPG)
 
 ## 故事导入
 
@@ -135,7 +135,7 @@ sidebar_label: 案例十：海螺
 超声波传感器检测距离大＞5CM，海螺停止移动，检测距离＜5CM，海螺向前移动。
 
 
-**图片**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-10-00.png.gif)
 
 ---
 ## 扩展知识

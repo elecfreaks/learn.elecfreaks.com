@@ -5,7 +5,7 @@ sidebar_label: Case13:Simulating an Offshore Aquaculture Farm
 
 # Simulating an Offshore Aquaculture Farm
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case13/nezha-pro-ocean-kit-step-13-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-13-00.png.JPG)
 
 ## Story Introduction
 
@@ -137,6 +137,7 @@ Click **Download Program**
 
 The DHT11 temperature and humidity sensor acquires the current environmental temperature and humidity data, which are displayed on the OLED display. When the light sensor detects that the current ambient light brightness is less than 100, the rainbow light ring lights up; otherwise, it turns off.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-13-00.png.gif)
 
 ---
 ## Extended Knowledge

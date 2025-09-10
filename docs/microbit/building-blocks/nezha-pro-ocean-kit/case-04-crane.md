@@ -5,8 +5,7 @@ sidebar_label: 案例四：起重机
 
 # 起重机
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case04/nezha-pro-ocean-kit-step-04-00.png.png)
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-04-00.png.png)
 
 ## 故事导入
 正午的阳光晒得港口的礁石发烫，小恩望着港口上堆成小山的物资直搓手，小恩正在发愁，如何把这些物资从港口装到“希望号”上，特别是父亲留下的那箱航海仪器，重达一百五十多斤。小伙伴们有什么方法可以帮助小恩装载物资？
@@ -150,7 +149,7 @@ sidebar_label: 案例四：起重机
 在其他情况下，1号电机将停止。
 
 
-**图片**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-04-00.png.gif)
 
 ---
 ## 扩展知识

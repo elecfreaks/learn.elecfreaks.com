@@ -5,7 +5,7 @@ sidebar_label: Case1:Sailboat
 
 # Sailboat
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case01/nezha-pro-ocean-kit-step-01-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-01-00.png.JPG)
 
 ## Story Introduction
 Ian harbors a dream of exploring the ocean, eager to witness the wonders of sperm whales, coral reefs, and deep-sea fish. He hopes to head to the vast sea to find his father who went to sea years ago and hasn't returned. At night, Ian clutches his father's nautical log, falls asleep to the rhythm of the waves, and in his dream, he sails a small boat, uncovering the mysteries of the deep ocean. Please help Ian build a small boat.
@@ -133,7 +133,7 @@ Click **Download Program**
 
 Blow or push the sail control lever by hand until the dual-track line sensor cannot detect the lever, the boat moves forward; when the sail control lever returns to its original position, the boat stops moving.
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-01-00.png.gif)
 
 ---
 ## Extended Knowledge

@@ -5,7 +5,7 @@ sidebar_label: Case16:Sluice Gate
 
 # Sluice Gate
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case16/nezha-pro-ocean-kit-step-16-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-16-00.png.png)
 
 ## Story Introduction
 
@@ -55,7 +55,8 @@ The water level sensor is connected to the "J1" port of the Nezha expansion boar
 Motor 1 is connected to the "M1" port of the Nezha expansion board.
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case16/nezha-pro-ocean-kit-16-4.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case16/nezha-pro-ocean-kit-16-4.png)
+
 
 ---
 
@@ -142,6 +143,7 @@ Click **Download Program**
 
 When the water level sensor detects that the seawater level is ＜50, the sluice gate opens; when the water level sensor detects that the seawater level is ＞50, the sluice gate closes to prevent seawater intrusion.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-16-00.png.gif)
 
 ---
 ## Extended Knowledge

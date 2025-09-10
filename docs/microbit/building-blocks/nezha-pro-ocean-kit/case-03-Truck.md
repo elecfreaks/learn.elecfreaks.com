@@ -6,7 +6,8 @@ sidebar_label: 案例三：运输车
 
 # 运输车
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case03/nezha-pro-ocean-kit-step-03-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-03-00.png.JPG)
+
 
 ## 故事导入
 晨雾还未散尽，小恩望着堆在镇口的成箱物资发愁 —— 三十桶淡水、五十多箱粮食、半捆麻绳，还有父亲留下的那箱航海仪器、众多的生活物资，靠他独自搬运港口，至少需要往返很多趟。请小伙伴想方法帮助小恩搬运物资到港口。
@@ -140,7 +141,8 @@ sidebar_label: 案例三：运输车
 
 按1号碰撞传感器，小车向前进，按2号碰撞传感器，小车向后退，通过电位传感器的控制小车速度。
 
-**图片**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-03-00.png.gif)
+
 
 ---
 ### 扩展知识

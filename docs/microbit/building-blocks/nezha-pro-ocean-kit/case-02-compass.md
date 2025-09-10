@@ -5,7 +5,7 @@ sidebar_label: 案例二：指南针
 
 # 指南针
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case02/nezha-pro-ocean-kit-step-02-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-02-00.png.JPG)
 
 ## 故事导入
 小恩望着 “希望号” 眼眶发热。这艘船是朋友们齐心协力造的。朋友递来贝壳风铃：“挂船上，大海就不会为难你！” 小恩郑重承诺：“等我带回奇妙故事！”
@@ -130,7 +130,7 @@ sidebar_label: 案例二：指南针
 
 2.是使用micro:bit指南针功能。
 
-**图片**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-02-00.png.gif)
 
 ---
 ## 扩展知识

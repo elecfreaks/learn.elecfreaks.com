@@ -5,7 +5,8 @@ sidebar_label: 案例五：天气小伙伴
 
 # 天气小伙伴
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case05/nezha-pro-ocean-kit-step-05-00.png.png)
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-05-00.png.png)
 
 ## 故事导入
 
@@ -130,7 +131,7 @@ DHT11温湿度传感器连接在哪吒扩展板“J1”端口。
 ## 案例演示
 OLED显示当前的温湿度，当温度＞30°，micro:bit显示“哭脸”，否则micro:bit显示“笑脸”。
 
-**图片**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-05-00.png.gif)
 
 ---
 ## 扩展知识

@@ -5,7 +5,7 @@ sidebar_label: Case14:Simulating Marine Debris Cleanup
 
 # Simulating Marine Debris Cleanup
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case14/nezha-pro-ocean-kit-step-14-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-14-00.png.png)
 
 ## Story Introduction
 
@@ -144,7 +144,7 @@ If the left collision sensor is pressed, the garbage cleaning device turns right
 If the right collision sensor is pressed, the garbage cleaning device turns left;
 Otherwise, it turns right.
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-14-00.png.gif)
 
 ---
 ## Extended Knowledge

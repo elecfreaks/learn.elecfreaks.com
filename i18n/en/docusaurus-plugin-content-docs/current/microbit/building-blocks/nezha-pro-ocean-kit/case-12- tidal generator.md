@@ -5,7 +5,7 @@ sidebar_label: Case12:Simulating Tidal Power Generation
 
 # Simulating Tidal Power Generation
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case12/nezha-pro-ocean-kit-step-12-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-12-00.png.png)
 
 ## Story Introduction
 
@@ -140,6 +140,8 @@ Long press button A on the micro:bit to control the tidal generator to move down
 
 Long press button B on the micro:bit to control the tidal generator to move upward. When the dual-track line sensor no longer detects the tidal generator, the tidal generator stops rotating and the rainbow LED ring turns off.
 
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-12-00.png.gif)
 
 ---
 ## Extended Knowledge

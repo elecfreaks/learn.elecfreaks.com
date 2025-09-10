@@ -5,7 +5,7 @@ sidebar_label: 案例十四：模拟清理海上垃圾
 
 # 模拟清理海上垃圾
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case14/nezha-pro-ocean-kit-step-14-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-14-00.png.png)
 
 ## 故事导入
 
@@ -139,7 +139,7 @@ sidebar_label: 案例十四：模拟清理海上垃圾
 超声波传感器检测距离＞20CM，两个触碰传感器的被按下，垃圾清理装置向后退；如果左边碰撞传感器被按下，垃圾清理装置向右转动，如果右边碰撞传感器被按下，垃圾清理装置向左转动，否则垃圾清理装置向前移动。超声波传感器检测距离＜20CM，如果左边碰撞传感器被按下，垃圾清理装置向右转动，如果右边碰撞传感器被按下，垃圾清理装置向左转动，否则右转
 
 
-**图片**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-14-00.png.gif)
 
 ---
 ## 扩展知识

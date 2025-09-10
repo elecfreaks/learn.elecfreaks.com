@@ -5,7 +5,7 @@ sidebar_label: Case15:Beach Buggy
 
 # Beach Buggy
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case15/nezha-pro-ocean-kit-step-15-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-15-00.png.JPG)
 
 ## Story Introduction
 
@@ -138,7 +138,7 @@ Click **Download Program**
 
 When the ultrasonic sensor detects a distance < 20CM, the beach buggy randomly retreats to the left or right; if the ultrasonic sensor detects a distance > 20CM, the beach buggy moves forward.
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-15-00.png.gif)
 
 ---
 ## Extended Knowledge

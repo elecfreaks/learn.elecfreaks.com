@@ -5,7 +5,7 @@ sidebar_label: Case5:Weather Pal
 
 # Weather Pal
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case05/nezha-pro-ocean-kit-step-05-00.png.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/tupian/nezha-pro-ocean-kit-step-05-00.png.png)
 
 ## Story Introduction
 
@@ -129,6 +129,7 @@ Click **Download Program**
 The OLED displays the current temperature and humidity. When the temperature is higher than 30°C, the micro:bit shows a "crying face"; otherwise, it shows a "smiling face".
 
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/GIF/nezha-pro-ocean-kit-step-05-00.png.gif)
 
 ---
 ## Extended Knowledge

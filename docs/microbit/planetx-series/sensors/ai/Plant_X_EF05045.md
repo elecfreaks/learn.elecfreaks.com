@@ -29,7 +29,12 @@ SKU|EF05045
 接口类型|IIC
 工作电压|3.3V
 工作电流|300mA
-核心IC|V831
+
+### 不同版本的核心IC
+
+| 版本号 | v1.2 | v1.7 | v1.8 |
+| :-: | :-: | :-: | :-: |
+| 核心IC | K210 | V831 | K210 |
 
 
 AI摄像头的原点（0,0）在屏幕的左下角，X轴和Y轴的范围为：X（0 ~ 224），Y（0 ~ 224）。
@@ -113,11 +118,11 @@ RJ11转杜邦线|1
 
 AI摄像头会不定期更新一些新功能和性能优化，在发布新版本固件后，需要手动对AI摄像头进行固件更新。
 
-*注意：AI摄像头有AiCam V1.2和AiCam V1.7两个硬件版本，两个版本的固件不通用*
+*注意：AI摄像头有AiCam V1.2/AiCam V1.7/AiCam V1.8三个硬件版本，三个版本的固件不通用*
 
 ### 如何检查当前硬件版本
 
-AI摄像头有AiCam V1.2和AiCam V1.7两个版本，AiCam V1.7版本的背后有一个固件下载按键，我们可以根据固件下载按键或版本号对这两个版本的摄像头进行区分。
+AI摄像头有AiCam V1.2/AiCam V1.7/AiCam V1.8三个硬件版本，我们可以根据版本号对这三个版本的摄像头进行区分。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai/images/AI-gj-08.png)
 
@@ -139,7 +144,7 @@ AiCam V1.7版本软件包 v2.0.1[点击下载](https://github.com/elecfreaks/lea
 
 AiCam V1.7版本软件包 v2.0.4[点击下载](https://www.elecfreaks.com/download/AI-Cam-V2.0.1-V2.0.4-Upgrade-File.zip)。
 
-## AiCam V1.2固件更新方式
+## AiCam V1.2/AiCam V1.8固件更新方式（此处以AiCam V1.2为例）
 
 1.首先安装摄像头串口驱动程序：
 

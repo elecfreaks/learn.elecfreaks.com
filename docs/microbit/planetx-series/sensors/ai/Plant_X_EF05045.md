@@ -138,6 +138,8 @@ AiCam V1.2版本固件 v1.0.12 [点击下载](https://github.com/elecfreaks/lear
 
 AiCam V1.7版本固件 v2.0.1[点击下载](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/PhoenixSuit-master.zip)。
 
+AiCam V1.8版本固件 v1.1.9[点击下载](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/v1.1.9.kfpkg)。
+
 AiCam V1.7版本固件 v2.0.4[点击下载](https://www.elecfreaks.com/download/AI-Cam-V2.0.1-V2.0.4.zip)。
 
 AiCam V1.7版本软件包 v2.0.1[点击下载](https://github.com/elecfreaks/learn-cn/releases/download/V2.0.1/AI-Cam-V1.7-V2.0.1.zip)。

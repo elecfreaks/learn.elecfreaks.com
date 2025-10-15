@@ -2,8 +2,9 @@
 
 ## 产品介绍
 
-micro:bit Arcade Pro Kit是专为micro:bit V2打造的彩屏手柄式扩展板，它包含一个TFT 240 × 320彩屏、4个方向按钮、AB两个按钮、一个复位按钮、一个菜单键、一个电源开关,兼容jacdac传感器及积木结构。它外观小巧，手感舒适。Microbit Retro Arcade搭配micro:bit V2可以在微软Arcade编程平台实现游戏的脱机玩耍。通过简单趣味的方式帮助孩子自己编写游戏、了解游戏背后的奥义。它还支持自定义游戏角色、多样化场景和剧情设计，使用图形化编程软件，让每个人都能轻松实现有趣的电子创作和无限的游戏创意。
-micro:bit Arcade Pro Kit除了作为游戏编程学习机，还可以作为遥控手柄。
+micro:bit Arcade Pro Kit是专为micro:bit V2打造的彩屏手柄式扩展板，以“趣味编程+多元场景”为核心亮点。硬件上集成240×320 TFT彩屏、4向方向键、AB功能键及复位/菜单/电源开关，兼容jacdac传感器与积木结构，外观小巧便携且手感舒适。
+产品核心价值在于“边玩边学”：搭配micro:bit V2可接入微软Arcade编程平台，通过图形化编程实现游戏脱机玩耍，帮助孩子自主编写游戏、理解创作逻辑，支持自定义角色、多样化场景与剧情设计，轻松释放无限游戏创意。
+它还具备多场景适配能力：既能作为扩展游戏掌机专注编程创作，也可作为遥控手柄与机器人小车通讯控制，还能外接jacdac传感器拓展电子实验、智能互动等更多创作可能，是集“学习工具+娱乐设备+拓展平台”于一体的micro:bit周边好物。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/retro-arcade/microbit-arcade-pro-kit/microbit-arcade-pro-kit.png)
 

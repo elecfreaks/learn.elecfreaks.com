@@ -1,11 +1,12 @@
 ﻿# micro:bit Arcade Pro Kit
 
 ## Product Introduction
-The micro:bit Arcade Pro Kit is a color display gamepad-style expansion board designed specifically for the micro:bit V2. It includes a 240 × 320 TFT color display, 4 directional buttons, two action buttons (A and B), a reset button, a menu button, and a power switch. It is compatible with jacdac sensors and building block structures.
 
-Featuring a compact design and comfortable grip, the micro:bit Arcade Pro Kit can be paired with the micro:bit V2 to enable offline game play on Microsoft's Arcade programming platform. It helps children create their own games and understand the principles behind games through a simple and engaging approach. Additionally, it supports custom game characters, diverse scene designs, and plot creation. With block-based programming software, anyone can easily realize interesting electronic creations and unlimited game ideas.
+The micro:bit Arcade Pro Kit is a color display gamepad-style expansion board specifically designed for the micro:bit V2, with "fun programming + multi-scenario" as its core highlights. Hardware-wise, it integrates a 240×320 TFT color display, 4-way directional keys, AB function keys, as well as reset/menu/power switches. It is compatible with jacdac sensors and building block structures, featuring a compact and portable design with a comfortable grip.
 
-Beyond serving as a game programming learning tool, the micro:bit Arcade Pro Kit can also function as a remote control.
+The product's core value lies in "learning through play": when paired with the micro:bit V2, it can connect to Microsoft's Arcade programming platform. Through block-based programming, it enables offline gameplay, helping children independently create games and understand creation logic. It supports custom characters, diverse scenarios and plot designs, allowing easy unleashing of unlimited game creativity.
+
+It also has multi-scenario adaptability: it can not only serve as an expanded handheld game console focusing on programming creation, but also act as a remote control to communicate and control robot cars. Additionally, it can connect external jacdac sensors to expand more creative possibilities such as electronic experiments and intelligent interactions. It is an excellent micro:bit accessory that integrates "learning tool + entertainment device + expansion platform" into one.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/retro-arcade/microbit-arcade-pro-kit/microbit-arcade-pro-kit.png)
 

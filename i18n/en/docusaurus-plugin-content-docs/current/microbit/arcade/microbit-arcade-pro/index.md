@@ -1,8 +1,8 @@
-﻿# micro:bit Arcade Pro Kit
+﻿# micro:bit Arcade Pro
 
 ## Product Introduction
 
-The micro:bit Arcade Pro Kit is a color display gamepad-style expansion board specifically designed for the micro:bit V2, with "fun programming + multi-scenario" as its core highlights. Hardware-wise, it integrates a 240×320 TFT color display, 4-way directional keys, AB function keys, as well as reset/menu/power switches. It is compatible with jacdac sensors and building block structures, featuring a compact and portable design with a comfortable grip.
+The micro:bit Arcade Pro is a color display gamepad-style expansion board specifically designed for the micro:bit V2, with "fun programming + multi-scenario" as its core highlights. Hardware-wise, it integrates a 240×320 TFT color display, 4-way directional keys, AB function keys, as well as reset/menu/power switches. It is compatible with jacdac sensors and building block structures, featuring a compact and portable design with a comfortable grip.
 
 The product's core value lies in "learning through play": when paired with the micro:bit V2, it can connect to Microsoft's Arcade programming platform. Through block-based programming, it enables offline gameplay, helping children independently create games and understand creation logic. It supports custom characters, diverse scenarios and plot designs, allowing easy unleashing of unlimited game creativity.
 

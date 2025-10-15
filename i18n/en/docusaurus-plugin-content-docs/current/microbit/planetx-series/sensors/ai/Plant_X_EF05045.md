@@ -29,7 +29,12 @@ Connection|RJ11
 Connection Type|IIC
 Working Voltage|3.3V
 Working Current|300mA
-Core IC|V831
+
+### Core ICs of Different Versions
+
+| Version Number | v1.2 | v1.7 | v1.8 |
+| :-: | :-: | :-: | :-: |
+| Core IC | K210 | V831 | K210 |
 
 The origin of the AI Lens (0,0) is in the lower left corner of the screen, and the X and Y axes range from: X (0 ~ 224), Y (0 ~ 224).
 
@@ -79,11 +84,11 @@ Note:
 
 AI Lens will be updated with some new features and performance optimisation from time to time, you need to manually update the firmware of AI Lens after releasing the new version of firmware.
 
-*Note: There are two hardware versions of AiCam-AiCam V1.2 and AiCam V1.7, and the firmware of the two versions are not common*.
+*Note: The AI camera has three hardware versions: AiCam V1.2, AiCam V1.7, and AiCam V1.8. The firmware of these three versions is not compatible with each other.*.
 
 ### How to check the firmware version
 
-There are AiCam V1.2 and V1.7 for the AI lens, and there is a firmware download button on the back of the AiCam V1.7  we are able to differentiate these two versions by the download button or the version number.
+The AI camera has three hardware versions: AiCam V1.2, AiCam V1.7, and AiCam V1.8. We can distinguish these three versions of the camera by their version numbers.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-08.png)
 
@@ -98,12 +103,14 @@ AiCam V1.2 version firmware v1.0.12 [Click to download](https://github.com/elecf
 
 AiCam V1.7 version firmware v2.0.1 [click to download](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/PhoenixSuit-master.zip).
 
+AiCam V1.8 version firmware v1.1.9[点击下载](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/v1.1.9.kfpkg)。
+
 AiCam V1.7 version software package v2.0.1 [click to download](https://github.com/elecfreaks/learn-cn/releases/download/V2.0.1/AI-Cam-V1.7-V2.0.1.zip).
 
 AiCam V1.7 version software package v2.0.4 [click to download](https://www.elecfreaks.com/download/AI-Cam-V2.0.1-V2.0.4-Upgrade-File.zip)。
 
 
-## AiCam V1.2 firmware update method
+## Firmware Update Procedures for AiCam V1.2/AiCam V1.8 (Take AiCam V1.2 as an Example)
 
 1. Firstly install the camera serial driver:
 

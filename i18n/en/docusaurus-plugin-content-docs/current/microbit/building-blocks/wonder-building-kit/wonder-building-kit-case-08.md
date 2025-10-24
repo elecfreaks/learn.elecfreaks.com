@@ -150,7 +150,7 @@ Control the robot arm with the Joystick:bit, the left and right direction of the
 
 Handle Program: [https://makecode.microbit.org/_X8fi3JXR4Ybp](https://makecode.microbit.org/_X8fi3JXR4Ybp)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-08-07 .png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-08-07.png)
 
 Robotic Arm Program: [https://makecode.microbit.org/_544Vadd8sHJc](https://makecode.microbit.org/_544Vadd8sHJc)
 

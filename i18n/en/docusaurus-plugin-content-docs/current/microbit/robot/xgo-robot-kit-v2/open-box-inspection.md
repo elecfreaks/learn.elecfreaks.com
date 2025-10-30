@@ -21,7 +21,7 @@ Packing list:
 | project                                                   | Picture | Quantity |
 | :-------------------------------------------------------- | ------- | -------- |
 | XGO-Lite V2 complete machine (with XGO Adapter installed) |         | 1        |
-| Source Adapter 8.4V/1A                                    |         | 1        |
+| Type-C                                     |         | 1        |
 | Quick Start Manual                                        |         | 1        |
 | 30mm EVA ball                                             |         | 3        |
 | 25mm side length wooden cubes                             |         | 3        |

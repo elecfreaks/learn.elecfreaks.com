@@ -5,7 +5,7 @@
 
 - Iot:bit是一款micro:bit物联网科学实验扩展版，支持3pin接口的传感器，执行机构和蜂鸣器，板载了RTC时钟模块，即使主板断电，也会精准计时。
 
-- IoT:bit是一款基于micro:bit的物联网micro:bit扩展板，它使用ESP8266为WIFI扩展模块，使用串口与micro:bit通信，同时扩展了micro:bit上所有可用的IO口，以GVS形式引出，通过它能扩展各种3V的电子积木模块，如LED灯、光敏、舵机等。并且板载了蜂鸣器能够播放外音。板载RTC时钟，断电也可以继续计时。使用makecode编程扩展专属代码库，可以方便接入thingspeak，快速搭建物联网智能设备。
+- IoT:bit是一款基于micro:bit的物联网micro:bit扩展板，板载WIFI扩展模块，使用串口与micro:bit通信，同时扩展了micro:bit上所有可用的IO口，以GVS形式引出，通过它能扩展各种3V的电子积木模块，如LED灯、光敏、舵机等。并且板载了蜂鸣器能够播放外音。板载RTC时钟，断电也可以继续计时。使用makecode编程扩展专属代码库，可以方便接入thingspeak，快速搭建物联网智能设备。
 
  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/wisdom-life/microbit-smart-greenhouse-kit/images/microbit-greenhouse-hardware-introduction-02.png)
 

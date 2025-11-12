@@ -51,6 +51,12 @@ Nezha is an expanstion board for micro:bit with multuple functions available. It
 ## Main Parts Introduction
 ---
 
+When the device is powered off, press the power button once to turn it on, and the power indicator light will illuminate.
+
+When the device is powered on, press the power button twice consecutively to turn it off, and the power indicator light will go out.
+
+If the power indicator light flashes while the device is on, it indicates low battery. You can charge the device via the USB power port.
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/03444_04.png)
 
 [https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/file/nezha-Main-Parts-Introduction-V1.2.pdf](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/file/nezha-Main-Parts-Introduction-V1.2.pdf)

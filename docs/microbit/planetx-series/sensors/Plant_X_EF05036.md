@@ -156,7 +156,7 @@ SKU|EF05036
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05043_06.png)
 
-请参考程序连接：[https://makecode.microbit.org/_4eoUoJLffWsf](https://makecode.microbit.org/_4eoUoJLffWsf)
+请参考程序连接：[https://makecode.microbit.org/_h3mTRXhxKdAo](https://makecode.microbit.org/_h3mTRXhxKdAo)
 
 你也可以通过以下网页修改程序。
 <div
@@ -167,7 +167,7 @@ SKU|EF05036
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_4eoUoJLffWsf"
+        src="https://makecode.microbit.org/_h3mTRXhxKdAo"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

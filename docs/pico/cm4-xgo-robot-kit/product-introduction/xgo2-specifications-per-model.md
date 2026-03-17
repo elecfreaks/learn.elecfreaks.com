@@ -7,20 +7,20 @@ sidebar_label: XGO2 对照表
 
 XGO系列产品功能对照表：
 
-|  **参数**  |               **XGO-lite2**               |                  **XGO-mini2**                  |
+|  **参数**  |               **XGO-lite2**               |                  **XGO-mini2**                  |               **CM5-XGO-Robot**               |                  **CM5-XGO-Mini-Robot**                  |
 | :--------: | :---------------------------------------: | :---------------------------------------------: |
-|   上位机   |              树莓派CM4  2GB               |                 树莓派CM4  4GB                  |
-|  编程环境  |              Python/Blockly               |                 Python/Blockly                  |
-|   结构件   |                 1mm铝合金                 |                   1.5mm铝合金                   |
-|  整机尺寸  |           默认站姿250-145-170mm           |              默认站姿270-150-180mm              |
-|  整机重量  |                   575g                    |                      915g                       |
-| 机器狗关节 | 6V 2.3KG.塑料壳金属齿300度双轴TTL串口舵机 | 6V 4.5KG.CM金属壳钢齿360度磁编码双轴TTL串口舵机 |
-|  腿和足端  |                    ABS                    |                    硅胶+ABS                     |
-|   下位机   |                   ESP32                   |                      ESP32                      |
-|    电池    |             18650 2S 2500毫安             |                18650 2S 3500毫安                |
-|   充电器   |                  8.4V1A                   |                     8.4V1A                      |
-|  续航时间  |               综合工况2小时               |                  综合工况1小时                  |
-|    展示    |    ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-index.png)     |       ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-mini-index.png)       |
+|   上位机   |              树莓派CM4  2GB               |                 树莓派CM4  4GB                  |              树莓派CM5  2GB               |                 树莓派CM5  4GB                  |
+|  编程环境  |              Python/Blockly               |                 Python/Blockly                  |              Python/Blockly               |                 Python/Blockly                  |
+|   结构件   |                 1mm铝合金                 |                   1.5mm铝合金                   |                 1mm铝合金                 |                   1.5mm铝合金                   |
+|  整机尺寸  |           默认站姿250-145-170mm           |              默认站姿270-150-180mm              |           默认站姿250-145-170mm           |              默认站姿270-150-180mm              |
+|  整机重量  |                   575g                    |                      915g                       |                   575g                    |                      915g                       |
+| 机器狗关节 | 6V 2.3KG.塑料壳金属齿300度双轴TTL串口舵机 | 6V 4.5KG.CM金属壳钢齿360度磁编码双轴TTL串口舵机 | 6V 2.3KG.塑料壳金属齿300度双轴TTL串口舵机 | 6V 4.5KG.CM金属壳钢齿360度磁编码双轴TTL串口舵机 |
+|  腿和足端  |                    ABS                    |                    硅胶+ABS                     |                    ABS                    |                    硅胶+ABS                     |
+|   下位机   |                   ESP32                   |                      ESP32                      |                   ESP32                   |                      ESP32                      |
+|    电池    |             18650 2S 2500毫安             |                18650 2S 3500毫安                |             18650 2S 2500毫安             |                18650 2S 3500毫安                |
+|   充电器   |                  8.4V1A                   |                     8.4V1A                      |                  8.4V1A                   |                     8.4V1A                      |
+|  续航时间  |               综合工况2小时               |                  综合工况1小时                  |               综合工况2小时               |                  综合工况1小时                  |
+|    展示    |    ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-index.png)     |       ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-mini-index.png)       |    ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-index.png)     |       ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-mini-index.png)       |
 
 ## XGO-mini 与 XGO-lite 总线伺服舵机比较
 

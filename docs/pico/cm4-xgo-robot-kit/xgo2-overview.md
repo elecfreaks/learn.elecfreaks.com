@@ -45,11 +45,13 @@ XGO-mini2爆炸图
 
 （舵机ID如图所示：左前腿，右前腿，右后腿，左后腿，机械臂依次为舵机ID的第一位1，2，3 ， 4，5。每条腿下，中，上舵机分别为舵机ID的第二位1，2，3 。机械臂的上，中，下分别为51，52，53）。
 
-## XGO-CM4模组
+## XGO-CM4/XGO-CM5模组
 
-AI模组采用树莓派CM4技术方案，配有2.0寸IPS彩色显示屏幕和4个可编程按键，500万像素摄像头,数字麦克风及腔体扬声器，是一款拥有人机交互能力的AI终端，可以实现图像识别，人脸检测，语音识别等功能，帮助学生学习AI知识。
+AI模组采用树莓派CM4/CM5技术方案，配有2.0寸IPS彩色显示屏幕和4个可编程按键，500万像素摄像头,数字麦克风及腔体扬声器，是一款拥有人机交互能力的AI终端，可以实现图像识别，人脸检测，语音识别等功能，帮助学生学习AI知识。
 
 XGO-CM4原理图下载：链接：https://www.elecfreaks.com/download/xgo/raspberry-cm4.pdf
+
+XGO-CM4原理图下载：链接：https://www.elecfreaks.com/download/xgo/raspberry-cm5.pdf
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-overview-05.png)
 

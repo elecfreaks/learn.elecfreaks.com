@@ -1,4 +1,7 @@
-﻿# micro:bit Arcade Pro
+---
+sidebar_position: 2
+sidebar_label: micro:bit Arcade Pro
+---
 
 ## Product Introduction
 

@@ -1,4 +1,7 @@
-﻿# micro:bit Arcade Arcade ES
+---
+sidebar_position: 2
+sidebar_label: Manual-Retro-Arcade-ES
+---
 
 
 <iframe

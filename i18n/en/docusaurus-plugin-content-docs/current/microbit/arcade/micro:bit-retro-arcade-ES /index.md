@@ -1,1 +1,6 @@
-micro:bit retro arcade (ES )
+---
+sidebar_position: 5
+---
+
+# Arcade
+---

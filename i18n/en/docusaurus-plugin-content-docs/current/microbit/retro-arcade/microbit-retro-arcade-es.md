@@ -1,8 +1,13 @@
 # micro:bit Retro Arcade ES
 
 ## Product introduction(pdf)
+
+<div style="width:100%; height:80vh; overflow:auto;">
+
 <iframe
   src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/pdf/Manual-Retro-Arcade-ES.pdf"
   width="100%"
   height="100">
 </iframe>
+
+</div>

@@ -10,7 +10,7 @@ sidebar_label： 桌面级四轮足机器狗（XGO-mini3W）使用说明
 
 ## 核心安全警示 (Critical Safety Protocol)
 
-**禁止手持开机 ** 
+**禁止手持开机** 
 
 机器人在启动过程中，内部惯性测量单元（IMU）需进行零偏自动校准 。
 

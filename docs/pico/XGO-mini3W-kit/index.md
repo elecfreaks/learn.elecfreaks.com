@@ -9,14 +9,15 @@ sidebar_label: 桌面级四轮足机器狗（XGO-mini3W）
 # 概述：终极混合形态 (The Ultimate Hybrid Form)
 
   XGO-mini3W 代表了 XGO 桌面机器人系列的巅峰之作 (Pinnacle) 。它建立在 XGO 系列久经考验的 15自由度架构之上，但引入了革命性的轮足混合动力总成 (Wheeled-Legged Powertrain) 。 通过将传统的静态足端替换为一体化 FOC 轮毂电机，mini3W 彻底消除了速度与地形适应性之间的妥协 。它既能在平地上像跑车一样静音巡航，又能瞬间锁定轮组，像机器狗一样跨越障碍——同时利用集成的机械臂执行复杂的抓取任务 。
+  
 
 # 核心创新 (Key Innovations)
 
-## 混合运动策略 (Hybrid Locomotion Strategy)
+### 混合运动策略 (Hybrid Locomotion Strategy)
 
   - **高速滚动 (High-Speed Rolling)：** 在平坦地面上，机器人利用 4 个动力轮高效移动，实现了传统足式机器人无法比拟的速度与静音效果 。
 
-  - **地形适应 (Terrain Adaptation)：** 遇到障碍或崎岖路面时，机器人激活 12 个腿部关节，通过踏步、攀爬以及调整机身高度/倾角来从容应对 。
+  - **地形适应 (Terrain Adaptation)：** 遇到障碍或崎岖路面时，机器人激活 12 个腿部关节，通过踏步、攀爬以及调整机身高度/倾角来从容应对 
 
   - **滑冰模式 (Skating Mode)：** 一种独特的融合模式——机器人利用腿部运动学进行“蹬地”加速或姿态调整，在滚动中实现类似冰样滑行的“漂移”效果 。
 
@@ -28,7 +29,7 @@ sidebar_label: 桌面级四轮足机器狗（XGO-mini3W）
 
   - **极速响应：** 空心杯结构设计确立了极低的转动惯量，支持毫秒级的急启急停控制 。
 
-## 优化的全能架构 (Optimized Architecture)
+### 优化的全能架构 (Optimized Architecture)
 
   - **强劲关节：** 腿部采用 4.5kg.cm 磁编码总线舵机，提供从蹲伏状态快速起立所需的爆发扭矩 。
 

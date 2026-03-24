@@ -33,12 +33,12 @@ sidebar_label： 桌面级四轮足机器狗（XGO-mini3W）使用说明
 短按位于机器人背部的电源键。
 
 **状态指示：** 电源键周围的环形LED将快速闪烁，随后转为常亮状态，表明底层电路已接通 。
-！[](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-inspection-01.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-inspection-01.gif)
 
 **关机**
 按下背部电源开关，环形灯缓慢闪烁，机器狗缓缓趴下，机械臂收回，然后环形灯熄灭，表示系统完全关机。
 
-！[](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-inspection-02.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-inspection-02.gif)
 
 3. 动控制单元初始化（“唤醒”序列）
 
@@ -71,4 +71,4 @@ XGO-mini3w(Quadruped)：充电口通常位于机器狗腹部，为DC圆孔。
 **充电时长 (Duration)**
 - 完整充电周期通常需要 1.5 - 2 小时（具体取决于剩余电量及电池型号）。
 - 严禁超过 12 小时过度充电。
-  ！[](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-preparation-04.gif)
+  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-preparation-04.gif)

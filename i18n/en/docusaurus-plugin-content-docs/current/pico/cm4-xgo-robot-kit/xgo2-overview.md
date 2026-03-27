@@ -7,7 +7,7 @@ sidebar_label: XGO 2 Overview
 
 ## XGO2 Architecture Diagram
 
-The XGO2 robot dog features a core architecture comprised of two main components. The first is the Raspberry XGO-CM4, an artificial intelligence module serving as the host computer responsible for all AI tasks. The second is a slave computer developed with ESP32, which manages the power system, servo drive, and core gait algorithm of the robot dog. Communication between the host and slave occurs through a serial port.
+The XGO2 robot dog features a core architecture comprised of two main components. The first is the Raspberry XGO-CM4/CM5, an artificial intelligence module serving as the host computer responsible for all AI tasks. The second is a slave computer developed with ESP32, which manages the power system, servo drive, and core gait algorithm of the robot dog. Communication between the host and slave occurs through a serial port.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-overview-01.png)
 
@@ -41,15 +41,14 @@ XGO-mini2
 
 leg , servo ID
 
-## XGO-CM4
+## XGO-CM4 / XGO-CM5 Module
 
-XGO-CM4 is powered by a Raspberry Pi Computer Module 4 (CM4), featuring a quad-core Cortex-A72 CPU that runs at 1.5GHz, and a 2-inch IPS screen with a resolution of 320 x 240. The device has ample RAM (2GB) for multitasking and a reasonable amount of storage (32GB Micro SD card) for installing an operating system, allowing for fast boot up times and a smooth overall operating experience. It supports wireless connectivity through dual-band 2.4GHz/5GHz Wi-Fi and Bluetooth 5.0 BLE.
-
-XGO-CM4 also includes a high-speed expansion interface with 4 programmable keys, two speaker ports for playing media, a USB 2.0 Type-C port, and a micro-HDMI port for external devices. Additionally, the 4-pin PH2.0 allows for a wide range of other hardware applications with serial communication.
+This AI module adopts the Raspberry Pi CM4/CM5 technical solution. It is equipped with a 2.0-inch IPS color display, four programmable buttons, a 5MP camera, a digital microphone and a cavity speaker. As an AI terminal with human-computer interaction capabilities, it supports image recognition, face detection, voice recognition and other functions to help students learn AI knowledge.
 
 [XGO-CM4 carrier board schematic Download](https://drive.google.com/file/d/1QnI0QfcOz2QENuufSl5sco3uHnJT6hEt/view?usp=share_link).
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/pico/cm4-xgo-robot-kit/images/cm4-xgo-overview-05.png)
+
 XGO-CM4
 
 ## XGO2 Driver

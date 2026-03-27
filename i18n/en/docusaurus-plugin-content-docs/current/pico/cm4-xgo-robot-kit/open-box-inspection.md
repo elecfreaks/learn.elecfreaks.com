@@ -56,6 +56,43 @@ Verify that all accessories included with the product are complete and as descri
 | Mechanical claw set screw                                    | 2    |
 | gear set screw                                               | 2    |
 
+## CM5-XGO Robot Package List:
+
+| Item | Quantity |
+| :--- | :--- |
+| XGO-lite V2 Robot (Pre-installed with Raspberry Pi CM5 Module) | 1 |
+| Power Adapter 8.4V/1A | 1 |
+| Quick Start Manual | 1 |
+| 30mm EVA Balls | 3 |
+| 25mm Wooden Cubes | 3 |
+| Type-C USB Hub | 1 |
+| Micro HDMI to HDMI Cable | 1 |
+| Phillips Screwdriver 3.0 | 1 |
+| Phillips Screwdriver 2.0 | 1 |
+| Servo Disc Screws | 6 |
+| Servo Mounting Screws | 4 |
+| Housing Fixing Screws | 2.0 |
+| Gripper Fixing Screws | 2 |
+| Gear Fixing Screws | 2 |
+
+## CM5-XGO Mini Robot Package List:
+
+| Item | Quantity |
+| :--- | :--- |
+| XGO-mini V2 Robot (Pre-installed with Raspberry Pi CM5 Module) | 1 |
+| Power Adapter 8.4V/1A | 1 |
+| Quick Start Manual | 1 |
+| 30mm EVA Balls | 3 |
+| 25mm Wooden Cubes | 3 |
+| Type-C USB Hub | 1 |
+| Micro HDMI to HDMI Cable | 1 |
+| Phillips Screwdriver 2.0 | 1 |
+| Servo Disc Screws | 6 |
+| Servo Mounting Screws | 4 |
+| Housing Fixing Screws | 2 |
+| Gripper Fixing Screws | 2 |
+| Gear Fixing Screws | 2 |
+
 ### 3. Check the appearance
 
 Check that the product is in good condition and that there are no obvious scuffs, scratches or dents.

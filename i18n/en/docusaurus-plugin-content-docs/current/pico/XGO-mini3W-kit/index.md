@@ -7,7 +7,7 @@ sidebar_label: Desktop-Grade Wheeled-Legged Robot Dog (XGO-mini3W)
 
 XGO-mini3W is a 15-degree-of-freedom desktop-grade AI wheeled-legged robot dog. It is equipped with a robotic arm and an end gripper on its back, and integrates a Raspberry Pi CM5 module to support AI edge computing applications. It adopts 4.5 kg·cm metal-gear magnetic encoder bus serial servos for its joints, enabling omnidirectional movement, six-dimensional attitude control, posture stabilization, various gaits, and grasping tasks. The integrated FOC hub motors at the foot ends simplify the transmission structure, improve efficiency, and make the robot respond agilely and move smoothly, adapting to various terrains. It is internally equipped with an IMU, joint position sensors, and current sensors to feed back its attitude, joint angles and torque for internal algorithms and secondary development.
 
-![](image)
+
 
 # Overview: The Ultimate Hybrid Form
 

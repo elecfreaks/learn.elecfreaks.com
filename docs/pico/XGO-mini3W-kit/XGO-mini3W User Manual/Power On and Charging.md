@@ -72,3 +72,5 @@ XGO-mini3w(Quadruped)：充电口通常位于机器狗腹部，为DC圆孔。
 - 完整充电周期通常需要 1.5 - 2 小时（具体取决于剩余电量及电池型号）。
 - 严禁超过 12 小时过度充电。
   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/pico/cm4-xgo-robot-kit/images/cm4-xgo-preparation-04.gif)
+
+  ---

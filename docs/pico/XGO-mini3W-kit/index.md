@@ -93,3 +93,10 @@ XGO 采用了一种模仿生物神经系统的异构双层架构 (Heterogeneous 
   
 - **上行链路 (Telemetry)：** 下位机实时回传机器人状态（IMU 姿态、关节电流、电池电压），为上层 AI 提供决策依据，形成完整的感知-决策-执行闭环。
 
+- ---
+## 目录
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+<DocCardList />
+```
+

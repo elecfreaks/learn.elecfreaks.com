@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Desktop-Grade Wheeled-Legged Robot Dog (XGO-mini3W) User Manual
+sidebar_label:  CM5 XGO-mini3W User Manual
 ---
 
 # Power On & Charging

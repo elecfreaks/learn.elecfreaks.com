@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Desktop-Grade Wheeled-Legged Robot Dog (XGO-mini3W)
+sidebar_label: CM5 XGO-mini3W
 ---
 
 # Introduction

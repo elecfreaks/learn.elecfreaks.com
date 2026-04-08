@@ -1,6 +1,6 @@
 ---
-sidebar_position：1
-sidebar_label： 桌面级四轮足机器狗（XGO-mini3W）使用说明
+sidebar_position: 1
+sidebar_label: "桌面级四轮足机器狗（XGO-mini3W）使用说明"
 ---
 
 # 开机与充电

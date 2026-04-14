@@ -132,7 +132,7 @@ Follow your own design to create a robot that imitates an animal crawling with b
 
 ##### Hardware Connections
 
-Connect the motor to the M1 port on Nezha expansion board. 
+Connect the motor to the M1 port on Nezha expansion board.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-07-02.png)
 
@@ -150,18 +150,18 @@ Click extensions
 
 
 
- Search with `nezha`to add the package. 
+ Search with `nezha`to add the package.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-19-06.png)
 
 Code
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-07-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-10-07.png)
 
 
-Link: [https://makecode.microbit.org/_i3CacvKkc40L](https://makecode.microbit.org/_i3CacvKkc40L)
+Link: [https://makecode.microbit.org/_THt7wrPrE8gr](https://makecode.microbit.org/_THt7wrPrE8gr)
 
-You may download it directly below: 
+You may download it directly below:
 
 <div
     style={{
@@ -171,7 +171,7 @@ You may download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_i3CacvKkc40L"
+        src="https://makecode.microbit.org/_THt7wrPrE8gr"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -190,7 +190,7 @@ You may download it directly below:
 
 #### Result
 
-Press button A on the micro:bit to start the device and press button B to stop it. 
+Press button A on the micro:bit to start the device and press button B to stop it.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-07.gif)
 

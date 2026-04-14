@@ -156,10 +156,10 @@ sidebar_position: 8
 
 编写程序
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-07-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-10-07.png)
 
 
-程序链接:[https://makecode.microbit.org/_i3CacvKkc40L](https://makecode.microbit.org/_i3CacvKkc40L)
+程序链接:[https://makecode.microbit.org/_Xi0Xrg8704CH](https://makecode.microbit.org/_Xi0Xrg8704CH)
 
 你也可以通过以下网页直接下载程序。
 
@@ -171,7 +171,7 @@ sidebar_position: 8
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_i3CacvKkc40L"
+        src="https://makecode.microbit.org/_Xi0Xrg8704CH"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

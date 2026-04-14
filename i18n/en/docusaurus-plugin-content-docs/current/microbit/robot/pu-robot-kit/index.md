@@ -5,14 +5,15 @@ sidebar_label: micro:bit PU Robot Kit(EF08449)
 
 # micro:bit PU Robot Kit(EF08449)
 
-## 简介
+## Overview
 ---
 
-PU 机器人是专为 STEAM 教育打造的智能教育机器人，采用模块化结构设计，兼容积木搭建。支持 GPIO、IIC 等标准接口与传感器扩展，配备 LED 大灯、超声波传感器。出厂预装跳舞、踢腿等多种趣味动作程序，支持遥控器控制机器人移动、预设动作表演，还可实现头部仰俯转动，开箱即玩。
+The PU Robot is an intelligent educational robot designed specifically for STEAM education. It adopts a modular structure and is compatible with building block construction. It supports standard interfaces such as GPIO and IIC for sensor expansion, and is equipped with LED headlights and an ultrasonic sensor.
+The robot comes pre-installed with a variety of interesting action programs such as dancing and leg kicking. It supports remote control for movement and preset action performances, and can also realize head tilting rotation. It is ready to play right out of the box.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/xgo-rider-kit/images/microbit-xgo-rider-kit-introdutin-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/pu-robot-01.png)
 
-## 目录
+## Table of Contents
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

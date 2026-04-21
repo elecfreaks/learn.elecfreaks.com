@@ -1,6 +1,6 @@
 ---
 sidebar_position: 12
-sidebar_label: 案例四: 动作顺序与延时优化
+sidebar_label: 案例四:动作顺序与延时优化
 ---
 
 

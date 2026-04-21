@@ -1,6 +1,6 @@
 ---
 sidebar_position: 13
-sidebar_label: 案例四: 组合动作编程——舞蹈机器人
+sidebar_label: 案例四:组合动作编程——舞蹈机器人
 ---
 
 

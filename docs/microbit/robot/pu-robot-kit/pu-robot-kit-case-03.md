@@ -1,6 +1,6 @@
 ---
 sidebar_position: 11
-sidebar_label: 案例三: 让机器人“听话”
+sidebar_label: 案例三:让机器人“听话”
 ---
 
 

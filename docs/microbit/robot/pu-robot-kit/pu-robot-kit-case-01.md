@@ -1,6 +1,6 @@
 ---
 sidebar_position: 9
-sidebar_label: 案例一: PU机器人基础动作模仿秀
+sidebar_label: 案例一:PU机器人基础动作模仿秀
 ---
 
 

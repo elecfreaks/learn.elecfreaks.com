@@ -11,19 +11,19 @@ sidebar_label: 软件库说明
 
 进入“[makecode.microbit.org](https://makecode.microbit.org)”，点击**新建项目**。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/microbit-space-science-kit-case01-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-07.png)
 
 ## 新建项目
 
 在弹出窗口输入项目名称并点击**创建**。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/microbit-space-science-kit-case01-11.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-11.png)
 
 ## 添加软件库
 
 点击代码抽屉中的**扩展**。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/microbit-space-science-kit-case01-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-case01-09.png)
 
 在弹出界面输入**pu robot**并点击搜索图标，在显示**pu robot**软件库后点击。
 

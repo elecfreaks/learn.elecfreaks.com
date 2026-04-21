@@ -10,3 +10,6 @@
   height="600px">
 </iframe>
 
+import PdfViewer from '@site/src/components/PdfViewer';
+
+<PdfViewer url="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/retroarcade/pdf/Manual-Retro-Arcade-ES.pdf" title="Retro Arcade ES Manual" />

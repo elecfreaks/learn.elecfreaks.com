@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 8
 sidebar_label: 如何下载程序
 ---
 

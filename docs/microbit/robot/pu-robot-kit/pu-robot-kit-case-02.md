@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 10
 sidebar_label: 案例二: 机器人行走挑战
 ---
 

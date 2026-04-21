@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 9
 sidebar_label: 案例一: PU机器人基础动作模仿秀
 ---
 

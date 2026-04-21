@@ -11,9 +11,9 @@ sidebar_label: 烧录固件
 
 1. 获取固件
 
-PU Robot固件下载：(https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/pu-robot-0.6.0.hex)[https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/pu-robot-0.6.0.hex]
+PU Robot固件下载：[https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/pu-robot-0.6.0.hex](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/pu-robot-0.6.0.hex)
 
-遥控手柄固件下载：(https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/microbit-pu_Gamepad_control(0.5.3).hex)[https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/microbit-pu_Gamepad_control(0.5.3).hex]
+遥控手柄固件下载：[https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/microbit-pu_Gamepad_control(0.5.3).hex](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/microbit-pu_Gamepad_control(0.5.3).hex)
 
 2. 将固件分别下载到PU机器人和遥控手柄对应的两个micro:bit.
 

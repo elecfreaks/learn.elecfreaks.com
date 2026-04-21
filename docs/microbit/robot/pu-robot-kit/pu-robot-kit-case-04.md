@@ -51,14 +51,14 @@ sidebar_label: 案例四:动作顺序与延时优化
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/pu-robot-case-03-01.png)
 
-程序链接：(https://makecode.microbit.org/_DwbHT85Ve5a1)[https://makecode.microbit.org/_DwbHT85Ve5a1]
+程序链接：[https://makecode.microbit.org/_DwbHT85Ve5a1](https://makecode.microbit.org/_DwbHT85Ve5a1)
 
 
 程序二：
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/pu-robot-case-04-01.png)
 
-程序链接：(https://makecode.microbit.org/_X7JH8pYaKXV0)[https://makecode.microbit.org/_X7JH8pYaKXV0]
+程序链接：[https://makecode.microbit.org/_X7JH8pYaKXV0](https://makecode.microbit.org/_X7JH8pYaKXV0)
 
 ## 总结分享
 

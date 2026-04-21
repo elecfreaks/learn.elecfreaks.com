@@ -68,7 +68,7 @@ sidebar_label: 案例三:让机器人“听话”
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/pu-robot-case-03-01.png)
 
-程序链接：(https://makecode.microbit.org/_DwbHT85Ve5a1)[https://makecode.microbit.org/_DwbHT85Ve5a1]
+程序链接：[https://makecode.microbit.org/_DwbHT85Ve5a1](https://makecode.microbit.org/_DwbHT85Ve5a1)
 
 ### 下载程序
 

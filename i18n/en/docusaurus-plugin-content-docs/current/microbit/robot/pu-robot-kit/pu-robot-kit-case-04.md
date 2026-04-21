@@ -44,7 +44,7 @@ Program Link: [https://makecode.microbit.org/_DwbHT85Ve5a1](https://makecode.mic
 
 **Program 2**:
 
-![](https://wiki-media-ef.oss-cn-hongkong.com/docs/microbit/robot/pu-robot-kit/pu-robot-case-04-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/pu-robot/pu-robot-case-04-01.png)
 
 Program Link: [https://makecode.microbit.org/_X7JH8pYaKXV0](https://makecode.microbit.org/_X7JH8pYaKXV0)
 

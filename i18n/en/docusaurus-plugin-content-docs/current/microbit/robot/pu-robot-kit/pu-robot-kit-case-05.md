@@ -36,21 +36,16 @@ In the last class, we learned to adjust action sequences, optimize delay paramet
 
 **Program 1: Default Dance (Moves can be adjusted to match music rhythm)**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/pu-robot-case-05-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/pu-robot/pu-robot-case-05-01.png)
 
 Program Link: [https://makecode.microbit.org/_diwPuMPuWCrT](https://makecode.microbit.org/_diwPuMPuWCrT)
 
 **Program 2: Programmed Head Shaking Motion**
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/pu-robot-case-05-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/pu-robot/pu-robot-case-05-02.png)
 
 Program Link: [https://makecode.microbit.org/_bTf0aYV0MRyy](https://makecode.microbit.org/_bTf0aYV0MRyy)
 
-**Program 3: Programmed Nodding Motion**
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/pu-robot-case-04-01.png)
-
-Program Link: [https://makecode.microbit.org/_X7JH8pYaKXV0](https://makecode.microbit.org/_X7JH8pYaKXV0)
 
 ## Summary & Sharing
 Invite each group to share their programming experience and observations from class activities. Based on students’ sharing, the teacher briefly explains sequential program execution and the function of the pause block.

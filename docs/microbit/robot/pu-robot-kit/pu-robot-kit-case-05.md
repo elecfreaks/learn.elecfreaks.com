@@ -58,11 +58,6 @@ sidebar_label: 案例四:组合动作编程——舞蹈机器人
 
 程序链接：(https://makecode.microbit.org/_bTf0aYV0MRyy)[https://makecode.microbit.org/_bTf0aYV0MRyy]
 
-程序三：通过编程设置机器人执行点头动作
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/pu-robot-case-04-01.png)
-
-程序链接：(https://makecode.microbit.org/_X7JH8pYaKXV0)[https://makecode.microbit.org/_X7JH8pYaKXV0]
 
 ## 总结分享
 

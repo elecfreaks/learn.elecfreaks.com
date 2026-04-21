@@ -9,8 +9,9 @@ If you need to update the firmware of your PU Robot, please follow these steps:
 
 1. Get the Firmware
 
-PU Robot Firmware Download:
-Remote Controller Firmware Download:
+PU Robot Firmware Download:(https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/pu-robot-0.6.0.hex)[https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/pu-robot-0.6.0.hex]
+
+Remote Controller Firmware Download:(https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/microbit-pu_Gamepad_control(0.5.3).hex)[https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/microbit-pu_Gamepad_control(0.5.3).hex]
 
 2. Flash the firmware separately to the two micro:bit boards corresponding to the PU Robot and the remote controller.
 

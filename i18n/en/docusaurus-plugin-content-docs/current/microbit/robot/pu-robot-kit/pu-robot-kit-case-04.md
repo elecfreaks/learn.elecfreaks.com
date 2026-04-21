@@ -1,6 +1,6 @@
 ---
 sidebar_position: 12
-sidebar_label: Case 4: Action Sequence and Delay Optimization
+sidebar_label: Case 4:Action Sequence and Delay Optimization
 ---
 
 # Case 4: Action Sequence and Delay Optimization

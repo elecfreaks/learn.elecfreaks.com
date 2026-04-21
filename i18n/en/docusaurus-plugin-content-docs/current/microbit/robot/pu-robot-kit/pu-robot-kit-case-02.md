@@ -1,6 +1,6 @@
 ---
 sidebar_position: 10
-sidebar_label: Case 2: Robot Walking Challenge
+sidebar_label: Case 2:Robot Walking Challenge
 ---
 
 # Case 2: Robot Walking Challenge

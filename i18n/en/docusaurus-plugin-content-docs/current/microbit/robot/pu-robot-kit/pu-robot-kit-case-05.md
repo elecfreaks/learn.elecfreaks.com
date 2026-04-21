@@ -1,6 +1,6 @@
 ---
 sidebar_position: 13
-sidebar_label: Case 5: Combined Action Programming – Dancing Robot
+sidebar_label: Case 5:Combined Action Programming – Dancing Robot
 ---
 
 # Case 5: Combined Action Programming – Dancing Robot

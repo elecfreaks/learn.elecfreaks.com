@@ -1,6 +1,6 @@
 ---
 sidebar_position: 9
-sidebar_label: Case 1: PU Robot Basic Action Imitation Show
+sidebar_label: Case 1:PU Robot Basic Action Imitation Show
 ---
 
 # Case 1: PU Robot Basic Action Imitation Show

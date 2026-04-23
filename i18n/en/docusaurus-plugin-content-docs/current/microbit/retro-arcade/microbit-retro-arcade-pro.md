@@ -5,7 +5,7 @@
 micro:bit Retro Arcade is a color screen joystick expansion board for micro:bit V2, it contains a TFT 160*128 color screen, 4 directional buttons, two A/B buttons and a reset button. micro:bit Retro Arcade can be used with micro:bit V2 to program games online and play offline on the Microsoft Arcade programming platform. It is a simple and fun way to help children write their own games and understand the mystery behind them. It also supports custom game characters, diverse scenarios and plot design using graphical programming software, making it easy for everyone to achieve fun electronic creations and unlimited game ideas.
 micro:bit Retro Arcade can also be used as a remote control handle in addition to a game programming learning machine.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/retro-arcade/microbit-arcade-pro-kit/microbit-arcade-pro-kit.png)
 
 
 ## Purchase link
@@ -213,9 +213,9 @@ Make sure Expermental Hardware is enabled (you only need to set it once)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-18.png)
 
-Then go back to the programming home page, click on the download button in the bottom left corner, and in the pop-up select hardware window pull down to the bottom and select `micro:bit Retro Shield`。
+Then go back to the programming home page, click on the download button in the bottom left corner, and in the pop-up select hardware window pull down to the bottom and select `micro:bit Arcade Pro`。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/retro-arcade/microbit-arcade-pro-kit/microbit-arcade-pro-kit-download-01.png)
 
 Click to download, you will get a file in .hex format, drag it into the MICROBIT drive to run it on micro:bit V2 + Microbit Retro Arcade.
 

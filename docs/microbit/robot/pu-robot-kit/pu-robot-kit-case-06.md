@@ -1,11 +1,11 @@
 ---
-sidebar_position: 13
-sidebar_label: 案例五:条件判断⼊⻔⸺机器⼈避障编程
+sidebar_position: 14
+sidebar_label: 案例六:组合动作编程——舞蹈机器人
 ---
 
 
 
-# 案例五: 条件判断⼊⻔⸺机器⼈避障编程
+# 案例六:组合动作编程——舞蹈机器人
 
 ## 案例简介
 

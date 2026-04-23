@@ -114,6 +114,8 @@ To prevent the sprite from moving out of the screen screen, set the sprite to be
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-15.png)
 
+Link: [https://makecode.com/_C06X39Xb85Kd](https://makecode.com/_C06X39Xb85Kd)
+
 ## Game Download
 
 ### Download steps
@@ -133,7 +135,7 @@ Make sure Expermental Hardware is enabled (you only need to set it once)
 Then go back to the programming home page, click on the download button in the bottom left corner, and in the pop-up select hardware window pull down to the bottom and select N3
 
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-19.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/retro-arcade/microbit-arcade-pro-kit/microbit-arcade-pro-kit-download-01.png)
 
 You will get a file in .hex format, drag it into the MICROBIT drive to run it on micro:bit V2 + Microbit Retro Arcade.
 
@@ -153,6 +155,7 @@ The following materials are required for this case.
 Programming platform
 
 Link: [https://makecode.microbit.org/#](https://makecode.microbit.org/#)
+
 Create a new project to go to the programming home page
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-20.png)

@@ -37,13 +37,10 @@ It adapts to multiple application scenarios: it works as a portable game console
 
 # Packing List
 
-1 × Arcade Pro Main Unit
-
-1 × Type-C Cable
-
-1 × Lanyard
-
-1 × User Manual
+- Arcade Pro Kit × 1
+- Type-C Cable × 1
+- Lanyard × 1
+- User Manual × 1
 
 # Product Layout
 
@@ -57,15 +54,15 @@ It adapts to multiple application scenarios: it works as a portable game console
 
 | Working Status | Light Indication |
 | ---- | ---- |
-| Normal Operation | Green Light On |
-| Low Power (Remaining 20% Power) | Red Light On |
-| Critical Low Power & Auto Shutdown | Red Light Flashes for 5 Seconds Then Auto Shutdown |
-| Charging | Red Light Flashing |
-| Fully Charged | Green Light On |
+| In Operation | Green Light |
+| Low Battery (20% remaining power) | Red Light |
+| Auto Shutdown Due to Extremely Low Battery	 | Red Light Flashes for 5 Seconds, Then Auto Shutdown |
+| Charging | Flashing Red Light |
+| Fully Charged | Green Light |
 
 ## Game Programming Guide
 
-Welcome to learning Retro Arcade! For more information, please refer to: [https://arcade.makecode.com/](https://arcade.makecode.com/)
+Welcome to learning Retro Arcade Pro! For more information, please refer to: [https://arcade.makecode.com/](https://arcade.makecode.com/)
 
 Click on the corresponding project to access the project tutorial and learn through the process of game development.
 

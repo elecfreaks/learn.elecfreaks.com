@@ -1,60 +1,67 @@
 # micro:bit Retro Arcade Pro
 
-## Product introduction
+# Product Introduction
+The micro:bit Arcade Pro is a handheld color screen expansion board tailor-made for the micro:bit V2. Centered on the core highlights of **fun programming & multi-scenario application**, it is hardware-equipped with a 240×320 TFT color screen, 4-way directional keys, AB function buttons, as well as reset, menu and power switches. It is compatible with Jacdac sensors and building block structures, featuring a compact, portable design and comfortable hand feel.
 
-micro:bit Retro Arcade is a color screen joystick expansion board for micro:bit V2, it contains a TFT 160*128 color screen, 4 directional buttons, two A/B buttons and a reset button. micro:bit Retro Arcade can be used with micro:bit V2 to program games online and play offline on the Microsoft Arcade programming platform. It is a simple and fun way to help children write their own games and understand the mystery behind them. It also supports custom game characters, diverse scenarios and plot design using graphical programming software, making it easy for everyone to achieve fun electronic creations and unlimited game ideas.
-micro:bit Retro Arcade can also be used as a remote control handle in addition to a game programming learning machine.
+Its core value lies in **learning through play**. Paired with micro:bit V2, it connects to the Microsoft Arcade programming platform. Users can create offline playable games via block-based programming, enabling children to independently design games and understand creative logic. It supports custom characters, diverse scenes and storyline design, fully unlocking unlimited game creation potential.
+
+It adapts to multiple application scenarios: it works as a portable game console for programming creation, a remote controller to communicate with and control robot cars, and a Jacdac expansion board to connect external Jacdac sensors for electronic experiments and intelligent interactive projects. Integrating learning tool, entertainment device and expansion platform in one, it is an all-in-one essential accessory for micro:bit.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/retro-arcade/microbit-arcade-pro-kit/microbit-arcade-pro-kit.png)
 
+# Features
+- Functions as a remote control handle for communication and control of robot cars
+- Acts as an extended handheld game console to create customized games via block-based programming
+- Serves as a Jacdac expansion board to connect external Jacdac sensors
 
-## Purchase link
+# Basic Specifications
+| Item | Parameter |
+| ---- | ---- |
+| Product Name | micro:bit Arcade Pro |
+| SKU | EF08438 |
+| Product Dimension | 140mm(L) × 82mm(W) × 21mm(H) (excluding micro:bit main board) |
+| Product Weight | 102g (including battery and shell) |
+| Interface Type | Type-C, micro:bit, Jacdac |
+| Screen Type | TFT LCD Screen |
+| Screen Resolution | 240 × 320 |
+| Power Supply | Lithium battery powered |
+| Charging Voltage | 5V |
+| Charging Current | 1A |
+| Maximum Operating Voltage | 4.2V |
+| Rated Operating Voltage | 3.7V |
+| Minimum Operating Voltage | 3.5V |
+| Standby Current | 0.03A |
+| Jacdac Power Supply Voltage | 4.2V |
+| Max Current of Jacdac Interface | 1A |
+| Charging Time | 65min |
 
-<!--[Microbit Retro Arcade]()-->
+# Packing List
 
-## Features
+1 × Arcade Pro Main Unit
 
-- It can be used as a remote control handle to communicate with the robot trolley
-- It can be used as an extended game handheld to create individual games through graphical programming
+1 × Type-C Cable
 
-## Basic parameters
+1 × Lanyard
 
-| Projects | Parameters |
-|---|---|
-| Screen Type | TFT screen |
-| Screen size | 128 x 160 |
-| Size | 13.79cm x 8.13cm |
-| Net weight | 52g |
-| Power supply method | Dry Battery |
+1 × User Manual
 
-<!--## Form and size positioning
+# Product Layout
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/retro-arcade/microbit-arcade-pro-kit/microbit-arcade-pro-kit-01.png)
 
+# Switch Operation
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/retro-arcade/microbit-arcade-pro-kit/microbit-arcade-pro-kit-02.png)
 
+# Indicator Light Status
 
-## Introduction of functional modules
-
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-03.png)-->
-
-
-### Installation steps
-
-Assemble the micro:bit retro arcade
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-04.png)
-
-install battery
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-05.png)
-
-turn on the power
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/microbit-retro-arcade-06.png)
-
-The micro:bit V2 is combined with an expansion board and microUSB is connected to the micro:bit V2.
+| Working Status | Light Indication |
+| ---- | ---- |
+| Normal Operation | Green Light On |
+| Low Power (Remaining 20% Power) | Red Light On |
+| Critical Low Power & Auto Shutdown | Red Light Flashes for 5 Seconds Then Auto Shutdown |
+| Charging | Red Light Flashing |
+| Fully Charged | Green Light On |
 
 ## Game Programming Guide
 

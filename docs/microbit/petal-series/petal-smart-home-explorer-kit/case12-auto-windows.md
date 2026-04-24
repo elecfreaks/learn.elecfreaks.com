@@ -77,7 +77,7 @@ sidebar_label: 智能控噪门窗
 
 ### 编写程序
 
-示例程序：[https://makecode.microbit.org/_0WVYbw4gVdwR](https://makecode.microbit.org/_0WVYbw4gVdwR)
+示例程序：[https://makecode.microbit.org/_HrqP4E5TCA1g](https://makecode.microbit.org/_HrqP4E5TCA1g)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-12-03.png)
 
@@ -91,7 +91,7 @@ sidebar_label: 智能控噪门窗
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_0WVYbw4gVdwR"
+        src="https://makecode.microbit.org/_HrqP4E5TCA1g"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -139,6 +139,4 @@ sidebar_label: 智能控噪门窗
 
 ### 结果
 
-当水位传感器检测到积水的时候，自动点亮红色灯光进行提示。
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-12.gif)
+当噪音传感器检测到噪音的时候，自动关闭窗户。

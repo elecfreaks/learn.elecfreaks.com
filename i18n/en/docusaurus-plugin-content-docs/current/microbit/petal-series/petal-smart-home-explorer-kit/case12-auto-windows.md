@@ -80,7 +80,7 @@ Search for `petal` on the pop - up page and click to select the petal software l
 
 ### Write the Program
 
-Sample program: https://makecode.microbit.org/_0WVYbw4gVdwRhttps://makecode.microbit.org/_0WVYbw4gVdwR)
+Sample program: [https://makecode.microbit.org/_HrqP4E5TCA1g](https://makecode.microbit.org/_HrqP4E5TCA1g)
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-12-03.png)
 
@@ -94,7 +94,7 @@ You can also download the program directly through the following web page.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_0WVYbw4gVdwR"
+        src="https://makecode.microbit.org/_HrqP4E5TCA1g"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -141,6 +141,4 @@ Click to download the program.
 
 ### Result
 
-When the water level sensor detects water accumulation, it will automatically turn on the red light for prompt.
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-12.gif)
+When the noise sensor detects noise, it automatically closes the window.

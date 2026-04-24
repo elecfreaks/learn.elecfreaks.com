@@ -82,7 +82,7 @@ In the pop-up page, search for `petal` and click to select the petal software li
 
 Example program: [https://makecode.microbit.org/_7Wog5ydxPRym](https://makecode.microbit.org/_7Wog5ydxPRym)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/wisdom-life/microbit-smart-life-kit/images/case-04-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-04-03.png)
 
 You can also directly download the program through the following web page.
 

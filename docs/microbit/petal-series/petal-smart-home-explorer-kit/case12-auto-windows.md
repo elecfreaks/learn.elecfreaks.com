@@ -79,7 +79,7 @@ sidebar_label: 智能控噪门窗
 
 示例程序：[https://makecode.microbit.org/_0WVYbw4gVdwR](https://makecode.microbit.org/_0WVYbw4gVdwR)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-10-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/petal-series/petal-smart-home-explorer-kit/images/case-12-03.png)
 
 你也可以通过以下网页直接下载程序。
 

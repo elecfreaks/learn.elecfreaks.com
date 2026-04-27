@@ -103,6 +103,8 @@ The definitions of the indicator icons are as follows:
 If you do not install the 18650 lithium battery, you can connect an external power source (such as a solar charging panel) through the power input interface, turn on the power switch, then connect the solar power management module to the electrical appliance through the USB-A interface, and turn on the power switch.
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/03461-8.png)
 
+**Note: The solar panel equipped with this product is small in size. It is only used to demonstrate the charging status of solar power. Its actual output power cannot drive electrical loads. If you need to power electrical devices, please equip a larger solar panel separately.**
+
 **Note: When power is connected to both power input interfaces (PH2.0 interface/Type-C interface) simultaneously, the solar power management module will preferentially use the power from the Type-C interface.**
 
 **Note: The charging power of the solar charging panel is related to the light intensity. When the light intensity is too low, the charging efficiency is too low to activate the power management chip of the solar power management module, and the charging state cannot be entered at this time.**

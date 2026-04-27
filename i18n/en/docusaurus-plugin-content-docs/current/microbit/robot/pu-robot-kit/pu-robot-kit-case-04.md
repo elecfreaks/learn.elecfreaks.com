@@ -12,7 +12,7 @@ On the basis of proficiently using the blocks "when button A is pressed", "walk 
 
 | Name | Diagram |
 | :---: | :---: |
-| PU Robot Kit | ![](https://wiki-media-ef.oss-cn-hongkong.com/docs/microbit/robot/pu-robot-kit/pu-robot-01.png) |
+| PU Robot Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/pu-robot/pu-robot-01.png)  |
 | Programming Device (Computer) |  |
 | Flat Ground |  |
 

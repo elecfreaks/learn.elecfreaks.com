@@ -12,7 +12,7 @@ Master the remote control operation of the PU Robot, explore the basic function 
 
 | Name | Diagram |
 | :---: | :---: |
-| PU Robot Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/pu-robot-01.png) |
+| PU Robot Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/pu-robot/pu-robot-01.png)  |
 | Flat Ground |  |
 
 ## Course Objectives

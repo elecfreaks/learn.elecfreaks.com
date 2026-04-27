@@ -12,7 +12,7 @@ Learn about the structure of the PU Robot and get familiar with its basic operat
 
 | Name | Diagram |
 | :---: | :---: |
-| PU Robot Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/pu-robot-01.png) |
+| PU Robot Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/pu-robot/pu-robot-01.png)  |
 
 ## Course Objectives
 - Recognize the basic components of the PU Robot and perceive the connection between technology and engineering design.

@@ -32,7 +32,8 @@ Today we welcome a special partner — the PU Robot. It has a flexible body and 
 
 ### Activity 1: Component Observation Task
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/pu-robot-case-01-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/pu-robot/pu-robot-case-01-01.png)
+
 
 | No. | Name | Description |
 | :---: | :--- | :--- |
@@ -53,7 +54,7 @@ Today we welcome a special partner — the PU Robot. It has a flexible body and 
 | 15 | Ultrasonic Sensor × 1 | Measures the distance to obstacles. |
 | 16 | Building Block Pin Adapter × 5 | Connects the head shell to external building block parts. |
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/pu-robot-case-01-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/pu-robot/pu-robot-case-01-02.png)
 
 | No. | Name | Description |
 | :---: | :--- | :--- |

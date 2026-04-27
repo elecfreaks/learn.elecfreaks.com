@@ -48,7 +48,7 @@ Type **pu robot** in the pop-up interface and click the search icon. When the **
 ## Write the Program
 Drag the **Perform Action** block under **On Button A Pressed**, and select **Auto Explore**.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-pu-robot-kit-program-download-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/robot/pu-robot/microbit-pu-robot-kit-program-download-04.png)
 
 Program Link: [https://makecode.microbit.org/_e1c2d338VEFL](https://makecode.microbit.org/_e1c2d338VEFL)
 

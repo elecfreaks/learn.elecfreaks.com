@@ -15,13 +15,8 @@ PU Robot固件下载：[https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/
 
 遥控手柄固件下载：[https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/microbit-pu_Gamepad_control(0.5.3).hex](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/microbit-pu_Gamepad_control(0.5.3).hex)
 
-2. 将固件分别下载到PU机器人和遥控手柄对应的两个micro:bit.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/pu-robot-01.png)
-
-  **注意：**注意区分两个micro:bit，防止固件错误导致PU机器人无法启动
-
-3. micro:bit拆卸与安装
+2. micro:bit拆卸与安装
 
     1. 将PU机器人身体旋转90°
 
@@ -50,3 +45,17 @@ PU Robot固件下载：[https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/
     ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/pu-robot-kit-flashing-firmware-02.png)
 
     3. 图三：将固定螺丝拧回
+
+3. 将固件分别下载到PU机器人和遥控手柄对应的两个micro:bit.
+
+使用 USB 线连接 PC 和 micro:bit V2。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-manual03.gif)
+
+连接成功后，电脑上会识别出一个名为 MICROBIT 的盘符。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-space-science-kit-manual06.png)
+
+将文件拖入对应盘符即可。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/microbit-pu-robot-kit-program-download-04.png)

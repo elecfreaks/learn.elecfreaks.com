@@ -58,4 +58,4 @@ PU Robot固件下载：[https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/
 
 将文件拖入对应盘符即可。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/microbit-pu-robot-kit-program-download-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/pu-robot-kit-flashing-firmware-03.png)

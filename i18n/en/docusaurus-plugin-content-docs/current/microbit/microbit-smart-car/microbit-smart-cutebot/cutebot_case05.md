@@ -44,7 +44,7 @@ While the value is over `10`, set the value of both RGB LEDs as `0` to turn off 
 
 ### Programming
 
-Links: [https://makecode.microbit.org/_eybE8UXKx9hm](https://makecode.microbit.org/_eybE8UXKx9hm)
+Links: [https://makecode.microbit.org/_LL3XdqfW1DT6](https://makecode.microbit.org/_LL3XdqfW1DT6)
 
 You can also download it directly below:
 
@@ -56,7 +56,7 @@ You can also download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_eybE8UXKx9hm"
+        src="https://makecode.microbit.org/_LL3XdqfW1DT6"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

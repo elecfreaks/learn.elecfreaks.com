@@ -62,7 +62,7 @@ Take sensor:bit for example
  ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/BOELw4G.png)
 
 ### Reference
-Links: [https://makecode.microbit.org/_E2kTxL2wp42J](https://makecode.microbit.org/_E2kTxL2wp42J)
+Links: [https://makecode.microbit.org/_eDP7W7iaTAUi](https://makecode.microbit.org/_eDP7W7iaTAUi)
 
 You can also download the links below:
 
@@ -75,7 +75,7 @@ You can also download the links below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_E2kTxL2wp42J"
+        src="https://makecode.microbit.org/_eDP7W7iaTAUi"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

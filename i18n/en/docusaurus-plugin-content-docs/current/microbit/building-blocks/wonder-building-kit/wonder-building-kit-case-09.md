@@ -109,7 +109,7 @@ Search with Wukong in the dialogue box to download it.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/wonder-building-kit/images/case-09-03.png)
 
-Link:[https://makecode.microbit.org/_eUPf4XEudVKY](https://makecode.microbit.org/_eUPf4XEudVKY)
+Link:[https://makecode.microbit.org/_8zWaUtHHD8Ec](https://makecode.microbit.org/_8zWaUtHHD8Ec)
 
 ### Result
 

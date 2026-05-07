@@ -42,7 +42,7 @@
 
 
 ### 参考程序
-请参考程序连接：[https://makecode.microbit.org/_PJXaaWgAHY9h](https://makecode.microbit.org/_PJXaaWgAHY9h)
+请参考程序连接：[https://makecode.microbit.org/_RJqU65U73Kqd](https://makecode.microbit.org/_RJqU65U73Kqd)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 
@@ -54,7 +54,7 @@
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_PJXaaWgAHY9h"
+        src="https://makecode.microbit.org/_RJqU65U73Kqd"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

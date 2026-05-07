@@ -118,7 +118,7 @@ sidebar_label: Case 08:机械臂
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-08-06.png)
 
-程序链接：[https://makecode.microbit.org/_8trckL06XY5r](https://makecode.microbit.org/_8trckL06XY5r)
+程序链接：[https://makecode.microbit.org/_CzWTpJVdt0tz](https://makecode.microbit.org/_CzWTpJVdt0tz)
 
 
 

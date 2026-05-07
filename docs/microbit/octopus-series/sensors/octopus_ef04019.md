@@ -56,7 +56,7 @@ SKU|EF04019
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/04019_03.png)
 
 ### 参考程序
-请参考程序连接：[https://makecode.microbit.org/_4koD6gAKYhq3](https://makecode.microbit.org/_4koD6gAKYhq3)
+请参考程序连接：[https://makecode.microbit.org/_eDP7W7iaTAUi](https://makecode.microbit.org/_eDP7W7iaTAUi)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 
@@ -68,7 +68,7 @@ SKU|EF04019
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_4koD6gAKYhq3"
+        src="https://makecode.microbit.org/_eDP7W7iaTAUi"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

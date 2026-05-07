@@ -51,7 +51,7 @@ sidebar_label: 自动车大灯
 
 ### 程序
 
-请参考程序连接：[https://makecode.microbit.org/_DuA0wcVT3ELP](https://makecode.microbit.org/_DuA0wcVT3ELP)
+请参考程序连接：[https://makecode.microbit.org/_LL3XdqfW1DT6](https://makecode.microbit.org/_LL3XdqfW1DT6)
 
 你也可以通过以下网页直接下载程序。
 
@@ -63,7 +63,7 @@ sidebar_label: 自动车大灯
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_DuA0wcVT3ELP"
+        src="https://makecode.microbit.org/_LL3XdqfW1DT6"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

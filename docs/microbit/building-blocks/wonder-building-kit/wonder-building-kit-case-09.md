@@ -102,7 +102,7 @@ sidebar_label: Case 09:自动感应门
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/wonder-building-kit/images/case-09-05.png)
 
-程序链接：[https://makecode.microbit.org/_Ujs8Ex0LCD3k](https://makecode.microbit.org/_Ujs8Ex0LCD3k)
+程序链接：[https://makecode.microbit.org/_8zWaUtHHD8Ec](https://makecode.microbit.org/_8zWaUtHHD8Ec)
 
 
 ## 结果

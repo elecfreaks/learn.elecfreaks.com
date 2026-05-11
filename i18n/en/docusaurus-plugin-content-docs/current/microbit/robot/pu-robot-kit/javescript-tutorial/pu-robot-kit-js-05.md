@@ -344,24 +344,3 @@ Following is an example in which robot PU made a joke.
         }}
     />
 </div>
-<!--
-Following is an example in which robot PU say goodbye at the YouTube .
-<div
-    style={{
-        position: 'relative',
-        paddingBottom: '60%',
-        overflow: 'hidden',
-    }}-->
-<!--
-    <iframe
-        src="https://makecode.microbit.org/_hDoXD8e264LC"
-        frameborder="0"
-        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
-        style={{
-            position: 'absolute',
-            width: '100%',
-            height: '100%',
-        }}
-    />
-</div>
--->

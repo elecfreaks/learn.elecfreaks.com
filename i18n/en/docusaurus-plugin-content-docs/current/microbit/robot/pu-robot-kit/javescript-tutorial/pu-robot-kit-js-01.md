@@ -9,7 +9,7 @@ sidebar_label: 1:Quick Start of JavaScript on Micro:bit
 Transitioning from Blocks to Static TypeScript (STS)—the version of JavaScript used in MakeCode—unlocks the full potential of Robot PU. This guide covers everything from the interface to advanced Object-Oriented Design.
 
 ### 1. The Programming Interface
-When you open [makecode.microbit.org](makecode.microbit.org), you primarily work in the **Blocks** editor. To switch to JavaScript:
+When you open [makecode.microbit.org](https://makecode.microbit.org), you primarily work in the **Blocks** editor. To switch to JavaScript:
 
 1. Locate the **toggle switch** at the top center of the screen.
 2. Click **JavaScript**.

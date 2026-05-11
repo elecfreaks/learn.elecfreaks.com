@@ -20,7 +20,7 @@ When working with specific hardware—like the Robot PU—you need to load its s
 ### 2. How to Add the Robot PU Extension
 To use the Robot PU, you must import the code from the repository`.robotgyms`
 
-1. **Open MakeCode:** Go to [makecode.microbit.org](makecode.microbit.org) and create a New Project.
+1. **Open MakeCode:** Go to [makecode.microbit.org](https://makecode.microbit.org) and create a New Project.
 2. **Open Extensions:** Click the **Settings (Gear icon)** in the top right corner, then select Extensions from the menu.
 3. **Search for the Repository:** In the search bar at the top, paste the following URL:robotgyms/pxt-robotpu
 4. **Install:** You should see a search result card appear (often labeled with the robot name or repository name). **Click that card** to add it to your project.

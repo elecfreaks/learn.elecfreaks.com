@@ -351,8 +351,8 @@ Following is an example in which robot PU say goodbye at the YouTube .
         position: 'relative',
         paddingBottom: '60%',
         overflow: 'hidden',
-    }}
->
+    }}-->
+<!--
     <iframe
         src="https://makecode.microbit.org/_hDoXD8e264LC"
         frameborder="0"

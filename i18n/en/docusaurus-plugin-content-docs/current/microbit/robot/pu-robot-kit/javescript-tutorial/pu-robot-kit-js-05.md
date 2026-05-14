@@ -11,8 +11,11 @@ In this lesson, we will transform **PU Robot** from a silent dancer into a talki
 
 Knowledge:
 [https://makecode.microbit.org/types/string](https://makecode.microbit.org/types/string)
+
 [https://makecode.microbit.org/reference/text](https://makecode.microbit.org/types/string)
+
 [https://github.com/adamish/pxt-billy](https://makecode.microbit.org/types/string)
+
 [https://ia803202.us.archive.org/30/items/user_manual_s.a.m./s.a.m.pdf](https://makecode.microbit.org/types/string)
 
 ### 1. Background Setup

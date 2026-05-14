@@ -10,6 +10,7 @@ sidebar_label: 3:Robot PU Extension and Barebone Program
 This guide covers how to install the specific extension and explains a “barebones” program that turns your micro:bit into a wireless receiver for the robot.
 
 [https://makecode.microbit.org/extensions](https://makecode.microbit.org/extensions)
+
 [https://makecode.microbit.org/reference/radio](https://makecode.microbit.org/reference/radio)
 
 ### 1. What is a MakeCode Extension?

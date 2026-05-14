@@ -12,11 +12,17 @@ In this lesson, we will promote **Robot PU** to the rank of Submarine Sonar Oper
 knowledge:
 
 [https://makecode.microbit.org/blocks/logic](https://makecode.microbit.org/blocks/logic)
+
 [https://makecode.microbit.org/courses/logic-lab](https://makecode.microbit.org/courses/logic-lab)
+
 [https://makecode.microbit.org/courses/logic-lab/expressions](https://makecode.microbit.org/courses/logic-lab/expressions)
+
 [https://makecode.microbit.org/blocks/logic/if](https://makecode.microbit.org/blocks/logic/if)
+
 [https://makecode.microbit.org/blocks/logic/boolean](https://makecode.microbit.org/blocks/logic/boolean)
+
 [https://makecode.microbit.org/courses/logic-lab/programmable](https://makecode.microbit.org/courses/logic-lab/programmable)
+
 [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND)
 
 ### 1. Background Setup (Introduction)

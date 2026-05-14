@@ -11,10 +11,15 @@ Welcome to the world of **Robot PU (Pair Up)**! PU is more than just a toy; it i
 
 **Knowledge:**
 [https://makecode.microbit.org/blocks/variables](https://makecode.microbit.org/blocks/variables)
+
 [https://makecode.microbit.org/blocks/variables/var](https://makecode.microbit.org/blocks/variables/var)
+
 [https://makecode.microbit.org/blocks/variables/assign](https://makecode.microbit.org/blocks/variables/assign)
+
 [https://makecode.microbit.org/blocks/variables/change](https://makecode.microbit.org/blocks/variables/change)
+
 [https://en.wikipedia.org/wiki/Ultrasonic_transducer](https://en.wikipedia.org/wiki/Ultrasonic_transducer)
+
 [https://wiki.ros.org/Drivers/Tutorials/DistanceMeasurementWithUltrasonicSensorHC-SR04ArduinoI2CPython](https://wiki.ros.org/Drivers/Tutorials/DistanceMeasurementWithUltrasonicSensorHC-SR04ArduinoI2CPython)
 
 ### 1. Background Setup

@@ -103,7 +103,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05043_06.png)
 
-Link: [https://makecode.microbit.org/_h3mTRXhxKdAo](https://makecode.microbit.org/_h3mTRXhxKdAo)
+Link: [https://makecode.microbit.org/_RTzX5r2R46t3](https://makecode.microbit.org/_RTzX5r2R46t3)
 
 You may also download it directly below:
 
@@ -116,7 +116,7 @@ You may also download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_h3mTRXhxKdAo"
+        src="https://makecode.microbit.org/_RTzX5r2R46t3"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

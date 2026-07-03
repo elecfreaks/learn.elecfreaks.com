@@ -137,6 +137,25 @@ while True:
 ### Result
  Different icons display on the micro:bit in accordance with the different status detected by the tracking module.
 
+
+### Learning Mode
+
+The latest dual-channel line-following sensor enables sensitivity optimization through learning mode.
+
+Point the probes of the dual-channel line-following sensor directly at the map background area, then press the learning button.
+
+The probe indicator lights will start flashing.
+
+When the indicator lights flash rapidly, slide the line-following probes horizontally back and forth across the map background and line track.
+
+Keep sliding the probes back and forth until the probe fill lights stop flashing — the learning process is finished.
+
+**Notes**
+
+In use, the ground clearance of the line-following probes must be kept between 8 mm and 16 mm.
+
+After successful learning, all indicator lights will turn off. When a probe detects the line track, its corresponding indicator light will light up.
+
 ## Relevant File
 
 

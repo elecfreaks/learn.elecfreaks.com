@@ -200,7 +200,7 @@
 
 ### 驱动电机
 
-- 悟空扩展板有两路电机驱动端口分别为M1和M2，可以连接市面上常用的电机。
+- 悟空扩展板有两路电机驱动端口分别为M1和M2。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/expansion-board/images/wukong_03.jpg)
 

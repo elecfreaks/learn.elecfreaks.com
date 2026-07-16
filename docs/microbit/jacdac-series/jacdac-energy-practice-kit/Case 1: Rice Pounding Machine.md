@@ -36,6 +36,12 @@
 
 ---
 
+## 搭建步骤
+
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case01/nezha-pro-ocean-kit-step-01-1.png.pdf" type="application/pdf" width="100%" height="600px" />
+
+---
+
 ## 模型原理说明
 
 ### 360°舵机模块与凸轮机构

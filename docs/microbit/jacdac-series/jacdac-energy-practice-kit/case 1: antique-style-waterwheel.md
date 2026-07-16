@@ -42,6 +42,12 @@ Jacdac按钮传感器（SKU：EF16002）是一个数字输入模块，输出"0"�
 
 ---
 
+## 搭建步骤
+
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case01/nezha-pro-ocean-kit-step-01-1.png.pdf" type="application/pdf" width="100%" height="600px" />
+
+---
+
 ## 模型原理说明
 
 ### 360°舵机模块与水车模型
@@ -49,12 +55,6 @@ Jacdac按钮传感器（SKU：EF16002）是一个数字输入模块，输出"0"�
 ![360°舵机驱动水车](placeholder-servo-waterwheel.png)
 
 360°舵机提供连续旋转动力，安装在水车轮盘的中心轴上。舵机旋转时带动整个轮盘转动，轮盘外缘安装的竹筒（或小水斗）依次进入"水面"取水、旋转至最高点后将水倾倒入水槽，模拟筒车自动汲水灌溉的过程。
-
----
-
-## 搭建步骤
-
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case01/nezha-pro-ocean-kit-step-01-1.png.pdf" type="application/pdf" width="100%" height="600px" />
 
 ---
 

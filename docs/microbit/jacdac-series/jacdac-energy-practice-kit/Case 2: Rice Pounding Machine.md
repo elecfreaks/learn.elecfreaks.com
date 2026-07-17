@@ -1,3 +1,8 @@
+---
+sidebar_position: 2
+sidebar_label: 案例二：舂米机
+---
+
 # 案例二：舂米机
 
 ---

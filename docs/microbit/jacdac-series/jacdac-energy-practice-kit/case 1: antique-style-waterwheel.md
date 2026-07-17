@@ -5,16 +5,15 @@
 
 ## 简介
 
-使用**Jacdac按钮传感器**控制水车的运转：按下按钮，360°舵机带动水车轮盘旋转，模拟古代筒车在水流驱动下持续汲水灌溉的场景；松开按钮，舵机停止转动。通过按钮的按下与松开，理解"条件判断"在程序中的核心作用。
+使用**micro：bit声音检测**控制水车的运转：见到的声音分贝越大转速越快。
 
 ---
 
 ## 案例目的
 
-1. 认识**Jacdac按钮传感器**——一种独立的外部输入模块。
+1. 了解**声音传感器**——一可检测环境声音的响度
 2. 认识**筒车（水车）**——古代利用水力自动提水灌溉的机械装置。
-3. 学习**条件分支（if-else）**——程序根据按钮状态做出不同响应，是编程中最基础的决策结构。
-4. 了解古代水利灌溉工程及水能在人类文明发展中的关键作用。
+3. 了解古代水利灌溉工程及水能在人类文明发展中的关键作用。
 
 ---
 
@@ -24,8 +23,7 @@
 |---|---|---|
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
-| Jacdac 10cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png) | 2 |
-| 按钮传感器 |![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Button%20sensor.png)| 1 |
+| Jacdac 10cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png) | 1 |
 | 360°舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Servo.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
@@ -33,14 +31,7 @@
 
 ## 传感器原理说明
 
-### 按钮传感器
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/Jacdac%20Button-1.png)
-
-
-Jacdac按钮传感器（SKU：EF16002）是一个数字输入模块，输出"0"或"1"两种信号——按下时输出1，松开时输出0。与micro:bit主板自带的按键A/B不同，它是独立的外接模块，通过Jacdac连接线接入，可自由放置在任意位置，适合搭建需要外部触发控制的互动模型。
-
----
+micro:bit V2 板载了一颗 MEMS 麦克风，可检测环境声音的响度（0~255），用于实现拍手开关、噪音监测、声控互动等教学场景，但不支持语音录制或识别
 
 ## 搭建步骤
 
@@ -51,8 +42,6 @@ Jacdac按钮传感器（SKU：EF16002）是一个数字输入模块，输出"0"�
 ## 模型原理说明
 
 ### 360°舵机模块与水车模型
-
-![360°舵机驱动水车](placeholder-servo-waterwheel.png)
 
 360°舵机提供连续旋转动力，安装在水车轮盘的中心轴上。舵机旋转时带动整个轮盘转动，轮盘外缘安装的竹筒（或小水斗）依次进入"水面"取水、旋转至最高点后将水倾倒入水槽，模拟筒车自动汲水灌溉的过程。
 
@@ -122,7 +111,7 @@ Jacdac按钮传感器（SKU：EF16002）是一个数字输入模块，输出"0"�
 
 ## 参考程序链接
 
-📎 [待补充程序链接]()
+📎[https://makecode.microbit.org/_WAqP0ebpAc6a](https://makecode.microbit.org/_WAqP0ebpAc6a)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 
@@ -130,7 +119,7 @@ Jacdac按钮传感器（SKU：EF16002）是一个数字输入模块，输出"0"�
 
 ## 结果
 
-按下Jacdac**按钮传感器**，360°舵机带动水车轮盘开始旋转，模拟水流冲击下筒车的自动汲水运转；松开按钮，舵机停止，水车停转。一按一转、一松一停——按钮就是水车的"水闸开关"。
+水车转动速度随着检测到的声音分贝的大小变化。
 
 ---
 
@@ -145,8 +134,8 @@ Jacdac按钮传感器（SKU：EF16002）是一个数字输入模块，输出"0"�
 
 | 触发条件 | 动作 | 来源 |
 |---|---|---|
-| 按钮传感器按下（值为1） | 360°舵机以设定速度持续旋转，驱动水车 | Jacdac 按钮传感器 |
-| 按钮传感器松开（值为0） | 360°舵机停止转动，水车停转 | Jacdac 按钮传感器 |
+| 检测声音大小 | 360°舵机以映射值的速度持续旋转，驱动水车 | micro:bit 声音传感器 |
+
 
 ---
 

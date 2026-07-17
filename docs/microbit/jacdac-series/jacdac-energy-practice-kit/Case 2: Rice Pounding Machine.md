@@ -16,10 +16,9 @@ sidebar_label: 案例二：舂米机
 ## 案例目的
 
 1. 认识舂米机（水碓）——古代利用水力加工粮食的机械设备。
-2. 学习**循环结构**——程序反复执行读取声音和调节转速的操作。
-3. 理解**数据映射**——将麦克风采集的模拟量（声音值）映射为舵机转速，实现连续控制。
-4. 认识**凸轮机构**——将旋转运动转化为往复直线运动的机械原理。
-5. 了解古代粮食加工历史及人类对水能的智慧应用。
+2. 理解**数据映射**——将麦克风采集的模拟量（声音值）映射为舵机转速，实现连续控制。
+3. 认识**凸轮机构**——将旋转运动转化为往复直线运动的机械原理。
+4. 了解古代粮食加工历史及人类对水能的智慧应用。
 
 ---
 
@@ -29,7 +28,7 @@ sidebar_label: 案例二：舂米机
 |---|---|---|
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
-| Jacdac 10cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png) | 2 |
+| Jacdac 10cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png) | 1 |
 | 360°舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Servo.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 

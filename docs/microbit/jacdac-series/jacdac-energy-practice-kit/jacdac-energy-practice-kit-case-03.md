@@ -45,7 +45,7 @@ Jacdac灯环亮度与360°积木舵机的转速与micro:bit主板麦克风检测
 
 ## 搭建步骤
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case03/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase03.pdf?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T122144Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=ca408ed32dab9d8c924ddb71451b566497bf29278ce621246e9ba457c5105006" type="application/pdf" width="100%" height="600px" />
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case03/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase03.pdf?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T130648Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=af3f829caaef3d4b98fa6e43e3699f5230ae3cf5d5d73a79cc7623fc1e5b3f8e" type="application/pdf" width="100%" height="600px" />
 
 ---
 

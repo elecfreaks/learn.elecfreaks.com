@@ -130,6 +130,26 @@ Jacdac灯环亮度与360°积木舵机的转速与micro:bit主板麦克风检测
  [https://makecode.microbit.org/_1gAhi03bcemx](https://makecode.microbit.org/_1gAhi03bcemx)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_1gAhi03bcemx"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+---
 
 ---
 

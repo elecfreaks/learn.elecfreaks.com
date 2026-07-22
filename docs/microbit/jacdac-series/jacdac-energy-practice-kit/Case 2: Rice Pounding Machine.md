@@ -72,7 +72,7 @@ sidebar_label: 案例二：舂米机
 
 如下图所示，将micro:bit主板插入Jacdac扩展板，用连接线将360°舵机模块采用**菊花链方式**连接在Jacdac扩展板金手指接口上。
 
-![连接示意图]()
+连接示意图
 
 ---
 
@@ -126,8 +126,7 @@ sidebar_label: 案例二：舂米机
 
 ## 如图所示编写程序
 
-![程序截图](placeholder-program-screenshot.png)
-
+程序截图
 ---
 
 ## 参考程序链接

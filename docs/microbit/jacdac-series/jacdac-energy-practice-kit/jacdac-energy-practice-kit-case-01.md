@@ -120,7 +120,24 @@ sidebar_label: 案例一：仿古水车
 📎[https://makecode.microbit.org/_WAqP0ebpAc6a](https://makecode.microbit.org/_WAqP0ebpAc6a)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
-
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_WAqP0ebpAc6a"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
 ---
 
 ## 结果

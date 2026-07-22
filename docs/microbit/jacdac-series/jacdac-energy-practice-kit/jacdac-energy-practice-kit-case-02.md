@@ -29,8 +29,8 @@ sidebar_label: 案例二：舂米机
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
 | Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T114832Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=05c92f86c42af0d45ddaa4339946a185ca6fafa1f5df50219e5c78197136ed1e) | 1 |
-
-| 360°舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Servo.png) | 1 |
+|舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T114948Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=16901099382959ac305e898bebffff8ff34496d6cd4eadef7bcaf1a78cde405f) | 1 |
+| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T115038Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=202530f4c95abbbea93f5a6f0f616a94c1a1e89354d1473c7af787b85df52e24) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
 ---
@@ -43,15 +43,15 @@ sidebar_label: 案例二：舂米机
 
 ## 搭建步骤
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case01/nezha-pro-ocean-kit-step-01-1.png.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case02/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase02.pdf?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T115105Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=b85c5805c0805299d66ecadec2dd208dac4f70652dbde180cf596b3dadd3a61a" type="application/pdf" width="100%" height="600px" />
 
 ---
 
 ## 模型原理说明
 
-### 360°舵机模块与凸轮机构
+### 360°积木舵机模块与凸轮机构
 
-360°舵机提供连续旋转动力，安装在舵机输出轴上的**凸轮**是一个带突起的不规则圆盘。凸轮旋转时，其突起部分周期性地顶起舂杵（从动件），当凸轮突起转过之后，舂杵在重力作用下下落，砸入石臼中的谷物。这样，舵机每旋转一圈，舂杵就完成一次"抬起→下落→舂捣"的动作循环。
+360°积木舵机提供连续旋转动力，安装在舵机输出轴上的**凸轮**是一个带突起的不规则圆盘。凸轮旋转时，其突起部分周期性地顶起舂杵（从动件），当凸轮突起转过之后，舂杵在重力作用下下落，砸入石臼中的谷物。这样，舵机每旋转一圈，舂杵就完成一次"抬起→下落→舂捣"的动作循环。
 
 | 环节 | 动作 | 机械原理 |
 |---|---|---|
@@ -71,9 +71,9 @@ sidebar_label: 案例二：舂米机
 
 ## 连接示意图
 
-如下图所示，将micro:bit主板插入Jacdac扩展板，用连接线将360°舵机模块采用**菊花链方式**连接在Jacdac扩展板金手指接口上。
+如下图所示，将micro:bit主板插入Jacdac扩展板，用连接线将360°积木舵机模块采用**菊花链方式**连接在Jacdac扩展板金手指接口上。
 
-连接示意图
+![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/1.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T115149Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=a143418767dad00753234122bcfbc07f475f55228760ed8cca92994200262c15)
 
 ---
 
@@ -127,12 +127,13 @@ sidebar_label: 案例二：舂米机
 
 ## 如图所示编写程序
 
-程序截图
+![程序截图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case02/jacdac-energypractice-kit%2BProgram%2BCase02.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T115337Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=903ef3829a231454e2ddc918feff64ae504e6d47adb5928d89f36750c77003f8)
+
 ---
 
 ## 参考程序链接
 
-[https://makecode.microbit.org/_as2KEaERm484](https://makecode.microbit.org/_as2KEaERm484)]()
+[https://makecode.microbit.org/_R8wF0r2ktJR5](https://makecode.microbit.org/_R8wF0r2ktJR5)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 

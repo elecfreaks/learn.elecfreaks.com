@@ -9,7 +9,7 @@ sidebar_label: 案例一：仿古水车
 
 ## 简介
 
-舵机的转速与micro:bit主板**麦克风检测到的声音响度**实时关联——声音越大转速越快、声音越小转速越慢，模拟水流冲击水轮带动水碓的场景：声音代表了"水流的力量"。
+360°积木舵机的转速与micro:bit主板**麦克风检测到的声音响度**实时关联——声音越大转速越快、声音越小转速越慢，模拟水流冲击水轮带动水碓的场景：声音代表了"水流的力量"。
 
 ---
 
@@ -29,8 +29,8 @@ sidebar_label: 案例一：仿古水车
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
 | Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png) | 1 |
-| 舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T101943Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=6ecff9f02184a4b4ea8d7eae1a47f2b56fabd697932bf1b7a0013ae99edf96ad) | 1 |
-| 360°舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T105429Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=04f49184bcfbd2b6c371d1a257545b3114c9066eb42a7b1690e4795aecf568c1) | 1 |
+| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T101943Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=6ecff9f02184a4b4ea8d7eae1a47f2b56fabd697932bf1b7a0013ae99edf96ad) | 1 |
+| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T105429Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=04f49184bcfbd2b6c371d1a257545b3114c9066eb42a7b1690e4795aecf568c1) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
 ---
@@ -49,7 +49,7 @@ sidebar_label: 案例一：仿古水车
 
 ### 360°舵机模块与水车模型
 
-360°舵机提供连续旋转动力，安装在水车轮盘的中心轴上。舵机旋转时带动整个轮盘转动，轮盘外缘安装的竹筒（或小水斗）依次进入"水面"取水、旋转至最高点后将水倾倒入水槽，模拟筒车自动汲水灌溉的过程。
+360°积木舵机提供连续旋转动力，安装在水车轮盘的中心轴上。舵机旋转时带动整个轮盘转动，轮盘外缘安装的竹筒（或小水斗）依次进入"水面"取水、旋转至最高点后将水倾倒入水槽，模拟筒车自动汲水灌溉的过程。
 
 ---
 

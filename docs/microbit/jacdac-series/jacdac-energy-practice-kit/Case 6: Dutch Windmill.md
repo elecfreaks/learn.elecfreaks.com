@@ -168,7 +168,6 @@
 
 ### 二、风车的工作原理
 
-![风车工作原理](placeholder-windmill-mechanism.png)
 
 传统荷兰风车通过以下步骤将风能转化为机械能：
 

@@ -41,7 +41,7 @@ sidebar_label: 案例一：仿古水车
 
 ## 搭建步骤
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case01/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase01.pdf?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T101305Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=d652e480a75419d8e95b695a97356d7d0a5fba9bac7316157819e070b312c096" type="application/pdf" width="100%" height="600px" />
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case01/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase01.pdf?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T130419Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=19cb94ce3fc46d7db4e7ddc0c2b80352cb6dbea5d183e4b4fb6095e2d490e083" type="application/pdf" width="100%" height="600px" />
 
 ---
 

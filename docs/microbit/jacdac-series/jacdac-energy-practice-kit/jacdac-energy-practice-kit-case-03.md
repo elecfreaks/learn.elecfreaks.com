@@ -4,7 +4,7 @@
 
 ## 简介
 
-按下micro:bit主板的**按键A**，360°舵机开始旋转，驱动水轮发电机模型转动，模拟水力发电站中水流冲击水轮机带动发电机发电的过程。按下**按键B**，电站停止发电。
+Jacdac灯环亮度与360°积木舵机的转速与micro:bit主板麦克风检测到的声音响度实时关联——声音越大360°积木舵机转速越快Jacdac灯环越亮、声音越小360°积木舵机转速越慢Jacdac灯环越暗，模拟水流冲击水轮发电的场景：声音代表了"水流的力量"。
 
 ---
 
@@ -23,23 +23,27 @@
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
 | Jacdac 10cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png) |  
-| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png) |  
-| Jacdac舵机模块| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Servo.png) | 1 |
-| Jacdac灯环 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Servo.png) | 1 |
-| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Servo.png) | 1 |
+| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T114832Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=05c92f86c42af0d45ddaa4339946a185ca6fafa1f5df50219e5c78197136ed1e) |  
+| Jacdac舵机模块| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T121759Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=8210db86bd47cddea6d13cc817bbd1493ede8150c885322abaeb983b520f988d) | 1 |
+| Jacdac灯环 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20LED%20Ring.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T121811Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=dd3d01b205d59e8308b3ed1ae657662233120fd8311a65ea91bc34b42388efc6) | 1 |
+| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T121816Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=93a1c46877684b4660a2d8b76cfd1df75931ebb33e5c1e1b2b81d02b9a223213) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
 ---
 
 ## 传感器原理说明
 
-**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/Jacdac%20LED%20Ring-1.png)
+
+**原理说明**: 
+
+灯环：由8个RGB灯组成的圆形光环。
 
 ---
 
 ## 搭建步骤
 
-![搭建步骤](placeholder-build-steps.png)
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case03/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase03.pdf?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T122144Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=ca408ed32dab9d8c924ddb71451b566497bf29278ce621246e9ba457c5105006" type="application/pdf" width="100%" height="600px" />
 
 ---
 
@@ -47,13 +51,9 @@
 
 ### 360°舵机模块与水轮发电机模型
 
-![360°舵机驱动水轮](placeholder-servo-turbine.png)
-
 360°舵机提供连续旋转动力，安装在水轮发电机模型的中心轴上。舵机旋转时带动水轮叶片转动，模拟水流冲击水轮机旋转、进而驱动发电机发电的过程。舵机转速对应"水流大小"——转速越快，代表水流越湍急、发电功率越高。
 
 ### 水力发电站——大坝的能量密码
-
-![水力发电站](placeholder-hydroelectric-dam.png)
 
 水力发电站的核心原理是利用**水的落差**来发电。水从高处流向低处时，蕴含的**重力势能**转化为**动能**——这股高速水流冲击水轮机叶片使其旋转，水轮机再带动发电机，通过**电磁感应**将旋转动能转化为电能。整个过程不燃烧任何燃料，零碳排放。
 
@@ -65,7 +65,7 @@
 
 如下图所示，将micro:bit主板插入Jacdac扩展板，用连接线将360°舵机模块采用**菊花链方式**连接在Jacdac扩展板金手指接口上。
 
-![连接示意图](placeholder-connection-diagram.png)
+![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/micro%EF%BC%9Abit%20%2B%E8%88%B5%E6%9C%BA%E6%A8%A1%E5%9D%97%2B%E8%88%B5%E6%9C%BA%2BLED.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T122242Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=3cdc8f25959c79fe4b1fd58c09644e9f14998d35e09759d9a0b9e15c12e8528e)
 
 ---
 
@@ -119,13 +119,13 @@
 
 ## 如图所示编写程序
 
-![程序截图](placeholder-program-screenshot.png)
+![程序截图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case03/jacdac-energypractice-kit%2BProgram%2BCase03.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T122312Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=e9533d2ad2c76bc87ae86053bf29b52f7702400ac85aa75793fc8eb17ff1f1f4)
 
 ---
 
 ## 参考程序链接
 
-📎 [待补充程序链接]()
+ [https://makecode.microbit.org/_1gAhi03bcemx](https://makecode.microbit.org/_1gAhi03bcemx)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 
@@ -133,7 +133,7 @@
 
 ## 结果
 
-按下micro:bit主板的**按键A**，360°舵机开始旋转，驱动水轮发电机模型转动，模拟水流冲击水轮机带动发电机发电。按下**按键B**，舵机停止转动，模拟关闸停机。
+声音响度实时关联——声音越大360°积木舵机转速越快Jacdac灯环越亮、声音越小360°积木舵机转速越慢Jacdac灯环越暗，模拟水力发电站。
 
 ---
 
@@ -148,8 +148,8 @@
 
 | 触发条件 | 动作 | 来源 |
 |---|---|---|
-| 按下按键A | 360°舵机以设定速度持续旋转，驱动水轮发电机，模拟水力发电 | micro:bit V2 按键A |
-| 按下按键B | 360°舵机停止转动，模拟关闸停机 | micro:bit V2 按键B |
+| 检查声音分贝| 360°积木舵机与Jacdac灯环产生变化 | micro:bit V2 麦克风 |
+
 
 ---
 

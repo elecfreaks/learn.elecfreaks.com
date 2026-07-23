@@ -43,7 +43,7 @@ sidebar_label: 案例二：舂米机
 
 ## 搭建步骤
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case02/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase02.pdf?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T130528Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=53604fe948ce9bdb889563d65c3d097b2d470c276f46a64205380919790438f3" type="application/pdf" width="100%" height="600px" />
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case02/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase02.pdf?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103836Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=30f374357d0ac5d4d2b051d3b2f76c81eb66520fc15c699b5df013760f3eb3ed" type="application/pdf" width="100%" height="600px" />
 
 ---
 

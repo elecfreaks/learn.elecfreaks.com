@@ -9,7 +9,7 @@ sidebar_label: 案例二：舂米机
 
 ## 简介
 
-按下micro:bit主板的**按键A**，舵机开始旋转驱动凸轮机构，模拟古代舂米机往复舂捣谷物的动作，按下micro:bit主板的**按键B**，舵机停止转动。
+按下micro:bit主板的**按键A**，360°舵机以全速（-100）旋转驱动凸轮机构，模拟古代舂米机往复舂捣谷物的动作；按下**按键B**，舵机停止转动。
 
 ---
 
@@ -73,7 +73,7 @@ sidebar_label: 案例二：舂米机
 
 如下图所示，将micro:bit主板插入Jacdac扩展板，用连接线将360°积木舵机模块采用**菊花链方式**连接在Jacdac扩展板金手指接口上。
 
-![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/1.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T115149Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=a143418767dad00753234122bcfbc07f475f55228760ed8cca92994200262c15)
+![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/micro%EF%BC%9Abit%20%2B%E8%88%B5%E6%9C%BA%E6%A8%A1%E5%9D%97%2B%E8%88%B5%E6%9C%BA.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T093702Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=7b7aa152687234a8f9e970d94c88b3ac6d6a5c2cbbca7050c74d27860a1005d4)
 
 ---
 
@@ -160,7 +160,7 @@ sidebar_label: 案例二：舂米机
 
 ## 结果
 
-按下micro:bit主板的**按键A**后，360°舵机开始旋转驱动凸轮机构，带动舂杵上下往复舂捣。按下micro:bit主板的**按键B** 舂米机停止转动。
+按下micro:bit主板的**按键A**，360°积木舵机以全速旋转驱动凸轮机构，舂杵开始上下往复舂捣，模拟水碓开始工作；按下**按键B**，积木舵机停止转动，舂杵停止舂捣，模拟关闭水闸、水车停转。
 
 ---
 
@@ -175,8 +175,8 @@ sidebar_label: 案例二：舂米机
 
 | 触发条件 | 动作 | 来源 |
 |---|---|---|
-| 按下按键A | 360°舵机转动， | micro:bit V2 按键A |
-| 按下按键B |360°舵机停止，  | micro:bit V2 按键B |
+| 按下按键A | 360°积木舵机转动， | micro:bit V2 按键A |
+| 按下按键B |360°积木舵机停止，  | micro:bit V2 按键B |
 
 
 ---
@@ -265,6 +265,6 @@ sidebar_label: 案例二：舂米机
 | **调节机制** | 水量大→水轮快→舂捣频率高 | 声音大→转速快→舂捣频率高 |
 | **停止条件** | 关闭水闸阻断水流 | 声音为零时舵机停转 |
 
-> 💡 **思考：** 古代工匠用机械实现了"自动化循环"，今天的程序员用代码实现"程序循环"。两千年的技术进步，背后是同一套逻辑：**发现重复 → 构建循环 → 持续优化**。你正在编写的这段舂米机程序，延续的就是这份跨越千年的工程智慧。
+>  **思考：** 古代工匠用机械实现了"自动化循环"，今天的程序员用代码实现"程序循环"。两千年的技术进步，背后是同一套逻辑：**发现重复 → 构建循环 → 持续优化**。你正在编写的这段舂米机程序，延续的就是这份跨越千年的工程智慧。
 
 ---

@@ -2,7 +2,6 @@
 sidebar_position: 3
 sidebar_label: 案例三：水力发电
 ---
----
 
 ## 简介
 

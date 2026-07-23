@@ -5,7 +5,7 @@ sidebar_label: 案例三：水力发电
 
 ## 简介
 
-Jacdac灯环亮度与360°积木舵机的转速与micro:bit主板麦克风检测到的声音响度实时关联——声音越大360°积木舵机转速越快Jacdac灯环越亮、声音越小360°积木舵机转速越慢Jacdac灯环越暗，模拟水流冲击水轮发电的场景：声音代表了"水流的力量"。
+对着micro:bit主板**说话、拍手或制造声音**——声音越大，LED灯环越亮、360°积木舵机驱动水轮发电机转速越快，模拟水流越湍急、发电功率越高；声音越小，LED越暗、舵机越慢；完全安静时LED熄灭、舵机停止，模拟水枯停机。声音代表了"水流的力量"
 
 ---
 
@@ -40,11 +40,13 @@ Jacdac灯环亮度与360°积木舵机的转速与micro:bit主板麦克风检测
 
 灯环：由8个RGB灯组成的圆形光环。
 
+本案例使用micro:bit主板内置的**麦克风**作为传感器，实时采集环境声音响度（0~255），将其同时映射为**LED灯环亮度**（0~100）和**舵机转速**（0~100），实现声控联动——声音越大、灯越亮、转得越快。
+
 ---
 
 ## 搭建步骤
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case03/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase03.pdf?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T130648Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=af3f829caaef3d4b98fa6e43e3699f5230ae3cf5d5d73a79cc7623fc1e5b3f8e" type="application/pdf" width="100%" height="600px" />
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case03/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase03.pdf" type="application/pdf" width="100%" height="600px" />
 
 ---
 
@@ -147,8 +149,6 @@ Jacdac灯环亮度与360°积木舵机的转速与micro:bit主板麦克风检测
         }}
     />
 </div>
-
----
 
 ---
 

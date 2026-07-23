@@ -27,8 +27,9 @@ sidebar_label: 案例四：波浪发电
 |---|---|---|
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
-| Jacdac 10cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png) | 2 |
-| 360°积木舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Servo.png) | 1 |
+| Jacdac 10cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png) | 1 |
+| Jacdac舵机模块| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T121759Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=8210db86bd47cddea6d13cc817bbd1493ede8150c885322abaeb983b520f988d) | 1 |
+| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T121816Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=93a1c46877684b4660a2d8b76cfd1df75931ebb33e5c1e1b2b81d02b9a223213) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
 ---
@@ -143,10 +144,30 @@ sidebar_label: 案例四：波浪发电
 
 ## 参考程序链接
 
-📎[https://makecode.microbit.org/_HHgJmiT3XXFr](https://makecode.microbit.org/_HHgJmiT3XXFr)
+[https://makecode.microbit.org/_HHgJmiT3XXFr](https://makecode.microbit.org/_HHgJmiT3XXFr)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_HHgJmiT3XXFr"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+---
 ---
 
 ## 结果

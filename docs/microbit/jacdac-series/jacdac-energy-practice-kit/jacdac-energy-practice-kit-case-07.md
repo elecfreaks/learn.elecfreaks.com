@@ -118,7 +118,7 @@ sidebar_label: 案例七：荷兰风车
 
 ## 参考程序链接
 
-📎[https://makecode.microbit.org/_heHEYF3b2Lm5](https://makecode.microbit.org/_heHEYF3b2Lm5)
+[https://makecode.microbit.org/_heHEYF3b2Lm5](https://makecode.microbit.org/_heHEYF3b2Lm5)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 <div
@@ -175,8 +175,6 @@ sidebar_label: 案例七：荷兰风车
 ---
 
 ### 二、风车的工作原理
-
-![风车工作原理](placeholder-windmill-mechanism.png)
 
 传统荷兰风车通过以下步骤将风能转化为机械能：
 

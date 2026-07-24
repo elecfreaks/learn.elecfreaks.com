@@ -35,10 +35,6 @@ sidebar_label: 案例一：仿古水车
 
 ---
 
-## 传感器原理说明
-
-本案例使用micro:bit主板内置的麦克风作为传感器，实时采集环境声音响度（0~255），将其映射为舵机转速。
-
 ## 搭建步骤
 
 <embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case01/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase01.pdf?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103749Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=59c120a674633d474f18b172af3f1c113342079104a045081ff6be1d6de625c8" type="application/pdf" width="100%" height="600px" />

@@ -34,24 +34,6 @@ sidebar_label: 案例六：风力发电
 | 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103304Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=346780dc133aadbb9ccb4e52942baf50879969b01d676ae61539e49c2ad1d203) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
----
-
-## 传感器原理说明
-
-### 加速度计——micro:bit的"平衡感知器"
-
-
-micro:bit主板背面集成了一颗**MEMS加速度计**芯片，它可以测量重力在**X、Y、Z三个轴**上的分量，从而计算出主板的倾斜角度。
-
-| 轴 | 方向 | 举例 |
-|---|---|---|
-| **X轴** | 左右倾斜 | 像飞机左右摇摆机翼 |
-| **Y轴** | 前后倾斜 | 像飞机机头抬起或俯冲 |
-| **Z轴** | 上下方向 | 始终指向地心方向 |
-
-当micro:bit水平放置时，全部重力作用在Z轴上（Z≈-1023，X≈0，Y≈0）。当你前后倾斜主板（改变**Pitch俯仰角**），重力在Y轴上的分量逐渐增大，加速度计通过计算各轴分量，精确得出倾斜角度。
-
->  **加速度计 vs 陀螺仪：** 加速度计测量的是**倾斜角度**（相对于重力方向），陀螺仪测量的是**旋转角速度**（转得有多快）。micro:bit内置的是加速度计——适合检测静态倾斜；手机里两者配合使用：加速度计判断横竖屏，陀螺仪追踪游戏手柄的快速转动。
 
 ---
 

@@ -61,7 +61,7 @@ micro:bit主板内置了一颗**MEMS磁力计**芯片，可以检测地球磁场
 
 ## 连接示意图
 
-如下图所示，将micro:bit主板插入Jacdac扩展板，用连接线把Jacdac温湿度采用**菊花链方式**连接在Jacdac扩展板金手指接口上。
+如下图所示，将micro:bit主板插入Jacdac扩展板，将Jacdac温湿度连接在Jacdac扩展板金手指接口上。
 
 ![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/1.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T100034Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=83f6b47b2e017d189303ae97139d804bff9065c58feb81bf7019705d1345d8e6)
 

@@ -32,18 +32,6 @@ sidebar_label: 案例三：水力发电
 
 ---
 
-## 传感器原理说明
-
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/Jacdac%20LED%20Ring-1.png)
-
-**原理说明**: 
-
-灯环：由8个RGB灯组成的圆形光环。
-
-本案例使用micro:bit主板内置的**麦克风**作为传感器，实时采集环境声音响度（0~255），将其同时映射为**LED灯环亮度**（0~100）和**舵机转速**（0~100），实现声控联动——声音越大、灯越亮、转得越快。
-
----
-
 ## 搭建步骤
 
 <embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case03/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase03.pdf?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T104024Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=bbd2b6fba3ea64b6d2c9ba77b72862d7688f4c268c6f7c433352c94f4aa49b27" type="application/pdf" width="100%" height="600px" />

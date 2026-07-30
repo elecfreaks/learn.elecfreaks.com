@@ -1,15 +1,15 @@
 ---
 sidebar_position: 4
-sidebar_label: 4:Submarine Sonar Beacon
+sidebar_label: 4:潜艇声呐信标
 ---
 
-# 4:Submarine Sonar Beacon
+# 4:潜艇声呐信标
 
-## Make Robot PU “Ping” like a Submarine!
+## 让Robot PU像潜水艇一样发出"乒"声！
 
-Welcome to the world of **Robot PU (Pair Up)**! PU is more than just a toy; it is an AI-powered humanoid performer with a personality. Today, we are going to use the **sonar sensor on PU’s chest** to turn him into a deep-sea navigator. If time allowed, let’s play the “Don’t Bonk” game using your program with robot PU.
+欢迎来到**Robot PU（Pair Up）**的世界！PU不仅仅是一个玩具，它是一个带有性格的AI驱动人形表演者。今天，我们将使用**PU胸前的声呐传感器**把他变成深海导航员。如果时间允许，我们还可以用你的程序和Robot PU玩"别撞墙"游戏。
 
-**Knowledge:**
+**知识点：**
 [https://makecode.microbit.org/blocks/variables](https://makecode.microbit.org/blocks/variables)
 
 [https://makecode.microbit.org/blocks/variables/var](https://makecode.microbit.org/blocks/variables/var)
@@ -22,39 +22,35 @@ Welcome to the world of **Robot PU (Pair Up)**! PU is more than just a toy; it i
 
 [https://wiki.ros.org/Drivers/Tutorials/DistanceMeasurementWithUltrasonicSensorHC-SR04ArduinoI2CPython](https://wiki.ros.org/Drivers/Tutorials/DistanceMeasurementWithUltrasonicSensorHC-SR04ArduinoI2CPython)
 
-### 1. Background Setup
-**Robot PU** is an interactive STEM learning buddy controlled by a **micro:bit**. He is famous for his “Electrifying AI-Powered Dance”—executing moonwalks, spins, and splits with fluid motion.
+### 1. 背景设置
+**Robot PU**是一个由**micro:bit**控制的交互式STEM学习伙伴。他以"震撼的AI动力舞蹈"而闻名——流畅地执行太空步、旋转和劈叉。
 
-But PU is also a smart explorer. He features an **Autopilot Mode** that lets him navigate smoothly and avoid obstacles. To do this, he uses his **ultrasonic sonar sensor** located right on his chest to “see” how far away walls or friends are by bouncing sound waves off them.
+但PU也是一个聪明的探索者。他拥有**自动驾驶模式**，可以平稳导航并避开障碍物。为此，他使用位于胸前的**超声波声呐传感器**，通过向墙壁或朋友发射声波并接收回波来"看见"它们有多远。
 
-### 2. Problem Definition
-We want to give PU a “Submarine Sonar” mode. Instead of just walking silently, we want PU to:
+### 2. 问题定义
+我们希望给PU一个"潜艇声呐"模式。不是沉默地走路，而是希望PU能够：
 
-1. **Sense the world** through his chest sonar.
+1. **感知世界**——通过胸前声呐。
+2. **发出警报声**——随着接近物体的距离而变化。
+3. **制造紧迫感**——希望"乒"声在靠近物体时变得越来越高、越来越快，就像电影中的潜水艇一样！
 
-2. **Sound an alarm** that changes as he gets closer to something.
+### 3. 基本解决思路
 
-3. **Create Urgency**: We want the “ping” to get higher and faster as he approaches an object, just like a submarine in a movie!
+秘诀是**映射**。我们将把PU胸前传感器的原始距离数据转化为声音：
 
-### 3. Basic Idea of Solutions
+- **音调：** 如果墙壁很远，PU将发出低音调。随着PU靠近，音调会升高。
+- **速度：** 我们将改变"乒"声的时间间隔。距离远意味着慢速的乒声；距离近意味着快速的"哔-哔-哔！"。
+- **大脑：** 由于PU由micro:bit驱动，我们可以在PU太空步或聊天时在一个独立的永久循环中运行这个声呐逻辑。
 
-The secret is **Mapping**. We will take the raw distance data from PU’s chest sensor and turn it into sound:
-
-- **The Pitch:** If a wall is far away, PU will play a low-pitched tone. As PU gets closer, the pitch will rise.
-
-- **The Speed:** We will change the timing of the “pings.” Far away means slow pings; close up means a rapid “beep-beep-beep!”.
-
-- **The Brain:** Because PU is powered by micro:bit, we can run this sonar logic in its own forever loop while he still moonwalks or chats.
-
-### 4. Implementation
-Copy this complete code into the **JavaScript** tab of your MakeCode editor. It includes the HCSR04 class which acts as the “driver” for PU’s chest sensor.
+### 4. 实现
+将以下完整代码复制到MakeCode编辑器的**JavaScript**标签页中。它包含HCSR04类，充当PU胸前传感器的"驱动程序"。
 
 
 TypeScript
 
 ``` TypeScript
 /**
- * HCSR04 Driver Class for Robot PU's Chest Sonar
+ * HCSR04驱动类 — PU机器人胸前声呐
  */
 class HCSR04 {
     timeout_us: number;
@@ -62,41 +58,41 @@ class HCSR04 {
     echo: DigitalPin;
 
     constructor(trigPin: DigitalPin = DigitalPin.P2, echoPin: DigitalPin = DigitalPin.P8) {
-        this.timeout_us = 30000; // Approx 500cm max range
+        this.timeout_us = 30000; // 约500cm最大测量范围
         this.trig = trigPin;
         this.echo = echoPin;
         pins.digitalWritePin(this.trig, 0);
     }
 
     distance_cm(): number {
-        // Trigger the sensor
+        // 触发传感器
         pins.digitalWritePin(this.trig, 0);
         control.waitMicros(5);
         pins.digitalWritePin(this.trig, 1);
         control.waitMicros(10);
         pins.digitalWritePin(this.trig, 0);
 
-        // Listen for the echo
+        // 监听回波
         let t = pins.pulseIn(this.echo, PulseValue.High, this.timeout_us);
         if (t <= 0) t = 500;
 
-        // Convert time to cm (speed of sound)
+        // 将时间转换为厘米（声速）
         return t * 0.0171821;
     }
 }
 
 
-// Initialize the sonar on Robot PU's chest pins
+// 在PU机器人胸前引脚上初始化声呐
 let sonar = new HCSR04(DigitalPin.P2, DigitalPin.P8);
 
-// Submarine Sonar Loop
+// 潜艇声呐循环
 basic.forever(function () {
     let distance = sonar.distance_cm();
 
     if (distance > 2 && distance < 100) {
-        // Map 2cm->2000Hz and 100cm->200Hz
+        // 映射 2cm→2000Hz，100cm→200Hz
         let pitch = Math.map(distance, 2, 100, 2000, 200);
-        // Map 2cm->100ms and 100cm->800ms
+        // 映射 2cm→100ms，100cm→800ms
         let pulseDelay = Math.map(distance, 2, 100, 100, 800);
 
         music.setVolume(128);
@@ -109,18 +105,18 @@ basic.forever(function () {
 ```
 
 
-### How the `HCSR04` Code Works:
-1. **Triggering (`trig`):** The micro:bit sends a tiny 10-microsecond electrical pulse to PU’s chest. This tells the sensor to scream a sound too high for humans to hear.
-2. **Echo Listening (`echo`):** The sensor waits for that sound to bounce off a wall and return. The `pins.pulseIn` command measures exactly how many microseconds that sound was “in the air.”
-3. **The Math:** Sound travels at about 343 meters per second. The code multiplies the time by `0.0171821` to convert that “flight time” into centimeters.
-4. **The Timeout:** If the sound never comes back (because the room is too big), the code assumes a default distance so PU doesn’t get “stuck” waiting.
+### `HCSR04`代码如何工作：
+1. **触发（`trig`）：** micro:bit向PU胸前发送一个微小的10微秒电脉冲。这告诉传感器发出人耳听不到的高频声波。
+2. **回波监听（`echo`）：** 传感器等待声波碰到墙壁后返回。`pins.pulseIn`命令精确测量声音在"空中"的微秒数。
+3. **数学计算：** 声音以约343米/秒的速度传播。代码将时间乘以`0.0171821`将"飞行时间"转换为厘米。
+4. **超时处理：** 如果声音永不返回（因为房间太大），代码会假设一个默认距离，以免PU"卡住"等待。
 
-### 5. Testing
-1. **Download** the code to the micro:bit inside your Robot PU.
-2. **Place PU on the floor** and slowly walk toward him.
-3. **Listen to his chest!** As you get closer, you should hear his pings get higher and more urgent.
-4. **Try different objects:** Does PU “see” a soft teddy bear as well as a hard wooden door? (Hint: Soft surfaces absorb sound waves!).
-A version with Gamepad support:
+### 5. 测试
+1. **下载**代码到Robot PU内部的micro:bit。
+2. **将PU放在地板上**，然后慢慢走向他。
+3. **听他的胸前！** 当你靠近时，应该能听到乒声变得更高、更急促。
+4. **尝试不同物体：** PU能像"看见"硬木门一样"看见"柔软的泰迪熊吗？（提示：柔软表面吸收声波！）。
+支持游戏手柄的版本：
 
 
 <div
@@ -141,16 +137,16 @@ A version with Gamepad support:
         }}
     />
 </div>
-You can control your robot PU while listen to the sonar beep sound.
+你可以一边控制Robot PU一边听声呐的蜂鸣声。
 
-### 6. What Can Be Done Next?
-Your PU is now a sonar expert! What else can he do?
+### 6. 接下来可以做什么？
+你的PU现在是声呐专家了！他还能做什么？
 
-- **Scared Robot:** Make PU walk **backward** automatically if his chest sonar detects something closer than 10cm!.
-- **Expressive Eyes:** Use PU’s LED spotlight eyes to change colors based on distance—**Green** for far, **Red** for near.
-- **Talking Sonar:** Combine this with the `pxt-billy` library to have PU say “Obstacle detected!” when he gets too close.
+- **害怕机器人：** 如果PU的胸前声呐检测到10cm以内有物体，让他自动**后退**！
+- **表情眼神：** 使用PU的LED聚光灯眼睛根据距离变换颜色——远为**绿色**，近为**红色**。
+- **会说话的声呐：** 将此与`pxt-billy`库结合起来，让PU在靠得太近时说"检测到障碍物！"。
 
-About the “Don’t Bonk” game, here is the example program:
+关于"别撞墙"游戏，以下是示例程序：
 
 <div
     style={{
@@ -171,23 +167,23 @@ About the “Don’t Bonk” game, here is the example program:
     />
 </div>
 
-The key method to tweak is:
+需要调整的关键方法是：
 
 `robotPu.walkDo(Math.map(distance, 8, 20, 0, 4), 0)`
 
-**Would you like me to show you how to add the “Scared Robot” backward movement to the sonar loop?**
+**你想让我演示如何将"害怕机器人"的后退运动添加到声呐循环中吗？**
 
-You can map closer distance to negative speed (moving backwards if too close to the wall)
+你可以将更近的距离映射为负速度（太靠近墙壁时后退）
 
 `robotPu.walkDo(Math.map(distance, 7, 20, -1, 6), 0)`
 
-Other tricks to win the game:
+赢得比赛的其他技巧：
 
-- How adjust the mapping function to map the sonar distance to speed
-- How to smooth the sonar distance values to avoid measurement outliers and errors
-- How to feed forward to handle sensor delays.
+- 如何调整映射函数将声呐距离映射到速度
+- 如何平滑声呐距离值以避免异常测量值和误差
+- 如何使用前馈来处理传感器延迟。
 
-To make movement more smoothly, move the walk command to a dedicated forever loop. It make robot PU walk and play beeps at same time.
+为了使运动更加流畅，将walk命令移到专用的永久循环中。这让Robot PU能同时行走和发出蜂鸣声。
 
 <div
     style={{
@@ -208,9 +204,9 @@ To make movement more smoothly, move the walk command to a dedicated forever loo
     />
 </div>
 
-### How to win the Don’t Bonk Game
+### 如何赢得"别撞墙"游戏
 
-The basic idea is to get distance and walk, do not add any other code to slow down the observe-think-action loop.
+基本思路是获取距离并行走，不要添加任何其他会拖慢观察-思考-行动循环的代码。
 
 <div
     style={{

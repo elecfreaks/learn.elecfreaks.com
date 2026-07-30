@@ -1,42 +1,41 @@
 ---
 sidebar_position: 23
-sidebar_label: 23:Robot PU Balancing
+sidebar_label: 23:Robot PU 平衡控制
 ---
 
-# Robot PU Balancing
+# Robot PU 平衡控制
 
-## 🤖 Tutorial: Make Robot PU Balance on Tilts
+## 🤖 教程：让 Robot PU 在倾斜面上保持平衡
 
-Using the Robot PU MakeCode Extension
+使用 Robot PU MakeCode 扩展程序
 
-Robot PU already includes an internal IMU‑based balancing engine. When you call actions like `rest()`, `walk()`, or `explore()`, PU automatically reads the micro:bit accelerometer and adjusts its servos to stay upright. This tutorial shows you how to:
+Robot PU 已经包含一个内部基于 IMU 的平衡引擎。当你调用 `rest()`、`walk()` 或 `explore()` 等动作时，PU 会自动读取 micro:bit 加速度计并调整舵机以保持直立。本教程将向你展示如何：
 
-- Enable PU's built‑in balancing
-- Add tilt‑reaction behaviors
-- Create your own "balance training" program
-- Extend it with head‑tilt feedback or sound reactions
+- 启用 PU 的内置平衡功能
+- 添加倾斜反应行为
+- 创建自己的"平衡训练"程序
+- 通过头部倾斜反馈或声音反应进行扩展
 
 
-## 1. 🧩 Setup Your MakeCode Project
+## 1. 🧩 设置你的 MakeCode 项目
 
-1. Go to [https://makecode.microbit.org](https://makecode.microbit.org)
-2. Create a **New Project**
-3. Click **Extensions → Import URL**
-4. Paste the repo URL: `https://github.com/robotgyms/pxt-robotpu`
-5. Add any block from `robotPu` in `on start` (this triggers auto‑initialization).
+1. 前往 [https://makecode.microbit.org](https://makecode.microbit.org)
+2. 创建一个**新项目**
+3. 点击**扩展 → 导入 URL**
+4. 粘贴仓库 URL：`https://github.com/robotgyms/pxt-robotpu`
+5. 在 `on start` 中添加任何 `robotPu` 块（这会触发自动初始化）。
 
-**Example:**
+**示例：**
 ```typescript
 robotPu.rest()
 ```
 
-> PU will automatically run `calibrate()` the first time any `robotPu` API is used.
+> PU 将在首次使用任何 `robotPu` API 时自动运行 `calibrate()`。
 
 
+## 2. 🧘 启用内置平衡模式
 
-## 2. 🧘 Enable Built‑In Balancing Mode
-
-The simplest balancing behavior is `rest()`:
+最简单的平衡行为是 `rest()`：
 
 ```typescript
 basic.forever(function () {
@@ -44,26 +43,26 @@ basic.forever(function () {
 })
 ```
 
-### Why this works:
+### 为什么这有效：
 
-- **rest()** keeps PU in a stable idle pose
-- It continuously uses the micro:bit accelerometer to maintain balance
-- It reacts subtly to sound and tilt inputs
+- **rest()** 保持 PU 处于稳定的空闲姿态
+- 它持续使用 micro:bit 加速度计来维持平衡
+- 它对声音和倾斜输入做出微妙反应
 
-> This is the best starting point for tilt‑balancing practice.
+> 这是倾斜平衡练习的最佳起点。
 
-## 3. 🎚️ Make PU React to Tilting
+## 3. 🎚️ 让 PU 对倾斜做出反应
 
-Robot PU exposes two key "tilt bias" commands via **runKeyValueCommand**:
+Robot PU 通过 **runKeyValueCommand** 暴露两个关键的"倾斜偏置"命令：
 
-| Key | Meaning | Range |
-|-----|---------|-------|
-| **#puroll** | Side tilt (left/right) | –90 to 90 degrees |
-| **#pupitch** | Forward/back tilt | –90 to 90 degrees |
+| 键 | 含义 | 范围 |
+|-----|------|------|
+| **#puroll** | 侧向倾斜（左/右） | –90 到 90 度 |
+| **#pupitch** | 前/后倾斜 | –90 到 90 度 |
 
-These values normally come from a remote gamepad, but you can generate them directly from the robot's own micro:bit.
+这些值通常来自远程手柄，但你可以直接从机器人自己的 micro:bit 生成它们。
 
-### Example: Use PU's own accelerometer to adjust balance
+### 示例：使用 PU 自己的加速度计调整平衡
 
 ```typescript
 basic.forever(function () {
@@ -76,23 +75,23 @@ basic.forever(function () {
 })
 ```
 
-**What this does:**
-- PU reads its own tilt
-- You feed those tilt angles back into PU's internal stabilizer
-- PU adjusts its head/body to counteract the tilt
-- This creates a **self‑balancing loop**
+**这做了什么：**
+- PU 读取自己的倾斜
+- 你将这些倾斜角度反馈到 PU 的内部稳定器中
+- PU 调整其头部/身体以抵消倾斜
+- 这创建了一个**自平衡回路**
 
-> This is the core of "balance on tilts."
+> 这是"在倾斜面上保持平衡"的核心。
 
 
-## 4. 🏋️ Balance Training Mode (Full Program)
+## 4. 🏋️ 平衡训练模式（完整程序）
 
-Here's a complete program that:
+以下是一个完整的程序：
 
-- Calibrates PU
-- Reads tilt continuously
-- Applies smoothing
-- Balances PU on uneven surfaces
+- 校准 PU
+- 连续读取倾斜
+- 应用平滑
+- 在不平坦表面上平衡 PU
 
 ```typescript
 robotPu.calibrate()
@@ -115,17 +114,17 @@ basic.forever(function () {
 })
 ```
 
-**Why this works:**
-- **rest()** maintains base stability
-- **#puroll** / **#pupitch** add tilt‑compensation
-- Smoothing prevents jerky servo motion
-- PU becomes noticeably better at staying upright on ramps or when nudged
+**为什么这有效：**
+- **rest()** 保持基础稳定性
+- **#puroll** / **#pupitch** 添加倾斜补偿
+- 平滑防止生硬的舵机运动
+- PU 在斜坡上或被轻推时保持直立的能力明显提高
 
 ---
 
-## 5. 🔊 Add Feedback (Optional)
+## 5. 🔊 添加反馈（可选）
 
-### A. Sound reaction when PU tilts too much
+### A. PU 倾斜过大时发出声音反应
 
 ```typescript
 basic.forever(function () {
@@ -137,7 +136,7 @@ basic.forever(function () {
 })
 ```
 
-### B. LED color changes based on tilt
+### B. 基于倾斜的 LED 颜色变化
 
 ```typescript
 basic.forever(function () {
@@ -154,98 +153,97 @@ basic.forever(function () {
 ```
 
 
+## 6. 🧪 尝试这些挑战
 
-## 6. 🧪 Try These Challenges
-
-- Make PU lean **into** the tilt instead of resisting it
-- Add a "balance score" that increases the longer PU stays upright
-- Make PU walk slowly while balancing on a tilted board
-- Use **setWalkSpeedRange()** to tune stability vs. speed
+- 让 PU **朝向**倾斜方向倾斜，而不是抵抗它
+- 添加一个"平衡分数"，PU 保持直立的时间越长分数越高
+- 让 PU 在倾斜板上缓慢行走的同时保持平衡
+- 使用 **setWalkSpeedRange()** 来调整稳定性 vs. 速度
 
 
-## 7. 📦 Summary
+## 7. 📦 总结
 
-To make Robot PU balance on tilts:
+让 Robot PU 在倾斜面上保持平衡：
 
-1. Use **rest()** for built‑in balancing
-2. Feed tilt values back into PU using **#puroll** and **#pupitch**
-3. Combine both in a continuous loop
-4. Add smoothing and feedback for better performance
+1. 使用 **rest()** 进行内置平衡
+2. 使用 **#puroll** 和 **#pupitch** 将倾斜值反馈给 PU
+3. 在连续循环中结合两者
+4. 添加平滑和反馈以获得更好的性能
 
-> All behaviors are supported directly by the Robot PU MakeCode extension.
+> 所有行为均由 Robot PU MakeCode 扩展程序直接支持。
 
-A threshold‑triggered balance controller is simple, but it produces **binary behavior**: nothing happens until the tilt crosses a limit, then the robot suddenly reacts. That leads to:
+基于阈值触发的平衡控制器很简单，但它产生**二元行为**：在倾斜超过限制之前什么都不发生，然后机器人突然反应。这导致：
 
-- Jerky corrections
-- Overshoot
-- Poor stability on small tilts
-- Noisy behavior near the threshold
+- 生硬的修正
+- 超调
+- 小倾斜时稳定性差
+- 阈值附近的噪声行为
 
-Robot PU's **moveBalance()** already has the right inputs (observed roll/pitch vs. expected roll/pitch). What it needs is a **continuous control law**, not a threshold switch.
+Robot PU 的 **moveBalance()** 已经有正确的输入（观察到的 roll/pitch vs. 预期的 roll/pitch）。它需要的是**连续控制律**，而不是阈值开关。
 
-Below are several algorithms that are significantly better and still lightweight enough for micro:bit‑class hardware.
+以下是几个明显更好且对 micro:bit 级硬件足够轻量的算法。
 
-## ⭐ Recommended Replacement: PD (Proportional–Derivative) Balance Controller
+## ⭐ 推荐替代方案：PD（比例-微分）平衡控制器
 
-This is the standard approach used in small robots, quadrupeds, and even drones. It is **simple, stable, and smooth**.
+这是小型机器人、四足机器人甚至无人机中使用的标准方法。它**简单、稳定且平滑**。
 
-### Idea
+### 思路
 
-Compute the error:
+计算误差：
 
 - e_r = r_expected – r_observed
 - e_p = p_expected – p_observed
 
 
-Then compute a control output:
+然后计算控制输出：
 
 
 - u_r = Kp · e_r + Kd · (e_r – e_r_prev)
 - u_p = Kp · e_p + Kd · (e_p – e_p_prev)
 
 
-Then apply:
+然后应用：
 
 ```typescript
 robotPu.runKeyValueCommand("#puroll", u_r)
 robotPu.runKeyValueCommand("#pupitch", u_p)
 ```
 
-**Why this is better:**
-- Smooth, continuous correction
-- No sudden jumps
-- Automatically scales with tilt magnitude
-- Derivative term damps oscillation
+**为什么更好：**
+- 平滑、连续的修正
+- 没有突然的跳变
+- 自动随倾斜幅度缩放
+- 微分项阻尼振荡
 
-**Where to put it:**
+**放在哪里：**
 
-Inside **moveBalance()**, replace the threshold logic with PD computation.
+在 **moveBalance()** 内部，用 PD 计算替换阈值逻辑。
 
 
-## ⭐ Even Better: PID Controller (Proportional–Integral–Derivative)
+## ⭐ 更好：PID 控制器（比例-积分-微分）
 
-If PU tends to lean slightly even when "balanced," add an **integral term**:
+如果 PU 即使在"平衡"状态下也倾向于略微倾斜，添加**积分项**：
 
 
 - u = Kp · e + Ki · Σe + Kd · Δe
 
 
-This removes long‑term bias (e.g., uneven weight distribution).
+这消除了长期偏置（例如，不均匀的重量分布）。
 
-**Pros:**
+**优点：**
 
-- Most stable
-- Eliminates drift
-- Smoothest behavior
+- 最稳定
+- 消除漂移
+- 最平滑的行为
 
-**Cons:**
+**缺点：**
 
-- Slightly more tuning required
+- 需要稍多的调参
 
 
-## ⭐ Lightweight Alternative: Linear Gain Scaling (Proportional Only)
+## ⭐ 轻量替代方案：线性增益缩放（仅比例）
 
-If PD feels too complex, use a simple proportional controller:
+如果 PD 感觉太复杂，使用简单的比例控制器：
 
 ```typescript
 let rollError = expectedRoll - observedRoll
@@ -258,55 +256,55 @@ robotPu.runKeyValueCommand("#puroll", rollControl)
 robotPu.runKeyValueCommand("#pupitch", pitchControl)
 ```
 
-**Why this is better than threshold:**
-- Continuous
-- No oscillation from threshold crossing
-- Very easy to tune
+**为什么比阈值好：**
+- 连续
+- 没有阈值穿越引起的振荡
+- 非常容易调参
 
 
-## ⭐ Advanced Option: Complementary Filter + PD
+## ⭐ 高级选项：互补滤波器 + PD
 
-If the robot moves fast or the IMU is noisy, combine accelerometer + gyro (if available) using a complementary filter:
+如果机器人移动很快或 IMU 噪声大，使用互补滤波器组合加速度计 + 陀螺仪（如果可用）：
 
-- Fast gyro for short‑term stability
-- Slow accelerometer for long‑term drift correction
+- 快速陀螺仪用于短期稳定性
+- 慢速加速度计用于长期漂移纠正
 
-Then feed the filtered angles into a PD controller.
+然后将滤波后的角度输入 PD 控制器。
 
-This is how many hobby drones stabilize.
+这是许多业余无人机稳定的方式。
 
-## ⭐ Most Advanced: Model Predictive Control (MPC)
+## ⭐ 最高级：模型预测控制（MPC）
 
-This is overkill for micro:bit, but worth mentioning:
+这对 micro:bit 来说是大材小用，但值得一提：
 
-- Predicts future tilt
-- Optimizes control vector
-- Very stable on dynamic terrain
+- 预测未来倾斜
+- 优化控制向量
+- 在动态地形上非常稳定
 
-Not recommended unless you port PU to a more powerful MCU.
+除非你将 PU 移植到更强大的 MCU，否则不推荐。
 
-## 🧠 Summary of Recommended Upgrade
+## 🧠 推荐升级总结
 
-| Method | Difficulty | Smoothness | Stability | Notes |
-|--------|-----------|-----------|-----------|-------|
-| Threshold (current) | Easy | Poor | Poor | Discrete, jerky |
-| Proportional (P) | Easy | Good | Good | Best simple upgrade |
-| PD | Medium | Very good | Very good | Best overall choice |
-| PID | Medium | Excellent | Excellent | Removes drift |
-| Complementary Filter + PD | Medium | Excellent | Excellent | Best for noisy IMUs |
+| 方法 | 难度 | 平滑度 | 稳定性 | 备注 |
+|------|------|--------|--------|------|
+| 阈值（当前） | 简单 | 差 | 差 | 离散、生硬 |
+| 比例（P） | 简单 | 好 | 好 | 最佳简单升级 |
+| PD | 中等 | 非常好 | 非常好 | 最佳整体选择 |
+| PID | 中等 | 优秀 | 优秀 | 消除漂移 |
+| 互补滤波器 + PD | 中等 | 优秀 | 优秀 | 最适合噪声 IMU |
 
-Below is a clean, modernized **PID‑based rewrite** of `moveBalance()` that replaces the threshold logic with:
+以下是对 `moveBalance()` 的**基于 PID 的清晰现代化重写**，用以下内容替换阈值逻辑：
 
-- Low‑pass smoothing on sensor inputs
-- Full PID control for roll and pitch
-- Derivative filtering to reduce noise
-- Integral anti‑windup to prevent runaway accumulation
-- Clamped output to keep gait vectors safe
+- 传感器输入的低通平滑
+- Roll 和 Pitch 的完整 PID 控制
+- 微分滤波以减少噪声
+- 积分抗饱和以防止失控积累
+- 钳制输出以保持步态向量安全
 
-This version is written in **MakeCode TypeScript**, matching the style of `robotpu.ts`.
+此版本用 **MakeCode TypeScript** 编写，匹配 `robotpu.ts` 的风格。
 
 
-## 🔧 Improved `moveBalance()` (PID + smoothing + anti‑windup)
+## 🔧 改进的 `moveBalance()`（PID + 平滑 + 抗饱和）
 
 
 ```typescript
@@ -396,26 +394,26 @@ export function moveBalance(
 
 ---
 
-## 🧠 Why This Version Is Dramatically Better
+## 🧠 为什么此版本显著更好
 
-**✔ Smooth, continuous balancing**
+**✔ 平滑、连续的平衡**
 
-The low‑pass filter prevents jitter from the micro:bit accelerometer.
+低通滤波器防止 micro:bit 加速度计的抖动。
 
-**✔ PID gives proportional, stable correction**
+**✔ PID 提供比例、稳定的修正**
 
-- P corrects tilt proportionally
-- I removes long‑term lean (e.g., weight imbalance)
-- D damps oscillation and overshoot
+- P 按比例纠正倾斜
+- I 消除长期倾斜（例如，重量不平衡）
+- D 阻尼振荡和超调
 
-**✔ Anti‑windup prevents instability**
+**✔ 抗饱和防止不稳定**
 
-Integral terms are clamped so they never “run away.”
+积分项被钳制，使其永远不会"失控"。
 
-**✔ Derivative smoothing reduces noise**
+**✔ 微分平滑减少噪声**
 
-Raw derivative from micro:bit IMU is extremely noisy; smoothing makes it usable.
+来自 micro:bit IMU 的原始微分噪声极大；平滑使其可用。
 
-**✔ Output clamping protects servos**
+**✔ 输出钳制保护舵机**
 
-Ensures gait vectors stay within safe limits.
+确保步态向量保持在安全限制内。

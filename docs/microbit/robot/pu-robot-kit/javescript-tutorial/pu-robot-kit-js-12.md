@@ -1,108 +1,108 @@
 ---
 sidebar_position: 12
-sidebar_label: 12:Robot PU Maze Runner
+sidebar_label: 12:Robot PU 迷宫跑者
 ---
 
-# Robot PU Maze Runner
+# Robot PU 迷宫跑者
 
-## Maze Solver Tutorial (Robot PU)
+## 迷宫求解教程（Robot PU）
 
-This tutorial shows how to solve a maze using a classic strategy:
+本教程展示如何使用经典策略求解迷宫：
 
-- Follow the right wall
-- Follow the left wall
+- 跟随右侧墙壁
+- 跟随左侧墙壁
 
-For simply-connected mazes (no "floating islands" of walls), either rule is guaranteed to reach an exit if one exists.
+对于简单连通迷宫（没有"浮动孤岛"墙壁），只要存在出口，任一规则都能保证到达。
 
-Robot PU doesn't need a full map for this approach. It just needs to decide "turn / forward / turn around" based on sonar distance.
-
----
-
-## Knowledge
-
-- [MakeCode Loops](https://makecode.microbit.org/blocks/loops)
-- [MakeCode JavaScript Statements](https://makecode.microbit.org/javascript/statements)
-- [Maze-solving Algorithm – Wikipedia](https://en.wikipedia.org/wiki/Maze-solving_algorithm)
+Robot PU 不需要完整的迷宫地图。它只需要根据声呐距离判断"转弯 / 直行 / 掉头"。
 
 ---
 
-## Prerequisites
+## 知识准备
 
-- Add the Robot PU extension in MakeCode
-- Build a maze with walls the sonar can see (cardboard boxes, books, foam blocks)
-- Use a surface with good traction (avoid glossy tables)
-
----
-
-## What You Will Build
-
-- A simple autonomous maze solver using `robotPu.walk(speed, turn)`
-- A choice of right-hand or left-hand wall following
+- [MakeCode 循环](https://makecode.microbit.org/blocks/loops)
+- [MakeCode JavaScript 语句](https://makecode.microbit.org/javascript/statements)
+- [迷宫求解算法 - Wikipedia](https://en.wikipedia.org/wiki/Maze-solving_algorithm)
 
 ---
 
-## Robot PU APIs Used
+## 前置条件
 
-Robot PU is an interactive STEM buddy controlled by a micro:bit. In this maze project, we rely on:
-
-| API | Description |
-|-----|-------------|
-| `robotPu.walk(speed, turn)` | Movement |
-| `robotPu.frontDistanceArray()` | Sonar scan |
+- 在 MakeCode 中添加 Robot PU 扩展
+- 搭建一个声呐能检测到墙壁的迷宫（纸板箱、书本、泡沫块）
+- 使用摩擦力良好的地面（避免光滑桌面）
 
 ---
 
-## Why Wall-Following Works (and When It Fails)
+## 你将构建什么
 
-### What "Guaranteed to Solve" Means
-
-If the maze is **simply connected** (all walls are connected to the outer boundary), then:
-
-- Keeping your **right hand** on the wall (**right-hand rule**) will eventually lead you to the exit.
-- Keeping your **left hand** on the wall (**left-hand rule**) will eventually lead you to the exit.
-
-### When It Can Fail
-
-Wall-following can **loop forever** in mazes with **islands** (walls not connected to the outer boundary). In those mazes, you need mapping (like `2d-map.md`) + exploration.
+- 一个使用 `robotPu.walk(speed, turn)` 的简单自主迷宫求解器
+- 可以选择右手法则或左手法则进行墙壁跟随
 
 ---
 
-## Sensing Strategy: `frontDistanceArray()` Bins
+## 使用的 Robot PU API
 
-Robot PU's sonar faces ~35° downward. While walking, PU naturally sways, and the extension maintains a small "front scan" array.
+Robot PU 是一个由 micro:bit 控制的交互式 STEM 伙伴。在这个迷宫项目中，我们依赖以下 API：
 
-In this updated tutorial we use:
-
-**Front scan array:** `robotPu.frontDistanceArray()`
-
-It returns **5 distance bins** from left to right:
-
-| Index | Direction |
-|-------|-----------|
-| `d[0]` | Far left |
-| `d[1]` | Left |
-| `d[2]` | Center / Front |
-| `d[3]` | Right |
-| `d[4]` | Far right |
-
-These bins are designed to give you a simple "left / front / right" view without moving the head.
-
-Then we decide the next motion using a **priority order**.
+| API | 描述 |
+|-----|------|
+| `robotPu.walk(speed, turn)` | 运动控制 |
+| `robotPu.frontDistanceArray()` | 声呐扫描 |
 
 ---
 
-## Decision Rule (Right-Hand Rule)
+## 为什么墙壁跟随有效（以及何时失效）
 
-1. If **right** is open → turn right
-2. Else if **front** is open → go forward
-3. Else if **left** is open → turn left
-4. Else → turn around
+### "保证能解"的含义
+
+如果迷宫是**简单连通**的（所有墙壁都与外边界相连），那么：
+
+- 将**右手**贴在墙上（**右手法则**）最终会引导你到达出口。
+- 将**左手**贴在墙上（**左手法则**）最终会引导你到达出口。
+
+### 何时会失败
+
+墙壁跟随在包含**孤岛**（不与外边界相连的墙壁）的迷宫中可能会**永远循环**。对于这类迷宫，你需要建图（如 `2d-map.md`）+ 探索。
 
 ---
 
-## Implementation: Right-Hand Rule (Recommended Starting Point)
+## 传感策略：`frontDistanceArray()` 分区
 
-Copy this code into the **JavaScript tab** of the MakeCode Editor.
+Robot PU 的声呐面向下方约 35°。在行走过程中，PU 会自然摇摆，扩展程序维护一个小型"前方扫描"数组。
+
+在本更新教程中我们使用：
+
+**前方扫描数组：** `robotPu.frontDistanceArray()`
+
+它返回从左到右的 **5 个距离分区**：
+
+| 索引 | 方向 |
+|------|------|
+| `d[0]` | 最左侧 |
+| `d[1]` | 左侧 |
+| `d[2]` | 中央 / 前方 |
+| `d[3]` | 右侧 |
+| `d[4]` | 最右侧 |
+
+这些分区旨在让你无需移动头部就能获得简单的"左 / 前 / 右"视图。
+
+然后我们使用**优先级顺序**来决定下一步动作。
+
+---
+
+## 决策规则（右手法则）
+
+1. 如果**右侧**畅通 → 右转
+2. 否则如果**前方**畅通 → 直行
+3. 否则如果**左侧**畅通 → 左转
+4. 否则 → 掉头
+
+---
+
+## 实现：右手法则（推荐起点）
+
+将此代码复制到 MakeCode 编辑器的 **JavaScript 标签页**。
 
 ```typescript
 function clampInt (x: number, lo: number, hi: number) {
@@ -182,16 +182,16 @@ basic.forever(function () {
 
 ---
 
-## Follow Left Wall Variant
+## 跟随左侧墙壁变体
 
-If you want to follow the **left wall** instead, flip the priority order:
+如果你想跟随**左侧墙壁**，只需翻转优先级顺序：
 
-1. If **left** is open → turn left
-2. Else if **front** is open → go forward
-3. Else if **right** is open → turn right
-4. Else → turn around
+1. 如果**左侧**畅通 → 左转
+2. 否则如果**前方**畅通 → 直行
+3. 否则如果**右侧**畅通 → 右转
+4. 否则 → 掉头
 
-You can implement it by changing the decision section:
+你可以通过修改决策部分来实现：
 
 ```typescript
 // Left-hand rule priority
@@ -208,39 +208,39 @@ if (leftOpen) {
 
 ---
 
-## Testing and Calibration
+## 测试与校准
 
-### Build a Maze
-- Use cardboard walls or blocks that sonar can detect.
-- Make the corridors wide enough for Robot PU to walk.
+### 搭建迷宫
+- 使用声呐能检测到的纸板墙或积木块。
+- 走廊宽度应足够 Robot PU 通行。
 
-### Tune Thresholds
-- If PU scrapes walls → increase `OPEN_CM` and/or reduce `FWD_SPEED`
-- If PU refuses to enter corridors → decrease `OPEN_CM`
+### 调整阈值
+- 如果 PU 剐蹭墙壁 → 增大 `OPEN_CM` 和/或减小 `FWD_SPEED`
+- 如果 PU 拒绝进入走廊 → 减小 `OPEN_CM`
 
-### Tune Turning
-- If turns are too small → increase turn duration in `turnRight90ish()` / `turnLeft90ish()`
-- If turns overshoot → decrease duration or reduce `TURN_BIAS`
-
----
-
-## Troubleshooting
-
-| Symptom | Fix |
-|---------|-----|
-| Robot scrapes walls | Increase `OPEN_CM`; slow down: reduce `FWD_SPEED` |
-| Robot turns too late and bonks | Increase `TOO_CLOSE_CM`; increase the emergency turn duration |
-| Robot oscillates in narrow corridors | Reduce `TURN_BIAS`; reduce `TURN_SPEED` |
-| Robot gets stuck turning in place | Reduce `OPEN_CM` (it may think everything is blocked); increase `stepForward()` duration slightly |
+### 调整转弯
+- 如果转弯角度太小 → 增加 `turnRight90ish()` / `turnLeft90ish()` 中的转弯持续时间
+- 如果转弯过度 → 减少持续时间或降低 `TURN_BIAS`
 
 ---
 
-## Next Steps (Upgrade Path)
+## 问题排查
 
-Wall following is simple and robust, but it does not "understand" the maze.
+| 症状 | 解决方案 |
+|------|----------|
+| 机器人剐蹭墙壁 | 增大 `OPEN_CM`；减速：减小 `FWD_SPEED` |
+| 机器人转弯太晚并撞墙 | 增大 `TOO_CLOSE_CM`；增加紧急转弯持续时间 |
+| 机器人在狭窄走廊中振荡 | 减小 `TURN_BIAS`；减小 `TURN_SPEED` |
+| 机器人在原地转圈 | 减小 `OPEN_CM`（可能认为所有方向都被挡住）；略微增加 `stepForward()` 的持续时间 |
 
-**Next upgrades** (based on `2d-map.md`):
+---
 
-1. **Local map validation**: update a 5×5 occupancy grid from the same left/front/right scans.
-2. **Detect loops**: if you revisit the same local pattern many times, switch strategy.
-3. **Hybrid solver**: follow the wall, but if stuck, use the occupancy map to choose an alternative.
+## 后续步骤（升级路径）
+
+墙壁跟随简单而稳健，但它并不"理解"迷宫。
+
+**下一步升级**（基于 `2d-map.md`）：
+
+1. **局部地图验证**：从相同的左/前/右扫描更新 5×5 占用网格。
+2. **检测循环**：如果多次重访相同的局部模式，切换策略。
+3. **混合求解器**：跟随墙壁，但如果卡住，使用占用地图选择替代路径。

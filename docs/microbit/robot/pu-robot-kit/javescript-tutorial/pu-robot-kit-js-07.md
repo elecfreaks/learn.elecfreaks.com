@@ -1,15 +1,17 @@
 ---
 sidebar_position: 7
-sidebar_label: 7:Lesson:Robot PU Sensors (Observation)
+sidebar_label: 7:Robot PU传感器（观测篇）
 ---
 
-# 7:Lesson:Robot PU Sensors (Observation)
+# 7:Robot PU传感器（观测篇）
 
-## Robot PU “senses” the world using a mix of:
+## Robot PU通过以下组合"感知"世界：
 
-- micro:bit built-in sensors (IMU, buttons, microphone)
-- Robot PU add-on sensors (ultrasonic sonar) This lesson shows which sensor APIs you can use and how to build simple observation behaviors.
-Knowledge
+- micro:bit内置传感器（IMU、按钮、麦克风）
+- Robot PU附加传感器（超声波声呐）
+本课展示你可以使用哪些传感器API，以及如何构建简单的观测行为。
+
+知识点
 
 [https://makecode.microbit.org/types](https://makecode.microbit.org/types)
 
@@ -20,23 +22,34 @@ Knowledge
 [https://microbit.org/get-started/features/sensors/](https://microbit.org/get-started/features/sensors/)
 
 
-### 1. What sensors are available?
-#### A. micro:bit motion (IMU)
+### 1. 有哪些传感器可用？
+#### A. micro:bit运动传感器（IMU）
 
-The micro:bit has an accelerometer (and magnetometer depending on board/runtime). In MakeCode you can read motion using:
+micro:bit具有加速度计（以及磁力计，取决于板卡/运行时）。在MakeCode中，你可以使用以下方式读取运动数据：
 
 - `input.isGesture(Gesture.FreeFall)`
 - `input.isGesture(Gesture.Shake)`
-- `input.rotation(Rotation.Roll)` / `input.rotation(Rotation.Pitch)` Robot PU internally uses FreeFall detection as part of its safety behavior (see the updateStates() logic in the extension). B. micro:bit buttons
+- `input.rotation(Rotation.Roll)` / `input.rotation(Rotation.Pitch)`
+Robot PU内部使用FreeFall（自由落体）检测作为其安全行为的一部分（参见扩展中的updateStates()逻辑）。
+
+#### B. micro:bit按钮
 - `input.onButtonPressed(Button.A, ...)`
 - `input.onButtonPressed(Button.B, ...)`
-- `input.onButtonPressed(Button.AB, ...) `Buttons are useful for manual control / testing. C. micro:bit microphone (sound level)
-- `input.soundLevel()` returns 0–255 Robot PU uses sound level in some behaviors (for example, some dance/rest behaviors react to audio). D. Ultrasonic sonar (distance) Robot PU includes an HCSR04 ultrasonic sensor interface. In this extension, you can read it using:
-- `robotPu.sonarDistanceCm()` Wiring note (default pins used by the extension):
-Trigger: `P2`
-Echo: `P8`
+- `input.onButtonPressed(Button.AB, ...)`
+按钮在手动控制/测试中非常有用。
 
-### 2. Example: show sonar distance on the LED display
+#### C. micro:bit麦克风（声音强度）
+- `input.soundLevel()` 返回0–255的值
+Robot PU在某些行为中使用声音强度（例如，一些舞蹈/休息行为会对音频做出反应）。
+
+#### D. 超声波声呐（距离）
+Robot PU包含HCSR04超声波传感器接口。在此扩展中，你可以使用以下方式读取：
+- `robotPu.sonarDistanceCm()`
+接线说明（扩展使用的默认引脚）：
+触发：`P2`
+回波：`P8`
+
+### 2. 示例：在LED显示屏上显示声呐距离
 
 ``` js
  basic.forever(function () {
@@ -47,18 +60,18 @@ Echo: `P8`
  ```
 
 
-### 3. Example: obstacle stop / backup (sonar)
-This is a simple reactive behavior:
+### 3. 示例：障碍物停止/后退（声呐）
+这是一个简单的反应式行为：
 
-- If something is too close, stop and back up / turn
-- Otherwise, keep walking forward
+- 如果有物体太近，停止并后退/转向
+- 否则，继续向前走
 
 ```js
  basic.forever(function () {
      const cm = robotPu.sonarDistanceCm()
 
      if (cm > 0 && cm < 20) {
-         // Too close: turn away
+         // 太近：转向避开
          for (let i = 0; i < 200; i++) {
              robotPu.walk(-2, 0)
          }
@@ -66,26 +79,26 @@ This is a simple reactive behavior:
              robotPu.walk(2, 0.8)
          }
      } else {
-         // Clear: walk forward
+         // 畅通：向前走
          robotPu.walk(2, 0)
      }
  })
  ```
-**Notes:**
+**注意：**
 
-**`robotPu.walk(...)` is an action that advances when you call it repeatedly.**
-**Sonar readings can be noisy; consider averaging if you see jitter.**
+**`robotPu.walk(...)`是一个当你重复调用时会持续前进的动作。**
+**声呐读数可能有噪声；如果出现抖动，考虑取平均值。**
 
-### 4. Example: fall / free-fall safety response (IMU)
-The micro:bit can detect a free-fall gesture.
+### 4. 示例：跌落/自由落体安全响应（IMU）
+micro:bit可以检测自由落体手势。
 
-You can use this to stop movement and return to a safe pose:
+你可以使用它来停止运动并恢复到安全姿态：
 
 
 ``` js
  basic.forever(function () {
      if (input.isGesture(Gesture.FreeFall)) {
-         // Try to stop motion and recover pose
+         // 尝试停止运动并恢复姿态
          for (let i = 0; i < 200; i++) {
              robotPu.stand()
          }
@@ -95,12 +108,12 @@ You can use this to stop movement and return to a safe pose:
  })
 ```
 
-### 5. Example: clap to jump (microphone)
+### 5. 示例：拍手跳（麦克风）
 ```js
  basic.forever(function () {
      const s = input.soundLevel()
      if (s > 140) {
-         // One jump (call repeatedly until you see completion boundaries)
+         // 跳一下（重复调用直到看到完成边界）
          for (let i = 0; i < 200; i++) {
              robotPu.jump()
          }
@@ -109,16 +122,16 @@ You can use this to stop movement and return to a safe pose:
 ```
 
 
-### 6.Example: send the front distance array via radio (key/value pairs)
+### 6. 示例：通过无线电发送前方距离数组（键值对）
 
-This example uses **two micro:bits**:
+本示例使用**两个micro:bit**：
 
-- Robot PU micro:bit = **sender**
-- Gamepad micro:bit = **receiver**
+- Robot PU micro:bit = **发送方**
+- 游戏手柄 micro:bit = **接收方**
 
-The sender transmits 5 values using `radio.sendValue(key, value)`.
+发送方使用`radio.sendValue(key, value)`传输5个数值。
 
-#### A. Sender (Robot PU) code
+#### A. 发送方（Robot PU）代码
 ```js
 radio.onReceivedString(function (receivedString) {
     robotPu.runStringCommand(receivedString)
@@ -140,10 +153,10 @@ basic.forever(function () {
     basic.pause(100)
 })
 ```
-**Notes:**
+**注意：**
 
-- `robotPu.frontDistanceArray()` returns 5 bins from left-to-right across the front view.
-- If you’re already using a specific radio group/channel elsewhere, keep them consistent on both devices.
+- `robotPu.frontDistanceArray()`返回5个区间值，从左到右覆盖前方视野。
+- 如果你在其他地方已经使用特定的无线电组/通道，请保持两台设备一致。
 
 <div
     style={{
@@ -166,9 +179,9 @@ basic.forever(function () {
 
 
 
-### B. Receiver (Gamepad) code
+### B. 接收方（游戏手柄）代码
 
-The receiver listens for the 5 keys and plots them as **5 columns** on the 5×5 LED display.
+接收方监听5个键值，并在5×5 LED显示屏上绘制**5列**图形。
 
 ```js
 radio.setGroup(166)
@@ -189,7 +202,7 @@ radio.setGroup(166)
      }
  }
 
-ffunction drawDistances () {
+function drawDistances () {
     basic.clearScreen()
     for (let x2 = 0; x2 <= 4; x2++) {
         h = Math.map(d[x2], 2, 50, 5, 0)
@@ -210,25 +223,25 @@ ffunction drawDistances () {
  basic.forever(function () {
      const distance = clampInt(minD, 0, 100)
 
-     // Closer = Higher Frequency
+     // 越近 = 频率越高
      let pitch = Math.map(distance, 2, 100, 2000, 200);
 
-     // Closer = Faster Beeps
+     // 越近 = 蜂鸣越快
      let pulseDelay = Math.map(distance, 2, 100, 100, 800);
 
-     // Play the ping
+     // 播放乒声
      music.playTone(pitch, 50);
 
-     // Wait before the next pulse
+     // 等待下一次脉冲
      basic.pause(pulseDelay);
  })
 
 ```
 
-**Notes:**
+**注意：**
 
-- The LED visualization maps distance (0–100cm) into a column height.
-- You can tune the display mapping by changing the `100`cm max range.
+- LED可视化将距离（0–100cm）映射为列高度。
+- 你可以通过更改`100`cm最大范围来调整显示映射。
 
 <div
     style={{
@@ -250,9 +263,9 @@ ffunction drawDistances () {
 </div>
 
 
-### 7. Summary
+### 7. 总结
 
-- Use `robotPu.sonarDistanceCm()` to measure distance in cm.
-- Use `input.isGesture(…)` and `input.rotation(…)` for motion sensing.
-- Use `input.soundLevel()` for sound-reactive behaviors.
-- Use buttons for simple manual triggers during testing.
+- 使用 `robotPu.sonarDistanceCm()` 以厘米为单位测量距离。
+- 使用 `input.isGesture(…)` 和 `input.rotation(…)` 进行运动感知。
+- 使用 `input.soundLevel()` 实现声音反应行为。
+- 在测试期间使用按钮进行简单的手动触发。

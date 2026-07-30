@@ -1,63 +1,63 @@
 ---
 sidebar_position: 17
-sidebar_label: 17:Robot PU Event and Event Handler
+sidebar_label: 17:Robot PU 事件与事件处理器
 ---
 
-# Robot PU Event and Event Handler
+# Robot PU 事件与事件处理器
 
-Below is a brand‑new tutorial on creating custom events and event handlers for Robot PU, written in the same tone, pacing, and structure as the GitHub tutorial you referenced — but without copying it.
-It teaches the same concepts: event loops, custom event sources, and reacting to events using the micro:bit event system.
+以下是一篇关于为 Robot PU 创建自定义事件和事件处理器的全新教程，采用与参考 GitHub 教程相同的语调、节奏和结构——但不是复制它。
+它教授相同的概念：事件循环、自定义事件源、以及使用 micro:bit 事件系统响应事件。
 
-## 🤖 Robot PU Tutorial: Creating Custom Events & Event Handlers
+## 🤖 Robot PU 教程：创建自定义事件与事件处理器
 
-**JavaScript Tutorial for MakeCode + micro:bit Events**
-
----
-
-Robot PU programs normally run inside a `basic.forever()` loop.
-But sometimes you want your robot to react instantly to something:
-
-- a sensor condition
-- a button press
-- a message from another robot
-- a custom trigger you define
-
-This is where custom events and event handlers shine.
-
-The micro:bit runtime includes a powerful event system that lets you:
-
-- raise your own events
-- listen for those events
-- run callbacks when events occur
-
-This tutorial shows you how to build your own event‑driven robot behaviors.
+**MakeCode + micro:bit 事件的 JavaScript 教程**
 
 ---
 
-## 🎯 What You Will Learn
+Robot PU 程序通常在 `basic.forever()` 循环中运行。
+但有时你希望机器人对某些事情做出即时反应：
 
-You will learn how to:
+- 传感器条件
+- 按钮按下
+- 来自另一个机器人的消息
+- 你定义的自定义触发器
 
-- Define custom event IDs
-- Raise events using `control.raiseEvent()`
-- Handle events using `control.onEvent()`
-- Build a simple event loop
-- Trigger robot actions from events
-- Combine events with Robot PU sensors
+这就是自定义事件和事件处理器大放异彩的地方。
+
+micro:bit 运行时包含一个强大的事件系统，让你可以：
+
+- 触发自己的事件
+- 监听这些事件
+- 在事件发生时运行回调
+
+本教程将向你展示如何构建自己的事件驱动机器人行为。
 
 ---
 
-## 🧱 1. The micro:bit Event System
+## 🎯 你将学到什么
 
-The event system is built around two functions:
+你将学习如何：
 
-**Raise an event**
+- 定义自定义事件 ID
+- 使用 `control.raiseEvent()` 触发事件
+- 使用 `control.onEvent()` 处理事件
+- 构建一个简单的事件循环
+- 从事件触发机器人动作
+- 将事件与 Robot PU 传感器结合
+
+---
+
+## 🧱 1. micro:bit 事件系统
+
+事件系统围绕两个函数构建：
+
+**触发事件**
 
 ```typescript
 control.raiseEvent(source, value)
 ```
 
-**Handle an event**
+**处理事件**
 
 ```typescript
 control.onEvent(source, value, function () {
@@ -65,14 +65,14 @@ control.onEvent(source, value, function () {
 })
 ```
 
-You choose the numbers for `source` and `value`.
-Think of them as channels and messages.
+你为 `source` 和 `value` 选择数字。
+可以将它们视为通道和消息。
 
 ---
 
-## 🏷️ 2. Defining Your Own Event IDs
+## 🏷️ 2. 定义自己的事件 ID
 
-It's good practice to define constants for your events:
+为事件定义常量是一个好习惯：
 
 ```typescript
 const EVT_ROBOT = 1001
@@ -80,28 +80,28 @@ const EVT_START = 1
 const EVT_STOP = 2
 ```
 
-This makes your code readable and avoids magic numbers.
+这使代码可读并避免魔法数字。
 
 ---
 
-## 🚀 3. Raising Events
+## 🚀 3. 触发事件
 
-You can raise an event from anywhere:
+你可以在任何地方触发事件：
 
 ```typescript
 control.raiseEvent(EVT_ROBOT, EVT_START)
 ```
 
-This does not run immediately.
-Instead, it is added to the micro:bit's event queue.
+这不会立即运行。
+相反，它被添加到 micro:bit 的事件队列中。
 
-The event handler will run as soon as the system processes it.
+事件处理器将在系统处理它时立即运行。
 
 ---
 
-## 🎧 4. Handling Events (Callbacks)
+## 🎧 4. 处理事件（回调）
 
-To react to an event, register a handler:
+要响应事件，注册一个处理器：
 
 ```typescript
 control.onEvent(EVT_ROBOT, EVT_START, function () {
@@ -109,9 +109,9 @@ control.onEvent(EVT_ROBOT, EVT_START, function () {
 })
 ```
 
-When the event is raised, this callback runs automatically.
+当事件被触发时，此回调自动运行。
 
-You can register multiple handlers for different values:
+你可以为不同的值注册多个处理器：
 
 ```typescript
 control.onEvent(EVT_ROBOT, EVT_STOP, function () {
@@ -121,14 +121,14 @@ control.onEvent(EVT_ROBOT, EVT_STOP, function () {
 
 ---
 
-## 🔁 5. Combining Events with a Forever Loop
+## 🔁 5. 将事件与 Forever 循环结合
 
-A common pattern is:
+一种常见模式是：
 
-- `forever()` handles continuous tasks
-- events trigger special actions
+- `forever()` 处理连续任务
+- 事件触发特殊动作
 
-Example:
+示例：
 
 ```typescript
 let running = false
@@ -148,22 +148,22 @@ basic.forever(function () {
 })
 ```
 
-Pressing a button or receiving a message can toggle the robot's mode.
+按下按钮或接收消息可以切换机器人的模式。
 
 ---
 
-## 📡 6. Creating Events from Sensors
+## 📡 6. 从传感器创建事件
 
-Let's create a "too close" event using the front sonar bin.
+让我们使用前方声呐分区创建一个"太近"事件。
 
-### Step 1 — Define event IDs
+### 步骤 1 — 定义事件 ID
 
 ```typescript
 const EVT_SONAR = 2001
 const EVT_TOO_CLOSE = 1
 ```
 
-### Step 2 — Raise the event when needed
+### 步骤 2 — 在需要时触发事件
 
 ```typescript
 basic.forever(function () {
@@ -174,7 +174,7 @@ basic.forever(function () {
 })
 ```
 
-### Step 3 — Handle the event
+### 步骤 3 — 处理事件
 
 ```typescript
 control.onEvent(EVT_SONAR, EVT_TOO_CLOSE, function () {
@@ -183,13 +183,13 @@ control.onEvent(EVT_SONAR, EVT_TOO_CLOSE, function () {
 })
 ```
 
-Now your robot stops instantly when something is too close.
+现在当有东西太近时，你的机器人会立即停止。
 
 ---
 
-## 🤝 7. Creating Events from Peer Messages
+## 🤝 7. 从对等消息创建事件
 
-Robot PU supports peer‑to‑peer messages:
+Robot PU 支持点对点消息：
 
 ```typescript
 robotPu.onPeerMessage(function (msg) {
@@ -197,9 +197,9 @@ robotPu.onPeerMessage(function (msg) {
 })
 ```
 
-You can convert messages into events.
+你可以将消息转换为事件。
 
-Example: "hello" message → event
+示例："hello" 消息 → 事件
 
 ```typescript
 const EVT_PEER = 3001
@@ -212,7 +212,7 @@ robotPu.onPeerMessage(function (msg) {
 })
 ```
 
-Handle the event:
+处理事件：
 
 ```typescript
 control.onEvent(EVT_PEER, EVT_HELLO, function () {
@@ -222,11 +222,11 @@ control.onEvent(EVT_PEER, EVT_HELLO, function () {
 
 ---
 
-## 🎭 8. Custom Robot Behaviors
+## 🎭 8. 自定义机器人行为
 
-You can build modular robot actions using events.
+你可以使用事件构建模块化的机器人动作。
 
-Define a "dance" event:
+定义一个"舞蹈"事件：
 
 ```typescript
 const EVT_DANCE = 4001
@@ -239,7 +239,7 @@ control.onEvent(EVT_DANCE, 0, function () {
 })
 ```
 
-Trigger it with button B:
+用按钮 B 触发它：
 
 ```typescript
 input.onButtonPressed(Button.B, function () {
@@ -249,14 +249,14 @@ input.onButtonPressed(Button.B, function () {
 
 ---
 
-## 🧪 9. Full Example: Event‑Driven Robot Controller
+## 🧪 9. 完整示例：事件驱动机器人控制器
 
-This example ties everything together:
+此示例将所有内容整合在一起：
 
-- Button A → start
-- Button B → stop
-- Sonar → emergency stop
-- Event loop → movement
+- 按钮 A → 启动
+- 按钮 B → 停止
+- 声呐 → 紧急停车
+- 事件循环 → 运动
 
 ```typescript
 const EVT_CTRL = 5001
@@ -306,60 +306,62 @@ basic.forever(function () {
 })
 ```
 
-This is a clean, modular event‑driven robot architecture.
+这是一个干净、模块化的事件驱动机器人架构。
 
 ---
 
-## 🎉 You Now Know How to Build Custom Events
+## 🎉 你现在知道如何构建自定义事件了
 
-You learned how to:
+你学到了如何：
 
-- Define event IDs
-- Raise events with `control.raiseEvent()`
-- Handle events with `control.onEvent()`
-- Build event‑driven robot behaviors
-- Combine events with sensors and peer messages
+- 定义事件 ID
+- 使用 `control.raiseEvent()` 触发事件
+- 使用 `control.onEvent()` 处理事件
+- 构建事件驱动机器人行为
+- 将事件与传感器和对等消息结合
 
-This is the foundation for:
+这是以下内容的基础：
 
-- multi‑robot games
-- reactive navigation
-- swarm robotics
-- modular robot architectures
-- state machines
-
----
-
-# 🐝 Leader‑Follower Swarm Tutorial
-
-A leader‑follower swarm is one of those robotics ideas that feels almost magical the first time you see it: one robot moves freely, and the others sense, interpret, and react to follow it as a coordinated group. With Robot PU, you can build a surprisingly capable swarm using nothing more than:
-
-- peer‑to‑peer messages
-- simple distance sensing
-- micro:bit events
-- a bit of behavioral logic
-
-Let's sketch out a clean, approachable design that you can build on.
+- 多机器人游戏
+- 响应式导航
+- 群体机器人
+- 模块化机器人架构
+- 状态机
 
 ---
 
-## 🧭 What a Leader‑Follower Swarm Actually Does
+# 🐝 领导者-跟随者群体教程
 
-In a swarm like this:
+领导者-跟随者群体是机器人学中那些第一次看到时几乎感到神奇的想法之一：一个机器人自由移动，其他机器人感知、解读并响应，作为一个协调的群体跟随它。使用 Robot PU，你只需要：
 
-- **One robot is the leader** — It moves however it wants — manually, randomly, or using its own navigation logic.
-- **Other robots are followers** — They don't know the leader's plan. They simply react to:
-  - the leader's broadcasted state
-  - their own sensor readings
-  - local events
+- 点对点消息
+- 简单的距离感知
+- micro:bit 事件
+- 一点行为逻辑
 
-This is exactly how real swarm robotics works: **local rules → global behavior**.
+就可以构建一个出奇强大的群体。
+
+让我们勾勒出一个干净、易上手的设计，你可以在此基础上进行构建。
 
 ---
 
-## 📡 Communication Model
+## 🧭 领导者-跟随者群体实际上做什么
 
-Robot PU supports peer messaging:
+在这样的群体中：
+
+- **一个机器人是领导者** — 它按照自己的意愿移动——手动、随机或使用自己的导航逻辑。
+- **其他机器人是跟随者** — 它们不知道领导者的计划。它们仅响应：
+  - 领导者广播的状态
+  - 自己的传感器读数
+  - 本地事件
+
+这正是真实群体机器人的工作方式：**局部规则 → 全局行为**。
+
+---
+
+## 📡 通信模型
+
+Robot PU 支持对等消息传递：
 
 ```typescript
 robotPu.onPeerMessage(function (msg) {
@@ -367,41 +369,41 @@ robotPu.onPeerMessage(function (msg) {
 })
 ```
 
-The leader can broadcast:
+领导者可以广播：
 
-- its direction
-- its speed
-- a "stop" or "go" command
-- a "danger" alert
+- 它的方向
+- 它的速度
+- "停止"或"前进"命令
+- "危险"警报
 
-Followers interpret these messages and adjust their behavior.
+跟随者解读这些消息并调整其行为。
 
 ---
 
-## 🧱 Event‑Driven Architecture
+## 🧱 事件驱动架构
 
-We'll use the micro:bit event system to keep the code clean:
+我们将使用 micro:bit 事件系统来保持代码清晰：
 
 ```typescript
 control.raiseEvent(source, value)
 control.onEvent(source, value, handler)
 ```
 
-This lets you separate:
+这让你可以将：
 
-- message parsing
-- movement logic
-- sensor reactions
+- 消息解析
+- 运动逻辑
+- 传感器反应
 
-into modular pieces.
+分离为模块化片段。
 
 ---
 
-## 👑 Leader Robot Logic
+## 👑 领导者机器人逻辑
 
-The leader robot periodically broadcasts its movement state.
+领导者机器人定期广播其运动状态。
 
-Example: Leader broadcasts direction every 200 ms
+示例：领导者每 200ms 广播一次方向
 
 ```typescript
 basic.forever(function () {
@@ -411,15 +413,15 @@ basic.forever(function () {
 })
 ```
 
-You can replace `"forward"` with joystick input, button input, or autonomous navigation.
+你可以将 `"forward"` 替换为摇杆输入、按钮输入或自主导航。
 
 ---
 
-## 🐝 Follower Robot Logic
+## 🐝 跟随者机器人逻辑
 
-Followers listen for messages and convert them into events.
+跟随者监听消息并将其转换为事件。
 
-### Step 1 — Define event IDs
+### 步骤 1 — 定义事件 ID
 
 ```typescript
 const EVT_SWARM = 6001
@@ -429,7 +431,7 @@ const EVT_RIGHT = 3
 const EVT_STOP = 4
 ```
 
-### Step 2 — Convert messages into events
+### 步骤 2 — 将消息转换为事件
 
 ```typescript
 robotPu.onPeerMessage(function (msg) {
@@ -440,7 +442,7 @@ robotPu.onPeerMessage(function (msg) {
 })
 ```
 
-### Step 3 — Event handlers define follower behavior
+### 步骤 3 — 事件处理器定义跟随者行为
 
 ```typescript
 control.onEvent(EVT_SWARM, EVT_FWD, function () {
@@ -460,15 +462,15 @@ control.onEvent(EVT_SWARM, EVT_STOP, function () {
 })
 ```
 
-Now the follower robot mirrors the leader's movement.
+现在跟随者机器人镜像领导者的运动。
 
 ---
 
-## 🛑 Adding Collision Avoidance (Local Autonomy)
+## 🛑 添加碰撞避免（局部自主）
 
-A good swarm robot doesn't blindly follow — it reacts to its own sensors.
+一个好的群体机器人不会盲目跟随——它会响应自己的传感器。
 
-Example: Emergency stop event
+示例：紧急停车事件
 
 ```typescript
 const EVT_EMERGENCY = 9
@@ -481,7 +483,7 @@ basic.forever(function () {
 })
 ```
 
-Handler overrides swarm commands:
+处理器覆盖群体指令：
 
 ```typescript
 control.onEvent(EVT_SWARM, EVT_EMERGENCY, function () {
@@ -490,42 +492,42 @@ control.onEvent(EVT_SWARM, EVT_EMERGENCY, function () {
 })
 ```
 
-This gives you a hybrid swarm:
+这为你提供了一个混合群体：
 
-- **global behavior** from the leader
-- **local safety** from each follower
-
----
-
-## 🧠 Optional: Distance‑Based Following
-
-If you want a more realistic swarm, followers can maintain a distance from the leader.
-
-- The leader broadcasts its distance to the follower (or vice‑versa).
-- Followers adjust speed based on:
-  - too far → speed up
-  - too close → slow down
-  - just right → match speed
-
-This is how real robot swarms maintain formation.
+- **全局行为**来自领导者
+- **局部安全**来自每个跟随者
 
 ---
 
-## 🎉 What You've Built
+## 🧠 可选：基于距离的跟随
 
-You now have the foundation of a leader‑follower swarm:
+如果你想要更逼真的群体，跟随者可以保持与领导者的距离。
 
-- Leader broadcasts movement
-- Followers convert messages into events
-- Event handlers drive movement
-- Local sensors override unsafe commands
-- The whole system is modular and scalable
+- 领导者广播其与跟随者的距离（反之亦然）。
+- 跟随者根据以下条件调整速度：
+  - 太远 → 加速
+  - 太近 → 减速
+  - 刚刚好 → 匹配速度
 
-Add more followers and they'll all fall into formation automatically.
+这就是真实机器人群体保持队形的方式。
 
-If you want, you can extend this into:
+---
 
-- a three‑robot chain
-- a V‑formation swarm
-- a flocking algorithm (Boids)
-- a maze‑solving swarm
+## 🎉 你构建了什么
+
+你现在拥有了领导者-跟随者群体的基础：
+
+- 领导者广播运动
+- 跟随者将消息转换为事件
+- 事件处理器驱动运动
+- 局部传感器覆盖不安全的指令
+- 整个系统是模块化且可扩展的
+
+添加更多跟随者，它们将自动进入编队。
+
+如果你愿意，可以扩展到：
+
+- 三机器人链条
+- V 形编队群体
+- 蜂群算法（Boids）
+- 迷宫求解群体

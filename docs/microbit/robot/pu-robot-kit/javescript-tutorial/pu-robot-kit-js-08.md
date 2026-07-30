@@ -1,32 +1,32 @@
 ---
 sidebar_position: 8
-sidebar_label: 8:Motorizing Robot PU (Servos + I2C)
+sidebar_label: 8:Robot PU电机驱动（舵机+I2C）
 ---
 
-# 8:Motorizing Robot PU (Servos + I2C)
+# 8:Robot PU电机驱动（舵机+I2C）
 
-## Lesson: Robot PU the Submarine Sonar Operator
+## 课程：Robot PU的舵机与I2C控制
 
-This lesson explains how Robot PU moves using multiple servos, why it uses an I2C-based servo controller, and how the extension coordinates smooth multi-servo motion.
+本课解释Robot PU如何使用多个舵机进行运动，为什么使用基于I2C的舵机控制器，以及扩展如何协调平滑的多舵机运动。
 
-### What you’ll learn
-1. What a servo is and how Robot PU uses servos for movement.
+### 你将学到
+1. 什么是舵机，Robot PU如何使用舵机进行运动。
 
-2. Why Robot PU drives servos over I2C instead of directly from the micro:bit pins.
+2. Robot PU为什么通过I2C驱动舵机，而不是直接由micro:bit引脚驱动。
 
-3. I2C basics (SDA/SCL, addresses, reads/writes).
+3. I2C基础（SDA/SCL、地址、读/写）。
 
-4. How to program I2C in MakeCode Static TypeScript.
+4. 如何在MakeCode静态TypeScript中编程I2C。
 
-5. How the internal WK class coordinates:
+5. 内部WK类如何协调：
 
-    1. Progressive servo moves (step-by-step) to control speed.
+    1. 渐进式舵机运动（逐步移动）以控制速度。
 
-    2. Moving multiple servos at the same time.
+    2. 同时移动多个舵机。
 
-    3. Detecting when a motion is complete.
+    3. 检测运动何时完成。
 
-### Knowledge
+### 知识点
 
 [https://makecode.microbit.org/javascript/functions](https://makecode.microbit.org/javascript/functions)
 
@@ -42,26 +42,26 @@ This lesson explains how Robot PU moves using multiple servos, why it uses an I2
 
 [https://makecode.microbit.org/reference/pins/i2c-read-number](https://makecode.microbit.org/reference/pins/i2c-read-number)
 
-### 1. Functions: wrap complex motor sequences into a consistent API
-When your robot program gets bigger, “raw motor commands” become hard to read:
+### 1. 函数：将复杂电机序列包装成一致的API
+当你的机器人程序越来越大时，"原始电机命令"会变得难以阅读：
 
-- lots of repeated `robotPu.servo(...)` calls
-- lots of magic numbers (angles, delays)
-- easy to accidentally move joints in the wrong order
-- The solution is to define a small set of functions that act like your own “mini API”.
+- 大量重复的 `robotPu.servo(...)` 调用
+- 大量魔法数字（角度、延迟）
+- 容易不小心以错误的顺序移动关节
+- 解决方案是定义一小组函数，作为你自己的"迷你API"。
 
-Goals for a good motor API:
+好的电机API的目标：
 
-- consistent naming (`pose...`,`step...`, `do...`)
-- consistent units (angles in degrees, time in ms)
-- clear joint ordering (always the same)
-- safe ranges (clamp angles)
+- 命名一致（`pose...`、`step...`、`do...`）
+- 单位一致（角度用度，时间用毫秒）
+- 关节顺序清晰（始终一致）
+- 安全范围（钳制角度）
 
-### 1.1. Joint list helper
+### 1.1. 关节列表辅助函数
 
-Robot PU public API controls individual joints with `robotPu.servo(joint, angle)`.
+Robot PU公共API使用 `robotPu.servo(joint, angle)` 控制单个关节。
 
-Define a single canonical joint order and reuse it everywhere.
+定义一个单一的标准关节顺序并在各处复用。
 
 ```js
 const JOINTS: robotPu.ServoJoint[] = [
@@ -74,7 +74,7 @@ const JOINTS: robotPu.ServoJoint[] = [
 ]
 ```
 
-### 1.2. Clamp + pose application helpers
+### 1.2. 钳制+姿态应用辅助函数
 
 ```js
 function clampInt(x: number, lo: number, hi: number): number {
@@ -92,7 +92,7 @@ function applyPose(angles: number[]): void {
 }
 ```
 
-Now you can write readable, consistent code like:
+现在你可以编写可读、一致的代码，例如：
 
 ```js
 const POSE_STAND = [90, 90, 90, 90, 90, 80]
@@ -103,8 +103,8 @@ basic.pause(500)
 applyPose(POSE_DUCK)
 ```
 
-### 1.3. Smooth transitions (a reusable “move to pose” API)
-This helper interpolates between poses in small steps.
+### 1.3. 平滑过渡（一个可复用的"移动到姿态"API）
+此辅助函数以小幅增量在姿态之间插值。
 
 ``` js
 function lerp(a: number, b: number, t: number): number {
@@ -125,7 +125,7 @@ function transitionPose(fromPose: number[], toPose: number[], steps: number, ste
 }
 ```
 
-Example:
+示例：
 
 ```js
 transitionPose(POSE_STAND, POSE_DUCK, 12, 30)
@@ -134,8 +134,8 @@ transitionPose(POSE_DUCK, POSE_STAND, 12, 30)
 ```
 
 
-### 1.4. Wrap a complex action into one function
-Your top-level program becomes much cleaner when actions are named.
+### 1.4. 将复杂动作包装到一个函数中
+当动作用名称表达时，你的顶层程序会变得更加清晰。
 
 ```js
 function doBow(): void {
@@ -151,55 +151,54 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-Notes:
+注意：
 
-- This is the same idea used internally by the extension: break movement into reusable building blocks.
-- If you later change the robot’s “safe angles”, you only update `applyPose()`.
+- 这与扩展内部使用的思路相同：将运动分解为可复用的构建块。
+- 如果你以后更改机器人的"安全角度"，只需更新 `applyPose()` 即可。
 
 
-### 2.Robot PU’s servos (what they are doing)
+### 2. Robot PU的舵机（它们在做什么）
 
-Robot PU is a multi-joint robot: each joint is driven by a servo that expects a target position (often expressed as an angle like `0..180`).
+Robot PU是一个多关节机器人：每个关节由舵机驱动，期望目标位置（通常用角度表示，如 `0..180`）。
 
-When you “walk”, “dance”, “kick”, etc., Robot PU isn’t sending just one command; it’s continuously moving multiple joints toward target poses.
+当你"行走"、"跳舞"、"踢腿"等时，Robot PU并不是只发送一个命令；它在不断移动多个关节到目标姿态。
 
-### 2.1 Servo map: left foot / left leg / right foot / right leg / head
-Inside the extension, Robot PU treats its servos as 6 channels (indices `0..5`). You’ll see this ordering reflected in `setTrim(...)`:
+### 2.1 舵机映射：左脚/左腿/右脚/右腿/头部
+在扩展内部，Robot PU将其舵机视为6个通道（索引 `0..5`）。你会在 `setTrim(...)` 中看到这个顺序反映出来：
 
-- `0`: left foot
-- `1`: left leg
-- `2`: right foot
-- `3`: right leg
-- `4`: head yaw (turn left/right)
-- `5`: head pitch (look up/down)
+- `0`：左脚
+- `1`：左腿
+- `2`：右脚
+- `3`：右腿
+- `4`：头部偏航（左/右转）
+- `5`：头部俯仰（上/下看）
 
-This is also why many gaits treat:
+这也是为什么许多步态对待：
 
-1. The **legs** as `[0, 1, 2, 3]`
+1. **腿**作为 `[0, 1, 2, 3]`
+2. **头/身体**作为 `[4, 5]`
 
-2. The **head/body** as `[4, 5]`
+这是一张展示舵机角度如何映射到机器人位置的表格。当机器人从一个位置变换到另一个位置时，它会行走、跳跃和跳舞。你只需编程位置序列，并使用算法使机器人保持平衡。
 
-This is table that show how servo angles map to robot positions. When the robot transform from one position to another, it walks, jumps, and dances. You just need to program the sequences of positions, and use algorithms to make robot balanced.
-
-# Robot Servo Angle Control Table
-| Robot Position | Left Foot Servo Angle | Left Leg Servo Angle | Right Foot Servo Angle | Right Leg Servo Angle | Neck Servo Angle (Head Yaw) | Head Servo Angle (Head Pitch) | Notes |
+# 机器人舵机角度控制表
+| 机器人位置 | 左脚舵机角度 | 左腿舵机角度 | 右脚舵机角度 | 右腿舵机角度 | 颈部舵机角度（头部偏航） | 头部舵机角度（头部俯仰） | 备注 |
 |----------------|----------------------|---------------------|-----------------------|----------------------|-----------------------------|------------------------------|-------|
-| Stand          | 90                   | 90                  | 90                    | 90                   | 90                          | 90                           | Robot Stands Straight |
-| Jump           | 130                  | 90                  | 50                    | 90                   | 90                          | 30                           | Robot Jumps with Feet, head raised |
-| Duck           | 0                    | 85                  | 180                   | 95                   | 90                          | 90                           | Robot squats down, with feet folded |
-| Calibrate      | 90                   | 60                  | 90                    | 120                  | 90                          | 90                           | Robot calibrates by putting heels aligned. |
-| Side Move 1    | 75                   | 90                  | 30                    | 90                   | 135                         | 105                          | Robot tiptoes to left |
-| Side Move 2    | 150                  | 90                  | 105                   | 90                   | 45                          | 105                          | Robot tiptoes to right |
+| 站立          | 90                   | 90                  | 90                    | 90                   | 90                          | 90                           | 机器人笔直站立 |
+| 跳跃           | 130                  | 90                  | 50                    | 90                   | 90                          | 30                           | 机器人抬脚跳跃，抬头 |
+| 下蹲           | 0                    | 85                  | 180                   | 95                   | 90                          | 90                           | 机器人蹲下，折叠脚 |
+| 校准          | 90                   | 60                  | 90                    | 120                  | 90                          | 90                           | 机器人通过脚跟对齐进行校准。 |
+| 侧移1    | 75                   | 90                  | 30                    | 90                   | 135                         | 105                          | 机器人向左踮脚 |
+| 侧移2    | 150                  | 90                  | 105                   | 90                   | 45                          | 105                          | 机器人向右踮脚 |
 
-In `Parameters.stateTargets`, pose `0` is the neutral **stand** pose and pose `1` is a compact **duck** pose.
+在 `Parameters.stateTargets` 中，姿态 `0` 是中性**站立**姿态，姿态 `1` 是紧凑的**下蹲**姿态。
 
-Here is an example to make the robot go to positions one by one.
+以下是使机器人逐个到达位置的示例。
 
-Key ideas:
+关键思路：
 
-- `robotPu.setMode(robotPu.Mode.API)` tells the robot you are directly commanding joints (instead of running walk/dance state machines).
-- The `radio.onReceived...` handlers are optional. They are only needed if you want to also control the robot from a gamepad/remote using `robotPu.runStringCommand(...)` and `robotPu.runKeyValueCommand(...)`.
-- `robotPu.setChannel(166)` must match your controller/gamepad radio channel.
+- `robotPu.setMode(robotPu.Mode.API)` 告诉机器人你正在直接控制关节（而不是运行行走/舞蹈状态机）。
+- `radio.onReceived...` 处理程序是可选的。仅当你希望同时通过游戏手柄/遥控器使用 `robotPu.runStringCommand(...)` 和 `robotPu.runKeyValueCommand(...)` 来控制机器人时才需要。
+- `robotPu.setChannel(166)` 必须与你的控制器/游戏手柄的无线电通道匹配。
 
 ```js
 robotPu.setChannel(166)
@@ -236,7 +235,7 @@ basic.forever(function () {
     basic.pause(500)
 }
 ```
-upload to robot PU and see what happens:
+上传到Robot PU看看会发生什么：
 
 [https://makecode.microbit.org/_dVfeMjYiHecy](https://makecode.microbit.org/_dVfeMjYiHecy)
 
@@ -259,56 +258,56 @@ upload to robot PU and see what happens:
     />
 </div>
 
-### 3. Why I2C-based servo control is used (micro:bit limits)
+### 3. 为什么使用基于I2C的舵机控制（micro:bit的限制）
 
-The micro:bit can drive a servo using PWM (`pins.servoWritePin(...)`), but Robot PU needs **multiple servos** moving smoothly at the same time.
+micro:bit可以使用PWM（`pins.servoWritePin(...)`）驱动舵机，但Robot PU需要**多个舵机**同时平稳运动。
 
-Typical constraints when trying to drive many servos directly from the micro:bit:
+尝试直接从micro:bit驱动多个舵机时的典型约束：
 
-1. **Limited PWM timing budget:** servos need precise pulse timing; doing many channels in software is hard.
-2. **Hardware PWM channel limit:** the micro:bit’s built-in PWM support is practical for only a small number of servos at once (commonly up to about 4) before timing conflicts/jitter become a problem.
-3. **CPU time:** Robot PU also needs to run logic loops, sensor reads, radio, etc.
-4. **Pin count:** multiple independent PWM outputs would consume many pins.
-5. **Consistency:** a dedicated controller can generate stable pulses even when your code is busy.
+1. **有限的PWM时序预算：** 舵机需要精确的脉冲时序；在软件中做多个通道很难。
+2. **硬件PWM通道限制：** micro:bit内置的PWM支持实际上只能同时处理少量舵机（通常最多约4个），否则会出现时序冲突/抖动。
+3. **CPU时间：** Robot PU还需要运行逻辑循环、传感器读取、无线电等。
+4. **引脚数量：** 多个独立的PWM输出将消耗大量引脚。
+5. **一致性：** 专用控制器即使你的代码忙碌时也能生成稳定的脉冲。
 
-Power and voltage constraints also matter:
+功率和电压约束也很重要：
 
-1. **Not enough power for servos:** micro:bit’s 3V pin and on-board regulator are not designed to supply the surge current multiple servos can draw (brownouts/resets are common if you try).
-2. **Voltage is too low for some servos:** the micro:bit is 3.3V logic, and while many servos accept a 3.3V control signal, many hobby servos expect ~5V power for full torque/speed.
+1. **舵机供电不足：** micro:bit的3V引脚和板载稳压器并非设计用于提供多个舵机可能消耗的浪涌电流（如果尝试，经常出现电压跌落/复位）。
+2. **某些舵机电压过低：** micro:bit是3.3V逻辑，虽然许多舵机能接受3.3V控制信号，但许多业余级舵机期望~5V电源以获得全扭矩/速度。
 
-To solve this, Robot PU uses an onboard controller that receives compact commands over I2C and handles the multi-servo pulse generation.
+为解决这个问题，Robot PU使用了一个板载控制器，通过I2C接收紧凑的命令，并处理多舵机脉冲生成。
 
-#### 3.1. micro:bit pins (edge connector basics for Robot PU)
-Robot PU uses the micro:bit edge connector to access power and the I2C bus.
+#### 3.1. micro:bit引脚（Robot PU的边缘连接器基础）
+Robot PU使用micro:bit边缘连接器来获取电源和I2C总线。
 
-#### A. The important pins for Robot PU
+#### A. Robot PU的重要引脚
 
-- **`P19:`** I2C `SCL` (clock)
-- **`P20:`** I2C `SDA` (data)
-- **`3V:`** micro:bit 3.3V output (logic-level power)
-- **`GND:`** ground reference
+- **`P19`：** I2C `SCL`（时钟）
+- **`P20`：** I2C `SDA`（数据）
+- **`3V`：** micro:bit 3.3V输出（逻辑级电源）
+- **`GND`：** 地参考
 
-Important:
+重要：
 
-- `P19/P20` are the default I2C pins. If you use I2C devices (or Robot PU’s servo controller), avoid repurposing these pins for other uses.
+- `P19/P20` 是默认的I2C引脚。如果你使用I2C设备（或Robot PU的舵机控制器），请避免将这些引脚改作他用。
 
-#### B. Power caution (servos draw much more current than micro:bit can supply)
+#### B. 电源注意事项（舵机消耗的电流远高于micro:bit能提供的）
 
-Even though the micro:bit has a `3V` pin:
+即使micro:bit有 `3V` 引脚：
 
-- Do not try to power multiple servos from micro:bit `3V`.
-- Sudden servo load can cause **brownouts/resets**.
+- 不要尝试从micro:bit的 `3V` 为多个舵机供电。
+- 突然的舵机负载可能导致**电压跌落/复位**。
 
-Robot PU solves this by having its own motor power path and an onboard controller. The micro:bit mostly sends **commands**, not power.
+Robot PU通过拥有自己的电机供电路径和板载控制器来解决这个问题。micro:bit主要发送**命令**，而不是电力。
 
-#### C. How the `pins` API relates to I2C
+#### C. `pins` API如何与I2C关联
 
-Robot PU hides the low-level `pins.i2c...` calls inside the extension, but it helps to know what’s happening.
+Robot PU将底层 `pins.i2c...` 调用隐藏在扩展中，但了解底层在发生什么是有帮助的。
 
-Example: simple I2C register read
+示例：简单的I2C寄存器读取
 
 ```js
-// Example pattern: read a 1-byte register from an I2C device
+// 示例模式：从I2C设备读取一个1字节的寄存器
 const addr = 0x10
 const reg = 0x03
 
@@ -317,79 +316,79 @@ const value = pins.i2cReadNumber(addr, NumberFormat.UInt8LE)
 basic.showNumber(value)
 ```
 
-Example: scan-like check (“does a device respond?”)
+示例：类似扫描的检查（"设备是否有响应？"）
 
 ```js
 const addr = 0x10
 
-// Many devices will ACK a write of a single byte.
-// If the address is wrong, you may see 0 or an error-like value depending on device behavior.
+// 许多设备会对单个字节的写入回复ACK。
+// 如果地址错误，根据设备行为，你可能会看到0或类似错误的值。
 pins.i2cWriteNumber(addr, 0x00, NumberFormat.UInt8LE)
 basic.showString("OK")
 ```
-**Notes:**
+**注意：**
 
-- Different I2C chips have different register maps; the above shows the pattern, not Robot PU’s internal protocol.
-- In Robot PU, `WK` uses `pins.i2cWriteBuffer(...)` to send 4-byte packets.
+- 不同的I2C芯片有不同的寄存器映射；以上展示了模式，而非Robot PU的内部协议。
+- 在Robot PU中，`WK` 使用 `pins.i2cWriteBuffer(...)` 发送4字节数据包。
 
-### 4. I2C basics (what it is)
-I2C is a two-wire communication bus:
+### 4. I2C基础（它是什么）
+I2C是一种双线通信总线：
 
-1. `SDA` = data line
-2. `SCL` = clock line
+1. `SDA` = 数据线
+2. `SCL` = 时钟线
 
-On the micro:bit edge connector these are typically:
+在micro:bit边缘连接器上，通常为：
 
 1. `P20` = SDA
 2. `P19` = SCL
 
-Each I2C device has an **address** (usually shown as 7-bit hex like 0x10, 0x68, 0x3C).
+每个I2C设备有一个**地址**（通常显示为7位十六进制，如 0x10, 0x68, 0x3C）。
 
-Robot PU’s controller address is represented in the extension by the WK class field:
+Robot PU的控制器地址在扩展中由WK类字段表示：
 
 
 ```js
-// Inside WK
-this.i2cAddress = 16 // decimal == 0x10 hex
+// 在 WK 内部
+this.i2cAddress = 16 // 十进制 == 0x10 十六进制
 ```
-### 5. Programming I2C in MakeCode (STS)
-In MakeCode, you typically talk to an I2C device using buffers:
+### 5. 在MakeCode（STS）中编程I2C
+在MakeCode中，你通常使用缓冲区与I2C设备通信：
 
-1. Build a small `Buffer` containing a register/command and data bytes.
-2. Send it with `pins.i2cWriteBuffer(address, buffer)`.
-3. Optionally read back bytes with `pins.i2cReadBuffer(...)` / `pins.i2cReadNumber(...)`.
+1. 构建一个包含寄存器/命令和数据字节的小 `Buffer`。
+2. 使用 `pins.i2cWriteBuffer(address, buffer)` 发送它。
+3. 可选地使用 `pins.i2cReadBuffer(...)` / `pins.i2cReadNumber(...)` 读取返回字节。
 
-#### Example: write a command packet
+#### 示例：写入命令数据包
 ```js
 let addr = 0x10
 let buf = pins.createBuffer(4)
 
-buf.setNumber(NumberFormat.UInt8LE, 0, 0x03) // example register
-buf.setNumber(NumberFormat.UInt8LE, 1, 90)   // example angle
+buf.setNumber(NumberFormat.UInt8LE, 0, 0x03) // 示例寄存器
+buf.setNumber(NumberFormat.UInt8LE, 1, 90)   // 示例角度
 buf.setNumber(NumberFormat.UInt8LE, 2, 0)
 buf.setNumber(NumberFormat.UInt8LE, 3, 0)
 
 pins.i2cWriteBuffer(addr, buf)
 ```
-That is the same pattern Robot PU uses internally: build a 4-byte packet and send it.
+这与Robot PU内部使用的模式相同：构建一个4字节数据包并发送它。
 
 
-### 6. The WK class: how Robot PU actually drives motion
-`WK` is the internal “hardware link” that sends motor/servo/light commands over I2C.
+### 6. WK类：Robot PU如何实际驱动运动
+`WK` 是内部"硬件链接"，通过I2C发送电机/舵机/灯光命令。
 
-#### 6.1 Immediate servo command (`WK.servo`)
-`WK.servo(sr, a)` sets a single servo channel to an angle.
+#### 6.1 即时舵机命令（`WK.servo`）
+`WK.servo(sr, a)` 将单个舵机通道设置为一个角度。
 
-Key ideas:
+关键思路：
 
-1. The angle is clamped to a safe range (`0..180`).
-2. A “register” value is computed from the servo index.
-3. A 4-byte packet is written over I2C.
+1. 角度被钳制到安全范围（`0..180`）。
+2. 根据舵机索引计算"寄存器"值。
+3. 通过I2C写入一个4字节数据包。
 
-Conceptually:
+概念上：
 
 ```js
-// Simplified idea (matches the pattern in WK)
+// 简化思路（与 WK 中的模式匹配）
 let reg = servoIndex + 3
 let packet = pins.createBuffer(4)
 packet.setNumber(NumberFormat.UInt8LE, 0, reg)
@@ -399,21 +398,21 @@ packet.setNumber(NumberFormat.UInt8LE, 3, 0)
 pins.i2cWriteBuffer(0x10, packet)
 ```
 
-#### 6.2 Progressive servo movement (`WK.servoStep`) — controlling speed
+#### 6.2 渐进式舵机运动（`WK.servoStep`）—— 控制速度
 
-If you jump from angle `20` to `160` in one call, the movement can look “snappy” and can shake the robot.
+如果你在一次调用中从角度 `20` 跳到 `160`，运动看起来会很"突兀"并可能震动机器人。
 
-Robot PU instead uses **stepping**:
+Robot PU改为使用**步进**：
 
-1. Compute error = `target - current`.
-2. Move only a small amount each update (the “step size”).
-3. Repeat every tick until the error is small.
+1. 计算误差 = `目标 - 当前`。
+2. 每次更新只移动一小步（"步长"）。
+3. 每个节拍重复，直到误差很小。
 
-In the real code, the current target per servo is stored in `Parameters.servoTarget[idx]` and updated gradually.
+在实际代码中，每个舵机的当前目标存储在 `Parameters.servoTarget[idx]` 中并逐步更新。
 
-This is how Robot PU controls motion “speed” without relying on delays. Smaller steps = slower, smoother motion.
+这就是Robot PU如何在不依赖延迟的情况下控制运动"速度"。步长越小 = 动作越慢、越平滑。
 
-Here is an example that moves each motor at different speed controlled by step size and pause
+以下是每个电机以不同速度移动的示例，由步长和暂停控制：
 
 [https://makecode.microbit.org/_i9YJmw1ieKDM](https://makecode.microbit.org/_i9YJmw1ieKDM)
 
@@ -488,7 +487,7 @@ basic.forever(function () {
     pos2()
 })
 ```
-You can wrap the motor function event better with the help of array.
+你可以借助数组更好地包装电机函数。
 
 [https://makecode.microbit.org/_1ey03L4iwRbK](https://makecode.microbit.org/_1ey03L4iwRbK)
 
@@ -551,80 +550,80 @@ basic.forever(function () {
     pose(targets[1], stepSizes[1], 20)
 })
 ```
-#### 6.3 Moving multiple servos at the same time
-Walking is a coordinated pose. Robot PU updates multiple servos during each update cycle.
+#### 6.3 同时移动多个舵机
+行走是一种协调的姿态。Robot PU在每个更新周期中同时更新多个舵机。
 
-In `WK.move(...)`, two groups are supported:
+在 `WK.move(...)` 中，支持两组：
 
-**`sync_list`:** servos that must reach the pose together.
-**`async_list`:** servos that can move with a different speed (for style or balance).
+**`sync_list`（同步列表）：** 必须一起到达姿态的舵机。
+**`async_list`（异步列表）：** 可以以不同速度移动的舵机（用于风格或平衡）。
 
-During each update tick, the code calls `servoStep(...)` for **each** servo in each list. That means all those servos progress at the same time.
+在每个更新节拍中，代码为**每个**列表中的**每个**舵机调用 `servoStep(...)` 。这意味着所有这些舵机同时前进。
 
-This “many small steps per tick” approach is how PU moves multiple joints smoothly without blocking.
+这种"每节拍多小步"的方法让PU在不阻塞的情况下平滑移动多个关节。
 
-#### 6.4 Detecting when movement is completed
+#### 6.4 检测运动何时完成
 
-Robot PU needs to know when it has reached a pose so it can advance to the next pose in a sequence.
+Robot PU需要知道何时已到达姿态，以便进入序列中的下一个姿态。
 
-Inside `WK`:
+在 `WK` 内部：
 
-1. Each `servoStep` updates `Parameters.servoErr[idx]`.
-2. `isServoIdle(servoList, p)` checks if each servo’s error is “close enough” (currently `< 1`).
+1. 每个 `servoStep` 更新 `Parameters.servoErr[idx]`。
+2. `isServoIdle(servoList, p)` 检查每个舵机的误差是否"足够接近"（目前为 `< 1`）。
 
-When `isServoIdle(sync_list, p)` becomes true, `WK.move(...)` advances to the next state and increments `numSteps`.
+当 `isServoIdle(sync_list, p)` 变为 true 时，`WK.move(...)` 进入下一个状态并递增 `numSteps`。
 
-This gives you a clean “pose completed” signal without needing a physical position sensor on the servo.
+这为你提供了清晰的"姿态完成"信号，无需舵机上有物理位置传感器。
 
 
-### 7. Putting it together (mental model)
+### 7. 整合在一起（思维模型）
 
-When Robot PU is “doing an action” (walk/dance/etc.), the control loop is roughly:
+当Robot PU正在"执行一个动作"（行走/跳舞等）时，控制循环大致如下：
 
-1. Pick a target pose (a set of target angles).
-2. Every update tick:
-    1. Step each servo toward its target (small increments).
-    2. Track errors.
-    3. When all required servos are close enough, advance to the next pose.
+1. 选择一个目标姿态（一组目标角度）。
+2. 每个更新节拍：
+    1. 将每个舵机朝其目标步进（小幅增量）。
+    2. 跟踪误差。
+    3. 当所有必需舵机都足够接近时，进入下一个姿态。
 
-That combination (I2C + stepping + completion detection) is what makes PU’s movements smooth and repeatable.
+这种组合（I2C + 步进 + 完成检测）使PU的运动变得平滑且可重复。
 
-### 8. Example: stand -> duck on free-fall -> stand again
+### 8. 示例：站立 → 自由落体时下蹲 → 再次站立
 
-This example uses the micro:bit accelerometer gesture `Gesture.FreeFall` to detect when the robot is in free fall.
+此示例使用micro:bit加速度计手势 `Gesture.FreeFall` 来检测机器人何时处于自由落体状态。
 
-Program behavior:
+程序行为：
 
-1. Start in a normal standing pose (pose index `0` in `Parameters.stateTargets`).
-2. While free-fall is happening, move into a protective duck pose (pose index `1`).
-3. When free-fall ends, wait a few seconds, then command the robot to stand again.
+1. 从正常的站立姿态开始（`Parameters.stateTargets` 中的姿态索引 `0`）。
+2. 当自由落体发生时，移动到保护性下蹲姿态（姿态索引 `1`）。
+3. 当自由落体结束时，等待几秒，然后命令机器人再次站立。
 
-#### 8.1 Load the Robot PU extension (MakeCode)
+#### 8.1 加载Robot PU扩展（MakeCode）
 
-1. Open [https://makecode.microbit.org](https://makecode.microbit.org)
-2. Click **New Project**
-3. Click **Extensions**
-4. Search for the Robot PU extension (or paste the GitHub repo URL if you’re installing from GitHub)
-5. Add it, then switch to **JavaScript**
+1. 打开 [https://makecode.microbit.org](https://makecode.microbit.org)
+2. 点击**新建项目**
+3. 点击**扩展**
+4. 搜索Robot PU扩展（如果从GitHub安装，则粘贴GitHub仓库URL）
+5. 添加它，然后切换到**JavaScript**
 
-### 8.2 Define the two poses (from `Parameters.stateTargets`)
+### 8.2 定义两个姿态（来自 `Parameters.stateTargets`）
 
-These are the two poses we’ll use (from the `Parameters.stateTargets` table in the code):
+以下是我们将使用的两个姿态（来自代码中的 `Parameters.stateTargets` 表）：
 
-1. Stand pose (index `0`): [`90, 90, 90, 90, 90, 80`]
-2. Duck/crouch pose (index `1`): [`10, 150, 170, 30, 40, 125`]
+1. 站立姿态（索引 `0`）：`[90, 90, 90, 90, 90, 80]`
+2. 下蹲/蹲伏姿态（索引 `1`）：`[10, 150, 170, 30, 40, 125]`
 
-Servo index order is:
+舵机索引顺序为：
 
-1. `0` left foot
-2. `1` left leg
-3. `2` right foot
-4. `3` right leg
-5. `4` head yaw
-6. `5` head pitch
+1. `0` 左脚
+2. `1` 左腿
+3. `2` 右脚
+4. `3` 右腿
+5. `4` 头部偏航
+6. `5` 头部俯仰
 
-#### 8.3 Instant movement (snappy) using `WK.servo`
-This sends the final angles directly. It’s immediate, but can look “snappy” and can shake the robot.
+#### 8.3 即时运动（快速但突兀）使用 `WK.servo`
+这直接发送最终角度。立竿见影，但看起来可能很"突兀"并可能震动机器人。
 
 ```js
 let wk = new WK()
@@ -632,18 +631,18 @@ let wk = new WK()
 let stand = [90, 90, 90, 90, 90, 80]
 let duck = [10, 150, 170, 30, 40, 125]
 
-// Jump straight to stand, pause, then jump straight to duck
+// 直接跳到站立，暂停，然后直接跳到下蹲
 for (let i = 0; i < 6; i++) wk.servo(i, stand[i])
 basic.pause(2000)
 for (let i = 0; i < 6; i++) wk.servo(i, duck[i])
 ```
 
-#### 8.4 Progressive movement (smooth) using `WK.servoStep`
-`servoStep(target, sp, idx, pr)` moves one servo a small amount per update:
+#### 8.4 渐进式运动（平滑）使用 `WK.servoStep`
+`servoStep(target, sp, idx, pr)` 每次更新将一个舵机移动一小步：
 
-1. The **step size** `sp` controls speed.
-2. Call it repeatedly inside a loop.
-3. Use `wk.isServoIdle(...)` to know when you’ve arrived.
+1. **步长** `sp` 控制速度。
+2. 在循环中重复调用它。
+3. 使用 `wk.isServoIdle(...)` 知道何时到达。
 ```js
 let pr = new Parameters()
 let wk = new WK()
@@ -653,7 +652,7 @@ let duck = [10, 150, 170, 30, 40, 125]
 let all = [0, 1, 2, 3, 4, 5]
 
 let target = duck
-let stepSize = 2 // smaller = slower/smoother, larger = faster
+let stepSize = 2 // 越小 = 越慢/越平滑，越大 = 越快
 
 basic.forever(function () {
     for (let i of all) {
@@ -661,7 +660,7 @@ basic.forever(function () {
     }
 
     if (wk.isServoIdle(all, pr)) {
-        // Swap targets to compare the effect back-and-forth
+        // 交换目标以比较来回效果
         target = (target == duck) ? stand : duck
         basic.pause(500)
     }
@@ -670,8 +669,8 @@ basic.forever(function () {
 })
 ```
 
-#### 8.5 Free-fall behavior using `WK.move` (pose indices from `Parameters`)
-This version uses the pose indices directly (`0` for stand, `1` for duck), and relies on `WK.move(...)` to drive all servos together (with stepping + completion detection internally).
+#### 8.5 使用 `WK.move` 的自由落体行为（来自 `Parameters` 的姿态索引）
+此版本直接使用姿态索引（`0` 表示站立，`1` 表示下蹲），并依赖 `WK.move(...)` 驱动所有舵机（内部带步进+完成检测）。
 
 ```js
 let pr = new Parameters()
@@ -699,14 +698,14 @@ basic.forever(function () {
         }
     }
 
-    // Drive the selected pose (one-state sequence)
+    // 驱动选定的姿态（单状态序列）
     wk.move(pr, [pose], allServos, 2.0, [], 0.5)
 
     basic.pause(5)
 })
 ```
-### Kong Fu and Taiji
-Moving servo quickly is Kong Fu. Move servo slowly(progressively) is Taiji
+### 功夫与太极
+舵机快速移动是**功夫**。舵机缓慢（渐进式）移动是**太极**。
 
 
 <div
@@ -728,30 +727,30 @@ Moving servo quickly is Kong Fu. Move servo slowly(progressively) is Taiji
     />
 </div>
 
-### Add arms to robot PU
-Add simple **up/down arms** to Robot PU using **4 servos**:
+### 为Robot PU添加手臂
+使用**4个舵机**为Robot PU添加简单的**上/下手臂**：
 
-- 2 servos on the Robot PU servo controller (**I2C bus**) using **5V** (strong)
-- 2 servos connected directly to the micro:bit on **P14** and **P15** using **3.3V** (weaker)
-If your expansion board provides a separate **5V servo power source**, you can optionally re-wire the P14/P15 servos to use 5V (recommended for stronger arms).
+- 2个舵机连接Robot PU舵机控制器（**I2C总线**）使用**5V**（强劲）
+- 2个舵机直接连接到micro:bit的**P14**和**P15**使用**3.3V**（较弱）
+如果你的扩展板提供独立的**5V舵机电源**，你可以选择将P14/P15舵机重新接线以使用5V（建议用于更强壮的手臂）。
 
-### Hardware / wiring
-#### I2C servos (Reserve joints) for robot PU shoulder
-Use the Robot PU servo controller outputs:
+### 硬件/接线
+#### I2C舵机（备用关节）用于Robot PU肩膀
+使用Robot PU舵机控制器输出：
 
 - `robotPu.ServoJoint.Reserve1`
 - `robotPu.ServoJoint.Reserve2`
 
-#### These are powered by the board’s servo supply (typically 5V).
+#### 这些由板载舵机电源供电（通常为5V）。
 
-Pin servos (micro:bit) for robot PU lower arms
-Connect the other two servos to:
+引脚舵机（micro:bit）用于Robot PU前臂
+将另外两个舵机连接到：
 
-- Signal: `P14` and `P15`
-- Power: micro:bit 3.3V (works but weaker)
-- Ground: common ground with the robot
+- 信号：`P14` 和 `P15`
+- 电源：micro:bit 3.3V（可用但较弱）
+- 地：与机器人共地
 
-Robot PU will raise arm and say”Up up up”, lower arm and say “Down down down”.
+Robot PU将抬起手臂说"Up up up"，放下手臂说"Down down down"。
 
 
 <div

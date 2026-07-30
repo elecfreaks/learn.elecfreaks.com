@@ -1,57 +1,57 @@
 ---
 sidebar_position: 1
-sidebar_label: JavaScript with PU Robot
+sidebar_label: JavaScript与PU机器人
 ---
 
-# Learn JavaScript with PU Robot
+# 用PU机器人学习JavaScript
 
-## Introduction: Learn JavaScript with PU Robot
+## 引言：用PU机器人学习JavaScript
 ---
 
-Welcome to a revolutionary way to master coding! Instead of staring at dry syntax and math problems, you are going to learn Static TypeScript (JavaScript) by becoming the lead engineer for PU Robot—your AI-powered humanoid performer.
+欢迎来到一种革命性的编程学习方式！你不再需要盯着枯燥的语法和数学题，而是成为PU机器人的首席工程师——它是一台AI驱动的人形表演者。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/pu-robot-01.png)
 
-## Our Philosophy: The “Top-down” Approach
-Most coding courses start with boring definitions. We do the opposite. We start with action. You will implement a feature, see Robot PU move or speak, and then we will peel back the layers to understand the JavaScript logic underneath.
+## 我们的理念："自上而下"教学法
+大多数编程课程以枯燥的定义开始。我们则反其道而行之——从行动开始。你将实现一个功能，看到PU机器人动起来或开口说话，然后我们再层层剥开，理解底层的JavaScript逻辑。
 
-We move from simple sensory inputs to complex “brain” functions, building your skills brick by brick.
+我们从简单的感官输入逐步深入到复杂的"大脑"功能，像搭积木一样构建你的技能。
 
-## The Learning Path
+## 学习路径
 
-Here is a glimpse of the journey you will take from a “Code Novice” to a “Robotics Master”, covering following concepts:
+以下是"编程新手"到"机器人高手"的进阶概览，涵盖以下核心概念：
 
 图片1
 
-For more advanced students, we focus more on robotics topics. Here is a deeper learning path:
+对于进阶学生，我们将聚焦于更深入的机器人主题。以下是更深入的学习路径：
 
 图片2
 
-### 1. Sensing & Expression (The Basics)
-- **Sonar Distance Reading:** Teach PU to “see” using ultrasonic waves. Learn about variables and hardware pins.
-- **Text-to-Speech:** Give PU a voice with the pxt-billy extension. Explore strings and audio synthesis.
-- **Speech Content Generation:** Build a “Sentence Factory” using arrays and randomizers to make PU’s speech unpredictable and “alive.”
-### 2. Motion & Mechanics (The Body)
-- **Servo Control:** Master the physics of movement. Learn how to map degrees to electrical pulses.
-- **Body Position Control:** Create “Poses” by controlling multiple servos simultaneously using Object-Oriented Design.
-### 3. Signal Analysis & Mapping (The Senses)
-- **Music Analysis:** Teach PU to “hear” the beat and analyze sound frequencies.
-- **Sonar Distance Maps:** Use mapping logic to create auditory and visual “Radar” systems that change as objects approach.
-### 4. Advanced Stability & Dance (The Humanoid)
-- **Balancing with IMU:** Use the internal Accelerometer and Gyroscope (IMU) to help PU keep his balance. This is where you learn about real-time sensor loops.
-- **Dancing with Balance:** Combine rhythm analysis with IMU data to make PU moonwalk, split, and spin without falling over.
-### 5. Intelligence & Navigation (The Brain)
-- **Navigation Maps & Path Finding:** Use the sonar data to build a digital memory of a room and calculate the shortest path through it.
-- **Autopilot:** Combine all systems so PU can explore a room autonomously.
-- **Emotion Actions:** Program “Artificial Personalities” where PU reacts to his environment with joy, fear, or excitement.
+### 1. 感知与表达（基础篇）
+- **声呐距离测量：** 教PU用超声波"看见"世界。学习变量和硬件引脚知识。
+- **文字转语音：** 借助pxt-billy扩展，赋予PU声音。探索字符串和音频合成。
+- **语音内容生成：** 使用数组和随机函数搭建"句子工厂"，让PU的语音变得不可预测且"鲜活"。
+### 2. 动作与机械（身体篇）
+- **舵机控制：** 掌握运动物理学。学习如何将角度映射为电脉冲。
+- **身体姿态控制：** 通过同时控制多个舵机来创建"姿势"，运用面向对象设计。
+### 3. 信号分析与映射（感官篇）
+- **音乐分析：** 教PU"听懂"节拍并分析声音频率。
+- **声呐距离映射：** 使用映射逻辑创建听觉和视觉"雷达"系统，随物体靠近而变化。
+### 4. 高级稳定与舞蹈（人形篇）
+- **IMU平衡控制：** 利用内置加速度计和陀螺仪（IMU）帮助PU保持平衡。这里你将学到实时传感器循环。
+- **带平衡的舞蹈：** 将节奏分析与IMU数据结合，让PU实现太空步、劈叉和旋转而不摔倒。
+### 5. 智能与导航（大脑篇）
+- **导航地图与路径规划：** 利用声呐数据构建房间的数字记忆，并计算最短路径。
+- **自动驾驶：** 整合所有系统，让PU能够自主探索房间。
+- **情绪动作：** 为PU编程"人工性格"，使其对环境做出喜悦、恐惧或兴奋的反应。
 
-**Are you ready to give Robot PU his first command?**
+**你准备好向PU机器人发出第一条指令了吗？**
 
-If you want to learn JavaScript in comprehensive way, checkout following JavaScript Knowledge Graph
+如果你想全面学习JavaScript，请查看以下JavaScript知识图谱：
 
 图片3
 
-## Contents
+## 目录
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

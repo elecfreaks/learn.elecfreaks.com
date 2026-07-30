@@ -1,123 +1,123 @@
 ---
 sidebar_position: 16
-sidebar_label: 16:Robot PU Event Loop
+sidebar_label: 16:Robot PU 事件循环
 ---
 
-# Robot PU Event Loop
+# Robot PU 事件循环
 
-## 🔁 Lesson: Event Loop (Observation → Thinking → Action)
+## 🔁 课程：事件循环（观察 → 思考 → 行动）
 
-Robot programs are not "one command then stop". They run continuously.
+机器人程序不是"执行一条命令然后停止"。它们是持续运行的。
 
-On micro:bit MakeCode, the common programming model is an event loop:
+在 micro:bit MakeCode 上，常见的编程模型是事件循环：
 
-- you register event handlers (buttons, radio, gestures)
-- you run repeated logic in `basic.forever(...)`
-- the runtime schedules these pieces so your program can multitask
+- 注册事件处理器（按钮、无线电、手势）
+- 在 `basic.forever(...)` 中运行重复逻辑
+- 运行时调度这些部分，使你的程序能够多任务处理
 
-This is the foundation for the Robot PU pattern: **Observation → Thinking → Action**
-
----
-
-## 1. What is an event loop?
-
-An event loop is a program structure where:
-
-- the system waits for events
-- runs your code for a short time
-- returns control back to the runtime
-- repeats forever
-
-In MakeCode:
-
-- `basic.forever(function () { ... })` is your "main loop"
-- `input.onButtonPressed(...)` are event callbacks
-
-The key rule is: **do small work, then return** (don't block forever)
+这是 Robot PU 模式的基础：**观察 → 思考 → 行动**
 
 ---
 
-## 2. Observation → Thinking → Action
+## 1. 什么是事件循环？
 
-A robust robot control loop looks like this:
+事件循环是一种程序结构，其中：
 
-### A. Observation (sense)
+- 系统等待事件
+- 运行你的代码一小段时间
+- 将控制权交还给运行时
+- 永远重复
 
-Read sensors:
+在 MakeCode 中：
+
+- `basic.forever(function () { ... })` 是你的"主循环"
+- `input.onButtonPressed(...)` 是事件回调
+
+关键规则是：**做少量工作，然后返回**（不要永久阻塞）
+
+---
+
+## 2. 观察 → 思考 → 行动
+
+一个健壮的机器人控制循环如下所示：
+
+### A. 观察（感知）
+
+读取传感器：
 
 - `robotPu.sonarDistanceCm()`
 - `input.isGesture(Gesture.FreeFall)`
 - `input.rotation(Rotation.Roll)` / `input.rotation(Rotation.Pitch)`
 - `input.soundLevel()`
 
-### B. Thinking (decide)
+### B. 思考（决策）
 
-Compute what to do next:
+计算下一步做什么：
 
-- obstacle? slow down / turn
-- falling? stop / stand
-- loud beat? dance
+- 有障碍物？减速 / 转弯
+- 正在摔倒？停止 / 站立
+- 有重节拍？跳舞
 
-### C. Action (act)
+### C. 行动（执行）
 
-Send one small action update:
+发送一个小的动作更新：
 
 - `robotPu.walk(speed, turn)`
 - `robotPu.explore()`
 - `robotPu.stand()`
 
-Then loop back.
+然后循环回到开始。
 
 ---
 
-## 3. Why async (non-blocking) actions are important
+## 3. 为什么异步（非阻塞）动作很重要
 
-Robot PU motion APIs are designed to be called repeatedly.
+Robot PU 运动 API 被设计为反复调用。
 
-Each call advances the motion a little bit (servo stepping). This style is "async" in the sense that:
+每次调用都会将运动推进一小步（舵机步进）。这种风格在以下意义上是"异步"的：
 
-- you do not call one function and wait for the whole walk to finish
-- instead, you keep calling it in the event loop
+- 你不会调用一个函数并等待整个行走完成
+- 相反，你在事件循环中持续调用它
 
-Benefits:
+好处：
 
-- buttons still work
-- radio still receives messages
-- sensor checks still run
-- you can interrupt / change behavior instantly
+- 按钮仍然有效
+- 无线电仍然接收消息
+- 传感器检查仍然运行
+- 你可以即时中断 / 改变行为
 
-If you write a long blocking loop (or a function that never returns), you can starve the rest of the system.
-
----
-
-## 4. Why the event loop is critical for multitasking
-
-Multitasking on micro:bit is not "real threads" like a PC. It's cooperative scheduling:
-
-- your code runs
-- you return control
-- the runtime runs other tasks/events
-
-So you should avoid:
-
-- long-running blocking functions
-- very heavy computation inside `forever`
-
-Instead:
-
-- keep each loop iteration short
-- use state variables
-- let the event loop run many times per second
+如果你编写一个长阻塞循环（或一个永不返回的函数），你可能会饿死系统的其余部分。
 
 ---
 
-## 5. Example: a clean observation-thinking-action loop
+## 4. 为什么事件循环对多任务处理至关重要
 
-This example:
+micro:bit 上的多任务处理不是像 PC 那样的"真正线程"。它是协作调度：
 
-- observes sonar distance
-- decides a turn direction
-- acts by calling one motion update
+- 你的代码运行
+- 你交还控制权
+- 运行时运行其他任务/事件
+
+因此你应该避免：
+
+- 长时间运行的阻塞函数
+- `forever` 内部的非常繁重的计算
+
+相反：
+
+- 保持每次循环迭代简短
+- 使用状态变量
+- 让事件循环每秒运行多次
+
+---
+
+## 5. 示例：一个干净的观察-思考-行动循环
+
+此示例：
+
+- 观察声呐距离
+- 决定转向方向
+- 通过调用一次运动更新来行动
 
 ```typescript
 basic.forever(function () {
@@ -140,9 +140,9 @@ basic.forever(function () {
 
 ---
 
-## 6. Example: using events to change robot "mode"
+## 6. 示例：使用事件改变机器人"模式"
 
-Use buttons to switch between behaviors, while the main loop keeps running.
+使用按钮在不同行为之间切换，而主循环持续运行。
 
 ```typescript
 enum Mode {
@@ -178,9 +178,9 @@ basic.forever(function () {
 
 ---
 
-## 7. Checklist for good robot event loops
+## 7. 良好机器人事件循环检查清单
 
-- Keep loop iterations short
-- Use state variables (mode, counters, timers)
-- React to events (buttons/sensors) instead of blocking waits
-- Call motion actions repeatedly instead of trying to "finish the whole motion" in one call
+- 保持循环迭代简短
+- 使用状态变量（模式、计数器、定时器）
+- 响应事件（按钮/传感器）而不是阻塞等待
+- 反复调用运动动作，而不是试图在一次调用中"完成整个动作"

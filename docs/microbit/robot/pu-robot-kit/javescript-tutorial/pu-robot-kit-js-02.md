@@ -1,49 +1,49 @@
 ---
 sidebar_position: 2
-sidebar_label: 2:Swtiching between JavaScript and Block Programming
+sidebar_label: 2:在JavaScript与积木编程之间切换
 ---
 
-# 2:Swtiching between JavaScript and Block Programming
+# 2:在JavaScript与积木编程之间切换
 
-## Master the “Switch Trick”: Coding JavaScript Faster
-While professional developers write code directly in the editor, the most powerful secret for beginners and intermediate users is the **Block-to-JavaScript “Switch Trick.”** This method allows you to use the speed of Blocks to generate the complex syntax of JavaScript instantly.
+## 掌握"切换技巧"：更快地编写JavaScript
+虽然专业开发者会直接在编辑器中编写代码，但对于初学者和中级用户来说，最强大的秘诀是**积木转JavaScript"切换技巧"**。这种方法让你利用积木编程的速度，即时生成复杂的JavaScript语法。
 
-### 1. How to Switch Between Blocks and JavaScript
-The MakeCode editor is designed to be bi-directional. This means any change you make in one view is immediately translated to the other.
+### 1. 如何在积木与JavaScript之间切换
+MakeCode编辑器被设计为双向的。这意味着你在一个视图中做的任何修改都会立即翻译到另一个视图中。
 
-1. **The Toggle:** At the top center of your screen, you will see a toggle button that says **Blocks** and **JavaScript (or Python)**.
-2. **To JavaScript:** Click “JavaScript” to see your blocks converted into high-quality Static TypeScript code.
-3. **Back to Blocks:** Click “Blocks” to see your text code turned back into visual blocks.
+1. **切换按钮：** 在屏幕顶部中央，你会看到标有**积木（Blocks）**和**JavaScript（或Python）**的切换按钮。
+2. **切换到JavaScript：** 点击"JavaScript"，你搭建的积木就会被转换为高质量的静态TypeScript代码。
+3. **切回积木：** 点击"积木"，你编写的文本代码将被转回可视化积木块。
 
-**Note: If you write complex JavaScript that the block system doesn’t support (like custom classes), the editor will show those parts as “grey text blocks.”**
+**注意：如果你编写了积木系统不支持的复杂JavaScript（例如自定义类），编辑器会将那些部分显示为"灰色文本块"。**
 
-### 2. The “Switch Trick” to Program Faster
-Writing code from scratch can be slow because you have to remember exact spellings and where the semi-colons go. Use this workflow to triple your programming speed:
+### 2. 使用"切换技巧"加速编程
+从零开始写代码可能很慢，因为你需要记住准确的拼写和分号的位置。使用以下工作流程可将你的编程速度提升三倍：
 
-**Step 1: Draft in Blocks**
-If you need a complex function, like a “Red Alert” siren with specific music, snap it together in Blocks first. It takes seconds to drag a `play melody` block.
+**第一步：用积木打草稿**
+如果你需要一个复杂功能，比如带有特定音乐的"红色警报"警报器，先用积木拼接出来。拖一个 `play melody` 积木只需要几秒钟。
 
-**Step 2: Flip the Switch**
-Click the **JavaScript** button. MakeCode has now written all the code for you, including the correct pin names (e.g., `DigitalPin.P2`) and the array of notes for the melody.
+**第二步：切换开关**
+点击**JavaScript**按钮。MakeCode已经为你写好了所有代码，包括正确的引脚名称（如 `DigitalPin.P2`）和旋律的音符数组。
 
-**Step 3: Refactor and “Power Up”**
-Now that the “bones” of your code are there, stay in JavaScript to add advanced features that blocks can’t do easily:
+**第三步：重构并"强化升级"**
+现在代码的"骨架"已经有了，留在JavaScript中增加积木难以实现的高级功能：
 
-- **Encapsulate:** Wrap that code inside a professional **Class**.
-- **Duplicate:** Copy and paste lines quickly to create 10 different moods instead of dragging 10 sets of blocks.
-- **Math:** Type out complex equations like `(t * 0.0171821)` much faster than snapping 5 math blocks together.
+- **封装：** 将代码包装到专业的**类**中。
+- **复制：** 快速复制粘贴代码行，创建10种不同的情绪，而不需要拖10组积木。
+- **数学：** 键入类似 `(t * 0.0171821)` 的复杂方程，比拼接5个数学积木快得多。
 
-### 3. Writing Clean and Reusable Code (OOD)
-Using the “Switch Trick” helps you get the basic API calls right, but **Object-Oriented Design (OOD)** makes your code professional.
+### 3. 编写整洁且可复用的代码（OOD）
+使用"切换技巧"可以帮助你正确地调用基本API，但**面向对象设计（OOD）**才能让你的代码达到专业水准。
 
-- **Classes as Blueprints:** Instead of writing separate code for PU’s left eye and right eye, write one `Eye` class and create two “instances” of it.
-- **Single Responsibility:** Keep your `Sonar` logic separate from your `Talking` logic. This allows you to “copy-paste” your Sonar class into a brand new project next month without bringing all the talking code with it.
-- **DRY (Don’t Repeat Yourself):** If you find yourself copying the same block of code three times, it’s time to turn that code into a **Method** inside a class.
+- **类即蓝图：** 与其分别为PU的左眼和右眼编写代码，不如写一个 `Eye` 类并创建两个"实例"。
+- **单一职责：** 将 `Sonar`（声呐）逻辑与 `Talking`（说话）逻辑分开。这样你下个月就能直接把你的 `Sonar` 类"复制粘贴"到一个全新的项目中，而不会带入所有说话相关的代码。
+- **DRY（不要重复自己）：** 如果你发现自己把同一段代码复制了三遍，就该把那段代码变成类中的一个**方法**。
 
-### 4. Compilation and Uploading
+### 4. 编译与上传
 
-Once your JavaScript is ready, the process of getting it onto Robot PU is simple:
+JavaScript准备好后，将其部署到PU机器人的过程很简单：
 
-1. **Connect:** Plug the micro:bit into your computer.
-2. **Pair (Optional):** Click the gear icon and “Pair Device” to use **WebUSB**. This allows the “Download” button to flash the code directly.
-3. **Manual Flash:** If not paired, clicking **Download** creates a `.hex` file. Drag this file from your computer’s “Downloads” folder onto the **MICROBIT** drive.
+1. **连接：** 将micro:bit插入电脑。
+2. **配对（可选）：** 点击齿轮图标并选择"配对设备"以使用**WebUSB**。这使"下载"按钮可以直接烧录代码。
+3. **手动烧录：** 如果没有配对，点击**下载**会生成一个 `.hex` 文件。将此文件从电脑的"下载"文件夹拖到 **MICROBIT** 驱动器中。

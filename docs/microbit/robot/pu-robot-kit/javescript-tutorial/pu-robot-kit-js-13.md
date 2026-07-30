@@ -1,84 +1,84 @@
 ---
 sidebar_position: 13
-sidebar_label: 13:Robot PU Signal Filters
+sidebar_label: 13:Robot PU 信号滤波器
 ---
 
-# Robot PU Signal Filters
-
----
-
-Below is a **single, complete, polished tutorial** that merges:
-
-1. **The introduction to all major filter types**
-2. **The Robot PU sonar‑filtering examples**
-
-…into one coherent, classroom‑ready lesson.
-
-Everything is written in the same tone and structure as the Robot PU tutorials.
-
-## 📘 Tutorial: Signal Filtering for Robot PU
-
-Understanding filters and applying them to the 5‑bin sonar distance array
+# Robot PU 信号滤波器
 
 ---
 
-### Background
+以下是**一篇完整、精炼、可直接用于教学的教程**，融合了：
 
-Robot PU uses an ultrasonic sensor to detect obstacles. The sensor returns five distance bins from left to right:
+1. **所有主要滤波器类型的介绍**
+2. **Robot PU 声呐滤波示例**
 
-| Bin  | Direction   |
-|------|-------------|
-| d[0] | far left    |
-| d[1] | left        |
-| d[2] | center/front|
-| d[3] | right       |
-| d[4] | far right   |
+……整合为一篇结构连贯的课程。
 
-Real‑world sonar data is noisy. Readings may jump, spike, or fluctuate due to:
+全文采用与 Robot PU 系列教程一致的风格和架构。
 
-- reflections
-- vibration
-- angled surfaces
-- electrical noise
-- motion
+## 📘 教程：Robot PU 的信号滤波
 
-To make Robot PU behave reliably, we use **signal filtering**.
-
-This tutorial introduces the most important filter types and shows how to apply each one to Robot PU's sonar array.
+理解滤波器并将其应用于 5 分区声呐距离数组
 
 ---
 
-## 🧠 What Is Signal Filtering?
+### 背景
 
-Signal filtering is the process of cleaning up noisy sensor data so the robot can make better decisions.
+Robot PU 使用超声波传感器检测障碍物。传感器返回从左到右的五个距离分区：
 
-Filtering helps:
+| 分区  | 方向       |
+|-------|-----------|
+| d[0]  | 最左侧     |
+| d[1]  | 左侧       |
+| d[2]  | 中央/前方   |
+| d[3]  | 右侧       |
+| d[4]  | 最右侧     |
 
-- smooth jitter
-- remove spikes
-- reduce noise
-- stabilize control loops
-- improve maze solving and wall following
+真实环境中的声呐数据充满噪声。读数可能因以下原因跳动、尖峰或波动：
 
-Different filters solve different problems. Let's explore them.
+- 反射
+- 振动
+- 倾斜表面
+- 电气噪声
+- 运动
+
+为了让 Robot PU 行为可靠，我们需要使用**信号滤波**。
+
+本教程介绍最重要的滤波器类型，并展示如何将每种滤波器应用于 Robot PU 的声呐数组。
 
 ---
 
-## 🧹 1. Moving Average Filter
+## 🧠 什么是信号滤波？
 
-**What it is:** A simple filter that averages the last N readings.
+信号滤波是清理噪声传感器数据的过程，使机器人能做出更好的决策。
 
-**What it does:**
-- Smooths short‑term noise
-- Reduces jitter
-- Produces stable values
+滤波有助于：
 
-**Best for:**
-- Maze solving
-- Corridor following
-- General smoothing
+- 平滑抖动
+- 去除尖峰
+- 降低噪声
+- 稳定控制回路
+- 改善迷宫求解和墙壁跟随
 
-### Code Example (filtering the front bin d[2])
+不同的滤波器解决不同的问题。让我们逐一探索。
+
+---
+
+## 🧹 1. 移动平均滤波器
+
+**是什么：** 一个简单的滤波器，对最近 N 个读数取平均值。
+
+**作用：**
+- 平滑短期噪声
+- 减少抖动
+- 产生稳定值
+
+**最适合：**
+- 迷宫求解
+- 走廊跟随
+- 通用平滑
+
+### 代码示例（对前方分区 d[2] 进行滤波）
 
 ```typescript
 let window: number[] = []
@@ -108,24 +108,24 @@ basic.forever(function () {
 
 ---
 
-## 🌊 2. Exponential Low‑Pass Filter (LPF)
+## 🌊 2. 指数低通滤波器（LPF）
 
-**What it is:** A lightweight smoothing filter:
+**是什么：** 一个轻量级的平滑滤波器：
 
 ``` js
 filtered = α * old + (1 - α) * new
 ```
 
-**What it does:**
-- Smooths noise
-- Responds faster than a moving average
+**作用：**
+- 平滑噪声
+- 响应比移动平均更快
 
-**Best for:**
-- Continuous control
-- Wall following
-- Balancing
+**最适合：**
+- 连续控制
+- 墙壁跟随
+- 平衡控制
 
-### Code Example (filtering the right bin d[4])
+### 代码示例（对右侧分区 d[4] 进行滤波）
 
 ```typescript
 let rightFiltered = 0
@@ -143,20 +143,20 @@ basic.forever(function () {
 
 ---
 
-## 🔪 3. Median Filter
+## 🔪 3. 中值滤波器
 
-**What it is:** A filter that takes the middle value of a set of samples.
+**是什么：** 取一组样本中间值的滤波器。
 
-**What it does:**
-- Removes extreme spikes
-- Rejects outliers
-- Keeps sharp transitions
+**作用：**
+- 去除极端尖峰
+- 拒绝离群值
+- 保留突变边缘
 
-**Best for:**
-- Sonar readings with occasional huge jumps
-- Maze solving where a single bad reading can cause a wrong turn
+**最适合：**
+- 偶尔出现大幅跳变的声呐读数
+- 单个错误读数可能导致错误转弯的迷宫求解
 
-### Code Example (filtering the left bin `d[0]`)
+### 代码示例（对左侧分区 `d[0]` 进行滤波）
 
 ```typescript
 function median(values: number[]): number {
@@ -180,25 +180,25 @@ basic.forever(function () {
 
 ---
 
-## ⚖️ 4. Complementary Filter
+## ⚖️ 4. 互补滤波器
 
-**What it is:**
+**是什么：**
 
-A filter that blends:
+一个融合以下两者的滤波器：
 
-- a fast but noisy signal
-- a slow but stable signal
+- 快速但噪声大的信号
+- 缓慢但稳定的信号
 
-**What it does:**
-- Produces a signal that is both responsive and smooth.
-- Great for robotics.
+**作用：**
+- 产生既响应迅速又平滑的信号。
+- 非常适合机器人应用。
 
-**Best for:**
-- Wall following
-- Obstacle avoidance
-- Any situation needing both speed and stability
+**最适合：**
+- 墙壁跟随
+- 避障
+- 任何需要速度与稳定性兼顾的场景
 
-### Code Example (combining raw + LPF for the front bin d[2])
+### 代码示例（对前方分区 d[2] 组合原始信号 + LPF）
 
 ```typescript
 let frontLPF = 0
@@ -221,131 +221,131 @@ basic.forever(function () {
 
 ---
 
-## 🧮 5. Kalman Filter (advanced)
+## 🧮 5. 卡尔曼滤波器（进阶）
 
-**What it is:**
+**是什么：**
 
-A mathematical estimator that fuses multiple noisy signals using a system model.
+一种数学估计器，使用系统模型融合多个噪声信号。
 
-**What it does:**
+**作用：**
 
-- Produces the statistically best estimate.
-- Handles noise and delay.
+- 产生统计上的最佳估计。
+- 处理噪声和延迟。
 
-**Why we don't use it here:**
+**为什么这里不使用：**
 
-- Too heavy for micro:bit
-- Requires matrix math
-- Overkill for simple sonar filtering
-
----
-
-## 🧭 6. High‑Pass Filter (HPF)
-
-**What it is:**
-
-A filter that removes slow changes and keeps fast changes.
-
-**What it does:**
-
-- Detects sudden motion
-- Removes drift
-
-**Why it's not used for sonar:**
-
-- Sonar distance is slow‑changing
-- HPF amplifies noise
+- 对 micro:bit 计算负担太重
+- 需要矩阵运算
+- 对简单声呐滤波来说大材小用
 
 ---
 
-## 🧱 7. Band‑Pass and Band‑Stop Filters
+## 🧭 6. 高通滤波器（HPF）
 
-**What they do:**
+**是什么：**
 
-- Keep or remove specific frequency ranges.
-- Used in audio and vibration analysis.
+去除缓慢变化、保留快速变化的滤波器。
 
-**Why they're not used here:**
+**作用：**
 
-- Sonar distance is not frequency‑based
-- Not relevant for Robot PU
+- 检测突然运动
+- 消除漂移
 
----
+**为什么不用于声呐：**
 
-## 📊 Summary Table
-
-| Filter Type       | Best For               | Strengths         | Weaknesses              |
-|-------------------|------------------------|-------------------|-------------------------|
-| Moving Average    | General smoothing      | Simple, stable    | Slow response           |
-| Low‑Pass (LPF)    | Continuous control     | Fast, lightweight | Some lag                |
-| Median            | Removing spikes        | Great for sonar   | Not smooth              |
-| Complementary     | Balanced response      | Fast + stable     | Needs tuning            |
-| Kalman            | High‑end robotics      | Very accurate     | Too heavy for micro:bit |
-| High‑Pass         | Detecting motion       | Removes drift     | Not for sonar           |
-| Band‑Pass/Stop    | Frequency filtering    | Useful in audio   | Not used here           |
+- 声呐距离变化缓慢
+- HPF 会放大噪声
 
 ---
 
-Just tell me where you want to take thiBelow is a **clean, drop‑in improved version** of your wall‑following / right‑hand‑rule solver that uses a combined filtering pipeline:
+## 🧱 7. 带通和带阻滤波器
 
-**✔ Median filter → removes sonar spikes**
+**作用：**
 
-**✔ Low‑pass filter → smooths jitter**
+- 保留或去除特定频率范围。
+- 用于音频和振动分析。
 
-**✔ Complementary blend → keeps responsiveness**
+**为什么这里不使用：**
 
-This pipeline dramatically stabilizes the 5‑bin sonar readings while keeping the robot responsive enough for maze navigation.
+- 声呐距离不是基于频率的
+- 与 Robot PU 不相关
 
-I’ll first explain the pipeline, then give you the **full improved code**.
+---
 
-## ⭐ Combined Filter Pipeline (Recommended for Robot PU)
+## 📊 总结表格
 
-Robot PU's sonar is noisy. A single bad reading can cause:
+| 滤波器类型       | 最适合              | 优势            | 劣势                    |
+|------------------|---------------------|-----------------|-------------------------|
+| 移动平均         | 通用平滑            | 简单、稳定      | 响应慢                  |
+| 低通（LPF）      | 连续控制            | 快速、轻量      | 有一定延迟              |
+| 中值             | 去除尖峰            | 非常适合声呐    | 不够平滑                |
+| 互补             | 平衡响应            | 快速 + 稳定     | 需要调参                |
+| 卡尔曼           | 高端机器人          | 非常精确        | 对 micro:bit 计算负担太重 |
+| 高通             | 检测运动            | 消除漂移        | 不适用于声呐            |
+| 带通/带阻        | 频率滤波            | 在音频中有用    | 此处不使用              |
 
-- sudden wrong turns
-- oscillation in corridors
-- over‑reaction to reflections
-- "bonking" into walls
+---
 
-To fix this, we apply a three‑stage pipeline:
+以下是**墙跟随 / 右手法则求解器的清晰改进版**，使用了组合滤波管道：
 
-### Pipeline Stages
+**✔ 中值滤波器 → 去除声呐尖峰**
 
-1. **Median Filter (3‑sample)**
+**✔ 低通滤波器 → 平滑抖动**
 
-Removes extreme spikes
+**✔ 互补混合 → 保持响应性**
+
+这个管道显著稳定了 5 分区声呐读数，同时保持机器人对迷宫导航有足够的响应能力。
+
+首先解释管道结构，然后给出**完整的改进代码**。
+
+## ⭐ 组合滤波管道（Robot PU 推荐方案）
+
+Robot PU 的声呐噪声较大。单个错误读数可能导致：
+
+- 突然的错误转弯
+- 走廊中振荡
+- 对反射过度反应
+- "撞墙"
+
+为了解决这些问题，我们应用三级管道：
+
+### 管道阶段
+
+1. **中值滤波器（3 样本）**
+
+去除极端尖峰
 
    ```JS
    median(raw1, raw2, raw3)
    ```
 
-2. **Low‑Pass Filter (LPF)**
+2. **低通滤波器（LPF）**
 
-Smooths jitter
+平滑抖动
 
    ```JS
    lpf = α * lpf + (1 - α) * median
    ```
-   α ≈ 0.7–0.85 works well.
+   α ≈ 0.7–0.85 效果较好。
 
-3. **Complementary Blend**
+3. **互补混合**
 
-Keeps the robot responsive
+保持机器人响应性
 
    ```JS
    filtered = β * raw + (1 - β) * lpf
    ```
-   β ≈ 0.4–0.6.
+   β ≈ 0.4–0.6。
 
-This gives you:
-- stability from LPF
-- responsiveness from raw data
+这为你提供了：
+- 来自 LPF 的稳定性
+- 来自原始数据的响应性
 
 ---
 
-## ⭐ Full Improved Code (Drop‑In Replacement)
+## ⭐ 完整改进代码（可直接替换）
 
-This version keeps your movement logic unchanged, only improving the sensor processing.
+此版本保持你的运动逻辑不变，仅改进传感器处理。
 
 ```typescript
 // Right-hand rule maze solver with combined filtering pipeline
@@ -466,18 +466,18 @@ basic.forever(function () {
 
 ---
 
-## ⭐ What This Improves
+## ⭐ 改进效果
 
-- ✔ **No more sudden wrong turns** — Median filter removes sonar spikes.
-- ✔ **Smooth corridor following** — LPF stabilizes jittery readings.
-- ✔ **Still responsive** — Complementary blend keeps the robot from feeling "laggy."
-- ✔ **More reliable maze solving** — Filtered left/front/right bins produce consistent decisions.
+- ✔ **不再有突然的错误转弯** — 中值滤波器去除声呐尖峰。
+- ✔ **平滑的走廊跟随** — LPF 稳定抖动读数。
+- ✔ **仍然保持响应性** — 互补混合防止机器人感觉"迟钝"。
+- ✔ **更可靠的迷宫求解** — 滤波后的左/前/右分区产生一致的决策。
 
 ---
 
-### Want to go further?
+### 想更进一步？
 
-- Add adaptive filtering (stronger smoothing when moving fast)
-- Add PID steering for smoother wall following
-- Add exit detection (wide‑open space detection)
-- Add logging to visualize raw vs. filtered sonar
+- 添加自适应滤波（快速移动时加强平滑）
+- 添加 PID 转向以实现更平滑的墙壁跟随
+- 添加出口检测（开阔空间检测）
+- 添加日志记录以可视化原始 vs. 滤波后的声呐数据

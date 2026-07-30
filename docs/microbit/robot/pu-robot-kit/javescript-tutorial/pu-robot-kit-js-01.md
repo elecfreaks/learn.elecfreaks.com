@@ -1,31 +1,31 @@
 ---
 sidebar_position: 1
-sidebar_label: 1:Quick Start of JavaScript on Micro:bit
+sidebar_label: 1:micro:bit上的JavaScript快速入门
 ---
 
-# 1:Quick Start of JavaScript on Micro:bit
+# 1:micro:bit上的JavaScript快速入门
 
-## Mastering JavaScript on the micro:bit
-Transitioning from Blocks to Static TypeScript (STS)—the version of JavaScript used in MakeCode—unlocks the full potential of Robot PU. This guide covers everything from the interface to advanced Object-Oriented Design.
+## 掌握micro:bit上的JavaScript
+从积木编程过渡到静态TypeScript（STS）——MakeCode中使用的JavaScript版本——将解锁PU机器人的全部潜能。本指南涵盖从界面操作到高级面向对象设计的一切。
 
-### 1. The Programming Interface
-When you open [makecode.microbit.org](https://makecode.microbit.org), you primarily work in the **Blocks** editor. To switch to JavaScript:
+### 1. 编程界面
+当你打开 [makecode.microbit.org](https://makecode.microbit.org) 时，主要工作区是**积木**编辑器。切换到JavaScript的方法：
 
-1. Locate the **toggle switch** at the top center of the screen.
-2. Click **JavaScript**.
-3. The toolbox on the left remains, but clicking a category now provides code snippets instead of blocks.
+1. 找到屏幕顶部中央的**切换开关**。
+2. 点击**JavaScript**。
+3. 左侧工具箱仍然存在，但点击某个类别现在会提供代码片段而非积木块。
 
-### 2. Basic JavaScript Syntax
-STS is “strongly typed,” meaning it likes to know what kind of data you are using.
+### 2. 基础JavaScript语法
+STS是"强类型"的，意味着它倾向于明确知道你正在使用什么类型的数据。
 
-- **Variables:** Use `let` for values that change and `const` for values that stay the same.
+- **变量：** 对会改变的值使用 `let`，对保持不变的值使用 `const`。
 
 ```js
 let speed = 100;
 const robotName = "PU";
 ```
 
-- **Functions:** Wrap reusable logic in functions.
+- **函数：** 将可复用的逻辑封装在函数中。
 
 ```js
 function waveHand() {
@@ -34,12 +34,12 @@ function waveHand() {
     pins.servoWritePin(AnalogPin.P1, 0);
 }
 ```
-- **Loops:** The `basic.forever` function is a special loop that runs your code repeatedly in the background.
+- **循环：** `basic.forever` 函数是一个特殊的循环，在后台不断重复运行你的代码。
 
-### 3. Object-Oriented Design (OOD)
-Classes allow you to group data and behaviors together. This is how we build “drivers” for sensors like the Sonar on PU’s chest.
+### 3. 面向对象设计（OOD）
+类允许你将数据和行为组合在一起。这正是我们为PU胸前的声呐等传感器构建"驱动程序"的方式。
 
-#### Example: A Simple Robot Component
+#### 示例：一个简单的机器人组件
 ```js
 class LedEye {
     pin: DigitalPin;
@@ -55,25 +55,25 @@ class LedEye {
     }
 }
 
-// Create an "instance" of the eye on Pin P16
+// 在引脚P16上创建一个眼睛"实例"
 let leftEye = new LedEye(DigitalPin.P16);
 leftEye.blink();
 ```
-### 4. Compilation and Uploading
-MakeCode compiles your JavaScript into a **.hex** file—a format the micro:bit hardware understands.
+### 4. 编译与上传
+MakeCode将你的JavaScript编译为 **.hex** 文件——一种micro:bit硬件能理解的格式。
 
-**Step-by-Step Upload:**
-1. **Connect:** Plug your micro:bit into your computer via USB.
-2. **Download:** Click the purple **Download** button.
-3. **Transfer:**
-    - **Direct (WebUSB):** If your browser is paired, the code flashes instantly.
-    - **Manual:** Drag the `.hex` file from your Downloads folder onto the **MICROBIT** drive on your computer.`
-4. **Run:** The yellow light on the back flashes during the transfer. Once it stops, the program starts automatically.
-### 5. Tips for Clean and Reusable Code
-Writing “clean” code makes it easier for you (and others) to fix bugs later.
+**逐步上传操作：**
+1. **连接：** 通过USB将micro:bit插入电脑。
+2. **下载：** 点击紫色的**下载**按钮。
+3. **传输：**
+    - **直接烧录（WebUSB）：** 如果浏览器已配对，代码将立即烧录。
+    - **手动：** 将 `.hex` 文件从下载文件夹拖到电脑上的 **MICROBIT** 驱动器中。
+4. **运行：** 传输过程中背面的黄色指示灯会闪烁。传输完成后，程序自动开始运行。
+### 5. 编写整洁且可复用代码的技巧
+编写"整洁"的代码能让你（以及他人）将来更容易修复错误。
 
-- **Use Descriptive Names:** Instead of `let x = 10`, use `let sonarDistance = 10`.
-- **The Single Responsibility Principle:** A class or function should do **one** thing well. For example, a `Sonar` class should only handle measuring distance, not playing music.
-- **Comment Your Logic:** Use `//` to explain why you are doing something complex.
-- **Avoid “Magic Numbers”:** Instead of using 0.0171821 inside your logic, create a variable named `SOUND_SPEED_CONSTANT`.
-- **Keep it Modular:** Put your classes at the top of the file or in separate tabs to keep your main `forever` loop tidy.
+- **使用描述性命名：** 用 `let sonarDistance = 10` 代替 `let x = 10`。
+- **单一职责原则：** 一个类或函数应该**只**做好一件事。例如，`Sonar` 类应该只处理距离测量，而不该播放音乐。
+- **为逻辑添加注释：** 使用 `//` 解释你为什么做某件复杂的事情。
+- **避免"魔法数字"：** 与其在逻辑中使用 0.0171821，不如创建一个名为 `SOUND_SPEED_CONSTANT` 的变量。
+- **保持模块化：** 将你的类放在文件顶部或单独的标签页中，让 `forever` 主循环保持整洁。

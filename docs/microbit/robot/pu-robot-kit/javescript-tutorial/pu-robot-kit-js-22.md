@@ -1,185 +1,174 @@
 ---
 sidebar_position: 22
-sidebar_label: 22:Robot PU Think
+sidebar_label: 22:Robot PU 思考
 ---
 
-# Robot PU Think
+# Robot PU 思考
 
-## Lesson: Robot Thinking (Feedback Loops)
+## 课程：机器人思考（反馈回路）
 
-"Robot thinking" is usually not human-like thinking. In robotics, it often means:
+"机器人思考"通常不是类似人类的思考。在机器人学中，它通常意味着：
 
-- observe sensors
-- compute an adjustment
-- apply the adjustment
-- repeat fast
+- 观察传感器
+- 计算调整量
+- 应用调整
+- 快速重复
 
-This is called a **feedback loop** (closed-loop control).
+这被称为**反馈回路**（闭环控制）。
 
-In Robot PU, walking and balancing is a great example. The extension's `moveBalance(...)` continuously reads the IMU and adjusts servo targets while walking.
-
-
-
-## 1. Control loops: open-loop vs closed-loop
-
-### A. Open-loop control (no feedback)
-
-Open-loop means:
-
-- you command an action
-- you do **not** measure the result
-- you assume the robot behaves as expected
-
-**Example idea:**
-
-- "Set leg servos to these angles and hope the robot is stable."
-
-**Pros:**
-
-- simple
-- predictable on perfect hardware
-
-**Cons:**
-
-- sensitive to battery voltage, friction, payload, bumps
-- cannot recover when the real world differs from your assumption
+在 Robot PU 中，行走和平衡是一个很好的例子。扩展程序的 `moveBalance(...)` 在行走时连续读取 IMU 并调整舵机目标。
 
 
+## 1. 控制回路：开环 vs 闭环
 
-### B. Closed-loop control (feedback)
+### A. 开环控制（无反馈）
 
-**Closed-loop means:**
+开环意味着：
 
-- command an action
-- measure what happened (sensors)
-- compute an error
-- correct the command
+- 你命令一个动作
+- 你**不**测量结果
+- 你假设机器人按预期运行
 
-**Pros:**
+**示例思路：**
 
-- robust to disturbance
-- self-correcting
+- "将腿部舵机设置为这些角度，希望机器人稳定。"
 
-**Cons:**
+**优点：**
 
-- more complex
-- needs good sensor data and good tuning
+- 简单
+- 在完美硬件上可预测
+
+**缺点：**
+
+- 对电池电压、摩擦力、负载、碰撞敏感
+- 当实际情况与假设不同时无法恢复
 
 
+### B. 闭环控制（反馈）
 
-## 2. Robot PU example: `moveBalance()` (walking + balance)
+**闭环意味着：**
 
-In `robotpu.ts`, walking calls:
+- 命令一个动作
+- 测量发生了什么（传感器）
+- 计算误差
+- 修正命令
+
+**优点：**
+
+- 对干扰鲁棒
+- 自纠正
+
+**缺点：**
+
+- 更复杂
+- 需要良好的传感器数据和良好的调参
+
+
+## 2. Robot PU 示例：`moveBalance()`（行走 + 平衡）
+
+在 `robotpu.ts` 中，行走调用：
 
 - `walk(sp, di)` → `moveBalance(sp, di, ...)`
 
 
-High-level idea inside `moveBalance(...)`:
+`moveBalance(...)` 内部的高层思路：
 
-1. **Observation:** read IMU data and estimate body tilt
-2. **Thinking:** compute how much to tilt/offset the legs and body to stay balanced
-3. **Action:** apply those offsets as "control vectors" to the servo targets
+1. **观察：** 读取 IMU 数据并估计身体倾斜
+2. **思考：** 计算需要倾斜/偏移腿部和身体多少来保持平衡
+3. **行动：** 将这些偏移作为"控制向量"应用到底层舵机目标
 
-Then it calls the lower-level gait engine (`wk.move(...)`) to advance the motion state.
+然后它调用底层步态引擎（`wk.move(...)`）来推进运动状态。
 
 
+## 3. 观察：`balanceParam()`（传感器 → 状态估计）
 
-## 3. Observation: `balanceParam()` (sensor → state estimate)
-
-`balanceParam()` reads the accelerometer:
-
+`balanceParam()` 读取加速度计：
 
 - `input.acceleration(Dimension.X/Y/Z)`
 
 
-And computes tilt-related internal signals (examples you'll see in the code):
+并计算与倾斜相关的内部信号（你将在代码中看到的示例）：
 
-- `bodyRoll`, `bodyPitch`
-- filtered versions `bodyRoll2`, `bodyPitch2` (smoothed over time)
+- `bodyRoll`、`bodyPitch`
+- 滤波版本 `bodyRoll2`、`bodyPitch2`（随时间平滑）
 
-This is a small but important idea: **filtering**.
+这是一个小而重要的想法：**滤波**。
 
-- raw sensors are noisy
-- filtering reduces noise so control outputs don’t jitter
-
-
-
-## 4. Thinking: turn IMU tilt into corrective offsets
-
-In `moveBalance(...)`, the robot uses the estimated roll/pitch to compute offsets:
-
-- if the robot leans left → shift weight / servo offsets to recover
-- if the robot leans right → do the opposite
-
-You'll see logic like:
-
-- **clamp** the correction (`maxRollCtrl`) so it cannot over-correct
-- **slow down** when tilt is large (safety + stability)
-
-The output of "thinking" is a set of **control signals** written into `pr.servoCtrl[...]`.
-
-That control vector is then combined with the current gait pose targets.
+- 原始传感器有噪声
+- 滤波降低噪声，使控制输出不会抖动
 
 
+## 4. 思考：将 IMU 倾斜转换为纠正偏移
 
-## 5. Action: apply control and step the gait
+在 `moveBalance(...)` 中，机器人使用估计的 roll/pitch 计算偏移：
 
-The action step is:
+- 如果机器人向左倾斜 → 移动重心 / 舵机偏移以恢复
+- 如果机器人向右倾斜 → 做相反的操作
 
-- apply the computed `servoCtrl` offsets
-- call `wk.move(...)` to take one small step toward the current pose
+你将看到类似以下逻辑：
 
-That's why motion actions are designed to be called repeatedly: each call is one iteration of the feedback + motion update.
+- **钳制**修正量（`maxRollCtrl`），防止过度纠正
+- 当倾斜较大时**减速**（安全 + 稳定性）
 
+"思考"的输出是一组**控制信号**写入 `pr.servoCtrl[...]`。
 
-
-## 6. Types of controllers (concepts)
-
-Robot PU's balancing logic is a practical example of a **heuristic controller** (hand-designed rules + clamping + smoothing).
-
-Other common controllers:
+然后该控制向量与当前步态姿态目标结合。
 
 
-- **P controller**: correction proportional to error
-- **PD controller**: proportional + damping (uses error change rate)
-- **PID controller**: proportional + integral + derivative
+## 5. 行动：应用控制并推进步态
 
-Typical tradeoffs:
+行动步骤是：
 
-- **P:** simple, but may oscillate
-- **PD:** more stable, less overshoot
-- **PID:** can remove steady-state error, but can be tricky to tune
+- 应用计算出的 `servoCtrl` 偏移
+- 调用 `wk.move(...)` 向当前姿态迈出一小步
 
+这就是为什么运动动作被设计为反复调用：每次调用是反馈 + 运动更新的一次迭代。
 
 
-## 7. More advanced "thinking" (not required, but good to know)
+## 6. 控制器类型（概念）
 
-These are common in more advanced robots. They are mentioned here as future directions *(they are not implemented in this tutorial code)*.
+Robot PU 的平衡逻辑是**启发式控制器**的实际示例（手工设计的规则 + 钳制 + 平滑）。
+
+其他常见控制器：
+
+- **P 控制器**：修正量与误差成正比
+- **PD 控制器**：比例 + 阻尼（使用误差变化率）
+- **PID 控制器**：比例 + 积分 + 微分
+
+典型权衡：
+
+- **P：** 简单，但可能振荡
+- **PD：** 更稳定，更少超调
+- **PID：** 可以消除稳态误差，但调参可能棘手
 
 
-**Kalman filter / complementary filter**
+## 7. 更高级的"思考"（非必须，但值得了解）
 
-- Better sensor fusion (e.g., accel + gyro) and better state estimation
+这些在更高级的机器人中很常见。这里作为未来方向提及*（它们未在本教程代码中实现）*。
 
-**Feed-forward control**
+**卡尔曼滤波器 / 互补滤波器**
 
-- Predict required servo output from the planned motion
+- 更好的传感器融合（例如，加速度计 + 陀螺仪）和更好的状态估计
 
-- combine with feedback for best results
+**前馈控制**
 
-**Probabilistic models (Bayesian / probability networks)**
+- 从计划运动预测所需舵机输出
 
-- Represent uncertainty explicitly (useful when sensors are noisy)
+- 与反馈结合以获得最佳结果
 
-**Reinforcement learning**
+**概率模型（贝叶斯 / 概率网络）**
 
-- Q-learning / Q-tables: learn which action to take in each state
+- 显式表示不确定性（当传感器有噪声时有用）
 
-- modern variants use neural networks (Deep Q Networks)
+**强化学习**
 
-## 8. Practical MakeCode pattern: Observation → Thinking → Action
+- Q-learning / Q-tables：学习在每个状态下采取哪个动作
 
-Here is the general pattern you'll reuse in many projects:
+- 现代变体使用神经网络（Deep Q Networks）
+
+## 8. 实用 MakeCode 模式：观察 → 思考 → 行动
+
+以下是你将在许多项目中重用的通用模式：
 
 ```typescript
 basic.forever(function () {
@@ -199,4 +188,4 @@ basic.forever(function () {
 })
 ```
 
-The difference between a "dumb" robot and a "smart" robot is usually the quality of the **Thinking** step.
+"笨"机器人和"聪明"机器人之间的区别通常是**思考**步骤的质量。

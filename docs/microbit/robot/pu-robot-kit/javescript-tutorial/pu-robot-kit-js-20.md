@@ -1,216 +1,216 @@
 ---
 sidebar_position: 20
-sidebar_label: 20:Robot PU Smart Follower
+sidebar_label: 20:Robot PU 智能跟随者
 ---
 
-# Robot PU Smart Follower
+# Robot PU 智能跟随者
 
-When you combine leader‑following (global goal) with obstacle avoidance (local safety), you immediately run into a classic robotics problem:
+当你将领导者跟随（全局目标）与避障（局部安全）结合时，你立即会遇到一个经典的机器人学问题：
 
-Global navigation goals often conflict with local collision‑avoidance rules.
+全局导航目标经常与局部碰撞避免规则冲突。
 
-This is not just a Robot PU issue — it’s the same challenge faced by drones, autonomous cars, warehouse robots, and swarm robots.
+这不仅仅是 Robot PU 的问题——无人机、自动驾驶汽车、仓储机器人和群体机器人都面临同样的挑战。
 
-The good news is that robotics has several well‑studied algorithms designed exactly for this situation.
+好消息是，机器人学有几种经过充分研究的算法专门针对这种情况。
 
-Below is a clear breakdown of the best approaches, why they work, and which ones are practical for Robot PU.
+以下是清晰的最佳方法分解，说明它们为什么有效，以及哪些方法对 Robot PU 实用。
 
-## 🧠 Part 1: Algorithm Comparison
+## 🧠 第一部分：算法比较
 
-### 1. Potential Fields (Attractive + Repulsive Forces)
+### 1. 势场法（吸引力 + 排斥力）
 
-This is the most intuitive and swarm‑friendly method.
+这是最直观且对群体友好的方法。
 
-**How it works:**
-- The leader heading acts as an **attractive force** pulling the follower forward.
-- Obstacles act as **repulsive forces** pushing the robot away.
-- The robot moves in the direction of the **vector sum**.
+**工作原理：**
+- 领导者朝向作为**吸引力**拉动跟随者前进。
+- 障碍物作为**排斥力**推开机器人。
+- 机器人沿**矢量和**的方向移动。
 
-**Why it solves the conflict:** The robot naturally balances "Go toward the leader" and "Avoid obstacles" without needing explicit rules.
+**为什么能解决冲突：** 机器人自然地平衡"向领导者前进"和"避开障碍物"，不需要显式规则。
 
-| Pros | Cons |
+| 优点 | 缺点 |
 |------|------|
-| Simple | Can get stuck in local minima (e.g., corners) |
-| Smooth motion | |
-| Works well for swarms | |
+| 简单 | 可能陷入局部极小值（如角落） |
+| 平滑运动 | |
+| 非常适合群体 | |
 
-**Perfect for Robot PU?** Yes. Easy to implement with compass + sonar.
+**适合 Robot PU 吗？** 是的。使用指南针 + 声呐易于实现。
 
 ---
 
-### 2. Behavior Arbitration (Subsumption Architecture)
+### 2. 行为仲裁（包容架构）
 
-This is Rodney Brooks' famous layered robot architecture.
+这是 Rodney Brooks 著名的分层机器人架构。
 
-**How it works:** You define behaviors with priorities:
+**工作原理：** 定义具有优先级的行为：
 
-1. Avoid obstacles (highest priority)
-2. Follow leader heading
-3. Cruise forward (lowest priority)
+1. 避开障碍物（最高优先级）
+2. 跟随领导者朝向
+3. 巡航前进（最低优先级）
 
-The highest‑priority behavior that triggers takes control.
+触发时具有最高优先级的行为取得控制权。
 
-**Why it solves the conflict:** Obstacle avoidance always wins, but only temporarily. Once clear, the robot resumes following the leader.
+**为什么能解决冲突：** 避障总是获胜，但只是暂时的。一旦清除障碍，机器人恢复跟随领导者。
 
-| Pros | Cons |
+| 优点 | 缺点 |
 |------|------|
-| Very robust | Motion can be jerky |
-| Easy to reason about | No blending of behaviors |
-| Works well with simple sensors | |
+| 非常健壮 | 运动可能生硬 |
+| 易于推理 | 没有行为融合 |
+| 对简单传感器效果很好 | |
 
-**Perfect for Robot PU?** Yes. Very easy to implement.
+**适合 Robot PU 吗？** 是的。非常容易实现。
 
 ---
 
-### 3. Vector Field Histogram (VFH)
+### 3. 向量场直方图（VFH）
 
-A more advanced version of potential fields.
+势场法的更高级版本。
 
-**How it works:**
-- Build a histogram of obstacle directions
-- Choose the safest direction closest to the leader's heading
+**工作原理：**
+- 构建障碍物方向的直方图
+- 选择最接近领导者朝向的安全方向
 
-**Why it solves the conflict:** It explicitly finds a collision‑free direction that is as close as possible to the leader's heading.
+**为什么能解决冲突：** 它明确找到尽可能接近领导者朝向的无碰撞方向。
 
-| Pros | Cons |
+| 优点 | 缺点 |
 |------|------|
-| Smooth | More computation |
-| Avoids local minima | Requires more tuning |
-| Used in real robots (e.g., Pioneer robots) | |
+| 平滑 | 更重的计算 |
+| 避免局部极小值 | 需要更多调参 |
+| 在真实机器人中使用（如 Pioneer 机器人） | |
 
-**Perfect for Robot PU?** Possibly. Works if simplified.
+**适合 Robot PU 吗？** 可能。简化后可行。
 
 ---
 
-### 4. Dynamic Window Approach (DWA)
+### 4. 动态窗口法（DWA）
 
-Used in ROS navigation stack.
+用于 ROS 导航栈。
 
-**How it works:**
-- Simulates possible motions
-- Chooses the one that avoids obstacles and moves toward the goal
+**工作原理：**
+- 模拟可能的运动
+- 选择避开障碍物且朝向目标的运动
 
-**Why it solves the conflict:** It optimizes both goals simultaneously.
+**为什么能解决冲突：** 它同时优化两个目标。
 
-| Pros | Cons |
+| 优点 | 缺点 |
 |------|------|
-| Very robust | Too heavy for microcontrollers |
-| Handles dynamics | Requires velocity simulation |
+| 非常健壮 | 对微控制器太重 |
+| 处理动力学 | 需要速度模拟 |
 
-**Perfect for Robot PU?** No. Too computationally expensive.
+**适合 Robot PU 吗？** 不适合。计算成本太高。
 
 ---
 
-### 5. Boids‑Style Flocking (Reynolds Rules)
+### 5. Boids 风格蜂群（Reynolds 规则）
 
-Classic swarm algorithm. Three rules:
+经典的群体算法。三条规则：
 
-- **Cohesion** → move toward leader
-- **Separation** → avoid obstacles and other robots
-- **Alignment** → match leader heading
+- **凝聚力** → 向领导者移动
+- **分离** → 避开障碍物和其他机器人
+- **对齐** → 匹配领导者朝向
 
-**Why it solves the conflict:** Obstacle avoidance is built into the "separation" rule.
+**为什么能解决冲突：** 避障内置于"分离"规则中。
 
-| Pros | Cons |
+| 优点 | 缺点 |
 |------|------|
-| Natural swarm behavior | Harder to tune |
-| Smooth motion | Requires balancing weights |
-| Scales to many robots | |
+| 自然的群体行为 | 更难调参 |
+| 平滑运动 | 需要平衡权重 |
+| 可扩展到许多机器人 | |
 
-**Perfect for Robot PU?** Yes. Works surprisingly well with simple sensors.
+**适合 Robot PU 吗？** 是的。使用简单传感器效果出奇地好。
 
 ---
 
-### 6. Hybrid: Leader Heading + Obstacle Avoidance Override
+### 6. 混合方案：领导者朝向 + 避障覆盖
 
-This is the simplest practical solution.
+这是最简单的实用解决方案。
 
-**How it works:**
-- Normally follow leader heading
-- If obstacle detected → temporarily override with avoidance turn
-- After clearing → resume leader heading
+**工作原理：**
+- 正常情况下跟随领导者朝向
+- 如果检测到障碍物 → 临时用避障转向覆盖
+- 清除后 → 恢复领导者朝向
 
-**Why it solves the conflict:** It's a compromise between subsumption and potential fields.
+**为什么能解决冲突：** 它是包容架构和势场法之间的折衷。
 
-| Pros | Cons |
+| 优点 | 缺点 |
 |------|------|
-| Easy | Not as smooth as potential fields |
-| Works well | |
-| Predictable | |
+| 简单 | 不如势场法平滑 |
+| 效果好 | |
+| 可预测 | |
 
-**Perfect for Robot PU?** Yes. Easiest to implement.
-
----
-
-## ⭐ Which Algorithm Should You Use for Robot PU?
-
-| Algorithm | Works on PU? | Difficulty | Smoothness | Notes |
-|-----------|-------------|------------|------------|-------|
-| Potential Fields | ✔️ | Medium | High | Best balance of simplicity + smoothness |
-| Subsumption | ✔️✔️ | Easy | Medium | Easiest to implement, very reliable |
-| VFH | ✔️ | Hard | High | Great but complex |
-| DWA | ❌ | Very Hard | High | Too heavy for micro:bit |
-| Boids | ✔️ | Medium | High | Great for multi‑robot swarms |
-| Hybrid Override | ✔️✔️ | Easy | Medium | Practical and effective |
-
-If you want the best mix of performance + simplicity, go with:
-
-- ⭐ **Potential Fields**
-- ⭐ **Hybrid Override** (Follow leader unless obstacle detected)
-
-If you want true swarm behavior, go with:
-
-- ⭐ **Boids** (Cohesion + Separation + Alignment)
+**适合 Robot PU 吗？** 是的。最容易实现。
 
 ---
 
-## 🏆 Final Recommendation: Hybrid Override
+## ⭐ Robot PU 应该使用哪个算法？
 
-Given the micro:bit's very limited RAM, no floating‑point hardware, and tight CPU budget, the best algorithm for combining:
+| 算法 | 在 PU 上可行？ | 难度 | 平滑度 | 备注 |
+|------|---------------|------|--------|------|
+| 势场法 | ✔️ | 中等 | 高 | 简单性与平滑度的最佳平衡 |
+| 包容架构 | ✔️✔️ | 简单 | 中等 | 最容易实现，非常可靠 |
+| VFH | ✔️ | 困难 | 高 | 很好但复杂 |
+| DWA | ❌ | 非常困难 | 高 | 对 micro:bit 太重 |
+| Boids | ✔️ | 中等 | 高 | 非常适合多机器人群体 |
+| 混合覆盖 | ✔️✔️ | 简单 | 中等 | 实用且有效 |
 
-- Leader compass‑heading following
-- Joystick speed following
-- Local obstacle avoidance
+如果你想要性能 + 简单性的最佳组合，选择：
 
-is NOT the fancy academic ones like VFH or DWA. Those are too heavy.
+- ⭐ **势场法**
+- ⭐ **混合覆盖**（除非检测到障碍物，否则跟随领导者）
 
-The algorithm that fits the micro:bit's constraints and works reliably for Robot PU is:
+如果你想要真正的群体行为，选择：
 
-### ⭐ Hybrid Override (Follow‑Leader + Obstacle‑Avoidance Override)
-
-This is the simplest, most robust, and most microcontroller‑friendly solution. It's essentially a lightweight version of subsumption architecture, with a tiny dash of potential‑field logic.
-
-### Why This Algorithm Is the Best Choice
-
-- ✔ **Extremely low CPU usage** — Only a few integer operations per loop.
-- ✔ **No arrays, histograms, or floating‑point math** — Perfect for micro:bit's tiny memory.
-- ✔ **Predictable behavior** — Obstacle avoidance always wins, but only temporarily.
-- ✔ **Easy to tune** — Just adjust a few thresholds.
-- ✔ **Works beautifully with:** compass heading, joystick speed, sonar distance, radio messages.
-- ✔ **Scales to many followers** — Every robot runs the same simple logic.
-
-### How the Hybrid Override Algorithm Works
-
-1. **Normal mode:** Robot follows the leader's heading and speed.
-2. **Override mode:** If an obstacle is detected: temporarily ignore the leader, perform avoidance turn, resume following once clear.
-3. **Smooth blending:** Turn amount = mostly leader heading, but overridden by obstacle avoidance when needed.
-
-This avoids the "twitchy" behavior of pure subsumption and the heavy math of potential fields.
-
-### Behavior Priority Stack
-
-1. Emergency stop (front sonar < 10 cm)
-2. Obstacle avoidance (front sonar < 20 cm)
-3. Follow leader heading (compass alignment)
-4. Apply joystick speed
-
-This is simple, deterministic, and micro:bit‑friendly.
+- ⭐ **Boids**（凝聚力 + 分离 + 对齐）
 
 ---
 
-## 🤖 Follower Code (Hybrid Override)
+## 🏆 最终推荐：混合覆盖
 
-Radio‑controlled heading + speed, with local obstacle avoidance.
+考虑到 micro:bit 非常有限的 RAM、没有浮点硬件和紧张的 CPU 预算，用于组合以下功能的最佳算法：
+
+- 领导者指南针朝向跟随
+- 摇杆速度跟随
+- 局部避障
+
+**不是**那些花哨的学术算法，如 VFH 或 DWA。那些太重了。
+
+适合 micro:bit 约束并对 Robot PU 可靠工作的算法是：
+
+### ⭐ 混合覆盖（跟随-领导者 + 避障覆盖）
+
+这是最简单、最健壮、对微控制器最友好的解决方案。它本质上是包容架构的轻量级版本，带有一点点势场逻辑。
+
+### 为什么这个算法是最佳选择
+
+- ✔ **极低的 CPU 使用率** — 每次循环只需几个整数操作。
+- ✔ **没有数组、直方图或浮点运算** — 完美适配 micro:bit 的微小内存。
+- ✔ **可预测的行为** — 避障总是获胜，但只是暂时的。
+- ✔ **易于调参** — 只需调整几个阈值。
+- ✔ **与以下功能完美配合：** 指南针朝向、摇杆速度、声呐距离、无线电消息。
+- ✔ **可扩展到许多跟随者** — 每个机器人运行相同的简单逻辑。
+
+### 混合覆盖算法如何工作
+
+1. **正常模式：** 机器人跟随领导者的朝向和速度。
+2. **覆盖模式：** 如果检测到障碍物：临时忽略领导者，执行避障转向，清除后恢复跟随。
+3. **平滑混合：** 转向量 = 主要是领导者朝向，但必要时被避障覆盖。
+
+这避免了纯包容架构的"抽搐"行为和势场法的繁重数学。
+
+### 行为优先级栈
+
+1. 紧急停车（前方声呐 < 10cm）
+2. 避障（前方声呐 < 20cm）
+3. 跟随领导者朝向（指南针对齐）
+4. 应用摇杆速度
+
+这是简单、确定性的，且对 micro:bit 友好。
+
+---
+
+## 🤖 跟随者代码（混合覆盖）
+
+无线电控制的朝向 + 速度，带局部避障。
 
 ```typescript
 // -----------------------------
@@ -307,27 +307,27 @@ basic.forever(function () {
 })
 ```
 
-### How This Works
+### 工作原理
 
-**Normal Mode:**
-- Robot aligns its compass to the leader's heading
-- Robot matches the leader's joystick speed
-- Smooth, coordinated swarm movement
+**正常模式：**
+- 机器人将其指南针对准到领导者的朝向
+- 机器人匹配领导者的摇杆速度
+- 平滑、协调的群体运动
 
-**Override Mode:**
-Triggered when sonar detects an obstacle:
-- Emergency stop if dangerously close
-- Avoidance turn if moderately close
-- Leader commands are ignored temporarily
-- Once clear, robot resumes following
+**覆盖模式：**
+当声呐检测到障碍物时触发：
+- 如果危险接近则紧急停车
+- 如果中等接近则避障转向
+- 领导者命令被暂时忽略
+- 一旦清除，机器人恢复跟随
 
-This ensures: Safety, Smoothness, Low CPU usage, Scalability to many followers.
+这确保了：安全性、平滑性、低 CPU 使用率、对多个跟随者的可扩展性。
 
 ---
 
-## 🎮 Leader Robot (Gamepad Controller) Code
+## 🎮 领导者机器人（手柄控制器）代码
 
-Broadcasts heading + speed to all followers.
+向所有跟随者广播朝向 + 速度。
 
 ```typescript
 // -------------------------------------
@@ -356,17 +356,17 @@ basic.forever(function () {
 })
 ```
 
-### How It Works
+### 工作原理
 
-- ✔ **Compass heading** — The leader's orientation becomes the global direction for the swarm.
-- ✔ **Joystick speed** — The leader controls how fast the swarm moves: Push forward → swarm advances, Pull back → swarm reverses, Center → swarm stops.
-- ✔ **Radio broadcast** — Every follower receives the same `"heading,speed"` packet and reacts accordingly.
-- ✔ **Update rate** — 80 ms is a sweet spot: Fast enough for smooth control, slow enough to avoid radio congestion.
+- ✔ **指南针朝向** — 领导者的方向成为群体的全局方向。
+- ✔ **摇杆速度** — 领导者控制群体的移动速度：前推 → 群体前进，后拉 → 群体后退，居中 → 群体停止。
+- ✔ **无线电广播** — 每个跟随者接收相同的 `"heading,speed"` 数据包并相应地做出反应。
+- ✔ **更新频率** — 80ms 是一个最佳值：足够快以实现平滑控制，足够慢以避免无线电拥塞。
 
-### Optional Enhancements
+### 可选增强
 
-- Button A/B to toggle "formation modes"
-- A "stop all robots" emergency broadcast
-- Filtering for smoother joystick control
-- A version that uses tilt control instead of joystick
-- A version that sends leader position (x,y) for formation control
+- 按钮 A/B 切换"编队模式"
+- "停止所有机器人"紧急广播
+- 滤波以实现更平滑的摇杆控制
+- 使用倾斜控制代替摇杆的版本
+- 发送领导者位置 (x,y) 用于编队控制的版本

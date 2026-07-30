@@ -1,26 +1,26 @@
 ---
 sidebar_position: 18
-sidebar_label: 18:Robot PU Actions
+sidebar_label: 18:Robot PU 动作
 ---
 
-# Robot PU Actions
+# Robot PU 动作
 
-## 🤖 Lesson: Robot PU Actions (Asynchronous Motion)
+## 🤖 课程：Robot PU 动作（异步运动）
 
-Most Robot PU actions are designed to be asynchronous to prevent the micro:bit from locking up.
+大多数 Robot PU 动作被设计为异步的，以防止 micro:bit 卡死。
 
-Many motion blocks return a status code:
+许多运动块返回状态码：
 
-- **0**: the action has reached a completion boundary (a "step" / state finished)
-- **1**: the action is still running (keep calling it)
+- **0**：动作已达到完成边界（一个"步" / 状态已完成）
+- **1**：动作仍在运行（继续调用它）
 
-This lets you build "synchronous" behavior yourself by repeatedly calling the action until you observe enough `0` return events.
+这让你可以通过反复调用动作直到观察到足够的 `0` 返回事件来自行构建"同步"行为。
 
 ---
 
-## 1. Action APIs (What you can call)
+## 1. 动作 API（你可以调用的）
 
-### Motion actions (return status number)
+### 运动动作（返回状态数字）
 
 - `robotPu.walk(speed, turn)`
 - `robotPu.sideStep(direction)`
@@ -31,9 +31,9 @@ This lets you build "synchronous" behavior yourself by repeatedly calling the ac
 - `robotPu.rest()`
 - `robotPu.stand()`
 
-### Motion actions (statement versions, return void)
+### 运动动作（语句版本，返回 void）
 
-These are the same actions but do not return a code, so they are harder to sequence precisely:
+这些是相同的动作，但不返回代码，因此更难精确排序：
 
 - `robotPu.walkDo(speed, turn)`
 - `robotPu.sideStepDo(direction)`
@@ -44,34 +44,34 @@ These are the same actions but do not return a code, so they are harder to seque
 - `robotPu.restDo()`
 - `robotPu.standDo()`
 
-### Non-motion actions (usually synchronous)
+### 非运动动作（通常是同步的）
 
 - `robotPu.greet()`
 - `robotPu.talk(text)`
 - `robotPu.sing(text)`
-- `robotPu.setMode(mode)` (switch the internal behavior state machine)
+- `robotPu.setMode(mode)`（切换内部行为状态机）
 
 ---
 
-## 2. Why actions are asynchronous
+## 2. 为什么动作是异步的
 
-A motion like walking or sidestepping is not "one motor command". It is a sequence of body poses that must be updated repeatedly over time.
+像行走或横移这样的运动不是"一个电机指令"。它是一系列身体姿态，必须随时间反复更新。
 
-If a block tried to do the whole motion in one call (blocking), it could:
+如果一个块试图在一次调用中完成整个运动（阻塞式），它可能：
 
-- freeze button/radio events
-- starve background tasks
-- make the whole system feel "locked up"
+- 冻结按钮/无线电事件
+- 饿死后台任务
+- 让整个系统感觉"卡住"
 
-So Robot PU action APIs are designed to be called repeatedly in a loop.
+因此 Robot PU 动作 API 被设计为在循环中反复调用。
 
 ---
 
-## 3. Comparing "synchronous" vs "asynchronous" patterns
+## 3. "同步"与"异步"模式比较
 
-### A. Synchronous (blocking) idea (what we avoid)
+### A. 同步（阻塞）思路（我们避免的）
 
-This is the style that can cause lock-ups:
+这种风格可能导致卡死：
 
 ```typescript
 // (Concept only) A blocking API would look like this.
@@ -79,9 +79,9 @@ This is the style that can cause lock-ups:
 // robotPu.sideStepBlocking(-1)
 ```
 
-### B. Asynchronous (recommended)
+### B. 异步（推荐）
 
-You call the action many times. Each call advances the motion.
+你多次调用该动作。每次调用推进运动。
 
 ```typescript
 let rc = robotPu.walk(2, 0)
@@ -92,11 +92,11 @@ if (rc == 0) {
 
 ---
 
-## 3.5 Example: call walk() 100 times (no return checking)
+## 3.5 示例：调用 walk() 100 次（不检查返回值）
 
-Sometimes you just want to "drive" the motion for a fixed amount of time and you do not care about counting steps.
+有时你只想在固定时间内"驱动"运动，而不关心步数计数。
 
-This pattern ignores the return value and simply calls `walk(...)` repeatedly:
+此模式忽略返回值，仅反复调用 `walk(...)`：
 
 ```typescript
 for (let i = 0; i < 100; i++) {
@@ -106,13 +106,13 @@ for (let i = 0; i < 100; i++) {
 
 ---
 
-## 3.6 JavaScript "function pointers" (callbacks)
+## 3.6 JavaScript"函数指针"（回调）
 
-In JavaScript / TypeScript, you can store a function in a variable and pass it to another function. This is often called a callback (similar idea to a "function pointer" in C).
+在 JavaScript / TypeScript 中，你可以将函数存储在变量中并将其传递给另一个函数。这通常被称为回调（类似于 C 语言中"函数指针"的概念）。
 
-In this lesson we pass a function like `() => number` into helpers such as `doCompletions(...)`.
+在本课程中，我们将类似 `() => number` 的函数传递给诸如 `doCompletions(...)` 的辅助函数。
 
-Example:
+示例：
 
 ```typescript
 function myAction(): number {
@@ -134,22 +134,22 @@ do400Times(myAction)
 do400Times(() => robotPu.walk(2, 0))
 ```
 
-Key idea:
+关键思想：
 
-- `robotPu.walk(2, 0)` calls the function immediately and produces a number.
-- `() => robotPu.walk(2, 0)` produces a function that we can call later, many times.
+- `robotPu.walk(2, 0)` 立即调用函数并产生一个数字。
+- `() => robotPu.walk(2, 0)` 产生一个我们可以在之后多次调用的函数。
 
 ---
 
-## 4. How to "wait for completion" (build synchronous behavior safely)
+## 4. 如何"等待完成"（安全构建同步行为）
 
-The safest pattern is:
+最安全的模式是：
 
-1. Call the action
-2. If it returns `1`, it is still running (keep calling)
-3. When it returns `0`, treat that as a completion boundary for counting
+1. 调用动作
+2. 如果它返回 `1`，说明仍在运行（继续调用）
+3. 当它返回 `0` 时，将其视为用于计数的完成边界
 
-### A. Wait until one completion event
+### A. 等待一个完成事件
 
 ```typescript
 function waitOneCompletion(run: () => number): void {
@@ -160,7 +160,7 @@ function waitOneCompletion(run: () => number): void {
 }
 ```
 
-### B. Count completions inside loops
+### B. 在循环中计数完成次数
 
 ```typescript
 function doCompletions(run: () => number, completions: number): void {
@@ -172,21 +172,21 @@ function doCompletions(run: () => number, completions: number): void {
 }
 ```
 
-Notes:
+注意：
 
-- The meaning of a "completion" depends on the action (it is typically a gait/state boundary).
-- For some gaits, one physical "step" is made of multiple internal states. If your gait uses 2 states per step, then you will see `rc == 0` twice per step.
+- "完成"的含义取决于动作（通常是一个步态/状态边界）。
+- 对于某些步态，一个物理"步"由多个内部状态组成。如果你的步态每步使用 2 个状态，那么你将每步看到 `rc == 0` 两次。
 
 ---
 
-## 5. Final program: walk forward, sidestep left, jump, stand
+## 5. 最终程序：向前行走，向左横移，跳跃，站立
 
-Requirements:
+要求：
 
-- walk forward for 3 steps (if it is 2 states per step, count `return == 0` for 6 times)
-- side step left for 3 steps
-- jump 1 time
-- stand
+- 向前行走 3 步（如果每步 2 个状态，计数 `return == 0` 6 次）
+- 向左横移 3 步
+- 跳跃 1 次
+- 站立
 
 ```typescript
 function doCompletions(run: () => number, completions: number): void {

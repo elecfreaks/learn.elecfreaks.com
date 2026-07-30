@@ -1,61 +1,61 @@
 ---
 sidebar_position: 21
-sidebar_label: 21:Robot PU Object-Oriented Programming
+sidebar_label: 21:Robot PU 面向对象编程
 ---
 
-# Robot PU Object-Oriented Programming
+# Robot PU 面向对象编程
 
-Absolutely — let’s turn your smart‑follower swarm robot into something **clean, modular, and professional** using:
+完全没问题——让我们将你的智能跟随者群体机器人变成**干净、模块化、专业**的代码，使用：
 
-- **Object‑Oriented Programming (OOP)**
-- **Event Handler Design Pattern**
-- **micro:bit event system (`control.raiseEvent`, `control.onEvent`)**
+- **面向对象编程（OOP）**
+- **事件处理器设计模式**
+- **micro:bit 事件系统（`control.raiseEvent`、`control.onEvent`）**
 
-This tutorial is written in the same style as the Robot PU JavaScript tutorials, but introduces real software‑engineering structure so your swarm code becomes easier to maintain, extend, and debug.
+本教程采用与 Robot PU JavaScript 教程系列相同的风格编写，但引入了真正的软件工程结构，使你的群体代码更易于维护、扩展和调试。
 
-## 🤖 Tutorial: Building a Clean Smart‑Follower Robot Using OOP + Event Handlers
+## 🤖 教程：使用 OOP + 事件处理器构建干净的智能跟随者机器人
 
-Robot PU swarm followers need to:
+Robot PU 群体跟随者需要：
 
-- Receive **leader heading + speed**
-- Compute **turn + forward velocity**
-- Perform **obstacle avoidance override**
-- React to **emergency conditions**
-- Run smoothly inside a `forever()` loop
+- 接收**领导者朝向 + 速度**
+- 计算**转向 + 前进速度**
+- 执行**避障覆盖**
+- 响应**紧急情况**
+- 在 `forever()` 循环中平稳运行
 
-The original code works, but it mixes:
+原始代码可以工作，但它混合了：
 
-- radio parsing
-- compass math
-- obstacle logic
-- movement logic
-- state variables
+- 无线电解析
+- 指南针数学
+- 障碍物逻辑
+- 运动逻辑
+- 状态变量
 
-…all in one place.
+……全部在一个地方。
 
-Let’s clean it up using **classes** and **event‑driven architecture**.
+让我们使用**类**和**事件驱动架构**来清理它。
 
-## 🧱 1. Architecture Overview
+## 🧱 1. 架构概述
 
-We'll split the follower into four components:
+我们将跟随者拆分为四个组件：
 
-1. **RadioFollower**
+1. **RadioFollower（无线电跟随者）**
 
-Listens for radio messages and raises events.
+监听无线电消息并触发事件。
 
-2. **NavigationController**
+2. **NavigationController（导航控制器）**
 
-Computes turn + speed based on leader heading.
+根据领导者朝向计算转向 + 速度。
 
-3. **ObstacleAvoidance**
+3. **ObstacleAvoidance（避障）**
 
-Monitors sonar and raises emergency/avoidance events.
+监控声呐并触发紧急/避障事件。
 
-4. **SmartFollower**
+4. **SmartFollower（智能跟随者）**
 
-The main robot class that reacts to events and drives the robot.
+主机器人类，响应事件并驱动机器人。
 
-This gives us a clean, modular system:
+这为我们提供了一个干净、模块化的系统：
 
 ``` typescript
 Radio → Events → SmartFollower → Movement
@@ -64,9 +64,9 @@ Sonar → Events → SmartFollower → Movement
 
 ---
 
-## 🧩 2. Define Event IDs
+## 🧩 2. 定义事件 ID
 
-We use the micro:bit event system.
+我们使用 micro:bit 事件系统。
 
 ```typescript
 const EVT_FOLLOWER = 7001
@@ -77,13 +77,13 @@ const EVT_EMERGENCY = 3
 
 ---
 
-## 📡 3. RadioFollower Class
+## 📡 3. RadioFollower 类
 
-Responsible for:
+负责：
 
-- Receiving `"heading,speed"`
-- Parsing
-- Raising an update event
+- 接收 `"heading,speed"`
+- 解析
+- 触发更新事件
 
 ```typescript
 class RadioFollower {
@@ -105,9 +105,9 @@ class RadioFollower {
 
 ---
 
-## 🧭 4. NavigationController Class
+## 🧭 4. NavigationController 类
 
-Computes turn + speed from leader heading.
+根据领导者朝向计算转向 + 速度。
 
 ```typescript
 class NavigationController {
@@ -134,9 +134,9 @@ class NavigationController {
 
 ---
 
-## 🧱 5. ObstacleAvoidance Class
+## 🧱 5. ObstacleAvoidance 类
 
-Monitors sonar and raises events.
+监控声呐并触发事件。
 
 ```typescript
 class ObstacleAvoidance {
@@ -159,9 +159,9 @@ class ObstacleAvoidance {
 
 ---
 
-## 🤖 6. SmartFollower Class (Main Robot)
+## 🤖 6. SmartFollower 类（主机器人）
 
-This class reacts to events and drives the robot.
+此类响应事件并驱动机器人。
 
 ```typescript
 class SmartFollower {
@@ -196,7 +196,7 @@ class SmartFollower {
 
 ---
 
-## 🚀 7. Putting It All Together
+## 🚀 7. 全部整合在一起
 
 ```typescript
 radio.setGroup(42)
@@ -207,36 +207,36 @@ let avoid = new ObstacleAvoidance()
 let follower = new SmartFollower(radioFollower, nav)
 ```
 
-That's it — the follower now runs cleanly, modularly, and event‑driven.
+就是这样——跟随者现在可以干净、模块化、事件驱动地运行了。
 
 
-## 🎉 What You Just Built
+## 🎉 你刚刚构建了什么
 
-You now have a professional‑grade swarm follower:
+你现在拥有一个专业级的群体跟随者：
 
-✔ **Object‑oriented**
+✔ **面向对象**
 
-Each responsibility is isolated in its own class.
+每个职责都隔离在自己的类中。
 
-✔ **Event‑driven**
+✔ **事件驱动**
 
-No giant `forever()` loop doing everything.
+没有做所有事情的大型 `forever()` 循环。
 
-✔ **Clean separation of concerns:**
+✔ **清晰的关注点分离：**
 
-- Radio parsing
-- Navigation math
-- Obstacle avoidance
-- Robot movement
+- 无线电解析
+- 导航数学
+- 避障
+- 机器人运动
 
-✔ **Easy to extend**
+✔ **易于扩展**
 
-You can add:
+你可以添加：
 
-- formation control
-- spacing rules
-- smoother avoidance
-- filtering
-- logging
+- 编队控制
+- 间距规则
+- 更平滑的避障
+- 滤波
+- 日志记录
 
-without touching the core logic.
+而不触及核心逻辑。

@@ -1,259 +1,259 @@
 ---
 sidebar_position: 24
-sidebar_label: 24:Robot PU Improved Balance
+sidebar_label: 24:Robot PU 改进平衡
 ---
 
-# Robot PU Improved Balance
+# Robot PU 改进平衡
 
-You’re asking the right question—once you have **noise + unknown delay**, plain PID starts to hit its limits.
+你问到了正确的问题——一旦你有了**噪声 + 未知延迟**，纯 PID 就开始达到其极限。
 
-Short answer:
+简短回答：
 
-- **Kalman filter alone is not a controller**—it’s an estimator.
-- A better architecture is: **state estimator (e.g., Kalman or complementary filter) + a controller designed for delay (e.g., PD/LQR with prediction)**.
+- **卡尔曼滤波器本身不是控制器**——它是一个估计器。
+- 更好的架构是：**状态估计器（如卡尔曼或互补滤波器）+ 为延迟设计的控制器（如 PD/LQR 加预测）**。
 
-Let’s unpack that in a practical way.
+让我们以实用的方式展开说明。
 
-## 1. What’s actually hurting PID here?
+## 1. 这里到底是什么在伤害 PID？
 
-**Two big problems:**
+**两个大问题：**
 
-- **Noisy measurements:**
+- **噪声测量：**
 
-Derivative term explodes with noise, integral term integrates junk, proportional term chases random spikes.
+微分项因噪声而爆炸，积分项积分垃圾信号，比例项追逐随机尖峰。
 
-- **Unknown delay:**
+- **未知延迟：**
 
-By the time you react, the robot has already moved on. PID assumes “now” measurements; delay eats phase margin and causes oscillation or instability.
+当你做出反应时，机器人已经移动了。PID 假设"现在"的测量值；延迟吞噬相位裕度并导致振荡或不稳定。
 
-So even a beautifully tuned PID will feel “late and twitchy.”
+因此即使是精心调参的 PID 也会感觉"迟缓且抽搐"。
 
-## 2. Where Kalman filter fits (and where it doesn’t)
+## 2. 卡尔曼滤波器适合哪里（以及不适合哪里）
 
-A **Kalman filter** is great for:
+**卡尔曼滤波器**非常适合：
 
-- Fusing multiple sensors (e.g., accelerometer + gyro)
-- Estimating **true roll/pitch** and their rates
-- Reducing noise and handling some delay by modeling system dynamics
+- 融合多个传感器（例如，加速度计 + 陀螺仪）
+- 估计**真实 roll/pitch** 及其速率
+- 通过建模系统动力学来降低噪声并处理一些延迟
 
-But:
+但是：
 
-It **does not decide** what control action to take.
-It just gives you a better estimate of the robot’s state.
+它**不决定**采取什么控制动作。
+它只是给你一个更好的机器人状态估计。
 
-So the real upgrade is:
+因此真正的升级是：
 
-**Better state estimate (Kalman) + smarter controller (not just naive PID).**
+**更好的状态估计（卡尔曼）+ 更智能的控制器（不仅仅是朴素的 PID）。**
 
-## 3. A strong practical upgrade path
+## 3. 一个强大的实用升级路径
 
-For a small robot like PU, with limited compute, I’d rank options like this:
+对于像 PU 这样计算能力有限的小型机器人，我会这样排列选项：
 
-**Option A: Complementary filter + PD (simple, very effective)**
+**选项 A：互补滤波器 + PD（简单、非常有效）**
 
-- **Complementary filter** to combine gyro (fast, noisy) + accelerometer (slow, stable):
+- **互补滤波器**组合陀螺仪（快速、有噪声）+ 加速度计（缓慢、稳定）：
 
-    - High‑pass gyro, low‑pass accelerometer
+    - 高通陀螺仪，低通加速度计
 
-- Use filtered roll/pitch in a **PD controller** (no integral).
+- 在 **PD 控制器**中使用滤波后的 roll/pitch（无积分项）。
 
-- Why it’s better than PID:
+- 为什么比 PID 更好：
 
-    - Less sensitive to noise
-    - Less trouble with delay
-    - Easier to tune and more stable for balancing tasks
+    - 对噪声不那么敏感
+    - 延迟问题较少
+    - 更容易调参，对平衡任务更稳定
 
-This is what a lot of hobby drones and small balancing bots use.
+这是许多业余无人机和小型平衡机器人使用的方法。
 
-**Option B: Kalman filter + PD or LQR (more advanced)**
+**选项 B：卡尔曼滤波器 + PD 或 LQR（更高级）**
 
-- Use a **Kalman filter** to estimate:
-    - Angle (roll/pitch)
-    - Angular velocity
-- Then use:
+- 使用**卡尔曼滤波器**估计：
+    - 角度（roll/pitch）
+    - 角速度
+- 然后使用：
 
-    - **PD** on angle + angular rate, or
-    - **LQR** (Linear Quadratic Regulator) if you have a simple state‑space model.
+    - 基于角度 + 角速度的**PD**，或
+    - **LQR**（线性二次调节器），如果你有一个简单的状态空间模型。
 
-- Benefits:
-    - Very clean state estimate
-    - Controller can explicitly use angle and rate
-    - Better robustness to noise and some delay
+- 好处：
+    - 非常干净的状态估计
+    - 控制器可以显式使用角度和速率
+    - 对噪声和一些延迟有更好的鲁棒性
 
-This is a big step up from raw PID on noisy, delayed angles.
+这比在有噪声、延迟的角度上使用原始 PID 是一个巨大的进步。
 
-## 4. Dealing specifically with delay
+## 4. 专门处理延迟
 
-If delay is significant (e.g., sensor filtering + communication + servo lag), you want **predictive behavior**, not just reactive:
+如果延迟显著（例如，传感器滤波 + 通信 + 舵机滞后），你需要**预测行为**，而不仅仅是反应：
 
-- **Smith predictor–style control:**
+- **Smith 预测器风格控制：**
 
-    - Use a model of the robot to predict what the state will be when the command takes effect.
+    - 使用机器人模型预测当命令生效时状态将是什么。
 
-- **Model Predictive Control (MPC):**
+- **模型预测控制（MPC）：**
 
-    - Overkill for micro:bit in most cases, but conceptually ideal: it optimizes future actions given delay and constraints.
+    - 在大多数情况下对 micro:bit 来说大材小用，但在概念上是理想的：它在给定延迟和约束的情况下优化未来动作。
 
-For PU, a **lightweight prediction** (e.g., using angular velocity to project angle a few milliseconds ahead) combined with PD is often enough.
+对于 PU，一个**轻量级预测**（例如，使用角速度向前投影角度几毫秒）结合 PD 通常就足够了。
 
-## 5. So what’s “better than PID” for Robot PU?
+## 5. 那么对于 Robot PU 来说什么"比 PID 更好"？
 
-If we stay realistic about compute and complexity:
+如果我们对计算和复杂性保持现实：
 
-1. **Best practical step up from PID:**
+1. **从 PID 升级的最佳实践步骤：**
 
-    - **Complementary or Kalman filter** for roll/pitch estimation
-    - **PD controller** on filtered angle + angular rate
-    - Optional small prediction using angular rate to compensate delay
+    - **互补或卡尔曼滤波器**用于 roll/pitch 估计
+    - 基于滤波后角度 + 角速率的**PD 控制器**
+    - 可选的使用角速度进行小预测以补偿延迟
 
-2. **If you’re willing to model the robot:**
+2. **如果你愿意对机器人建模：**
 
-    - Build a simple **state‑space model** (angle, angular rate)
-    - Use **Kalman filter** for state estimation
-    - Use **LQR** for control (this combo is called **LQG**: Linear Quadratic Gaussian)
+    - 构建简单的**状态空间模型**（角度、角速率）
+    - 使用**卡尔曼滤波器**进行状态估计
+    - 使用**LQR**进行控制（这种组合称为**LQG**：线性二次高斯）
 
-That’s a genuinely more powerful architecture than PID, especially under **noise + delay**.
+在**噪声 + 延迟**条件下，这是真正比 PID 更强大的架构。
 
-We cannot afford too much complexity. (“micro:bit‑level, no heavy math” vs “heavy state‑space and matrices”), we have to pick a concrete simple design:
+我们负担不起太多复杂性。("micro:bit 级别，无重型数学" vs "重型状态空间和矩阵")，我们必须选择一个具体简单的设计：
 
-- either **ComplementaryFilter + PD** for PU, or
-- a minimal **Kalman + LQR** tailored to its body pitch/roll.
+- 要么为 PU 选择 **互补滤波器 + PD**，要么
+- 一个最小化的**卡尔曼 + LQR**，针对其身体 pitch/roll 量身定制。
 
-If you want something **better than PID** but still **micro:bit‑friendly—meaning** no matrices, no state‑space math, no heavy computation—there is a sweet spot. You can get a big stability upgrade without going anywhere near “real” Kalman filters or LQR.
+如果你想要**比 PID 更好**但仍然**对 micro:bit 友好——意味着**没有矩阵、没有状态空间数学、没有重型计算——存在一个最佳点。你可以获得巨大的稳定性升级，而无需接近"真正的"卡尔曼滤波器或 LQR。
 
-Here’s the practical path that works beautifully on tiny robots:
+以下是适用于微型机器人的实用路径：
 
-## 🌟 The Best “Better‑Than‑PID” Algorithm for Micro:bit
-### Complementary Filter + PD + Simple Prediction
-This combo is used in many small balancing robots and even early quadcopters because it’s:
+## 🌟 针对 Micro:bit 的最佳"优于 PID"算法
+### 互补滤波器 + PD + 简单预测
+这种组合被用于许多小型平衡机器人和早期四轴飞行器，因为它：
 
-- extremely light on CPU
-- robust to noise
-- tolerant of delay
-- easy to tune
-- dramatically smoother than PID
-- Let’s break it down.
+- CPU 消耗极低
+- 对噪声鲁棒
+- 容忍延迟
+- 易于调参
+- 比 PID 平滑得多
+- 让我们来分解它。
 
-## 1. 🎚️ Complementary Filter (instead of Kalman)
-A Kalman filter is powerful, but it’s too heavy for micro:bit unless you simplify it so much that it becomes… a complementary filter.
+## 1. 🎚️ 互补滤波器（代替卡尔曼）
+卡尔曼滤波器很强大，但对 micro:bit 来说太重了，除非你简化它到……变成一个互补滤波器。
 
-A complementary filter fuses:
+互补滤波器融合：
 
-- **accelerometer angle** (slow but stable)
-- **gyro rate** (fast but noisy)
+- **加速度计角度**（慢但稳定）
+- **陀螺仪速率**（快但有噪声）
 
-into a clean, low‑noise, low‑delay estimate:
+为干净、低噪声、低延迟的估计：
 
 ```JS
 angle = α * (angle + gyroRate * dt) + (1 - α) * accelAngle
 ```
 
-Where α is around **0.95**.
+其中 α 约为 **0.95**。
 
-This gives you:
+这为你提供：
 
-- smooth angle
-- smooth angular velocity
-- minimal delay
-- no heavy math
+- 平滑的角度
+- 平滑的角速度
+- 最小的延迟
+- 无重型数学
 
-This alone fixes 80% of PID’s problems.
+仅此一项就修复了 PID 80% 的问题。
 
-## 2. 🎛️ PD Controller (not PID)
-Once you have a clean angle estimate, you don’t need the integral term anymore.
+## 2. 🎛️ PD 控制器（不是 PID）
+一旦你有了干净的角度估计，你就不再需要积分项了。
 
-Why drop the “I”?
+为什么去掉"I"？
 
-- Integral amplifies noise
-- Integral hates delay
-- Integral causes overshoot
-- Integral is unnecessary if your angle estimate is clean
+- 积分放大了噪声
+- 积分厌恶延迟
+- 积分导致超调
+- 如果你的角度估计干净，积分是不必要的
 
-So the controller becomes:
+因此控制器变为：
 
 ```JS
 output = Kp * angleError + Kd * angleRate
 ```
 
-This is exactly how small drones stabilize.
+这正是小型无人机稳定的方式。
 
-### 3. ⏱️ Simple Prediction (delay compensation)
+### 3. ⏱️ 简单预测（延迟补偿）
 
-If your sensors or servos have delay, you can “look ahead” a tiny bit using the angular rate:
+如果你的传感器或舵机有延迟，你可以使用角速度向前"看"一点点：
 ```JS
 predictedAngle = angle + angleRate * predictionTime
 ```
-Where predictionTime is tiny, like **20–40 ms**.
+其中 predictionTime 很小，如 **20–40ms**。
 
-This makes the robot feel like it reacts before it falls.
+这让机器人感觉像在摔倒之前就做出了反应。
 
-### 4. 🧠 Why this beats PID on micro:bit
+### 4. 🧠 为什么这在 micro:bit 上打败 PID
 
-| Problem | PID | Complementary + PD + Prediction |
-|---------|-----|--------------------------------|
-| Noisy accelerometer | D explodes | Filter removes noise |
-| Unknown delay | Causes oscillation | Prediction compensates |
-| Limited CPU | PID OK but noisy | Complementary filter is ultra‑light |
-| Hard to tune | Yes | Very easy |
-| Smoothness | Medium | Excellent |
+| 问题 | PID | 互补 + PD + 预测 |
+|------|-----|-------------------|
+| 有噪声的加速度计 | D 爆炸 | 滤波器去除噪声 |
+| 未知延迟 | 导致振荡 | 预测补偿 |
+| 有限的 CPU | PID 可以但噪声大 | 互补滤波器超轻量 |
+| 难以调参 | 是的 | 非常容易 |
+| 平滑度 | 中等 | 优秀 |
 
-This is the “secret sauce” used in many microcontroller balancing bots.
+这是许多微控制器平衡机器人使用的"秘密配方"。
 
-### 5. 🧩 What the code structure looks like (conceptually)
+### 5. 🧩 代码结构看起来像什么（概念上）
 
-**Step 1: Compute filtered angle**
+**步骤 1：计算滤波后的角度**
 
 `angle = alpha * (angle + gyroRate * dt) + (1 - alpha) * accelAngle`
 
-**Step 2: Predict future angle**
+**步骤 2：预测未来角度**
 
 `anglePred = angle + gyroRate * predictTime`
 
-**Step 3: PD control**
+**步骤 3：PD 控制**
 
 ``error = targetAngle - anglePred``
 ``output = Kp * error + Kd * gyroRate``
 
-**Step 4: Apply to gait vector**
+**步骤 4：应用到步态向量**
 
 ``robotPu.runKeyValueCommand("#puroll", output)``
 
-This is all micro:bit‑friendly.
+这一切都对 micro:bit 友好。
 
-### 6. 🏁 Summary: The best algorithm for Robot PU
+### 6. 🏁 总结：Robot PU 的最佳算法
 
-If you want something **better than PID** but still **simple enough for MakeCode**, use:
+如果你想要**比 PID 更好**但仍然**对 MakeCode 足够简单**，使用：
 
-**✔ Complementary filter**
+**✔ 互补滤波器**
 
-**✔ PD controller**
+**✔ PD 控制器**
 
-**✔ Small prediction term**
+**✔ 小预测项**
 
-This gives you:
+这为你提供：
 
-- smoother balancing
-- less oscillation
-- better noise rejection
-- better delay handling
-- easier tuning
-- no heavy math
+- 更平滑的平衡
+- 更少的振荡
+- 更好的噪声抑制
+- 更好的延迟处理
+- 更容易调参
+- 无重型数学
 
-It’s the perfect upgrade path for Robot PU.
+这是 Robot PU 的完美升级路径。
 
-Absolutely — here is a **complete, micro:bit‑friendly MakeCode TypeScript implementation** of the improved balancing algorithm:
+完全没问题——以下是改进平衡算法的**完整、对 micro:bit 友好的 MakeCode TypeScript 实现**：
 
-- **Complementary filter** (lightweight alternative to Kalman)
-- **PD controller** (no integral term, so no windup)
-- **Simple prediction** to compensate unknown delay
-- **Output clamping** for safety
-- **Drop‑in replacement** for `moveBalance()`
+- **互补滤波器**（卡尔曼的轻量替代方案）
+- **PD 控制器**（无积分项，因此无饱和问题）
+- **简单预测**以补偿未知延迟
+- **输出钳制**以确保安全
+- 可直接替换 `moveBalance()`
 
-This version is designed to run efficiently on the micro:bit and fits naturally into the Robot PU codebase.
+此版本设计为在 micro:bit 上高效运行，并自然融入 Robot PU 代码库。
 
-## ✅ Full MakeCode TypeScript Implementation
+## ✅ 完整 MakeCode TypeScript 实现
 
-### Complementary Filter + PD + Prediction
+### 互补滤波器 + PD + 预测
 ```JS
 // ---------------------------------------------
 // Tunable parameters
@@ -346,24 +346,24 @@ export function moveBalance(
 }
 ```
 
-## 🎉 What this implementation gives you
+## 🎉 此实现为你提供了什么
 
-**✔ Smooth, low‑noise angle estimation**
+**✔ 平滑、低噪声的角度估计**
 
-The complementary filter removes accelerometer noise and reduces delay.
+互补滤波器去除加速度计噪声并减少延迟。
 
-**✔ Stable, predictable balancing**
+**✔ 稳定、可预测的平衡**
 
-PD control avoids the oscillation and overshoot that PID often causes on micro:bit.
+PD 控制避免了 PID 在 micro:bit 上经常引起的振荡和超调。
 
-**✔ Delay compensation**
+**✔ 延迟补偿**
 
-The prediction step makes PU react before it visibly tilts.
+预测步骤使 PU 在明显倾斜之前就做出反应。
 
-**✔ Safe for servos**
+**✔ 对舵机安全**
 
-Output clamping prevents extreme gait commands.
+输出钳制防止极端的步态命令。
 
-**✔ Micro:bit‑efficient**
+**✔ Micro:bit 高效**
 
-No matrices, no heavy math, no dynamic allocation.
+没有矩阵，没有重型数学，没有动态分配。

@@ -5,19 +5,19 @@ sidebar_label: 11:Robot PU MusicLib
 
 # 11:Robot PU MusicLib
 
-## Lesson: MusicLib Beat + Tempo Detection (Syncing Artistic Moves)
-### Introduction
-Robot PU can look artistic when its body motion is synchronized to music.
+## 课程：MusicLib节拍+速度检测（同步艺术动作）
+### 引言
+Robot PU在其身体运动与音乐同步时可以看起来很艺术。
 
-On micro:bit, the microphone gives you l**oudness** (amplitude) via `input.soundLevel()`.
+在micro:bit上，麦克风通过 `input.soundLevel()` 提供**响度**（振幅）。
 
-This lesson focuses on rhythm:
+本课聚焦于节奏：
 
-- detect **beats**
-- estimate **tempo (BPM)**
-- sync **dance / body movements** to those beats
+- 检测**节拍**
+- 估算**速度（BPM）**
+- 将**舞蹈/身体运动**同步到这些节拍
 
-### Knowledge
+### 知识点
 
 [https://makecode.microbit.org/types/array](https://makecode.microbit.org/types/array)
 
@@ -29,43 +29,43 @@ This lesson focuses on rhythm:
 
 [https://en.wikipedia.org/wiki/Quasi-peak_detector](https://en.wikipedia.org/wiki/Quasi-peak_detector)
 
-### Problem definition
+### 问题定义
 
-We want Robot PU to:
+我们希望Robot PU能够：
 
-- detect when a beat happens (clap/drum hit/strong rhythm)
-- estimate tempo so the robot can stay “in time”
-- trigger bigger motion on beats and smaller motion between beats
+- 检测节拍何时发生（拍手/鼓击/强烈节奏）
+- 估算速度使机器人保持"合拍"
+- 在拍子上触发较大的动作，在拍子之间触发较小的动作
 
-Constraints:
+约束条件：
 
-- `input.soundLevel()` is amplitude-only, so we can do beat/tempo well.
-- detecting true musical pitch/notes from room audio is not reliable with `soundLevel` alone.
+- `input.soundLevel()` 仅提供振幅，因此我们可以很好地做节拍/速度检测。
+- 仅凭 `soundLevel` 从房间音频中检测真实的音乐音高/音符是不可靠的。
 
-### Basic diea of solutions
+### 基本解决思路
 
-There are two practical approaches:
+有两种实用的方法：
 
-- **Internal `MusicLib`** (extension development)
-    - uses a ring buffer + adaptive threshold
-    - outputs a beat event and a smoothed period
-- **MakeCode-friendly beat detector** (normal projects)
-    - threshold + cooldown to avoid double-triggering
-    - smooth the measured beat period
+- **内部 `MusicLib`**（扩展开发）
+    - 使用环形缓冲区+自适应阈值
+    - 输出节拍事件和平滑的周期
+- **MakeCode友好的节拍检测器**（普通项目）
+    - 阈值+冷却时间避免双重触发
+    - 平滑测量的节拍周期
 
-Once we have beats + tempo:
+一旦我们有了节拍+速度：
 
-- compute `BPM ≈ 60000 / periodMs`
-- use a **beat clock** to schedule motion accents
+- 计算 `BPM ≈ 60000 / periodMs`
+- 使用**节拍时钟**调度动作重音
 
-### Arrays in MakeCode (useful for music + tempo)
-Arrays let you store a sequence of values, like:
+### MakeCode中的数组（对音乐+速度有用）
+数组让你存储一系列值，比如：
 
-- recent loudness samples
-- recent beat periods (ms)
-- a musical track: arrays of `freqs[]` + `dursMs[]`
+- 最近的响度样本
+- 最近的节拍周期（毫秒）
+- 音乐音轨：`freqs[]` + `dursMs[]` 数组
 
-## A. Creating and indexing arrays
+## A. 创建和索引数组
 
 ```js
 let freqs: number[] = [262, 294, 330, 349]
@@ -75,12 +75,12 @@ basic.showNumber(freqs[0])
 basic.showNumber(dursMs[3])
 ```
 
-**Notes:**
+**注意：**
 
-- Array indexes start at `0`
-- `freqs.length` is the number of elements
+- 数组索引从 `0` 开始
+- `freqs.length` 是元素数量
 
-## B. Looping over arrays (play a short tune)
+## B. 循环遍历数组（播放简短的曲调）
 
 ```js
 function playToneSequence(freqs: number[], dursMs: number[]): void {
@@ -95,7 +95,7 @@ function playToneSequence(freqs: number[], dursMs: number[]): void {
 
 playToneSequence([262, 294, 330, 0, 330], [200, 200, 400, 120, 400])
 ```
-## C. Building arrays over time (collect beat periods)
+## C. 随时间构建数组（收集节拍周期）
 
 ```js
 let periods: number[] = []
@@ -116,75 +116,75 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-**Notes:**
+**注意：**
 
-- `periods.push(value)` appends an item
-- If you keep pushing forever, memory can grow. For long-running programs, prefer a fixed-size ring buffer (next section).
+- `periods.push(value)` 追加一个项目
+- 如果一直追加，内存会增长。对于长时间运行的程序，推荐使用固定大小的环形缓冲区（下一节）。
 
-## Sub-sampling, Nyquist rule, and choosing bucket + ring buffer sizes
+## 子采样、奈奎斯特定理和选择桶+环形缓冲区大小
 
-Because `input.soundLevel()` is already an amplitude/envelope value (not raw audio samples), we usually do **sub-sampling**:
+由于 `input.soundLevel()` 已经是振幅/包络值（而非原始音频样本），我们通常做**子采样**：
 
-- sample loudness every `bucketMs`
-- optionally average (or peak) within a bucket
-- run beat detection on that lower-rate signal
+- 每 `bucketMs` 采样一次响度
+- 可选地在桶内取平均（或峰值）
+- 在那个较低速率的信号上运行节拍检测
 
-This is much cheaper than true audio processing, and it’s the right tool when you only care about **tempo**.
+这比真正的音频处理便宜得多，而且当你只关心**速度**时是正确的工具。
 
 
-### A. Nyquist rule (applied to beats/tempo, not pitch)
-Nyquist says: to measure a signal with maximum frequency `fMax`, you need a sampling rate `fs > 2 * fMax`.
+### A. 奈奎斯特定理（应用于节拍/速度，而非音高）
+奈奎斯特定理说：要测量最大频率为 `fMax` 的信号，你需要采样率 `fs > 2 * fMax`。
 
-For tempo:
+对于速度：
 
-- `BPM` corresponds to beat frequency in Hz: `fBeat = BPM / 60`
-- for `BPM_MAX = 300`, `fBeatMax = 300 / 60 = 5 Hz`
-- Nyquist requirement: `fs > 10 Hz` => `bucketMs < 100 ms`
+- `BPM` 对应于以Hz为单位的节拍频率：`fBeat = BPM / 60`
+- 对于 `BPM_MAX = 300`，`fBeatMax = 300 / 60 = 5 Hz`
+- 奈奎斯特要求：`fs > 10 Hz` => `bucketMs < 100 ms`
 
-So if you want to reliably detect up to **300 BPM**, pick a bucket/sample interval of about:
+因此，如果你想可靠地检测高达**300 BPM**的速度，选择约：
 
-- `bucketMs = 50` (20 Hz) recommended when you can afford it
-- `bucketMs = 80` (12.5 Hz) usually OK
-- `ucketMs = 125` (8 Hz) can work for slower music, but it is below Nyquist for 300 BPM and may miss fast beats
+- `bucketMs = 50`（20 Hz）—— 能力允许时推荐
+- `bucketMs = 80`（12.5 Hz）—— 通常可以
+- `bucketMs = 125`（8 Hz）—— 对于较慢的音乐可以，但低于300 BPM的奈奎斯特要求，可能会错过快速节拍
 
-Important:
+重要：
 
-- This Nyquist reasoning is about the **beat event rate**, not musical note pitch.
+- 这个奈奎斯特推理是关于**节拍事件速率**，而非音符音高。
 
-### B. Tempo range 25–300 BPM => period range
+### B. 速度范围25–300 BPM => 周期范围
 
 - `BPM_MIN = 25` => `periodMaxMs = 60000 / 25 = 2400 ms`
 - `BPM_MAX = 300` => `periodMinMs = 60000 / 300 = 200 ms`
 
-Your detector should reject impossible periods (too small/too large) to reduce false triggers.
+你的检测器应该拒绝不可能的周期（太小/太大）以减少误触发。
 
-### C. Ring buffer window length (how many buckets?)
+### C. 环形缓冲区窗口长度（多少桶？）
 
-Ring buffer size is mainly about **stability vs latency**:
+环形缓冲区大小主要关乎**稳定性vs延迟**：
 
-- bigger window = more stable threshold / smoother tempo
-- smaller window = reacts faster to tempo changes
+- 更大的窗口 = 更稳定的阈值/更平滑的速度
+- 更小的窗口 = 对速度变化反应更快
 
-Rule of thumb:
+经验法则：
 
-- to estimate tempo near the slow end (25 BPM), try to keep at least ~3 beats in your history
+- 要估算接近慢速端（25 BPM）的速度，尝试在你的历史中保持至少~3拍
 - `3 * periodMaxMs = 3 * 2400 = 7200 ms`
 
-So a good starting point is:
+所以一个好的起点是：
 
-- `windowMs = 8000` to `12000`
+- `windowMs = 8000` 到 `12000`
 
-Then compute:
+然后计算：
 
 - `ringSize = windowMs / bucketMs`
 
-Examples:
+示例：
 
 - `bucketMs=50`, `windowMs=8000` => `ringSize=160`
 - `bucketMs=80`, `windowMs=8000` => `ringSize=100`
 - `bucketMs=100`, `windowMs=8000` => `ringSize=80`
 
-### D. Suggested constants (MakeCode TypeScript)
+### D. 建议的常量（MakeCode TypeScript）
 
 ```js
 const BPM_MIN = 25
@@ -193,39 +193,39 @@ const BPM_MAX = 300
 const PERIOD_MIN_MS = Math.idiv(60000, BPM_MAX) // 200ms
 const PERIOD_MAX_MS = Math.idiv(60000, BPM_MIN) // 2400ms
 
-// Choose bucketMs so bucketMs < 100ms to satisfy Nyquist for 300 BPM
+// 选择 bucketMs 使 bucketMs < 100ms 以满足300 BPM的奈奎斯特要求
 const BUCKET_MS = 50
 
-// Keep ~3 slow beats worth of history for stability at 25 BPM
+// 为25 BPM的稳定性保留~3个慢拍的历史
 const WINDOW_MS = 8000
 const RING_SIZE = Math.idiv(WINDOW_MS, BUCKET_MS)
 
-// Typical beat cooldown: prevents double-triggering on the same beat
+// 典型节拍冷却时间：防止在同一拍子上双重触发
 const COOLDOWN_MS = Math.max(100, Math.idiv(PERIOD_MIN_MS, 2))
 ```
 
-**Notes:**
+**注意：**
 
-- If CPU load is high, try `BUCKET_MS = 80` first (and recompute `RING_SIZE`).
-- If you want faster response to tempo changes, reduce `WINDOW_MS` (but keep it above ~7200ms if you care about 25 BPM stability).
+- 如果CPU负载高，先尝试 `BUCKET_MS = 80`（并重新计算 `RING_SIZE`）。
+- 如果你希望对速度变化反应更快，减少 `WINDOW_MS`（但如果关心25 BPM的稳定性，保持在~7200ms以上）。
 
 
-## Implementation
+## 实现
 
-### A. Using the internal MusicLib (extension development)
-The Robot PU extension has an internal helper `MusicLib` (defined in `robotpu.ts`).
+### A. 使用内部MusicLib（扩展开发）
+Robot PU扩展有一个内部辅助类 `MusicLib`（在 `robotpu.ts` 中定义）。
 
-It provides:
+它提供：
 
 - `isABeat(timestampMs, loudness, snr, sampleMs = 125): boolean`
-- `period (ms)`: estimated time between beats
+- `period (ms)`：估计的拍间时间
 
-Important:
+重要：
 
-- `MusicLib` is **not exported as a public MakeCode block API**.
-- You can only instantiate `new MusicLib()` if you are editing/running code inside the extension source.
+- `MusicLib` **不作为公共MakeCode积木API导出**。
+- 只有在你编辑/运行扩展源代码内部的代码时，才能实例化 `new MusicLib()`。
 
-Example (extension dev):
+示例（扩展开发）：
 
 ```js
 let now = 0
@@ -248,7 +248,7 @@ basic.forever(function () {
 })
 ```
 
-Example program can be downloaded from
+示例程序可从以下下载
 
 [https://makecode.microbit.org/_0qMPvR9cjRu5](https://makecode.microbit.org/_0qMPvR9cjRu5)
 
@@ -271,8 +271,8 @@ Example program can be downloaded from
     />
 </div>
 
-### B. MakeCode-friendly beat detector (public projects)
-If you are writing a normal MakeCode project, implement a simple beat detector yourself:
+### B. MakeCode友好的节拍检测器（公共项目）
+如果你在编写普通的MakeCode项目，自己实现一个简单的节拍检测器：
 
 ```js
 
@@ -281,7 +281,7 @@ let periodMs = 500
 let threshold = 140
 
 function onBeat(now: number): void {
-    // period estimate (smoothed)
+    // 周期估计（平滑）
     const newPeriod = now - lastBeatMs
     if (newPeriod > 150 && newPeriod < 2000) {
         periodMs = (periodMs * 3 + newPeriod) / 4
@@ -293,7 +293,7 @@ basic.forever(function () {
     const now = control.millis()
     const s = input.soundLevel()
 
-    // Cooldown prevents double triggers
+    // 冷却时间防止双重触发
     if (s > threshold && (now - lastBeatMs) > periodMs * 0.4) {
         onBeat(now)
         led.toggle(2, 2)
@@ -302,32 +302,32 @@ basic.forever(function () {
 
 ```
 
-## Technical explanation
+## 技术解释
 
-### A. Beat detection
-Beat detection from loudness is typically:
+### A. 节拍检测
+从响度检测节拍通常是：
 
-- measure loudness
-- detect peaks (above threshold)
-- add a cooldown (so a single hit doesn’t count twice)
+- 测量响度
+- 检测峰值（超过阈值）
+- 添加冷却时间（防止一次击打计数两次）
 
-## Peak detection (local maxima + hysteresis)
+## 峰值检测（局部最大值+迟滞）
 
-The simplest detector uses a single threshold:
+最简单的检测器使用单一阈值：
 
 - `if (s > threshold) => beat`
 
-But in real audio, a beat “hit” often stays loud for several samples, which can create double-triggers.
+但在真实音频中，一个节拍"击打"通常在几个采样中保持响亮，可能会产生双重触发。
 
-A more robust method is **peak detection**:
+更稳健的方法是**峰值检测**：
 
-- look for a **local maximum** (going up, then going down)
-- use **hysteresis** (a high threshold to trigger, and a lower threshold to re-arm)
-- still keep a **cooldown** as a safety net
+- 寻找**局部最大值**（上升然后下降）
+- 使用**迟滞**（高阈值触发，低阈值重新激活）
+- 仍然保留**冷却时间**作为安全网
 
-This works especially well when you sub-sample into buckets (e.g. `BUCKET_MS = 50` or `80`).
+当你子采样到桶中时（例如 `BUCKET_MS = 50` 或 `80`），这种方法特别有效。
 
-Example: bucketed peak detector
+示例：分桶峰值检测器
 
 ```js
 
@@ -358,22 +358,22 @@ basic.forever(function () {
     basic.pause(BUCKET_MS)
     const now = control.millis()
 
-    // shift samples: s2 (older) <- s1 <- s0 (new)
+    // 移位样本：s2（旧） <- s1 <- s0（新）
     s2 = s1
     s1 = s0
     s0 = input.soundLevel()
 
-    // local maximum at s1: rising then falling
+    // s1处局部最大值：上升然后下降
     const isPeak = (s1 > s2) && (s1 >= s0)
 
-    // re-arm when loudness falls back down
+    // 当响度回落时重新激活
     if (!armed && s1 < thresholdLow) {
         armed = true
     }
 
-    // trigger only on a peak above thresholdHigh
+    // 仅在超过thresholdHigh的峰值上触发
     if (armed && isPeak && s1 > thresholdHigh) {
-        // cooldown (also avoids false positives on noise)
+        // 冷却时间（也可避免噪声误报）
         if (now - lastBeatMs > periodMs * 0.4) {
             armed = false
             onBeat(now)
@@ -382,23 +382,23 @@ basic.forever(function () {
 })
 
 ```
-**Notes:**
+**注意：**
 
-- Start by adjusting `thresholdHigh` until it triggers on real beats.
-- Set `thresholdLow` lower than `thresholdHigh` so the detector only re-arms after the sound drops.
-- If you see missed fast beats near 300 BPM, reduce `BUCKET_MS`.
+- 首先调整 `thresholdHigh` 直到它在真实节拍上触发。
+- 将 `thresholdLow` 设置得比 `thresholdHigh` 低，使检测器仅在声音下降后重新激活。
+- 如果你看到接近300 BPM的快速节拍被错过，减少 `BUCKET_MS`。
 
-`MusicLib` does this more robustly by using a ring buffer and an adaptive threshold.
+`MusicLib` 通过使用环形缓冲区和自适应阈值更稳健地做到这一点。
 
-## Ring buffer (circular buffer) pattern
+## 环形缓冲区（循环缓冲区）模式
 
-A ring buffer stores only the most recent N samples:
+环形缓冲区仅存储最近N个样本：
 
-- fixed memory (does not grow)
-- great for smoothing/noise reduction
-- used inside `MusicLib` to keep a window of recent audio energy
+- 固定内存（不会增长）
+- 非常适合平滑/降噪
+- 在 `MusicLib` 内部用于保持最近音频能量的窗口
 
-Below is a minimal ring buffer for beat periods, and a moving-average to stabilize BPM.
+以下是一个用于节拍周期的最小环形缓冲区，以及用于稳定BPM的移动平均。
 
 ```js
 
@@ -451,17 +451,17 @@ input.onButtonPressed(Button.B, function () {
 })
 
 ```
-**Notes:**
+**注意：**
 
-- This is a pattern you can reuse for loudness windows too (store recent `soundLevel()` samples).
-- If you want a weighted average (recent samples matter more), increase the ring size slightly and apply weights in the sum.
+- 这是一个也可以复用于响度窗口的模式（存储最近的 `soundLevel()` 样本）。
+- 如果你想要加权平均（最近的样本权重更大），稍微增加环形缓冲区大小并在求和中应用权重。
 
-### B. Tempo estimation
-Once you have an estimated beat period:
+### B. 速度估算
+一旦你有了估计的节拍周期：
 
 - `BPM ≈ 60000 / periodMs`
 
-Example (show BPM on button A):
+示例（按按钮A显示BPM）：
 
 ```js
 input.onButtonPressed(Button.A, function () {
@@ -469,26 +469,26 @@ input.onButtonPressed(Button.A, function () {
     basic.showNumber(bpm)
 })
 ```
-### C. Syncing motion (making Robot PU look artistic)
-The key trick is a **beat clock**:
+### C. 同步运动（让Robot PU看起来有艺术感）
+关键技巧是**节拍时钟**：
 
-- big move on beat (downbeat)
-- smaller motion between beats
-- change style every N beats
+- 在拍子上做大动作（重拍）
+- 在拍子之间做较小的运动
+- 每N拍改变风格
 
-Example: “pop” on each beat, otherwise keep dancing.
+示例：在每个拍子上"弹跳"，否则继续跳舞。
 ```js
 let beatCount = 0
 
 function onBeatMotion(): void {
     beatCount += 1
 
-    // Big accent move
+    // 大的重音动作
     for (let i = 0; i < 120; i++) {
         robotPu.jump()
     }
 
-    // Change style every 8 beats
+    // 每8拍改变风格
     if (beatCount % 8 == 0) {
         robotPu.talk("yeah")
     }
@@ -502,38 +502,38 @@ basic.forever(function () {
         onBeat(now)
         onBeatMotion()
     } else {
-        // Between beats: continuous motion
+        // 拍子之间：持续运动
         robotPu.dance()
     }
 })
 ```
-**Notes:**
+**注意：**
 
-- `robotPu.dance()` is already music-reactive internally, but adding your own beat clock lets you design choreography.
-- If jump is too aggressive, replace it with short bursts of `walk(...)`, `sideStep(...)`, or `stand()`.
+- `robotPu.dance()` 内部已经对音乐有反应，但添加你自己的节拍时钟让你可以设计编舞。
+- 如果跳跃太剧烈，替换为短促的 `walk(...)`、`sideStep(...)` 或 `stand()`。
 
-## Testing
+## 测试
 
-- **Beat test**
+- **节拍测试**
 
-- play music with a clear beat (or clap)
+- 播放有清晰节拍的音乐（或拍手）
 
-- confirm the beat indicator (LED toggle / bar graph) triggers only once per beat
+- 确认节拍指示器（LED切换/条形图）每拍仅触发一次
 
-- **Tempo test**
+- **速度测试**
 
-- press button A to show BPM
+- 按按钮A显示BPM
 
-- verify BPM is stable (not jumping wildly)
+- 验证BPM稳定（不要大幅跳动）
 
-- **Artistic sync test**
+- **艺术同步测试**
 
-- run the “pop on beat” example
+- 运行"在拍子上弹跳"示例
 
-- adjust `threshold` until the robot moves on the beat reliably
+- 调整 `threshold` 直到机器人在拍子上可靠地移动
 
-### Next steps
-- **Tune thresholds** for different environments (quiet room vs loud room)
-- **Adaptive threshold**: track background noise and set threshold automatically
-- **Different choreography**: head/waist wiggles on off-beats, step accents on downbeats
-- **More features**: detect “drops” (sudden loudness increase) to switch dance routines
+### 后续步骤
+- **调整阈值**适应不同环境（安静房间vs嘈杂房间）
+- **自适应阈值**：跟踪背景噪声并自动设置阈值
+- **不同编舞**：在弱拍上摆动头/腰，在重拍上做步伐重音
+- **更多功能**：检测"drop"（突然响度增加）来切换舞蹈套路

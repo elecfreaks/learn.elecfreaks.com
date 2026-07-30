@@ -1,57 +1,57 @@
 ---
 sidebar_position: 3
-sidebar_label: 3:Robot PU Extension and Barebone Program
+sidebar_label: 3:Robot PU扩展与骨架程序
 ---
 
-# 3:Robot PU Extension and Barebone Program
+# 3:Robot PU扩展与骨架程序
 
-## Here is a step-by-step tutorial to get you up and running with the Robot PU extension for BBC micro:bit using Microsoft MakeCode.
+## 以下是使用Microsoft MakeCode为BBC micro:bit安装Robot PU扩展的分步教程。
 
-This guide covers how to install the specific extension and explains a “barebones” program that turns your micro:bit into a wireless receiver for the robot.
+本指南涵盖如何安装特定的扩展，并解释一个将micro:bit变为机器人无线接收器的"骨架"程序。
 
 [https://makecode.microbit.org/extensions](https://makecode.microbit.org/extensions)
 
 [https://makecode.microbit.org/reference/radio](https://makecode.microbit.org/reference/radio)
 
-### 1. What is a MakeCode Extension?
-A **MakeCode Extension** is a custom library or package of code that adds new blocks to the MakeCode editor. By default, MakeCode only shows standard blocks (like Basic, Input, and Music).
+### 1. 什么是MakeCode扩展？
+**MakeCode扩展**是一个自定义库或代码包，为MakeCode编辑器添加新的积木块。默认情况下，MakeCode只显示标准积木（如基础、输入和音乐）。
 
-When working with specific hardware—like the Robot PU—you need to load its specific extension. This tells the micro:bit exactly how to talk to the robot’s motors and sensors, giving you access to specialized blocks like or `.robotPu.runStringCommandrobotPu.setWalkSpeedRange`
+当使用特定硬件时——比如Robot PU——你需要加载其专属扩展。这将告诉micro:bit如何与机器人的电机和传感器通信，让你能够使用诸如 `robotPu.runStringCommand` 或 `robotPu.setWalkSpeedRange` 等专属积木块。
 
-### 2. How to Add the Robot PU Extension
-To use the Robot PU, you must import the code from the repository`.robotgyms`
+### 2. 如何添加Robot PU扩展
+要使用Robot PU，你必须从 `robotgyms` 仓库导入代码。
 
-1. **Open MakeCode:** Go to [makecode.microbit.org](https://makecode.microbit.org) and create a New Project.
-2. **Open Extensions:** Click the **Settings (Gear icon)** in the top right corner, then select Extensions from the menu.
-3. **Search for the Repository:** In the search bar at the top, paste the following URL:robotgyms/pxt-robotpu
-4. **Install:** You should see a search result card appear (often labeled with the robot name or repository name). **Click that card** to add it to your project.
-**Note: After clicking, the editor may reload briefly. You will now see a new category (usually named Robot PU or similar) in the toolbox on the left.**
+1. **打开MakeCode：** 前往 [makecode.microbit.org](https://makecode.microbit.org) 并创建一个新项目。
+2. **打开扩展：** 点击右上角的**设置（齿轮图标）**，然后从菜单中选择"扩展"。
+3. **搜索仓库：** 在顶部的搜索栏中，粘贴以下URL：`robotgyms/pxt-robotpu`
+4. **安装：** 你应该会看到一张搜索结果卡片出现（通常标有机器人名称或仓库名称）。**点击该卡片**将其添加到项目中。
+**注意：点击后，编辑器可能会短暂重新加载。现在你将在左侧工具箱中看到一个新的分类（通常名为Robot PU或类似名称）。**
 
-### 3. The Barebones Program
-This program acts as a “bridge.” It configures the robot and then listens for wireless radio signals to control it.
+### 3. 骨架程序
+这个程序充当"桥接"。它先配置机器人，然后监听无线信号来控制它。
 
-JavaScript / TypeScript View:
+JavaScript / TypeScript视图：
 
-(You can copy and paste this directly into the JavaScript tab of MakeCode)
+（你可以直接将以下代码复制粘贴到MakeCode的JavaScript标签页中）
 
 TypeScript
 
 ``` TypeScript
-// 1. Handle incoming text commands
+// 1. 处理接收到的文本命令
 radio.onReceivedString(function (receivedString) {
     robotPu.runStringCommand(receivedString)
 })
 
-// 2. Handle incoming value pairs (e.g., "speed"=100)
+// 2. 处理接收到的键值对（例如，"speed"=100）
 radio.onReceivedValue(function (name, value) {
     robotPu.runKeyValueCommand(name, value)
 })
 
-// 3. Setup commands
+// 3. 设置命令
 robotPu.setChannel(166)
 robotPu.setWalkSpeedRange(-3, 4)
 ```
-JavaScript Version:
+JavaScript版本：
 
 
 <div
@@ -72,7 +72,7 @@ JavaScript Version:
         }}
     />
 </div>
-Associated block program:
+关联的积木程序：
 
 <div
     style={{
@@ -93,26 +93,24 @@ Associated block program:
     />
 </div>
 
-### 4. How It Works
-Here is the breakdown of what each section of the code does.
+### 4. 工作原理
+以下是代码各部分功能的详细说明。
 
-**A. The Setup**
+**A. 设置部分**
 
-These lines run immediately when the micro:bit turns on.
+这些代码行在micro:bit开机时立即运行。
 
-- robotPu.setChannel(166)This configures the internal communication channel for the Robot PU hardware. It ensures the micro:bit is sending signals on the specific frequency or ID that the robot’s main controller expects (in this case, channel 166).
-- robotPu.setWalkSpeedRange(-3, 4)This calibrates the movement logic. It defines the minimum and maximum speed “steps” or range available to the robot.
-- The lower limit (likely max reverse speed or stride).
-- The upper limit (likely max forward speed or stride).
+- `robotPu.setChannel(166)`：配置Robot PU硬件的内部通信通道，确保micro:bit在机器人主控制器期望的特定频率或ID（本例中为通道166）上发送信号。
+- `robotPu.setWalkSpeedRange(-3, 4)`：校准运动逻辑。定义机器人可用的最低和最高速度"步长"或范围。
+  - 下限值（可能是最大后退速度或步幅）。
+  - 上限值（可能是最大前进速度或步幅）。
 
-**B. The Radio Handlers**
+**B. 无线电处理程序**
 
-These blocks sit and wait for wireless data from another micro:bit (the remote controller).
+这些代码块坐等来自另一个micro:bit（遥控器）的无线数据。
 
-- radio.onReceivedString(function (receivedString) { … })When the micro:bit radio receives a simple text string (like “forward”, “stop”, or “dance”), this triggers.
+- `radio.onReceivedString(function (receivedString) { … })`：当micro:bit无线电收到简单的文本字符串（如"forward"、"stop"或"dance"）时触发。
+    - `robotPu.runStringCommand(receivedString)`：将文本直接传递给机器人。机器人的固件解析字符串并执行相应的动作。
 
-    - `robotPu.runStringCommand(receivedString)`: This takes that text and passes it directly to the robot. The robot’s firmware parses the string and executes the corresponding action.
-
-- radio.onReceivedValue(function (name, value) { … })When the radio receives a key-value pair (e.g., name: “turn”, value: 90), this triggers.
-
-    - `robotPu.runKeyValueCommand(name, value)`: This passes the specific parameter and value to the robot. This is useful for precise controls, such as setting a servo angle to a specific degree or setting a motor to a specific speed percentage.
+- `radio.onReceivedValue(function (name, value) { … })`：当无线电收到键值对（例如 name:"turn"，value:90）时触发。
+    - `robotPu.runKeyValueCommand(name, value)`：将特定参数和值传递给机器人。这对于精确控制非常有用，例如将舵机角度设置为特定度数或将电机设置为特定速度百分比。

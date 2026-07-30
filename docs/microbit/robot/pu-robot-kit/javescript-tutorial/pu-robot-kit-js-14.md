@@ -1,54 +1,54 @@
 ---
 sidebar_position: 14
-sidebar_label: 14:Robot PU State Machine
+sidebar_label: 14:Robot PU 状态机
 ---
 
-# Robot PU State Machine
+# Robot PU 状态机
 
 
-## 🤖 Robot PU Tutorial: Using a State Machine to Build a Dance Routine
+## 🤖 Robot PU 教程：使用状态机构建舞蹈程序
 
-**JavaScript Tutorial for MakeCode + Robot PU**
-
----
-
-Robots are great at repeating patterns, but if you try to write a dance routine using only `basic.forever()`, you quickly end up with a messy tangle of timers, pauses, and nested conditions.
-
-A state machine gives you a clean, predictable way to organize complex robot behaviors — especially sequences like dancing.
-
-This tutorial shows you how to:
-
-- Understand what a state machine is
-- Build a simple state machine in MakeCode
-- Use events and timers to transition between states
-- Implement a full Robot PU dance routine
+**MakeCode + Robot PU 的 JavaScript 教程**
 
 ---
 
-## 🎯 What Is a State Machine?
+机器人擅长重复模式，但如果你只使用 `basic.forever()` 编写舞蹈程序，很快就会陷入定时器、暂停和嵌套条件的混乱之中。
 
-A state machine is a design pattern where your robot is always in exactly one state, such as:
+状态机为你提供了一种干净、可预测的方式来组织复杂的机器人行为——尤其是像跳舞这样的序列。
 
-- IDLE
-- STEP_LEFT
-- STEP_RIGHT
-- SPIN
-- POSE
+本教程将向你展示如何：
 
-Each state defines:
-
-- What the robot does
-- When and how it transitions to the next state
-
-Think of it like choreography:
-"Do move A for 1 second → then move B for 1 second → then move C…"
+- 理解什么是状态机
+- 在 MakeCode 中构建一个简单的状态机
+- 使用事件和定时器在状态之间转换
+- 实现一个完整的 Robot PU 舞蹈程序
 
 ---
 
-## 🧱 1. Defining States
+## 🎯 什么是状态机？
 
-We'll define states using numbers or strings.
-Numbers are faster, but strings are easier to read.
+状态机是一种设计模式，机器人始终处于且仅处于一个状态，例如：
+
+- IDLE（空闲）
+- STEP_LEFT（左踏步）
+- STEP_RIGHT（右踏步）
+- SPIN（旋转）
+- POSE（摆姿势）
+
+每个状态定义了：
+
+- 机器人做什么
+- 何时以及如何转换到下一个状态
+
+可以把它想象成编舞：
+"做动作 A 持续 1 秒 → 然后做动作 B 持续 1 秒 → 然后做动作 C……"
+
+---
+
+## 🧱 1. 定义状态
+
+我们将使用数字或字符串来定义状态。
+数字更快，但字符串更易读。
 
 ```typescript
 enum DanceState {
@@ -64,9 +64,9 @@ let state = DanceState.Idle
 
 ---
 
-## 🕹️ 2. State Machine Loop
+## 🕹️ 2. 状态机循环
 
-We use a `forever()` loop to run the current state.
+我们使用 `forever()` 循环来运行当前状态。
 
 ```typescript
 basic.forever(function () {
@@ -98,17 +98,17 @@ basic.forever(function () {
 })
 ```
 
-This loop does not decide when to change states — it only performs the current state's action.
+这个循环不决定何时改变状态——它只执行当前状态的动作。
 
-Transitions come next.
+状态转换在下一步处理。
 
 ---
 
-## ⏱️ 3. Timed State Transitions
+## ⏱️ 3. 定时状态转换
 
-We'll use `control.setTimeout()` to schedule transitions.
+我们将使用 `control.setTimeout()` 来安排转换。
 
-Helper function:
+辅助函数：
 
 ```typescript
 function nextState(s: DanceState, delay: number) {
@@ -118,15 +118,15 @@ function nextState(s: DanceState, delay: number) {
 }
 ```
 
-This lets us write choreography like:
+这让我们可以像这样编写编舞：
 
-`StepLeft for 800 ms → StepRight for 800 ms → Spin for 1200 ms → Pose`
+`左踏步 800ms → 右踏步 800ms → 旋转 1200ms → 摆姿势`
 
 ---
 
-## 💃 4. Starting the Dance Routine
+## 💃 4. 启动舞蹈程序
 
-Let's trigger the dance when button A is pressed.
+让我们通过按下按钮 A 来触发舞蹈。
 
 ```typescript
 input.onButtonPressed(Button.A, function () {
@@ -134,7 +134,7 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-The dance sequence:
+舞蹈序列：
 
 ```typescript
 function startDance() {
@@ -154,21 +154,21 @@ function startDance() {
 }
 ```
 
-Notice how each `nextState()` call is offset in time.
-This creates a timeline of moves.
+注意每个 `nextState()` 调用在时间上是偏移的。
+这就创建了一条动作的时间线。
 
 ---
 
-## 🧠 5. Why This Works So Well
+## 🧠 5. 为什么这样做如此有效
 
-- ✔ **Clean separation** — The state machine loop handles movement; the transition scheduler handles timing
-- ✔ **Easy to extend** — Add new moves by adding new states
-- ✔ **Easy to debug** — You always know what state the robot is in
-- ✔ **No tangled pauses** — `control.setTimeout()` avoids blocking the main loop
+- ✔ **清晰的分离** — 状态机循环处理运动；转换调度器处理时序
+- ✔ **易于扩展** — 通过添加新状态来增加新动作
+- ✔ **易于调试** — 你始终知道机器人当前处于哪个状态
+- ✔ **没有复杂的暂停** — `control.setTimeout()` 避免阻塞主循环
 
 ---
 
-## 🕺 6. Full Dance Routine Code (Complete Example)
+## 🕺 6. 完整舞蹈程序代码（完整示例）
 
 ```typescript
 enum DanceState {
@@ -234,20 +234,20 @@ input.onButtonPressed(Button.A, function () {
 
 ---
 
-## 🎉 You Now Know How to Use State Machines for Robot PU
+## 🎉 你现在知道如何为 Robot PU 使用状态机了
 
-With this pattern, you can build:
+有了这个模式，你可以构建：
 
-- Dance routines
-- Patrol loops
-- Maze‑solving sequences
-- Multi‑step animations
-- Game logic
-- Swarm behavior states
+- 舞蹈程序
+- 巡逻循环
+- 迷宫求解序列
+- 多步动画
+- 游戏逻辑
+- 群体行为状态
 
-You can:
+你还可以：
 
-- Add music to the dance
-- Add LED animations
-- Add random dance variations
-- Build a multi‑robot synchronized dance
+- 为舞蹈添加音乐
+- 添加 LED 动画
+- 添加随机舞蹈变体
+- 构建多机器人同步舞蹈

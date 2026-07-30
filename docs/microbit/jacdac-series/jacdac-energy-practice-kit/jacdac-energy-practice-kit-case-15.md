@@ -17,7 +17,7 @@ sidebar_label: 案例十五：高空风力发电机
 
 1. 理解**双条件判断**——同时满足「光线充足」和「有风（声音）」两个条件才发电。
 2. 认识**光敏传感器与声音传感器的组合使用**——模拟真实高空风力发电机的风速+光照感知。
-3. 了解**高空风能**——在300~500米高空，风速是地面的2~3倍，是最有潜力的可再生能源之一。
+3. 了解**高空风能**——在300 ~ 500米高空，风速是地面的2 ~ 3倍，是最有潜力的可再生能源之一。
 4. 学习**条件嵌套**——先判断光照、再根据声音控制速度。
 
 ---
@@ -64,7 +64,7 @@ sidebar_label: 案例十五：高空风力发电机
 
 ## 连接示意图
 
-如下图所示，将micro:bit主板插入Jacdac扩展板，用连接线将360°积木舵机模块采用**菊花链方式**连接在Jacdac扩展板金手指接口上。
+如下图所示，将micro:bit主板插入Jacdac扩展板，用连接线将360°积木舵机模块、光敏传感器连接在Jacdac扩展板金手指接口上。
 
 ![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/micro%EF%BC%9Abit%20%2B%E8%88%B5%E6%9C%BA%E6%A8%A1%E5%9D%97%2B%E8%88%B5%E6%9C%BA%2B%E5%85%89%E6%95%8F.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260730%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260730T073609Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=55fdf81bd6a95f988c1f7b4b9cc911372e32af554f95c50896fef31a2e9b2d52)
 
@@ -102,7 +102,7 @@ sidebar_label: 案例十五：高空风力发电机
 
 1. 用数据线将micro:bit主板连接到计算机。
 
-   > **⚠️ 注意：** 若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
+   > **注意：** 若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
 
    ![连接micro:bit](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 
@@ -112,7 +112,7 @@ sidebar_label: 案例十五：高空风力发电机
 
 3. 点击 **"ADD BLOCKS"** 传感器扩展模块。
 
-   > **⚠️ 注意：** 连接新的传感器，重复执行一次"点击'ADD BLOCKS'传感器扩展模块"操作流程。
+   > **注意：** 连接新的传感器，重复执行一次"点击'ADD BLOCKS'传感器扩展模块"操作流程。
 
    ![ADD BLOCKS](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-7.png)
 
@@ -167,9 +167,9 @@ sidebar_label: 案例十五：高空风力发电机
 
 | 触发条件 | 动作 | 来源 |
 |---|---|---|
-| 光敏值 < 30（天黑）且检测到声音 | 360°积木舵机转速=声音值(0~255)→映射(0~100)，声音越大转得越快 | micro:bit V2 光敏 + 麦克风 |
-| 光敏值 < 30（天黑）且完全安静 | 舵机停止（映射值为0） | micro:bit V2 光敏 + 麦克风 |
-| 光敏值 ≥ 30（天亮） | 舵机强制停止——白天不发电 | micro:bit V2 光敏 |
+| 光敏值 ＞ 30（天亮）且检测到声音 | 360°积木舵机转速=声音值(0~255)→映射(0~100)，声音越大转得越快 | micro:bit V2 光敏 + 麦克风 |
+| 光敏值 ＞ 30（天亮）且完全安静 | 舵机停止（映射值为0） | micro:bit V2 光敏 + 麦克风 |
+| 光敏值 ≤30（天黑） | 舵机停止转动 | micro:bit V2 光敏 |
 
 ---
 
@@ -196,17 +196,6 @@ sidebar_label: 案例十五：高空风力发电机
 | **系留无人机式** | 多旋翼无人机携带小型风力发电机升空，通过电缆传输电力 | Altaeros（浮空气球+涡轮） |
 | **高空浮空器式** | 氦气飞艇将风力涡轮带到300~600米高度 | Altaeros BAT |
 
-> 📊 据估计，高空风能的全球理论蕴藏量是地面风能的**4倍以上**，可满足全球电力需求的**100倍**。然而，技术仍处于早期阶段——如何让一个数百米长的系留系统在雷暴、结冰和极端大风中安全运行，是最大的工程难题。
-
-### 三、白天不发电——风光互补的智慧
-
-本案例的核心逻辑——"白天不发电、天黑才工作"——恰恰体现了可再生能源领域的**风光互补**理念：
-
-| 时段 | 太阳能 | 风能（特别是高空风能） |
-|---|---|---|
-| 白天 | ☀️ 发电高峰 | 通常较弱 |
-| 夜间 | 零 | 💨 往往更强（夜间高空急流） |
-
-> 💡 真实的可再生能源系统常常将太阳能和风能组合——白天靠太阳、晚上靠风，二者天然互补。你的这个"天黑才发电"的程序，无意中模拟了未来清洁能源电网中最核心的调度逻辑。
+> 据估计，高空风能的全球理论蕴藏量是地面风能的**4倍以上**，可满足全球电力需求的**100倍**。然而，技术仍处于早期阶段——如何让一个数百米长的系留系统在雷暴、结冰和极端大风中安全运行，是最大的工程难题。
 
 ---

@@ -51,7 +51,7 @@ MQTT 全称 Message Queuing Telemetry Transport，中文译为消息队列遥测
 
 平台链接：[https://www.smartiot.space/](https://www.smartiot.space/)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/how-to-use-mqtt-feature-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/smartiot-01.png)
 
 
 注册并登录账号，具体操作流程请阅读[快速入门文档](https://wiki.elecfreaks.com/smartiot/how-to-use-mqtt-feature-quick-start)

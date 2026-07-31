@@ -50,37 +50,37 @@ Open the SmartIoT platform:
 
 Platform link: [https://www.smartiot.space/](https://www.smartiot.space/)
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/how-to-use-mqtt-feature-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/smartiot-01.png)
 
 Register and log in to your account. For detailed instructions, please refer to the [Quick Start Guide](https://wiki.elecfreaks.com/smartiot/how-to-use-mqtt-feature-quick-start).
 
 Open the MQTT feature option:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/how-to-use-mqtt-feature-01.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/smartiot/images/how-to-use-mqtt-feature-01.png)
 
 Click `New Topic`:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/how-to-use-mqtt-feature-02.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/smartiot/images/how-to-use-mqtt-feature-02.png)
 
 In the pop-up window, fill in the `Display Name` and `Topic`, then click Save:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/how-to-use-mqtt-feature-03.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/smartiot/images/how-to-use-mqtt-feature-03.png)
 
 Click `Access Management` to switch to the access management page, then click New Account:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/how-to-use-mqtt-feature-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/smartiot/images/how-to-use-mqtt-feature-04.png)
 
 In the pop-up window, fill in the `Username` and `Password`, set the `Permissions`, and click Submit. Repeat the same steps to create two accounts:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/how-to-use-mqtt-feature-05.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/smartiot/images/how-to-use-mqtt-feature-05.png)
 
 Switch to the `MQTT Web Client`, fill in `Client ID`, `Username`, `Password`, `Subscription Topic`, and `Topic`, then click `Connect to Server` and `Subscribe` to connect to the MQTT server and send messages:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/how-to-use-mqtt-feature-06.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/smartiot/images/how-to-use-mqtt-feature-06.png)
 
 Edit the message content, click `Publish Message`, and you will see the message in the message viewer:
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/how-to-use-mqtt-feature-07.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/smartiot/images/how-to-use-mqtt-feature-07.png)
 
 ## How to Publish or Subscribe to Messages from a Local Device
 
@@ -118,7 +118,7 @@ In the pop-up interface, type "Petal", press Enter to search, and select to load
 
 #### Sample Code
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/how-to-use-mqtt-feature-09.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/smartiot/images/how-to-use-mqtt-feature-08.png)
 
 Program reference link: [https://makecode.microbit.org/_Wyoa0F67qDxW](https://makecode.microbit.org/_Wyoa0F67qDxW)
 
@@ -147,4 +147,4 @@ You can also modify the program via the web page below.
 
 After pressing button A, the platform receives the `hello` message, and the micro:bit LED matrix displays the message synchronously.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/how-to-use-mqtt-feature-10.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/smartiot/images/how-to-use-mqtt-feature-10.png)

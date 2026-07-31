@@ -1,7 +1,6 @@
-
 ---
 sidebar_position: 17
-sidebar_label: "Lesson 8: Introduction to Conditionals — Robot Obstacle Avoidance"
+sidebar_label: "Case 8: Introduction to Conditionals — Robot Obstacle Avoidance"
 ---
 
 # Case 08: Introduction to Conditionals — Robot Obstacle Avoidance

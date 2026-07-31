@@ -55,7 +55,7 @@ sidebar_label: 如何下载程序
 
 将`执行动作`拉取到`当按钮A被按下时`下并选取自主探索。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/microbit-pu-robot-kit-program-download-04.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/robot/pu-robot-kit/microbit-pu-robot-kit-program-download-04.png)
 
 程序连接：[https://makecode.microbit.org/_e1c2d338VEFL](https://makecode.microbit.org/_e1c2d338VEFL)
 

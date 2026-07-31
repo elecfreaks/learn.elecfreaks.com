@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 4
 sidebar_label: 案例四：波浪发电
 ---
@@ -9,7 +9,7 @@ sidebar_label: 案例四：波浪发电
 
 ## 简介
 
-对着micro:bit主板**说话、拍手或制造声音**——声音越大，LED灯环越亮、360°积木舵机驱动凸轮转速越快，"浮子"上下起伏越剧烈，模拟海浪越大、发电功率越高；声音越小，LED越暗、起伏越平缓；完全安静时LED熄灭、舵机停止，模拟海面风平浪静。声音代表了"海浪的力量"。
+对着micro:bit主板**说话、拍手或制造声音**——声音越大，360°积木舵机驱动凸轮转速越快，"浮子"上下起伏越剧烈，模拟海浪越大、发电功率越高；声音越小，起伏越平缓；完全安静时舵机停止，模拟海面风平浪静。声音代表了"海浪的力量"。
 
 ---
 
@@ -28,12 +28,15 @@ sidebar_label: 案例四：波浪发电
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
 | Jacdac 10cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png) | 1 |
-| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103330Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=4c6faf4c4385b9e34ec2180c882e451d7b9a6ef2c41d3f3e43c3451261aab160) | 1 |
-| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103304Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=346780dc133aadbb9ccb4e52942baf50879969b01d676ae61539e49c2ad1d203) | 1 |
+| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
+| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
 ---
 
+## 传感器原理说明
+
+本案例使用micro:bit主板内置的麦克风作为传感器，实时采集环境声音响度（0~255），将其映射为舵机转速。
 
 ## 搭建步骤
 
@@ -115,7 +118,7 @@ sidebar_label: 案例四：波浪发电
 
 1. 用数据线将micro:bit主板连接到计算机。
 
-   > ** 注意：** 若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
+   > **注意：** 若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
 
    ![连接micro:bit](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 
@@ -125,7 +128,7 @@ sidebar_label: 案例四：波浪发电
 
 3. 点击 **"ADD BLOCKS"** 传感器扩展模块。
 
-   > ** 注意：** 连接新的传感器，重复执行一次"点击'ADD BLOCKS'传感器扩展模块"操作流程。
+   > **注意：** 连接新的传感器，重复执行一次"点击'ADD BLOCKS'传感器扩展模块"操作流程。
 
    ![ADD BLOCKS](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-7.png)
 
@@ -167,7 +170,7 @@ sidebar_label: 案例四：波浪发电
 
 ## 结果
 
-对着micro:bit主板**大声说话或拍手**时，LED灯环变亮，360°积木舵机高速旋转驱动凸轮，浮子剧烈上下起伏，模拟"狂风巨浪、满负荷发电"；轻声细语时，LED微亮、起伏平缓，模拟"微风细浪"；完全安静时，LED熄灭、舵机停止、浮子静止，模拟"海面如镜"。声音大小实时控制波浪强度。
+对着micro:bit主板**大声说话或拍手**时，360°积木舵机高速旋转驱动凸轮，浮子剧烈上下起伏，模拟"狂风巨浪、满负荷发电"；轻声细语时，起伏平缓，模拟"微风细浪"；完全安静时，舵机停止、浮子静止，模拟"海面如镜"。声音大小实时控制波浪强度。
 
 ---
 
@@ -175,6 +178,14 @@ sidebar_label: 案例四：波浪发电
 
 1. 舂米机案例中用了凸轮，波浪发电站也用了凸轮——同一个机构，一个在模拟捶打谷物，一个在模拟波浪起伏。你还想到了哪些可以用凸轮来模拟的自然现象或生产动作？
 2. 波浪发电面临的最大挑战之一是"台风"——巨浪可能摧毁发电装置。如果你是工程师，你会怎么设计来应对极端天气？
+
+---
+
+## 程序逻辑说明
+
+| 触发条件 | 动作 | 来源 |
+|---|---|---|
+| 检测声音大小 | 360°积木舵机以映射值的速度旋转，驱动凸轮带动浮子上下起伏 | micro:bit 声音传感器 |
 
 ---
 

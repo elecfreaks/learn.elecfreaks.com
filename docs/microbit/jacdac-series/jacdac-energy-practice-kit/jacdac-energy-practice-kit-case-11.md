@@ -9,7 +9,7 @@ sidebar_label: 案例十一：太阳能追踪
 
 ## 简介
 
-利用**两组光敏传感器**——micro:bit主板自带的LED矩阵光敏传感器和Jacdac外接光敏传感器——实时对比左右两侧的光照强度。360°积木舵机驱动太阳能板模型**自动转向较暗的一侧**，直到两侧光照值趋近平衡，实现太阳能板自动追光对准光源。光照方向改变时，系统自动重新调整方向。
+利用**两组光敏传感器**——micro:bit主板自带的LED矩阵光敏传感器和Jacdac外接光敏传感器——实时对比左右两侧的光照强度。360°积木舵机驱动太阳能板模型**自动转向较暗的一侧**（注：追光方向取决于两组光敏传感器的安装位置——本模型中转向较暗一侧即为转向光源方向），直到两侧光照值趋近平衡，实现太阳能板自动追光对准光源。光照方向改变时，系统自动重新调整方向。
 
 ---
 
@@ -28,13 +28,15 @@ sidebar_label: 案例十一：太阳能追踪
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
 | Jacdac 10cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png) | 1 |
-| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103530Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=7a743de279279e3155a0804920c1b4e13b8cf452b8e1c49c3d6b2b97d8496c2e) | 1 |
+| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png) | 1 |
 |Jacdac 光敏传感器 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Light%20Sensor.png) | 1 |
-| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103330Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=4c6faf4c4385b9e34ec2180c882e451d7b9a6ef2c41d3f3e43c3451261aab160) | 1 |
-| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103304Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=346780dc133aadbb9ccb4e52942baf50879969b01d676ae61539e49c2ad1d203) | 1 |
+| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
+| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
 ---
+
+## 传感器原理说明
 
 ### 双传感器追光原理
 
@@ -129,7 +131,7 @@ sidebar_label: 案例十一：太阳能追踪
 
 3. 点击 **"ADD BLOCKS"** 传感器扩展模块。
 
-   > ** 注意：** 连接新的传感器，重复执行一次"点击'ADD BLOCKS'传感器扩展模块"操作流程。
+   > **注意：** 连接新的传感器，重复执行一次"点击'ADD BLOCKS'传感器扩展模块"操作流程。
 
    ![ADD BLOCKS](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-7.png)
 
@@ -256,12 +258,12 @@ sidebar_label: 案例十一：太阳能追踪
 |---|---|
 | **天文望远镜** | 自动导星系统追踪天体运动，补偿地球自转 |
 | **机器人导航** | 红外循迹小车用双传感器比较左右反光强度，保持在黑线上 |
-| **导弹制导** | 红外制导导弹追踪目标的热辐射源（就像追"最亮的点"） |
+| **自动门控制** | 红外传感器检测到人体靠近时自动开门，与追光系统的双传感器差分比较逻辑一脉相承 |
 | **人脸追踪** | 摄像头识别到人脸后，云台自动旋转使人脸保持在画面中央 |
 | **声音定位** | 双麦克风阵列比较声音到达两个麦克风的时间差，定位声源方向 |
 | **植物研究** | 研究向日葵的向光性分子机制，启发人工光合作用系统 |
 
->  **洞察：** 你在micro:bit上写的那几行追光代码——"比较两个值 → 向差值方向移动 → 直到平衡"——与引导一枚价值百万美元的制导导弹的算法，本质上遵循的是**同一套逻辑**。朴素但通用。
+>  **洞察：** 你在micro:bit上写的那几行追光代码——"比较两个值 → 向差值方向移动 → 直到平衡"——与许多高端自动控制系统的算法，本质上遵循的是**同一套逻辑**。朴素但通用。
 
 ---
 
@@ -270,7 +272,7 @@ sidebar_label: 案例十一：太阳能追踪
 人类对追光最大的想象，或许不在沙漠里，而在太空中：
 
 - **太空太阳能电站（Space-Based Solar Power）**：在距离地球**36,000公里**的地球同步轨道上，建超大型太阳能电池阵列。太空没有大气吸收、没有云层遮挡、没有昼夜交替——日照强度是地表的**1.4倍**且24小时不间断。收集到的电能通过微波或激光传回地球。
-- 中国、日本、美国、欧洲航天局均已启动太空太阳能研究计划。中国计划在2030年前后发射**兆瓦级**太空太阳能试验电站。
+- 日本、美国、欧洲航天局等多个国家和组织均已启动太空太阳能研究计划，探索从太空向地球无线传输清洁能源的可行性。
 - 这一构想最大的技术难题之一是**极高精度的追光对准**——从36,000公里外要把微波束精确地打在地面接收天线上（几公里的圆盘），容错弧度极小。
 
 >  **思考：** 你今天用两组光敏传感器实现的追光模型，正是这一切宏大工程的起点。人类学会了追光，就有了无尽的可能性。太阳每秒都在免费发放能量——学会"捕获"它，就是学会了与宇宙和谐共处。

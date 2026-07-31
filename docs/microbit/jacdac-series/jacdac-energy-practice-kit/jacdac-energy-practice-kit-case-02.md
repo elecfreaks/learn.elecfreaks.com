@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 2
 sidebar_label: 案例二：舂米机
 ---
@@ -9,14 +9,14 @@ sidebar_label: 案例二：舂米机
 
 ## 简介
 
-按下micro:bit主板的**按键A**，360°舵机以全速（-100）旋转驱动凸轮机构，模拟古代舂米机往复舂捣谷物的动作；按下**按键B**，舵机停止转动。
+按下micro:bit主板的**按键A**，360°积木舵机以全速（-100）旋转驱动凸轮机构，模拟古代舂米机往复舂捣谷物的动作；按下**按键B**，舵机停止转动。
 
 ---
 
 ## 案例目的
 
 1. 认识舂米机（水碓）——古代利用水力加工粮食的机械设备。
-2. 理解**数据映射**——将麦克风采集的模拟量（声音值）映射为舵机转速，实现连续控制。
+2. 理解**事件驱动编程**——通过**按键A和按键B**分别控制舵机的启动与停止。
 3. 认识**凸轮机构**——将旋转运动转化为往复直线运动的机械原理。
 4. 了解古代粮食加工历史及人类对水能的智慧应用。
 
@@ -28,16 +28,20 @@ sidebar_label: 案例二：舂米机
 |---|---|---|
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
-| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103530Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=7a743de279279e3155a0804920c1b4e13b8cf452b8e1c49c3d6b2b97d8496c2e) | 1 |
-| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103330Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=4c6faf4c4385b9e34ec2180c882e451d7b9a6ef2c41d3f3e43c3451261aab160) | 1 |
-| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103304Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=346780dc133aadbb9ccb4e52942baf50879969b01d676ae61539e49c2ad1d203) | 1 |
+| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png) | 1 |
+| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
+| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
 ---
 
+## 传感器原理说明
+
+本案例未使用新的外接传感器模块，通过micro:bit主板自带的按键A和按键B即可完成控制。
+
 ## 搭建步骤
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case02/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase02.pdf?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103836Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=30f374357d0ac5d4d2b051d3b2f76c81eb66520fc15c699b5df013760f3eb3ed" type="application/pdf" width="100%" height="600px" />
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case02/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase02.pdf" type="application/pdf" width="100%" height="600px" />
 
 ---
 
@@ -67,7 +71,7 @@ sidebar_label: 案例二：舂米机
 
 如下图所示，将micro:bit主板插入Jacdac扩展板，用连接线将舵机模块连接在Jacdac扩展板金手指接口上。
 
-![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/micro%EF%BC%9Abit%20%2B%E8%88%B5%E6%9C%BA%E6%A8%A1%E5%9D%97%2B%E8%88%B5%E6%9C%BA.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T093702Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=7b7aa152687234a8f9e970d94c88b3ac6d6a5c2cbbca7050c74d27860a1005d4)
+![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/micro%EF%BC%9Abit%20%2B%E8%88%B5%E6%9C%BA%E6%A8%A1%E5%9D%97%2B%E8%88%B5%E6%9C%BA.png)
 
 ---
 
@@ -121,7 +125,7 @@ sidebar_label: 案例二：舂米机
 
 ## 如图所示编写程序
 
-![程序截图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case02/jacdac-energypractice-kit%2BProgram%2BCase02.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T115337Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=903ef3829a231454e2ddc918feff64ae504e6d47adb5928d89f36750c77003f8)
+![程序截图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case02/jacdac-energypractice-kit%2BProgram%2BCase02.png)
 
 ---
 
@@ -165,6 +169,15 @@ sidebar_label: 案例二：舂米机
 
 ---
 
+## 程序逻辑说明
+
+| 触发条件 | 动作 | 来源 |
+|---|---|---|
+| 按下按键A | 360°积木舵机以全速（-100）旋转，驱动凸轮机构，舂杵开始上下往复舂捣 | micro:bit 按键A |
+| 按下按键B | 360°积木舵机停止转动，舂杵停止舂捣 | micro:bit 按键B |
+
+---
+
 ## 知识拓展：从人力舂米到水力自动化——粮食加工的千年进化
 
 ### 一、一粒米的旅程——人类为什么要"舂米"
@@ -205,7 +218,7 @@ sidebar_label: 案例二：舂米机
 
 | 技术要素 | 对应原理 | 本案例中的实现 |
 |---|---|---|
-| 水轮旋转 | 水力→旋转动能 | 360°舵机旋转 |
+| 水轮旋转 | 水力→旋转动能 | 360°积木舵机旋转 |
 | 拨板/凸轮 | 旋转→往复直线运动 | 凸轮机构 |
 | 碓头舂捣 | 重力下落冲击 | 凸轮推程后的自由回落 |
 | 水流大小控制转速 | 输入能量调节 | 麦克风声音值→转速映射 |
@@ -246,8 +259,8 @@ sidebar_label: 案例二：舂米机
 |---|---|---|
 | **动力源** | 水流持续冲击水轮 | 循环积木块反复执行代码 |
 | **重复单元** | 水轮一圈 = 舂杵一次舂捣 | 循环一次 = 读取声音+调节转速 |
-| **调节机制** | 水量大→水轮快→舂捣频率高 | 声音大→转速快→舂捣频率高 |
-| **停止条件** | 关闭水闸阻断水流 | 声音为零时舵机停转 |
+| **调节机制** | 水量大→水轮快→舂捣频率高 | 按键A按下→舵机全速转→舂捣频率高 |
+| **停止条件** | 关闭水闸阻断水流 | 按键B按下→舵机停止 |
 
 >  **思考：** 古代工匠用机械实现了"自动化循环"，今天的程序员用代码实现"程序循环"。两千年的技术进步，背后是同一套逻辑：**发现重复 → 构建循环 → 持续优化**。你正在编写的这段舂米机程序，延续的就是这份跨越千年的工程智慧。
 

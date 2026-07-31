@@ -1,11 +1,11 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: 案例三：水力发电
 ---
 
 ## 简介
 
-对着micro:bit主板**说话、拍手或制造声音**——声音越大，LED灯环越亮、360°积木舵机驱动水轮发电机转速越快，模拟水流越湍急、发电功率越高；声音越小，LED越暗、舵机越慢；完全安静时LED熄灭、舵机停止，模拟水枯停机。声音代表了"水流的力量"
+对着micro:bit主板**说话、拍手或制造声音**——声音越大，LED灯环越亮、360°积木舵机驱动水轮发电机转速越快，模拟水流越湍急、发电功率越高；声音越小，LED越暗、舵机越慢；完全安静时LED熄灭、舵机停止，模拟水枯停机。声音代表了"水流的力量"。
 
 ---
 
@@ -24,25 +24,29 @@ sidebar_label: 案例三：水力发电
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
 | Jacdac 10cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png) |  
-| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103530Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=7a743de279279e3155a0804920c1b4e13b8cf452b8e1c49c3d6b2b97d8496c2e) | 1 |
-| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103330Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=4c6faf4c4385b9e34ec2180c882e451d7b9a6ef2c41d3f3e43c3451261aab160) | 1 |
-| Jacdac灯环 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20LED%20Ring.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T121811Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=dd3d01b205d59e8308b3ed1ae657662233120fd8311a65ea91bc34b42388efc6) | 1 |
-| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103304Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=346780dc133aadbb9ccb4e52942baf50879969b01d676ae61539e49c2ad1d203) | 1 |
+| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png) | 1 |
+| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
+| Jacdac灯环 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20LED%20Ring.png) | 1 |
+| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
 ---
 
+## 传感器原理说明
+
+本案例使用micro:bit主板内置的麦克风作为传感器，实时采集环境声音响度（0~255），将其映射为舵机转速和LED灯环亮度。
+
 ## 搭建步骤
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case03/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase03.pdf?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T104024Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=bbd2b6fba3ea64b6d2c9ba77b72862d7688f4c268c6f7c433352c94f4aa49b27" type="application/pdf" width="100%" height="600px" />
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case03/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase03.pdf" type="application/pdf" width="100%" height="600px" />
 
 ---
 
 ## 模型原理说明
 
-### 360°舵机模块与水轮发电机模型
+### 360°积木舵机模块与水轮发电机模型
 
-360°舵机提供连续旋转动力，安装在水轮发电机模型的中心轴上。舵机旋转时带动水轮叶片转动，模拟水流冲击水轮机旋转、进而驱动发电机发电的过程。舵机转速对应"水流大小"——转速越快，代表水流越湍急、发电功率越高。
+360°积木舵机提供连续旋转动力，安装在水轮发电机模型的中心轴上。舵机旋转时带动水轮叶片转动，模拟水流冲击水轮机旋转、进而驱动发电机发电的过程。舵机转速对应"水流大小"——转速越快，代表水流越湍急、发电功率越高。
 
 ### 水力发电站——大坝的能量密码
 
@@ -56,7 +60,7 @@ sidebar_label: 案例三：水力发电
 
 如下图所示，将micro:bit主板插入Jacdac扩展板，用连接线将舵机模块与LED灯环采用**菊花链方式**连接在Jacdac扩展板金手指接口上。
 
-![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/micro%EF%BC%9Abit%20%2B%E8%88%B5%E6%9C%BA%E6%A8%A1%E5%9D%97%2B%E8%88%B5%E6%9C%BA%2BLED.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T122242Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=3cdc8f25959c79fe4b1fd58c09644e9f14998d35e09759d9a0b9e15c12e8528e)
+![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/micro%EF%BC%9Abit%20%2B%E8%88%B5%E6%9C%BA%E6%A8%A1%E5%9D%97%2B%E8%88%B5%E6%9C%BA%2BLED.png)
 
 ---
 
@@ -102,7 +106,7 @@ sidebar_label: 案例三：水力发电
 
 3. 点击 **"ADD BLOCKS"** 传感器扩展模块。
 
-   > ** 注意：** 连接新的传感器，重复执行一次"点击'ADD BLOCKS'传感器扩展模块"操作流程。
+   > **注意：** 连接新的传感器，重复执行一次"点击'ADD BLOCKS'传感器扩展模块"操作流程。
 
    ![ADD BLOCKS](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-7.png)
 
@@ -110,7 +114,7 @@ sidebar_label: 案例三：水力发电
 
 ## 如图所示编写程序
 
-![程序截图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case03/jacdac-energypractice-kit%2BProgram%2BCase03.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T122312Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=e9533d2ad2c76bc87ae86053bf29b52f7702400ac85aa75793fc8eb17ff1f1f4)
+![程序截图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case03/jacdac-energypractice-kit%2BProgram%2BCase03.png)
 
 ---
 
@@ -142,7 +146,7 @@ sidebar_label: 案例三：水力发电
 
 ## 结果
 
-声音响度实时关联——声音越大360°积木舵机转速越快Jacdac灯环越亮、声音越小360°积木舵机转速越慢Jacdac灯环越暗，模拟水力发电站。
+声音响度实时关联——声音越大，360°积木舵机转速越快、Jacdac灯环越亮；声音越小，360°积木舵机转速越慢、Jacdac灯环越暗，模拟水力发电站。
 
 ---
 
@@ -153,6 +157,13 @@ sidebar_label: 案例三：水力发电
 
 ---
 
+## 程序逻辑说明
+
+| 触发条件 | 动作 | 来源 |
+|---|---|---|
+| 检测声音大小 | 360°积木舵机以映射值的速度旋转，驱动水轮发电机；LED灯环亮度随声音大小变化 | micro:bit 声音传感器 |
+
+---
 
 ## 知识拓展：水力发电——从一滴水到一座城市的光明
 
@@ -268,8 +279,7 @@ sidebar_label: 案例三：水力发电
 | **人口迁移** | 全球因建坝被迫迁移的人口估计高达**8,000万** | 三峡工程移民约**130万人**，是人类历史上最大规模的水库移民 |
 | **生态破坏** | 大坝阻断鱼类洄游、改变河流水温水质、破坏水生生态 | 长江中华鲟因葛洲坝和三峡大坝阻断洄游通道，已极度濒危 |
 | **泥沙淤积** | 泥沙被拦截在库区，下游三角洲失去泥沙补充而退缩 | 埃及阿斯旺大坝建成后，尼罗河三角洲每年退缩数十米 |
-| **水库温室气体** | 热带地区淹没的植被腐烂产生甲烷（温室效应是CO₂的25倍） | 部分热带水库的碳排放强度甚至超过火电厂 |
-| **诱发地震** | 大型水库蓄水后改变地壳应力分布，可能诱发地震 | 2008年汶川地震后，有研究者认为附近的紫坪铺水库与地震存在关联 |
+| **水库温室气体** | 热带地区淹没的植被腐烂产生甲烷（温室效应是CO₂的25倍） | 部分热带水库在蓄水初期，淹没植被腐烂产生的**甲烷**排放强度较高——但这一现象仅限于特定地区和蓄水初期，并非水电的普遍特征。 |
 | **受气候影响** | 干旱导致发电量大幅下降 | 2021年全球干旱使水力发电量下降**0.4%**，部分国家降幅超20% |
 
  **核心矛盾：** 水电是清洁的——但建坝的过程不"清洁"；水电是绿色的——但淹没的森林也是绿色的。水电是不是真正的"绿色能源"，取决于我们如何在发电效益与生态代价之间找到平衡。

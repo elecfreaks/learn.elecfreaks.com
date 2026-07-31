@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 9
 sidebar_label: 案例九：内燃机
 ---
@@ -24,10 +24,10 @@ sidebar_label: 案例九：内燃机
 |---|---|---|
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
-| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103530Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=7a743de279279e3155a0804920c1b4e13b8cf452b8e1c49c3d6b2b97d8496c2e) | 2 |
+| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png) | 2 |
 |Jacdac按钮传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Button%20sensor.png)|1|
-| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103330Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=4c6faf4c4385b9e34ec2180c882e451d7b9a6ef2c41d3f3e43c3451261aab160) | 1 |
-| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103304Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=346780dc133aadbb9ccb4e52942baf50879969b01d676ae61539e49c2ad1d203) | 1 |
+| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
+| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
 ---
@@ -68,9 +68,15 @@ sidebar_label: 案例九：内燃机
 
 ---
 
+## 传感器原理说明
+
+本案例使用**Jacdac外接按钮模块**作为输入传感器。按钮模块是一种数字开关传感器，按下时电路导通输出高电平信号（1），松开时电路断开输出低电平信号（0）。程序通过持续检测按钮的按下/松开状态来控制舵机的运转与停止，实现"按住=油门踩下、松开=熄火"的直观控制逻辑。
+
+---
+
 ## 连接示意图
 
-如下图所示，将micro:bit主板插入Jacdac扩展板，将舵机模块采用连接在Jacdac扩展板金手指接口上。
+如下图所示，将micro:bit主板插入Jacdac扩展板，将舵机模块连接在Jacdac扩展板金手指接口上。
 
 ![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/micro%EF%BC%9Abit%20%2B%E8%88%B5%E6%9C%BA%E6%A8%A1%E5%9D%97%2B%E8%88%B5%E6%9C%BA%2B%E6%8C%89%E9%94%AE.png)
 
@@ -108,7 +114,7 @@ sidebar_label: 案例九：内燃机
 
 1. 用数据线将micro:bit主板连接到计算机。
 
-   > ** 注意：** 若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
+   > **注意：** 若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
 
    ![连接micro:bit](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 
@@ -118,7 +124,7 @@ sidebar_label: 案例九：内燃机
 
 3. 点击 **"ADD BLOCKS"** 传感器扩展模块。
 
-   > ** 注意：** 连接新的传感器，重复执行一次"点击'ADD BLOCKS'传感器扩展模块"操作流程。
+   > **注意：** 连接新的传感器，重复执行一次"点击'ADD BLOCKS'传感器扩展模块"操作流程。
 
    ![ADD BLOCKS](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-7.png)
 
@@ -170,6 +176,14 @@ sidebar_label: 案例九：内燃机
 
 ---
 
+## 程序逻辑说明
+
+| 触发条件 | 动作 | 来源 |
+|---|---|---|
+| 按住外接按钮模块（按下不放） | 360°积木舵机以全速（100）持续旋转，模拟内燃机点火运转 | Jacdac 按钮传感器 |
+| 松开外接按钮模块 | 360°积木舵机立即停止旋转，模拟发动机熄火 | Jacdac 按钮传感器 |
+
+---
 
 ## 知识拓展：内燃机——150年的热力革命
 
@@ -194,7 +208,7 @@ sidebar_label: 案例九：内燃机
   ┌──────────┐                ┌──────────┐
   │ 进气门关  │                │ 两门关闭  │
   │ 排气门开  │                │ 火花点火  │
-  │ 活塞上行  │                │ 燃气爆炸  │
+  │ 活塞上行  │                │ 燃气燃烧  │
   │ 排出废气  │                │ 推动活塞  │
   └──────────┘                └──────────┘
 ```
@@ -203,7 +217,7 @@ sidebar_label: 案例九：内燃机
 |---|---|---|---|---|
 | **① 进气** | 下行（上止点→下止点） | 开 | 关 | 吸入汽油与空气的混合气 |
 | **② 压缩** | 上行（下止点→上止点） | 关 | 关 | 混合气被压缩，温度升至约400°C |
-| **③ 做功** | 下行（上止点→下止点） | 关 | 关 | 火花塞点火！燃气爆炸膨胀，推动活塞——**唯一输出动力的冲程** |
+| **③ 做功** | 下行（上止点→下止点） | 关 | 关 | 火花塞点火！燃气燃烧膨胀，推动活塞——**唯一输出动力的冲程** |
 | **④ 排气** | 上行（下止点→上止点） | 关 | 开 | 燃烧后的废气被推出气缸 |
 
 > **关键洞察：** 四个冲程中，只有**做功冲程**对外输出动力，其余三个冲程都在消耗能量。这就是为什么发动机需要**飞轮**——在做功冲程储存能量，在其他三个冲程释放能量维持运转。你的舵机模型中没有飞轮，但在真实发动机中，飞轮对平稳运转至关重要。曲轴每两圈（720°）中，只有约180°在真正"发力"。
@@ -242,7 +256,7 @@ sidebar_label: 案例九：内燃机
 
 | 年份 | 人物 | 国籍 | 里程碑 |
 |---|---|---|---|
-| 1673年 | 惠更斯（Christiaan Huygens） | 荷兰 | 首次提出用火药在气缸内爆炸推动活塞的构想，虽未成功，但播下了内燃机的种子 |
+| 1673年 | 惠更斯（Christiaan Huygens） | 荷兰 | 首次提出用火药在气缸内燃烧推动活塞的构想，虽未成功，但播下了内燃机的种子 |
 | 1824年 | 萨迪·卡诺（Sadi Carnot） | 法国 | 提出"卡诺循环"理论，揭示了热机效率的理论上限，为内燃机奠定热力学理论基础 |
 | 1860年 | 勒诺瓦（Étienne Lenoir） | 比利时 | 制造世界第一台实用的内燃机（二冲程、无压缩），热效率仅约4% |
 | 1861年 | 德·罗夏（Alphonse Beau de Rochas） | 法国 | 在论文中首次完整提出四冲程循环理论（进气→压缩→膨胀做功→排气），指出压缩是提高效率的关键 |
@@ -270,7 +284,7 @@ sidebar_label: 案例九：内燃机
 | 曲柄转角 | 活塞位置 | 对应的四冲程阶段（以做功冲程为例） |
 |---|---|---|
 | 0°（上止点） | 最高处 | 火花塞点火，燃烧开始 |
-| 90° | 快速下行 | 燃气膨胀，活塞被猛力下推 |
+| 90° | 快速下行 | 燃气燃烧膨胀，活塞被猛力下推 |
 | 180°（下止点） | 最低处 | 做功冲程结束，排气门即将打开 |
 | 270° | 上行中 | 排气冲程 |
 | 360°（上止点） | 回到最高处 | 完成两个冲程，下一个循环开始 |

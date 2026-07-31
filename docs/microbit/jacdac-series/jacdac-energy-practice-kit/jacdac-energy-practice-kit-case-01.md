@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: 案例一：仿古水车
 ---
@@ -9,13 +9,13 @@ sidebar_label: 案例一：仿古水车
 
 ## 简介
 
-360°积木舵机的转速与micro:bit主板**麦克风检测到的声音响度**实时关联——声音越大转速越快、声音越小转速越慢，模拟水流冲击水轮带动水碓的场景：声音代表了"水流的力量"。
+360°积木舵机的转速与micro:bit主板**麦克风检测到的声音响度**实时关联——声音越大转速越快、声音越小转速越慢，模拟水流冲击水轮带动水车的场景：声音代表了"水流的力量"。
 
 ---
 
 ## 案例目的
 
-1. 了解**声音传感器**——一可检测环境声音的响度.
+1. 了解**声音传感器**——一种可检测环境声音的响度.
 2. 理解**数据映射**——将麦克风采集的模拟量（声音值）映射为舵机转速，实现连续控制。
 3. 认识**筒车（水车）**——古代利用水力自动提水灌溉的机械装置。
 4. 了解古代水利灌溉工程及水能在人类文明发展中的关键作用。
@@ -28,22 +28,26 @@ sidebar_label: 案例一：仿古水车
 |---|---|---|
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
-| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103530Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=7a743de279279e3155a0804920c1b4e13b8cf452b8e1c49c3d6b2b97d8496c2e) | 1 |
-| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103330Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=4c6faf4c4385b9e34ec2180c882e451d7b9a6ef2c41d3f3e43c3451261aab160) | 1 |
-| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103304Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=346780dc133aadbb9ccb4e52942baf50879969b01d676ae61539e49c2ad1d203) | 1 |
+| Jacdac 10cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png) | 1 |
+| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
+| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
 ---
 
+## 传感器原理说明
+
+本案例使用micro:bit主板内置的麦克风作为传感器，实时采集环境声音响度（0~255），将其映射为舵机转速。
+
 ## 搭建步骤
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case01/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase01.pdf?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103749Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=59c120a674633d474f18b172af3f1c113342079104a045081ff6be1d6de625c8" type="application/pdf" width="100%" height="600px" />
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case01/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase01.pdf" type="application/pdf" width="100%" height="600px" />
 
 ---
 
 ## 模型原理说明
 
-### 360°舵机模块与水车模型
+### 360°积木舵机模块与水车模型
 
 360°积木舵机提供连续旋转动力，安装在水车轮盘的中心轴上。舵机旋转时带动整个轮盘转动，轮盘外缘安装的竹筒（或小水斗）依次进入"水面"取水、旋转至最高点后将水倾倒入水槽，模拟筒车自动汲水灌溉的过程。
 
@@ -51,9 +55,9 @@ sidebar_label: 案例一：仿古水车
 
 ## 连接示意图
 
-如下图所示，将micro:bit主板插入Jacdac扩展板、舵机模块采用连接在Jacdac扩展板金手指接口上。
+如下图所示，将micro:bit主板插入Jacdac扩展板，用连接线将360°积木舵机模块采用**菊花链方式**连接在Jacdac扩展板金手指接口上。
 
-![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/1.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T101534Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=9b0c964b2505fa170b3bca768ee8c24327df81754183c65c0abbf3aa72214a93)
+![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/micro%EF%BC%9Abit%20%2B%E8%88%B5%E6%9C%BA%E6%A8%A1%E5%9D%97%2B%E8%88%B5%E6%9C%BA.png)
 
 ---
 
@@ -107,7 +111,7 @@ sidebar_label: 案例一：仿古水车
 
 ## 如图所示编写程序
 
-![程序截图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case01/jacdac-energypractice-kit%2BProgram%2BCase01.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260722%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260722T101710Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=14c4be6fcb5c83086c766c7c0aa69ea695d90866ad85265fe59ee72dc8056c3c)
+![程序截图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case01/jacdac-energypractice-kit%2BProgram%2BCase01.png)
 
 ---
 
@@ -116,7 +120,6 @@ sidebar_label: 案例一：仿古水车
 📎[https://makecode.microbit.org/_WAqP0ebpAc6a](https://makecode.microbit.org/_WAqP0ebpAc6a)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
-
 <div
     style={{
         position: 'relative',
@@ -135,12 +138,11 @@ sidebar_label: 案例一：仿古水车
         }}
     />
 </div>
-
 ---
 
 ## 结果
 
-水车转动速度随着检测到的声音分贝的大小变化。
+水车转动速度随着检测到的声音值（0~255）的大小变化。
 
 ---
 
@@ -148,6 +150,15 @@ sidebar_label: 案例一：仿古水车
 
 1. 如果想让水车转速根据"水流大小"变化，可以怎样改进程序？
 2. 除了灌溉，筒车/水车的旋转动力还可以用来做什么？（提示：回顾之前学过的案例）
+
+---
+
+## 程序逻辑说明
+
+| 触发条件 | 动作 | 来源 |
+|---|---|---|
+| 检测声音大小 | 360°积木舵机以映射值的速度持续旋转，驱动水车 | micro:bit 声音传感器 |
+
 
 ---
 
@@ -188,7 +199,7 @@ sidebar_label: 案例一：仿古水车
 | 时期 | 重要发展 | 灌溉能力 |
 |---|---|---|
 | **隋唐**（约7世纪） | 筒车起源，杜甫有"连筒灌小园"诗句 | 单架日灌数十亩 |
-| **唐代**（9世纪） | 陈廷章作《水轮赋》，记载制造规章 | 广泛用于南方水田 |
+| **唐代**（9世纪） | 陈章作《水轮赋》，记载制造规章 | 广泛用于南方水田 |
 | **南宋** | 张孝祥诗："转此大法轮，救汝旱岁苦" | 浙赣湘粤桂普遍使用 |
 | **元代** | 王祯《农书》详绘图解，记载"高转筒车" | 提水高度可达十丈以上 |
 | **明代**（1556年） | 段续在兰州创制**黄河大水车**，轮径达**16~20米** | 单架昼夜灌**数百亩** |
@@ -237,7 +248,7 @@ sidebar_label: 案例一：仿古水车
 | **善用自然之力** | 筒车不烧油、不耗电，零碳排运行——是最纯粹的绿色能源应用。今天人类大力发展太阳能、风能、水能，本质上是在延续筒车时代的理念。 |
 | **简单即美** | 筒车的核心结构仅含木轮、竹筒、水槽三部分，无齿轮、无轴承精加工，却能昼夜不息精准运转——好的工程不一定复杂。 |
 | **因地制宜的智慧** | 南方用竹（轻便耐水）、北方用木（坚固耐久）、黄河沿岸造巨型水车（水流量大），古人根据当地材料和水文条件设计最适合的方案。 |
-| **if-else 的哲学** | 筒车的工作逻辑本质上就是一个 if-else：如果（水流冲击）{ 旋转汲水 } 否则 { 静止等待 }。你今天编写的按钮控制程序，遵循的正是同一套决策逻辑。程序中的 if-else，就像水车的水闸——**决定动力的开与关**。 |
+| **if-else 的哲学** | 筒车的工作逻辑本质上就是一个 if-else：如果（水流冲击）{ 旋转汲水 } 否则 { 静止等待 }。你今天编写的声控程序，遵循的正是同一套决策逻辑。程序中的 if-else，就像水车的水闸——**决定动力的开与关**。 |
 
 >  **思考：** 两千年前，古人面对奔流的溪水，想到用木轮和竹筒来借力灌溉；今天，你面对一块电路板和几行代码，同样在完成一件事——用智慧和工具，让机器替你工作。从筒车到舵机，从水轮到传感器，改变的只是载体，不变的是人类创造与改造世界的冲动。
 

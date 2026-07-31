@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 6
 sidebar_label: 案例六：风力发电
 ---
@@ -29,13 +29,16 @@ sidebar_label: 案例六：风力发电
 |---|---|---|
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
-| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103530Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=7a743de279279e3155a0804920c1b4e13b8cf452b8e1c49c3d6b2b97d8496c2e) | 1 |
-| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103330Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=4c6faf4c4385b9e34ec2180c882e451d7b9a6ef2c41d3f3e43c3451261aab160) | 1 |
-| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103304Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=346780dc133aadbb9ccb4e52942baf50879969b01d676ae61539e49c2ad1d203) | 1 |
+| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png) | 1 |
+| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
+| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
-
 ---
+
+## 传感器原理说明
+
+本案例使用micro:bit主板内置的加速度计作为传感器，检测主板的倾斜角度（前后方向），将倾斜角度映射为不同的风力等级和对应的舵机转速。
 
 ## 搭建步骤
 
@@ -159,6 +162,17 @@ sidebar_label: 案例六：风力发电
 
 ---
 
+## 程序逻辑说明
+
+| 触发条件 | 动作 | 来源 |
+|---|---|---|
+| 主板水平放置（倾斜角度小） | 舵机静止，无风状态 | micro:bit 加速度计 |
+| 主板轻微倾斜（小角度） | 舵机低转速旋转，模拟微风 | micro:bit 加速度计 |
+| 主板中等倾斜 | 舵机中速旋转，模拟风力渐强 | micro:bit 加速度计 |
+| 主板大幅度倾斜 | 舵机高速旋转，模拟强风 | micro:bit 加速度计 |
+
+---
+
 ## 知识拓展：风能——从帆船到海上风电场的万年之旅
 
 ### 一、风——人类最早的"免费能源"
@@ -196,15 +210,15 @@ sidebar_label: 案例六：风力发电
     ┌─────┴─────┐ ┌──┴──────────────┐
     │ 风推动旋转 │ │ 齿轮箱 → 发电机  │
     │ 捕捉风能   │ │ 动能 → 电能     │
-    │ 最长160m+ │ │ 偏航系统→对风  │
+    │ 最长140m+ │ │ 偏航系统→对风  │
     └───────────┘ └─────────────────┘
 ```
 
 | 部件 | 功能 | 有趣的事实 |
 |---|---|---|
-| 叶片 | 捕捉风能，将风的动能转化为旋转动能 | 现代叶片最长超过**160米**，比一个足球场还长 |
+| 叶片 | 捕捉风能，将风的动能转化为旋转动能 | 现代叶片最长超过**140米**，比一个足球场还长 |
 | 机舱（含发电机） | 将旋转动能转化为电能 | 内部装有偏航系统，会根据风向自动旋转机舱对准来风 |
-| 塔架 | 将风机托举到高空获取更强更稳的风 | 现代风机塔架高度可达**160米**，约50层楼高 |
+| 塔架 | 将风机托举到高空获取更强更稳的风 | 现代风机塔架高度可达**140米**，约50层楼高 |
 | 基础 | 将整个结构牢牢固定 | 海上风机基础重达**数千吨**，相当于一艘小型军舰 |
 
 > **关键数据：** 一台10 MW的海上风力发电机，叶片每转一圈大约需要4-5秒，但这一圈就能发电约**15度**。按此计算，一台风机一年可发电约**4,000万度**——足够约**12,000个**中国家庭使用一整年。
@@ -224,7 +238,7 @@ sidebar_label: 案例六：风力发电
 | 2024年风电行业就业人数 | 全球约**160万人** |
 | 57个国家 | 在2025年有新建风电项目 |
 
->  2024年，**丹麦**全国57%的电力来自风电，居全球第一。爱尔兰（36%）、乌拉圭（35%）、葡萄牙（29%）紧随其后。在这些国家，每三度电中就有一度来自风的馈赠。
+>  2024年，**丹麦**全国约55%（2024年数据）的电力来自风电，居全球第一。爱尔兰（36%）、乌拉圭（35%）、葡萄牙（29%）紧随其后。在这些国家，每三度电中就有一度来自风的馈赠。
 
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 7
 sidebar_label: 案例七：荷兰风车
 ---
@@ -28,9 +28,9 @@ sidebar_label: 案例七：荷兰风车
 |---|---|---|
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
-| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103530Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=7a743de279279e3155a0804920c1b4e13b8cf452b8e1c49c3d6b2b97d8496c2e) | 1 |
-| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103330Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=4c6faf4c4385b9e34ec2180c882e451d7b9a6ef2c41d3f3e43c3451261aab160) | 1 |
-| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103304Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=346780dc133aadbb9ccb4e52942baf50879969b01d676ae61539e49c2ad1d203) | 1 |
+| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png) | 1 |
+| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
+| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
 
@@ -54,9 +54,15 @@ sidebar_label: 案例七：荷兰风车
 
 ---
 
+## 传感器原理说明
+
+本案例未使用外接传感器模块，通过micro:bit主板自带的按键A和按键B即可完成控制。
+
+---
+
 ## 连接示意图
 
-如下图所示，将micro:bit主板插入Jacdac扩展板，将360°积木舵机模块采连接在Jacdac扩展板金手指接口上。
+如下图所示，将micro:bit主板插入Jacdac扩展板，将360°积木舵机模块连接在Jacdac扩展板金手指接口上。
 
 ![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/micro%EF%BC%9Abit%20%2B%E8%88%B5%E6%9C%BA%E6%A8%A1%E5%9D%97%2B%E8%88%B5%E6%9C%BA.png)
 
@@ -94,7 +100,7 @@ sidebar_label: 案例七：荷兰风车
 
 1. 用数据线将micro:bit主板连接到计算机。
 
-   > ** 注意：** 若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
+   > **注意：** 若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
 
    ![连接micro:bit](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 
@@ -104,7 +110,7 @@ sidebar_label: 案例七：荷兰风车
 
 3. 点击 **"ADD BLOCKS"** 传感器扩展模块。
 
-   > ** 注意：** 连接新的传感器，重复执行一次"点击'ADD BLOCKS'传感器扩展模块"操作流程。
+   > **注意：** 连接新的传感器，重复执行一次"点击'ADD BLOCKS'传感器扩展模块"操作流程。
 
    ![ADD BLOCKS](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-7.png)
 
@@ -155,6 +161,14 @@ sidebar_label: 案例七：荷兰风车
 
 ---
 
+## 程序逻辑说明
+
+| 触发条件 | 动作 | 来源 |
+|---|---|---|
+| 按下按键A | 360°积木舵机以全速（100）单方向连续旋转，模拟风车转动 | micro:bit 按键A |
+| 按下按键B | 360°积木舵机停止旋转，模拟风车停机 | micro:bit 按键B |
+
+---
 
 ## 知识拓展：荷兰风车——从古老智慧到现代风能
 
@@ -202,7 +216,7 @@ sidebar_label: 案例七：荷兰风车
 | 全球风电+太阳能发电占比（2024年） | 合计占全球电力的 **15%** |
 | 目前全球最大单台风力发电机 | 功率达 **26 MW**（兆瓦），叶片长度超过150米 |
 
-> 对比：一座现代大型风力发电机（10 MW）一天的发电量，大约相当于传统荷兰风车连续工作 **100年** 的排水量。技术的进步令人惊叹，但古老的智慧同样值得铭记。
+> 对比：一台现代大型风力发电机（10 MW）一天的发电量（约72 MWh），大约相当于一座传统荷兰风车连续工作**数月**的排水量。技术的进步令人惊叹，但古老的智慧同样值得铭记。
 
 ---
 
@@ -211,7 +225,7 @@ sidebar_label: 案例七：荷兰风车
 | 启示 | 说明 |
 |---|---|
 | **因地制宜** | 荷兰多风、低洼，风车是最优解。解决问题要善于利用本地条件。 |
-| **人定胜天** | 面对恶劣的地理环境，荷兰人没有退缩，用智慧创造了生存空间。 |
+| **与自然共生** | 面对恶劣的地理环境，荷兰人没有对抗自然，而是顺应风与水的规律，用智慧与自然合作创造了生存空间。 |
 | **清洁能源的远见** | 几百年前，荷兰人就已经在用零碳排的风能驱动整个国家的工农业。今天全球面临的能源转型挑战，答案或许就藏在历史的智慧中。 |
 | **技术与文化的融合** | 风车既是生产工具，也是文化符号。好的技术，应当造福人类，也能融入生活。 |
 

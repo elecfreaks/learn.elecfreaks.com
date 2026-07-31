@@ -1,9 +1,9 @@
 ---
 sidebar_position: 12
-sidebar_label: 案例十二：智能照明
+sidebar_label: 案例十二：智能台灯
 ---
 
-# 案例十二：智能照明
+# 案例十二：智能台灯
 
 ---
 
@@ -29,7 +29,7 @@ sidebar_label: 案例十二：智能照明
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
 | Jacdac 10cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png) |2|
-| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103530Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=7a743de279279e3155a0804920c1b4e13b8cf452b8e1c49c3d6b2b97d8496c2e) | 1 |
+| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png) | 1 |
 |Jacdac按钮传感器|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Button%20sensor.png)|1|
 | Jacdac 光敏传感器 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Light%20Sensor.png) | 1 |
 | Jacdac LED灯环 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20LED%20Ring.png) | 1 |
@@ -59,6 +59,16 @@ sidebar_label: 案例十二：智能照明
 工作流程：光敏传感器如同"门卫"，判断天黑才允许按钮生效。按钮如同"开关"，在天黑环境中按一次亮、再按一次灭——但如果天亮了，灯自动关、计数器归零，一切重置。
 
 >  程序使用一个**Count变量**来追踪按钮被按下的次数——Count=1代表开灯状态，Count=2代表关灯状态并自动归零。这种用变量记录状态的方法叫做**状态机（State Machine）**，是编程中最基础也最重要的设计模式之一。
+
+---
+
+## 传感器原理说明
+
+本案例使用**Jacdac光敏传感器**和**Jacdac按钮模块**作为输入传感器，**Jacdac LED灯环**作为输出执行器。
+
+**光敏传感器**的工作原理：光敏传感器内部含有光敏电阻（LDR）或光电二极管，其电阻值（或反向漏电流）会随环境光照强度的变化而改变——光照越强、电阻越小（电流越大），光照越弱、电阻越大（电流越小）。传感器将光信号转换为模拟电压值，再由ADC（模数转换器）转化为数字信号（0~255）供程序读取。
+
+**条件触发的状态切换逻辑**：本案例的核心在于"双重条件判断"——只有当**光敏值 < 30（天黑）** AND **按钮被按下**两个条件同时满足时，LED灯环才会切换开关状态。如果任意一个条件不满足（例如白天或按钮未被按下），系统不执行任何操作。这种"与逻辑"（AND逻辑）确保了智能台灯只在真正需要时才会亮起，避免白天误开灯造成的能源浪费。
 
 ---
 
@@ -102,7 +112,7 @@ sidebar_label: 案例十二：智能照明
 
 1. 用数据线将micro:bit主板连接到计算机。
 
-   > ** 注意：** 若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
+   > **注意：** 若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
 
    ![连接micro:bit](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 
@@ -112,7 +122,7 @@ sidebar_label: 案例十二：智能照明
 
 3. 点击 **"ADD BLOCKS"** 传感器扩展模块。
 
-   > ** 注意：** 连接新的传感器，重复执行一次"点击'ADD BLOCKS'传感器扩展模块"操作流程。
+   > **注意：** 连接新的传感器，重复执行一次"点击'ADD BLOCKS'传感器扩展模块"操作流程。
 
    ![ADD BLOCKS](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-7.png)
 

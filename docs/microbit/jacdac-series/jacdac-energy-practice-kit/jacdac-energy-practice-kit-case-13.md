@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 13
 sidebar_label: 案例十三：智能温室大棚
 ---
@@ -9,13 +9,13 @@ sidebar_label: 案例十三：智能温室大棚
 
 ## 简介
 
-同时使用**Jacdac温度传感器、湿度传感器和土壤湿度传感器**实时监测温室环境。只有当三个指标全部达标（温度<35、湿度<75、土壤湿度<50）时，micro:bit LED矩阵显示**笑脸**表示"作物生长环境良好"；任一指标不达标则显示**哭脸**报警。按下**按键A**，360°积木舵机正转打开通风窗；按下**按键B**，舵机反转关闭通风窗；触摸**Logo**，舵机停止。
+同时使用**Jacdac温湿度传感器和土壤湿度传感器**实时监测温室环境。只有当三个指标全部达标（温度<35、湿度<75、土壤湿度<50）时，micro:bit LED矩阵显示**笑脸**表示"作物生长环境良好"；任一指标不达标则显示**哭脸**报警。按下**按键A**，360°积木舵机正转打开通风窗；按下**按键B**，舵机反转关闭通风窗；触摸**Logo**，舵机停止。
 
 ---
 
 ## 案例目的
 
-1. 认识**温度传感器、湿度传感器、土壤湿度传感器**——温室环境监测的三大核心传感器。
+1. 认识**温湿度传感器和土壤湿度传感器**——温室环境监测的核心传感器。
 2. 理解**多条件逻辑判断（AND）**——所有条件同时满足才算达标。
 3. 学习**多传感器融合**——综合多个传感器的读数做出综合判断。
 4. 了解**智能温室大棚**在现代农业中的应用和意义。
@@ -30,17 +30,17 @@ sidebar_label: 案例十三：智能温室大棚
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
 | Jacdac 10cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png) | 1 |
 | Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103530Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=7a743de279279e3155a0804920c1b4e13b8cf452b8e1c49c3d6b2b97d8496c2e) | 1 |
-| Jacdac 温湿度传感器 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20HT.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260730%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260730T070757Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=22b69b832bd151d1b732d7662f93a6fcb5d80e2cebb6e6b476301f0e8aceef1c) | 1 |
-| Jacdac 土壤湿度传感器 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Moisture.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260730%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260730T070857Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=76e60b19c37a958cfc83165846ecee1803f392c1410e3919a3ddcb2dc73ae5d3) | 1 |
-| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103330Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=4c6faf4c4385b9e34ec2180c882e451d7b9a6ef2c41d3f3e43c3451261aab160) | 1 |
-| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103304Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=346780dc133aadbb9ccb4e52942baf50879969b01d676ae61539e49c2ad1d203) | 1 |
+| Jacdac 温湿度传感器 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20HT.png) | 1 |
+| Jacdac 土壤湿度传感器 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Moisture.png) | 1 |
+| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
+| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
 ---
 
 ## 传感器原理说明
 
-### 两大大温室传感器
+### 两大温室传感器
 
 本案例同时使用了两种Jacdac传感器，构成完整的温室环境监测系统：
 
@@ -76,9 +76,9 @@ sidebar_label: 案例十三：智能温室大棚
 
 ## 连接示意图
 
-如下图所示，将micro:bit主板插入Jacdac扩展板，用连接线将温度传感器、湿度传感器、土壤湿度传感器和360°积木舵机模块连接在Jacdac扩展板金手指接口上。
+如下图所示，将micro:bit主板插入Jacdac扩展板，用连接线将温湿度传感器、土壤湿度传感器和360°积木舵机模块连接在Jacdac扩展板金手指接口上。
 
-![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/micro%EF%BC%9Abit%20%2B%E8%88%B5%E6%9C%BA%E6%A8%A1%E5%9D%97%2B%E8%88%B5%E6%9C%BA%2B%E5%9C%9F%E5%A3%A4%2B%E6%B8%A9%E6%B9%BF%E5%BA%A6.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260730%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260730T071710Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=1f86d2ee3af05430a1cde4d717530aafe5d960dfe9aef837ceb0e307a92cf278)
+![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/micro%EF%BC%9Abit%20%2B%E8%88%B5%E6%9C%BA%E6%A8%A1%E5%9D%97%2B%E8%88%B5%E6%9C%BA%2B%E5%9C%9F%E5%A3%A4%2B%E6%B8%A9%E6%B9%BF%E5%BA%A6.png)
 
 ---
 
@@ -124,7 +124,7 @@ sidebar_label: 案例十三：智能温室大棚
 
 3. 点击 **"ADD BLOCKS"** 传感器扩展模块。
 
-   > ** 注意：** 连接新的传感器，重复执行一次"点击'ADD BLOCKS'传感器扩展模块"操作流程。
+   > **注意：** 连接新的传感器，重复执行一次"点击'ADD BLOCKS'传感器扩展模块"操作流程。
 
    ![ADD BLOCKS](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-7.png)
 
@@ -179,8 +179,8 @@ sidebar_label: 案例十三：智能温室大棚
 
 | 触发条件 | 动作 | 来源 |
 |---|---|---|
-| 温度<35 且 湿度<75 且 土壤湿度<50（环境适宜） | LED矩阵显示笑脸 | Jacdac 温度+湿度+土壤湿度传感器 |
-| 任一指标超标（温度≥35或湿度≥75或土壤湿度≥50） | LED矩阵显示哭脸 | Jacdac 温度+湿度+土壤湿度传感器 |
+| 温度<35 且 湿度<75 且 土壤湿度<50（环境适宜） | LED矩阵显示笑脸 | Jacdac 温湿度+土壤湿度传感器 |
+| 任一指标超标（温度≥35或湿度≥75或土壤湿度≥50） | LED矩阵显示哭脸 | Jacdac 温湿度+土壤湿度传感器 |
 | 按下按键A | 360°积木舵机正转（100），模拟打开通风窗 | micro:bit V2 按键A |
 | 按下按键B | 360°积木舵机反转（-100），模拟关闭通风窗 | micro:bit V2 按键B |
 | 触摸Logo | 360°积木舵机停止转动 | micro:bit V2 Logo触摸键 |
@@ -199,7 +199,7 @@ sidebar_label: 案例十三：智能温室大棚
 | 人工浇水施肥，凭经验 | 传感器精确监测，自动灌溉施肥 |
 | 病虫害发现晚，损失大 | 提前预警，精准防治 |
 | 水肥浪费严重 | 节水节肥30%~50% |
-| 产量不稳定 | 产量可提高**2~5倍** |
+| 产量不稳定 | 产量可**显著提高** |
 
 ### 二、温室环境参数标准
 

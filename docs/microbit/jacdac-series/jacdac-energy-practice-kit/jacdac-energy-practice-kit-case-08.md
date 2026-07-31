@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 8
 sidebar_label: 案例八：抽油机
 ---
@@ -16,7 +16,7 @@ sidebar_label: 案例八：抽油机
 ## 案例目的
 
 1. 认识舵机模块。
-2. 认识MakeCode中的按键A模块与按徽章模块。
+2. 认识MakeCode中的**按键A与按键B模块**——通过不同按键触发不同的舵机动作。
 3. 了解什么是石油。
 
 ---
@@ -27,9 +27,9 @@ sidebar_label: 案例八：抽油机
 |---|---|---|
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
-| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103530Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=7a743de279279e3155a0804920c1b4e13b8cf452b8e1c49c3d6b2b97d8496c2e) | 1 |
-| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103330Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=4c6faf4c4385b9e34ec2180c882e451d7b9a6ef2c41d3f3e43c3451261aab160) | 1 |
-| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103304Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=346780dc133aadbb9ccb4e52942baf50879969b01d676ae61539e49c2ad1d203) | 1 |
+| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png) | 1 |
+| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
+| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
 ---
@@ -45,7 +45,7 @@ sidebar_label: 案例八：抽油机
 
 ### 舵机模块（360°连续旋转舵机）
 
-![舵机模块](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103304Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=346780dc133aadbb9ccb4e52942baf50879969b01d676ae61539e49c2ad1d203)
+![舵机模块](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png)
 
 舵机模块（360°连续旋转舵机）：是一种可以360°连续旋转的电机模块，通过控制信号调节旋转速度和方向，而非像普通舵机那样固定在某个角度。常用于驱动机器人车轮、传送带、模拟机械往复运动等场景。
 
@@ -55,6 +55,12 @@ sidebar_label: 案例八：抽油机
 石油磕头机（游梁式抽油机）是油田采油的主要设备之一，通过电动机驱动，带动游梁上下往复摆动，从而带动抽油杆将地下的石油抽取到地面。因其外形动作类似"磕头"而得名。
 
 >  **小知识：** 石油是一种深埋地下的化石燃料，由古代生物遗体经过数百万年的地质作用形成，被称为"工业的血液"，是汽油、柴油、塑料、化纤等产品的重要原料。
+
+---
+
+## 传感器原理说明
+
+本案例未使用外接传感器模块，通过micro:bit主板自带的按键A和按键B即可完成控制。
 
 ---
 
@@ -98,7 +104,7 @@ sidebar_label: 案例八：抽油机
 
 1. 用数据线将micro:bit主板连接到计算机。
 
-   > ** 注意：** 若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
+   > **注意：** 若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
 
    ![连接micro:bit](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 
@@ -108,7 +114,7 @@ sidebar_label: 案例八：抽油机
 
 3. 点击 **"ADD BLOCKS"** 传感器扩展模块。
 
-   > ** 注意：** 连接新的传感器，重复执行一次"点击'ADD BLOCKS'传感器扩展模块"操作流程。
+   > **注意：** 连接新的传感器，重复执行一次"点击'ADD BLOCKS'传感器扩展模块"操作流程。
 
    ![ADD BLOCKS](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-7.png)
 
@@ -156,6 +162,15 @@ sidebar_label: 案例八：抽油机
 
 1. 舵机还可以应用在生活中的哪些场景？
 2. 除了石油磕头机，你还知道哪些石油开采设备？
+
+---
+
+## 程序逻辑说明
+
+| 触发条件 | 动作 | 来源 |
+|---|---|---|
+| 按下按键A | 360°积木舵机以全速（100）单方向连续旋转，模拟抽油机运转 | micro:bit 按键A |
+| 按下按键B | 360°积木舵机停止旋转，模拟抽油机停机 | micro:bit 按键B |
 
 ---
 
@@ -224,12 +239,12 @@ sidebar_label: 案例八：抽油机
 
 - 2025年全球新增风电装机 **167 GW**，同比增长 **47%**，累计装机约 **1,300 GW**。
 - 2024年全球风电发电量达 **2,494 TWh**，占全球电力的 **8.1%**。
-- 风能与太阳能合计，2024年为全球贡献了 **31.9%** 的电力（含水电等全部可再生能源）。
+- 风能与太阳能合计，2024年直接贡献了全球约**15%**的电力（若含水电等全部可再生能源则约为**31.9%**）。
 
 ####  电动汽车：改写石油需求
 
 - 新能源汽车大规模普及，正从根源上减少交通领域对石油的依赖。
-- 中国石油对外依存度从高位首次回落0.5个百分点，标志着能源转型初见成效。
+- 2024年全球电动汽车（含插电混动）销量突破**1,700万辆**，同比增长约25%，电动化浪潮正在全球范围内加速推进。
 
 ---
 

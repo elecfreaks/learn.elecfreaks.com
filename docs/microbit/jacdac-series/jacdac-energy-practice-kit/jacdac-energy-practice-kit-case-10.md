@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 10
 sidebar_label: 案例十：太阳能风扇
 ---
@@ -9,14 +9,14 @@ sidebar_label: 案例十：太阳能风扇
 
 ## 简介
 
-利用micro:bit主板**LED矩阵的光敏检测功能**实时检测环境光照强度。光照越强，360°积木舵机驱动风扇叶片的**转速越快**（最低20%、最高100%）；光照越弱，转速越慢；完全黑暗时风扇以最低速20%运转。模拟太阳能风扇——阳光越强、风扇转得越猛的真实场景。
+利用micro:bit主板**LED矩阵的光敏检测功能**实时检测环境光照强度。光照越强，360°积木舵机驱动风扇叶片的**转速越快**（最低20%、最高100%）；光照越弱，转速越慢；完全黑暗时风扇以最低速20%运转（模拟待机状态）。模拟太阳能风扇——阳光越强、风扇转得越猛的真实场景。
 
 ---
 
 ## 案例目的
 
 1. 认识micro:bit **LED矩阵的光敏检测**功能——LED复用为光传感器。
-2. 理解**自动控制与手动控制的结合**——光控自动调速 + 按键手动开关。
+2. 理解**自动控制**——光照强度实时自动调节风扇转速。
 3. 了解**太阳能**在日常生活中的实际应用——太阳能风扇、太阳能路灯等。
 4. 学习**数据映射**——将光照值（0~255）映射为舵机转速，实现平滑调速。
 
@@ -28,9 +28,9 @@ sidebar_label: 案例十：太阳能风扇
 |---|---|---|
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
-| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103530Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=7a743de279279e3155a0804920c1b4e13b8cf452b8e1c49c3d6b2b97d8496c2e) | 1 |
-| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103330Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=4c6faf4c4385b9e34ec2180c882e451d7b9a6ef2c41d3f3e43c3451261aab160) | 1 |
-| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103304Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=346780dc133aadbb9ccb4e52942baf50879969b01d676ae61539e49c2ad1d203) | 1 |
+| Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png) | 1 |
+| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
+| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
 ---
@@ -57,11 +57,17 @@ sidebar_label: 案例十：太阳能风扇
 
 ---
 
+## 传感器原理说明
+
+本案例使用micro:bit主板**LED矩阵的光敏检测功能**作为传感器。micro:bit的LED矩阵除了显示图案外，还可以复用为光敏传感器——通过测量LED的反向漏电流来感知环境光照强度。光照值范围为0~255（0=最暗，255=最亮），程序通过`map`函数将光照值映射为舵机转速（20~100），实现光照越强、风扇转速越快的自动调速效果。
+
+---
+
 ## 连接示意图
 
 如下图所示，将micro:bit主板插入Jacdac扩展板，将舵机模块连接在Jacdac扩展板金手指接口上。
 
-![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/micro%EF%BC%9Abit%20%2B%E8%88%B5%E6%9C%BA%E6%A8%A1%E5%9D%97%2B%E8%88%B5%E6%9C%BA.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260724%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260724T065933Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=345a2081789d6f60df550fbf1c74d98c98a383d6b08befa5d5ba4c4024020475)
+![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/micro%EF%BC%9Abit%20%2B%E8%88%B5%E6%9C%BA%E6%A8%A1%E5%9D%97%2B%E8%88%B5%E6%9C%BA.png)
 
 ---
 
@@ -158,6 +164,16 @@ sidebar_label: 案例十：太阳能风扇
 
 ---
 
+## 程序逻辑说明
+
+| 触发条件 | 动作 | 来源 |
+|---|---|---|
+| 光照强度变化（持续检测） | 将光照值（0~255）映射为舵机转速（20~100），光照越强转速越快，光照越弱转速越慢 | micro:bit LED矩阵光敏检测 |
+| 完全黑暗（光照值≈0） | 舵机以最低转速20%运转（模拟待机状态） | micro:bit LED矩阵光敏检测 |
+| 强光照射（光照值≈255） | 舵机以最高转速100%全速运转 | micro:bit LED矩阵光敏检测 |
+
+---
+
 ## 知识拓展：太阳能——地球上最"大方"的免费能源
 
 ### 一、太阳能到底有多"大方"
@@ -184,13 +200,8 @@ sidebar_label: 案例十：太阳能风扇
 | 太阳能充电宝 | 折叠光伏板 → 充电电路 → USB输出 | 5~28 W |
 | 家用屋顶光伏 | 光伏组件阵列 → 逆变器 → 家庭用电+并网 | 3~10 kW |
 
-### 三、太阳能风扇的智慧——自动+手动的结合
+### 三、自动控制的智慧
 
-本案例将**自动控制**（光敏→调速）和**手动控制**（按钮→开关）结合起来，体现了真实产品设计的核心思想：
+本案例展示了纯自动控制的理念——micro:bit的LED矩阵光敏传感器实时检测光照强度，程序自动将光照值映射为风扇转速，无需任何人工操作。光照越强，风扇转得越快；光照越弱，风扇转得越慢；完全黑暗时风扇以最低速运转（模拟待机状态）。
 
-| 模式 | 控制方式 | 应用场景 |
-|---|---|---|
-| 自动模式 | 光敏传感器实时调控 | 无需人工干预，阳光出来自动转 |
-| 手动模式 | 按钮开关切换 | 用户想关就关、想开就开 |
-
-真实的智能家居产品——如智能窗帘（光照自动调 + 手机遥控）、智能灯光（环境光自动调亮 + 手动开关）——都遵循这一设计理念。好的产品应该是：平时自动运行、省心省力；需要时手动可控、灵活方便。
+自动控制的核心优势在于"无需人为干预"——系统通过传感器感知环境变化，由程序自主做出决策并驱动执行器动作。这种"感知→决策→执行"的闭环逻辑，正是从恒温器到自动驾驶汽车等一切智能系统的基础。真实的太阳能产品（如太阳能路灯、太阳能排风扇）正是依靠这样的自动控制逻辑，实现了全天候无人值守运行。

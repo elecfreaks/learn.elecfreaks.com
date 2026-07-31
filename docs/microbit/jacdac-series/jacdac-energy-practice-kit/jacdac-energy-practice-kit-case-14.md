@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 14
 sidebar_label: 案例十四：天气检测机器人
 ---
@@ -9,13 +9,13 @@ sidebar_label: 案例十四：天气检测机器人
 
 ## 简介
 
-利用**Jacdac湿度传感器和温度传感器**组成一个便携式气象检测站。按下**按键A**，通过串口读取当前空气湿度并显示；按下**按键B**，读取当前温度并显示。程序持续自动监测环境：当**湿度高于80**时，LED矩阵显示「✕」并蜂鸣报警（湿度过高）；当**温度高于33**时，显示**哭脸**并蜂鸣报警（温度过高）。
+利用**Jacdac温湿度传感器**组成一个便携式气象检测站。按下**按键A**，通过串口读取当前空气湿度并显示；按下**按键B**，读取当前温度并显示。程序持续自动监测环境：当**湿度高于80**时，LED矩阵显示「✕」并蜂鸣报警（湿度过高）；当**温度高于33**时，显示**哭脸**并蜂鸣报警（温度过高）。
 
 ---
 
 ## 案例目的
 
-1. 认识**湿度传感器和温度传感器**——气象观测的两大基础传感器。
+1. 认识**温湿度传感器**——气象观测的基础传感器。
 2. 理解**阈值报警**机制——当传感器读数超出设定范围时触发声光报警。
 3. 了解**气象观测**的基本要素及天气预报的数据来源。
 4. 学习**多任务并发**——按键查询 + 自动监测同时运行。
@@ -29,10 +29,23 @@ sidebar_label: 案例十四：天气检测机器人
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
 | Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103530Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=7a743de279279e3155a0804920c1b4e13b8cf452b8e1c49c3d6b2b97d8496c2e) | 1 |
-| Jacdac 温湿度传感器 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20HT.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260730%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260730T070757Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=22b69b832bd151d1b732d7662f93a6fcb5d80e2cebb6e6b476301f0e8aceef1c) | 1 |
+| Jacdac 温湿度传感器 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20HT.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
 ---
+
+## 传感器原理说明
+
+### 温湿度传感器
+
+Jacdac温湿度传感器集成了温度检测和湿度检测功能，可同时输出环境温度和空气湿度两个数值。
+
+| 检测内容 | 本案例阈值 | 说明 |
+|---|---|---|
+| 温度 | >33°C（报警）（注：33°C阈值可根据当地气候调整） | 温度过高→LED显示哭脸+蜂鸣报警 |
+| 湿度 | >80%（报警） | 湿度过高→LED显示✕+蜂鸣报警 |
+
+> 温度与湿度密切相关——温度升高，空气可以容纳的水汽量增大。高温高湿的天气会让人感到闷热难耐（"桑拿天"），这也是气象观测中最关注的两个核心参数。
 
 
 ## 搭建步骤
@@ -59,9 +72,9 @@ sidebar_label: 案例十四：天气检测机器人
 
 ## 连接示意图
 
-如下图所示，将micro:bit主板插入Jacdac扩展板，用连接线将温度传感器和湿度传感器采用**菊花链方式**连接在Jacdac扩展板金手指接口上。
+如下图所示，将micro:bit主板插入Jacdac扩展板，用连接线将温湿度传感器连接在Jacdac扩展板金手指接口上。
 
-![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/1.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260730%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260730T072744Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=f43a65f09083cd3a13fa9cc68c4fa1f9339210a06a462aa3c3d43a508f47fee9)
+![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/1.png)
 
 ---
 
@@ -97,7 +110,7 @@ sidebar_label: 案例十四：天气检测机器人
 
 1. 用数据线将micro:bit主板连接到计算机。
 
-   > ** 注意：** 若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
+   > **注意：** 若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
 
    ![连接micro:bit](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 
@@ -147,7 +160,7 @@ sidebar_label: 案例十四：天气检测机器人
 
 ## 结果
 
-按下**按键A**，串口输出当前空气湿度值（停留5秒），方便查看数据；按下**按键B**，串口输出当前温度值（停留5秒）。程序持续在后台自动监测：当**湿度高于80**时，LED矩阵显示「✕」图标并蜂鸣器发出报警音——"湿度过高！"；当**温度高于33**时，显示哭脸并蜂鸣——"温度太高！"。温湿度恢复正常后报警自动停止。
+按下**按键A**，串口输出当前空气湿度值（停留5秒），方便查看数据；按下**按键B**，串口输出当前温度值（停留5秒）。程序持续在后台自动监测：当**湿度高于80**时，LED矩阵显示「✕」图标并蜂鸣器发出报警音——"湿度过高！"；当**温度高于33**（注：33°C阈值可根据当地气候调整）时，显示哭脸并蜂鸣——"温度太高！"。温湿度恢复正常后报警自动停止。
 
 ---
 
@@ -162,11 +175,11 @@ sidebar_label: 案例十四：天气检测机器人
 
 | 触发条件 | 动作 | 来源 |
 |---|---|---|
-| 按下按键A | 串口输出湿度传感器读数，等待5秒后返回 | micro:bit V2 按键A + Jacdac 湿度传感器 |
-| 按下按键B | 串口输出温度传感器读数，等待5秒后返回 | micro:bit V2 按键B + Jacdac 温度传感器 |
-| 湿度 > 80（自动监测） | LED显示✕ + 蜂鸣报警——湿度过高警告 | Jacdac 湿度传感器 |
-| 温度 > 33（自动监测） | LED显示哭脸 + 蜂鸣报警——温度过高警告 | Jacdac 温度传感器 |
-| 温湿度均正常 | 停止所有报警音 | Jacdac 温度+湿度传感器 |
+| 按下按键A | 串口输出湿度传感器读数，等待5秒后返回 | micro:bit V2 按键A + Jacdac 温湿度传感器 |
+| 按下按键B | 串口输出温度传感器读数，等待5秒后返回 | micro:bit V2 按键B + Jacdac 温湿度传感器 |
+| 湿度 > 80（自动监测） | LED显示✕ + 蜂鸣报警——湿度过高警告 | Jacdac 温湿度传感器 |
+| 温度 > 33（注：33°C阈值可根据当地气候调整）（自动监测） | LED显示哭脸 + 蜂鸣报警——温度过高警告 | Jacdac 温湿度传感器 |
+| 温湿度均正常 | 停止所有报警音 | Jacdac 温湿度传感器 |
 
 ---
 

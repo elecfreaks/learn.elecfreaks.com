@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 5
 sidebar_label: 案例五：风向标
 ---
@@ -28,11 +28,14 @@ micro:bit主板内置的**电子罗盘（磁力计）**检测地磁方向，将�
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
 | Jacdac 10cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png) | 1 |
-| Jacdac温湿度传感器| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20HT.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T095900Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=05c921e6d3065a86c52e372076e7307f05ef2cdfa7708f2ccff60f2d141e8991) | 1 |
+| Jacdac温湿度传感器| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20HT.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
 ---
 
+## 传感器原理说明
+
+本案例使用micro:bit主板内置的磁力计（电子罗盘）作为传感器，检测地磁方向并输出0°~360°的方位角数据，程序根据方位角的不同范围显示对应的箭头图标。
 
 ## 搭建步骤
 
@@ -54,7 +57,7 @@ micro:bit主板内置的**电子罗盘（磁力计）**检测地磁方向，将�
 
 如下图所示，将micro:bit主板插入Jacdac扩展板，将Jacdac温湿度连接在Jacdac扩展板金手指接口上。
 
-![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/1.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T100034Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=83f6b47b2e017d189303ae97139d804bff9065c58feb81bf7019705d1345d8e6)
+![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/1.png)
 
 ---
 
@@ -140,7 +143,7 @@ micro:bit主板内置的**电子罗盘（磁力计）**检测地磁方向，将�
 
 ## 结果
 
-将micro:bit主板**水平放置并缓慢旋转**，5*5LED显示屏东、南、西、北、四个方位，结合风向标来判断当前的风向。
+将micro:bit主板**水平放置并缓慢旋转**，5×5 LED点阵屏上**显示**东、南、西、北四个方位的箭头图标，结合磁力计读数来判断主板当前指向的方位。
 
 ---
 
@@ -148,6 +151,14 @@ micro:bit主板内置的**电子罗盘（磁力计）**检测地磁方向，将�
 
 1. 磁力计检测的是地磁北极，而地图上的"北"是地理北极——两者并不完全重合。你知道这是为什么吗？（提示：搜索"磁偏角"）
 2. 如果把micro:bit放在金属桌面或手机旁边，方向读数会发生什么变化？为什么？
+
+---
+
+## 程序逻辑说明
+
+| 触发条件 | 动作 | 来源 |
+|---|---|---|
+| 磁力计检测方位角 | 根据方位角范围（0°~360°）判断方向，在5×5 LED点阵屏上显示东、南、西、北四个方位的箭头图标 | micro:bit 磁力计 |
 
 ---
 

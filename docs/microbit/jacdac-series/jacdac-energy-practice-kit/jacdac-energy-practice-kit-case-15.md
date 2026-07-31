@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 15
 sidebar_label: 案例十五：高空风力发电机
 ---
@@ -9,7 +9,7 @@ sidebar_label: 案例十五：高空风力发电机
 
 ## 简介
 
-利用micro:bit主板**内置光敏传感器**判断昼夜——只有在**白天光线充足（光敏值>30）**时风力发电机才启动。启动后，360°积木舵机的转速由micro:bit主板**麦克风检测到的声音响度**实时控制——声音越大转速越快（0~100），模拟高空风力发电机在夜间依靠强劲气流发电的场景。光线暗（光敏值≤30）时舵机自动停止。
+利用micro:bit主板**内置光敏传感器**判断昼夜——只有在**白天光线充足（光敏值>30）**时风力发电机才启动。启动后，360°积木舵机的转速由micro:bit主板**麦克风检测到的声音响度**实时控制——声音越大转速越快（0~100），模拟风力发电机在光线充足时依靠气流发电的场景。光线暗（光敏值≤30）时舵机自动停止。
 
 ---
 
@@ -31,11 +31,24 @@ sidebar_label: 案例十五：高空风力发电机
 | Jacdac 10cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png) | 2 |
 | Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103530Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=7a743de279279e3155a0804920c1b4e13b8cf452b8e1c49c3d6b2b97d8496c2e) | 1 |
 | Jacdac 光敏传感器 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20Light%20Sensor.png) | 1 |
-| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103330Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=4c6faf4c4385b9e34ec2180c882e451d7b9a6ef2c41d3f3e43c3451261aab160) | 1 |
-| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103304Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=346780dc133aadbb9ccb4e52942baf50879969b01d676ae61539e49c2ad1d203) | 1 |
+| Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
+| 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
 ---
+
+## 传感器原理说明
+
+### micro:bit V2 内置光敏传感器与麦克风
+
+本案例使用了micro:bit V2主板内置的两种传感器，无需外接传感器模块：
+
+| 传感器 | 检测内容 | 本案例阈值 | 说明 |
+|---|---|---|---|
+| micro:bit V2 光敏传感器 | 环境光照强度 | >30（启动发电） | 光线充足→启动舵机，模拟风力发电机运行 |
+| micro:bit V2 麦克风 | 声音响度 | 0~255（映射为0~100转速） | 声音越大→舵机转速越快，模拟风速大小 |
+
+> **注意：** 本案例使用光敏传感器模拟"白天"判断，仅作为教学简化。真实的高空风力发电机可全天候运行。
 
 
 ## 搭建步骤
@@ -66,7 +79,7 @@ sidebar_label: 案例十五：高空风力发电机
 
 如下图所示，将micro:bit主板插入Jacdac扩展板，用连接线将360°积木舵机模块、光敏传感器连接在Jacdac扩展板金手指接口上。
 
-![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/micro%EF%BC%9Abit%20%2B%E8%88%B5%E6%9C%BA%E6%A8%A1%E5%9D%97%2B%E8%88%B5%E6%9C%BA%2B%E5%85%89%E6%95%8F.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260730%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260730T073609Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=55fdf81bd6a95f988c1f7b4b9cc911372e32af554f95c50896fef31a2e9b2d52)
+![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/micro%EF%BC%9Abit%20%2B%E8%88%B5%E6%9C%BA%E6%A8%A1%E5%9D%97%2B%E8%88%B5%E6%9C%BA%2B%E5%85%89%E6%95%8F.png)
 
 ---
 
@@ -192,10 +205,10 @@ sidebar_label: 案例十五：高空风力发电机
 
 | 技术路线 | 原理 | 代表公司 |
 |---|---|---|
-| **系留风筝式** | 大型风筝在空中做"8字形"飞行，通过系留缆绳拉动地面发电机 | Makani（Google X）、Kitekraft |
+| **系留风筝式** | 大型风筝在空中做"8字形"飞行，通过系留缆绳拉动地面发电机 | Kitekraft |
 | **系留无人机式** | 多旋翼无人机携带小型风力发电机升空，通过电缆传输电力 | Altaeros（浮空气球+涡轮） |
 | **高空浮空器式** | 氦气飞艇将风力涡轮带到300~600米高度 | Altaeros BAT |
 
-> 据估计，高空风能的全球理论蕴藏量是地面风能的**4倍以上**，可满足全球电力需求的**100倍**。然而，技术仍处于早期阶段——如何让一个数百米长的系留系统在雷暴、结冰和极端大风中安全运行，是最大的工程难题。
+> 据估计，高空风能的理论蕴藏量远大于地面风能。然而，技术仍处于早期阶段——如何让一个数百米长的系留系统在雷暴、结冰和极端大风中安全运行，是最大的工程难题。值得注意的是，真实的高空风力发电机可全天候运行（白天和夜间均可发电），本案例使用光敏传感器判断"光线充足→发电"仅为教学简化设计。
 
 ---

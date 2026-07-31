@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 16
 sidebar_label: 案例十六：智能土壤湿度装置
 ---
@@ -28,7 +28,7 @@ sidebar_label: 案例十六：智能土壤湿度装置
 | micro:bit V2 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png) | 1 |
 | Jacdac扩展板 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20bit.png) | 1 |
 | Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103530Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=7a743de279279e3155a0804920c1b4e13b8cf452b8e1c49c3d6b2b97d8496c2e) | 2 |
-| Jacdac 土壤湿度传感器 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Moisture.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260730%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260730T070857Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=76e60b19c37a958cfc83165846ecee1803f392c1410e3919a3ddcb2dc73ae5d3) | 1 |
+| Jacdac 土壤湿度传感器 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Moisture.png) | 1 |
 | Jacdac LED灯环 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20LED%20Ring.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
 
@@ -38,7 +38,7 @@ sidebar_label: 案例十六：智能土壤湿度装置
 
 ### 土壤湿度传感器
 
-Jacdac土壤湿度传感器通过测量土壤的**介电常数**（或电阻率）来推算含水量。水分子是极性分子，含水量越高，土壤的介电常数越大（或电阻率越低）。传感器将这一物理量转化为模拟数值输出。
+Jacdac土壤湿度传感器通过测量土壤的**介电常数**来推算含水量。水分子是极性分子，含水量越高，土壤的介电常数越大。传感器将这一物理量转化为模拟数值输出。
 
 | 湿度范围 | 土壤状态 | LED指示 | 建议 |
 |---|---|---|---|
@@ -47,7 +47,7 @@ Jacdac土壤湿度传感器通过测量土壤的**介电常数**（或电阻率�
 | 50~70% |  湿润 | 绿灯 亮度60% | 湿度适宜，无需浇水 |
 | 70+% |  过湿 | 灯灭 | 停止浇水，防止烂根 |
 
-> 大多数植物的根系适宜含水量在**50%~70%**之间。低于50%开始缺水胁迫，高于80%则根系缺氧、可能烂根。精确控制土壤湿度是农业灌溉中最关键的环节。
+> 大多数植物的根系适宜含水量在**50%~70%**之间。低于20%开始缺水胁迫，高于80%则根系缺氧、可能烂根。精确控制土壤湿度是农业灌溉中最关键的环节。
 
 ---
 
@@ -78,7 +78,7 @@ Jacdac土壤湿度传感器通过测量土壤的**介电常数**（或电阻率�
 
 如下图所示，将micro:bit主板插入Jacdac扩展板，用连接线将土壤湿度传感器和LED灯环连接在Jacdac扩展板金手指接口上。
 
-![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/micro%EF%BC%9Abit%20%2B%E5%9C%9F%E5%A3%A4%2BLED.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260730%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260730T080921Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=24175d7c5f434ac1efa21eeb91f789d2714b573cd8886fa35531c5b09b7db318)
+![连接示意图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E7%A1%AC%E4%BB%B6%E8%BF%9E%E7%BA%BF%E5%9B%BE/micro%EF%BC%9Abit%20%2B%E5%9C%9F%E5%A3%A4%2BLED.png)
 
 ---
 
@@ -114,7 +114,7 @@ Jacdac土壤湿度传感器通过测量土壤的**介电常数**（或电阻率�
 
 1. 用数据线将micro:bit主板连接到计算机。
 
-   > ** 注意：** 若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
+   > **注意：** 若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
 
    ![连接micro:bit](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 
@@ -199,7 +199,7 @@ Jacdac土壤湿度传感器通过测量土壤的**介电常数**（或电阻率�
 | 滴灌 | 90%~95% | 温室、果园、高价值作物 |
 | **传感器精准灌溉** | **95%+** | **智能温室、垂直农场** |
 
->  中国农业用水占总用水量的约**62%**，但灌溉水有效利用系数仅为**0.57**（以色列为0.87）。如果全面推广传感器精准灌溉，中国每年可节水**数百亿立方米**——相当于**南水北调中线工程年调水量的数倍**。
+>  全球农业用水占淡水取用量的约70%，推广传感器精准灌溉每年可节水数百亿立方米。
 
 ### 二、if-elif-else——多级分类的编程范型
 

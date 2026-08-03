@@ -1,8 +1,3 @@
----
-sidebar_position: 13
-sidebar_label: 案例十二：智能台灯
----
-
 # 案例十二：智能台灯
 
 ---

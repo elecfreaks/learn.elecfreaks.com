@@ -1,5 +1,5 @@
 ﻿---
-sidebar_position: 13
+sidebar_position: 14
 sidebar_label: 案例十三：智能温室大棚
 ---
 
@@ -138,7 +138,7 @@ sidebar_label: 案例十三：智能温室大棚
 
 ## 参考程序链接
 
-📎[https://makecode.microbit.org/_ac7XFk7rE4Fa](https://makecode.microbit.org/_ac7XFk7rE4Fa)
+[https://makecode.microbit.org/_ac7XFk7rE4Fa](https://makecode.microbit.org/_ac7XFk7rE4Fa)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 <div
@@ -211,7 +211,7 @@ sidebar_label: 案例十三：智能温室大棚
 | 光照强度 | 20,000~50,000 lux | 光敏传感器 |
 | CO₂浓度 | 800~1,200 ppm | CO₂传感器 |
 
-> 📊 据联合国粮农组织（FAO）统计，到2050年全球人口将达**97亿**，粮食需求将增加约**60%**。智能温室为代表的精准农业，是应对这一挑战的关键技术之一。
+> 据联合国粮农组织（FAO）统计，到2050年全球人口将达**97亿**，粮食需求将增加约**60%**。智能温室为代表的精准农业，是应对这一挑战的关键技术之一。
 
 ---
 

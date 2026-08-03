@@ -1,8 +1,3 @@
-﻿---
-sidebar_position: 17
-sidebar_label: 案例十六：智能土壤湿度装置
----
-
 # 案例十六：智能土壤湿度装置
 
 ---

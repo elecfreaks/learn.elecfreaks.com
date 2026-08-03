@@ -1,9 +1,4 @@
-﻿---
-sidebar_position: 5
-sidebar_label: 案例四：波浪发电
----
-
-# 案例四：波浪发电
+﻿# 案例四：波浪发电
 
 ---
 

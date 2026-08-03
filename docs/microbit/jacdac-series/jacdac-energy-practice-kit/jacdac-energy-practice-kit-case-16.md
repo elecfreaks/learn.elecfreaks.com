@@ -1,5 +1,5 @@
 ﻿---
-sidebar_position: 16
+sidebar_position: 17
 sidebar_label: 案例十六：智能土壤湿度装置
 ---
 
@@ -138,7 +138,7 @@ Jacdac土壤湿度传感器通过测量土壤的**介电常数**来推算含水�
 
 ## 参考程序链接
 
-📎[https://makecode.microbit.org/_0JXiAC5rCeYd](https://makecode.microbit.org/_0JXiAC5rCeYd)
+[https://makecode.microbit.org/_0JXiAC5rCeYd](https://makecode.microbit.org/_0JXiAC5rCeYd)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 <div

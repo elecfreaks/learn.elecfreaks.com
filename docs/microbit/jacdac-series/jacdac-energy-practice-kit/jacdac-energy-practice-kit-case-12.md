@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12
+sidebar_position: 13
 sidebar_label: 案例十二：智能台灯
 ---
 
@@ -136,7 +136,7 @@ sidebar_label: 案例十二：智能台灯
 
 ## 参考程序链接
 
-📎[https://makecode.microbit.org/_VLgXsR1WpKbb](https://makecode.microbit.org/_VLgXsR1WpKbb)
+[https://makecode.microbit.org/_VLgXsR1WpKbb](https://makecode.microbit.org/_VLgXsR1WpKbb)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 <div

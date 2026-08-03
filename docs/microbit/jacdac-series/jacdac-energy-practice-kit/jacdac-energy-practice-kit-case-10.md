@@ -1,8 +1,3 @@
-﻿---
-sidebar_position: 11
-sidebar_label: 案例十：太阳能风扇
----
-
 # 案例十：太阳能风扇
 
 ---

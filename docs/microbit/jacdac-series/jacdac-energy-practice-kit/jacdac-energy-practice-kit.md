@@ -36,7 +36,7 @@ Jacdac 能源实践套件专为 STEAM 教育打造，依托即插即用生态，
 |![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Moisture.png)|土壤湿度传感器|用于检测土壤中的水分百分比。|
 |![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20HT.png) |温湿度传感器 |用于检测的当前环境的温度与湿度 |
 |![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) |舵机模块 |用于连接舵机模块|
-|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png?x-oss-credential=LTAI5t9aG6u4N7PfV6n23XUj%2F20260723%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260723T103304Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=346780dc133aadbb9ccb4e52942baf50879969b01d676ae61539e49c2ad1d203) | 360°积木舵机|用于360°顺时针或逆时针旋转|
+|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 360°积木舵机|用于360°顺时针或逆时针旋转|
 |![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/microbit%20%E6%AD%A3(1).png)|micro:bit V2 主板（内置传感器）|micro:bit V2主板除运行程序外，还内置了麦克风（检测声音响度）、加速度计（检测倾斜/运动/手势）、指南针（检测方向）和LED矩阵（兼具光敏检测功能），无需外接即可实现多种传感功能。|
 
 ## 目录

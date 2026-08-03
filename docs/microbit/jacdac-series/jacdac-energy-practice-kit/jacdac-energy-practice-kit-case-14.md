@@ -1,5 +1,5 @@
 ﻿---
-sidebar_position: 14
+sidebar_position: 15
 sidebar_label: 案例十四：天气检测机器人
 ---
 
@@ -134,7 +134,7 @@ Jacdac温湿度传感器集成了温度检测和湿度检测功能，可同时�
 
 ## 参考程序链接
 
-📎[https://makecode.microbit.org/_6io7diRHP9tW](https://makecode.microbit.org/_6io7diRHP9tW)
+[https://makecode.microbit.org/_6io7diRHP9tW](https://makecode.microbit.org/_6io7diRHP9tW)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 <div

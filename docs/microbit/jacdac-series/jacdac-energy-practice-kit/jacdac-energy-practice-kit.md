@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: 产品介绍
+sidebar_label: Jacdac能源实践套件
 ---
 
 # Jacdac能源实践套件

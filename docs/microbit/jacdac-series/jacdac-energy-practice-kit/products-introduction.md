@@ -1,7 +1,6 @@
 ---
 sidebar_position: 0
 sidebar_label: 产品介绍
-
 ---
 
 # Jacdac能源实践套件

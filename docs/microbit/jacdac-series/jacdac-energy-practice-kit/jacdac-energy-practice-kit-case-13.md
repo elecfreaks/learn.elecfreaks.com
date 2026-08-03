@@ -1,8 +1,3 @@
-﻿---
-sidebar_position: 14
-sidebar_label: 案例十三：智能温室大棚
----
-
 # 案例十三：智能温室大棚
 
 ---

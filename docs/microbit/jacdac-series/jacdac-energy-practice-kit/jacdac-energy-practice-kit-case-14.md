@@ -1,8 +1,3 @@
-﻿---
-sidebar_position: 15
-sidebar_label: 案例十四：天气检测机器人
----
-
 # 案例十四：天气检测机器人
 
 ---

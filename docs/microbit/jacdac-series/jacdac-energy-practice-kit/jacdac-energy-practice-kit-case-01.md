@@ -1,8 +1,3 @@
-﻿---
-sidebar_position: 2
-sidebar_label: 案例一：仿古水车
----
-
 # 案例一：仿古水车
 
 ---

@@ -117,7 +117,7 @@ sidebar_label: 案例一：仿古水车
 
 ## 参考程序链接
 
-📎[https://makecode.microbit.org/_WAqP0ebpAc6a](https://makecode.microbit.org/_WAqP0ebpAc6a)
+[https://makecode.microbit.org/_WAqP0ebpAc6a](https://makecode.microbit.org/_WAqP0ebpAc6a)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 <div

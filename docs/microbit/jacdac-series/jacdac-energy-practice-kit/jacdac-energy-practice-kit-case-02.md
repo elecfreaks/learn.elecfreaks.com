@@ -1,5 +1,5 @@
 ﻿---
-sidebar_position: 2
+sidebar_position: 3
 sidebar_label: 案例二：舂米机
 ---
 

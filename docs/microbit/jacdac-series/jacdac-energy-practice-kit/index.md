@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label:Jacdac能源实践套件
+sidebar_label: Jacdac能源实践套件
 ---
 
 # Jacdac能源实践套件

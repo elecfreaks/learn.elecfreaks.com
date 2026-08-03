@@ -1,8 +1,3 @@
-﻿---
-sidebar_position: 8
-sidebar_label: 案例七：荷兰风车
----
-
 # 案例七：荷兰风车
 
 ---

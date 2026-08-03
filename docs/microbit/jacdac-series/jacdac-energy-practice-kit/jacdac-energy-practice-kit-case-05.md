@@ -117,7 +117,7 @@ micro:bit主板内置的**电子罗盘（磁力计）**检测地磁方向，将�
 
 ## 参考程序链接
 
-📎[https://makecode.microbit.org/_3XeaWzi7FALP](https://makecode.microbit.org/_3XeaWzi7FALP)
+[https://makecode.microbit.org/_3XeaWzi7FALP](https://makecode.microbit.org/_3XeaWzi7FALP)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 <div

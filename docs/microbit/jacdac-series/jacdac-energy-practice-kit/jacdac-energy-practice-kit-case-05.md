@@ -1,9 +1,4 @@
-﻿---
-sidebar_position: 5
-sidebar_label: 案例五：风向标
----
-
-# 案例五：风向标
+﻿# 案例五：风向标
 
 ---
 

@@ -1,8 +1,3 @@
-﻿---
-sidebar_position: 1
-sidebar_label: 案例一：仿古水车
----
-
 # 案例一：仿古水车
 
 ---
@@ -41,7 +36,7 @@ sidebar_label: 案例一：仿古水车
 
 ## 搭建步骤
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case01/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase01.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case01/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase01.pdf" width="100%" height="600px" />
 
 ---
 
@@ -117,7 +112,7 @@ sidebar_label: 案例一：仿古水车
 
 ## 参考程序链接
 
-📎[https://makecode.microbit.org/_WAqP0ebpAc6a](https://makecode.microbit.org/_WAqP0ebpAc6a)
+[https://makecode.microbit.org/_WAqP0ebpAc6a](https://makecode.microbit.org/_WAqP0ebpAc6a)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 <div

@@ -1,8 +1,3 @@
----
-sidebar_position: 11
-sidebar_label: 案例十一：太阳能追踪
----
-
 # 案例十一：太阳能追踪
 
 ---

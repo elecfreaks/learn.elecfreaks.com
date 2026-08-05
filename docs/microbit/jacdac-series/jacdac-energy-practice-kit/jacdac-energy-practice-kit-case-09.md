@@ -1,8 +1,4 @@
-﻿---
-sidebar_position: 9
-sidebar_label: 案例九：内燃机
----
-
+# 案例九：内燃机
 
 ## 简介
 

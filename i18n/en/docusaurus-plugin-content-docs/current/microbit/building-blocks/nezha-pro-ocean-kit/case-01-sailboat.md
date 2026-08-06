@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 sidebar_label: Case1:Sailboat
 ---
 
@@ -10,34 +10,34 @@ sidebar_label: Case1:Sailboat
 ## Story Introduction
 Ian harbors a dream of exploring the ocean, eager to witness the wonders of sperm whales, coral reefs, and deep-sea fish. He hopes to head to the vast sea to find his father who went to sea years ago and hasn't returned. At night, Ian clutches his father's nautical log, falls asleep to the rhythm of the waves, and in his dream, he sails a small boat, uncovering the mysteries of the deep ocean. Please help Ian build a small boat.
 
---- 
+---
 
 ## Teaching Preparation
 |Name|Illustration|
 |:----------: | :--------------------------:|
 |Nezha Pro Ocean Kit|![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/nezha-pro-ocean-kit-products-introduction-002.png.png)|
 
---- 
-## Teaching Objectives 
+---
+## Teaching Objectives
 1. Understand different types of boats.
 
 2. Get to know the dual-track line sensor.
 
 3. Learn to use the branch structure building blocks.
 
---- 
+---
 ## Learning and Exploration
 
 1. Share the types of boats you know and the power-driven boats.
 
 2. Discuss with classmates why boats can float on the water.
 
---- 
+---
 ## Construction Steps
 
 <embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case01/nezha-pro-ocean-kit-step-01-1.png.pdf" type="application/pdf" width="100%" height="600px" />
 
---- 
+---
 
 ## Hardware Connection
 
@@ -49,7 +49,7 @@ The dual-track line sensor is connected to the "J4" port of the Nezha expansion 
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ocean-kit/setup-diagram/case01/nezha-pro-ocean-kit-step-01-2.png)
 
---- 
+---
 ## Code Programming
 
 Go to "[makecode.microbit.org](https://makecode.microbit.org)" and click **New Project**.

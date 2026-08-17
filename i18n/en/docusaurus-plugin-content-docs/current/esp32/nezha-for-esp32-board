@@ -221,16 +221,16 @@ To use the dedicated blocks for the Nezha For ESP32 Board, add the corresponding
 
 | Block Category | Function Description | Status |
 | --- | --- | --- |
-| Basic Control | Read device information, initialize the controller, and set operating status | [To be added] |
-| Screen Display | Display text, values, icons, or pages on the color display | [To be added] |
-| Button Input | Read the status of Button A / B / C | [To be added] |
-| RGB LEDs | Set the color of one or all RGB LEDs | [To be added] |
-| Onboard Ambient Light | Read ambient light data | [To be added] |
-| Onboard Microphone | Read sound or noise data | [To be added] |
-| Onboard Gyroscope | Read posture, tilt, or motion data | [To be added] |
-| External Sensors | Read data from RJ11 external sensors | [To be added] |
-| Motor Control | Control motor speed, direction, stop, or operating status | [To be added] |
-| IoT Platform | Upload data to the Smart IoT platform | [To be added] |
+| Basic Control | Read device information, initialize the controller, and set operating status |  |
+| Screen Display | Display text, values, icons, or pages on the color display | |
+| Button Input | Read the status of Button A / B / C |  |
+| RGB LEDs | Set the color of one or all RGB LEDs |  |
+| Onboard Ambient Light | Read ambient light data |  |
+| Onboard Microphone | Read sound or noise data |  |
+| Onboard Gyroscope | Read posture, tilt, or motion data |  |
+| External Sensors | Read data from RJ11 external sensors |  |
+| Motor Control | Control motor speed, direction, stop, or operating status |  |
+| IoT Platform | Upload data to the Smart IoT platform |  |
 
 ---
 
@@ -274,6 +274,7 @@ This example reads data from the onboard microphone. When the sound level exceed
 2. Select the corresponding device in MicroBlocks.
 3. After the connection is successful, run or write the program.
 4. Before disconnecting, confirm that the program is running correctly.
+5. If the program needs to be saved, use the program storage function of the board.
 
 
 ---

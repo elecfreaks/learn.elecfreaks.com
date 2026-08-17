@@ -37,7 +37,6 @@ The interface color identification system uses different colors to distinguish i
 | Blue | IIC (I²C) interface | Connects IIC communication modules |
 | Red | Motor interface | Connects motors or compatible actuators |
 
-![Interface Color Identification System](./images/nezha-esp32-color-system.png)
 
 ---
 
@@ -82,7 +81,7 @@ The board supports connection to the Smart IoT platform. Users can design data d
 
 ### Building-Block Ecosystem Compatibility
 
-The board supports LEGO and Fischertechnik building-block ecosystems and can be combined with building-block structures to create robots, environmental monitoring devices, intelligent systems, and other creative projects.
+The board Compatible with mainstream studded building blocks and fischertechnik-style structural parts and can be combined with building-block structures to create robots, environmental monitoring devices, intelligent systems, and other creative projects.
 
 ---
 
@@ -105,7 +104,7 @@ The board supports LEGO and Fischertechnik building-block ecosystems and can be 
 | Programming Methods | MicroBlocks, MicroPython, Python |
 | Programming Connection | Wired programming, Bluetooth wireless programming |
 | IoT Capability | Supports Smart IoT platform |
-| Building-Block Compatibility | Supports LEGO and Fischertechnik building-block ecosystems |
+| Building-Block Compatibility | Compatible with mainstream studded building blocks and fischertechnik-style structural parts |
 
 ---
 
@@ -250,9 +249,6 @@ Connect each module according to its module type and interface color. When conne
 
 ---
 
-### Example Connection
-
----
 
 ## Program Examples
 
@@ -260,7 +256,6 @@ Connect each module according to its module type and interface color. When conne
 
 This example reads data from the onboard ambient light sensor of the board and displays the current ambient light intensity on the screen.
 
-#### Reference Program
 
 ---
 
@@ -268,19 +263,18 @@ This example reads data from the onboard ambient light sensor of the board and d
 
 This example reads data from the onboard microphone. When the sound level exceeds the preset value, the RGB LEDs display a reminder color.
 
-#### Reference Program
 
 ---
 
 ## How to Run a Program on the Board
 
-Suggested content to be added:
+
 
 1. Use a USB Type-C cable to connect the computer and the board.
 2. Select the corresponding device in MicroBlocks.
 3. After the connection is successful, run or write the program.
 4. Before disconnecting, confirm that the program is running correctly.
-5. If the program needs to be saved, use the program storage function of the board.
+
 
 ---
 

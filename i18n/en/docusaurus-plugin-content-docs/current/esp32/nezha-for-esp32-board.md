@@ -1,5 +1,8 @@
 # Nezha For ESP32 Board
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-01.jpg​)​
+
+
 ---
 
 ## Introduction
@@ -13,6 +16,7 @@ The Nezha For ESP32 Board supports MicroBlocks graphical programming, MicroPytho
 ---
 
 ## Features
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-02.jpg​)
 
 ### Fully Enclosed Protective Design
 

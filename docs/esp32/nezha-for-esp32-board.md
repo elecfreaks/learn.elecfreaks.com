@@ -1,5 +1,5 @@
 # 哪吒 ESP32 多功能主控盒
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-01.jpg?x-oss-credential=LTAI5t9Taj8anqzPxLJSsS1x%2F20260818%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260818T081508Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=dc1310985b02fe342f627b399d6695711d485a2713acb8ecb8518b8473503f00)
 ***
 
 ## 简介

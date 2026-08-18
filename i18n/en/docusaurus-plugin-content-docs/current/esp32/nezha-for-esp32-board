@@ -122,10 +122,9 @@ The front side of the board is equipped with 3 programmable buttons, which can b
 
 | Button | Common Function |
 | --- | --- |
-| Button A | Previous item / Custom input |
-| Button B | Next item / Custom input |
-| Button C | Confirm / Custom input |
-| Button A + Button B | Return to previous level |
+| Button A | Back / Custom input |
+| Button B | Confirm / Custom input |
+| Button C | Next item / Custom input |
 
 ---
 

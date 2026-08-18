@@ -1,6 +1,6 @@
 # Nezha For ESP32 Board
 
-![]([https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-01.jpg](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-01.jpg?x-oss-credential=LTAI5t9Taj8anqzPxLJSsS1x%2F20260818%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260818T074049Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=0ee6f48e715a3c872e94f3ccaddd40d708b1bafbc564249ef000e6549d58716f)​)​
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-01.jpg?x-oss-credential=LTAI5t9Taj8anqzPxLJSsS1x%2F20260818%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260818T080554Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=9af0b9e08084cd94aed92243b3c2a408ae24c95aa10437e08b482a770e519e64)
 
 
 ---
@@ -16,7 +16,7 @@ The Nezha For ESP32 Board supports MicroBlocks graphical programming, MicroPytho
 ---
 
 ## Features
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-02.jpg​)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-02.jpg?x-oss-credential=LTAI5t9Taj8anqzPxLJSsS1x%2F20260818%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260818T081312Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=7dbab0a12729005c9602c6d44cdf544767a3b565466a25363ca4b61ee8ee9fb1)
 
 ### Fully Enclosed Protective Design
 

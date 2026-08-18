@@ -1,6 +1,6 @@
 # Nezha For ESP32 Board
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-01.jpg​)​
+![]([https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-01.jpg](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-01.jpg?x-oss-credential=LTAI5t9Taj8anqzPxLJSsS1x%2F20260818%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260818T074049Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=0ee6f48e715a3c872e94f3ccaddd40d708b1bafbc564249ef000e6549d58716f)​)​
 
 
 ---

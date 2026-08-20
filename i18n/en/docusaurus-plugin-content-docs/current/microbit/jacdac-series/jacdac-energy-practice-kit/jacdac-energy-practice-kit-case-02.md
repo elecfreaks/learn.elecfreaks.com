@@ -36,7 +36,7 @@ This case does not use an external sensor module; control is achieved entirely t
 
 ## Assembly Steps
 
-<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case07/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase07.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case02/jacdac-energypractice-kit%2BAssembly%20Diagram%2BCase02.pdf" type="application/pdf" width="100%" height="600px" />
 
 ---
 

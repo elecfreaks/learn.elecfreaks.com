@@ -1,6 +1,9 @@
 # 案例二：水力发电
 
 ---
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Jacdac%E8%83%BD%E6%BA%90%E5%AE%9E%E8%B7%B5%E5%A5%97%E4%BB%B6/3.%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5.jpg)
+---
+
 ## 简介
 
 对着micro:bit主板**说话、拍手或制造声音**——声音越大，LED灯环越亮、360°积木舵机驱动水轮发电机转速越快，模拟水流越湍急、发电功率越高；声音越小，LED越暗、舵机越慢；完全安静时LED熄灭、舵机停止，模拟水枯停机。声音代表了"水流的力量"。

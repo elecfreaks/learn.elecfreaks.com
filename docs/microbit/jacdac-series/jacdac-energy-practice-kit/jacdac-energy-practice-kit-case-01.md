@@ -2,6 +2,9 @@
 
 ---
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Jacdac%E8%83%BD%E6%BA%90%E5%AE%9E%E8%B7%B5%E5%A5%97%E4%BB%B6/1.%E4%BB%BF%E6%B0%B4%E8%BD%A6.jpg)
+
+---
 ## 简介
 
 360°积木舵机的转速与micro:bit主板**麦克风检测到的声音响度**实时关联——声音越大转速越快、声音越小转速越慢，模拟水流冲击水轮带动水车的场景：声音代表了"水流的力量"。

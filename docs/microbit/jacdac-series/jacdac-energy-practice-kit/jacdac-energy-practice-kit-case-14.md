@@ -1,6 +1,9 @@
 # 案例十四：天气检测机器人
 
 ---
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Jacdac%E8%83%BD%E6%BA%90%E5%AE%9E%E8%B7%B5%E5%A5%97%E4%BB%B6/%E5%A4%A9%E6%B0%94%E5%B0%8F%E4%BA%BA.jpg)
+
+---
 
 ## 简介
 

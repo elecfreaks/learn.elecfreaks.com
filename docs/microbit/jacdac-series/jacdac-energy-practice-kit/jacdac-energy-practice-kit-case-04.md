@@ -131,7 +131,7 @@
 
 ## 如图所示编写程序
 
-![程序截图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case04/jacdac-energypractice-kit%2BProgram%2BCase04.png)
+![程序截图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case04/microbit-screenshot(1).png)
 
 ---
 

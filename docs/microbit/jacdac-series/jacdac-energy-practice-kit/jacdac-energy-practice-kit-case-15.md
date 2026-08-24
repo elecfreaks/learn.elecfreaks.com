@@ -32,6 +32,7 @@
 | Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
 | 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
+| Jacdac能源实践套件积木 |  | 1 |
 
 ---
 
@@ -164,6 +165,7 @@
 ## 结果
 
 在**光线充足时（光敏值>30）**，对着micro:bit主板大声说话或拍手，360°积木舵机开始旋转——声音越大转速越快（0~100），模拟白天风力发电机随风运转；安静下来舵机停止。用手遮挡LED矩阵**模拟天黑或阴天（光敏值≤30）**后，无论声音多大，舵机保持静止——"光线不足不发电"。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%A8%A1%E5%9E%8BGIF/%E9%AB%98%E7%A9%BA%E5%8F%91%E7%94%B5.gif)
 
 ---
 

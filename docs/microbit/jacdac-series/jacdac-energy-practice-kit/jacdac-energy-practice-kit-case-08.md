@@ -1,6 +1,9 @@
 # 案例八：抽油机
 
 ---
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Jacdac%E8%83%BD%E6%BA%90%E5%AE%9E%E8%B7%B5%E5%A5%97%E4%BB%B6/%E7%9F%B3%E6%B2%B9%E7%A3%95%E5%A4%B4%E6%9C%BA.jpg)
+
+---
 
 ## 简介
 

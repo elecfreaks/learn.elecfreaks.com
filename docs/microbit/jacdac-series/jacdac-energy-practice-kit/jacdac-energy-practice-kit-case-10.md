@@ -153,7 +153,7 @@
 ## 结果
 
 用手电筒或手机闪光灯照射micro:bit主板的LED矩阵时，风扇叶片**高速旋转**（最高100%转速）——阳光越强、风力越大；用手遮挡LED矩阵（模拟阴天），风扇转速自动降低至约20%最低速运转；移开遮挡物后，风扇转速立即回升。光照强度实时决定风扇转速，无需任何手动操作。
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%A8%A1%E5%9E%8BGIF/%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%A8%A1%E5%9E%8BGIF/%E5%A4%AA%E9%98%B3%E8%83%BD%E9%A3%8E%E6%89%87.gif)
 
 ---
 

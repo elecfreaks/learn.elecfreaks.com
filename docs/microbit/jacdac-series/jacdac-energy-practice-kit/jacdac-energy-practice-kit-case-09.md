@@ -171,6 +171,7 @@
 ## 结果
 
 按住Jacdac**外接按钮模块**时，360°积木舵机全速旋转，曲柄带动连杆和活塞上下往复运动，模拟内燃机点火运转——"油门踩到底"；松开按钮，舵机立即停止，活塞静止，模拟发动机熄火。按住=运转、松开=熄火，简单直观。
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%A8%A1%E5%9E%8BGIF/%E5%86%85%E7%87%83%E6%9C%BA.gif)
 
 ---

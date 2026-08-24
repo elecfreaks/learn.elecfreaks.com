@@ -1,6 +1,9 @@
 # 案例十：太阳能风扇
 
 ---
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Jacdac%E8%83%BD%E6%BA%90%E5%AE%9E%E8%B7%B5%E5%A5%97%E4%BB%B6/%E5%A4%AA%E9%98%B3%E8%83%BD%E9%A3%8E%E6%89%87.jpg)
+
+---
 
 ## 简介
 

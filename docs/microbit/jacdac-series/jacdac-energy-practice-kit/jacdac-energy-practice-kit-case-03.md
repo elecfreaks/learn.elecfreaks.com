@@ -32,6 +32,7 @@
 | Jacdac灯环 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20LED%20Ring.png) | 1 |
 | 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
+| Jacdac能源实践套件积木 |  | 1 |
 
 ---
 
@@ -150,6 +151,8 @@
 ## 结果
 
 声音响度实时关联——声音越大，360°积木舵机转速越快、Jacdac灯环越亮；声音越小，360°积木舵机转速越慢、Jacdac灯环越暗，模拟水力发电站。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%A8%A1%E5%9E%8BGIF/%E6%B0%B4%E5%8A%9B%E5%8F%91%E7%94%B5.gif)
 
 ---
 

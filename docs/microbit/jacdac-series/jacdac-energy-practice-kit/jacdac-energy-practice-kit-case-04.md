@@ -29,6 +29,7 @@
 | Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
 | 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
+| Jacdac能源实践套件积木 |  | 1 |
 
 ---
 
@@ -169,6 +170,8 @@
 ## 结果
 
 对着micro:bit主板**大声说话或拍手**时，360°积木舵机高速旋转驱动凸轮，浮子剧烈上下起伏，模拟"狂风巨浪、满负荷发电"；轻声细语时，起伏平缓，模拟"微风细浪"；完全安静时，舵机停止、浮子静止，模拟"海面如镜"。声音大小实时控制波浪强度。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%A8%A1%E5%9E%8BGIF/%E6%B3%A2%E6%B5%AA%E5%8F%91%E7%94%B5.gif)
 
 ---
 

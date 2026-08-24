@@ -2,6 +2,10 @@
 
 ---
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Jacdac%E8%83%BD%E6%BA%90%E5%AE%9E%E8%B7%B5%E5%A5%97%E4%BB%B6/2.%E8%88%82%E7%B1%B3%E6%9C%BA.jpg)
+
+---
+
 ## 简介
 
 按下micro:bit主板的**按键A**，360°积木舵机以全速（-100）旋转驱动凸轮机构，模拟古代舂米机往复舂捣谷物的动作；按下**按键B**，舵机停止转动。

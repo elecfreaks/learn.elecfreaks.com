@@ -1,10 +1,18 @@
 # 案例九：内燃机
 
+---
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Jacdac%E8%83%BD%E6%BA%90%E5%AE%9E%E8%B7%B5%E5%A5%97%E4%BB%B6/%E5%86%85%E7%87%83%E6%9C%BA.jpg)
+
+---
+
+
 ## 简介
 
 按住Jacdac**外接按钮模块**不放，360°积木舵机持续旋转，通过曲柄连杆机构将旋转运动转化为活塞的往复直线运动，模拟内燃机点火运转；松开按钮，舵机停止，模拟发动机熄火。按钮按下=油门踩下，松开=熄火。
 
 ---
+
 
 ## 案例目的
 

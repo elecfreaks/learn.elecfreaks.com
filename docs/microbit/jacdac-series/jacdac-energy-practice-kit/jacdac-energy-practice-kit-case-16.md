@@ -1,4 +1,8 @@
-# 案例十六：智能土壤湿度装置
+# 案例十六：智能土壤湿度检测装置
+
+---
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Jacdac%E8%83%BD%E6%BA%90%E5%AE%9E%E8%B7%B5%E5%A5%97%E4%BB%B6/%E5%9C%9F%E5%A3%A4%E6%A3%80%E6%B5%8B.jpg)
 
 ---
 

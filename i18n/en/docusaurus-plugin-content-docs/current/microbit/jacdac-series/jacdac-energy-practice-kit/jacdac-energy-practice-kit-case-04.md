@@ -129,7 +129,7 @@ As shown below, insert the micro:bit V2 board into the Jacdac expansion board, a
 
 ## Write the Program as Shown
 
-![Program Screenshot](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case04/jacdac-energypractice-kit%2BProgram%2BCase04.png)
+![Program Screenshot](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Images/Case04/microbit-screenshot(1).png)
 
 ---
 

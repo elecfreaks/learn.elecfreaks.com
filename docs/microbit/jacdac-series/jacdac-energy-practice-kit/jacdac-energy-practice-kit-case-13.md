@@ -166,6 +166,7 @@
 ## 结果
 
 当温度<35、湿度<75、土壤湿度<50**三个条件同时满足**时，micro:bit LED矩阵显示**笑脸**，表示温室环境适宜作物生长。任一指标超标（温度≥35或湿度≥75或土壤湿度≥50），立即显示**哭脸**报警。按下**按键A**，360°积木舵机正转（100），模拟打开通风窗；按下**按键B**，舵机反转（-100），模拟关闭通风窗；触摸**Logo**，舵机停止。
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%A8%A1%E5%9E%8BGIF/%E6%99%BA%E8%83%BD%E6%B8%A9%E5%AE%A4%E5%A4%A7%E6%A3%9A.gif)
 
 ---

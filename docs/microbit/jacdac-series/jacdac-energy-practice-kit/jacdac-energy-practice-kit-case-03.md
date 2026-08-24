@@ -1,7 +1,9 @@
 # 案例二：水力发电
 
 ---
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Jacdac%E8%83%BD%E6%BA%90%E5%AE%9E%E8%B7%B5%E5%A5%97%E4%BB%B6/%E6%B0%B4%E5%8A%9B%E5%8F%91%E7%94%B5.jpg)
+
 ---
 
 ## 简介

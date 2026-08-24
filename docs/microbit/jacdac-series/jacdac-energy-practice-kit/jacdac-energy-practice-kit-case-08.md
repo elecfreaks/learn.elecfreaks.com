@@ -29,6 +29,7 @@
 | Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
 | 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
+| Jacdac能源实践套件积木 |  | 1 |
 
 ---
 
@@ -153,6 +154,8 @@
 ## 结果
 
 按下micro:bit主板的**按键A**，360°积木舵机以全速旋转，驱动游梁上下往复摆动，模拟石油磕头机持续抽油；按下**按键B**，舵机停止转动，模拟抽油机停机。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%A8%A1%E5%9E%8BGIF/%E7%A3%95%E5%A4%B4%E6%9C%BA.gif)
 
 ---
 

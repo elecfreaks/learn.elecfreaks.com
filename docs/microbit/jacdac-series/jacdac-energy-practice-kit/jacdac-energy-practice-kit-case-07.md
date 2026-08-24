@@ -30,7 +30,7 @@
 | Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
 | 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
-
+| Jacdac能源实践套件积木 |  | 1 |
 
 ---
 
@@ -150,6 +150,7 @@
 
 按下micro:bit主板的**按键A**，360°积木舵机开始单方向连续旋转，模拟荷兰风车随风转动的场景；按下micro:bit主板的**按键B**，舵机停止转动。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%A8%A1%E5%9E%8BGIF/%E8%8D%B7%E5%85%B0%E9%A3%8E%E8%BD%A6.gif)
 ---
 
 ## 思考

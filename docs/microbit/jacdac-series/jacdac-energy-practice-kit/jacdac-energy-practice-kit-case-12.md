@@ -2,6 +2,11 @@
 
 ---
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Jacdac%E8%83%BD%E6%BA%90%E5%AE%9E%E8%B7%B5%E5%A5%97%E4%BB%B6/%E6%99%BA%E8%83%BD%E5%8F%B0%E7%81%AF.jpg
+)
+
+---
+
 ## 简介
 
 利用**Jacdac光敏传感器**实时检测环境光照强度。当环境变暗时，按下Jacdac**外接按钮模块**，LED灯环点亮红色、台灯开启；再次按下按钮，LED熄灭、台灯关闭。只有在光线不足时按钮才起作用——白天按了也没反应，模拟智能台灯"天黑才需要开灯"的逻辑。

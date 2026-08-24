@@ -1,6 +1,11 @@
 # 案例十三：智能温室大棚
 
 ---
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Jacdac%E8%83%BD%E6%BA%90%E5%AE%9E%E8%B7%B5%E5%A5%97%E4%BB%B6/%E6%99%BA%E8%83%BD%E6%B8%A9%E5%AE%A4%E5%A4%A7%E6%A3%9A.jpg
+)
+
+---
+
 
 ## 简介
 

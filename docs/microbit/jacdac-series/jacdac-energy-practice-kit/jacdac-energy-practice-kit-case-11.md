@@ -30,6 +30,7 @@
 | Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
 | 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
+| Jacdac能源实践套件积木 |  | 1 |
 
 ---
 
@@ -169,6 +170,7 @@
 ## 结果
 
 当光源照到追光太阳能模型上时，两组光敏传感器分别检测左右两侧的光照强度。如果一侧较亮，舵机自动向暗侧旋转带动太阳能板转向光源，直到两侧光照值相近（差值<阈值）后停止。移动光源位置时，系统自动重新追踪，始终保持太阳能板正对光源。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%A8%A1%E5%9E%8BGIF/%E5%A4%AA%E9%98%B3%E8%83%BD%E8%BF%BD%E5%85%89.gif)
 
 ---
 

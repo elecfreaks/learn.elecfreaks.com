@@ -28,6 +28,7 @@ micro:bit主板内置的**电子罗盘（磁力计）**检测地磁方向，将�
 | Jacdac 10cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-10cm-cable.png) | 1 |
 | Jacdac温湿度传感器| ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20HT.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
+| Jacdac能源实践套件积木 |  | 1 |
 
 ---
 
@@ -142,6 +143,8 @@ micro:bit主板内置的**电子罗盘（磁力计）**检测地磁方向，将�
 ## 结果
 
 将micro:bit主板**水平放置并缓慢旋转**，5×5 LED点阵屏上**显示**东、南、西、北四个方位的箭头图标，结合磁力计读数来判断主板当前指向的方位。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%A8%A1%E5%9E%8BGIF/%E9%A3%8E%E5%90%91%E6%A0%87.gif)
 
 ---
 

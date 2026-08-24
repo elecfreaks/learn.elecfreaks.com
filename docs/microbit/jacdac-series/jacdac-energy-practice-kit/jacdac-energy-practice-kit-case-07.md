@@ -1,6 +1,9 @@
 # 案例七：荷兰风车
 
 ---
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Jacdac%E8%83%BD%E6%BA%90%E5%AE%9E%E8%B7%B5%E5%A5%97%E4%BB%B6/%E8%8D%B7%E5%85%B0%E9%A3%8E%E8%BD%A6.jpg)
+
+---
 
 ## 简介
 

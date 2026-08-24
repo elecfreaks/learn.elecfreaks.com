@@ -164,6 +164,11 @@
 
 在光线充足时（光敏值≥30），按按钮无任何反应——"白天不需要开灯"。用手遮挡光敏传感器模拟天黑（光敏值<30）后，按下按钮：第一次按下，LED灯环点亮红色（亮度100），台灯开启；第二次按下，LED灯环熄灭（亮度0），台灯关闭。继续按可以反复切换开关状态——但一旦移开遮挡物（天亮），灯自动熄灭，计数器归零，等待下一次天黑。
 
+
+---
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%99%BA%E8%83%BD%E5%8F%B0%E7%81%AF.gif)
+
 ---
 
 ## 思考

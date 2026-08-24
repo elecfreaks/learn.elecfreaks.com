@@ -30,6 +30,7 @@
 | Jacdac 土壤湿度传感器 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Moisture.png) | 1 |
 | Jacdac LED灯环 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac%20LED%20Ring.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
+| Jacdac能源实践套件积木 |  | 1 |
 
 ---
 
@@ -164,6 +165,7 @@ Jacdac土壤湿度传感器通过测量土壤的**介电常数**来推算含水�
 ## 结果
 
 将土壤湿度传感器的探头**插入干燥土壤**中，LED灯环**亮红色（亮度100%）**——"缺水！需要浇水"。缓慢向土壤中加水，湿度值逐渐上升，LED从红色变为**蓝色（亮度80%）**——"土壤正在吸水"。继续加水至适宜湿度，LED变为**绿色（亮度60%）**——"湿度正好"。如果加水过多，LED**熄灭**——"太湿了，停止浇水！"。整个过程不需要看任何数字，光凭LED颜色就能判断土壤状态。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%A8%A1%E5%9E%8BGIF/%E5%9C%9F%E5%A3%A4%E6%A3%80%E6%B5%8B.gif)
 
 ---
 

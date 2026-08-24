@@ -29,6 +29,7 @@
 | Jacdac 25cm连接线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/jacdac-smart-exploration-kit-25cm-cable.png) | 1 |
 | Jacdac 温湿度传感器 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20HT.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
+| Jacdac能源实践套件积木 |  | 1 |
 
 ---
 
@@ -159,6 +160,8 @@ Jacdac温湿度传感器集成了温度检测和湿度检测功能，可同时�
 ## 结果
 
 按下**按键A**，串口输出当前空气湿度值（停留5秒），方便查看数据；按下**按键B**，串口输出当前温度值（停留5秒）。程序持续在后台自动监测：当**湿度高于80**时，LED矩阵显示「✕」图标并蜂鸣器发出报警音——"湿度过高！"；当**温度高于33**（注：33°C阈值可根据当地气候调整）时，显示哭脸并蜂鸣——"温度太高！"。温湿度恢复正常后报警自动停止。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%A8%A1%E5%9E%8BGIF/%E5%A4%A9%E6%B0%94%E5%B0%8F%E4%BA%BA.gif)
 
 ---
 

@@ -8,7 +8,7 @@
 
 ## 简介
 
-倾斜micro:bit主板来控制"风力"的大小——**倾斜角度越大，代表风力越强**，360°积木舵机驱动风力发电机叶片旋转的转速也越快；将主板放平时（无风状态），叶片停止转动。通过加速度计感知倾斜角度并实时调节转速，模拟风力发电机随风运转的真实场景。
+倾斜micro:bit主板来控制"风力"的大小——**倾斜角度越大，代表风力越强**，360°积木舵机驱动风力发电机叶片旋转的转速也越快；将主板竖直时（无风状态），叶片停止转动。通过加速度计感知倾斜角度并实时调节转速，模拟风力发电机随风运转的真实场景。
 
 ---
 
@@ -32,6 +32,7 @@
 | Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
 | 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
+| Jacdac能源实践套件积木 |  | 1 |
 
 ---
 
@@ -150,7 +151,11 @@
 
 ## 结果
 
-将micro:bit主板**水平放置**时，舵机静止，无风状态；轻轻向前倾斜主板（小角度），舵机以**低转速**旋转——微风拂过；倾斜角度增大到中等，舵机**中速**旋转——风力渐强；大幅度倾斜，舵机**高速**旋转——强风来袭。倾斜角度实时决定"风力大小"和叶片转速。
+将micro:bit主板**竖直放置**时，舵机静止，无风状态；轻轻向前倾斜主板（小角度），舵机以**低转速**旋转——微风拂过；倾斜角度增大到中等，舵机**中速**旋转——风力渐强；大幅度倾斜，舵机**高速**旋转——强风来袭。倾斜角度实时决定"风力大小"和叶片转速。
+
+---
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%A8%A1%E5%9E%8BGIF/%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5.gif)
 
 ---
 

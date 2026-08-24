@@ -1,6 +1,9 @@
 # 案例十五：高空风力发电机
 
 ---
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Jacdac%E8%83%BD%E6%BA%90%E5%AE%9E%E8%B7%B5%E5%A5%97%E4%BB%B6/%E9%AB%98%E7%A9%BA%E5%8F%91%E7%94%B5.jpg)
+
+---
 
 ## 简介
 

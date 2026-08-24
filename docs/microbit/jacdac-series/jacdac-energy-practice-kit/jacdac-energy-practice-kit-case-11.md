@@ -1,7 +1,9 @@
 # 案例十一：太阳能追踪
 
 ---
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Jacdac%E8%83%BD%E6%BA%90%E5%AE%9E%E8%B7%B5%E5%A5%97%E4%BB%B6/%E5%A4%AA%E9%98%B3%E8%83%BD%E8%BF%BD%E5%85%89.jpg)
 
+---
 ## 简介
 
 利用**两组光敏传感器**——micro:bit主板自带的LED矩阵光敏传感器和Jacdac外接光敏传感器——实时对比左右两侧的光照强度。360°积木舵机驱动太阳能板模型**自动转向较亮的一侧**（，直到两侧光照值趋近平衡，实现太阳能板自动追光对准光源。光照方向改变时，系统自动重新调整方向。

@@ -143,6 +143,8 @@
 
 水车转动速度随着检测到的声音值（0~255）的大小变化。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%A8%A1%E5%9E%8BGIF/%E4%BB%BF%E5%8F%A4%E6%B0%B4%E8%BD%A6.gif)
+
 ---
 
 ## 思考

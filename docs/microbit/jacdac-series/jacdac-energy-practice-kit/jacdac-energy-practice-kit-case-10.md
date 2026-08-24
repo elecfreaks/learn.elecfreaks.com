@@ -30,6 +30,7 @@
 | Jacdac舵机模块 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/Jacdac%20Servo.png) | 1 |
 | 360°积木舵机 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/Sensor/img_v3_0213q_cfc7e5b2-67bb-45ac-856e-d875221271ag.png) | 1 |
 | USB数据线 | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/sensor/usb%20cable1.png) | 1 |
+| Jacdac能源实践套件积木 |  | 1 |
 
 ---
 
@@ -152,6 +153,7 @@
 ## 结果
 
 用手电筒或手机闪光灯照射micro:bit主板的LED矩阵时，风扇叶片**高速旋转**（最高100%转速）——阳光越强、风力越大；用手遮挡LED矩阵（模拟阴天），风扇转速自动降低至约20%最低速运转；移开遮挡物后，风扇转速立即回升。光照强度实时决定风扇转速，无需任何手动操作。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%A8%A1%E5%9E%8BGIF/%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5.gif)
 
 ---
 

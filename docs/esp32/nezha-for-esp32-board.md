@@ -21,9 +21,15 @@
 
 ***
 
-### RJ11 防呆接口 + 接口颜色识别系统
+### RJ11 防呆接口
 
 主控盒采用 RJ11 防呆接口，降低反插、误插和接口磨损风险，适合大班教学和低龄学生使用。
+![RJ11接口拔插演示](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-03.gif)
+
+***
+
+### 接口颜色识别系统
+
 接口颜色识别系统通过不同颜色区分接口类型，帮助学生快速找到正确的连接位置，降低课堂排查成本。
 
 | 接口颜色 | 对应接口类型 | 说明 |
@@ -33,7 +39,7 @@
 | 蓝色 | IIC 接口 | 可连接 IIC 通信类模块 |
 | 红色 | 电机接口 | 可连接电机或对应执行器 |
 
-![RJ11接口拔插演示](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-03.gif)
+
 
 
 ***

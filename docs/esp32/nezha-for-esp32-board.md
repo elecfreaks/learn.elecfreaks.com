@@ -1,5 +1,5 @@
 # 哪吒 ESP32 多功能主控盒
-![哪吒 ESP32 多功能主控盒 主图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-01.jpg)
+<img src="[你的图片链接.jpg](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-01.jpg)" alt="哪吒 ESP32 多功能主控盒 主图" height="400">
 ***
 
 ## 简介

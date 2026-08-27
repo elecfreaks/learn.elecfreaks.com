@@ -14,7 +14,7 @@
 
 ## 特性
 
-<img src="[图片路径或URL](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-02.jpg)" alt="特性功能一览图">
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-02.jpg" alt="特性功能一览图"/>
 
 ![哪吒 ESP32 多功能主控盒 主图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-01.jpg)
 
@@ -184,9 +184,9 @@
 | 开机时 | 绿灯闪烁一次 |
 | 关机时 | 红灯闪烁一次 |
 | 关机状态 | 指示灯熄灭 |
-| 50% &lt 电量 | 绿色常亮 |
-| 20% &lt 电量 ≤ 50% | 黄色常亮 |
-| 10% &lt 电量 ≤ 20% | 红色常亮 |
+| 电量 &gt; 50% | 绿色常亮 |
+| 20% &lt; 电量 ≤ 50% | 黄色常亮 |
+| 10% &lt; 电量 ≤ 20% | 红色常亮 |
 | 电量 ≤ 9% | 红色快闪 |
 | 充电中，电量 ≤ 95% | 红灯常亮 |
 | 充电完成，电量 > 95% | 绿灯常亮 |

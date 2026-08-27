@@ -1,5 +1,5 @@
 # 哪吒 ESP32 多功能主控盒
-![哪吒 ESP32 多功能主控盒 主图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-01.jpg?x-oss-credential=LTAI5t9Taj8anqzPxLJSsS1x%2F20260818%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260818T081508Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=dc1310985b02fe342f627b399d6695711d485a2713acb8ecb8518b8473503f00)
+![哪吒 ESP32 多功能主控盒 主图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-01.jpg)
 ***
 
 ## 简介
@@ -13,7 +13,7 @@
 ***
 
 ## 特性
-![特性功能一览图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-02.jpg?x-oss-credential=LTAI5t9Taj8anqzPxLJSsS1x%2F20260818%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260818T103343Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=89615669b6042d069c4d57ed5d72197d3a6c70a7b7610f0bd3b456efe12691ca)
+<img src="[图片路径或URL](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-02.jpg)" alt="特性功能一览图">
 ### 全包裹防护设计
 
 哪吒 ESP32 多功能主控盒采用全包裹结构，可降低课堂使用、积木搭建和赛事调试过程中因跌落、磕碰造成硬件损伤的风险。

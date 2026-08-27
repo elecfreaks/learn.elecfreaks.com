@@ -13,10 +13,7 @@
 ***
 
 ## 特性
-
-<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-02.jpg" alt="特性功能一览图"/>
-
-![哪吒 ESP32 多功能主控盒 主图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-01.jpg)
+![特性功能一览图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-02.jpg)
 
 ### 全包裹防护设计
 
@@ -24,14 +21,9 @@
 
 ***
 
-### RJ11 防呆接口
+### RJ11 防呆接口 + 接口颜色识别系统
 
 主控盒采用 RJ11 防呆接口，降低反插、误插和接口磨损风险，适合大班教学和低龄学生使用。
-
-***
-
-### 接口颜色识别系统
-
 接口颜色识别系统通过不同颜色区分接口类型，帮助学生快速找到正确的连接位置，降低课堂排查成本。
 
 | 接口颜色 | 对应接口类型 | 说明 |
@@ -41,6 +33,7 @@
 | 蓝色 | IIC 接口 | 可连接 IIC 通信类模块 |
 | 红色 | 电机接口 | 可连接电机或对应执行器 |
 
+![RJ11接口拔插演示](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-03.gif)
 
 
 ***
@@ -205,13 +198,8 @@
 
 ### 连接主控盒
 
-使用 USB Type-C 数据线连接电脑和哪吒 ESP32 多功能主控盒。
-
-***
-
-### 新建项目
-
-在 MicroBlocks 中新建项目，用于编写和运行主控盒程序。
+有线连接：使用 USB Type-C 数据线连接电脑和哪吒 ESP32 多功能主控盒。
+无线连接：使用蓝牙连接电脑和哪吒 ESP32 多功能主控盒。
 
 ***
 

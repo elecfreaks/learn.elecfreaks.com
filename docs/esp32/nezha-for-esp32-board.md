@@ -16,6 +16,8 @@
 
 <img src="[图片路径或URL](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-02.jpg)" alt="特性功能一览图">
 
+![哪吒 ESP32 多功能主控盒 主图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-01.jpg)
+
 ### 全包裹防护设计
 
 哪吒 ESP32 多功能主控盒采用全包裹结构，可降低课堂使用、积木搭建和赛事调试过程中因跌落、磕碰造成硬件损伤的风险。

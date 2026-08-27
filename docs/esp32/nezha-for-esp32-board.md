@@ -39,8 +39,7 @@
 | 蓝色 | IIC 接口 | 可连接 IIC 通信类模块 |
 | 红色 | 电机接口 | 可连接电机或对应执行器 |
 
-
-
+![颜色识别系统](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-04.gif)
 
 ***
 
@@ -74,6 +73,8 @@
 | 双降噪麦克风阵列 | 用于声音检测、语音相关项目 |
 | 陀螺仪 | 用于姿态检测和运动相关项目 |
 | 扬声器 | 用于声音反馈和提示音 |
+
+![板载自定义功能按键](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-05.gif)
 
 ***
 
@@ -204,14 +205,21 @@
 
 ### 连接主控盒
 
+![选择连接方式](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-06.jpg)
+
 有线连接：使用 USB Type-C 数据线连接电脑和哪吒 ESP32 多功能主控盒。
+
 无线连接：使用蓝牙连接电脑和哪吒 ESP32 多功能主控盒。
+![蓝牙连接](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-07.jpg)
 
 ***
 
 ### 添加专属扩展库
 
 为使用哪吒 ESP32 多功能主控盒的专属积木，需要添加对应扩展库。
+当前积木库路径为：积木库-[]恩孚科技-[]哪吒_ESP32-[]板载传感器
+
+![蓝牙连接](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-08.jpg)
 
 ***
 
@@ -268,12 +276,13 @@
 ## 如何将程序运行到主控盒？
 
 
-
 1. 使用 USB Type-C 数据线连接电脑和主控盒。
 2. 在 MicroBlocks 中选择对应设备。
 3. 连接成功后运行或写入程序。
 4. 断开连接前确认程序已经正常运行。
 5. 如需保存程序，可使用主控盒程序存储功能。
+
+![运行与中止程序](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-09.jpg)
 
 ***
 

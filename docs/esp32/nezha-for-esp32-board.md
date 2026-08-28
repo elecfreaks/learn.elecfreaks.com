@@ -158,17 +158,17 @@
 #### 主界面
 开机默认界面
 
-![UI系统主界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-110.jpg)
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-110.jpg" alt="UI系统主界面" height="300"/>
 
 #### 程序运行与读取页面
 主界面-单击按键A进入
 
-![程序运行与读取页面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-111.jpg)
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-111.jpg" alt="程序运行与读取页面" height="300"/>
 
 #### UI系统模块选择页面
 主界面-单击按键C进入
 
-![UI系统模块选择页面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-112.jpg)
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-112.jpg" alt="UI系统模块选择页面" height="300"/>
 
 
 
@@ -192,11 +192,11 @@
 
 有线连接：使用 USB Type-C 数据线连接电脑和哪吒 ESP32 多功能主控盒。
 
-![有线连接](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-114.jpg)
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-114.jpg" alt="有线连接" height="300"/>
 
 无线连接：使用蓝牙连接电脑和哪吒 ESP32 多功能主控盒。
 
-<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-115.jpg" alt="蓝牙连接" height="250"/>
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-115.jpg" alt="蓝牙连接" height="300"/>
 
 ***
 

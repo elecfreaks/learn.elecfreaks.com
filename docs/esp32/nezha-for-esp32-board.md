@@ -1,6 +1,6 @@
 # 哪吒 ESP32 多功能主控盒
 
-<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-01.jpg" alt="哪吒 ESP32 多功能主控盒 主图" height="400"/>
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-01.jpg" alt="哪吒 ESP32 多功能主控盒 主图" height="250"/>
 
 ***
 
@@ -26,6 +26,7 @@
 ### RJ11 防呆接口
 
 主控盒采用 RJ11 防呆接口，降低反插、误插和接口磨损风险，适合大班教学和低龄学生使用。
+
 ![RJ11接口拔插演示](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-03.gif)
 
 ***

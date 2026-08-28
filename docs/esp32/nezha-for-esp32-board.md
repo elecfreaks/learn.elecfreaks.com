@@ -1,6 +1,6 @@
 # 哪吒 ESP32 多功能主控盒
 
-<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-01.jpg" alt="哪吒 ESP32 多功能主控盒 主图" height="250"/>
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-101.jpg" alt="哪吒 ESP32 多功能主控盒 主图" height="250"/>
 
 ***
 
@@ -15,11 +15,13 @@
 ***
 
 ## 特性
-![特性功能一览图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-02.jpg)
+![特性功能一览图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-102.jpg)
 
 ### 全包裹防护设计
 
 哪吒 ESP32 多功能主控盒采用全包裹结构，可降低课堂使用、积木搭建和赛事调试过程中因跌落、磕碰造成硬件损伤的风险。
+
+![跌落演示](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-103.gif)
 
 ***
 
@@ -27,7 +29,7 @@
 
 主控盒采用 RJ11 防呆接口，降低反插、误插和接口磨损风险，适合大班教学和低龄学生使用。
 
-![RJ11接口拔插演示](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-03.gif)
+![RJ11接口拔插演示](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-104.gif)
 
 ***
 
@@ -42,7 +44,7 @@
 | 蓝色 | IIC 接口 | 可连接 IIC 通信类模块 |
 | 红色 | 电机接口 | 可连接电机或对应执行器 |
 
-![颜色识别系统](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-04.gif)
+![颜色识别系统](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-105.gif)
 
 ***
 
@@ -50,11 +52,15 @@
 
 主控盒支持 MicroBlocks 图形化编程，适合 K12 编程教学和课堂项目实践。MicroBlocks 支持用户通过积木块完成程序设计，也可用于主控及传感器相关项目开发。
 
+![编程方式展示](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-106.gif)
+
 ***
 
 ### 有线与蓝牙无线编程
 
 主控盒支持有线编程和蓝牙无线编程。在课堂教学和机器人赛事现场，用户可根据调试场景选择不同连接方式，减少频繁插拔线缆带来的不便。
+
+![连接方式展示](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-107.gif)
 
 ***
 
@@ -73,13 +79,15 @@
 | 陀螺仪 | 用于姿态检测和运动相关项目，适合姿态识别、倾斜检测、运动控制和机器人项目 |
 | 扬声器 | 用于声音反馈和提示音 |
 
-![板载自定义功能按键](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-05.gif)
+![板载自定义功能按键](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-108.gif)
 
 ***
 
 ### Smart IoT 平台支持
 
 主控盒支持接入 Smart IoT 平台，用户可根据项目需求设计数据仪表盘，用于实时展示和记录个性化数据。
+
+![SmartIoT展示](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-109.gif)
 
 ***
 
@@ -145,7 +153,22 @@
 
 ***
 
-### 功能说明
+### 主要页面介绍
+
+#### 主界面
+开机默认界面
+
+![UI系统主界面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-110.jpg)
+
+#### 程序运行与读取页面
+主界面-单击按键A进入
+
+![程序运行与读取页面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-111.jpg)
+
+#### UI系统模块选择页面
+主界面-单击按键C进入
+
+![UI系统模块选择页面](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-112.jpg)
 
 
 
@@ -165,15 +188,15 @@
 
 ### 连接主控盒
 
-![选择连接方式](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-06.jpg)
+![选择连接方式](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-113.jpg)
 
 有线连接：使用 USB Type-C 数据线连接电脑和哪吒 ESP32 多功能主控盒。
 
-
+![有线连接](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-114.jpg)
 
 无线连接：使用蓝牙连接电脑和哪吒 ESP32 多功能主控盒。
 
-![蓝牙连接](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-07.jpg)
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-115.jpg" alt="蓝牙连接" height="250"/>
 
 ***
 
@@ -182,7 +205,7 @@
 为使用哪吒 ESP32 多功能主控盒的专属积木，需要添加对应扩展库。
 当前积木库路径为：积木库-[]恩孚科技-[]哪吒_ESP32-[]板载传感器
 
-![蓝牙连接](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-08.jpg)
+![添加积木拓展库](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-116.jpg)
 
 ***
 
@@ -198,27 +221,10 @@
 | 板载麦克风 | 读取声音或噪音数据 |  |
 | 板载陀螺仪 | 读取姿态、倾斜或运动数据 |  |
 | 外接传感器 | 读取 RJ11 外接传感器数据 |  |
-| 电机控制 | 控制电机速度、方向、停止或运动状态 |  |
-| IoT 平台 | 上传数据到 Smart IoT 平台 |  |
+| 运动 | 控制电机速度、方向、停止或运动状态 |  |
+| IoT平台 | 上传数据到 Smart IoT 平台 |  |
 
 ***
-
-## 硬件连接
-
-### RJ11 模块连接
-
-根据模块类型和接口颜色连接对应模块。连接时请确认插头方向正确，不要强行插入。
-
-| 接口颜色 | 对应接口类型 |
-| --- | --- |
-| 黄色 | 模拟 / 数字接口 |
-| 橙色 | 数字接口 |
-| 蓝色 | IIC 接口 |
-| 红色 | 电机接口 |
-
-***
-
-
 
 ## 程序实例
 
@@ -245,7 +251,7 @@
 4. 断开连接前确认程序已经正常运行。
 5. 如需保存程序，可使用主控盒程序存储功能。
 
-![运行与中止程序](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-09.jpg)
+![运行与中止程序](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-117.jpg)
 
 ***
 

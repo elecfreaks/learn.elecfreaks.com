@@ -14,7 +14,7 @@ Build a gesture-controlled bulldozer, and control the bulldozer's forward direct
 
 | Name | Illustration |
 | :----------: | :--------------------------: |
-| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-01.png) |
+| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit.png)|
 
 ## Teaching Objectives
 1. Complete the assembly of the gesture-controlled bulldozer, master the assembly and connection methods of the bulldozer chassis, bulldozer blade (including transmission components), and gesture recognition sensor, and realize the control of the bulldozer's forward/backward movement and blade lifting/lowering through gestures.

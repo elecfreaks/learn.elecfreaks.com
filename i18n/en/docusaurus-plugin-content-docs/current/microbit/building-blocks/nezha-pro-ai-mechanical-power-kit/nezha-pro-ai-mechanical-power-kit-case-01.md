@@ -14,7 +14,7 @@ Build a simple quadruped robot. Through a basic linkage mechanism, realize the w
 
 | Name | Illustration |
 | :----------: | :--------------------------: |
-| Nezha Pro AI Mechanical Power Kit | [![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-01.png) |
+| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-01.png) |
 
 ## Teaching Objectives
 1. Complete the assembly of the simple quadruped robot, master the assembly method of the linkage mechanism, correctly connect the motor and ultrasonic sensor, and understand the cooperative relationship between various components.

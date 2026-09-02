@@ -15,7 +15,7 @@ sidebar_label: 案例五:直升机
 
 |     名称     |            图示            |
 | :----------: | :--------------------------: |
-|   哪吒Pro AI机械动力套装   |   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-01.png)  |
+|   哪吒Pro AI机械动力套装   |   ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit.png) |
 
 ## 教学目标
 
@@ -132,7 +132,6 @@ sidebar_label: 案例五:直升机
 
 开启电源后，按下按键A，螺旋桨开始运行，按下按键B，螺旋桨停止运行。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-case-05.gif)
 
 ## 扩展知识
 

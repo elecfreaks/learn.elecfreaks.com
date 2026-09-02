@@ -14,7 +14,7 @@ Build a gesture-controlled excavator and control the excavator's movement and ac
 
 | Name | Illustration |
 | :----------: | :--------------------------: |
-| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-01.png) |
+| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit.png)|
 
 ## Teaching Objectives
 1. Complete the assembly of the gesture-controlled excavator, master the assembly and connection methods of the excavator chassis, excavator arm (including transmission components), and gesture recognition sensor, and realize the control of the excavator's movement, excavator arm lifting, and bucket opening/closing through gestures.

@@ -8,7 +8,9 @@ sidebar_label: Case 8:Gesture-Controlled Desk Lamp
 ## Case Introduction
 Build a gesture-controlled desk lamp, and control the lamp's activation, deactivation, and light switching through gestures.
 
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-case-08-01.png)
+
 
 ## Teaching Preparation
 

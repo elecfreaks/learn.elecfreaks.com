@@ -14,7 +14,7 @@ Build a vibration robot, and achieve the robot's movement through vibration.
 
 | Name | Illustration |
 | :----------: | :--------------------------: |
-| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-01.png) |
+| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit.png)|
 
 ## Teaching Objectives
 1. Complete the assembly of the vibration robot, master the assembly method of the motor and eccentric components (e.g., eccentric wheels), understand the principle of vibration generation, and realize the robot's movement function.

@@ -14,7 +14,7 @@ Build a bipedal walking robot. Through a basic linkage mechanism, realize the si
 
 | Name | Illustration |
 | :----------: | :--------------------------: |
-| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit.png) |
+| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-01.png) |
 
 ## Teaching Objectives
 1. Complete the assembly of the bipedal walking robot, master the assembly skills of the linkage mechanism for the bipedal legs, correctly connect and debug the motors, and realize the basic walking movement of the robot.

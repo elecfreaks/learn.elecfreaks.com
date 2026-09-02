@@ -14,7 +14,7 @@ Build a voice-controlled light and control its on/off status via voice commands.
 
 | Name | Illustration |
 | :----------: | :--------------------------: |
-| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-01.png) |
+| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit.png)|
 
 ## Teaching Objectives
 1. Complete the assembly of the voice-controlled light, master the assembly and connection methods of the light module, lamp holder structure, and voice recognition sensor, and realize the control of the light's on/off, brightness adjustment, and color switching (if using a color light) through voice commands.

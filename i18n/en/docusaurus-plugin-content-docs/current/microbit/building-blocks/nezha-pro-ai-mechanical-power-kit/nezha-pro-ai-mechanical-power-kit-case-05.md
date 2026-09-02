@@ -14,11 +14,9 @@ Build a helicopter and make the propeller rotate through gear transmission.
 
 | Name | Illustration |
 | :----------: | :--------------------------: |
-| Nezha Pro AI Mechanical Power Kit |  |
+| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit.png) |
 
-<!--
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-01.png)
--->
+
 
 ## Teaching Objectives
 1. Complete the assembly of the helicopter model, master the assembly methods of the gear transmission structure and propeller, correctly connect the power components, and realize the stable rotation of the propeller.

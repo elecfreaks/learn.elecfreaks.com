@@ -14,7 +14,7 @@ Build a wood-sawing robot, and make the robot simulate wood-sawing action by con
 
 | Name | Illustration |
 | :----------: | :--------------------------: |
-| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-01.png) |
+| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit.png) |
 
 ## Teaching Objectives
 1. Complete the assembly of the wood-sawing robot, master the assembly method of the servo and the "saw blade" component, correctly connect the servo and program to control its reciprocating rotation, and realize the simulated wood-sawing action.

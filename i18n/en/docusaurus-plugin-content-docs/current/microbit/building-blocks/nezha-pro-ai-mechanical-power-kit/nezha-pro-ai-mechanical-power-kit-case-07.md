@@ -14,7 +14,7 @@ Build a gesture-controlled racing car and control the car's movement through ges
 
 | Name | Illustration |
 | :----------: | :--------------------------: |
-| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-01.png) |
+| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit.png) |
 
 ## Teaching Objectives
 1. Complete the assembly of the gesture-controlled racing car, master the assembly and connection methods of the racing car chassis, motors, and gesture recognition sensor, and realize the control of the racing car's forward movement, turning, and stopping through gestures.

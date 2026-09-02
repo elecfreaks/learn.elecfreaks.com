@@ -14,7 +14,7 @@ Build a voice-controlled transport vehicle, and control the vehicle's movement d
 
 | Name | Illustration |
 | :----------: | :--------------------------: |
-| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-01.png) |
+| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit.png)|
 
 ## Teaching Objectives
 1. Complete the assembly of the voice-controlled transport vehicle, master the assembly and connection methods of the vehicle chassis, cargo platform, and voice recognition sensor, and realize the control of the vehicle's forward movement, backward movement, turning, and stopping through voice commands.

@@ -14,7 +14,7 @@ Build a voice-controlled beetle robot and control its functions via voice comman
 
 | Name | Illustration |
 | :----------: | :--------------------------: |
-| Nezha Pro AI Mechanical Power Kit | ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit-01.png) |
+| Nezha Pro AI Mechanical Power Kit |![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-pro-ai-mechanical-power-kit/images/nezha-pro-ai-mechanical-power-kit.png)|
 
 ## Teaching Objectives
 1. Complete the assembly of the voice-controlled beetle robot, master the assembly and connection methods of the line-tracking sensor, ultrasonic sensor, voice recognition sensor, and motors, and realize the collaborative operation of three core functions: "voice control", "obstacle avoidance mode", and "line-tracking mode".

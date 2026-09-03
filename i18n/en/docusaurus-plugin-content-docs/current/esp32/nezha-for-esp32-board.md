@@ -319,3 +319,5 @@ Please check the motor interface, battery level, and program settings. If the ba
 ## Related Resources
 
 - MicroBlocks Platform: [https://www.smartiot.space/microblocks/](https://www.smartiot.space/microblocks/)
+
+Note: This webpage is a trial version. After the official release, please use the official URL: https://microblocks.fun/run/microblocks.html

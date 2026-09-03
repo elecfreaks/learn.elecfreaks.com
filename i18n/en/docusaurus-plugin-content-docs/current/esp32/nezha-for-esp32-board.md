@@ -207,6 +207,7 @@ Open the MicroBlocks platform:
 
 [https://www.smartiot.space/microblocks/](https://www.smartiot.space/microblocks/)
 
+Note: This webpage is a trial version. After the official release, please use the official URL: https://microblocks.fun/run/microblocks.html
 ---
 
 ### Connect the Board

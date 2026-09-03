@@ -1,8 +1,10 @@
 # Nezha For ESP32 Board
 
-<
+<!--
+
 ![Nezha For ESP32 Board Main](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-01.jpg?x-oss-credential=LTAI5t9Taj8anqzPxLJSsS1x%2F20260818%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260818T091837Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=59a7230592b4fc7d2867a385402add8dad750555a385e1e535c10d2c83d940a0)
-/>
+
+-->
 
 ---
 
@@ -17,7 +19,11 @@ The Nezha For ESP32 Board supports MicroBlocks graphical programming, MicroPytho
 ---
 
 ## Features
+<!--
+
 ![Features Overview](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-02.jpg?x-oss-credential=LTAI5t9Taj8anqzPxLJSsS1x%2F20260818%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20260818T081312Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=7dbab0a12729005c9602c6d44cdf544767a3b565466a25363ca4b61ee8ee9fb1)
+
+-->
 
 ### Fully Enclosed Protective Design
 

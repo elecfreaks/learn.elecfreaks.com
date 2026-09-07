@@ -59,7 +59,9 @@ In the pop-up interface, enter **nezha pro** and click the search icon. Click it
 
 ### Sample program
 
+<!--
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-09-02.png)
+-->
 
 Program link: [https://makecode.microbit.org/_Jxyg1qifi1F3](https://makecode.microbit.org/_Jxyg1qifi1F3)
 

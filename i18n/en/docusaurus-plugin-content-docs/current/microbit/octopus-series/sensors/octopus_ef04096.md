@@ -26,15 +26,15 @@ Notice: Please do not shine the eyes. The laser emits a red laser beam that usua
 ## Parameter
 
 
- Name: Octopus 3V laser sensor
- SKU：EF04096
- Working Voltage: DC 3~5.5V
- Wave Length: 650NM
- Rate of Work: 5MW
- Spot Size: φ10mm ~ φ15mm(15 meters away)
- Connection Mode: G-GND，V-VCC，S-signal pin
- Size: 38.9x23.5mm
- Net Weight: 5g
+ - Name: Octopus 3V laser sensor
+ - SKU：EF04096
+  - Working Voltage: DC 3~5.5V
+  - Wave Length: 650nm
+  - Rate of Work: 5mW
+  - Spot Size: φ10mm ~ φ15mm(15 meters away)
+  - Connection Mode: G-GND，V-VCC，S-signal pin
+  - Size: 38.9x23.5mm
+  - Net Weight: 5g
 
 ### Dimensions and Outlook
 

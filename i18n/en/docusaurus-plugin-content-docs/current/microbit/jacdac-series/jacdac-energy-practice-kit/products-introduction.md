@@ -15,7 +15,7 @@ The Jacdac Energy Experiment Kit is purpose-built for STEAM education. Leveragin
 ---
 
 ## Product Checklist
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/1.%E4%BA%A7%E5%93%81%E6%B8%85%E5%8D%95.jpg)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E4%BA%A7%E5%93%81%E6%B8%85%E5%8D%95.jpg)
 
 ---
 

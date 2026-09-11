@@ -1,6 +1,6 @@
 # 哪吒 ESP32 多功能主控盒
 
-<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-101.jpg" alt="哪吒 ESP32 多功能主控盒 主图" height="250"/>
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-101.png" alt="哪吒 ESP32 多功能主控盒 主图" height="250"/>
 
 ***
 
@@ -183,6 +183,7 @@
 打开 MicroBlocks 平台：
 
 [https://www.smartiot.space/microblocks/](https://www.smartiot.space/microblocks/)
+【注：Microblocks编程平台的SmartIoT分支仅用于研发初期的测试与试用，产品正式上线后将关闭，届时请使用Microblocks官方平台 https://microblocksfun.cn/run/microblocks.html 】
 
 ***
 
@@ -190,13 +191,35 @@
 
 ![选择连接方式](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-113.jpg)
 
-有线连接：使用 USB Type-C 数据线连接电脑和哪吒 ESP32 多功能主控盒。
+- 有线连接：使用 USB Type-C 数据线连接电脑和哪吒 ESP32 多功能主控盒。
 
 <img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-114.jpg" alt="有线连接" height="300"/>
 
-无线连接：使用蓝牙连接电脑和哪吒 ESP32 多功能主控盒。
+- 无线连接：使用蓝牙连接电脑和哪吒 ESP32 多功能主控盒。
 
 <img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-115.jpg" alt="蓝牙连接" height="300"/>
+
+***
+
+### 固件升级（可选项）
+
+为使用哪吒 ESP32 多功能主控盒升级最新版本固件
+- 步骤一：在Microblocks平台上选择使用url进行固件升级
+![选择使用url进行固件升级](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-116.jpg)
+
+- 步骤二：下载想要升级的固件文件
+当前可选url如下：
+【更新日期：26/08/28】https://www.smartiot.space/static_resource/NEZHA-ESP32-S3_all.bin
+![输入想要升级的固件url](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-117.jpg)
+
+- 步骤三：固件文件下载完毕，长按电源键为哪吒ESP32多功能主控盒开机，并使用USB-C线连接电脑串口与主控盒
+![连接电脑串口与主控盒](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-118.jpg)
+
+- 步骤四：选择相应的串口进行固件升级
+![选择串口](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-119.jpg)
+
+- 步骤五：固件升级完成提示出现后，断开USB-C线并重启哪吒ESP32多功能主控盒即完成固件升级
+![连接电脑串口与主控盒](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-120.jpg)
 
 ***
 
@@ -205,7 +228,7 @@
 为使用哪吒 ESP32 多功能主控盒的专属积木，需要添加对应扩展库。
 当前积木库路径为：积木库 → 恩孚科技 → 哪吒 ESP32 → 板载传感器
 
-![添加积木拓展库](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-116.jpg)
+![添加积木拓展库](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-121.jpg)
 
 ***
 
@@ -249,13 +272,13 @@
 ## 如何将程序运行到主控盒？
 
 
-1. 使用 USB Type-C 数据线连接电脑和主控盒。
+1. 使用 USB Type-C 数据线连接电脑和主控盒，或者使用蓝牙无线连接。
 2. 在 MicroBlocks 中选择对应设备。
 3. 连接成功后运行或写入程序。
 4. 断开连接前确认程序已经正常运行。
 5. 如需保存程序，可使用主控盒程序存储功能。
 
-![运行与中止程序](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-117.jpg)
+![运行与中止程序](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-122.jpg)
 
 ***
 

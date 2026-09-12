@@ -1,10 +1,8 @@
 # Nezha For ESP32 Board
 
-<!--
 
-![Nezha For ESP32 Board Main](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-01.jpg)
+![Nezha For ESP32 Board Main](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/esp32-card-01.png)
 
--->
 
 ---
 

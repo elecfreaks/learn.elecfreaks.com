@@ -282,6 +282,7 @@ https://www.smartiot.space/static_resource/NEZHA-ESP32-S3_all.bin
 <a href="https://microblocks.fun/run/microblocks.html?project=projectName%20%27%E5%99%AA%E9%9F%B3%E7%9B%91%E6%B5%8B%27%0A%0Amodule%20main%0Aauthor%20unknown%0Aversion%201%200%20%0Adescription%20%27%27%0A%0Ascript%20133%2033%20%7B%0AwhenStarted%0Aforever%20%7B%0A%20%20nezhaEsp32_screenTextToLine%20%27Noise%20Level%3A%27%20%271%27%20%28colorSwatch%2012%20244%20244%20255%29%0A%20%20if%20%28%28%27%5Bsensors%3AnoiseDb%5D%27%29%20%3E%3D%2075%29%20%7B%0A%20%20%20%20nezhaEsp32_board_rgb_off_all%0A%20%20%20%20nezhaEsp32_board_rgb_all%20%28colorSwatch%20255%2023%2012%20255%29%0A%20%20%20%20nezhaEsp32_screenTextToLine%20%28%27%5Bsensors%3AnoiseDb%5D%27%29%202%20%28colorSwatch%20255%2013%2028%20255%29%0A%20%20%7D%20%28%28%27%5Bsensors%3AnoiseDb%5D%27%29%20%3E%3D%2050%29%20%7B%0A%20%20%20%20nezhaEsp32_board_rgb_off_all%0A%20%20%20%20nezhaEsp32_board_rgb%201%20%28colorSwatch%20247%20226%2014%20255%29%0A%20%20%20%20nezhaEsp32_board_rgb%202%20%28colorSwatch%20247%20226%2014%20255%29%0A%20%20%20%20nezhaEsp32_screenTextToLine%20%28%27%" target="_blank">
   <button>噪音指示器代码例程</button>
 </a>
+
 ***
 
 ## 如何将程序运行到主控盒？

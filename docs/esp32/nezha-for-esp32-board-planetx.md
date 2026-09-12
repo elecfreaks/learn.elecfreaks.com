@@ -1,14 +1,14 @@
-# 哪吒 ESP32 行星系列传感器使用教程
+# Nezha ESP32 and Planet Series Sensors Partial
 
-<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/esp32-card-02.png" alt="哪吒 ESP32 与行星系列传感器部分" height="250"/>
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/esp32-card-02.png" alt="Nezha ESP32 and Planet Series Sensors Partial" height="250"/>
 
-**本教程基于Microblocks编程平台**
+**This tutorial is based on the MicroBlocks programming platform**
 
-试用版链接（仅用于产品正式推出前的测试阶段）：
+Trial version link (for testing purposes only before official product launch):
 
 https://www.smartiot.space/microblocks/
 
-正式版链接：
+Official version link:
 
 https://microblocksfun.cn/run/microblocks.html
 

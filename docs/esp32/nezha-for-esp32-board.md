@@ -208,6 +208,7 @@
 
 为使用哪吒 ESP32 多功能主控盒升级最新版本固件
 - 步骤一：在Microblocks平台上选择使用url进行固件升级
+
 ![选择使用url进行固件升级](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-116.png)
 
 - 步骤二：下载想要升级的固件文件
@@ -220,12 +221,15 @@ https://www.smartiot.space/static_resource/NEZHA-ESP32-S3_all.bin
 ![输入想要升级的固件url](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-117.png)
 
 - 步骤三：固件文件下载完毕，长按电源键为哪吒ESP32多功能主控盒开机，并使用USB-C线连接电脑串口与主控盒
+
 ![连接电脑串口与主控盒](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-118.png)
 
 - 步骤四：选择相应的串口进行固件升级
+
 ![选择串口](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-119.png)
 
 - 步骤五：固件升级完成提示出现后，断开USB-C线并重启哪吒ESP32多功能主控盒即完成固件升级
+
 ![连接电脑串口与主控盒](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-120.png)
 
 ***

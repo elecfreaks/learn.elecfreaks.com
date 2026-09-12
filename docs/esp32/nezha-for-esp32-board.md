@@ -185,7 +185,8 @@
 [https://www.smartiot.space/microblocks/](https://www.smartiot.space/microblocks/)
 
 【注：Microblocks编程平台的SmartIoT分支仅用于研发初期的测试与试用，产品正式上线后将关闭】
-【注：产品正式推出后，请使用Microblocks官方平台 https://microblocksfun.cn/run/microblocks.html 】
+
+【产品正式推出后，请使用Microblocks官方平台 https://microblocksfun.cn/run/microblocks.html 】
 
 ***
 
@@ -211,7 +212,11 @@
 
 - 步骤二：下载想要升级的固件文件
 当前可选url如下：
-【更新日期：26/08/28】https://www.smartiot.space/static_resource/NEZHA-ESP32-S3_all.bin
+
+【固件版本：V0.9.3  固件更新日期：26/08/28】 
+
+https://www.smartiot.space/static_resource/NEZHA-ESP32-S3_all.bin
+
 ![输入想要升级的固件url](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-117.png)
 
 - 步骤三：固件文件下载完毕，长按电源键为哪吒ESP32多功能主控盒开机，并使用USB-C线连接电脑串口与主控盒

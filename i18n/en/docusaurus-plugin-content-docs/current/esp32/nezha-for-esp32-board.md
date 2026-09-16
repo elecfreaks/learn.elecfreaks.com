@@ -297,6 +297,12 @@ This example reads data from the onboard microphone. The display continuously sh
 4. Confirm that the program runs correctly before disconnecting the board.
 5. To keep the program on the device, use the board's program storage function.
 
+**Note：**
+
+Short-press the power button to **reset the program** when powered on.
+
+To save the current program, manually click **"Save As"** in the Program Management page of the UI.
+
 ![Run and stop a program](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-122.png)
 
 ***

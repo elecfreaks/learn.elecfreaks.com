@@ -115,7 +115,7 @@ The board is designed to work with commonly available studded building blocks an
 | Display | 2.4-inch, 240 × 320 color display |
 | Onboard Inputs | Three programmable buttons, ambient light sensor, dual noise-reducing microphone array, and gyroscope |
 | Onboard Outputs | Three RGB LEDs, speaker, and display |
-| Programming Languages and Environments | MicroBlocks, MicroPython, and Python |
+| Programming Languages and Environments | MicroBlocks, MicroPython |
 | Programming Connections | Wired and Bluetooth |
 | IoT Support | Smart IoT platform |
 | Building-System Support | Designed to work with commonly available studded building blocks and modular beam-and-connector structural components |
@@ -161,17 +161,17 @@ The current development firmware and the planned production release use differen
 #### Home Screen
 The default screen displayed at startup.
 
-<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-110.jpg" alt="User interface home screen" height="300"/>
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-110.jpg" alt="User interface home screen" height="300"/>
 
 #### Run and Load Programs
 From the Home screen, press button A once to open this page in the current development version.
 
-<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-111.jpg" alt="Run and load programs screen" height="300"/>
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-111.jpg" alt="Run and load programs screen" height="300"/>
 
 #### Module Selection
 From the Home screen, press button C once to open this page in the current development version.
 
-<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-112.jpg" alt="Module selection screen" height="300"/>
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-112.jpg" alt="Module selection screen" height="300"/>
 
 
 
@@ -213,7 +213,7 @@ Follow these steps to update the firmware on the Nezha For ESP32 Board.
 
 1. In MicroBlocks, select the option to update firmware from a URL.
 
-![Select the firmware update from URL option](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-116.png)
+![Select the firmware update from URL option](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-116.png)
 
 2. Use the following URL to download the firmware file:
 
@@ -222,19 +222,19 @@ Follow these steps to update the firmware on the Nezha For ESP32 Board.
 
    [https://www.smartiot.space/static_resource/NEZHA-ESP32-S3_all.bin](https://www.smartiot.space/static_resource/NEZHA-ESP32-S3_all.bin)
 
-![Enter the firmware URL](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-117.png)
+![Enter the firmware URL](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-117.jpg)
 
 3. After the firmware file has downloaded, press and hold the power button to turn on the Nezha For ESP32 Board. Connect the board to a computer with a USB-C data cable.
 
-![Connect the board to a computer](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-118.png)
+![Connect the board to a computer](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-118.png)
 
 4. Select the corresponding serial port to begin the firmware update.
 
-![Select the serial port](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-119.png)
+![Select the serial port](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-119.png)
 
 5. When the update-complete message appears, disconnect the USB-C cable and restart the Nezha For ESP32 Board.
 
-![Firmware update complete](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-120.png)
+![Firmware update complete](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-120.png)
 
 ***
 

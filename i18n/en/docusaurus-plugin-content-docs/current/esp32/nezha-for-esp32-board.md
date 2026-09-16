@@ -250,18 +250,18 @@ Current library path: **Libraries → Elecfreaks → Nezha ESP32 → Board**
 
 ## Programming Block Categories
 
-| Category | Description | Status |
-| --- | --- | --- |
-| Basic Control | Read device information, initialize the board, and set its operating state |  |
-| Display | Show text, values, icons, or pages on the color display |  |
-| Button Input | Read the state of buttons A, B, and C |  |
-| RGB LEDs | Set the color of one or all RGB LEDs |  |
-| Onboard Light Sensor | Read ambient light data |  |
-| Onboard Microphone | Read sound or noise data |  |
-| Onboard Gyroscope | Read orientation, tilt, or motion data |  |
-| External Sensors | Read data from sensors connected through RJ11 ports |  |
-| Motion | Control motor speed, direction, stop commands, and motion states |  |
-| IoT Platform | Upload data to the Smart IoT platform |  |
+| Category | Description | 
+| --- | --- | 
+| Basic Control | Read device information, initialize the board, and set its operating state | 
+| Display | Show text, values, icons, or pages on the color display | 
+| Button Input | Read the state of buttons A, B, and C | 
+| RGB LEDs | Set the color of one or all RGB LEDs | 
+| Onboard Light Sensor | Read ambient light data | 
+| Onboard Microphone | Read sound or noise data | 
+| Onboard Gyroscope | Read orientation, tilt, or motion data | 
+| External Sensors | Read data from sensors connected through RJ11 ports | 
+| Motion | Control motor speed, direction, stop commands, and motion states | 
+| IoT Platform | Upload data to the Smart IoT platform | 
 
 ***
 

@@ -12,12 +12,12 @@ Its modular controller-and-sensor design works with building-block systems. Stud
 
 The Nezha For ESP32 Board supports block-based programming with MicroBlocks, as well as MicroPython and Python. It can also connect to the Smart IoT platform for data visualization and project expansion.
 
-SKU: EF03480
+**SKU: EF03480**
 
 ***
 
 ## Features
-![Nezha For ESP32 Board feature overview](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-102.jpg)
+![Nezha For ESP32 Board feature overview](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-102.jpg)
 
 ### Fully Enclosed Protective Housing
 
@@ -195,7 +195,7 @@ Production access after launch: [https://microblocksfun.cn/run/microblocks.html]
 
 ### Connect the Board
 
-![Choose a connection method](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-113.jpg)
+![Choose a connection method](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-113.png)
 
 - **Wired connection:** Connect the Nezha For ESP32 Board to your computer with a USB Type-C data cable.
 
@@ -203,7 +203,7 @@ Production access after launch: [https://microblocksfun.cn/run/microblocks.html]
 
 - **Wireless connection:** Connect the Nezha For ESP32 Board to your computer via Bluetooth.
 
-<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-115.jpg" alt="Bluetooth connection" height="300"/>
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-115.png" alt="Bluetooth connection" height="300"/>
 
 ***
 
@@ -242,9 +242,9 @@ Follow these steps to update the firmware on the Nezha For ESP32 Board.
 
 Add the dedicated extension library to use the blocks for the Nezha For ESP32 Board.
 
-Current library path: **Libraries → ELECFREAKS → Nezha ESP32 → Onboard Sensors**
+Current library path: **Libraries → Elecfreaks → Nezha ESP32 → Board**
 
-![Add the Nezha ESP32 extension library](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-121.jpg)
+![Add the Nezha ESP32 extension library](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-121.png)
 
 ***
 
@@ -297,7 +297,7 @@ This example reads data from the onboard microphone. The display continuously sh
 4. Confirm that the program runs correctly before disconnecting the board.
 5. To keep the program on the device, use the board's program storage function.
 
-![Run and stop a program](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-122.jpg)
+![Run and stop a program](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-122.png)
 
 ***
 

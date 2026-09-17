@@ -297,6 +297,12 @@ https://www.smartiot.space/static_resource/NEZHA-ESP32-S3_all.bin
 
 ![运行与中止程序](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-122.jpg)
 
+**注：**
+
+开机状态下，短按电源键可**重置程序**。
+
+如需保存当前程序，请在程序管理页面手动点击“**另存为**”。
+
 ***
 
 ## 结果

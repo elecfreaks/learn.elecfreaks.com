@@ -44,7 +44,7 @@ SKU|EF04017
 - 当返回值为：0~20，则为A按钮按下，显示一颗大心。
 - 以此类推。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/04017-4.png)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/04017-04.png)
 ### 参考程序
 
 请参考程序连接：[https://makecode.microbit.org/_2h1Wa4TiTgwg](https://makecode.microbit.org/_2h1Wa4TiTgwg)

@@ -59,7 +59,7 @@ SKU|EF04017
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_dqjTtAM5sfmy"
+        src="https://makecode.microbit.org/_2h1Wa4TiTgwg"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

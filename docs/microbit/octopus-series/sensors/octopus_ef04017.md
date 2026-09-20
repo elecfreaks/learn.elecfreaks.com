@@ -47,7 +47,7 @@ SKU|EF04017
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/input/images/04017-4.png)
 ### 参考程序
 
-请参考程序连接：[https://makecode.microbit.org/_dqjTtAM5sfmy](https://makecode.microbit.org/_dqjTtAM5sfmy)
+请参考程序连接：[https://makecode.microbit.org/_2h1Wa4TiTgwg](https://makecode.microbit.org/_2h1Wa4TiTgwg)
 
 你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 

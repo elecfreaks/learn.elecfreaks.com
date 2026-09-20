@@ -49,11 +49,11 @@ Take sensor:bit for example
  When returned value is between 0~20, it means the button A is pressed, an icon is shown on the micro:bit.
  By parity of reasoning.
 
- ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/input/images/p4dwStN.png)
+ ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/input/images/ADKeyDemo.png)
 
 ### Reference
 
-Links:[https://makecode.microbit.org/_dqjTtAM5sfmy](https://makecode.microbit.org/_dqjTtAM5sfmy)
+Links:[https://makecode.microbit.org/_2h1Wa4TiTgwg](https://makecode.microbit.org/_2h1Wa4TiTgwg)
 
 You can also download it directly below:
 
@@ -66,7 +66,7 @@ You can also download it directly below:
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_dqjTtAM5sfmy"
+        src="https://makecode.microbit.org/_2h1Wa4TiTgwg"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

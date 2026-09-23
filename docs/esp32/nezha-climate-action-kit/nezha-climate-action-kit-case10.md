@@ -1,5 +1,5 @@
 ---
-title: 智能低碳车站
+title: Smart Bus Stop
 slug:/esp32/nezha-climate-action-kit/nezha-climate-action-kit-case10.md
 sidebar_position: 2
 ---

@@ -13,7 +13,7 @@ Students can collect climate data using environmental sensors and program the Ne
 
 <cardbox>
   <card
-    href="./nezha-climate-action-kit-case10/"
+    href="./nezha-climate-action-kit-case10.md"
     title="case 10: Smart Bus Stop "
     description=""
     img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/esp32-card-01.png'}

@@ -66,6 +66,7 @@ Connect your components according to the picture below:
 
 - 1. Connect the shorter leg with the GND.
 - 2. Connector the longer leg with the P0 and P1 ports through the Resistor.
+     
 **[Note:This diagram is for connection reference only. Please refer to the actual product for the specific device appearance.]**
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/6JA8ooG.jpg)

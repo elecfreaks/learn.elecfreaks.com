@@ -1,6 +1,7 @@
 ---
 title: 城市气候守护套装
 slug: /esp32/nezha-climate-action-kit
+sidebar_position: 2
 ---
 
 # 城市气候守护套装

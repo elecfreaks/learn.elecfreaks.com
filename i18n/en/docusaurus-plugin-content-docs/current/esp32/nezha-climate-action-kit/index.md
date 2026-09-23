@@ -1,6 +1,7 @@
 ---
 title: Climate Action Kit
 slug: i18n/en/docusaurus-plugin-content-docs/current/esp32/nezha-climate-action-kit
+sidebar_position: 2
 ---
 
 # Climate Action Kit

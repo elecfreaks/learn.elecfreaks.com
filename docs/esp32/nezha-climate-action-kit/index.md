@@ -14,7 +14,7 @@ slug: /esp32/nezha-climate-action-kit
 
 <cardbox>
   <card
-    href="./nezha-climate-action-kit/nezha-climate-action-kit-case10.md"
+    href="./nezha-climate-action-kit-case10.md"
     title="case 10: Smart Bus Stop "
     description=""
     img={'https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/esp32-card-01.png'}

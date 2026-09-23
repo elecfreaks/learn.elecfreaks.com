@@ -49,7 +49,11 @@ LED是Light Emitting Diode（发光二极管）的缩写。这是一种半导体
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_01_07.jpg)
 
 想通过色环来识别电阻的阻值吗？你可以阅读这篇文章：
+[How to Identify Color Circle Resistance Value](https://en.wikipedia.org/wiki/Electronic_color_code).
+
+<!--
 [How to Identify Color Circle Resistance Value](https://www.elecfreaks.com/blog/post/how-to-identify-color-circle-resistance-value.html).
+-->
 
 ## 实验步骤
 ---
@@ -59,6 +63,9 @@ LED是Light Emitting Diode（发光二极管）的缩写。这是一种半导体
 - 1.将led灯的短引脚与GND连接
 
 - 2.将led灯的长引脚通过电阻，与P0口与P1口连接
+
+**[注：此图为连接参考图，具体器件外观以连接实拍图为准]**
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_01_08.jpg)
 
 连接完成后如图:

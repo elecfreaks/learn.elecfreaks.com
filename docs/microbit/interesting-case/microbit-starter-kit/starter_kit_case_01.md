@@ -48,6 +48,8 @@ LED是Light Emitting Diode（发光二极管）的缩写。这是一种半导体
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/circuit-design/microbit-starter-kit/images/case_01_07.jpg)
 
+电阻的颜色仅能代表精度，不能通过电阻的颜色来判断电阻的阻值。
+
 想通过色环来识别电阻的阻值吗？你可以阅读这篇文章：
 [How to Identify Color Circle Resistance Value](https://en.wikipedia.org/wiki/Electronic_color_code).
 

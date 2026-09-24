@@ -50,6 +50,8 @@ Resistor is a component for current control. It can limit the current of the cir
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/circuit-design/microbit-starter-kit/images/WS9Fk9x.jpg)
 
+A resistor's body color only indicates its tolerance. Do not use it to determine the resistance value.
+
 Want to know resistor value by color circles? You can read this article:
 [How to Identify Color Circle Resistance Value](https://en.wikipedia.org/wiki/Electronic_color_code).
 

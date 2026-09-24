@@ -58,7 +58,7 @@ sidebar_label: 沿着黑线行驶
 
 ### 程序
 
-请参考程序连接：[https://makecode.microbit.org/_V53Y9HMygAVp](https://makecode.microbit.org/_V53Y9HMygAVp)
+请参考程序连接：[https://makecode.microbit.org/_gav1mCa6F5Ci](https://makecode.microbit.org/_gav1mCa6F5Ci)
 
 你也可以通过以下网页直接下载程序。
 
@@ -70,7 +70,7 @@ sidebar_label: 沿着黑线行驶
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_V53Y9HMygAVp"
+        src="https://makecode.microbit.org/_gav1mCa6F5Ci"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

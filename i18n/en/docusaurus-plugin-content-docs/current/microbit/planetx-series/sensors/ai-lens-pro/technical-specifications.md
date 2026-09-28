@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: 技术规格
+sidebar_label: Technical Specifications
 ---
 
 # 技术规格

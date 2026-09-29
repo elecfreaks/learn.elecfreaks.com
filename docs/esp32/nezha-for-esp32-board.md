@@ -163,17 +163,15 @@
 #### 主界面
 开机默认界面
 
-<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-110.jpg" alt="UI系统主界面" height="300"/>
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-110.png" alt="UI系统主界面" height="300"/>
 
 #### 程序运行与读取页面
-主界面-单击按键A进入
 
 <img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-111.jpg" alt="程序运行与读取页面" height="300"/>
 
 #### UI系统模块选择页面
-主界面-单击按键C进入
 
-<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-112.jpg" alt="UI系统模块选择页面" height="300"/>
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-112.png" alt="UI系统模块选择页面" height="300"/>
 
 
 

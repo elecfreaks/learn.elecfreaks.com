@@ -46,6 +46,29 @@ SKU|EF04088
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/octopus-sensors/sensor/images/Y7tolMD.jpg)
 
+## 学习模式
+
+【__注：为确保巡线效果，建议小车在搭建完成后进入学习模式，预计15秒左右即可完成高度校准__】 
+
+最新的双路巡线传感器可以通过学习模式优化巡线传感器的灵敏度，且使用时巡线探头的离地高度应在 8mm~16mm之间。
+
+①将双路巡线传感器探头正对地图背景区域并按下学习按键；
+
+②此时探头指示灯闪烁；
+
+③当探头指示灯高频闪烁时，此时应将巡线探头在地图背景和巡线轨迹上来回水平移动；
+
+④一直来回移动，直到巡线探头的指示灯停止闪烁，学习完成。
+
+学习成功后，指示灯会熄灭，当巡线探头检测到巡线轨迹时，对应的探头指示灯灯会点亮。
+
+
+__操作流程参考下图四路巡线传感器（需要区分的是：双路巡线传感器学习完成后指示灯熄灭，而四路巡线传感器学习完成后指示灯光常亮）：__
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/4-Channel_Line_Tracking_Module_Learning-Mode.gif)
+
+
+
 ### Micro:bit 示例代码
 程序链接：[https://makecode.microbit.org/_A5zAEjRw3Ez2](https://makecode.microbit.org/_A5zAEjRw3Ez2)
 你也能通过以下页面直接下载该程序。

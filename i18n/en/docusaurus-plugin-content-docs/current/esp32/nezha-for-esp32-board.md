@@ -165,7 +165,7 @@ The default screen displayed at startup.
 
 #### Run and Load Programs
 
-<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-111.jpg" alt="Run and load programs screen" height="300"/>
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-111.png" alt="Run and load programs screen" height="300"/>
 
 #### Module Selection
 

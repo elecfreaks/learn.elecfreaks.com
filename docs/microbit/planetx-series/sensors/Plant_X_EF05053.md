@@ -41,6 +41,8 @@ SKU|EF05053
 
 ### 学习模式
 
+__【注：为确保巡线效果，建议小车在搭建完成后进入学习模式，预计15秒左右即可完成高度校准】__
+
 四路巡线传感器可通过按下传感器上的按键来学习地图背景和巡线轨迹（即黑色赛道）。按照以下步骤完成学习：
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05053_04.png)
@@ -56,6 +58,8 @@ SKU|EF05053
 注意：使用时巡线探头的离地高度应在 8mm~16mm之间。
 
 学习成功后，两个学习指示灯会熄灭，当巡线探头检测到巡线轨迹时，对应的探头指示灯灯会点亮。当学习失败时，空心圆、实心圆 LED 同时快闪，补光RGB 灯熄灭。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/4-Channel_Line_Tracking_Module_Learning-Mode.gif)
 
 ## makecode编程
 

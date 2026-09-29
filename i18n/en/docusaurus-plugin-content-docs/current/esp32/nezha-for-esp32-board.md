@@ -164,14 +164,12 @@ The default screen displayed at startup.
 <img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-110.jpg" alt="User interface home screen" height="300"/>
 
 #### Run and Load Programs
-From the Home screen, press button A once to open this page in the current development version.
 
 <img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-111.jpg" alt="Run and load programs screen" height="300"/>
 
 #### Module Selection
-From the Home screen, press button C once to open this page in the current development version.
 
-<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-112.jpg" alt="Module selection screen" height="300"/>
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-112.png" alt="Module selection screen" height="300"/>
 
 
 

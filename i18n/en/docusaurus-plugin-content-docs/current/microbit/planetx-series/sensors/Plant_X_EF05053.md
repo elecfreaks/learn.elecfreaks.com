@@ -45,6 +45,8 @@ Connect the 4 way line following sensor with the IIC port and the two motors to 
 
 ### The Learn Mode
 
+__【Note: To ensure optimal line tracking performance, we recommend entering Learning Mode after the car is assembled. Height calibration will be completed in approximately 15 seconds.】__
+
 Press the learn button to learn the map background and the line following path(the black track ). Follow with the following procedures to complete the learn:
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05053_04.png)
@@ -60,6 +62,8 @@ Press the learn button to learn the map background and the line following path(t
 ***Note:*** The height of the line tracking probe from the ground should be among 8mm and 16mm.
 
 After the learning, the two learn indicators will be off. When the probe detects the track, the corresponding probe indicator light will be on. When the learn fails, the hollow circle and solid circle LEDs flash rapidly at the same time, and the fill light RGB light goes out.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/4-Channel_Line_Tracking_Module_Learning-Mode.gif)
 
 ## MakeCode Programming
 

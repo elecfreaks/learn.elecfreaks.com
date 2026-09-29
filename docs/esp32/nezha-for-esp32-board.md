@@ -167,7 +167,7 @@
 
 #### 程序运行与读取页面
 
-<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-111.jpg" alt="程序运行与读取页面" height="300"/>
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-111.png" alt="程序运行与读取页面" height="300"/>
 
 #### UI系统模块选择页面
 

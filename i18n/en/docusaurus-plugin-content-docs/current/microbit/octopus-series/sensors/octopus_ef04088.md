@@ -49,6 +49,23 @@ Connect the left port to P13 and the right port to P14. (Based on the driver's a
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/octopus-sensors/sensor/images/Y7tolMD.jpg)
 
+## Learning Mode
+
+__【Note: To ensure optimal line tracking performance, we recommend entering Learning Mode after the car is assembled. Height calibration will be completed in approximately 15 seconds.】__
+
+The latest 2-Channel Line Tracking Sensor can optimize its sensitivity through Learning Mode. During use, the sensor probe should be positioned 8mm to 16mm above the ground.
+
+1. Position the sensor probe directly over the map's background area and press the Learning button.
+2. The probe's indicator light will start flashing.
+3. When the indicator light begins flashing rapidly, move the probe back and forth horizontally across both the map background and the line track.
+4. Continue moving it back and forth until the indicator light stops flashing. Learning is now complete.
+5. 
+Once learning is successful, the indicator light will turn off. When the probe detects the line track, the corresponding indicator light will illuminate.
+
+Please refer to the image below for the operational workflow (using the 4-Channel sensor as an example). Note the difference: After learning is completed, the 2-Channel sensor's indicator light turns off, whereas the 4-Channel sensor's indicator light remains steadily on:
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/4-Channel_Line_Tracking_Module_Learning-Mode.gif)
+
 ### Code Example
 Links: https://makecode.microbit.org/_Ep84RMKkhcHs
 You can also download the links below:

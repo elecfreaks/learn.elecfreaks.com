@@ -48,7 +48,7 @@ White Line|High level output
 
 __【Note: To ensure optimal line tracking performance, we recommend entering Learning Mode after the car is assembled. Height calibration will be completed in approximately 15 seconds.】__
 
-The latest 2-Channel Line Tracking Sensor can optimize its sensitivity through Learning Mode.
+The latest 2-Channel Line Tracking Sensor can optimize its sensitivity through Learning Mode. And The sensor probe should be positioned 8mm to 16mm above the ground during use.
 
 - Position the sensor probe directly over the map's background area and press the Learning button.
 - The probe's indicator light will start flashing.

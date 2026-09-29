@@ -225,6 +225,7 @@ __方法一(优先选用)：SmartoIot烧录页面__
 
 步骤五：断开连接，重启哪吒ESP32主控盒
 
+
 __方法二：Microblocks平台url固件升级__
 
 - 步骤一：在Microblocks平台上选择使用url进行固件升级

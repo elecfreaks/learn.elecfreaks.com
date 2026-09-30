@@ -30,7 +30,7 @@ sidebar_label: Quick Start
       
     - Click **Add Library** in the left panel, then follow the path **"Elecfreaks - PlanetX - AI Lens Pro"**, and click **Confirm** to add it.
       
-    - Find the **AI Camera Pro** library tab in the left panel, and drag blocks to use them.
+    - Find the **AI Lens Pro** library tab in the left panel, and drag blocks to use them.
       
     - After programming, connect the Nezha ESP32 Multi-Function Main Control Box, then click the button in the top-right corner of the page or click a block to run the program.
 

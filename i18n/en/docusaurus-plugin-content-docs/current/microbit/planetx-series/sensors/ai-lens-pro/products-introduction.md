@@ -3,71 +3,70 @@ sidebar_position: 2
 sidebar_label: Product Overview
 ---
 
+# **AI Lens Pro**
 
-# **AI Camera Pro**
-
-> **Make it easier for your robot to gain a pair of truly useful “eyes.”**
+> **Give your robot a pair of eyes it can truly use.**
 
 ![Product Image](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-01.png)
 
 ## **Product Overview**
 
-AI Camera Pro is an intelligent vision camera designed for **K12 AI education, robotics projects, and competition applications**.
+AI Lens Pro is an intelligent vision camera designed for **K12 AI education, robotics projects, and competition applications**.
 
-In real-world projects, completing an AI vision task involves more than simply “recognizing a target.” The camera needs the right viewing angle, the device needs stable power, the program needs to access recognition results quickly, and the robot needs to respond based on those results.
+In real-world robotics projects, completing an AI vision task involves more than simply recognizing a target. The camera needs the right viewing angle, the device needs reliable power, the program needs quick access to recognition results, and the robot needs to respond based on those results.
 
-AI Camera Pro integrates a **180° rotatable camera, built-in battery, built-in Wi-Fi, and a wide range of on-device AI capabilities** into one device. This helps students move more quickly from “seeing” to “acting,” so they can spend more time programming, experimenting, and creating instead of repeatedly dealing with mounts, cables, and connections.
-
----
-
-## **Why Is AI Camera Pro Better Suited for Robotics Projects?**
-
-### **Adjust the Viewing Angle Without Redesigning the Robot Structure**
-
-Robotics projects often require switching between different viewing directions.
-
-For example, the same robot may need the camera to face forward for face recognition, but point downward when switching to a line-following task. With a fixed camera angle, this often means redesigning the mount or rebuilding part of the structure.
-
-AI Camera Pro supports **180° rotation**, allowing the viewing direction to be adjusted quickly for different tasks:
-
-- Face forward for face recognition, object recognition, and similar tasks;
-- Face downward for line following, color recognition, or ground-target detection;
-- Adjust the camera direction according to the robot’s height and mounting method.
-
-This allows the same robot structure to support more lessons and projects. When switching tasks, students usually only need to adjust the camera instead of rebuilding the entire robot.
-
-**In the classroom, this means less time spent adjusting structures and more time for programming and experimentation.**
+AI Lens Pro brings a **180° rotatable camera, built-in battery, built-in Wi-Fi, and a wide range of on-device AI capabilities** into one compact device. This helps students move more quickly from **seeing** to **deciding** to **acting**, so they can spend more time programming, experimenting, and creating instead of repeatedly dealing with mounts, cables, and connections.
 
 ---
 
-### **Reduce Cables and External Modules for a Cleaner Robot Build**
+## **Why AI Lens Pro Works So Well for Robotics Projects**
 
-Once a camera is mounted on a robot, power and connectivity have a direct impact on the overall building experience.
+### **Change the Viewing Angle Without Rebuilding the Robot**
 
-AI Camera Pro includes a built-in battery and Wi-Fi. In supported scenarios, files can be managed over Wi-Fi, reducing the need to repeatedly connect and disconnect data cables during debugging. The built-in battery also allows the camera itself to operate independently, reducing reliance on additional power cables.
+Robotics projects often require the camera to look in different directions.
+
+For example, the same robot may need the camera to face forward for face recognition, then point downward for line-following. With a fixed-angle camera, this often means redesigning the mount or rebuilding part of the structure.
+
+AI Lens Pro supports **180° rotation**, allowing students to quickly adjust the viewing direction for different tasks:
+
+- Face forward for face recognition, object recognition, and similar applications;
+- Face downward for line-following, color recognition, or ground-target detection;
+- Adjust the camera direction to match the robot’s height and mounting position.
+
+The same robot structure can therefore support more lessons and projects. When the task changes, students usually only need to adjust the camera rather than rebuild the robot.
+
+**In the classroom, that means less time spent on structural adjustments and more time for programming and experimentation.**
+
+---
+
+### **Fewer Cables, Fewer External Modules, Cleaner Builds**
+
+Once a camera is mounted on a moving robot, power and connectivity become part of the design.
+
+AI Lens Pro includes a built-in battery and Wi-Fi. In supported scenarios, files can be managed over Wi-Fi, reducing the need to repeatedly connect and disconnect data cables during debugging. The built-in battery also allows the camera itself to operate independently, reducing reliance on extra power cables.
 
 This brings several practical benefits:
 
-- Fewer cable restrictions while the robot is moving;
-- A cleaner structure with more flexible mounting options;
-- Fewer additional connections and fewer potential failure points;
+- Less cable interference while the robot is moving;
+- Cleaner structures and more flexible mounting options;
+- Fewer external connections and fewer potential failure points;
 - Smoother file management and project debugging.
 
-Especially in compact robots or competition projects, **one less set of cables can mean more usable space and a much easier debugging process.**
+Especially in compact robots or competition projects, **one less cable can mean more usable space and a much easier debugging process.**
 
 ---
 
-### **Stay Focused on the Line That Actually Matters**
+### **Stay Focused on the Line That Matters**
 
-Visual line following may look simple, but real tracks often contain adjacent lines, intersections, borders, shadows, or other dark regions.
+Visual line-following may look simple, but real tracks often include nearby lines, intersections, borders, shadows, or other dark regions.
 
-When multiple candidate targets appear in the camera view, the recognition result may jump between them, causing the robot to drift, turn incorrectly, or follow the route inconsistently.
+When multiple candidate lines appear in the camera view, recognition results can become unstable, causing the robot to drift, turn incorrectly, or follow the route inconsistently.
 
-AI Camera Pro provides **real-time single-line tracking** for this scenario, helping the system stay focused on the intended path.
+AI Lens Pro provides **real-time single-line tracking**, helping the system stay focused on the intended path.
 
-For students, this means not only more stable recognition results, but also clearer and more predictable feedback when building their first line-following project.
+For students, this means more stable recognition and clearer, more predictable feedback when building a line-following project.
 
-Teachers can also spend more classroom time on key concepts such as error values, steering control, and PID instead of repeatedly troubleshooting why the robot suddenly turned away.
+Teachers can also spend more classroom time on key concepts such as error values, steering control, and PID, instead of repeatedly troubleshooting why the robot suddenly turns away.
 
 ---
 
@@ -75,62 +74,64 @@ Teachers can also spend more classroom time on key concepts such as error values
 
 Real-world objects do not always appear at the same angle, distance, or against the same background.
 
-Take an apple as an example. Its visual features may look different from the front, from the side, at a greater distance, or under different lighting conditions. If only one sample is used for training, students may easily assume that AI is simply “memorizing one image.”
+Take an apple as an example. It may look different from the front, from the side, at a greater distance, or under different lighting conditions. If only one sample is used for training, students may easily assume that AI is simply “memorizing an image.”
 
-AI Camera Pro supports **multiple samples under the same ID**. Students can collect samples of the same category from:
+AI Lens Pro supports **multiple samples under the same ID**. Students can collect samples of the same category from:
 
 - Front and side views;
 - Different distances;
 - Different lighting conditions;
 - Different backgrounds.
 
-These samples can all be assigned to the same ID.
+All of these samples can be assigned to the same ID.
 
-This allows students not only to complete a recognition task, but also to naturally understand an important AI concept:
+This helps students understand an important AI concept:
 
-**A category is not the same as a single image.**
+**A category is more than a single image.**
 
-They can also continue experimenting by observing whether recognition changes after adding more samples from different angles and environments. Compared with simply explaining the concept of “training data,” this observable and comparable process is easier to understand.
+They can then test whether recognition performance changes after adding more samples from different angles and environments. Compared with simply explaining “training data,” this hands-on approach makes the concept easier to understand.
 
 ---
 
 ### **Get Results Quickly, Even in the First AI Lesson**
 
-For beginner lessons, students often need to quickly build an intuitive understanding that visual input can directly affect robot behavior.
+For beginner lessons, students often need to first understand one simple idea:
 
-For example, a robot can stop when it sees red. For a task like this, requiring students to complete training, sampling, and saving before they can even begin may use up much of the first lesson.
+**Visual input can directly affect robot behavior.**
 
-AI Camera Pro supports two color-recognition modes:
+For example, a robot can stop when it sees red. For a task like this, requiring students to complete a full training process before they can begin may use up much of the first lesson.
+
+AI Lens Pro supports two color-recognition modes:
 
 - **Standard Color Recognition**: Recognizes common colors directly without prior training;
-- **Learned Color Recognition**: Allows users to train custom color categories based on project needs.
+- **Custom Color Learning**: Allows students to train custom color categories for specific projects.
 
 This means the same feature can support both quick exploration and deeper learning.
 
-In the first lesson, students can immediately see that “the camera recognizes a color, and the robot responds.” In more advanced lessons, they can continue learning about samples, categories, and training.
+In an introductory lesson, students can immediately see the camera recognize a color and the robot respond. In more advanced lessons, they can continue exploring samples, categories, and training.
 
 ---
 
 ## **AI Features at a Glance**
 
-AI Camera Pro is not simply about having “many features.” It supports a complete learning path from **AI introduction and model learning to robot control and interactive projects**.
+AI Lens Pro is designed to support a complete learning path from **AI basics and model learning to robot control and interactive projects**.
 
 ### **Basic Visual Recognition**
 
-Suitable for quickly starting AI beginner lessons and basic projects:
+Suitable for beginner AI lessons and quick-start projects:
 
 | Feature | What You Can Do |
 |---|---|
 | Color Recognition | Recognize common colors and learn custom colors |
 | Ball Recognition | Recognize balls of specific colors and count them |
-| Card Recognition | Recognize number cards, letter cards, traffic sign cards, and common object cards |
+| Card Recognition | Recognize number cards, letter cards, traffic signs, and common object cards |
 | Code Recognition | Recognize QR codes and barcodes |
 | Object Recognition | Recognize common objects |
 | Optical Character Recognition (OCR) | Recognize text within a specified area |
 
 ### **Self-Learning AI**
 
-Helps students move from “using models” to “training models”:
+Helps students move from using models to training them:
 
 | Feature | What You Can Do |
 |---|---|
@@ -146,14 +147,14 @@ Suitable for interactive robots, creative projects, and classroom experiments:
 
 | Feature | What You Can Do |
 |---|---|
-| Face Recognition | Learn faces and obtain blink and mouth-opening information |
+| Face Recognition | Learn faces and detect actions such as blinking and mouth opening |
 | Expression Recognition | Recognize common facial expressions and count them |
 | Gesture Recognition | Recognize custom gestures |
 | Pose Recognition | Recognize human poses and keypoint information |
 
 ### **Robot Vision**
 
-Designed to turn visual results into actual motion control:
+Designed to turn visual results into motion and control:
 
 | Feature | What You Can Do |
 |---|---|
@@ -164,9 +165,9 @@ Designed to turn visual results into actual motion control:
 
 ### **More Than Vision**
 
-AI Camera Pro also includes a microphone and speaker, enabling sound-based interaction such as rhythm recognition.
+AI Lens Pro also includes a microphone and speaker, enabling sound-based interaction such as rhythm recognition.
 
-This means projects do not have to stop at “what the robot sees.” They can also expand to “what the robot hears” and “how it responds.”
+This allows projects to go beyond **what the robot sees** and expand into **what the robot hears and how it responds**.
 
 ---
 
@@ -176,7 +177,7 @@ This means projects do not have to stop at “what the robot sees.” They can a
 
 Rotate the camera downward to detect the track, then control the left and right motors based on the line position.
 
-Students can start with basic line detection and gradually learn:
+Students can start with basic route detection and gradually learn:
 
 - Image coordinates;
 - Route deviation;
@@ -184,9 +185,9 @@ Students can start with basic line detection and gradually learn:
 - Proportional control;
 - PID.
 
-The final result is no longer just a visual recognition output:
+The final result is more than a visual recognition output:
 
-**Camera sees the route → Program makes a decision → Motors change behavior.**
+**Camera sees the route → Program makes a decision → Motors respond.**
 
 AI vision becomes part of a complete robot control loop.
 
@@ -199,10 +200,10 @@ Students can train the camera to recognize different objects such as apples, bot
 They can collect samples of the same object from different directions and observe:
 
 - What happens when only one angle is used for training;
-- Whether recognition changes after adding multiple angles;
+- Whether recognition improves after adding multiple angles;
 - Whether changing the background affects the result.
 
-Students can directly observe how the quality of training samples affects recognition performance.
+Students can directly observe how training samples affect recognition performance.
 
 At this point, AI is no longer just a feature to call. It becomes a system that can be tested, compared, and improved.
 
@@ -210,7 +211,7 @@ At this point, AI is no longer just a feature to call. It becomes a system that 
 
 ### **Trigger Different Actions with Colors**
 
-For beginner lessons, color is a simple place to start.
+For beginner lessons, color is an easy place to start.
 
 | Camera Sees | Robot Action |
 |---|---|
@@ -236,7 +237,7 @@ For example:
 - Control robot steering with gestures;
 - Play a sound when a target is detected.
 
-The same camera can switch from “looking at the ground” to “looking at people” without redesigning the entire mounting structure.
+The same camera can switch from “looking at the ground” to “looking at people” without redesigning the mounting structure.
 
 ---
 
@@ -248,13 +249,13 @@ In competition scenarios, the most limited resources are often not features, but
 
 Every extra cable, power module, or fixed camera mount adds more building and debugging work.
 
-With a rotatable camera, built-in battery, and Wi-Fi, AI Camera Pro keeps more of these requirements inside the camera itself, allowing teams to move earlier into route testing, program debugging, and full-system optimization.
+With a rotatable camera, built-in battery, and Wi-Fi, AI Lens Pro keeps more of these requirements inside the camera itself, allowing teams to move sooner into route testing, program debugging, and full-system optimization.
 
 ---
 
 ## **Programming Support**
 
-AI Camera Pro supports graphical programming with **MakeCode and MicroBlocks**, allowing AI recognition results to be used directly in robot control and interactive projects.
+AI Lens Pro supports graphical programming with **MakeCode and MicroBlocks**, allowing AI recognition results to be used directly in robot control and interactive projects.
 
 Using programming blocks, students can access data returned by different AI features, such as:
 
@@ -264,7 +265,7 @@ Using programming blocks, students can access data returned by different AI feat
 - Width and height;
 - Confidence;
 - Number of detected targets;
-- Line-following offset angle and offset distance;
+- Line-tracking offset angle and offset distance;
 - QR code / barcode data;
 - Human keypoints and pose information.
 
@@ -284,7 +285,7 @@ For beginners, block-based programming lowers the entry barrier. As students gai
 
 ## **From the First AI Lesson to a Complete Robotics Project**
 
-AI Camera Pro can support students as their skills progress.
+AI Lens Pro can grow with students as their skills develop.
 
 ![Learning Path](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-02.png)
 
@@ -294,7 +295,7 @@ First understand: **A camera can collect information from the environment.**
 
 ### **Step 2: Follow a Route**
 
-Then understand: **Visual results can participate in robot motion control.**
+Then understand: **Visual results can be used to control robot movement.**
 
 ### **Step 3: Recognize Different Objects**
 
@@ -317,7 +318,7 @@ Students begin to make their own decisions about:
 - How to improve recognition stability;
 - How to coordinate visual results with motion control.
 
-At this stage, AI Camera Pro is no longer just an independent recognition module. It becomes the robot’s visual input system — in other words, its **“eyes.”**
+At this stage, AI Lens Pro is no longer just an independent recognition module. It becomes the robot’s visual input system — in other words, its **“eyes.”**
 
 ---
 
@@ -327,7 +328,7 @@ At this stage, AI Camera Pro is no longer just an independent recognition module
 
 Yes.
 
-AI Camera Pro supports **180° rotation**. The camera can face forward for face and object recognition, or downward for line following, color recognition, and ground-target detection.
+AI Lens Pro supports **180° rotation**. The camera can face forward for face and object recognition, or downward for line-following, color recognition, and ground-target detection.
 
 ---
 
@@ -335,7 +336,7 @@ AI Camera Pro supports **180° rotation**. The camera can face forward for face 
 
 No.
 
-The current AI Camera Pro hardware does not support manual focus adjustment. For best results, select an appropriate mounting distance and viewing range for the specific recognition task.
+The current AI Lens Pro hardware does not support manual focus adjustment. For best results, choose an appropriate mounting distance and viewing range for the recognition task.
 
 ---
 
@@ -343,7 +344,7 @@ The current AI Camera Pro hardware does not support manual focus adjustment. For
 
 No, not all the time.
 
-AI Camera Pro includes built-in Wi-Fi and supports local-network file management, reducing the need to frequently connect a data cable during debugging.
+AI Lens Pro includes built-in Wi-Fi and supports local network file management, reducing the need to frequently connect a data cable during debugging.
 
 ---
 
@@ -351,7 +352,7 @@ AI Camera Pro includes built-in Wi-Fi and supports local-network file management
 
 Not for the camera itself.
 
-AI Camera Pro includes a built-in 800 mAh battery, allowing the camera to power itself and reducing additional power cabling in robotics projects.
+AI Lens Pro includes a built-in 800 mAh battery, allowing the camera to power itself and reducing additional power cabling in robotics projects.
 
 ---
 
@@ -359,7 +360,7 @@ AI Camera Pro includes a built-in 800 mAh battery, allowing the camera to power 
 
 Not necessarily.
 
-Standard Color Recognition can be used directly. If custom colors are required, you can switch to Learned Color Recognition mode and train your own color categories.
+Standard Color Recognition can be used directly. If custom colors are required, switch to Custom Color Learning mode and train your own color categories.
 
 ---
 
@@ -373,20 +374,20 @@ The same ID can contain multiple samples. For example, the same apple can be sam
 
 ### **Which programming platforms are supported?**
 
-AI Camera Pro supports graphical programming with **MakeCode and MicroBlocks**.
+AI Lens Pro supports graphical programming with **MakeCode and MicroBlocks**.
 
 Students can read recognition results through programming blocks and use them to control motors, displays, sound, and other robot modules.
 
 ---
 
-### **Who Is AI Camera Pro Best Suited For?**
+### **Who Is AI Lens Pro Best Suited For?**
 
-AI Camera Pro is especially suitable for:
+AI Lens Pro is especially suitable for:
 
 - Students who are new to AI vision;
 - Teachers who need to quickly launch classroom projects;
 - Users who want to integrate vision into real robotics projects;
-- Learners working on line following, object recognition, color recognition, and similar projects;
+- Learners working on line-following, object recognition, color recognition, and similar projects;
 - Competition teams looking to reduce power, cabling, and mounting complexity.
 
-If your goal is not simply to study a vision model, but to **make AI an active part of a robotics project**, that is exactly what AI Camera Pro is designed to support.
+If your goal is not simply to study a vision model, but to **make AI an active part of a robotics project**, AI Lens Pro is designed to help you get there.

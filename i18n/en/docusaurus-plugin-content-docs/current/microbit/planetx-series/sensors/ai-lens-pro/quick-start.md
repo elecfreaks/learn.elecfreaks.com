@@ -26,7 +26,7 @@ sidebar_label: Quick Start
 
 - Using the MicroBlocks platform (coming soon)
 
-    - Open the platform link: https:microblocks.html
+    - Open the platform link: https://microblocks.fun/run/microblocks.html
       
     - Click **Add Library** in the left panel, then follow the path **"Elecfreaks - PlanetX - AI Lens Pro"**, and click **Confirm** to add it.
       

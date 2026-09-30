@@ -28,7 +28,7 @@ sidebar_label: Quick Start
 
     - Open the platform link: https:microblocks.html
       
-    - Click **Add Library** in the left panel, then follow the path **$$$$Elecfreaks - $$$$PlanetX - AI Lens Pro**, and click **Confirm** to add it.
+    - Click **Add Library** in the left panel, then follow the path **Elecfreaks - PlanetX - AI Lens Pro**, and click **Confirm** to add it.
       
     - Find the **AI Camera Pro** library tab in the left panel, and drag blocks to use them.
       

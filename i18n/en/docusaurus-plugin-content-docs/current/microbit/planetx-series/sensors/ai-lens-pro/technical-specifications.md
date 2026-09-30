@@ -32,4 +32,7 @@ sidebar_label: Technical Specifications
 | Rated Operating Voltage | 3.7 V |
 | Min. Operating Voltage | 3.0 V |
 
+> Battery life may vary depending on factors such as screen brightness, Wi\‑Fi usage, and AI function status. Actual usage time depends on specific scenarios.
+> 
+> 
 

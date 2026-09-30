@@ -22,13 +22,13 @@ sidebar_label: Quick Start
 
     - Find the **planetX\-AI** tab in the block library on the left, and drag blocks to use them.
 
-    - After programming, 内部工具 the program to the micro:bit to run it.
+    - After programming, Download the program to the micro:bit to run it.
 
 - Using the MicroBlocks platform (coming soon)
 
     - Open the platform link: https:microblocks.html
       
-    - Click **Add Library** in the left panel, then follow the path **Elecfreaks - PlanetX - AI Lens Pro**, and click **Confirm** to add it.
+    - Click **Add Library** in the left panel, then follow the path **"Elecfreaks - PlanetX - AI Lens Pro"**, and click **Confirm** to add it.
       
     - Find the **AI Camera Pro** library tab in the left panel, and drag blocks to use them.
       

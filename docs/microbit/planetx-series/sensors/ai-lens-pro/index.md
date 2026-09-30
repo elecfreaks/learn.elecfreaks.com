@@ -10,6 +10,8 @@ sidebar_label: AI摄像头Pro
 > 
 > 
 
+![产品主图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-01.png)
+
 ## **产品简介**
 
 AI 摄像头 Pro 是一款面向 **K12 AI 教育、机器人项目与竞赛应用**设计的智能视觉摄像头。
@@ -510,6 +512,8 @@ AI 摄像头 Pro 支持 **MakeCode 与 MicroBlocks** 图形化编程，可将 AI
 
 
 AI 摄像头 Pro 可以随着学生能力逐步深入。
+
+![学习流程图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-02.png)
 
 
 ### **第一步：感知颜色**

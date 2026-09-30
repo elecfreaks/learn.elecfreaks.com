@@ -5,7 +5,7 @@ sidebar_label: Technical Specifications
 
 # Technical Specifications
 
-Quickly browse all AI Lens Pro specifications.
+View all AI Lens Pro specs.
 
 | Item | Specification |
 | :--- | :--- |

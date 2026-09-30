@@ -7,6 +7,8 @@ sidebar_label: Quick Start
 
 # Quick Start
 
+Start experiencing AI Lens Pro now！
+
 
 ## **Instructions**
 

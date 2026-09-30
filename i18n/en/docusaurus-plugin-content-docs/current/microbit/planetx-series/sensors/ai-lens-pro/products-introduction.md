@@ -287,7 +287,7 @@ For beginners, block-based programming lowers the entry barrier. As students gai
 
 AI Lens Pro can grow with students as their skills develop.
 
-![Learning Path](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-02.png)
+![Learning Path](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-02.png)
 
 ### **Step 1: Sense Colors**
 

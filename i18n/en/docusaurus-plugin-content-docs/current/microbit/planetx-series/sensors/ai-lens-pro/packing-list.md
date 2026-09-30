@@ -5,6 +5,8 @@ sidebar_label: Package Contents
 
 # Packing List
 
+View all AI Lens Pro kit items.
+
 | Item | Purpose | Quantity | Specification |
 | :--- | :--- | :--- | :--- |
 | Smart AI Lens Pro | Core functionality | 1 | - |

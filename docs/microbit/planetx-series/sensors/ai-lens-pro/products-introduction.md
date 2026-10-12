@@ -5,11 +5,12 @@ sidebar_label: 产品介绍
 
 # **AI 摄像头 Pro**
 
-> **让机器人拥有一双真正能用的“眼睛”。**
-> 
-> 
 
 ![产品主图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-01.png)
+
+> **让机器人拥有一双真正能用的“眼睛”。**
+>
+>
 
 ## **产品简介**
 
@@ -667,8 +668,3 @@ AI 摄像头 Pro 尤其适合：
 - 希望减少供电、线材和安装复杂度的竞赛团队。
 
 如果你的目标不是单独研究一个视觉模型，而是 **让 AI 真正参与机器人项目**，这正是 AI 摄像头 Pro 重点解决的问题。
-
-
-
-
-

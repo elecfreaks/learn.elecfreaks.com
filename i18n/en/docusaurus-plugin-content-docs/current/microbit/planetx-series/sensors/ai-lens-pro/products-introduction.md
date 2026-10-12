@@ -5,9 +5,12 @@ sidebar_label: Product Overview
 
 # **AI Lens Pro**
 
-> **Give your robot a pair of eyes it can truly use.**
 
 ![Product Image](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-01.png)
+
+
+> **Give your robot a pair of eyes it can truly use.**
+
 
 ## **Product Overview**
 

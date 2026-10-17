@@ -72,7 +72,7 @@ description: 完成温室组装，学习 micro:bit 图标显示与按钮交互�
 
 ### 编写程序
 
-![案例程序图](./images/case_01.png)
+![案例程序图](./images/program-case-01-white.png)
 
 点击下方预览直接查看/运行完整程序；也可点击链接在 MakeCode 编辑器中打开并改造：
 

@@ -61,3 +61,18 @@ import DocCardList from '@theme/DocCardList';
 
 <DocCardList />
 ```
+
+## 案例目录
+
+- [案例01：智能温室 · 搭建初体验](./case01-smart-greenhouse.md)
+- [案例02：光照感知 · 光线小助手](./case02-light-monitor.md)
+- [案例03：温室气象站 · 温湿度实时监测](./case03-temperature-humidity.md)
+- [案例04：土壤监测 · 土壤的"口渴指数"](./case04-soil-moisture.md)
+- [案例05：智能灌溉 · 土壤联动自动浇水](./case05-automatic-irrigation.md)
+- [案例06：智能补光 · 光照联动彩虹灯](./case06-automatic-lighting.md)
+- [案例07：环境警报 · 温湿度异常提醒](./case07-environment-alarm.md)
+- [案例08：综合环境管家 · 本地闭环智能温室](./case08-smart-greenhouse-control.md)
+- [案例09：数据上云 · 农场实时监测站](./case09-cloud-monitoring.md)
+- [案例10：远程灌溉 · 网页端控制浇水](./case10-remote-irrigation.md)
+- [案例11：全功能智慧农场 · 云端集成](./case11-connected-smart-farm.md)
+- [案例12：我的智慧农场 · 创意结业展示](./case12-my-smart-farm.md)

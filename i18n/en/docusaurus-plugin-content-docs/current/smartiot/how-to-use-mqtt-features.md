@@ -74,9 +74,12 @@ In the pop-up window, fill in the `Username` and `Password`, set the `Permission
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/smartiot/images/how-to-use-mqtt-feature-05.png)
 
-Switch to the `MQTT Web Client`, fill in `Client ID`, `Username`, `Password`, `Subscription Topic`, and `Topic`, then click `Connect to Server` and `Subscribe` to connect to the MQTT server and send messages:
 
-**Note: Two devices need different accounts to exchange messages using MQTT. For example, when a computer communicates with a micro:bit, use one account on the computer and enter the details of a different account in the micro:bit program.**
+**Two different accounts are required for MQTT communication, as shown below, to ensure messages can be sent and received correctly. Use one account for the MQTT web platform on your computer and the other for the micro:bit program.**
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/smartiot/images/how-to-use-mqtt-feature-09.jpg)
+
+Switch to the `MQTT Web Client`, fill in `Client ID`, `Username`, `Password`, `Subscription Topic`, and `Topic`, then click `Connect to Server` and `Subscribe` to connect to the MQTT server and send messages:
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/smartiot/images/how-to-use-mqtt-feature-06.png)
 

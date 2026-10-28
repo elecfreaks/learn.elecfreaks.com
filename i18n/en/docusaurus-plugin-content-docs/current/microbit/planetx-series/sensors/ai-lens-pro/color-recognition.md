@@ -3,8 +3,9 @@ sidebar_position: 16
 sidebar_label: Color Recognition
 ---
 
+# Color Recognition
 
-# Automatic Color Sorting Station
+Automatic Color Sorting Station
 
 How It Works: When AI Lens Pro detects a red or blue ball, the sorting station automatically moves the ball to the matching color bin and releases it. After sorting, the station returns to its starting position and waits for the next ball, allowing continuous automatic sorting.
 
@@ -14,6 +15,8 @@ How It Works: When AI Lens Pro detects a red or blue ball, the sorting station a
 https://makecode.microbit.org/_ewM6y56YCb0v
 
 ---
+
+Code Example：
 
 <a href="https://makecode.microbit.org/_ewM6y56YCb0v" target="_blank">
   <button>Open the Color Recognition Example</button>

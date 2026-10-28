@@ -1,23 +1,23 @@
-# Nezha For ESP32 Board
+# Nezha ESP32 Board
 
-<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-101.png" alt="Nezha For ESP32 Board" height="250"/>
+<img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-101.png" alt="Nezha ESP32 Board" height="250"/>
 
 ***
 
 ## Overview
 
-The Nezha For ESP32 Board is a core controller designed for K–12 coding education, robotics competitions, and AIoT projects.
+The Nezha ESP32 Board is a core controller designed for K–12 coding education, robotics competitions, and AIoT projects.
 
 Its modular controller-and-sensor design works with building-block systems. Students can use it for introductory coding, sensor projects, robot control, smart environmental monitoring, and creative construction. A fully enclosed housing protects the electronics, while keyed RJ11 ports and a color-coded port system help students connect sensors and expansion modules quickly in classrooms, clubs, and competitions.
 
-The Nezha For ESP32 Board supports block-based programming with MicroBlocks, as well as MicroPython and Python. It can also connect to the Smart IoT platform for data visualization and project expansion.
+The Nezha ESP32 Board supports block-based programming with MicroBlocks, as well as MicroPython and Python. It can also connect to the Smart IoT platform for data visualization and project expansion.
 
 **SKU: EF03480**
 
 ***
 
 ## Features
-![Nezha For ESP32 Board feature overview](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-102.jpg)
+![Nezha ESP32 Board feature overview](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-102.jpg)
 
 ### Fully Enclosed Protective Housing
 
@@ -69,7 +69,7 @@ The board supports both wired and Bluetooth programming. Users can choose the mo
 
 ### Built-In Input and Output Components
 
-The Nezha For ESP32 Board includes essential input and output components, enabling students to complete beginner projects without external modules.
+The Nezha ESP32 Board includes essential input and output components, enabling students to complete beginner projects without external modules.
 
 | Onboard Component | Typical Uses |
 | --- | --- |
@@ -103,7 +103,7 @@ The board is designed to work with commonly available studded building blocks an
 
 | Item | Specification |
 | --- | --- |
-| Product Name | Nezha For ESP32 Board |
+| Product Name | Nezha ESP32 Board |
 | SKU | EF03480 |
 | Main Controller | ESP32-S3, dual-core, 240 MHz |
 | Dimensions | 80 × 60 × 36 mm |
@@ -195,11 +195,11 @@ Production access after launch: [https://microblocksfun.cn/run/microblocks.html]
 
 ![Choose a connection method](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-113.png)
 
-- **Wired connection:** Connect the Nezha For ESP32 Board to your computer with a USB Type-C data cable.
+- **Wired connection:** Connect the Nezha ESP32 Board to your computer with a USB Type-C data cable.
 
 <img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/esp32/images/nezha-for-esp32-board-114.jpg" alt="Wired connection" height="300"/>
 
-- **Wireless connection:** Connect the Nezha For ESP32 Board to your computer via Bluetooth.
+- **Wireless connection:** Connect the Nezha ESP32 Board to your computer via Bluetooth.
 
 <img src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-115.png" alt="Bluetooth connection" height="300"/>
 
@@ -207,7 +207,7 @@ Production access after launch: [https://microblocksfun.cn/run/microblocks.html]
 
 ### Update the Firmware (Optional)
 
-Follow these steps to update the firmware on the Nezha For ESP32 Board.
+Follow these steps to update the firmware on the Nezha ESP32 Board.
 
 1. In MicroBlocks, select the option to update firmware from a URL.
 
@@ -215,14 +215,14 @@ Follow these steps to update the firmware on the Nezha For ESP32 Board.
 
 2. Use the following URL to download the firmware file:
 
-   **Firmware version:** V0.9.3  
+   **Firmware version:** V0.9.3
    **Firmware update date:** 26/08/28
 
    [https://www.smartiot.space/static_resource/NEZHA-ESP32-S3_all.bin](https://www.smartiot.space/static_resource/NEZHA-ESP32-S3_all.bin)
 
 ![Enter the firmware URL](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-117.jpg)
 
-3. After the firmware file has downloaded, press and hold the power button to turn on the Nezha For ESP32 Board. Connect the board to a computer with a USB-C data cable.
+3. After the firmware file has downloaded, press and hold the power button to turn on the Nezha ESP32 Board. Connect the board to a computer with a USB-C data cable.
 
 ![Connect the board to a computer](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-118.png)
 
@@ -230,7 +230,7 @@ Follow these steps to update the firmware on the Nezha For ESP32 Board.
 
 ![Select the serial port](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-119.png)
 
-5. When the update-complete message appears, disconnect the USB-C cable and restart the Nezha For ESP32 Board.
+5. When the update-complete message appears, disconnect the USB-C cable and restart the Nezha ESP32 Board.
 
 ![Firmware update complete](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/esp32/images/nezha-for-esp32-board-en-120.png)
 
@@ -238,7 +238,7 @@ Follow these steps to update the firmware on the Nezha For ESP32 Board.
 
 ### Add the Nezha ESP32 Extension Library
 
-Add the dedicated extension library to use the blocks for the Nezha For ESP32 Board.
+Add the dedicated extension library to use the blocks for the Nezha ESP32 Board.
 
 Current library path: **Libraries → Elecfreaks → Nezha ESP32 → Board**
 
@@ -248,18 +248,18 @@ Current library path: **Libraries → Elecfreaks → Nezha ESP32 → Board**
 
 ## Programming Block Categories
 
-| Category | Description | 
-| --- | --- | 
-| Basic Control | Read device information, initialize the board, and set its operating state | 
-| Display | Show text, values, icons, or pages on the color display | 
-| Button Input | Read the state of buttons A, B, and C | 
-| RGB LEDs | Set the color of one or all RGB LEDs | 
-| Onboard Light Sensor | Read ambient light data | 
-| Onboard Microphone | Read sound or noise data | 
-| Onboard Gyroscope | Read orientation, tilt, or motion data | 
-| External Sensors | Read data from sensors connected through RJ11 ports | 
-| Motion | Control motor speed, direction, stop commands, and motion states | 
-| IoT Platform | Upload data to the Smart IoT platform | 
+| Category | Description |
+| --- | --- |
+| Basic Control | Read device information, initialize the board, and set its operating state |
+| Display | Show text, values, icons, or pages on the color display |
+| Button Input | Read the state of buttons A, B, and C |
+| RGB LEDs | Set the color of one or all RGB LEDs |
+| Onboard Light Sensor | Read ambient light data |
+| Onboard Microphone | Read sound or noise data |
+| Onboard Gyroscope | Read orientation, tilt, or motion data |
+| External Sensors | Read data from sensors connected through RJ11 ports |
+| Motion | Control motor speed, direction, stop commands, and motion states |
+| IoT Platform | Upload data to the Smart IoT platform |
 
 ***
 

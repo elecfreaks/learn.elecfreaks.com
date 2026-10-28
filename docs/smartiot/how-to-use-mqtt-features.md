@@ -78,6 +78,8 @@ MQTT 全称 Message Queuing Telemetry Transport，中文译为消息队列遥测
 
 切换到`MQTT网页客户端`填写`客户端 ID`、`用户名`、`密码`、`订阅主题`、`Topic`，并点击`连接服务器`及`订阅`，即可连上MQTT服务器发送消息
 
+**注意： 使用 MQTT 让两台设备交换信息时，两台设备需要使用不同的账号。例如，电脑与 micro:bit 通信时，请在电脑端使用一个账号，并在 micro:bit 程序中填写另一个账号的信息。**
+
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/smartiot/images/how-to-use-mqtt-feature-06.png)
 
 编辑消息内容，点击`发布消息`即可在消息查看栏看到信息

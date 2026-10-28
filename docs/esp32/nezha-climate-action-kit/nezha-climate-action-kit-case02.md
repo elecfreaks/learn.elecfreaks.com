@@ -96,7 +96,7 @@ sidebar_position: 3
 ### 1. 启动初始化
 
 <!-- 图片占位符：启动初始化程序截图 -->
-![启动初始化程序](./images/urban-sound-observer-program-init.png)
+<!-- 建议文件名：./images/urban-sound-observer-program-init.png -->
 
 程序启动后将执行以下操作：
 
@@ -116,7 +116,7 @@ sidebar_position: 3
 ### 2. 循环检测与控制
 
 <!-- 图片占位符：循环检测与控制程序截图 -->
-![循环控制程序](./images/urban-sound-observer-program-main.png)
+<!-- 建议文件名：./images/urban-sound-observer-program-main.png -->
 
 在 `forever` 循环中，系统会持续执行以下任务。
 

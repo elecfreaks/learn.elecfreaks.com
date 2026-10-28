@@ -99,7 +99,7 @@ RFID 传感器使用 IIC 接口。接线时请对准接口方向，不要在设�
 ### 1. 启动初始化
 
 <!-- 图片占位符：启动初始化程序截图 -->
-![启动初始化程序](./images/smart-low-carbon-bus-stop-program-init.png)
+<!-- 建议文件名：./images/smart-low-carbon-bus-stop-program-init.png -->
 
 程序启动后将执行以下操作：
 
@@ -121,7 +121,7 @@ RFID 传感器使用 IIC 接口。接线时请对准接口方向，不要在设�
 ### 2. 循环检测与控制
 
 <!-- 图片占位符：循环检测与控制程序截图 -->
-![循环控制程序](./images/smart-low-carbon-bus-stop-program-main.png)
+<!-- 建议文件名：./images/smart-low-carbon-bus-stop-program-main.png -->
 
 在 `forever` 循环中，系统会持续执行三项任务。
 

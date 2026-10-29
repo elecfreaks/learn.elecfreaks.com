@@ -79,6 +79,7 @@ None
 
 1. Connect the micro:bit to the computer with a data cable.
    **Note:** If the micro:bit runs a Jacdac program for the first time, please pre-install a blank Jacdac program on the micro:bit first; otherwise, skip this step.
+   > **Note:** Make sure the power selection switch is set correctly. When using the micro:bit board to power the Jacdac modules, set the switch to micro:bit. When using an external power module, set the switch to Power.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 

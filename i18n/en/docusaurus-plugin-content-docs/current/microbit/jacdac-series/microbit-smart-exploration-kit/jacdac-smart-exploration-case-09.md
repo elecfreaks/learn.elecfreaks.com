@@ -70,6 +70,7 @@ board into the Jacdac expansion board, and use the connecting wire to connect th
 1. Connect the micro:bit mainboard to the computer with a data cable.
 
 **Note**: If the micro:bit mainboard is running the Jacdac program for the first time, please pre-install a blank Jacdac program on the mainboard, otherwise skip this step.![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
+> **Note:** Make sure the power selection switch is set correctly. When using the micro:bit board to power the Jacdac modules, set the switch to micro:bit. When using an external power module, set the switch to Power.
 
 2. Connect the sensor, MakeCode will automatically identify and simulate it, and the sensor will provide real-time feedback of the sensor status in the simulation area.
 

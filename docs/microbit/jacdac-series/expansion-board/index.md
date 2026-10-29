@@ -93,8 +93,9 @@ sidebar_label:  Jacdac系列扩展板
 ---
 #### 步骤2：
 1. 用数据线将micro:bit主板连接到计算机。
-   
+
    **注意**：若micro:bit主板初次运行jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
+   **注意： 请确认电源选择开关的位置。使用 micro:bit 主板为 Jacdac 模块供电时，请将开关拨至 micro:bit 一侧；使用外接电源模块供电时，请将开关拨至 Power 一侧。**
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 
@@ -103,7 +104,7 @@ sidebar_label:  Jacdac系列扩展板
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/1jacdac-smart-exploration-kit-6.png)
 
 3. 点击“ADD BLOCKS”传感器扩展模块。
-   
+
    **注意**：连接新的传感器，重复执行一次“点击“ADD BLOCKS”传感器扩展模块”操作流程。
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-7.png)

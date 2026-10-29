@@ -112,6 +112,7 @@ As shown below, insert the micro:bit V2 board into the Jacdac expansion board, a
 1. Use a USB cable to connect the micro:bit V2 board to the computer.
 
    > **Note:** If this is the first time running a Jacdac program on the micro:bit V2, please pre-load a blank Jacdac program onto the board first. Otherwise, skip this step.
+   > **Note:** Make sure the power selection switch is set correctly. When using the micro:bit board to power the Jacdac modules, set the switch to micro:bit. When using an external power module, set the switch to Power.
 
    ![Connect micro:bit](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 

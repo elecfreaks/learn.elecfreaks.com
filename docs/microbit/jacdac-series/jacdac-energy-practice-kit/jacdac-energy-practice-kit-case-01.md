@@ -93,6 +93,7 @@
 1. 用数据线将micro:bit主板连接到计算机。
 
    > **注意：** 若micro:bit主板初次运行Jacdac程序，请先预装一个空白Jacdac程序至主板，否则跳过此步骤。
+   > **注意：** 请确认电源选择开关的位置。使用 micro:bit 主板为 Jacdac 模块供电时，请将开关拨至 micro:bit 一侧；使用外接电源模块供电时，请将开关拨至 Power 一侧。
 
    ![连接micro:bit](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/getting-started/microbit-jacdac-smartexploration-kit/images/Step%20Diagram/jacdac-smart-exploration-kit-5.png)
 
@@ -252,4 +253,3 @@
 | **if-else 的哲学** | 筒车的工作逻辑本质上就是一个 if-else：如果（水流冲击）{ 旋转汲水 } 否则 { 静止等待 }。你今天编写的声控程序，遵循的正是同一套决策逻辑。程序中的 if-else，就像水车的水闸——**决定动力的开与关**。 |
 
 >  **思考：** 两千年前，古人面对奔流的溪水，想到用木轮和竹筒来借力灌溉；今天，你面对一块电路板和几行代码，同样在完成一件事——用智慧和工具，让机器替你工作。从筒车到舵机，从水轮到传感器，改变的只是载体，不变的是人类创造与改造世界的冲动。
-

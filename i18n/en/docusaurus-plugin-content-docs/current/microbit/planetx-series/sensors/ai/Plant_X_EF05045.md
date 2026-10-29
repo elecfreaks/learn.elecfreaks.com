@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 1
 sidebar_label: Products Introduction
 ---
@@ -37,6 +37,8 @@ Working Current|300mA
 | Core IC | K210 | V831 | K210 |
 
 The origin of the AI Lens (0,0) is in the lower left corner of the screen, and the X and Y axes range from: X (0 ~ 224), Y (0 ~ 224).
+
+**Note:** When using object learning, train against a plain, uncluttered background, such as a solid white background, to reduce interference.
 
 ## Packing List
 
@@ -84,13 +86,19 @@ Note:
 
 AI Lens will be updated with some new features and performance optimisation from time to time, you need to manually update the firmware of AI Lens after releasing the new version of firmware.
 
-*Note: The AI camera has three hardware versions: AiCam V1.2, AiCam V1.7, and AiCam V1.8. The firmware of these three versions is not compatible with each other.*.
+:::warning Select firmware for your hardware version
 
-### How to check the firmware version
+The AI Lens has three hardware versions: **AiCam V1.2**, **AiCam V1.7**, and **AiCam V1.8**. Their firmware files are **not interchangeable**. AiCam V1.2 and V1.8 both use the K210, but each requires its own firmware package.
 
-The AI camera has three hardware versions: AiCam V1.2, AiCam V1.7, and AiCam V1.8. We can distinguish these three versions of the camera by their version numbers.
+:::
+
+### How to check the hardware version {#how-to-check-the-firmware-version}
+
+Check the hardware version printed on the camera board: **AiCam V1.2**, **AiCam V1.7**, or **AiCam V1.8**. This is different from the firmware version displayed on the boot screen.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-08.png)
+
+*The image above shows AiCam V1.2 and V1.7 as examples; AiCam V1.8 is not pictured. Use the version marking on your own camera to choose its firmware.*
 
 ### How to check the current firmware version
 
@@ -99,22 +107,33 @@ The bottom right corner of the AI lens boot page will prompt the current version
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-05.png)
 
-AiCam V1.2 version firmware v1.0.12 [Click to download](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/v1.0.12.kfpkg).
+### Firmware and software downloads
 
-AiCam V1.7 version firmware v2.0.1 [click to download](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/PhoenixSuit-master.zip).
+Choose the files for your **hardware version**. The versions below are the downloads documented in this guide, not a statement that one package works with every AI Lens revision.
 
-AiCam V1.8 version firmware v1.1.9[点击下载](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/v1.1.9.kfpkg)。
+#### AiCam V1.2 and AiCam V1.8 (K210)
 
-AiCam V1.7 version software package v2.0.1 [click to download](https://github.com/elecfreaks/learn-cn/releases/download/V2.0.1/AI-Cam-V1.7-V2.0.1.zip).
+| Hardware version | Firmware version | Firmware package | Update tool |
+| --- | --- | --- | --- |
+| AiCam V1.2 | v1.0.12 | [Download v1.0.12.kfpkg](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/v1.0.12.kfpkg) | kflash_gui |
+| AiCam V1.8 | v1.1.9 | [Download v1.1.9.kfpkg](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/v1.1.9.kfpkg) | kflash_gui |
 
-AiCam V1.7 version software package v2.0.4 [click to download](https://www.elecfreaks.com/download/AI-Cam-V2.0.1-V2.0.4-Upgrade-File.zip)。
+Both revisions use the update procedure below, but **do not use the V1.2 firmware package on V1.8, or vice versa**.
 
+#### AiCam V1.7 (V831)
+
+| Download | Purpose |
+| --- | --- |
+| [PhoenixSuit-master.zip](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/PhoenixSuit-master.zip) | Flashing tool and drivers for the V1.7 update procedure. |
+| [AI-Cam-V1.7-V2.0.1.zip](https://github.com/elecfreaks/learn-cn/releases/download/V2.0.1/AI-Cam-V1.7-V2.0.1.zip) | v2.0.1 package used by the firmware and software update instructions below. |
+| [AI-Cam-V2.0.1-V2.0.4.zip](https://www.elecfreaks.com/download/AI-Cam-V2.0.1-V2.0.4.zip) | v2.0.4 firmware image package. |
+| [AI-Cam-V2.0.1-V2.0.4-Upgrade-File.zip](https://www.elecfreaks.com/download/AI-Cam-V2.0.1-V2.0.4-Upgrade-File.zip) | v2.0.4 software upgrade package. |
 
 ## Firmware Update Procedures for AiCam V1.2/AiCam V1.8 (Take AiCam V1.2 as an Example)
 
 1. Firstly install the camera serial driver:
 
-Windows system download [CH341SerSetup.exe](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/CH341SerSetup.exe) and unzip it.
+On Windows, download and run the [CH341SerSetup.exe driver installer](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/CH341SerSetup.exe).
 
 MacOS system download [CH34x_Install_V1.5.pkg](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/CH34x_Install_V1.5.pkg).
 
@@ -133,7 +152,12 @@ Once the download is complete for macOS, open the icon below.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-06.png)
 
-3. Double click to open the kflash_gui.exe programme, click on Open File, select and open the latest version of firmware v1.0.12 in the folder [click to download](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/v1.0.12.kfpkg).
+3. Open **kflash_gui** (`kflash_gui.exe` on Windows), click **Open File**, and select the firmware package that matches your camera's **hardware version**:
+
+   - **AiCam V1.2:** [v1.0.12.kfpkg](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/v1.0.12.kfpkg).
+   - **AiCam V1.8:** [v1.1.9.kfpkg](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/file/v1.1.9.kfpkg).
+
+   The screenshots below use AiCam V1.2 as an example. For AiCam V1.8, use the same procedure with **v1.1.9.kfpkg**, not the V1.2 firmware shown in the example.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-02.png)
 
@@ -155,7 +179,7 @@ When the AI Lens starts up, if the computer pops up a USB stick, you only need t
 
 ### Driver update method
 
-Download AiCam V1.7 version firmware v2.0.1 [click to download](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/PhoenixSuit-master.zip) and unzip it.
+Download and extract the [PhoenixSuit package](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/PhoenixSuit-master.zip), which contains the flashing tool and drivers used for AiCam V1.7.
 Open right-click this computer and select Manage.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-09.png)
@@ -182,6 +206,8 @@ Select "browse" my computer for searching drivers.
 
 Select the path as the `Drivers` folder in the `PhoenixSuit-master` folder, and then click the next page.
 
+![Driver selection example from the Chinese documentation](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai/images/AI-gj-14.png)
+
 
 
 ### Update method for the firmware update
@@ -190,7 +216,12 @@ Select `PhoenixSuit.exe` under the `PhoenixSuit-master` directory to open the fi
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/ai/images/AI-gj-16.png)
 
-Click `One-click flash`, click `Browse`, and select [AI-Cam-V1.7-V2.0.1](https://github.com/elecfreaks/learn-cn/releases/download according to the firmware version you need to upgrade /V2.0.1/AI-Cam-V1.7-V2.0.1.zip), or [AiCam V1.7 version firmware v2.0.4](https://www.elecfreaks. `ef831-2.0.4-ov9732-2022-11-30.img` in com/download/AI-Cam-V2.0.1-V2.0.4.zip). Click to upgrade now.
+Click **One-click flash**, then **Browse**, and select the image for the firmware version you want to install:
+
+- **v2.0.1:** Extract [AI-Cam-V1.7-V2.0.1.zip](https://github.com/elecfreaks/learn-cn/releases/download/V2.0.1/AI-Cam-V1.7-V2.0.1.zip) and select `tina_v831-sipeed_uart0_ov9732.img`.
+- **v2.0.4:** Extract [AI-Cam-V2.0.1-V2.0.4.zip](https://www.elecfreaks.com/download/AI-Cam-V2.0.1-V2.0.4.zip) and select `ef831-2.0.4-ov9732-2022-11-30.img`.
+
+Click the upgrade button to continue. These files are for **AiCam V1.7**, not V1.2 or V1.8.
 
 *** Here we take the V2.0.1 firmware upgrade as an example ***
 

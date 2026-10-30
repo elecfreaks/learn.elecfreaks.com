@@ -107,6 +107,11 @@ AI Lens Pro checks the direction of the black line. Cutebot then adjusts its whe
 
 ### Build the Program
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-linefollowing-en-02.png)
+
+Sample Program
+[https://makecode.microbit.org/_K1tb9p2dT5kA](https://makecode.microbit.org/_K1tb9p2dT5kA)
+
 <!-- Image placeholder: complete beginner MakeCode blocks -->
 
 <!-- Hidden program logic for editors:
@@ -167,6 +172,10 @@ The advanced program uses lower speeds to help prevent the car from leaving the 
 
 Create the variables **D**, **A**, and **S**. In a **forever** loop, read the distance and angle, calculate **S**, and select the wheel speeds using **if / else** blocks.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-linefollowing-en-03.png)
+
+Sample Program
+[https://makecode.microbit.org/_d5pEcKJ407go](https://makecode.microbit.org/_d5pEcKJ407go)
 <!-- Image placeholder: complete advanced MakeCode blocks -->
 
 <!-- Hidden program logic for editors:

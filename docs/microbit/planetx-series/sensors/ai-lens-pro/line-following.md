@@ -104,6 +104,11 @@ sidebar_label: 巡线识别
 
 ### 程序搭建
 
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-linefollowing-02.png)
+
+程序链接
+[https://makecode.microbit.org/_K1tb9p2dT5kA](https://makecode.microbit.org/_K1tb9p2dT5kA)
 <!-- 图片占位：基础版完整 MakeCode 积木程序图 -->
 <!-- 程序逻辑占位（编辑阶段使用，页面不显示）：
 当程序启动
@@ -170,6 +175,11 @@ S=\frac{3\times80}{320}+\frac{15}{45}\approx1.08
 
 首先创建变量 **D**、**A** 和 **S**，在重复执行循环中读取偏移距离、偏移角度，计算转向系数，并通过条件判断控制左右轮速度。
 
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-linefollowing-03.png)
+
+程序链接
+[https://makecode.microbit.org/_d5pEcKJ407go](https://makecode.microbit.org/_d5pEcKJ407go)
 <!-- 图片占位：进阶版完整 MakeCode 积木程序图 -->
 <!-- 程序逻辑占位（编辑阶段使用，页面不显示）：
 当程序启动

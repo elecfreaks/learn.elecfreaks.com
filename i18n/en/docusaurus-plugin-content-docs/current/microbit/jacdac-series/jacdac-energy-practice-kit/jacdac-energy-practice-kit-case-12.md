@@ -163,7 +163,7 @@ You can also download the program directly from the webpage below. Once download
 
 When there is sufficient light (light value ≥ 30), pressing the button has no effect — "no need for light during the day." After covering the light sensor with your hand to simulate darkness (light value < 30), press the button: first press — LED ring lights up red (brightness 100), lamp on; second press — LED ring turns off (brightness 0), lamp off.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%99%BA%E8%83%BD%E5%8F%B0%E7%81%AF.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%A8%A1%E5%9E%8BGIF/%E6%99%BA%E8%83%BD%E5%8F%B0%E7%81%AF.gif)
 
 ---
 

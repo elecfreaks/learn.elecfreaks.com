@@ -167,7 +167,7 @@
 
 ---
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%99%BA%E8%83%BD%E5%8F%B0%E7%81%AF.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/jacdac-energypractice-kit/%E6%A8%A1%E5%9E%8BGIF/%E6%99%BA%E8%83%BD%E5%8F%B0%E7%81%AF.gif)
 
 ---
 

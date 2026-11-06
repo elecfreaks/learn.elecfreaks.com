@@ -1,11 +1,11 @@
 ---
-sidebar_position: 17
+sidebar_position: 19
 sidebar_label: Line Following
 ---
 
 # Case Study: AI Vision Line-Following Robot
 
-A robot follow a track without a remote control
+A robot that follows a track without a remote control
 
 ## Introduction
 
@@ -209,7 +209,7 @@ Forever:
 <!-- Program link placeholder: beginner MakeCode share link -->
 <!-- Program link placeholder: advanced MakeCode share link -->
 
-## Demo
+## Demonstration
 
 Place Cutebot on the black-line track and start the program. Watch how it changes direction to follow the line.
 
@@ -217,7 +217,15 @@ Place Cutebot on the black-line track and start the program. Watch how it change
 <!-- Video placeholder: beginner line-following demo -->
 <!-- Video placeholder: advanced line-following demo -->
 
-## Think and Explore
+## Learning Connections
+
+Complete the [Color Sorting Station](./color-recognition.md) first.
+
+Reuse differential steering from the Traffic Card Command Car and the position-error concept from the Target Position Indicator. Progress from direction conditions to a steering value, then plan a route to the search area for the integrated pickup mission.
+
+Next lesson: [Ball Search and Pickup Car](./ball-recognition.md).
+
+## Questions and Extensions
 
 1. Why does the right wheel need to move faster when the car turns left?
 2. What happens when you change the beginner program's threshold from 5° to 10°?

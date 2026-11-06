@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 5
 sidebar_label: Software Library Guide
 ---
 
@@ -17,11 +17,11 @@ sidebar_label: Software Library Guide
 1. Open the [MicroBlocks platform](https://microblocksfun.cn/run/microblocks.html).
 2. Click **Add Library** in the left panel. Navigate to **Elecfreaks → PlanetX Series → AI Lens Pro**, then click **OK** to add the library.
 3. Find the **AI Lens Pro** library in the left panel, then drag and drop the blocks into the workspace.
-4. Connect the **Nezha For ESP32 Board** after completing your program. Click the Run button in the upper-right corner of the page or click an individual block to execute the program.
+4. Connect the **Nezha ESP32 controller** after completing your program. Click the Run button in the upper-right corner of the page or click an individual block to execute the program.
 
 ---
 
-# Programming Block Reference
+## Programming Block Reference
 
 **Note:** `[X1]`, `[X2]`, and similar placeholders represent selectable parameters or input fields in the programming blocks. Boolean blocks return `true` or `false`, Number blocks return numeric values, and String blocks return text. Refer to the original requirements document for detailed parameters, return values, and items requiring confirmation.
 
@@ -92,4 +92,4 @@ sidebar_label: Software Library Guide
 
 ---
 
-# Example Projects
+## Example Projects

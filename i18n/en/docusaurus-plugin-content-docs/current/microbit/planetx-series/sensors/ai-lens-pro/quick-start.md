@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
 sidebar_label: Quick Start
 ---
 
@@ -7,7 +7,7 @@ sidebar_label: Quick Start
 
 # Quick Start
 
-Try AI Lens Pro now！
+Get started with AI Lens Pro!
 
 
 ## **Instructions**
@@ -24,7 +24,7 @@ Try AI Lens Pro now！
 
     - Find the **planetX\-AI** tab in the block library on the left, and drag blocks to use them.
 
-    - After programming, Download the program to the micro:bit to run it.
+    - After programming, download the program to micro:bit to run it.
 
 - Using the MicroBlocks platform (coming soon)
 
@@ -34,7 +34,7 @@ Try AI Lens Pro now！
       
     - Find the **AI Lens Pro** library tab in the left panel, and drag blocks to use them.
       
-    - After programming, connect the Nezha ESP32 Multi-Function Main Control Box, then click the button in the top-right corner of the page or click a block to run the program.
+    - After programming, connect the Nezha ESP32 controller, then click Run in the top-right corner of the page or click a block to run the program.
 
 
 

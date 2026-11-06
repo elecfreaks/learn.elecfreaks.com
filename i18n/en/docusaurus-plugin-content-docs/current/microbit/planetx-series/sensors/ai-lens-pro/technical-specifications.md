@@ -20,7 +20,7 @@ View all AI Lens Pro specs.
 | Image Sensor Size | 1/2.9 inch |
 | Effective Resolution | 2 MP (1920 × 1080) |
 | Fill Light | White LED |
-| Product Weight (Gross) | 850 g (including lithium battery) |
+| Product Weight (Net) | 850 g (including lithium battery) |
 | Interfaces | Type-C (charging), RJ11 (IIC communication) |
 | RAM | 256 MB DDR3 |
 | Storage Expansion | 1 × TF / microSD card slot (supports up to 32 GB) |

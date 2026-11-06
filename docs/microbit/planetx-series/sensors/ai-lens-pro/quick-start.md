@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+sidebar_label: 快速入门
+---
+
 # 快速入门
 
 即刻开始体验AI Lens Pro!

@@ -4,28 +4,25 @@ sidebar_label: "Case 09: Urban Weather Trend Logger"
 sidebar_position: 10
 ---
 
-
 # Case 09: Urban Weather Trend Logger
 
 ## Project Introduction
 
-How does air pressure change before and after weather changes? This project samples an air pressure sensor at regular intervals and uploads data to the SmartIoT platform to form a graph. By recording continuously at the same location and observing actual weather, students learn to compare time series and offer evidence-based explanations.
+How does air pressure change before and after weather changes? This project samples an air pressure sensor at regular intervals and uploads data to the SmartIoT platform to form a graph. By recording continuously at the same location and observing actual weather, students learn to compare readings over time and support their explanations with evidence.
 
-Through building, programming, and testing, students connect their observations with the model's displays or actions and learn to explain phenomena using data.
-
-This project combines classroom observation with engineering practice, encouraging students to consider how technology can improve school and urban environments.
+Students build, program, and test a model, then use their observations and recorded data to explain how it works. The project connects classroom science with engineering design and invites students to suggest improvements for their school or community.
 
 <!-- Image placeholder: finished Urban Weather Trend Logger model -->
 <!-- Suggested filename: ./images/weather-trend-recorder.png -->
 
-## Preparation
+## Materials and Preparation
 
 | Item | Quantity | Purpose |
 | --- | ---: | --- |
 | Climate Action Kit | 1 set | Build the Urban Weather Trend Logger model |
 | Nezha ESP32 | 1 | Run the program, read data, and display information |
-| Kit air pressure sensor | As configured | Carry out the sensing, control, or networking tasks for this project |
-| Compatible wireless network and SmartIoT configuration | As configured | Carry out the sensing, control, or networking tasks for this project |
+| Kit air pressure sensor | As required by the build | Measure local air pressure |
+| Compatible wireless network and configured SmartIoT project | As arranged by the teacher | Upload and graph pressure readings |
 | RJ11 cables | As needed | Connect compatible external modules; onboard-only functions require no external connections |
 | Computer and data cable | 1 set | Write, download, and debug the program |
 
@@ -34,18 +31,22 @@ This project combines classroom observation with engineering practice, encouragi
 
 ## Learning Objectives
 
+**Time series:** readings recorded in time order. A trend describes how they change; it does not guarantee what the weather will do next.
+
 After completing this project, students will be able to:
 
 1. Read air pressure data and confirm its units.
 2. Build a continuous record using fixed intervals.
-3. Compare trends with weather observations and distinguish correlation from a definite forecast.
-4. Adjust parameters based on test results and follow the engineering process of design, programming, testing, and improvement.
+3. Compare pressure trends with weather notes and explain why a pattern is not a certain forecast.
+4. Use test results to improve the design through a cycle of designing, programming, testing, and improving.
 
-## Lesson Introduction
+## Lesson Starter
 
 Ask students to record today's cloud cover, rainfall, and wind, then ask: can one pressure reading tell us whether it will rain tomorrow? Continuous recording shows that trends offer more information than single points, but still cannot replace professional weather forecasts.
 
 In this lesson, we will act as urban environment designers, build the Urban Weather Trend Logger, and test our design through real observations.
+
+**Project connection:** Reuse the upload process from [Case 04](./nezha-climate-action-kit-case04.md), then study how readings change over time. You can add these records to [the final safety station](./nezha-climate-action-kit-case12.md).
 
 ## Explore and Discuss
 
@@ -54,14 +55,14 @@ Before building, discuss the following questions in groups:
 1. Why should data from different floors or elevations not be compared directly?
 2. Does rising pressure always mean sunny weather?
 3. Which conclusions might be affected by a gap in the data?
-4. How will you record the test conditions to show whether the results meet your expectations?
-5. What other factors would you need to consider if this model were used in a real environment?
+4. What conditions and results will you record to check whether your design works as expected?
+5. What else would need to be tested before a design like this could be used outside the classroom?
 
-## Building Steps
+## Build the Model
 
 Follow the building instructions to construct the base, controller mount, and functional structures of the Urban Weather Trend Logger.
 
-Pay particular attention to the following during construction:
+Check the following as you build:
 
 - Mount the sensor in a fixed position and keep its sensing opening unobstructed.
 - Avoid additional effects from direct sunlight, air vents, local heat sources, and movement.
@@ -88,22 +89,24 @@ Onboard functions require no external wiring. For external modules, confirm comp
 
 ## Program Design
 
-The program consists of two parts: startup initialization and the main loop.
+Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
 :::note
-The following is a suggested outline of the teaching logic. The actual program for this project is not currently provided. Port numbers, block names, and control parameters must be verified on the physical device; program screenshot locations are temporarily indicated by clearly labeled placeholders. The screen layout below is also a suggestion.
+This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
 :::
 
-### 1. Startup Initialization
+### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
 <!-- Suggested filename: ./images/weather-trend-recorder-program-init.png -->
 
+Before starting the program, check the sensor's output unit and configure a matching pressure field on SmartIoT.
+
 At startup, the program performs the following actions:
 
-1. Confirm the sensor's output unit and configure the platform's pressure field.
-2. Initialize the screen and data variables so that states from the previous run are not reused.
-3. Show data labels and the initial operating status at the designated screen positions.
+1. Initialize the sensor and load the recording and upload settings.
+2. Set the initial values of variables and states, and prepare the screen for a new run.
+3. Show each data label and the starting status in a fixed place on the screen.
 
 Suggested controller screen layout:
 
@@ -114,12 +117,12 @@ Suggested controller screen layout:
 | Row 3 | Operating status |
 | Row 4 | Recording / Data error |
 
-### 2. Repeated Sensing and Control
+### 2. Read, Decide, and Respond
 
 <!-- Image placeholder: main sensing and control loop screenshot -->
 <!-- Suggested filename: ./images/weather-trend-recorder-program-main.png -->
 
-The system continuously performs the following tasks in the `forever` loop.
+Repeat the following tasks in the `forever` loop:
 
 #### Record at Regular Intervals
 
@@ -138,16 +141,16 @@ The system continuously performs the following tasks in the `forever` loop.
 | Observation location | To be verified on the device | Annotate changes after moving the device | Keep location and height fixed |
 
 :::note
-An air pressure sensor measures pressure at its location. With reasonably consistent placement and sampling methods, a continuous record can reveal trends. Units may be Pa or hPa; check the module and blocks. 1 hPa = 100 Pa. Do not refer to uncorrected measurements directly as sea-level pressure.
+An air pressure sensor measures pressure at its location. With reasonably consistent placement and sampling methods, a continuous record can reveal trends. Units may be Pa or hPa; check the module and blocks. 1 hectopascal (hPa) = 100 pascals (Pa). Do not refer to uncorrected measurements directly as sea-level pressure.
 :::
 
-## Testing
+## Test and Troubleshoot
 
 After completing the program, test it in the following order:
 
 1. **Startup check**: Connect the device and download the verified program. Check that the initial state and screen labels are correct.
 2. **Read and verify units**: The local display and platform fields use consistent units.
-3. **Record several consecutive time points**: The graph contains continuous time information, and missing readings are not disguised as zero.
+3. **Record several consecutive time points**: The graph contains continuous time information, and missing readings are marked as missing rather than replaced with zero.
 4. **Analyze alongside the day's observations**: Describe rising, falling, or stable pressure without making definite weather predictions.
 5. **Retest and record**: Change one condition, repeat the test, and record the inputs, outputs, and results.
 
@@ -157,11 +160,11 @@ If a sudden step change appears, check for changes in location, height, power su
 
 ## Project Demonstration
 
-When the program is running, the Urban Weather Trend Logger can demonstrate the following results:
+With a verified program running, the Urban Weather Trend Logger can demonstrate the following results:
 
-- The local display and platform fields use consistent units.
-- The graph contains continuous time information, and missing readings are not disguised as zero.
-- Describe rising, falling, or stable pressure without making definite weather predictions.
+- The controller and dashboard show air pressure in the same units.
+- Time-labeled records show changes over time, with missing readings identified rather than replaced by zero.
+- Students describe rising, falling, or steady pressure and compare it with their weather notes.
 
 <!-- Image placeholder: project in operation or animated demonstration -->
 <!-- Suggested filename: ./images/weather-trend-recorder-demo.gif -->

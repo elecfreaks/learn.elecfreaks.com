@@ -4,27 +4,24 @@ sidebar_label: "Case 06: Smart Shade Station"
 sidebar_position: 7
 ---
 
-
 # Case 06: Smart Shade Station
 
 ## Project Introduction
 
 Can a shade in a public rest area extend automatically as light conditions change? This project uses the onboard light sensor of **Nezha ESP32** to detect ambient brightness and controls a motor to extend or retract a shade. Students combine sensor-based decisions with mechanical movement to explore the design of an automatic shading model.
 
-Through building, programming, and testing, students connect their observations with the model's displays or actions and learn to explain phenomena using data.
-
-This project combines classroom observation with engineering practice, encouraging students to consider how technology can improve school and urban environments.
+Students build, program, and test a model, then use their observations and recorded data to explain how it works. The project connects classroom science with engineering design and invites students to suggest improvements for their school or community.
 
 <!-- Image placeholder: finished Smart Shade Station model -->
 <!-- Suggested filename: ./images/smart-shading-station.png -->
 
-## Preparation
+## Materials and Preparation
 
 | Item | Quantity | Purpose |
 | --- | ---: | --- |
 | Climate Action Kit | 1 set | Build the Smart Shade Station model |
 | Nezha ESP32 | 1 | Run the program, read data, and display information |
-| Supplied motor and shade transmission mechanism | As configured | Carry out the sensing, control, or networking tasks for this project |
+| Supplied motor and shade mechanism | As required by the build | Extend and retract the shade |
 | RJ11 cables | As needed | Connect compatible external modules; onboard-only functions require no external connections |
 | Computer and data cable | 1 set | Write, download, and debug the program |
 
@@ -33,18 +30,22 @@ This project combines classroom observation with engineering practice, encouragi
 
 ## Learning Objectives
 
+**Target state:** what you want the shade to do—extend or retract. The program compares this with its current state before moving the motor.
+
 After completing this project, students will be able to:
 
 1. Set extension and retraction conditions using relative light readings.
 2. Identify the motor type and its corresponding control method.
 3. Adjust mechanical travel so the shade moves within a safe range.
-4. Adjust parameters based on test results and follow the engineering process of design, programming, testing, and improvement.
+4. Use test results to improve the design through a cycle of designing, programming, testing, and improving.
 
-## Lesson Introduction
+## Lesson Starter
 
 Ask students to observe shading at bus stops or windows and discuss when fixed or adjustable shades are useful. Set the task of designing a model that adjusts its shade as light conditions change.
 
 In this lesson, we will act as urban environment designers, build the Smart Shade Station, and test our design through real observations.
+
+**Project connection:** Reuse the light measurements from [Case 01](./nezha-climate-action-kit-case01.md) and the input–decision–action pattern from [Case 05](./nezha-climate-action-kit-case05.md). This shade becomes part of [the bus stop project](./nezha-climate-action-kit-case10.md).
 
 ## Explore and Discuss
 
@@ -53,14 +54,14 @@ Before building, discuss the following questions in groups:
 1. Will the extended shade cover the light sensor?
 2. Can an ordinary DC motor be controlled directly with an angle block?
 3. Why check mechanical travel manually before powering on?
-4. How will you record the test conditions to show whether the results meet your expectations?
-5. What other factors would you need to consider if this model were used in a real environment?
+4. What conditions and results will you record to check whether your design works as expected?
+5. What else would need to be tested before a design like this could be used outside the classroom?
 
-## Building Steps
+## Build the Model
 
 Follow the building instructions to construct the base, controller mount, and functional structures of the Smart Shade Station.
 
-Pay particular attention to the following during construction:
+Check the following as you build:
 
 - Build a stable frame so the moving shade does not hit the controller or cables.
 - With the power off, check travel manually and mark the extended and retracted endpoints.
@@ -87,13 +88,13 @@ Onboard functions require no external wiring. For external modules, confirm comp
 
 ## Program Design
 
-The program consists of two parts: startup initialization and the main loop.
+Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
 :::note
-The following is a suggested outline of the teaching logic. The actual program for this project is not currently provided. Port numbers, block names, and control parameters must be verified on the physical device; program screenshot locations are temporarily indicated by clearly labeled placeholders. The screen layout below is also a suggestion.
+This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
 :::
 
-### 1. Startup Initialization
+### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
 <!-- Suggested filename: ./images/smart-shading-station-program-init.png -->
@@ -101,8 +102,8 @@ The following is a suggested outline of the teaching logic. The actual program f
 At startup, the program performs the following actions:
 
 1. Determine safe start and end positions for the actual motor setup and initialize the target state.
-2. Initialize the screen and data variables so that states from the previous run are not reused.
-3. Show data labels and the initial operating status at the designated screen positions.
+2. Set the initial values of variables and states, and prepare the screen for a new run.
+3. Show each data label and the starting status in a fixed place on the screen.
 
 Suggested controller screen layout:
 
@@ -113,16 +114,16 @@ Suggested controller screen layout:
 | Row 3 | Operating status |
 | Row 4 | Shade extended / retracted |
 
-### 2. Repeated Sensing and Control
+### 2. Read, Decide, and Respond
 
 <!-- Image placeholder: main sensing and control loop screenshot -->
 <!-- Suggested filename: ./images/smart-shading-station-program-main.png -->
 
-The system continuously performs the following tasks in the `forever` loop.
+Repeat the following tasks in the `forever` loop:
 
-#### Calibrate the Mechanism
+#### Use the Calibrated Positions
 
-- Determine safe start and end positions for the actual motor setup and initialize the target state.
+- Use the safe extended and retracted positions established during setup. Keep the saved positions unchanged during normal sensing.
 
 #### Evaluate Light
 
@@ -138,7 +139,7 @@ The system continuously performs the following tasks in the `forever` loop.
 | --- | ---: | --- | --- |
 | Light threshold | To be verified on the device | A relative value; do not label directly with illuminance units | Determine from classroom light and dark measurements |
 | Extended / retracted endpoints | To be verified on the device | Do not specify fixed angles before the actual program is available | Calibrate using the physical mechanism |
-| Movement speed | To be verified on the device | Avoid stalling and pinching | Begin debugging at low speed |
+| Movement speed | To be verified on the device | Avoid stalling and pinching | Start testing at low speed |
 
 :::note
 The program compares the light reading with a threshold and converts the result into a target state. The motor moves only when the target state changes, avoiding repeated driving in the loop. Angle, encoder, limit-switch, or timed control must be selected according to the actual motor and mechanism; control methods for different motor types must not be mixed.
@@ -148,7 +149,7 @@ The program compares the light reading with a threshold and converts the result 
 First calibrate the mechanical zero position and travel at low speed. Confirm that the shade cannot strike its stops or pinch cables before running automatic control.
 :::
 
-## Testing
+## Test and Troubleshoot
 
 After completing the program, test it in the following order:
 
@@ -164,11 +165,11 @@ If the shade repeatedly opens and closes near the threshold, check self-shading 
 
 ## Project Demonstration
 
-When the program is running, the Smart Shade Station can demonstrate the following results:
+With a verified program running, the Smart Shade Station can demonstrate the following results:
 
-- The shade extends or retracts according to the rules.
-- The motor does not repeatedly push against an endpoint or run continuously.
-- Movement is smooth, and the shade covering the sensor does not cause repeated back-and-forth motion.
+- The shade extends in bright conditions and retracts in dim conditions according to the chosen threshold.
+- With steady light, the motor stops at the intended position instead of repeatedly pushing against the endpoint.
+- The shade moves smoothly without covering its own light sensor and causing repeated opening and closing.
 
 <!-- Image placeholder: project in operation or animated demonstration -->
 <!-- Suggested filename: ./images/smart-shading-station-demo.gif -->
@@ -193,9 +194,9 @@ Use different light thresholds for extending and retracting. Observe whether rep
 
 Add manual extension and retraction. Define how to switch between manual and automatic modes so opposing commands cannot be issued simultaneously.
 
-### Challenge 3: Compare Shade Surfaces
+### Challenge 3: Compare Shade Materials
 
-Compare different shade surfaces while keeping mechanical travel unchanged. Observe shading effectiveness, structural weight, and operating stability.
+Compare different shade materials while keeping the movement range unchanged. Observe shading effectiveness, structural weight, and operating stability.
 
 ### Challenge 4: Count Movements
 
@@ -203,7 +204,7 @@ Increment the movement counter only when the target state changes. Compare movem
 
 ### Challenge 5: Combine Temperature and Light
 
-Add temperature data and use it together with light to determine shade status. Write a condition combination table first, then test every combination.
+Add temperature data and use it together with light to determine shade status. Make a table showing the desired shade state for each combination of temperature and light, then test every combination.
 
 ## Further Learning
 

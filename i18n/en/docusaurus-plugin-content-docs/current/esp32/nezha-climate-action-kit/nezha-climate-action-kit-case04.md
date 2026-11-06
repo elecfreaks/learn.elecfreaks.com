@@ -4,27 +4,24 @@ sidebar_label: "Case 04: IoT Urban Microclimate Dashboard"
 sidebar_position: 5
 ---
 
-
 # Case 04: IoT Urban Microclimate Dashboard
 
 ## Project Introduction
 
 How can environmental changes at different school locations be viewed from another device? This project uploads light, sound, and orientation-related data collected by **Nezha ESP32** to the SmartIoT platform over a wireless network. Students connect local displays with remote graphs and learn the complete process of data collection, transmission, and presentation.
 
-Through building, programming, and testing, students connect their observations with the model's displays or actions and learn to explain phenomena using data.
-
-This project combines classroom observation with engineering practice, encouraging students to consider how technology can improve school and urban environments.
+Students build, program, and test a model, then use their observations and recorded data to explain how it works. The project connects classroom science with engineering design and invites students to suggest improvements for their school or community.
 
 <!-- Image placeholder: finished IoT Urban Microclimate Dashboard model -->
 <!-- Suggested filename: ./images/iot-urban-microenvironment-dashboard.png -->
 
-## Preparation
+## Materials and Preparation
 
 | Item | Quantity | Purpose |
 | --- | ---: | --- |
 | Climate Action Kit | 1 set | Build the IoT Urban Microclimate Dashboard model |
 | Nezha ESP32 | 1 | Run the program, read data, and display information |
-| SmartIoT account and corresponding project / device configuration | As configured | Carry out the sensing, control, or networking tasks for this project |
+| SmartIoT account with a configured project or device | As arranged by the teacher | Receive readings and display them on a dashboard |
 | RJ11 cables | As needed | Connect compatible external modules; onboard-only functions require no external connections |
 | Computer and data cable | 1 set | Write, download, and debug the program |
 
@@ -33,34 +30,38 @@ This project combines classroom observation with engineering practice, encouragi
 
 ## Learning Objectives
 
+**IoT (Internet of Things):** devices exchanging data over a network. A dashboard displays those readings so you can explore changes over time.
+
 After completing this project, students will be able to:
 
 1. Distinguish the roles of sensors, the local controller, the wireless network, and the platform.
 2. Configure clear field names and unit descriptions for different data types.
-3. Observe time series and identify missing readings, outliers, and environmental changes.
-4. Adjust parameters based on test results and follow the engineering process of design, programming, testing, and improvement.
+3. Read a graph over time and identify missing readings, unusual values, and environmental changes.
+4. Use test results to improve the design through a cycle of designing, programming, testing, and improving.
 
-## Lesson Introduction
+## Lesson Starter
 
 Present this task: if a classroom monitor is placed by the window, can the teacher view its changes on a computer? Ask students to draw the data path from sensor to dashboard and predict what happens if the network disconnects.
 
 In this lesson, we will act as urban environment designers, build the IoT Urban Microclimate Dashboard, and test our design through real observations.
 
+**Project connection:** Bring together the light, sound, and orientation readings from Cases [01](./nezha-climate-action-kit-case01.md), [02](./nezha-climate-action-kit-case02.md), and [03](./nezha-climate-action-kit-case03.md). Reuse this upload process in [the weather logger](./nezha-climate-action-kit-case09.md).
+
 ## Explore and Discuss
 
 Before building, discuss the following questions in groups:
 
-1. How do data on the platform correspond to readings on the screen?
+1. How does each value on the dashboard match a reading on the controller screen?
 2. Does losing the network connection mean the sensors stop working?
 3. What problems can uploading too frequently cause?
-4. How will you record the test conditions to show whether the results meet your expectations?
-5. What other factors would you need to consider if this model were used in a real environment?
+4. What conditions and results will you record to check whether your design works as expected?
+5. What else would need to be tested before a design like this could be used outside the classroom?
 
-## Building Steps
+## Build the Model
 
 Follow the building instructions to construct the base, controller mount, and functional structures of the IoT Urban Microclimate Dashboard.
 
-Pay particular attention to the following during construction:
+Check the following as you build:
 
 - Build a fixed base that is easy to observe, keeping sensors unobstructed.
 - Choose a location with good network coverage that the teacher can manage easily.
@@ -88,22 +89,24 @@ Onboard functions require no external wiring. For external modules, confirm comp
 
 ## Program Design
 
-The program consists of two parts: startup initialization and the main loop.
+Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
 :::note
-The following is a suggested outline of the teaching logic. The actual program for this project is not currently provided. Port numbers, block names, and control parameters must be verified on the physical device; program screenshot locations are temporarily indicated by clearly labeled placeholders. The screen layout below is also a suggestion.
+This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
 :::
 
-### 1. Startup Initialization
+### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
 <!-- Suggested filename: ./images/iot-urban-microenvironment-dashboard-program-init.png -->
 
+Before starting the program, use the SmartIoT tutorial to create a project or device, set up data fields, and prepare the dashboard. Ask the teacher to provide the network and account settings.
+
 At startup, the program performs the following actions:
 
-1. Create a project or device on the platform and configure fields and the dashboard following the actual tutorial.
-2. Initialize the screen and data variables so that states from the previous run are not reused.
-3. Show data labels and the initial operating status at the designated screen positions.
+1. Load the connection and field settings for the prepared SmartIoT project.
+2. Set the initial values of variables and states, and prepare the screen for a new run.
+3. Show each data label and the starting status in a fixed place on the screen.
 
 Suggested controller screen layout:
 
@@ -114,16 +117,16 @@ Suggested controller screen layout:
 | Row 3 | Operating status |
 | Row 4 | Online / Offline |
 
-### 2. Repeated Sensing and Control
+### 2. Read, Decide, and Respond
 
 <!-- Image placeholder: main sensing and control loop screenshot -->
 <!-- Suggested filename: ./images/iot-urban-microenvironment-dashboard-program-main.png -->
 
-The system continuously performs the following tasks in the `forever` loop.
+Repeat the following tasks in the `forever` loop:
 
-#### Prepare the Platform
+#### Use the Prepared Data Fields
 
-- Create a project or device on the platform and configure fields and the dashboard following the actual tutorial.
+- Send each reading to its matching field in the project prepared before the loop starts. Keep the same field names and units throughout the test.
 
 #### Connect to the Network
 
@@ -149,27 +152,27 @@ The system continuously performs the following tasks in the `forever` loop.
 The controller collects data periodically, maps it to the configured platform fields, and sends it. The platform displays records by reception time. Use relative readings for light and sound, and specify the chosen axis and output meaning for orientation fields. Follow the actual SmartIoT tutorial and current extension library for account creation, connection methods, authentication parameters, and transmission rate limits.
 :::
 
-## Testing
+## Test and Troubleshoot
 
 After completing the program, test it in the following order:
 
 1. **Startup check**: Connect the device and download the verified program. Check that the initial state and screen labels are correct.
 2. **Change the lighting after connecting successfully**: Local values change, followed by corresponding platform records.
-3. **Compare the three fields**: Names, data types, and meanings match without misalignment.
+3. **Compare the three fields**: Each field has the correct name, data type, and sensor reading.
 4. **Temporarily disconnect and restore the network**: The local display continues, offline status is indicated, and uploads resume after reconnection.
 5. **Retest and record**: Change one condition, repeat the test, and record the inputs, outputs, and results.
 
 If local values are available but the platform has no records, check the network, authentication, selected device or project, and transmission interval.
 
-If graphs are abnormal or fields are confused, upload known data one field at a time to check the mapping, then verify times and data types.
+If a graph looks unexpected or shows the wrong sensor, upload known test values to one field at a time. Check the field names, times, and data types.
 
 ## Project Demonstration
 
-When the program is running, the IoT Urban Microclimate Dashboard can demonstrate the following results:
+With a verified program running, the IoT Urban Microclimate Dashboard can demonstrate the following results:
 
-- Local values change, followed by corresponding platform records.
-- Names, data types, and meanings match without misalignment.
-- The local display continues, offline status is indicated, and uploads resume after reconnection.
+- Changing the light produces a local reading followed by a corresponding record on the dashboard.
+- Each dashboard field shows the correct sensor value and label.
+- During a network interruption, the local display continues and shows an offline status. New uploads resume after reconnection.
 
 <!-- Image placeholder: project in operation or animated demonstration -->
 <!-- Suggested filename: ./images/iot-urban-microenvironment-dashboard-demo.gif -->

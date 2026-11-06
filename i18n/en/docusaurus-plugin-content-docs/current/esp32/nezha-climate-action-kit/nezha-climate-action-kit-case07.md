@@ -4,27 +4,24 @@ sidebar_label: "Case 07: Low-Carbon Travel Check-In Station"
 sidebar_position: 8
 ---
 
-
 # Case 07: Low-Carbon Travel Check-In Station
 
 ## Project Introduction
 
-How can walking, cycling, and public transport be incorporated into school activities? This project uses RFID cards to represent travel modes. **Nezha ESP32** reads card information, displays results, counts valid check-ins, and operates a model gate. Students learn information identification, variable-based counting, and event control.
+How can walking, cycling, and public transport be incorporated into school activities? This project uses RFID cards to represent travel modes. **Nezha ESP32** reads card information, displays results, counts valid check-ins, and operates a model gate. Students learn to recognize card information, store a count in a variable, and trigger an action once for each new card presentation.
 
-Through building, programming, and testing, students connect their observations with the model's displays or actions and learn to explain phenomena using data.
-
-This project combines classroom observation with engineering practice, encouraging students to consider how technology can improve school and urban environments.
+Students build, program, and test a model, then use their observations and recorded data to explain how it works. The project connects classroom science with engineering design and invites students to suggest improvements for their school or community.
 
 <!-- Image placeholder: finished Low-Carbon Travel Check-In Station model -->
 <!-- Suggested filename: ./images/low-carbon-travel-check-in.png -->
 
-## Preparation
+## Materials and Preparation
 
 | Item | Quantity | Purpose |
 | --- | ---: | --- |
 | Climate Action Kit | 1 set | Build the Low-Carbon Travel Check-In Station model |
 | Nezha ESP32 | 1 | Run the program, read data, and display information |
-| RFID reader/writer module and compatible cards | As configured | Carry out the sensing, control, or networking tasks for this project |
+| RFID reader/writer module and compatible cards | As required by the activity | Identify classroom travel cards |
 | RJ11 cables | As needed | Connect compatible external modules; onboard-only functions require no external connections |
 | Computer and data cable | 1 set | Write, download, and debug the program |
 
@@ -33,18 +30,22 @@ This project combines classroom observation with engineering practice, encouragi
 
 ## Learning Objectives
 
+**RFID (radio-frequency identification):** a reader uses radio signals to identify a compatible card. A variable stores the number of accepted check-ins.
+
 After completing this project, students will be able to:
 
 1. Distinguish a card identifier from data written to the card.
 2. Use conditional logic to identify valid cards and update a counter.
 3. Design a process in which each card presentation triggers only once.
-4. Adjust parameters based on test results and follow the engineering process of design, programming, testing, and improvement.
+4. Use test results to improve the design through a cycle of designing, programming, testing, and improving.
 
-## Lesson Introduction
+## Lesson Starter
 
 Use a class green travel activity as the setting and ask students to design bus, bicycle, and walking check-in cards. Discuss what the records mean: presenting a card may represent participation, but it does not prove actual travel distance or emissions reductions.
 
 In this lesson, we will act as urban environment designers, build the Low-Carbon Travel Check-In Station, and test our design through real observations.
+
+**Project connection:** This project adds event counting to the motor control explored in [Case 06](./nezha-climate-action-kit-case06.md). Reuse the card-removal check in [the bus stop project](./nezha-climate-action-kit-case10.md).
 
 ## Explore and Discuss
 
@@ -53,14 +54,14 @@ Before building, discuss the following questions in groups:
 1. Are a card number and a travel mode the same information?
 2. How many times should a card count if left on the reader?
 3. How should an unknown card be handled?
-4. How will you record the test conditions to show whether the results meet your expectations?
-5. What other factors would you need to consider if this model were used in a real environment?
+4. What conditions and results will you record to check whether your design works as expected?
+5. What else would need to be tested before a design like this could be used outside the classroom?
 
-## Building Steps
+## Build the Model
 
 Follow the building instructions to construct the base, controller mount, and functional structures of the Low-Carbon Travel Check-In Station.
 
-Pay particular attention to the following during construction:
+Check the following as you build:
 
 - Secure the reader, mark the scanning area, and leave room to bring cards close to it.
 - Build a lightweight gate arm and manually check its opening and closing travel.
@@ -87,22 +88,24 @@ Onboard functions require no external wiring. For external modules, confirm comp
 
 ## Program Design
 
-The program consists of two parts: startup initialization and the main loop.
+Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
 :::note
-The following is a suggested outline of the teaching logic. The actual program for this project is not currently provided. Port numbers, block names, and control parameters must be verified on the physical device; program screenshot locations are temporarily indicated by clearly labeled placeholders. The screen layout below is also a suggestion.
+This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
 :::
 
-### 1. Startup Initialization
+### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
 <!-- Suggested filename: ./images/low-carbon-travel-check-in-program-init.png -->
 
+Before running the main program, prepare the classroom cards. If the cards and library support writing, use an allowed data area. Otherwise, list each card's unique identifier (UID) and its travel mode in the program.
+
 At startup, the program performs the following actions:
 
-1. If writing is supported, write travel information to an allowed data area; otherwise map UIDs to travel modes in the program.
-2. Initialize the screen and data variables so that states from the previous run are not reused.
-3. Show data labels and the initial operating status at the designated screen positions.
+1. Load the allowed card information and set the check-in count to zero.
+2. Set the initial values of variables and states, and prepare the screen for a new run.
+3. Show each data label and the starting status in a fixed place on the screen.
 
 Suggested controller screen layout:
 
@@ -113,26 +116,26 @@ Suggested controller screen layout:
 | Row 3 | Operating status |
 | Row 4 | Waiting for card / Access granted |
 
-### 2. Repeated Sensing and Control
+### 2. Read, Decide, and Respond
 
 <!-- Image placeholder: main sensing and control loop screenshot -->
 <!-- Suggested filename: ./images/low-carbon-travel-check-in-program-main.png -->
 
-The system continuously performs the following tasks in the `forever` loop.
+Repeat the following tasks in the `forever` loop:
 
-#### Prepare Cards
+#### Use the Prepared Card Information
 
-- If writing is supported, write travel information to an allowed data area; otherwise map UIDs to travel modes in the program.
+- Use the card information prepared before the loop starts. Do not rewrite a card on every pass through the sensing loop.
 
 #### Validate Identification
 
-- Read the card and check the allowlist; show a prompt for unknown cards without counting them.
+- Read the card and compare it with the list of allowed cards. Show a message for unknown cards without counting them.
 
 #### Count and Open the Gate
 
 - If the card is valid and processing is not locked, increment the count, display the travel mode, and run one gate-opening sequence.
 
-#### Re-enable Processing
+#### Wait for the Card to Leave
 
 - Unlock processing only after confirming the card has been removed; close the gate as required by the physical mechanism.
 
@@ -142,7 +145,7 @@ The system continuously performs the following tasks in the `forever` loop.
 | --- | ---: | --- | --- |
 | Card data method | To be verified on the device | Choose according to the actual module, card type, and program | UID mapping or a writable data area |
 | Gate positions and hold time | To be verified on the device | Keep hands away from the movement area | Determine from the mechanism and classroom needs |
-| Count persistence | To be verified on the device | Retaining counts after restart requires a separate design | Use a runtime variable in the basic version |
+| Keeping the count after restart | To be verified on the device | Retaining counts after restart requires a separate design | Use a runtime variable in the basic version |
 
 :::note
 The RFID reader provides a card identifier or the contents of a specified data area. The program matches this information to allowed travel information. Once validated, it counts the check-in and opens the gate, then waits for card removal before enabling another scan. Write data only when the actual card and reader/writer support it. A UID is generally used for identification and should not be assumed to be rewritable.
@@ -152,7 +155,7 @@ The RFID reader provides a card identifier or the contents of a specified data a
 Keep clear of pinch points when testing the gate. A card left in place may be counted repeatedly, so verify that the logic waits for card removal before allowing another trigger.
 :::
 
-## Testing
+## Test and Troubleshoot
 
 After completing the program, test it in the following order:
 
@@ -162,17 +165,17 @@ After completing the program, test it in the following order:
 4. **Use an unknown card**: An unrecognized-card prompt appears; the count does not increase and the gate stays closed.
 5. **Retest and record**: Change one condition, repeat the test, and record inputs, outputs, and results; stop the actuators when finished.
 
-If one card is counted many times, add a processed flag and reset it only after confirming card removal.
+If one card is counted many times, use a variable to remember that the card has already been counted. Reset this variable only after confirming that the card has been removed.
 
 If a card is detected but its travel mode is wrong, check the UID mapping, data area, encoding, and stored contents.
 
 ## Project Demonstration
 
-When the program is running, the Low-Carbon Travel Check-In Station can demonstrate the following results:
+With a verified program running, the Low-Carbon Travel Check-In Station can demonstrate the following results:
 
-- The count increases only once, and one access sequence completes.
-- A new count is allowed.
-- An unrecognized-card prompt appears; the count does not increase and the gate stays closed.
+- A recognized card increases the counter once and triggers one gate-opening sequence.
+- Removing the card allows the next presentation to be counted.
+- An unknown card produces a message, leaves the count unchanged, and keeps the gate closed.
 
 <!-- Image placeholder: project in operation or animated demonstration -->
 <!-- Suggested filename: ./images/low-carbon-travel-check-in-demo.gif -->

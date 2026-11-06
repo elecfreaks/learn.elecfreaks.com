@@ -1,32 +1,32 @@
 ---
-title: Smart Bus Stop
-sidebar_label: "Case 10: Smart Bus Stop"
+title: Smart Low-Carbon Bus Stop
+sidebar_label: "Case 10: Smart Low-Carbon Bus Stop"
 sidebar_position: 11
 ---
 
-# Case 10: Smart Bus Stop
+# Case 10: Smart Low-Carbon Bus Stop
 
 ## Project Introduction
 
 Urban bus stops are important facilities for green travel, but hot or very sunny conditions can make waiting uncomfortable. This project integrates temperature sensing, light sensing, automatic cooling, automatic shading, and RFID low-carbon travel check-ins into a building-block bus stop model.
 
-Students use **Nezha ESP32** to read the temperature and humidity sensor and onboard light sensor. The fan starts automatically when temperature reaches the set value, and a motor extends the shade when light reaches its set value. Passengers can also use RFID cards to simulate bus card check-ins. The system counts low-carbon trips and displays temperature, light readings, and the total count on the controller's screen in real time.
+Students use **Nezha ESP32** to read the temperature and humidity sensor and onboard light sensor. The fan starts automatically when temperature reaches the set value, and a motor extends the shade when light reaches its set value. Passengers can also use RFID cards to simulate bus card check-ins. The system counts simulated travel check-ins and displays temperature, light readings, and the total count on the controller's screen. A card scan records classroom participation; it does not measure travel distance or carbon savings.
 
 This project combines environmental sensing, conditional logic, variable-based counting, and mechanical structures, encouraging students to consider how technology can improve urban public spaces and support low-carbon travel.
 
-<!-- Image placeholder: finished Smart Bus Stop model -->
+<!-- Image placeholder: finished Smart Low-Carbon Bus Stop model -->
 <!-- Suggested filename: ./images/smart-low-carbon-bus-stop.png -->
 
-## Preparation
+## Materials and Preparation
 
 | Item | Quantity | Purpose |
 | --- | ---: | --- |
-| Climate Action Kit | 1 set | Build the Smart Bus Stop model |
+| Climate Action Kit | 1 set | Build the Smart Low-Carbon Bus Stop model |
 | Nezha ESP32 | 1 | Run the program, read data, and display information |
 | Temperature and humidity sensor | 1 | Measure ambient temperature |
 | Fan module | 1 | Simulate ventilation and cooling in hot conditions |
 | Smart motor | 1 | Drive the movable shade |
-| RFID sensor and RFID cards | 1 set | Simulate bus card check-ins and record low-carbon trips |
+| RFID sensor and RFID cards | 1 set | Record simulated bus travel check-ins |
 | RJ11 cables | As needed | Connect sensors and actuators |
 | Computer and data cable | 1 set | Write, download, and debug the program |
 
@@ -34,6 +34,8 @@ This project combines environmental sensing, conditional logic, variable-based c
 <!-- Suggested filename: ./images/smart-low-carbon-bus-stop-materials.png -->
 
 ## Learning Objectives
+
+**Coordinated control:** several functions work in one model. Check that the fan, shade, card reader, and display can all respond while the program runs.
 
 After completing this project, students will be able to:
 
@@ -43,11 +45,13 @@ After completing this project, students will be able to:
 4. Record RFID check-ins with a variable and understand initialization and incrementing.
 5. Adjust temperature and light thresholds based on test results and follow the engineering process of design, programming, testing, and improvement.
 
-## Lesson Introduction
+## Lesson Starter
 
 On hot summer days, people waiting at bus stops may experience direct sunlight and high temperatures. Would waiting be more comfortable if a bus stop could sense its surroundings and automatically start a fan or extend a shade? Could recording low-carbon trips with card check-ins also encourage more people to choose public transport?
 
-In this lesson, we will act as urban environment designers, build the Smart Bus Stop, and test our design through real observations.
+In this lesson, we will act as urban environment designers, build the Smart Low-Carbon Bus Stop, and test our design through real observations.
+
+**Project connection:** Combine the fan from [Case 05](./nezha-climate-action-kit-case05.md), the shade from [Case 06](./nezha-climate-action-kit-case06.md), and the card-counting ideas from [Case 07](./nezha-climate-action-kit-case07.md). Test each function before combining them.
 
 ## Explore and Discuss
 
@@ -59,11 +63,11 @@ Before building, discuss the following questions in groups:
 4. How can repeated counting be prevented when the same RFID card remains in the scanning area?
 5. What data besides temperature and light could improve the waiting experience?
 
-## Building Steps
+## Build the Model
 
-Follow the building instructions to construct the base, controller mount, and functional structures of the Smart Bus Stop.
+Follow the building instructions to build the bus stop base, sign, movable shade, fan, controller mount, and RFID scanning area.
 
-Pay particular attention to the following during construction:
+Check the following as you build:
 
 - The shade moves smoothly between `0°` and `180°` without interfering with other blocks;
 - There is enough clearance around the fan blades for safe rotation;
@@ -81,7 +85,7 @@ Turn off the power, then connect the modules as shown below:
 | Module | Connection | Function |
 | --- | --- | --- |
 | Temperature and humidity sensor | J1 | Read ambient temperature |
-| Fan module | J2 | Start cooling at high temperatures |
+| Fan module | J2 | Provide airflow when the temperature reaches the threshold |
 | Smart motor | M1 | Extend or retract the shade |
 | RFID sensor | IIC | Detect RFID cards |
 
@@ -94,9 +98,9 @@ The RFID sensor uses the IIC interface. Align connectors correctly, and do not c
 
 ## Program Design
 
-The program consists of two parts: startup initialization and the main loop.
+Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
-### 1. Startup Initialization
+### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
 <!-- Suggested filename: ./images/smart-low-carbon-bus-stop-program-init.png -->
@@ -116,9 +120,9 @@ Suggested controller screen layout:
 | Row 3 | `Lux:` |
 | Row 4 | Current light value |
 | Row 5 | `Low-Carbon Count` |
-| Row 6 | Total RFID low-carbon trips |
+| Row 6 | Total simulated travel check-ins |
 
-### 2. Repeated Sensing and Control
+### 2. Read, Decide, and Respond
 
 <!-- Image placeholder: main sensing and control loop screenshot -->
 <!-- Suggested filename: ./images/smart-low-carbon-bus-stop-program-main.png -->
@@ -157,14 +161,14 @@ The system continuously performs three tasks in the `forever` loop.
 | Card scan wait time | 500 ms | Simply reduces the likelihood of duplicate counts | Remove the card promptly after scanning |
 
 :::note
-The program's light value is a relative reading returned by the controller's light sensor, not necessarily calibrated standard illuminance (lx). Ask students to record readings under dim and bright conditions before choosing a threshold appropriate to their environment.
+The light sensor returns a relative reading. The example screen label `Lux:` does not mean the value is calibrated illuminance in lux (lx). For a classroom version, change the label to `Light:` unless calibration and units have been confirmed. Record readings in dim and bright conditions before choosing a threshold.
 :::
 
 :::caution
 The current program only waits 500 ms after detecting a card. If the card remains in the scanning area, the count may continue to increase. During testing, remove the card immediately after scanning. An advanced task can add duplicate-prevention logic that allows another count only after card removal.
 :::
 
-## Testing
+## Test and Troubleshoot
 
 After completing the program, test it in the following order:
 
@@ -180,11 +184,11 @@ If extension and retraction directions are reversed, swap the motor directions i
 
 When running, the Smart Low-Carbon Bus Stop responds automatically to environmental changes:
 
-- At high temperatures, the fan starts automatically to simulate ventilation and cooling in the waiting area;
-- In intense light, the shade extends automatically to simulate shading for passengers;
-- When conditions return to normal, the fan stops and the shade retracts;
-- After a passenger scans an RFID card, the low-carbon trip count increases;
-- The screen continuously displays temperature, light, and the total count.
+- At or above 26°C, the fan starts to demonstrate ventilation in the waiting area.
+- At or above a relative light reading of 5000, the motor extends the shade.
+- Below the respective thresholds, the fan stops and the shade retracts.
+- A brief RFID scan increases the check-in count; a card held in place may still be counted again in this basic program.
+- The screen displays temperature, relative light readings, and the check-in count.
 
 <!-- Image placeholder: project in operation or animated demonstration -->
 <!-- Suggested filename: ./images/smart-low-carbon-bus-stop-demo.gif -->
@@ -211,15 +215,15 @@ Add an “allow counting” variable. A new presentation can count only after th
 
 ### Challenge 3: Reduce Frequent Switching
 
-Set two fan temperature thresholds, for example starting at 27°C and stopping at 25°C, to explore how hysteresis control makes operation more stable.
+Set two fan thresholds: for example, start at 27°C and stop at 25°C. Between those values, keep the current fan state. This is called hysteresis control. Compare how often the fan switches with one threshold and with two.
 
 ### Challenge 4: Design Low-Carbon Points
 
-Award points for each bus trip and provide feedback through the screen, RGB LEDs, or speaker when a specified count is reached.
+Award classroom points for each simulated bus check-in. When a goal is reached, show a message or use supported RGB LEDs or the speaker. Explain that points encourage participation and do not represent measured emissions reductions.
 
 ### Challenge 5: Connect to an IoT Dashboard
 
-Upload temperature, light, and low-carbon trip count to an IoT platform. Compare data across time periods and use charts to explain bus stop usage.
+Upload temperature, light, and low-carbon trip count to an IoT platform. Compare data across time periods and use charts to describe the model's recorded activity.
 
 ## Further Learning
 

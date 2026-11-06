@@ -4,21 +4,18 @@ sidebar_label: "Case 03: Tilt-Alert Weather Tower"
 sidebar_position: 4
 ---
 
-
 # Case 03: Tilt-Alert Weather Tower
 
 ## Project Introduction
 
 How can tilt be detected promptly when a small weather tower is bumped or its base becomes unstable? This project builds a weather tower model and uses the onboard orientation sensor of **Nezha ESP32** to detect orientation changes. When tilt in the selected direction exceeds a threshold, the screen shows a warning, optionally accompanied by sound. By adjusting the base and alarm conditions, students learn about orientation sensing and model stability.
 
-Through building, programming, and testing, students connect their observations with the model's displays or actions and learn to explain phenomena using data.
-
-This project combines classroom observation with engineering practice, encouraging students to consider how technology can improve school and urban environments.
+Students build, program, and test a model, then use their observations and recorded data to explain how it works. The project connects classroom science with engineering design and invites students to suggest improvements for their school or community.
 
 <!-- Image placeholder: finished Tilt-Alert Weather Tower model -->
 <!-- Suggested filename: ./images/tilt-safety-weather-tower.png -->
 
-## Preparation
+## Materials and Preparation
 
 | Item | Quantity | Purpose |
 | --- | ---: | --- |
@@ -32,18 +29,22 @@ This project combines classroom observation with engineering practice, encouragi
 
 ## Learning Objectives
 
+**Reference value:** a reading saved while the tower is upright. Compare new readings with this starting value to detect a change.
+
 After completing this project, students will be able to:
 
 1. Observe the relationship between orientation readings and the controller's mounting direction.
 2. Set a reference orientation and use angles or deviations for conditional decisions.
 3. Evaluate structural stability and alarm sensitivity through testing.
-4. Adjust parameters based on test results and follow the engineering process of design, programming, testing, and improvement.
+4. Use test results to improve the design through a cycle of designing, programming, testing, and improving.
 
-## Lesson Introduction
+## Lesson Starter
 
 Show a block tower with a narrow base and ask students to predict which direction it is most likely to fall. Discuss whether orientation changes can reveal a problem before the tower falls. This project only simulates a tilt warning; it is not a safety monitoring device for real buildings.
 
 In this lesson, we will act as urban environment designers, build the Tilt-Alert Weather Tower, and test our design through real observations.
+
+**Project connection:** Extend the threshold decisions from [Case 02](./nezha-climate-action-kit-case02.md) by comparing a reading with an upright reference. Reuse the tilt warning in [the final safety station](./nezha-climate-action-kit-case12.md).
 
 ## Explore and Discuss
 
@@ -52,14 +53,14 @@ Before building, discuss the following questions in groups:
 1. If the controller's mounting direction changes, which axis will correspond to the same tilt?
 2. Why should the upright model's readings be recorded first?
 3. Should slight shaking and sustained tilt use the same alarm response?
-4. How will you record the test conditions to show whether the results meet your expectations?
-5. What other factors would you need to consider if this model were used in a real environment?
+4. What conditions and results will you record to check whether your design works as expected?
+5. What else would need to be tested before a design like this could be used outside the classroom?
 
-## Building Steps
+## Build the Model
 
 Follow the building instructions to construct the base, controller mount, and functional structures of the Tilt-Alert Weather Tower.
 
-Pay particular attention to the following during construction:
+Check the following as you build:
 
 - Build a tower with a low center of gravity and a wide base, and secure the controller firmly.
 - Mark the controller's front and axis directions so its mounting direction is not repeatedly changed during debugging.
@@ -86,13 +87,13 @@ Onboard functions require no external wiring. For external modules, confirm comp
 
 ## Program Design
 
-The program consists of two parts: startup initialization and the main loop.
+Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
 :::note
-The following is a suggested outline of the teaching logic. The actual program for this project is not currently provided. Port numbers, block names, and control parameters must be verified on the physical device; program screenshot locations are temporarily indicated by clearly labeled placeholders. The screen layout below is also a suggestion.
+This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
 :::
 
-### 1. Startup Initialization
+### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
 <!-- Suggested filename: ./images/tilt-safety-weather-tower-program-init.png -->
@@ -100,8 +101,8 @@ The following is a suggested outline of the teaching logic. The actual program f
 At startup, the program performs the following actions:
 
 1. Record the selected axis angle or reference value while the model is upright and still.
-2. Initialize the screen and data variables so that states from the previous run are not reused.
-3. Show data labels and the initial operating status at the designated screen positions.
+2. Set the initial values of variables and states, and prepare the screen for a new run.
+3. Show each data label and the starting status in a fixed place on the screen.
 
 Suggested controller screen layout:
 
@@ -112,16 +113,16 @@ Suggested controller screen layout:
 | Row 3 | Operating status |
 | Row 4 | Stable / Tilt warning |
 
-### 2. Repeated Sensing and Control
+### 2. Read, Decide, and Respond
 
 <!-- Image placeholder: main sensing and control loop screenshot -->
 <!-- Suggested filename: ./images/tilt-safety-weather-tower-program-main.png -->
 
-The system continuously performs the following tasks in the `forever` loop.
+Repeat the following tasks in the `forever` loop:
 
-#### Establish a Reference
+#### Use the Saved Reference
 
-- Record the selected axis angle or reference value while the model is upright and still.
+- Keep the upright reference saved during startup. Do not replace it with the current tilted reading on each pass through the loop.
 
 #### Calculate Deviation
 
@@ -140,14 +141,14 @@ The system continuously performs the following tasks in the `forever` loop.
 | Reference orientation | To be verified on the device | Reset after changing the controller's mounting position | Record while upright and still |
 
 :::note
-Available outputs from the onboard orientation sensor depend on the extension library. If pitch or roll angles are available, compare the current angle with the upright reference. If only acceleration or other data is provided, choose an appropriate method according to the module documentation. Static tilt should not be judged from gyroscope angular velocity alone.
+Available outputs from the onboard orientation sensor depend on the extension library. If pitch or roll angles are available, compare the current angle with the upright reference. If only acceleration or other data is provided, choose an appropriate method according to the module documentation. A gyroscope reports angular velocity, or how fast an object rotates. This alone cannot identify a tilt when the object is held still.
 :::
 
 :::caution
 Support the model by hand during testing and tilt it slowly through small angles to prevent falls. Do not use this classroom model to assess the safety of real buildings.
 :::
 
-## Testing
+## Test and Troubleshoot
 
 After completing the program, test it in the following order:
 
@@ -163,11 +164,11 @@ If tilt in one direction does not trigger an alarm, check the detection axis; ad
 
 ## Project Demonstration
 
-When the program is running, the Tilt-Alert Weather Tower can demonstrate the following results:
+With a verified program running, the Tilt-Alert Weather Tower can demonstrate the following results:
 
-- The display shows normal status, and readings remain close to the reference.
-- A reminder appears above the threshold and clears when upright.
-- Verify which directions the current method covers and record blind spots.
+- The tower shows a normal status while upright, with readings close to the saved reference.
+- Tilting in the selected direction beyond the threshold produces a warning; returning upright clears it.
+- Tests in another direction reveal which tilts the current program can detect.
 
 <!-- Image placeholder: project in operation or animated demonstration -->
 <!-- Suggested filename: ./images/tilt-safety-weather-tower-demo.gif -->

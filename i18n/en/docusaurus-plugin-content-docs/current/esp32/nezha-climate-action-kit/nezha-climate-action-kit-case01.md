@@ -10,14 +10,12 @@ sidebar_position: 2
 
 Why do a classroom window area and a corridor have different brightness levels? Do different locations give the same light readings at the same time? This project uses the onboard light sensor of **Nezha ESP32** to measure ambient light and display the readings on screen. By taking and recording measurements at fixed locations, students compare light conditions in different areas and learn to describe their surroundings using data.
 
-Through building, programming, and testing, students connect their observations with the model's displays or actions and learn to explain phenomena using data.
-
-This project combines classroom observation with engineering practice, encouraging students to consider how technology can improve school and urban environments.
+Students build, program, and test a model, then use their observations and recorded data to explain how it works. The project connects classroom science with engineering design and invites students to suggest improvements for their school or community.
 
 <!-- Image placeholder: finished Urban Light Monitor model -->
 <!-- Suggested filename: ./images/urban-light-observer.png -->
 
-## Preparation
+## Materials and Preparation
 
 | Item | Quantity | Purpose |
 | --- | ---: | --- |
@@ -31,18 +29,22 @@ This project combines classroom observation with engineering practice, encouragi
 
 ## Learning Objectives
 
+**Relative reading:** a number used to compare brighter and darker conditions with the same device. It is not automatically a measurement in lux.
+
 After completing this project, students will be able to:
 
 1. Read light data and understand how readings change with environmental brightness.
 2. Store data in variables and display labeled measurement results on screen.
 3. Control measurement conditions, compare readings from multiple locations, and explain differences.
-4. Adjust parameters based on test results and follow the engineering process of design, programming, testing, and improvement.
+4. Use test results to improve the design through a cycle of designing, programming, testing, and improving.
 
-## Lesson Introduction
+## Lesson Starter
 
 Light affects reading, activities, and plant growth. Ask students to observe the classroom, predict its brightest and darkest locations, and verify their predictions with the sensor. Remind them that perception and measurement may differ, and conclusions should be supported by repeated observations.
 
 In this lesson, we will act as urban environment designers, build the Urban Light Monitor, and test our design through real observations.
+
+**Project connection:** Use your light readings again in [Case 06: Smart Shade Station](./nezha-climate-action-kit-case06.md), where a sensor reading will control a moving shade.
 
 ## Explore and Discuss
 
@@ -51,14 +53,14 @@ Before building, discuss the following questions in groups:
 1. Why should you avoid covering the sensor with your hand during measurement?
 2. Will readings at the same location be identical in the morning and afternoon?
 3. Can a single reading represent the light conditions of an entire location?
-4. How will you record the test conditions to show whether the results meet your expectations?
-5. What other factors would you need to consider if this model were used in a real environment?
+4. What conditions and results will you record to check whether your design works as expected?
+5. What else would need to be tested before a design like this could be used outside the classroom?
 
-## Building Steps
+## Build the Model
 
 Follow the building instructions to construct the base, controller mount, and functional structures of the Urban Light Monitor.
 
-Pay particular attention to the following during construction:
+Check the following as you build:
 
 - Build a stable observation platform with the light sensor facing the environment being measured.
 - Leave space around the sensor so that blocks and cables do not obstruct it.
@@ -85,13 +87,13 @@ Onboard functions require no external wiring. For external modules, confirm comp
 
 ## Program Design
 
-The program consists of two parts: startup initialization and the main loop.
+Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
 :::note
-The following is a suggested outline of the teaching logic. The actual program for this project is not currently provided. Port numbers, block names, and control parameters must be verified on the physical device; program screenshot locations are temporarily indicated by clearly labeled placeholders. The screen layout below is also a suggestion.
+This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
 :::
 
-### 1. Startup Initialization
+### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
 <!-- Suggested filename: ./images/urban-light-observer-program-init.png -->
@@ -99,8 +101,8 @@ The following is a suggested outline of the teaching logic. The actual program f
 At startup, the program performs the following actions:
 
 1. Create a “light value” variable; display the project title and data labels.
-2. Initialize the screen and data variables so that states from the previous run are not reused.
-3. Show data labels and the initial operating status at the designated screen positions.
+2. Set the initial values of variables and states, and prepare the screen for a new run.
+3. Show each data label and the starting status in a fixed place on the screen.
 
 Suggested controller screen layout:
 
@@ -111,12 +113,12 @@ Suggested controller screen layout:
 | Row 3 | Operating status |
 | Row 4 | Brightness level |
 
-### 2. Repeated Sensing and Control
+### 2. Read, Decide, and Respond
 
 <!-- Image placeholder: main sensing and control loop screenshot -->
 <!-- Suggested filename: ./images/urban-light-observer-program-main.png -->
 
-The system continuously performs the following tasks in the `forever` loop.
+Repeat the following tasks in the `forever` loop:
 
 #### Repeated Sampling
 
@@ -137,7 +139,7 @@ The system continuously performs the following tasks in the `forever` loop.
 The light sensor converts changes in ambient brightness into readable data. The program repeatedly reads the value, stores it in a variable, and updates the screen for continuous observation. Treat these light readings as relative values. Unless the module documentation and calibration confirm otherwise, do not label them as lux or use them to assess compliance with classroom lighting standards.
 :::
 
-## Testing
+## Test and Troubleshoot
 
 After completing the program, test it in the following order:
 
@@ -153,11 +155,11 @@ If the screen flickers or old digits remain, reduce the refresh rate; use a fixe
 
 ## Project Demonstration
 
-When the program is running, the Urban Light Monitor can demonstrate the following results:
+With a verified program running, the Urban Light Monitor can demonstrate the following results:
 
-- Readings change with brightness, and the screen updates continuously.
-- Record the location, time, and multiple readings, then compare differences.
-- Check whether changes relate to environmental conditions.
+- The screen updates as the light sensor is covered and uncovered.
+- Measurements from the window, classroom center, and corridor can be compared using the recorded times and repeated readings.
+- A return visit to the first location helps the group check whether conditions have changed.
 
 <!-- Image placeholder: project in operation or animated demonstration -->
 <!-- Suggested filename: ./images/urban-light-observer-demo.gif -->

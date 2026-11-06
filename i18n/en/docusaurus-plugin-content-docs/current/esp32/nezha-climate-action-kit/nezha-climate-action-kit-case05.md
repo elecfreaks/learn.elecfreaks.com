@@ -4,28 +4,25 @@ sidebar_label: "Case 05: Automatic Cooling Fan"
 sidebar_position: 6
 ---
 
-
 # Case 05: Automatic Cooling Fan
 
 ## Project Introduction
 
-Can a fan run automatically when needed in hot weather? This project reads ambient temperature with a temperature and humidity sensor. **Nezha ESP32** determines whether the reading exceeds a threshold and switches the fan on or off. By adjusting the threshold and comparing operating states, students learn the automatic control process of sensing, decision-making, and actuation.
+Can a fan run automatically when needed in hot weather? This project reads ambient temperature with a temperature and humidity sensor. **Nezha ESP32** determines whether the reading exceeds a threshold and switches the fan on or off. By adjusting the threshold and comparing operating states, students learn the automatic control process of sensing, deciding, and acting.
 
-Through building, programming, and testing, students connect their observations with the model's displays or actions and learn to explain phenomena using data.
-
-This project combines classroom observation with engineering practice, encouraging students to consider how technology can improve school and urban environments.
+Students build, program, and test a model, then use their observations and recorded data to explain how it works. The project connects classroom science with engineering design and invites students to suggest improvements for their school or community.
 
 <!-- Image placeholder: finished Automatic Cooling Fan model -->
 <!-- Suggested filename: ./images/automatic-cooling-fan.png -->
 
-## Preparation
+## Materials and Preparation
 
 | Item | Quantity | Purpose |
 | --- | ---: | --- |
 | Climate Action Kit | 1 set | Build the Automatic Cooling Fan model |
 | Nezha ESP32 | 1 | Run the program, read data, and display information |
-| Kit temperature and humidity sensor | As configured | Carry out the sensing, control, or networking tasks for this project |
-| Kit fan module | As configured | Carry out the sensing, control, or networking tasks for this project |
+| Kit temperature and humidity sensor | As required by the build | Measure ambient temperature; optionally display humidity |
+| Kit fan module | As required by the build | Switch airflow on and off in response to temperature |
 | RJ11 cables | As needed | Connect compatible external modules; onboard-only functions require no external connections |
 | Computer and data cable | 1 set | Write, download, and debug the program |
 
@@ -34,18 +31,22 @@ This project combines classroom observation with engineering practice, encouragi
 
 ## Learning Objectives
 
+**Automatic control:** a sensor measures a condition, the program checks a rule, and an output device such as a fan takes action.
+
 After completing this project, students will be able to:
 
 1. Read temperature data and distinguish the roles of temperature and humidity.
 2. Use conditional branches to switch the fan on and off.
 3. Adjust thresholds through testing and recognize the problem of frequent switching.
-4. Adjust parameters based on test results and follow the engineering process of design, programming, testing, and improvement.
+4. Use test results to improve the design through a cycle of designing, programming, testing, and improving.
 
-## Lesson Introduction
+## Lesson Starter
 
 Begin with the example of forgetting to turn off a fan when leaving a room, and discuss how a device could operate according to environmental conditions. Ask students to describe the rules before converting them into a program. Fans usually improve thermal comfort by moving air; this does not necessarily mean they lower ambient temperature.
 
 In this lesson, we will act as urban environment designers, build the Automatic Cooling Fan, and test our design through real observations.
+
+**Project connection:** Use the threshold decisions practiced in [Case 02](./nezha-climate-action-kit-case02.md) to control a fan. Combine this fan with shading and card check-ins in [the Smart Low-Carbon Bus Stop](./nezha-climate-action-kit-case10.md).
 
 ## Explore and Discuss
 
@@ -54,14 +55,14 @@ Before building, discuss the following questions in groups:
 1. What should the fan do when the temperature equals the threshold?
 2. Why should the sensor not be placed directly against the controller or motor?
 3. What happens when the temperature fluctuates around the threshold?
-4. How will you record the test conditions to show whether the results meet your expectations?
-5. What other factors would you need to consider if this model were used in a real environment?
+4. What conditions and results will you record to check whether your design works as expected?
+5. What else would need to be tested before a design like this could be used outside the classroom?
 
-## Building Steps
+## Build the Model
 
 Follow the building instructions to construct the base, controller mount, and functional structures of the Automatic Cooling Fan.
 
-Pay particular attention to the following during construction:
+Check the following as you build:
 
 - Secure the fan and keep blocks, cables, and fingers out of the blade rotation area.
 - Place the temperature and humidity sensor in a ventilated position, away from local heat sources such as the controller and motors.
@@ -88,13 +89,13 @@ Onboard functions require no external wiring. For external modules, confirm comp
 
 ## Program Design
 
-The program consists of two parts: startup initialization and the main loop.
+Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
 :::note
-The following is a suggested outline of the teaching logic. The actual program for this project is not currently provided. Port numbers, block names, and control parameters must be verified on the physical device; program screenshot locations are temporarily indicated by clearly labeled placeholders. The screen layout below is also a suggestion.
+This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
 :::
 
-### 1. Startup Initialization
+### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
 <!-- Suggested filename: ./images/automatic-cooling-fan-program-init.png -->
@@ -102,8 +103,8 @@ The following is a suggested outline of the teaching logic. The actual program f
 At startup, the program performs the following actions:
 
 1. Initialize the sensor, set the fan to stopped, and set the temperature threshold.
-2. Initialize the screen and data variables so that states from the previous run are not reused.
-3. Show data labels and the initial operating status at the designated screen positions.
+2. Set the initial values of variables and states, and prepare the screen for a new run.
+3. Show each data label and the starting status in a fixed place on the screen.
 
 Suggested controller screen layout:
 
@@ -114,12 +115,12 @@ Suggested controller screen layout:
 | Row 3 | Operating status |
 | Row 4 | Fan on / off |
 
-### 2. Repeated Sensing and Control
+### 2. Read, Decide, and Respond
 
 <!-- Image placeholder: main sensing and control loop screenshot -->
 <!-- Suggested filename: ./images/automatic-cooling-fan-program-main.png -->
 
-The system continuously performs the following tasks in the `forever` loop.
+Repeat the following tasks in the `forever` loop:
 
 #### Read and Decide
 
@@ -145,7 +146,7 @@ The temperature and humidity sensor provides a temperature reading. The program 
 Leave clearance around the fan blades and keep fingers, hair, and cables away from the rotation area. Test on/off behavior by changing the threshold; there is no need to heat the device.
 :::
 
-## Testing
+## Test and Troubleshoot
 
 After completing the program, test it in the following order:
 
@@ -161,11 +162,11 @@ If the fan repeatedly switches on and off, increase the decision interval or use
 
 ## Project Demonstration
 
-When the program is running, the Automatic Cooling Fan can demonstrate the following results:
+With a verified program running, the Automatic Cooling Fan can demonstrate the following results:
 
-- The fan stops.
-- The fan starts, and the displayed status matches the output.
-- Record switching behavior and stop the fan when testing ends.
+- The fan stays off when the temperature is at or below the threshold.
+- The fan starts when the temperature rises above the threshold, and the screen shows the matching status.
+- Students can compare switching behavior with different thresholds and stop the fan after the demonstration.
 
 <!-- Image placeholder: project in operation or animated demonstration -->
 <!-- Suggested filename: ./images/automatic-cooling-fan-demo.gif -->
@@ -184,7 +185,7 @@ Ask each group to present its work and discuss the following questions:
 
 ### Challenge 1: Add Hysteresis Control
 
-Set an on temperature and a lower off temperature. Compare switching near the boundary with single-threshold and dual-threshold control.
+Set a temperature for switching on and a lower temperature for switching off. Between these two values, keep the current fan state. Compare this with using one threshold: does the fan switch less often near the boundary?
 
 ### Challenge 2: Display Humidity
 

@@ -4,30 +4,26 @@ sidebar_label: "Case 12: Urban Climate Safety Station"
 sidebar_position: 13
 ---
 
-
-
 # Case 12: Urban Climate Safety Station
 
 ## Project Introduction
 
 How can one model coordinate responses to heat, intense sunlight, and flooding at the same time? The Urban Climate Safety Station integrates temperature and humidity, water level, light, air pressure, orientation, and RFID interactions. Coordinated by **Nezha ESP32**, it provides displays, fan cooling, shading, and flood warnings, and can upload data to SmartIoT. Students apply knowledge from earlier projects to design a system whose behavior can be explained and tested.
 
-Through building, programming, and testing, students connect their observations with the model's displays or actions and learn to explain phenomena using data.
-
-This project combines classroom observation with engineering practice, encouraging students to consider how technology can improve school and urban environments.
+Students build, program, and test a model, then use their observations and recorded data to explain how it works. The project connects classroom science with engineering design and invites students to suggest improvements for their school or community.
 
 <!-- Image placeholder: finished Urban Climate Safety Station model -->
 <!-- Suggested filename: ./images/urban-climate-safety-station.png -->
 
-## Preparation
+## Materials and Preparation
 
 | Item | Quantity | Purpose |
 | --- | ---: | --- |
 | Climate Action Kit | 1 set | Build the Urban Climate Safety Station model |
 | Nezha ESP32 | 1 | Run the program, read data, and display information |
-| Temperature and humidity, water level, air pressure, and RFID modules with compatible cards | As configured | Carry out the sensing, control, or networking tasks for this project |
-| Fan, shade and warning mechanisms, and matching motors | As configured | Carry out the sensing, control, or networking tasks for this project |
-| Optional compatible wireless network and SmartIoT project | As configured | Carry out the sensing, control, or networking tasks for this project |
+| Temperature and humidity, water level, air pressure, and RFID modules with compatible cards | As required by the tested design | Collect environmental readings and identify classroom cards |
+| Fan, shade and warning mechanisms, and matching motors | As required by the tested design | Provide airflow, shading, and a visible warning |
+| Optional compatible wireless network and SmartIoT project | As arranged by the teacher | Record and display data remotely |
 | RJ11 cables | As needed | Connect compatible external modules; onboard-only functions require no external connections |
 | Computer and data cable | 1 set | Write, download, and debug the program |
 
@@ -36,19 +32,23 @@ This project combines classroom observation with engineering practice, encouragi
 
 ## Learning Objectives
 
+**Priority:** a rule for deciding which task takes control when two tasks request different actions from the same device.
+
 After completing this project, students will be able to:
 
 1. Map the relationships between multiple inputs, decision rules, and actuator outputs.
 2. Set priorities for shared actuators to prevent conflicting commands.
 3. Coordinate multiple tasks using states and timing.
 4. Create a combined test plan and explain system performance using records.
-5. Adjust parameters based on test results and follow the engineering process of design, programming, testing, and improvement.
+5. Use test results to improve the design through a cycle of designing, programming, testing, and improving.
 
-## Lesson Introduction
+## Lesson Starter
 
 Ask each group to act as an urban facilities design team. One station may face high temperatures, intense light, flooding, and card requests simultaneously. List the required tasks, discuss their priorities, and draw an input–rule–output table for the design.
 
 In this lesson, we will act as urban environment designers, build the Urban Climate Safety Station, and test our design through real observations.
+
+**Project connection:** Build on [the Smart Low-Carbon Bus Stop](./nezha-climate-action-kit-case10.md), then add [flood warnings](./nezha-climate-action-kit-case08.md), [tilt warnings](./nezha-climate-action-kit-case03.md), and [weather records](./nezha-climate-action-kit-case09.md) in stages. Use only hardware combinations that you have checked.
 
 ## Explore and Discuss
 
@@ -57,14 +57,14 @@ Before building, discuss the following questions in groups:
 1. If a flood warning and a card-triggered gate-opening request occur together, which has priority?
 2. Can other sensors still update promptly while one action waits for several seconds?
 3. Can all modules be connected simultaneously and powered reliably by the current supply?
-4. How will you record the test conditions to show whether the results meet your expectations?
-5. What other factors would you need to consider if this model were used in a real environment?
+4. What conditions and results will you record to check whether your design works as expected?
+5. What else would need to be tested before a design like this could be used outside the classroom?
 
-## Building Steps
+## Build the Model
 
 Follow the building instructions to construct the base, controller mount, and functional structures of the Urban Climate Safety Station.
 
-Pay particular attention to the following during construction:
+Check the following as you build:
 
 - Build separate sensing, shading, and access / warning areas first, ensuring that mechanisms cannot collide.
 - Isolate the water experiment container from the power supply, controller, and wiring.
@@ -94,22 +94,24 @@ Onboard functions require no external wiring. For external modules, confirm comp
 
 ## Program Design
 
-The program consists of two parts: startup initialization and the main loop.
+Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
 :::note
-The following is a suggested outline of the teaching logic. The actual program for this project is not currently provided. Port numbers, block names, and control parameters must be verified on the physical device; program screenshot locations are temporarily indicated by clearly labeled placeholders. The screen layout below is also a suggestion.
+This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
 :::
 
-### 1. Startup Initialization
+### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
 <!-- Suggested filename: ./images/urban-climate-safety-station-program-init.png -->
 
+Before coding, make a table of each task's inputs, thresholds, states, outputs, and update interval. Agree on which task has priority if an output is shared.
+
 At startup, the program performs the following actions:
 
-1. List each subtask's inputs, thresholds, states, outputs, and update interval.
-2. Initialize the screen and data variables so that states from the previous run are not reused.
-3. Show data labels and the initial operating status at the designated screen positions.
+1. Initialize the sensors, timers, counters, and starting states using the tested settings from earlier projects.
+2. Set the initial values of variables and states, and prepare the screen for a new run.
+3. Show each data label and the starting status in a fixed place on the screen.
 
 Suggested controller screen layout:
 
@@ -120,18 +122,18 @@ Suggested controller screen layout:
 | Row 3 | Operating status |
 | Row 4 | Warning / Access / Actuator status |
 
-### 2. Repeated Sensing and Control
+### 2. Read, Decide, and Respond
 
 <!-- Image placeholder: main sensing and control loop screenshot -->
 <!-- Suggested filename: ./images/urban-climate-safety-station-program-main.png -->
 
-The system continuously performs the following tasks in the `forever` loop.
+Repeat the following tasks in the `forever` loop:
 
-#### State Design
+#### Update Each State
 
 - Track fan, shade, flooding, orientation, and card states separately, rather than letting tasks compete directly for the same actuator.
 
-#### Priorities
+#### Apply the Priority Rules
 
 - If warnings and card access share a gate, the suggested rule is to prioritize warnings and suspend access; if mechanisms are separate, define each one's meaning and movement range clearly.
 
@@ -141,7 +143,7 @@ The system continuously performs the following tasks in the `forever` loop.
 
 #### Handle Exceptions
 
-- Design clear prompts and safe outputs for failed readings, network disconnection, and device restarts.
+- Check for failed readings and network disconnection. Apply the messages and output states agreed during design, and use the startup routine to restore the agreed states after a restart.
 
 ### 3. Key Parameters
 
@@ -160,7 +162,7 @@ The system first samples data, then updates each subtask's state, and finally ap
 Verify available connections, bus addresses, and power capacity before adding modules gradually. Keep the water experiment area isolated from the controller and power supply, and check priorities for shared actuators.
 :::
 
-## Testing
+## Test and Troubleshoot
 
 After completing the program, test it in the following order:
 
@@ -180,13 +182,13 @@ If one motor moves back and forth, check whether several subtasks control it sim
 
 ## Project Demonstration
 
-When the program is running, the Urban Climate Safety Station can demonstrate the following results:
+With a verified program running, the Urban Climate Safety Station can demonstrate the following results:
 
-- Each subsystem runs independently, with states matching actions.
-- Both the shade and fan respond, and the screen continues updating.
-- Shared actuators follow the agreed priorities and are not overridden by ordinary events.
-- Local decisions continue, and the platform receives new data after recovery.
-- Counts and states behave as specified, with no unintended continuous mechanism movement.
+- Each tested subsystem responds to its own input with the expected screen status and action.
+- The fan and shade respond together while the display keeps updating.
+- During a warning, a shared gate follows the agreed priority instead of opening for an ordinary card request.
+- Local decisions continue while offline, and new uploads resume after reconnection.
+- After restart, counts and states follow the agreed design, without unintended continuous movement.
 
 <!-- Image placeholder: project in operation or animated demonstration -->
 <!-- Suggested filename: ./images/urban-climate-safety-station-demo.gif -->
@@ -209,7 +211,7 @@ Record when warning, fan, shade, and access states change. Use the log to explai
 
 ### Challenge 2: Design a Combined Test Checklist
 
-List single-condition, simultaneous-trigger, recovery, and exception scenarios. Write the expected output for each, then verify them one by one.
+List tests for one input at a time, several inputs together, recovery, and faults. Write the expected output for each, then verify them one by one.
 
 ### Challenge 3: Add Error Recovery
 
@@ -219,7 +221,7 @@ Design separate responses for reading failures, network disconnection, and resta
 
 Adjust sampling, display, and upload intervals separately. Compare response speed and check whether any task blocks others.
 
-### Challenge 5: Perform Cross-Group Acceptance Checks
+### Challenge 5: Test Another Group's Design
 
 Exchange projects and test checklists between groups and evaluate them using the same criteria. Record functional, connection, and power limitations, and suggest improvements.
 

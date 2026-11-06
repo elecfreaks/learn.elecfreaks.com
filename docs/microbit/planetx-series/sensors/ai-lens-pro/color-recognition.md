@@ -137,6 +137,8 @@ sidebar_label: 颜色识别
 
 红色小球被送到红色分拣框，蓝色小球被送到蓝色分拣框；机构完成放料后回到上料位置。其他颜色不触发分拣。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-colorrecognition-01.gif)
+
 <!-- 视频占位：红蓝小球连续分拣与复位演示 -->
 
 ## 学习衔接

@@ -96,6 +96,8 @@ Choose one object and take a reference photo. Then change distance, angle, and l
 
 Create a set of images of the same object. Compare changes in apparent size with distance, changes in outline with angle, and changes in detail with lighting.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-camera-01.gif)
+
 <!-- Video placeholder: framing, capturing, saving, and checking the album -->
 
 ## Learning Connections

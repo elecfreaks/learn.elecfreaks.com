@@ -244,6 +244,8 @@ M3 使用角度控制。将夹爪定位到张开位置，按当前库的角度�
 
 按 C 键复位、A 键开始后，小车搜寻并对准小球，低速接近到标定位置，停车确认后驱动夹爪闭合。夹取动作结束后保持停车，屏幕提示检查结果；持续未找到目标或夹爪未到位时停止。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-ballrecognition-01.gif)
+
 <!-- 视频占位：Nezha ESP32 小车搜寻、对准、停车、夹取和放开复位演示 -->
 
 ## 学习衔接

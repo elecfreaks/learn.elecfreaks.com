@@ -98,6 +98,8 @@ Find four photos of the same object, check their conditions, and choose images t
 
 Create a small exhibition with clear shooting conditions and observation statements. Use the photos to explain how the same object looks under different conditions.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-camera-01.gif)
+
 <!-- Video placeholder: browsing, checking conditions, and explaining observations -->
 
 ## Learning Connections

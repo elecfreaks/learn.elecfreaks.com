@@ -96,6 +96,7 @@ sidebar_label: 相机
 
 得到一组同一物体的观察照片，可以比较距离变化带来的大小差异、角度变化带来的轮廓差异，以及光照变化带来的细节差异。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-camera-01.gif)
 <!-- 视频占位：取景、拍摄、保存与相册核对演示 -->
 
 ## 学习衔接

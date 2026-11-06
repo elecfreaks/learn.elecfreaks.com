@@ -135,6 +135,8 @@ Forever
 
 Red balls go to the red bin and blue balls to the blue bin. The mechanism returns to the loading position after release. Other colors do not trigger sorting.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-colorrecognition-01.gif)
+
 <!-- Video placeholder: continuous red/blue sorting and return -->
 
 ## Learning Connections

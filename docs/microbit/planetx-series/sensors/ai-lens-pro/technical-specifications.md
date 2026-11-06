@@ -10,7 +10,6 @@ sidebar_label: 技术规格
 | 项目 | 参数 |
 | :--- | :--- |
 | 产品名称 | AI摄像头Pro |
-| SKU | EF08450 |
 | 型号 | EF-PLANETX-AILENSP |
 | 主控芯片 | SG2002 |
 | 产品尺寸 | 70 × 63 × 24 mm |

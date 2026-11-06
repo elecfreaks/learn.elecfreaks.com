@@ -135,6 +135,8 @@ sidebar_label: 人脸检测
 
 人脸在画面中移动时，云台分档调整水平和俯仰方向，使人脸回到中心附近。人脸离开画面或电机到达行程边界时，对应电机停止。
 
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-facedetection-01.gif)
 <!-- 视频占位：双轴人脸追踪、目标丢失与限位演示 -->
 
 ## 学习衔接

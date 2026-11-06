@@ -134,6 +134,8 @@ Forever
 
 The mount adjusts horizontally and vertically to bring a moving face back near the center. The relevant motors stop when the face disappears or an axis reaches its travel limit.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-facedetection-01.gif)
+
 <!-- Video placeholder: two-axis tracking, target loss, and travel limits -->
 
 ## Learning Connections

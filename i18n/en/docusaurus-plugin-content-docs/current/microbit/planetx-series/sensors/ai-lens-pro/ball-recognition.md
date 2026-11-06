@@ -6,13 +6,13 @@ sidebar_label: Ball Recognition
 
 # Case Study: AI Ball Search and Pickup Car
 
-Build a Nezha ESP32 car that finds a ball, approaches it, and closes a gripper to pick it up
+Use Nezha ESP32 to build a car that finds a ball, approaches it, and operates a gripper to pick it up
 
 ## Introduction
 
-How can a robot find a ball on the floor and grip it? Build a car with a **Nezha ESP32 controller**, three smart motors, and a gripper. AI Lens Pro reports the ball's position and size; the controller operates the wheels and gripper.
+How can a robot find a ball on the floor and pick it up? In this Ball Recognition project, students build a car with a **Nezha ESP32 multifunctional controller**, three PlanetX Smart Brick Motors, and a gripper. AI Lens Pro reports the ball's position and size in the image. The controller uses these readings to operate the left wheel, right wheel, and gripper.
 
-The car first turns slowly to search, then aligns itself and approaches. When the ball enters the calibrated pickup position, the car stops, confirms the position across consecutive frames, and closes the gripper. It stays stopped after the action so students can check whether the ball was actually gripped.
+The car turns slowly to search for a ball, steers toward it, and approaches at low speed. When the ball reaches the pickup position established during calibration, the car stops and checks its position across consecutive frames before closing the gripper. The car then stays stopped so students can check whether it is actually holding the ball.
 
 <!-- Image placeholder: completed Nezha ESP32 ball search and pickup car -->
 
@@ -20,8 +20,8 @@ The car first turns slowly to search, then aligns itself and approaches. When th
 
 1. Check whether an image contains a ball.
 2. Read a selected target's X position and size.
-3. Use differential wheel speeds to search, align, and approach, then operate a gripper.
-4. Organize multiple actions with task states and distinguish action completion from successful pickup.
+3. Control the two wheels at different speeds to search, turn toward a ball, and approach it, then operate the gripper.
+4. Use task states to organize a sequence of actions and explain why completing a closing movement does not guarantee a successful pickup.
 5. Calibrate and repeat tests to adjust the stopping threshold, gripper travel, and target-loss handling.
 
 ## Materials
@@ -32,17 +32,17 @@ The car first turns slowly to search, then aligns itself and approaches. When th
 | Nezha ESP32 controller | 1 | <!-- Image placeholder: Nezha ESP32 --> |
 | Compatible PlanetX Smart Brick Motors | 3 | <!-- Image placeholder: wheel and gripper motors --> |
 | Wheels, support wheel, chassis, and camera mount | 1 set | <!-- Image placeholder: chassis --> |
-| Motor-driven gripper and transmission | 1 set | <!-- Image placeholder: gripper --> |
+| Motor-driven gripper and self-locking drive mechanism | 1 set | <!-- Image placeholder: gripper --> |
 | RJ11 cables and USB Type-C data cable | As required | <!-- Image placeholder: cables --> |
 | Supplied red or blue sponge ball | 1 | <!-- Image placeholder: sponge ball --> |
 | Flat, open testing area | 1 | <!-- Image placeholder: testing area --> |
 
 ## Hardware Connection
 
-1. Turn off the power. Build a two-wheel differential-drive chassis and secure Nezha ESP32 near its center.
+1. Turn off the power. Build a chassis with two independently driven wheels and secure Nezha ESP32 near its center. Steering by changing the relative wheel speeds is called differential steering.
 2. Connect the camera and three smart motors according to the table. Mount the gripper centrally at the front, with its opening facing forward.
 3. Mount AI Lens Pro above the gripper, tilted slightly downward. Keep the ball visible at the gripper entrance during approach.
-4. Adjust the gripper height and opening so the ball can enter between its fingers. Use a self-locking transmission that holds position after its motor stops.
+4. Adjust the gripper height and opening so the ball can enter between its fingers. Use a self-locking drive mechanism that keeps the gripper in position after its motor stops.
 5. Power on the camera and wait for its main menu before starting the controller project.
 
 | Module | Controller port | Purpose |
@@ -62,7 +62,7 @@ Use **MicroBlocks** for this project. For connection, firmware, and project stor
 
 1. Open [MicroBlocks](https://microblocksfun.cn/run/microblocks.html) and create a “Ball Search and Pickup” project.
 2. Connect the computer to Nezha ESP32 with a USB Type-C data cable and select the device in the platform.
-3. In Add Library, find Elecfreaks **Nezha ESP32 onboard sensor and motion control** blocks and the PlanetX **AI Lens Pro** library.
+3. In **Add Library**, find the ELECFREAKS **Nezha ESP32 onboard sensor and motion control** blocks and the PlanetX **AI Lens Pro** library.
 4. Check that the installed libraries provide frame refresh, ball detection, target X and size, M1–M3 speed control, M3 angle control, and angle feedback.
 5. Test ball data reading, low-speed wheel movement, and gripper opening/closing separately before combining them.
 
@@ -78,11 +78,11 @@ Initialize the camera and switch to **Ball Recognition**. Refresh a frame before
 
 ### 2. Read Ball Position and Size
 
-Use **Get X Position/Size of Largest Ball in Image**. “Largest” selects by horizontal pixel width, whereas “Size” reports the selected ball's vertical pixel span. These are different measurements.
+Use **Get X Position/Size of Largest Ball in Image**. The “Largest” option selects the ball with the greatest horizontal width in pixels. The “Size” value reports that selected ball's vertical height in pixels. Keep these two measurements distinct when choosing and reading a target.
 
 For 640 × 480 coordinates, start with a horizontal center of X = 320 and an alignment range of 280–360. Check the actual scale returned by your library. If the gripper center does not match the image center, adjust the range around the measured pickup center **Cx**.
 
-Place a ball inside the open gripper where it can be held, then record its X position and image size to calibrate pickup. The example starts with **Cx = 320, T = 120 px**, and a ready-position size range of **T to T + 20 px**. Adjust all of these values for the actual mechanism.
+Place a ball inside the open gripper where it can be held, then record its X position and image size. This establishes the pickup position, a process called calibration. The example uses **Cx = 320, T = 120 px**: Cx is the horizontal pickup center, and T is the lower image-size threshold for stopping. The pickup size range is **T to T + 20 px**, including both endpoints. Adjust these values to match the actual camera and gripper arrangement.
 
 **Note:** Detecting any ball and then reading the largest target keeps detection and selection consistent. When several colors appear together, detecting a red ball does not guarantee that the largest target you read is red.
 
@@ -104,7 +104,17 @@ Update the controller screen with state, X, size, and M3 angle. Assign **A to st
 
 ### How It Works
 
-Use Ready, Search/Approach, Confirm Position, Closing, Await Check, Stopped, and Opening states. Manage them in one main loop and send a close command only when entering Closing, avoiding repeated tightening commands.
+A task state records what the car is doing now. Use one main loop to manage the following states, and send the closing command only once when entering Closing. This prevents the loop from repeatedly commanding the gripper to tighten.
+
+| State | What the car does |
+| --- | --- |
+| Ready | Waits for A after the gripper has opened and reset |
+| Search/Approach | Searches for a ball, aligns with it, and approaches slowly |
+| Confirm Position | Keeps the wheels stopped and checks that the ball remains in the pickup range |
+| Closing | Keeps the wheels stopped while checking the gripper's closing movement |
+| Await Check | Stays stopped so students can inspect the pickup result |
+| Stopped | Stops all motors and waits for a permitted reset command |
+| Opening | Keeps the wheels stopped while opening the gripper, then returns to Ready |
 
 Complete one pickup action and stop for student inspection. The basic task does not automatically transport or release the ball, or start another search.
 
@@ -122,16 +132,16 @@ Complete one pickup action and stop for student inspection. The basic task does 
 
 | Gripper parameter | Initial setting | Tuning method |
 | --- | --- | --- |
-| Open Angle and Closed Angle | Calibrate on the mechanism | Admit the ball when open; hold the sponge ball without pushing against stops when closed |
+| Open Angle and Closed Angle | Calibrate on the mechanism | Leave enough room for the ball when open; hold the sponge ball without pushing against mechanical stops when closed |
 | M3 speed | 10% | Start slowly and adjust for the load |
-| Angle arrival tolerance | ±5° | Adjust for feedback precision; require three consecutive loops |
-| Action wait limit | 3000 ms | Adjust for measured travel time; stop M3 on timeout |
+| Allowed angle error | ±5° | Adjust for feedback precision; require three consecutive loops within this range |
+| Movement timeout | 3000 ms | Adjust for measured travel time; stop M3 if the time limit is exceeded |
 
 ### Build the Program
 
-Create **State**, **X**, **Size**, **Lost Count**, **Position Count**, **Arrival Count**, **Action Start**, **Cx**, **T**, **Open Angle**, and **Closed Angle**.
+Create variables named **State**, **X**, **Size**, **Lost Count**, **Position Count**, **Arrival Count**, **Action Start**, **Cx**, **T**, **Open Angle**, **Closed Angle**, and **Target Angle**. Lost Count tracks consecutive frames without a ball, Position Count tracks consecutive frames in the pickup range, and Arrival Count tracks consecutive angle readings within the allowed error.
 
-Create custom blocks for setting wheel speeds, stopping all motors, opening the gripper, and closing it. Map the following logic to your installed library. Send the gripper target and poll its angle; avoid long blocking waits that prevent the main loop from running.
+Create custom blocks for setting wheel speeds, stopping all motors, opening the gripper, and closing it. The text below is pseudocode: use it to plan the program, then build it with blocks from your installed libraries. Send the gripper's target angle once and read its current angle on each loop. Avoid long waits that prevent the main loop from checking buttons and updating states.
 
 ```text
 On start
@@ -148,7 +158,7 @@ Forever
     If button B press event detected
         Stop M1, M2, M3
         Set State = Stopped
-    Else if button C press event detected and (State = Stopped or Await Check)
+    Else if button C press event detected and (State = Stopped or State = Await Check)
         Stop M1 and M2
         Send M3 Open Angle target at 10% speed (once only)
         Set Arrival Count = 0, Action Start = current time
@@ -157,7 +167,7 @@ Forever
         Set Lost Count = 0, Position Count = 0
         Set State = Search/Approach
 
-    If State = Search/Approach or Confirm Position
+    If State = Search/Approach or State = Confirm Position
         Capture a frame from AI Lens Pro
         If image contains any ball
             Set Lost Count = 0
@@ -190,7 +200,7 @@ Forever
             Else
                 Stop all motors; set State = Stopped
 
-    Else if State = Closing or Opening
+    Else if State = Closing or State = Opening
         Stop M1 and M2
         Set Target Angle to Closed Angle or Open Angle for the current state
         Read current M3 angle
@@ -218,15 +228,15 @@ Forever
 <!-- Image placeholder: complete Nezha ESP32 ball search and pickup MicroBlocks program -->
 <!-- Program file placeholder: hardware-verified MicroBlocks project and share link -->
 
-**Program Notes:** Searching stops after 20 consecutive loops without detecting a target. Position and gripper arrival both require three-loop confirmation. Angle arrival establishes action completion, not that the ball is held. For automatic success detection, consider a touch sensor or gripper-opening feedback as an extension.
+**Program Notes:** The car searches for at most 20 consecutive loops without detecting a ball, then stops. Before closing, the ball must remain in the pickup range for three consecutive frames. To finish opening or closing, the gripper angle must remain within the allowed error for three consecutive loops. Reaching the target angle confirms that the movement has finished; students must still check whether the gripper is holding the ball. For automatic pickup confirmation, explore adding a touch sensor or feedback that measures the gripper opening.
 
 Image size estimates proximity; it does not directly give centimeters. If the ball is hidden before entering the gripper, adjust the camera and gripper geometry and recalibrate. Never use target loss alone as the close condition. B is checked at the start of each loop; response also depends on camera communication and motor-command duration.
 
 ## Run and Save the Program
 
-1. Connect Nezha ESP32 with a USB Type-C data cable, connect through MicroBlocks, and save the computer-side project.
+1. Connect Nezha ESP32 to the computer with a USB Type-C data cable, select the device in MicroBlocks, and save a copy of the project on the computer.
 2. Raise the wheels and check forward, left, right, and B-stop behavior. Separately calibrate M3 opening/closing angles and the action timeout.
-3. Place the car on an open floor. Press C to open and reset, place one sponge ball ahead, and press A.
+3. Place the car on a flat, open floor. Press C to open and reset the gripper. Wait until the state is Ready, place one sponge ball ahead of the car, and press A to start.
 4. Check alignment, stopping, and closing. Inspect the actual grip, then press C to release and reset. Press B to stop during an action.
 5. Use **Save As** in the controller's program management page to keep the program. After restarting, select and run the saved project following the controller guide; check the gripper position again before testing.
 
@@ -244,6 +254,8 @@ Image size estimates proximity; it does not directly give centimeters. If the ba
 
 After C resets the gripper and A starts the task, the car searches, aligns, and approaches the calibrated position. It stops to confirm before closing. It remains stopped and prompts inspection after the action. Persistent target loss or a gripper timeout also stops the task.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-ballrecognition-01.gif)
+
 <!-- Video placeholder: searching, alignment, stopping, gripping, and release/reset -->
 
 ## Learning Connections
@@ -259,5 +271,5 @@ Next lesson: [Wireless Observation Archive](./remote-file-management.md).
 1. Why align and confirm a stationary ball before closing the gripper?
 2. Do different ball diameters produce the same image size at the same distance?
 3. Why might reaching the closed angle still fail to grip the ball?
-4. How could you adapt the [Color Sorting Station](./color-recognition.md) task states for classified placement after pickup?
+4. How could you reuse the task states from the [Color Sorting Station](./color-recognition.md) to sort and place a ball after picking it up?
 5. Combine [Vision Line Following](./line-following.md) with a staged mission: follow the line to the search area, stop and switch to Ball Recognition, grip the ball, then return after button confirmation.

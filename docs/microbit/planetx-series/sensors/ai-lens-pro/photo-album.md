@@ -98,6 +98,8 @@ sidebar_label: 相册
 
 完成一组有明确拍摄条件和观察结论的图像小展览，能够用照片解释同一物体在不同条件下的视觉变化。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-camera-01.gif)
+
 <!-- 视频占位：相册浏览、条件核对与观察讲解演示 -->
 
 ## 学习衔接

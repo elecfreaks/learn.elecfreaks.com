@@ -10,7 +10,6 @@ View all AI Lens Pro specs.
 | Item | Specification |
 | :--- | :--- |
 | Product Name | AI Lens Pro |
-| SKU | EF08450 |
 | Model | EF-PLANETX-AILENSP |
 | Main Processor | SG2002 |
 | Dimensions | 70 × 63 × 24 mm |

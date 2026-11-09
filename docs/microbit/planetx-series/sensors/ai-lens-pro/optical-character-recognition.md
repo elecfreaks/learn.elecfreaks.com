@@ -104,7 +104,28 @@ sidebar_label: 光学字符识别
 ```
 
 <!-- 图片占位：文字口令提示牌完整 MakeCode 积木程序图 -->
-<!-- 程序链接占位：文字口令提示牌 MakeCode 分享链接 -->
+### 示例程序
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_8igMc7fRp1Um"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+[打开文字口令提示牌 MakeCode 积木程序](https://makecode.microbit.org/_8igMc7fRp1Um)
 
 **程序说明：** 每次只展示一张、单行且字体清晰的纸牌。先用短英文口令验证流程，再测试设备当前模型支持的其他字符。读取到文字不代表内容一定正确，需要将输出与原稿进行对照。
 

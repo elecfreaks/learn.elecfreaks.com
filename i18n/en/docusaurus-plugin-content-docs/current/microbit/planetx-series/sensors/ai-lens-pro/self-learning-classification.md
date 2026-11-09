@@ -120,7 +120,28 @@ Forever
 ```
 
 <!-- Image placeholder: complete model classification assistant MakeCode blocks -->
-<!-- Program link placeholder: model classification assistant MakeCode share link -->
+### Example Program
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_gRP0JP78f4UY"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+[Open the Model Classification Assistant MakeCode blocks](https://makecode.microbit.org/_gRP0JP78f4UY)
 
 **Program Notes:** The 1000 ms pause is a starting point for testing, not a guaranteed learning duration. Confirm completion on the device before continuing. If necessary, increase the pause based on measurements or use a completion-status block available in your version. Confidence indicates model similarity and does not guarantee a correct category.
 

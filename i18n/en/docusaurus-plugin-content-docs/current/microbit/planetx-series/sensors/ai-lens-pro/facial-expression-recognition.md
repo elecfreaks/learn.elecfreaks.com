@@ -98,7 +98,28 @@ Forever
 ```
 
 <!-- Image placeholder: complete expression mirror MakeCode blocks -->
-<!-- Program link placeholder: expression mirror MakeCode share link -->
+### Example Program
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_3MthYsgvR03T"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+[Open the Expression Mirror MakeCode blocks](https://makecode.microbit.org/_3MthYsgvR03T)
 
 **Program Notes:** Expression recognition classifies an image; it does not establish the participant's actual feelings. If results change too frequently, add Candidate, Consecutive Count, and Displayed Result variables. Update the display after the same candidate appears three times in a row. Reset the count when the candidate changes, and clear the state when no one is present.
 

@@ -104,7 +104,28 @@ Forever
 ```
 
 <!-- Image placeholder: complete text command display MakeCode blocks -->
-<!-- Program link placeholder: text command display MakeCode share link -->
+### Example Program
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_8igMc7fRp1Um"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+[Open the Text Command Display MakeCode blocks](https://makecode.microbit.org/_8igMc7fRp1Um)
 
 **Program Notes:** Show one sign at a time with a single line of clear text. Verify the workflow with short English commands first, then try other characters supported by the installed model. Detecting text does not guarantee that it was read correctly; compare the output with the original.
 

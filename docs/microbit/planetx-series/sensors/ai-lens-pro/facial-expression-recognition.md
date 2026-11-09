@@ -98,7 +98,28 @@ sidebar_label: 表情识别
 ```
 
 <!-- 图片占位：表情互动镜完整 MakeCode 积木程序图 -->
-<!-- 程序链接占位：表情互动镜 MakeCode 分享链接 -->
+### 示例程序
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_3MthYsgvR03T"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+[打开表情互动镜 MakeCode 积木程序](https://makecode.microbit.org/_3MthYsgvR03T)
 
 **程序说明：** 表情识别给出的是图像分类结果，不等同于体验者真实的心理感受。若显示频繁变化，可增加“候选结果”“连续次数”“已显示结果”变量：同一候选连续出现三次后再更新显示；候选变化则重新计数，无人时清空状态。
 

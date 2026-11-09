@@ -118,6 +118,27 @@ Forever
 ```
 
 <!-- Image placeholder: complete gesture command car MakeCode blocks -->
+### Example Program
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_YRDJgyTW9XLD"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
 [Open the gesture car program with combined wheel blocks](https://makecode.microbit.org/_YRDJgyTW9XLD)
 
 **Program Notes:** A single if/else-if chain executes one action per loop. If gestures are easily confused, require three consecutive Forward or turn results before moving. Stop and missing-gesture conditions should still stop immediately.

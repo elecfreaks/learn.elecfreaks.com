@@ -113,7 +113,28 @@ Forever
 ```
 
 <!-- Image placeholder: complete target position indicator MakeCode blocks -->
-<!-- Program link placeholder: target position indicator MakeCode share link -->
+### Example Program
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_5gWXjbhMDHr0"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+[Open the Target Position Indicator MakeCode blocks](https://makecode.microbit.org/_5gWXjbhMDHr0)
 
 **Program Notes:** Do not automatically select another object when the target is lost. Observe whether your firmware recovers the original target. If not, press B, place the target back inside the box, and press A to select it again.
 

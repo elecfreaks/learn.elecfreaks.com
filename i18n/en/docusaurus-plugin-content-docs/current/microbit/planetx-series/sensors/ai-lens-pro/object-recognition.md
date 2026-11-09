@@ -102,7 +102,28 @@ Forever
 ```
 
 <!-- Image placeholder: complete desktop object inspector MakeCode blocks -->
-<!-- Program link placeholder: desktop object inspector MakeCode share link -->
+### Example Program
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_auEd2fihkXwk"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+[Open the Desktop Object Inspector MakeCode blocks](https://makecode.microbit.org/_auEd2fihkXwk)
 
 **Program Notes:** The LED category follows the condition priority, while the serial name belongs to the central target. They may differ when several objects appear together. A frame's object count is not a cumulative count of items passing through the area.
 

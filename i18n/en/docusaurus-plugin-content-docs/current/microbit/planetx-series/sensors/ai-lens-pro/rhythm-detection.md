@@ -119,7 +119,28 @@ Forever
 ```
 
 <!-- Image placeholder: complete rhythm flasher MakeCode blocks -->
-<!-- Program link placeholder: rhythm flasher MakeCode share link -->
+### Example Program
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_fL20FPTYJijm"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+[Open the Rhythm Flasher MakeCode blocks](https://makecode.microbit.org/_fL20FPTYJijm)
 
 **Program Notes:** Because the flash loop includes pauses, the current iteration may take up to one period to finish after B is pressed. Inspect status through serial while waiting to confirm that the result belongs to the current task. After a timeout, wait for the device's task to finish before recording again. Flashes represent average tempo and are not guaranteed to align with every beat of the original audio.
 

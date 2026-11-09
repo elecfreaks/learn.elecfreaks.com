@@ -119,7 +119,28 @@ sidebar_label: 节奏检测
 ```
 
 <!-- 图片占位：节奏闪光器完整 MakeCode 积木程序图 -->
-<!-- 程序链接占位：节奏闪光器 MakeCode 分享链接 -->
+### 示例程序
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_fL20FPTYJijm"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+[打开节奏闪光器 MakeCode 积木程序](https://makecode.microbit.org/_fL20FPTYJijm)
 
 **程序说明：** 闪烁循环含等待，B 键停止后可能需要一个周期才完全结束本轮。等待分析结果时可先通过串口观察状态，确认读到的是本次任务结果；若超时，等待设备任务结束后再发起新录音。闪烁只表现平均速度，无法保证与原音频每一拍对齐。
 

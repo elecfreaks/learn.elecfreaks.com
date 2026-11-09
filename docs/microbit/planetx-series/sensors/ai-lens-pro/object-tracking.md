@@ -113,7 +113,28 @@ A 键选择当前框内目标，B 键停止。主循环仅刷新并读取追踪�
 ```
 
 <!-- 图片占位：目标位置指示器完整 MakeCode 积木程序图 -->
-<!-- 程序链接占位：目标位置指示器 MakeCode 分享链接 -->
+### 示例程序
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_5gWXjbhMDHr0"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+[打开目标位置指示器 MakeCode 积木程序](https://makecode.microbit.org/_5gWXjbhMDHr0)
 
 **程序说明：** 目标丢失后不自动选取其他物体。可先观察当前固件是否恢复原目标；若未恢复，按 B 键结束，将目标放回选框，再按 A 键重新选择。
 

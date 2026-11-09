@@ -107,7 +107,28 @@ Forever
 ```
 
 <!-- Image placeholder: complete raised-hand counter MakeCode blocks -->
-<!-- Program link placeholder: raised-hand counter MakeCode share link -->
+### Example Program
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_XL6WXebcYeEM"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+[Open the Raised-Hand Counter MakeCode blocks](https://makecode.microbit.org/_XL6WXebcYeEM)
 
 **Program Notes:** “Not raised” depends on the current classification. Occlusion and classification errors may still affect counting, so test with one person in a fixed position. Scrolling larger numbers takes time; alternatively, display the total only when B is pressed or use an external display.
 

@@ -118,6 +118,27 @@ sidebar_label: 手势识别
 ```
 
 <!-- 图片占位：手势指挥小车完整 MakeCode 积木程序图 -->
+### 示例程序
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_isuP28M3c1MD"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
 [打开手势指挥小车双轮联动积木程序](https://makecode.microbit.org/_isuP28M3c1MD)
 
 **程序说明：** 使用一组“如果……否则如果……”使每轮只执行一种动作。若手势容易混淆，可以让前进和转向指令连续出现三次再执行；停止和丢失手势仍直接停车。

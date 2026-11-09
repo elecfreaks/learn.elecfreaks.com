@@ -107,7 +107,28 @@ sidebar_label: 姿态识别
 ```
 
 <!-- 图片占位：举手计数器完整 MakeCode 积木程序图 -->
-<!-- 程序链接占位：举手计数器 MakeCode 分享链接 -->
+### 示例程序
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_XL6WXebcYeEM"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+[打开举手计数器 MakeCode 积木程序](https://makecode.microbit.org/_XL6WXebcYeEM)
 
 **程序说明：** “未举手”以当前分类结果为依据。遮挡或误识别仍可能影响计数，应在固定位置、单人条件下测试。数字较大时，LED 滚动显示会占用时间，可改为按 B 键显示总数，或使用外接显示器。
 

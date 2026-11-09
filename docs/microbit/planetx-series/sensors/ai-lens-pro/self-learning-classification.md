@@ -120,7 +120,28 @@ A 键学习当前模型为 ID 1，B 键学习为 ID 2；学习时短暂暂停识
 ```
 
 <!-- 图片占位：积木分类助手完整 MakeCode 积木程序图 -->
-<!-- 程序链接占位：积木分类助手 MakeCode 分享链接 -->
+### 示例程序
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_gRP0JP78f4UY"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+[打开积木分类助手 MakeCode 积木程序](https://makecode.microbit.org/_gRP0JP78f4UY)
 
 **程序说明：** 示例用 1000 毫秒作为学习等待的调试起点，并非保证学习完成的固定时长。应在设备上确认学习完成后再操作；若等待不足，应按实测延长，或改用当前版本提供的完成状态判断。置信度只是模型相似程度的参考，不能保证类别一定正确。
 

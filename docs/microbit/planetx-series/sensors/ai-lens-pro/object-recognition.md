@@ -102,7 +102,28 @@ sidebar_label: 物体识别
 ```
 
 <!-- 图片占位：桌面物品检查员完整 MakeCode 积木程序图 -->
-<!-- 程序链接占位：桌面物品检查员 MakeCode 分享链接 -->
+### 示例程序
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_auEd2fihkXwk"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
+[打开桌面物品检查员 MakeCode 积木程序](https://makecode.microbit.org/_auEd2fihkXwk)
 
 **程序说明：** LED 显示的是按条件优先级判断的类别提示，串口名称属于中心目标；两者在多物品场景中可能不同。本帧数量也不是物品经过展示区的累计数量。
 

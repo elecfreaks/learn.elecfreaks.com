@@ -42,9 +42,12 @@ Lowering the arm enables the next count. This helps distinguish a continuous sta
 
 ## Software Setup
 
-1. Open [MakeCode](https://makecode.microbit.org/) and create an “AI Raised-Hand Counter” project.
-2. Add `planetX-AI` through **Extensions**.
-3. Find pose conditions, number display, and variable blocks. Check the raised-hand option supported by your firmware.
+This project uses **Microsoft MakeCode** for block-based programming.
+
+1. Open [MakeCode](https://makecode.microbit.org/) and create a project named “AI Raised-Hand Counter.”
+2. In **Extensions**, search for `planetX-AI` and add the AI Lens Pro extension.
+3. In the toolbox, find the **AI Lens Pro** Basic Settings and pose recognition blocks, and the micro:bit number display and variable blocks.
+4. Check the raised-hand options supported by your firmware.
 
 ## Using the Blocks
 

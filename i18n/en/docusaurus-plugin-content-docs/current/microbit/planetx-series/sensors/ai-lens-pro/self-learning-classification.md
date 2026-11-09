@@ -43,9 +43,12 @@ Start with front-view samples, then add side views, different distances, and bac
 
 ## Software Setup
 
-1. Open [MakeCode](https://makecode.microbit.org/) and create an “AI Model Classification Assistant” project.
-2. Add `planetX-AI` through **Extensions**.
-3. Define **ID 1 = Model A, ID 2 = Model B** and find the self-learning and button event blocks.
+This project uses **Microsoft MakeCode** for block-based programming.
+
+1. Open [MakeCode](https://makecode.microbit.org/) and create a project named “AI Model Classification Assistant.”
+2. In **Extensions**, search for `planetX-AI` and add the AI Lens Pro extension.
+3. In the toolbox, find the **AI Lens Pro** Basic Settings and self-learning blocks, and the micro:bit button event blocks.
+4. Define **ID 1 = Model A, ID 2 = Model B**.
 
 ## Using the Blocks
 

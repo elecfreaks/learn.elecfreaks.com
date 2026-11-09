@@ -43,9 +43,12 @@ sidebar_label: 自学习分类
 
 ## 软件准备
 
+本案例使用 **Microsoft MakeCode** 图形化编程平台。
+
 1. 打开 [MakeCode 网站](https://makecode.microbit.org/)，新建“AI 积木分类助手”项目。
-2. 在 **扩展（Extensions）** 中添加 `planetX-AI`。
-3. 约定 **ID 1 = 模型 A，ID 2 = 模型 B**，找到自学习和按键事件积木。
+2. 在 **扩展（Extensions）** 中搜索 `planetX-AI`，添加 AI Lens Pro 扩展库。
+3. 在工具栏中找到 **AI Lens Pro** 的基础设置、自学习积木，以及 micro:bit 的按键事件积木。
+4. 约定 **ID 1 = 模型 A，ID 2 = 模型 B**。
 
 ## 积木使用方法
 

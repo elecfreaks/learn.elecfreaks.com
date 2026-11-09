@@ -47,12 +47,12 @@ This project uses **Color Recognition** to identify the ball's surface color. Lo
 
 ## Software Setup
 
-Use **Microsoft MakeCode** for graphical programming.
+This project uses **Microsoft MakeCode** for block-based programming.
 
-1. Open [MakeCode](https://makecode.microbit.org/) and create an “AI Color Sorting Station” project.
-2. Search for and add `planetX-AI` through **Extensions**.
-3. Add the Nezha Pro extension by searching for `nezha pro`. The reference program uses `pxt-nezha2`.
-4. Find AI Lens Pro Basic Settings and Color Recognition, and the Nezha Pro motor blocks.
+1. Open [MakeCode](https://makecode.microbit.org/) and create a project named “AI Color Sorting Station.”
+2. In **Extensions**, search for `planetX-AI` and add the AI Lens Pro extension.
+3. Search for `nezha2` and add the Nezha Pro extension. The reference program uses `pxt-nezha2`.
+4. In the toolbox, find the **AI Lens Pro** Basic Settings and Color Recognition blocks, and the Nezha Pro motor control blocks.
 
 <!-- Image placeholder: adding planetX-AI and Nezha Pro extensions -->
 

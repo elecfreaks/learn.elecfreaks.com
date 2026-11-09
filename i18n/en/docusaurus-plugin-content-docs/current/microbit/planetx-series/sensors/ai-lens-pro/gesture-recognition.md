@@ -44,9 +44,13 @@ The program stores the mapping from gestures to actions. When the camera does no
 
 ## Software Setup
 
-1. Open [MakeCode](https://makecode.microbit.org/) and create an “AI Gesture Command Car” project.
-2. Add the AI Lens Pro extension `https://github.com/elecfreaks/pxt-planetx-ai` and Nezha2 extension `https://github.com/elecfreaks/pxt-nezha2` through **Extensions**.
-3. Save four distinct gestures on the device as “Forward,” “Left,” “Right,” and “Stop.” Names in the program must exactly match the saved names.
+This project uses **Microsoft MakeCode** for block-based programming.
+
+1. Open [MakeCode](https://makecode.microbit.org/) and create a project named “AI Gesture Command Car.”
+2. In **Extensions**, search for `planetX-AI` and add the AI Lens Pro extension.
+3. Search for `nezha2` and add the Nezha Pro extension. The reference program uses `pxt-nezha2`.
+4. In the toolbox, find the **AI Lens Pro** Basic Settings and gesture recognition blocks, and the Nezha2 combined wheel blocks.
+5. Save four distinct gestures on the device as “Forward,” “Left,” “Right,” and “Stop.” Names in the program must exactly match the saved names.
 
 <!-- Image placeholder: learning, naming, and saving four gestures -->
 

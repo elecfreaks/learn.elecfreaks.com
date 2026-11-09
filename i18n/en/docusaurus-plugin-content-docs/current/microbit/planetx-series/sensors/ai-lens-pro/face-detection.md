@@ -46,9 +46,12 @@ When the face moves away from the image center, the mount turns toward it. It st
 
 ## Software Setup
 
-1. Open [MakeCode](https://makecode.microbit.org/) and create an “AI Face-Tracking Pan-Tilt Camera” project.
-2. Add `planetX-AI` and `nezha pro` through **Extensions**. The reference program uses the `pxt-nezha2` motor library.
-3. Find face recognition, frame refresh, motor start, and motor stop blocks.
+This project uses **Microsoft MakeCode** for block-based programming.
+
+1. Open [MakeCode](https://makecode.microbit.org/) and create a project named “AI Face-Tracking Pan-Tilt Camera.”
+2. In **Extensions**, search for `planetX-AI` and add the AI Lens Pro extension.
+3. Search for `nezha2` and add the Nezha Pro extension. The reference program uses `pxt-nezha2`.
+4. In the toolbox, find the **AI Lens Pro** Basic Settings and face recognition and frame refresh blocks, and the Nezha Pro motor start and stop blocks.
 
 <!-- Image placeholder: face recognition and Nezha Pro motor categories -->
 

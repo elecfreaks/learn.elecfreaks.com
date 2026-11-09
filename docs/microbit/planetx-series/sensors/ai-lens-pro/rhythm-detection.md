@@ -42,9 +42,11 @@ sidebar_label: 节奏检测
 
 ## 软件准备
 
+本案例使用 **Microsoft MakeCode** 图形化编程平台。
+
 1. 打开 [MakeCode 网站](https://makecode.microbit.org/)，新建“AI 节奏闪光器”项目。
-2. 在 **扩展（Extensions）** 中添加 `planetX-AI`。
-3. 找到节奏识别、按键事件、运行时间、数学和 LED 显示积木。
+2. 在 **扩展（Extensions）** 中搜索 `planetX-AI`，添加 AI Lens Pro 扩展库。
+3. 在工具栏中找到 **AI Lens Pro** 的基础设置、节奏识别积木，以及 micro:bit 的按键事件、运行时间、数学和 LED 显示积木。
 
 ## 积木使用方法
 

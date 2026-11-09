@@ -43,9 +43,12 @@ Object recognition uses the device's existing model. Show one item at a time fir
 
 ## Software Setup
 
-1. Open [MakeCode](https://makecode.microbit.org/) and create an “AI Desktop Object Inspector” project.
-2. Add `planetX-AI` through **Extensions**.
-3. Find the object recognition, LED display, and serial blocks. After downloading and connecting the device, open MakeCode's device data viewer in a browser that supports WebUSB.
+This project uses **Microsoft MakeCode** for block-based programming.
+
+1. Open [MakeCode](https://makecode.microbit.org/) and create a project named “AI Desktop Object Inspector.”
+2. In **Extensions**, search for `planetX-AI` and add the AI Lens Pro extension.
+3. In the toolbox, find the **AI Lens Pro** Basic Settings and object recognition blocks, and the micro:bit LED display and serial blocks.
+4. After downloading and connecting the device, open MakeCode's device data viewer in a browser that supports WebUSB.
 
 ## Using the Blocks
 

@@ -46,17 +46,17 @@ sidebar_label: 巡线识别
 
 本案例使用 **Microsoft MakeCode** 图形化编程平台。
 
-1. 打开 [MakeCode 网站](https://makecode.microbit.org/)，点击 **新建项目**，输入项目名称并创建。
-2. 点击左侧积木工具栏中的 **扩展（Extensions）**。
-3. 搜索 `cutebot`，选择对应的 Cutebot 扩展库并添加。
-4. 再次打开 **扩展**，搜索 `planetX-AI`，添加 AI Lens Pro 所使用的扩展库。
-5. 添加完成后，在积木工具栏中找到 Cutebot 和 AI 视觉相关积木。
+1. 打开 [MakeCode 网站](https://makecode.microbit.org/)，新建“AI 视觉巡线小车”项目。
+2. 在 **扩展（Extensions）** 中搜索 `planetX-AI`，添加 AI Lens Pro 扩展库。
+3. 再搜索 `cutebot`，添加 Cutebot 扩展库。
+4. 在工具栏中找到 **AI Lens Pro** 的基础设置、巡线识别积木，以及 Cutebot 的左右轮速度控制积木。
 
 <!-- 图片占位：MakeCode 新建项目页面 -->
 
 <!-- 图片占位：添加 cutebot 扩展库 -->
 
 <!-- 图片占位：添加 planetX-AI 扩展库 -->
+
 ## 积木使用方法
 
 ### 1. 读取黑线偏移信息

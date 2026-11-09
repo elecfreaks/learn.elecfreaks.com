@@ -42,9 +42,11 @@ sidebar_label: 表情识别
 
 ## 软件准备
 
+本案例使用 **Microsoft MakeCode** 图形化编程平台。
+
 1. 打开 [MakeCode 网站](https://makecode.microbit.org/)，新建“AI 表情互动镜”项目。
-2. 在 **扩展（Extensions）** 中搜索并添加 `planetX-AI`。
-3. 找到 AI Lens Pro 的表情识别积木，以及 micro:bit 的显示图标、清屏积木。
+2. 在 **扩展（Extensions）** 中搜索 `planetX-AI`，添加 AI Lens Pro 扩展库。
+3. 在工具栏中找到 **AI Lens Pro** 的基础设置、表情识别积木，以及 micro:bit 的显示图标和清屏积木。
 
 ## 积木使用方法
 

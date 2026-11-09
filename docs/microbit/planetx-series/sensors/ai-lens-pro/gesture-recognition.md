@@ -44,9 +44,13 @@ sidebar_label: 手势识别
 
 ## 软件准备
 
+本案例使用 **Microsoft MakeCode** 图形化编程平台。
+
 1. 打开 [MakeCode 网站](https://makecode.microbit.org/)，新建“AI 手势指挥小车”项目。
-2. 在 **扩展（Extensions）** 中添加 AI Lens Pro 扩展 `https://github.com/elecfreaks/pxt-planetx-ai` 和 Nezha2 扩展 `https://github.com/elecfreaks/pxt-nezha2`。
-3. 在设备上为四种不同手势分别保存名称“前进”“左转”“右转”“停止”，程序中的名称须与保存名称一致。
+2. 在 **扩展（Extensions）** 中搜索 `planetX-AI`，添加 AI Lens Pro 扩展库。
+3. 再搜索 `nezha2`，添加哪吒 Pro 扩展库；参考程序使用 `pxt-nezha2`。
+4. 在工具栏中找到 **AI Lens Pro** 的基础设置、手势识别积木，以及 Nezha2 的双轮联动积木。
+5. 在设备上为四种不同手势分别保存名称“前进”“左转”“右转”“停止”，程序中的名称须与保存名称一致。
 
 <!-- 图片占位：四种手势的学习、命名与保存界面 -->
 

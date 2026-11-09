@@ -43,9 +43,11 @@ Tracking follows changes in the selected target's position. A missing target pro
 
 ## Software Setup
 
-1. Open [MakeCode](https://makecode.microbit.org/) and create an “AI Target Position Indicator” project.
-2. Add `planetX-AI` through **Extensions**.
-3. Find the object tracking, button event, and LED display blocks.
+This project uses **Microsoft MakeCode** for block-based programming.
+
+1. Open [MakeCode](https://makecode.microbit.org/) and create a project named “AI Target Position Indicator.”
+2. In **Extensions**, search for `planetX-AI` and add the AI Lens Pro extension.
+3. In the toolbox, find the **AI Lens Pro** Basic Settings and object tracking blocks, and the micro:bit button event and LED display blocks.
 
 ## Using the Blocks
 

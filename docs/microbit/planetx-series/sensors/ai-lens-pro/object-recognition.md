@@ -43,9 +43,12 @@ sidebar_label: 物体识别
 
 ## 软件准备
 
+本案例使用 **Microsoft MakeCode** 图形化编程平台。
+
 1. 打开 [MakeCode 网站](https://makecode.microbit.org/)，新建“AI 桌面物品检查员”项目。
-2. 在 **扩展（Extensions）** 中添加 `planetX-AI`。
-3. 找到物体识别、LED 显示和串口积木。下载并连接设备后，在支持 WebUSB 的浏览器中打开 MakeCode 的设备数据查看功能。
+2. 在 **扩展（Extensions）** 中搜索 `planetX-AI`，添加 AI Lens Pro 扩展库。
+3. 在工具栏中找到 **AI Lens Pro** 的基础设置、物体识别积木，以及 micro:bit 的 LED 显示和串口积木。
+4. 下载并连接设备后，在支持 WebUSB 的浏览器中打开 MakeCode 的设备数据查看功能。
 
 ## 积木使用方法
 

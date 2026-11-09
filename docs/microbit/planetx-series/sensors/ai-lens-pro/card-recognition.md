@@ -43,9 +43,13 @@ sidebar_label: 卡片识别
 
 ## 软件准备
 
+本案例使用 **Microsoft MakeCode** 图形化编程平台。
+
 1. 打开 [MakeCode 网站](https://makecode.microbit.org/)，新建“AI 交通卡片指挥车”项目。
-2. 在 **扩展（Extensions）** 中添加 AI Lens Pro 扩展 `https://github.com/elecfreaks/pxt-planetx-ai` 和 Nezha2 扩展 `https://github.com/elecfreaks/pxt-nezha2`。
-3. 找到卡片识别中的交通符号判断积木，不要与普通物体识别混用。
+2. 在 **扩展（Extensions）** 中搜索 `planetX-AI`，添加 AI Lens Pro 扩展库。
+3. 再搜索 `nezha2`，添加哪吒 Pro 扩展库；参考程序使用 `pxt-nezha2`。
+4. 在工具栏中找到 **AI Lens Pro** 的基础设置、卡片识别中的交通符号判断积木，以及 Nezha2 的双轮联动积木。
+5. 找到交通符号卡片判断积木后，注意不要与普通物体识别积木混用。
 
 ## 积木使用方法
 

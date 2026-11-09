@@ -42,9 +42,11 @@ The project records first, analyzes next, and then flashes at the average tempo.
 
 ## Software Setup
 
-1. Open [MakeCode](https://makecode.microbit.org/) and create an “AI Rhythm Flasher” project.
-2. Add `planetX-AI` through **Extensions**.
-3. Find rhythm recognition, button events, running time, math, and LED display blocks.
+This project uses **Microsoft MakeCode** for block-based programming.
+
+1. Open [MakeCode](https://makecode.microbit.org/) and create a project named “AI Rhythm Flasher.”
+2. In **Extensions**, search for `planetX-AI` and add the AI Lens Pro extension.
+3. In the toolbox, find the **AI Lens Pro** Basic Settings and rhythm recognition blocks, and the micro:bit button event, running time, math, and LED display blocks.
 
 ## Using the Blocks
 

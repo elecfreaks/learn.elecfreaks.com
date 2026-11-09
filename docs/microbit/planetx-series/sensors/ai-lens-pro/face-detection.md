@@ -47,9 +47,12 @@ sidebar_label: 人脸检测
 
 ## 软件准备
 
+本案例使用 **Microsoft MakeCode** 图形化编程平台。
+
 1. 打开 [MakeCode 网站](https://makecode.microbit.org/)，新建“AI 人脸追踪云台”项目。
-2. 在 **扩展（Extensions）** 中添加 `planetX-AI` 和 `nezha pro`；参考程序的电机库为 `pxt-nezha2`。
-3. 找到人脸识别、刷新图像、电机启动和停止积木。
+2. 在 **扩展（Extensions）** 中搜索 `planetX-AI`，添加 AI Lens Pro 扩展库。
+3. 再搜索 `nezha2`，添加哪吒 Pro 扩展库；参考程序使用 `pxt-nezha2`。
+4. 在工具栏中找到 **AI Lens Pro** 的基础设置、人脸识别、刷新图像积木，以及哪吒 Pro 的电机启动和停止积木。
 
 <!-- 图片占位：人脸识别与哪吒 Pro 电机积木分类 -->
 

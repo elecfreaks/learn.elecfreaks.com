@@ -43,9 +43,11 @@ These are ordinary text signs for OCR testing, rather than the supplied traffic 
 
 ## Software Setup
 
-1. Open [MakeCode](https://makecode.microbit.org/) and create an “AI Text Command Display” project.
-2. Add `planetX-AI` through **Extensions**.
-3. Find the OCR, text comparison, serial, and LED pattern blocks.
+This project uses **Microsoft MakeCode** for block-based programming.
+
+1. Open [MakeCode](https://makecode.microbit.org/) and create a project named “AI Text Command Display.”
+2. In **Extensions**, search for `planetX-AI` and add the AI Lens Pro extension.
+3. In the toolbox, find the **AI Lens Pro** Basic Settings and OCR blocks, and the micro:bit text comparison, serial, and LED pattern blocks.
 4. After downloading and connecting the device, open MakeCode's device data viewer to observe the raw OCR text.
 
 ## Using the Blocks

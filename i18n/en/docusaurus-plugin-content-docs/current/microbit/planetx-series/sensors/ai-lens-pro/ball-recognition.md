@@ -62,7 +62,7 @@ Use **MicroBlocks** for this project. For connection, firmware, and project stor
 
 1. Open [MicroBlocks](https://microblocksfun.cn/run/microblocks.html) and create a “Ball Search and Pickup” project.
 2. Connect the computer to Nezha ESP32 with a USB Type-C data cable and select the device in the platform.
-3. In **Add Library**, find the ELECFREAKS **Nezha ESP32 onboard sensor and motion control** blocks and the PlanetX **AI Lens Pro** library.
+3. In **Add Library**, find the ELECFREAKS **Work in Progress-Nezha-Nezha ESP32** blocks,**Work in Progress-Nezha-Nezha ESP32 Motor** Blocks and the PlanetX **Work in Progress-Nezha-PlanetX-Planet X AI Lens Pro** library.
 4. Check that the installed libraries provide frame refresh, ball detection, target X and size, M1–M3 speed control, M3 angle control, and angle feedback.
 5. Test ball data reading, low-speed wheel movement, and gripper opening/closing separately before combining them.
 

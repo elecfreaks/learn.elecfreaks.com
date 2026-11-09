@@ -43,9 +43,11 @@ sidebar_label: 光学字符识别
 
 ## 软件准备
 
+本案例使用 **Microsoft MakeCode** 图形化编程平台。
+
 1. 打开 [MakeCode 网站](https://makecode.microbit.org/)，新建“AI 文字口令提示牌”项目。
-2. 在 **扩展（Extensions）** 中添加 `planetX-AI`。
-3. 找到 OCR、文本比较、串口与 LED 图案积木。
+2. 在 **扩展（Extensions）** 中搜索 `planetX-AI`，添加 AI Lens Pro 扩展库。
+3. 在工具栏中找到 **AI Lens Pro** 的基础设置、OCR 积木，以及 micro:bit 的文本比较、串口与 LED 图案积木。
 4. 下载并连接设备后，打开 MakeCode 的设备数据查看功能，观察 OCR 原始文字。
 
 ## 积木使用方法

@@ -42,9 +42,11 @@ First match expressions to patterns, then add repeated confirmation to make the 
 
 ## Software Setup
 
-1. Open [MakeCode](https://makecode.microbit.org/) and create an “AI Expression Mirror” project.
-2. Add `planetX-AI` through **Extensions**.
-3. Find the AI Lens Pro expression recognition blocks and the micro:bit show icon and clear screen blocks.
+This project uses **Microsoft MakeCode** for block-based programming.
+
+1. Open [MakeCode](https://makecode.microbit.org/) and create a project named “AI Expression Mirror.”
+2. In **Extensions**, search for `planetX-AI` and add the AI Lens Pro extension.
+3. In the toolbox, find the **AI Lens Pro** Basic Settings and expression recognition blocks, and the micro:bit show icon and clear screen blocks.
 
 ## Using the Blocks
 

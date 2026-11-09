@@ -43,9 +43,13 @@ Show one card at a time. The car continuously follows the currently visible card
 
 ## Software Setup
 
-1. Open [MakeCode](https://makecode.microbit.org/) and create an “AI Traffic Card Command Car” project.
-2. Add the AI Lens Pro extension `https://github.com/elecfreaks/pxt-planetx-ai` and Nezha2 extension `https://github.com/elecfreaks/pxt-nezha2` through **Extensions**.
-3. Find the traffic sign conditions in Card Recognition; do not confuse them with general Object Recognition.
+This project uses **Microsoft MakeCode** for block-based programming.
+
+1. Open [MakeCode](https://makecode.microbit.org/) and create a project named “AI Traffic Card Command Car.”
+2. In **Extensions**, search for `planetX-AI` and add the AI Lens Pro extension.
+3. Search for `nezha2` and add the Nezha Pro extension. The reference program uses `pxt-nezha2`.
+4. In the toolbox, find the **AI Lens Pro** Basic Settings and Card Recognition traffic sign blocks, and the Nezha2 combined wheel blocks.
+5. Do not confuse traffic sign card conditions with general Object Recognition conditions.
 
 ## Using the Blocks
 

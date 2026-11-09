@@ -53,7 +53,7 @@ sidebar_label: 颜色识别
 
 1. 打开 [MakeCode 网站](https://makecode.microbit.org/)，新建“AI 颜色分拣台”项目。
 2. 在 **扩展（Extensions）** 中搜索 `planetX-AI`，添加 AI Lens Pro 扩展库。
-3. 再搜索 `nezha pro`，添加哪吒 Pro 扩展库；参考程序使用 `pxt-nezha2`。
+3. 再搜索 `nezha2`，添加哪吒 Pro 扩展库；参考程序使用 `pxt-nezha2`。
 4. 在工具栏中找到 **AI Lens Pro** 的基础设置、颜色识别积木，以及哪吒 Pro 的电机控制积木。
 
 <!-- 图片占位：添加 planetX-AI 和哪吒 Pro 扩展库 -->

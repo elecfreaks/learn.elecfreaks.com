@@ -46,16 +46,17 @@ You will build two programs: a beginner version that checks the line direction a
 
 ## Software Setup
 
-We will use **Microsoft MakeCode** for block-based programming.
+This project uses **Microsoft MakeCode** for block-based programming.
 
-1. Open [MakeCode](https://makecode.microbit.org/) and create a **New Project**.
-2. Select **Extensions** from the toolbox.
+1. Open [MakeCode](https://makecode.microbit.org/) and create a project named “AI Visual Line-Following Car.”
+2. In **Extensions**, search for `planetX-AI` and add the AI Lens Pro extension.
 3. Search for `cutebot` and add the Cutebot extension.
-4. Open **Extensions** again. Search for `planetX-AI` and add the AI Lens Pro extension.
-5. Find the Cutebot and AI Lens Pro blocks in the toolbox.
+4. In the toolbox, find the **AI Lens Pro** Basic Settings and line recognition blocks, and the Cutebot left/right wheel speed blocks.
 
 <!-- Image placeholder: New Project in MakeCode -->
+
 <!-- Image placeholder: adding the cutebot extension -->
+
 <!-- Image placeholder: adding the planetX-AI extension -->
 
 ## Using the Blocks

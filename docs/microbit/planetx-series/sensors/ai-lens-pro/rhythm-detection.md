@@ -156,6 +156,8 @@ sidebar_label: 节奏检测
 
 相同设置下，较慢的录音产生较长的闪烁周期，较快的录音产生较短的周期；结果无效或等待超时时显示叉号。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-rhythmdetection-01.gif)
+
 <!-- 视频占位：不同 BPM 录音与 LED 闪烁对比演示 -->
 
 ## 学习衔接

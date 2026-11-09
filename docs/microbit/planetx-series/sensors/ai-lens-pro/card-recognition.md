@@ -148,6 +148,8 @@ sidebar_label: 卡片识别
 
 小车根据交通卡片前进或转向；出现停止卡片或移走卡片时停车。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-cardrecognition-01.gif)
+
 <!-- 视频占位：交通卡片控制与撤卡停车演示 -->
 
 ## 学习衔接

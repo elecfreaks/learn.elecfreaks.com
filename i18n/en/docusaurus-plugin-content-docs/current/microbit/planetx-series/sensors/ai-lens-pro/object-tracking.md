@@ -150,6 +150,8 @@ Forever
 
 The LED display indicates when the target is on the left, in the center, or on the right. Moving it out of frame produces a lost-target prompt; stopping tracking clears the screen.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-objecttracking-01.gif)
+
 <!-- Video placeholder: selection, horizontal tracking, loss, and reselection -->
 
 ## Learning Connections

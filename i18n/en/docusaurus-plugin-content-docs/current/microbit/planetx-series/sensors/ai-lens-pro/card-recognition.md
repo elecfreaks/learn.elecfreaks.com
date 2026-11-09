@@ -126,6 +126,8 @@ Forever
 
 The car moves forward or turns according to the traffic card. A Stop card or removing the card stops the car.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-cardrecognition-01.gif)
+
 <!-- Video placeholder: card commands and stopping after card removal -->
 
 ## Learning Connections

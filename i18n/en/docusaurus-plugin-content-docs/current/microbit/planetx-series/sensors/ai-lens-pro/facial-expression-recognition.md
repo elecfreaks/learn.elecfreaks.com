@@ -135,6 +135,7 @@ Forever
 
 When the participant smiles, the LED matrix shows a happy face. A sad classification shows a sad face, and other results show a diamond. The screen clears when no one is in view.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-facialexpressionrecognition-01.gif)
 <!-- Video placeholder: expressions and LED responses -->
 
 ## Learning Connections

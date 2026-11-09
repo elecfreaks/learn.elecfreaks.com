@@ -157,6 +157,8 @@ Forever
 
 The car moves forward or turns according to learned gestures. A Stop gesture, removing the hand, or pressing B stops the car.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-gesturerecognition-01.gif)
+
 <!-- Video placeholder: four gesture commands and stopping on gesture loss -->
 
 ## Learning Connections

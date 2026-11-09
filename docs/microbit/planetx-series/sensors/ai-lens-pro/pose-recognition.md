@@ -145,6 +145,8 @@ sidebar_label: 姿态识别
 
 每完成一次“放下—举手”动作，次数增加一。持续举手不重复计数，离开画面后需要重新确认放下状态。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-poserecognition-01.gif)
+
 <!-- 视频占位：举手计数、保持动作与清零演示 -->
 
 ## 学习衔接

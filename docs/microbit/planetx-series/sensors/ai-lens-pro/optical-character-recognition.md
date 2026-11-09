@@ -141,6 +141,8 @@ sidebar_label: 光学字符识别
 
 摄像头读出 GO 或 STOP 后，micro:bit 显示对应图案；陌生文字显示问号，撤走文字纸牌后清屏。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-opticalcharacterrecognition-01.gif)
+
 <!-- 视频占位：OCR 原始文字与口令图案对照演示 -->
 
 ## 学习衔接

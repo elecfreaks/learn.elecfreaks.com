@@ -133,7 +133,7 @@ Forever
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_gRP0JP78f4UY"
+        src="https://makecode.microbit.org/_CAJd9JhTE5HK"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -144,7 +144,7 @@ Forever
     />
 </div>
 
-[Open the Model Classification Assistant MakeCode blocks](https://makecode.microbit.org/_gRP0JP78f4UY)
+[Open the Model Classification Assistant MakeCode blocks](https://makecode.microbit.org/_CAJd9JhTE5HK)
 
 **Program Notes:** The 1000 ms pause is a starting point for testing, not a guaranteed learning duration. Confirm completion on the device before continuing. If necessary, increase the pause based on measurements or use a completion-status block available in your version. Confidence indicates model similarity and does not guarantee a correct category.
 
@@ -157,6 +157,8 @@ Forever
 ## Demonstration
 
 After learning two models, the device displays 1 or 2 for results meeting the threshold. Lower-confidence results show a question mark; no valid result clears the screen.
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-selflearningclassification-01.gif)
 
 <!-- Video placeholder: learning two categories, testing angles, and adding samples -->
 

@@ -157,6 +157,8 @@ sidebar_label: 手势识别
 
 小车根据已学习手势前进或转向。做出停止手势、撤走手掌或按下 B 键时，小车停止。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-gesturerecognition-01.gif)
+
 <!-- 视频占位：四种手势控制及丢失手势停车演示 -->
 
 ## 学习衔接

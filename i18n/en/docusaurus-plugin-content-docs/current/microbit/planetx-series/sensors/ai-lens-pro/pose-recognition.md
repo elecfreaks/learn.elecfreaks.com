@@ -145,6 +145,8 @@ Forever
 
 Each completed lower-then-raise action adds one. Holding a hand up does not add more counts. After leaving the frame, the participant must confirm the lowered state again.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-poserecognition-01.gif)
+
 <!-- Video placeholder: counting, holding the pose, and resetting -->
 
 ## Learning Connections

@@ -140,6 +140,8 @@ sidebar_label: 物体识别
 
 展示鼠标时显示 M，展示键盘时显示 K，其他支持的物品显示 O。串口持续输出中心目标名称与数量，移走物品后清屏。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-objectrecognition-01.gif)
+
 <!-- 视频占位：单物品与多物品识别对比演示 -->
 
 ## 学习衔接

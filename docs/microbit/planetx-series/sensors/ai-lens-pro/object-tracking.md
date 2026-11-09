@@ -150,6 +150,8 @@ A 键选择当前框内目标，B 键停止。主循环仅刷新并读取追踪�
 
 目标移动到画面左侧、中央和右侧时，LED 显示对应提示。移出画面后显示丢失提示，停止追踪后清屏。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-objecttracking-01.gif)
+
 <!-- 视频占位：目标选择、左右追踪、丢失与重新选择演示 -->
 
 ## 学习衔接

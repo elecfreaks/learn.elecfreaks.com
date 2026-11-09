@@ -135,6 +135,8 @@ sidebar_label: 表情识别
 
 体验者微笑时，LED 矩阵亮起笑脸；识别为悲伤时显示哭脸，其他结果显示菱形。镜头前无人时清屏。
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-facialexpressionrecognition-01.gif)
+
 <!-- 视频占位：不同表情与 LED 图案互动演示 -->
 
 ## 学习衔接

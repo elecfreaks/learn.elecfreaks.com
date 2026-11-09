@@ -156,6 +156,8 @@ Forever
 
 With the same setup, a slower recording produces a longer flash period and a faster recording produces a shorter one. Invalid results or waiting timeouts produce a cross.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-rhythmdetection-01.gif)
+
 <!-- Video placeholder: recordings at different BPM values and flash comparisons -->
 
 ## Learning Connections

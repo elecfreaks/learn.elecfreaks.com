@@ -140,6 +140,8 @@ Forever
 
 A mouse produces M, a keyboard produces K, and other supported objects produce O. Serial output shows the central target's name and count. Remove the objects to clear the screen.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-objectrecognition-01.gif)
+
 <!-- Video placeholder: single-object and multiple-object comparisons -->
 
 ## Learning Connections

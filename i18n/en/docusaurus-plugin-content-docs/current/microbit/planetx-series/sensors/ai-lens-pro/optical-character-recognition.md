@@ -141,6 +141,8 @@ Forever
 
 Recognizing GO or STOP displays the corresponding pattern. Unfamiliar text displays a question mark, and removing the sign clears the screen.
 
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-opticalcharacterrecognition-01.gif)
+
 <!-- Video placeholder: raw OCR text and corresponding patterns -->
 
 ## Learning Connections

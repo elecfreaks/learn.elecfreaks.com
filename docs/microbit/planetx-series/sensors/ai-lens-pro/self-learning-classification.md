@@ -133,7 +133,7 @@ A 键学习当前模型为 ID 1，B 键学习为 ID 2；学习时短暂暂停识
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_gRP0JP78f4UY"
+        src="https://makecode.microbit.org/_CAJd9JhTE5HK"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{
@@ -144,7 +144,7 @@ A 键学习当前模型为 ID 1，B 键学习为 ID 2；学习时短暂暂停识
     />
 </div>
 
-[打开积木分类助手 MakeCode 积木程序](https://makecode.microbit.org/_gRP0JP78f4UY)
+[打开积木分类助手 MakeCode 积木程序](https://makecode.microbit.org/_CAJd9JhTE5HK)
 
 **程序说明：** 示例用 1000 毫秒作为学习等待的调试起点，并非保证学习完成的固定时长。应在设备上确认学习完成后再操作；若等待不足，应按实测延长，或改用当前版本提供的完成状态判断。置信度只是模型相似程度的参考，不能保证类别一定正确。
 
@@ -157,6 +157,9 @@ A 键学习当前模型为 ID 1，B 键学习为 ID 2；学习时短暂暂停识
 ## 效果演示
 
 摄像头学习两类模型后，对满足阈值的结果显示 1 或 2。低置信度结果显示问号，无有效结果时清屏。
+
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-selflearningclassification-01.gif)
+
 
 <!-- 视频占位：两类模型学习、多角度测试与补充样本演示 -->
 

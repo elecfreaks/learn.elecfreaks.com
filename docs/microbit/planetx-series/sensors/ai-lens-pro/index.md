@@ -25,8 +25,8 @@ sidebar_label: AI摄像头Pro
 | 7 | 数据与状态 | [积木分类助手](./self-learning-classification.md) | 类别 ID、采样、置信度与测试 |
 | 8 | 数据与状态 | [举手计数器](./pose-recognition.md) | 变量计数、状态变化与连续确认 |
 | 9 | 数据与状态 | [节奏闪光器](./rhythm-detection.md) | 数值换算、计时与任务状态 |
-| 10 | 运动控制 | [交通卡片指挥车](./card-recognition.md) | 离散指令、差速转向与停车分支 |
-| 11 | 运动控制 | [手势指挥小车](./gesture-recognition.md) | 学习手势、名称匹配与指令丢失停车 |
+| 10 | 运动控制 | [交通卡片指挥车](./card-recognition.md) | 离散指令、Nezha2 双轮联动与停车分支 |
+| 11 | 运动控制 | [手势指挥小车](./gesture-recognition.md) | 学习手势、复用双轮联动与指令丢失停车 |
 | 12 | 运动控制 | [人脸追踪云台](./face-detection.md) | 双轴坐标误差、分档控制与限位 |
 | 13 | 运动控制 | [颜色分拣台](./color-recognition.md) | 定角度动作、任务锁定与机构复位 |
 | 14 | 运动控制 | [视觉巡线小车](./line-following.md) | 位置与角度融合、转向系数与调参 |

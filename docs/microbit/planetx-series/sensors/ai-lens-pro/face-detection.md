@@ -96,7 +96,7 @@ sidebar_label: 人脸检测
 
 ### 程序搭建
 
-可以打开已有的 [人脸追踪云台 MakeCode 参考程序](https://makecode.microbit.org/_167gxtLXVfkv)。原程序使用中心坐标约为 (160, 120) 的阈值，且没有“未检测到人脸时停止”的分支。使用时应先核对设备返回的坐标尺度，并补充停止和限位逻辑。
+可以打开已有的 [人脸追踪云台 MakeCode 参考程序](https://makecode.microbit.org/_2CoLq54m89Ym)。原程序使用中心坐标约为 (160, 120) 的阈值，且没有“未检测到人脸时停止”的分支。使用时应先核对设备返回的坐标尺度，并补充停止和限位逻辑。
 
 下面是建议的积木搭建逻辑：
 
@@ -120,6 +120,30 @@ sidebar_label: 人脸检测
         停止 M1、M2
     等待 50 毫秒
 ```
+
+
+
+### 示例程序
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_2CoLq54m89Ym"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
+
 
 <!-- 图片占位：含人脸丢失停止与限位处理的完整积木程序图 -->
 

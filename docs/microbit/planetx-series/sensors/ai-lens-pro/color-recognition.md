@@ -92,7 +92,7 @@ sidebar_label: 颜色识别
 
 ### 程序搭建
 
-打开已有的 [颜色分拣台 MakeCode 参考程序](https://makecode.microbit.org/_ewM6y56YCb0v)。参考程序启动时还会让 M1 顺时针转动 40°，等待 1 秒后重置 M1、M2 的相对角度；请先确认该初始动作适合自己的机构。
+打开已有的 [颜色分拣台 MakeCode 参考程序](https://makecode.microbit.org/_WMyTE98j7T9v)。参考程序启动时还会让 M1 顺时针转动 40°，等待 1 秒后重置 M1、M2 的相对角度；请先确认该初始动作适合自己的机构。
 
 建议在参考程序的颜色识别功能切换之后，明确添加“切换识别模式为标准颜色识别”。下面是用于理解和搭建的程序逻辑：
 
@@ -122,6 +122,27 @@ sidebar_label: 颜色识别
         设置 任务开始 = 0
     等待 100 毫秒
 ```
+
+### 示例程序
+
+<div
+    style={{
+        position: 'relative',
+        paddingBottom: '60%',
+        overflow: 'hidden',
+    }}
+>
+    <iframe
+        src="https://makecode.microbit.org/_WMyTE98j7T9v"
+        frameborder="0"
+        sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+        style={{
+            position: 'absolute',
+            width: '100%',
+            height: '100%',
+        }}
+    />
+</div>
 
 <!-- 图片占位：颜色分拣台完整 MakeCode 积木程序图 -->
 

@@ -24,8 +24,8 @@ Younger learners can explore observation and recognition feedback with teacher g
 | 7 | Data and states | [Model Classification Assistant](./self-learning-classification.md) | Category IDs, samples, confidence, and testing |
 | 8 | Data and states | [Raised-Hand Counter](./pose-recognition.md) | Counting, state changes, and consecutive confirmation |
 | 9 | Data and states | [Rhythm Flasher](./rhythm-detection.md) | Numeric conversion, timing, and task states |
-| 10 | Motion control | [Traffic Card Command Car](./card-recognition.md) | Discrete instructions, differential steering, and stop branches |
-| 11 | Motion control | [Gesture Command Car](./gesture-recognition.md) | Learning gestures, matching names, and stopping on command loss |
+| 10 | Motion control | [Traffic Card Command Car](./card-recognition.md) | Discrete instructions, Nezha2 combined wheel control, and stop branches |
+| 11 | Motion control | [Gesture Command Car](./gesture-recognition.md) | Learning gestures, reusing combined wheel blocks, and stopping on command loss |
 | 12 | Motion control | [Face-Tracking Pan-Tilt Camera](./face-detection.md) | Two-axis errors, stepped speeds, and travel limits |
 | 13 | Motion control | [Color Sorting Station](./color-recognition.md) | Fixed-angle actions, task locking, and returning to start |
 | 14 | Motion control | [Vision Line-Following Robot](./line-following.md) | Combining position and angle, steering values, and tuning |

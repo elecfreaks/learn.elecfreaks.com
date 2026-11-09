@@ -221,7 +221,7 @@ Place Cutebot on the black-line track and start the program. Watch how it change
 
 Complete the [Color Sorting Station](./color-recognition.md) first.
 
-Reuse differential steering from the Traffic Card Command Car and the position-error concept from the Target Position Indicator. Progress from direction conditions to a steering value, then plan a route to the search area for the integrated pickup mission.
+Apply the differential-steering idea from the Traffic Card Command Car and the position-error concept from the Target Position Indicator. Progress from direction conditions to a steering value, then plan a route to the search area for the integrated pickup mission. This lesson uses Cutebot's wheel-speed blocks. The Nezha2 motor-port setup and combined wheel blocks from the card lesson cannot be used directly on Cutebot.
 
 Next lesson: [Ball Search and Pickup Car](./ball-recognition.md).
 

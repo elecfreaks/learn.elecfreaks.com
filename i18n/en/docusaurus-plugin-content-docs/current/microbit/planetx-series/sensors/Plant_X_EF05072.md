@@ -40,7 +40,7 @@ In MakeCode, click "Advanced" in the code drawer to view more code options.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/sensor/planet-x-sensors/images/05001_04.png)
 
-To program the 4-channel line-tracking sensor, we need to add an extension library. Find "Extensions" at the bottom of the code drawer and click it. A dialog box will pop up; search for "PlanetX" and then click to download this code library.
+To program the Electromagnet, we need to add an extension library. Find "Extensions" at the bottom of the code drawer and click it. A dialog box will pop up; search for "PlanetX" and then click to download this code library.
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/images/05001_05.png)
 

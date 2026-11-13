@@ -128,7 +128,7 @@ sidebar_label: 案例二十一:摩托机器人
 
 按下按键A，摩托车向前行驶，按下按键B，摩托车停止行驶。
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/nezha-pro-sports-kit-case-21.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-21.gif)
 
 ## 总结分享
 

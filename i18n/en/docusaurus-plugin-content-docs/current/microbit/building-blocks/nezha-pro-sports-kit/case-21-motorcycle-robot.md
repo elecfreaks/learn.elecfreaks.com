@@ -128,7 +128,7 @@ Click **Download the program**
 
 Press button A to move the motorcycle forward, and press button B to stop.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/microbit-space-science-kit/images/nezha-pro-sports-kit-case-21.gif)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-21.gif)
 
 ## Summary and sharing
 

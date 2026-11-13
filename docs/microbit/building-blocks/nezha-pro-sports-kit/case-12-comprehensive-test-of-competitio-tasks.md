@@ -106,7 +106,7 @@ sidebar_label: 案例十二:比赛任务综合测试
 
 此程序比较复杂，请通过以下共享程序链接查看。
 
-程序链接:[https://makecode.microbit.org/_gif2bx60zehe](https://makecode.microbit.org/_gif2bx60zehe)
+程序链接:[https://makecode.microbit.org/_C1WM2oArxdDx](https://makecode.microbit.org/_C1WM2oArxdDx)
 
 你也可以通过以下网页直接下载程序。
 
@@ -118,7 +118,7 @@ sidebar_label: 案例十二:比赛任务综合测试
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_gif2bx60zehe"
+        src="https://makecode.microbit.org/_C1WM2oArxdDx"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

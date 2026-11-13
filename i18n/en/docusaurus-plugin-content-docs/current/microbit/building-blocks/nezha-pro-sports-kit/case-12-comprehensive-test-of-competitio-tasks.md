@@ -105,7 +105,7 @@ In the pop-up interface, enter **nezha pro** and click the search icon. Click it
 
 This program is relatively complex, please view it through the following shared program link.
 
-Program link: [https://makecode.microbit.org/_gif2bx60zehe](https://makecode.microbit.org/_gif2bx60zehe)
+Program link: [https://makecode.microbit.org/_C1WM2oArxdDx](https://makecode.microbit.org/_C1WM2oArxdDx)
 
 You can also download the program directly from the following webpage.
 
@@ -117,7 +117,7 @@ You can also download the program directly from the following webpage.
     }}
 >
     <iframe
-        src="https://makecode.microbit.org/_gif2bx60zehe"
+        src="https://makecode.microbit.org/_C1WM2oArxdDx"
         frameborder="0"
         sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
         style={{

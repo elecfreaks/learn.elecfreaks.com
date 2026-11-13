@@ -128,7 +128,7 @@ Click **Download the program**
 
 Press button A to move the motorcycle forward, and press button B to stop.
 
-![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-21.gif?x-oss-credential=LTAI5t9Taj8anqzPxLJSsS1x%2F20261113%2Fcn-hongkong%2Foss%2Faliyun_v4_request&x-oss-date=20261113T054757Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=c7c8506e63d215309f35efeda089f67f56ed6dd03324477ef8d7dd0979144aed)
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/building-blocks/nezha-pro-sports-kit/images/nezha-pro-sports-kit-case-21.gif)
 
 ## Summary and sharing
 

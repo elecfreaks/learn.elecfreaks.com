@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The air pump is an output module that moves air. It is ideal for creative projects involving balloon inflation, pneumatic mechanisms, and air circulation.
+The air pump is an output module that draws in air. When switched on, it pulls air in through its inlet to create negative pressure. It is suitable for creative projects such as air sampling, simple suction devices, and vacuum demonstrations. Connect the tube to the side where air needs to be drawn in; this module is not designed to blow air out or inflate balloons.
 
 ## Features
 
@@ -39,19 +39,19 @@ Click **Extensions** at the bottom of the toolbox. In the dialog that opens, sea
 
 ### Step 2
 
-In the **Planet X_Basic** category, open **Execute** and use the **Air Pump Module** block. Select the port used by the air pump, then choose whether to turn it on or off.
+In the **Planet X_Basic** category, open **Execute** and use the **Air Pump Module** block. Select the port used by the air pump, then choose whether to turn it on or off. When it is on, the pump draws in air.
 
 Click the **+** on the right of the block to show additional settings:
 
-- **Duration:** The time that the air pump runs after it is turned on, in milliseconds. It turns off automatically when this time elapses.
+- **Duration:** The time that the air pump draws in air after it is turned on, in milliseconds. It turns off automatically when this time elapses.
 - **Power:** The output power of the air pump, from 0 to 100%.
 
 ### Build the Program
 
 Add two **on button pressed** events:
 
-- In the **on button A pressed** event, add an **Air Pump Module J1 turn on** block. Set its duration to `1000` milliseconds and its power to `100%`.
-- In the **on button B pressed** event, add an **Air Pump Module J1 turn off** block.
+- In the **on button A pressed** event, add an **Air Pump Module J1 turn on** block. Set its duration to `1000` milliseconds and its power to `100%` so the pump draws in air for one second.
+- In the **on button B pressed** event, add an **Air Pump Module J1 turn off** block to stop drawing in air.
 
 ### Reference Program
 
@@ -80,7 +80,7 @@ You can also download and run the program directly from the embedded project bel
 
 ### Result
 
-Press button A to run the air pump at the selected power for one second; it stops automatically. Press button B to stop the air pump immediately.
+Press button A to draw in air at the selected power for one second; the pump stops automatically. Press button B to stop drawing in air immediately.
 
 ## Related Projects
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The air pump is an output module that draws in air. When switched on, it pulls air in through its inlet to create negative pressure. It is suitable for creative projects such as air sampling, simple suction devices, and vacuum demonstrations. Connect the tube to the side where air needs to be drawn in; this module is not designed to blow air out or inflate balloons.
+The air pump is an output module that draws in air. When switched on, it pulls air in through its inlet to create negative pressure. It is suitable for creative projects such as air sampling, simple suction devices, and vacuum demonstrations. Connect the tube to the side where air needs to be drawn in.
 
 ## Features
 

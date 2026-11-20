@@ -1,6 +1,6 @@
 ---
-sidebar_position: 1
-sidebar_label: JavaScript与PU机器人
+sidebar_position: 11
+sidebar_label: PU机器人与JavaScript
 ---
 
 # 用PU机器人学习JavaScript

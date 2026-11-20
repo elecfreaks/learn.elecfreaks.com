@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-07
 sidebar_position: 16
 sidebar_label: Case 7:Basic Variable Application – Flexible Control of Action Count and Rhythm
 ---

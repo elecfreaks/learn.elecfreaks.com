@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-09
 sidebar_position: 18
 sidebar_label: Case 9:Beat Following Programming – Robot Dancing with Music
 ---

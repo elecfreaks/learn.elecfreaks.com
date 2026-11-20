@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-12
 sidebar_position: 21
 sidebar_label: Case 12:Shy Little PU – Sensing Distance with Ultrasound
 ---

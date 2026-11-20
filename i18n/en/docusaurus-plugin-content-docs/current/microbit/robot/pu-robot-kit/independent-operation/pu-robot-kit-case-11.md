@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-11
 sidebar_position: 20
 sidebar_label: Case 11:Emotional Robot – Expressing "Moods" with Lights
 ---

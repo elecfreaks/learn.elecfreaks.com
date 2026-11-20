@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-08
 sidebar_position: 17
 sidebar_label: "Case 8: Introduction to Conditionals — Robot Obstacle Avoidance"
 ---

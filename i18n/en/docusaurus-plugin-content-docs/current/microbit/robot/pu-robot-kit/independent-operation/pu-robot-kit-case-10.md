@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-10
 sidebar_position: 19
 sidebar_label: Case 10:Comprehensive Lighting Programming – Cool Lights for the Robot
 ---

@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-04
 sidebar_position: 12
 sidebar_label: 案例四:动作顺序与延时优化
 ---

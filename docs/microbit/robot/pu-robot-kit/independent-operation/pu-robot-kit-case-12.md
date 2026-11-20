@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-12
 sidebar_position: 21
 sidebar_label: 案例十二：害羞的小PU——用超声波感知距离
 ---

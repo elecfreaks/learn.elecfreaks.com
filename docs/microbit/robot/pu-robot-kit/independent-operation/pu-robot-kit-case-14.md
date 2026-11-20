@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-14
 sidebar_position: 23
 sidebar_label: 案例十四：毕业项目——我的智能机器人
 ---

@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-13
 sidebar_position: 22
 sidebar_label: 案例十三：小心别撞墙——超声波精准“停车”挑战赛
 ---

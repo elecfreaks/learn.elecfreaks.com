@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-09
 sidebar_position: 18
 sidebar_label: 案例九：节奏跟随编程——机器人与音乐共舞
 ---

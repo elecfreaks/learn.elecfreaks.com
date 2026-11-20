@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-10
 sidebar_position: 19
 sidebar_label: 案例十：综合炫彩编程——让机器人拥有炫酷灯光
 ---

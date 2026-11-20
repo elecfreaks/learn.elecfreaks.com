@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-08
 sidebar_position: 17
 sidebar_label: 案例八：条件判断入门——机器人避障编程
 ---

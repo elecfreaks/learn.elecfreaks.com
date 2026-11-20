@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-05
 sidebar_position: 14
 sidebar_label: 案例五：循环模块编程——重复动作自动化
 ---

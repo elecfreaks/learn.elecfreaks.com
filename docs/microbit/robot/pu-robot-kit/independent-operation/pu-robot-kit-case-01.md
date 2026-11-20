@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-01
 sidebar_position: 9
 sidebar_label: 案例一:PU机器人基础动作模仿秀
 ---

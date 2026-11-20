@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-02
 sidebar_position: 10
 sidebar_label: 案例二:机器人行走挑战
 ---

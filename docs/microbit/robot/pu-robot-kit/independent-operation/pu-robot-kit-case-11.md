@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-11
 sidebar_position: 20
 sidebar_label: 案例十一：情绪机器人——用灯光表达机器人的"心情"
 ---

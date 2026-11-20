@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-06
 sidebar_position: 15
 sidebar_label: 案例六：组合动作编程——舞蹈机器人
 ---

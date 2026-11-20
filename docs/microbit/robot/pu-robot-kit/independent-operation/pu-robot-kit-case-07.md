@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-07
 sidebar_position: 16
 sidebar_label: 案例七：简单变量应用——灵活控制动作次数与节奏
 ---

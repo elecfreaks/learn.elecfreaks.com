@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-14
 sidebar_position: 23
 sidebar_label: Case 14:Graduation Project – My Intelligent Robot
 ---

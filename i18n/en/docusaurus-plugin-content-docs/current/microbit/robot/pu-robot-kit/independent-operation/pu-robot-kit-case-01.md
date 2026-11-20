@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-01
 sidebar_position: 9
 sidebar_label: Case 1:PU Robot Basic Action Imitation Show
 ---

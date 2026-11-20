@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-05
 sidebar_position: 14
 sidebar_label: Case 5:Loop Module Programming - Automating Repetitive Actions
 ---

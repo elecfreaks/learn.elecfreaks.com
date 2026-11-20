@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-02
 sidebar_position: 10
 sidebar_label: Case 2:Robot Walking Challenge
 ---

@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-06
 sidebar_position: 15
 sidebar_label: Case 6:Combined Action Programming – Dancing Robot
 ---

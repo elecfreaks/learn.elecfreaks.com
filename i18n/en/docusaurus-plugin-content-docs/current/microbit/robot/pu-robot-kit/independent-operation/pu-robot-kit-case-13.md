@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-13
 sidebar_position: 22
 sidebar_label: Case 13:Don’t Hit the Wall – Ultrasonic Precision Parking Challenge
 ---

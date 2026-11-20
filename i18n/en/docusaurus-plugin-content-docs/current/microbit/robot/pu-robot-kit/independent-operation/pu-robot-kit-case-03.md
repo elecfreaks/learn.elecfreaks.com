@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-03
 sidebar_position: 11
 sidebar_label: Case 3:Make the Robot "Obey Commands"
 ---

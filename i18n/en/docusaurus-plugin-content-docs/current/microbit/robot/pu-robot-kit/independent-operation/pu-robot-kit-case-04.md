@@ -1,4 +1,5 @@
 ---
+slug: /microbit/robot/pu-robot-kit/pu-robot-kit-case-04
 sidebar_position: 12
 sidebar_label: Case 4:Action Sequence and Delay Optimization
 ---

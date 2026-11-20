@@ -1,6 +1,6 @@
 ---
-sidebar_position: 1
-sidebar_label: JavaScript with PU Robot
+sidebar_position: 11
+sidebar_label: PU Robot and JavaScript
 ---
 
 # Learn JavaScript with PU Robot

@@ -15,6 +15,8 @@ It is able to play the music.
 
  Designed with RJ11 ports and easy to plug.
 
+ Built-in Flash storage eliminates the need for an external memory card.
+
 ## Specification
 
 
@@ -25,6 +27,7 @@ Connection|RJ11
 Connection Type|Digital input
 Working Voltage|3.3V
 Core IC|YX6300
+Flash Capacity|512 Mb
 
 
 ## Outlook and Dimension

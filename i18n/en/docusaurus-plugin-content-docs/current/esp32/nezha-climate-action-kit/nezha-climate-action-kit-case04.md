@@ -91,10 +91,6 @@ Onboard functions require no external wiring. For external modules, confirm comp
 
 Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
-:::note
-This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
-:::
-
 ### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
@@ -146,10 +142,10 @@ Repeat the following tasks in the `forever` loop:
 | --- | ---: | --- | --- |
 | Local sampling interval | To be verified on the device | May differ from the upload interval | Set according to observation needs |
 | Upload interval | To be verified on the device | Start with a lower frequency in class | Follow the platform's rate limits |
-| Fields and units | To be verified on the device | Do not label relative readings as lux or dB | Match each platform field explicitly |
+| Fields and units | To be verified on the device | Illuminance and noise values are rough estimates based on the component datasheet | Match each platform field and unit explicitly |
 
 :::note
-The controller collects data periodically, maps it to the configured platform fields, and sends it. The platform displays records by reception time. Use relative readings for light and sound, and specify the chosen axis and output meaning for orientation fields. Follow the actual SmartIoT tutorial and current extension library for account creation, connection methods, authentication parameters, and transmission rate limits.
+The controller collects data periodically, maps it to the configured platform fields, and sends it. The platform displays records by reception time. Illuminance (lx) and noise (dB) values are rough estimates based on the component datasheet and are suitable for observing trends and setting thresholds; specify the chosen axis and output meaning for orientation fields. Follow the actual SmartIoT tutorial and current extension library for account creation, connection methods, authentication parameters, and transmission rate limits.
 :::
 
 ## Test and Troubleshoot
@@ -222,3 +218,13 @@ A device can sample frequently while uploading less often. Set the two intervals
 ### Why Record Time and Data Status?
 
 The same value may have different meanings at different times. Recording time and whether data is valid, missing, or offline helps interpret graphs correctly and avoids treating missing data as zero.
+
+## FAQ
+
+### What Should I Do If the Device Cannot Connect to Wi-Fi?
+
+Check that the network name and password are correct and that a 2.4 GHz network is available. Move the device closer to the router and restart it. Do not expose network passwords or keys on public pages.
+
+### What Should I Do If No Data Appears on the Platform?
+
+First confirm that the device is connected to the network. Then check that the platform project, device identifier, and data fields match the program. Upload a fixed test value first to separate network issues from sensor-reading issues.

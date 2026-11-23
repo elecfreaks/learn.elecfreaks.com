@@ -8,7 +8,7 @@ sidebar_position: 3
 
 ## Project Introduction
 
-Conversations, footsteps, and vehicle sounds around a school change over time. This project uses the onboard microphone of **Nezha ESP32** to read relative sound levels, display sound status on screen, and provide a reminder when a threshold is exceeded. By collecting and comparing data and adjusting thresholds, students learn about sound sensing and conditional logic.
+Conversations, footsteps, and vehicle sounds around a school change over time. This project uses the onboard microphone of **Nezha ESP32** to read sound levels and estimate noise in dB from the component datasheet, display sound status on screen, and provide a reminder when a threshold is exceeded. By collecting and comparing data and adjusting thresholds, students learn about sound sensing and conditional logic.
 
 Students build, program, and test a model, then use their observations and recorded data to explain how it works. The project connects classroom science with engineering design and invites students to suggest improvements for their school or community.
 
@@ -34,7 +34,7 @@ Students build, program, and test a model, then use their observations and recor
 
 After completing this project, students will be able to:
 
-1. Read sound level data and distinguish relative readings from sound pressure level.
+1. Read sound-level data and understand the datasheet-based method used to estimate noise.
 2. Use conditional logic to classify readings into different states.
 3. Select an appropriate reminder method and assess its impact on the surroundings.
 4. Use test results to improve the design through a cycle of designing, programming, testing, and improving.
@@ -52,7 +52,7 @@ In this lesson, we will act as urban environment designers, build the Urban Nois
 Before building, discuss the following questions in groups:
 
 1. Will the same sound produce identical readings at near and far distances?
-2. Why should sensor readings not be labeled directly as decibels?
+2. Which factors affect the estimated noise value?
 3. Could the microphone detect the speaker's own reminder sound?
 4. What conditions and results will you record to check whether your design works as expected?
 5. What else would need to be tested before a design like this could be used outside the classroom?
@@ -91,10 +91,6 @@ Onboard functions require no external wiring. For external modules, confirm comp
 
 Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
-:::note
-This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
-:::
-
 ### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
@@ -113,7 +109,7 @@ Suggested controller screen layout:
 | Screen row | Display content |
 | ---: | --- |
 | Row 1 | Sound value |
-| Row 2 | Relative sound level |
+| Row 2 | Estimated noise level (dB) |
 | Row 3 | Operating status |
 | Row 4 | Normal / Please speak softly |
 
@@ -136,11 +132,11 @@ Repeat the following tasks in the `forever` loop:
 
 | Parameter | Example value | Meaning | Adjustment guidance |
 | --- | ---: | --- | --- |
-| Sound threshold | To be verified on the device | No universal fixed value; do not use unverified decibel units | Measure before choosing a threshold |
+| Sound threshold | To be verified on the device | Estimated noise varies with the environment, distance, and installation | Measure before choosing a threshold |
 | Reminder interval | To be verified on the device | Add a cooldown for audible reminders to reduce self-triggering | Adjust based on classroom results |
 
 :::note
-The microphone detects sound changes. The program reads the sound level value provided by the current programming environment and compares it with a threshold. It displays a reminder above the threshold and a normal status otherwise. This project does not assume that dual microphones support finding the direction of a sound source, and it does not label uncalibrated values as dB.
+The microphone detects sound changes. The program reads the sound-level value provided by the current programming environment, estimates it in dB from the component datasheet, and compares it with a threshold. It displays a reminder above the threshold and a normal status otherwise. The dual microphones are used to collect sound intensity; the estimate is suitable for classroom observation, comparison, and threshold setting.
 :::
 
 ## Test and Troubleshoot
@@ -161,7 +157,7 @@ If tapping the table produces abnormal readings, isolate the model from the vibr
 
 With a verified program running, the Urban Noise Monitor can demonstrate the following results:
 
-- The screen shows a relative sound reading and a normal or reminder status.
+- The screen shows an estimated noise level and a normal or reminder status.
 - Changing the distance to the same sound source produces readings that students can compare.
 - When the room becomes quiet again, the reminder clears without the device triggering itself.
 
@@ -206,10 +202,20 @@ Compare icons, lights, and audible reminders. Observe how effectively each metho
 
 Vibrating objects can produce sound. The microphone converts sound changes into electrical signals, and the program reads sound level data provided by the extension library.
 
-### Why Not Label Readings Directly as Decibels?
+### Why Can the Estimated Noise Level Change?
 
-Sound pressure level measurements require a defined reference, sample processing, and calibration. Classroom sound readings can be used to compare changes, but should not be treated directly as professional noise measurements.
+The dB value in this project is a rough estimate based on the component datasheet. Sound-source distance and direction, reflections, and background noise all affect the result, so compare readings under similar conditions and set thresholds for the actual environment.
 
 ### What Is Feedback Interference?
 
 The microphone may detect the device's own reminder sound. Using icons or lights, or adding intervals between audible reminders, can reduce continuous triggering.
+
+## FAQ
+
+### What Should I Do If the Sound Reading Is Always High or the Reminder Keeps Triggering?
+
+Move the device away from continuous sound sources such as speakers or fans, then check the reading again. If an audible reminder is used, switch to a screen or light indicator, or add an interval between reminder sounds.
+
+### Is It Normal for a Reading to Be Above Zero in a Quiet Place?
+
+Yes. Ambient background noise and the sensor itself both produce readings. Record the value in a quiet environment first, then use it to set the reminder threshold.

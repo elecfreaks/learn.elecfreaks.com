@@ -89,10 +89,6 @@ Onboard functions require no external wiring. For external modules, confirm comp
 
 Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
-:::note
-This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
-:::
-
 ### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
@@ -218,3 +214,13 @@ The controller's mounting direction affects orientation readings. Recording the 
 ### What Affects Tower Stability?
 
 Base width, center of gravity, and connection strength all affect stability. Change one structural condition at a time and use small-angle tests to compare improvements.
+
+## FAQ
+
+### What Should I Do If the Tower Reports a Tilt While Upright?
+
+Place the model on a level surface, keep it still, and record the upright reference value again. Also check that the controller is firmly mounted and that the program uses the orientation axis that matches its mounting direction.
+
+### What Should I Do If Tilting Does Not Trigger an Alarm?
+
+First display the orientation reading on screen to confirm that it changes as the model tilts. Then lower the threshold and test with a small tilt. Hold the model during testing to prevent it from falling.

@@ -34,7 +34,7 @@ Students build, program, and test a model, then use their observations and recor
 
 After completing this project, students will be able to:
 
-1. Set extension and retraction conditions using relative light readings.
+1. Set extension and retraction conditions using illuminance values roughly estimated from the component datasheet.
 2. Identify the motor type and its corresponding control method.
 3. Adjust mechanical travel so the shade moves within a safe range.
 4. Use test results to improve the design through a cycle of designing, programming, testing, and improving.
@@ -90,10 +90,6 @@ Onboard functions require no external wiring. For external modules, confirm comp
 
 Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
-:::note
-This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
-:::
-
 ### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
@@ -110,7 +106,7 @@ Suggested controller screen layout:
 | Screen row | Display content |
 | ---: | --- |
 | Row 1 | Light value |
-| Row 2 | Relative light value |
+| Row 2 | Estimated illuminance (lx) |
 | Row 3 | Operating status |
 | Row 4 | Shade extended / retracted |
 
@@ -137,12 +133,12 @@ Repeat the following tasks in the `forever` loop:
 
 | Parameter | Example value | Meaning | Adjustment guidance |
 | --- | ---: | --- | --- |
-| Light threshold | To be verified on the device | A relative value; do not label directly with illuminance units | Determine from classroom light and dark measurements |
+| Light threshold | To be verified on the device | Illuminance is roughly estimated from the component datasheet | Determine from classroom light and dark measurements |
 | Extended / retracted endpoints | To be verified on the device | Do not specify fixed angles before the actual program is available | Calibrate using the physical mechanism |
 | Movement speed | To be verified on the device | Avoid stalling and pinching | Start testing at low speed |
 
 :::note
-The program compares the light reading with a threshold and converts the result into a target state. The motor moves only when the target state changes, avoiding repeated driving in the loop. Angle, encoder, limit-switch, or timed control must be selected according to the actual motor and mechanism; control methods for different motor types must not be mixed.
+The program compares the illuminance value (lx), roughly estimated from the component datasheet, with a threshold and converts the result into a target state. The motor moves only when the target state changes, avoiding repeated driving in the loop. Angle, encoder, limit-switch, or timed control must be selected according to the actual motor and mechanism; control methods for different motor types must not be mixed.
 :::
 
 :::caution
@@ -219,3 +215,13 @@ Gears, linkages, and worm drives change the relationship between movements. Moto
 ### Why Confirm the Mechanical Zero Position?
 
 The programmed position must correspond to the model's actual starting point. Calibrating retracted and extended positions at low speed reduces impacts against stops and repeated stalling.
+
+## FAQ
+
+### What Should I Do If the Shade Cannot Fully Extend or Retract?
+
+Disconnect power and check the linkages, gears, and shade surface for obstructions. Then test extension and retraction separately at low speed. Reset the end positions to match the actual mechanical travel and avoid sustained motor stalling.
+
+### What Should I Do If the Shade Moves Repeatedly as the Light Changes?
+
+Use different light thresholds for extension and retraction, and ensure the shade does not block the sensor. If necessary, add a short sampling interval and drive the motor only when the target state changes.

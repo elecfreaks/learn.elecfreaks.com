@@ -96,10 +96,6 @@ Onboard functions require no external wiring. For external modules, confirm comp
 
 Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
-:::note
-This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
-:::
-
 ### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
@@ -149,13 +145,13 @@ Repeat the following tasks in the `forever` loop:
 
 | Parameter | Example value | Meaning | Adjustment guidance |
 | --- | ---: | --- | --- |
-| Temperature, light, water level, and orientation thresholds | To be verified on the device | Recalibrate after mechanical or mounting changes | Start from verified subprojects and measure again |
+| Temperature, illuminance, water-level, and orientation thresholds | To be verified on the device | Illuminance is roughly estimated from the component datasheet; recalibrate after mechanical or mounting changes | Start from verified subprojects and measure again |
 | Actuator priorities | To be verified on the device | Define rules for the final model and program | Warnings take priority over ordinary interactions, as a suggested approach |
 | Sampling, movement, and upload intervals | To be verified on the device | Stay within module and platform support | Set separately |
 | Motor targets and power configuration | To be verified on the device | Do not specify fixed ports or angles before verification | Confirm using the actual complete system |
 
 :::note
-The system first samples data, then updates each subtask's state, and finally applies coordinated outputs. Temperature controls the fan, light controls shading, water level and orientation provide warnings, RFID supports interaction counting, and air pressure supports trend records. Before full integration, verify port count, bus addresses, library support, and power capacity. If resources are insufficient, build in stages or split the system into cooperating stations; do not assume all hardware can connect simultaneously.
+The system first samples data, then updates each subtask's state, and finally applies coordinated outputs. Temperature controls the fan; illuminance (lx), roughly estimated from the component datasheet, controls shading; water level and orientation provide warnings; RFID supports interaction counting; and air pressure supports trend records. Before full integration, verify port count, bus addresses, library support, and power capacity. If resources are insufficient, build in stages or split the system into cooperating stations; do not assume all hardware can connect simultaneously.
 :::
 
 :::caution
@@ -238,3 +234,13 @@ A state records what the system is currently doing, while timing determines when
 ### Why Test System Integration Gradually?
 
 As module count increases, there may be too few connections, bus address conflicts, unstable power, or blocking code. Testing individual modules first and combining them gradually helps locate problems.
+
+## FAQ
+
+### What Should I Do If a Module Stops Working After Integration?
+
+Disconnect the other modules and use a separate test program to confirm that the module, wires, and connection work. Reconnect modules one at a time, checking for shared connections, bus address conflicts, and sufficient power.
+
+### What Should I Do If Actions Conflict When Several Functions Trigger at Once?
+
+Set one output point for each actuator in the program and define priorities. For example, a warning state should take priority over ordinary interaction. Test individual conditions, combined conditions, and recovery conditions in turn.

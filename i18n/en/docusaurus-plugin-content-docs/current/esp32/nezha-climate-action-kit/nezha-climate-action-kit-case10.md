@@ -118,7 +118,7 @@ Suggested controller screen layout:
 | Row 1 | `Temp:` |
 | Row 2 | Current temperature |
 | Row 3 | `Lux:` |
-| Row 4 | Current light value |
+| Row 4 | Current estimated illuminance |
 | Row 5 | `Low-Carbon Count` |
 | Row 6 | Total simulated travel check-ins |
 
@@ -138,10 +138,10 @@ The system continuously performs three tasks in the `forever` loop.
 
 #### Light-Controlled Shade
 
-- Read the controller's onboard light sensor;
-- When the light value is **greater than or equal to 5000**, rotate the M1 motor clockwise at 30% speed to the absolute angle `180°` to extend the shade;
-- When the light value is below 5000, rotate the M1 motor counterclockwise at 30% speed to the absolute angle `0°` to retract the shade;
-- Display the current light value on screen row 4.
+- Read the controller's onboard light sensor and roughly estimate illuminance from the component datasheet;
+- When the estimated illuminance is **greater than or equal to 5000 lx**, rotate the M1 motor clockwise at 30% speed to the absolute angle `180°` to extend the shade;
+- When the estimated illuminance is below 5000 lx, rotate the M1 motor counterclockwise at 30% speed to the absolute angle `0°` to retract the shade;
+- Display the current estimated illuminance on screen row 4.
 
 #### Record Low-Carbon Trips with RFID
 
@@ -154,14 +154,14 @@ The system continuously performs three tasks in the `forever` loop.
 | Parameter | Example value | Meaning | Adjustment guidance |
 | --- | ---: | --- | --- |
 | Temperature threshold | 26°C | Start the fan when this temperature is reached | Adjust within 25–30°C according to classroom temperature |
-| Light threshold | 5000 | Extend the shade when this value is reached | Observe local readings before choosing a suitable threshold |
+| Illuminance threshold | 5000 lx | Extend the shade when this estimated value is reached | Observe local readings before choosing a suitable threshold |
 | Motor speed | 30% | Shade movement speed | Excessive speed may shake the structure |
 | Extension angle | 180° | Shade's extended position | Calibrate according to the actual structure |
 | Retraction angle | 0° | Shade's initial position | Confirm the mechanical zero position before powering on |
 | Card scan wait time | 500 ms | Simply reduces the likelihood of duplicate counts | Remove the card promptly after scanning |
 
 :::note
-The light sensor returns a relative reading. The example screen label `Lux:` does not mean the value is calibrated illuminance in lux (lx). For a classroom version, change the label to `Light:` unless calibration and units have been confirmed. Record readings in dim and bright conditions before choosing a threshold.
+The illuminance value is a rough estimate from the controller light sensor's component datasheet and is displayed in lx. Keep the example screen label `Lux:`. Record readings in dim and bright conditions before choosing a threshold; light-source type, distance, and sensor orientation affect the estimate.
 :::
 
 :::caution
@@ -185,10 +185,10 @@ If extension and retraction directions are reversed, swap the motor directions i
 When running, the Smart Low-Carbon Bus Stop responds automatically to environmental changes:
 
 - At or above 26°C, the fan starts to demonstrate ventilation in the waiting area.
-- At or above a relative light reading of 5000, the motor extends the shade.
+- At or above an estimated illuminance of 5000 lx, the motor extends the shade.
 - Below the respective thresholds, the fan stops and the shade retracts.
 - A brief RFID scan increases the check-in count; a card held in place may still be counted again in this basic program.
-- The screen displays temperature, relative light readings, and the check-in count.
+- The screen displays temperature, estimated illuminance, and the check-in count.
 
 <!-- Image placeholder: project in operation or animated demonstration -->
 <!-- Suggested filename: ./images/smart-low-carbon-bus-stop-demo.gif -->
@@ -244,3 +244,13 @@ Smart systems usually contain three basic stages:
 3. **Act**: The fan, motor, and screen respond to the decision.
 
 The Smart Low-Carbon Bus Stop combines these stages in one model so students can see directly how data drives physical actions.
+
+## FAQ
+
+### What Should I Do If a Fan, Shade, or RFID Module Stops Responding When Used Together?
+
+Test each module with a separate program first to confirm its connection and power. Then combine functions one at a time. Check whether modules share a connection or whether insufficient power causes the controller to restart.
+
+### What Should I Do If the Shade or Fan Acts Repeatedly?
+
+Check sensor readings near the threshold. Use separate start and stop thresholds, and run the actuator only when the state changes, to reduce frequent switching.

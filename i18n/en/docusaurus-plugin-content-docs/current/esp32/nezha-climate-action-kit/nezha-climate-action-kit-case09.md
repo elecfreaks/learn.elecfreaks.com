@@ -91,10 +91,6 @@ Onboard functions require no external wiring. For external modules, confirm comp
 
 Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
-:::note
-This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
-:::
-
 ### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
@@ -214,3 +210,13 @@ Air pressure is the force exerted by air per unit area. It is affected by elevat
 ### Can Air Pressure Directly Predict the Weather?
 
 Continuous pressure changes can help observe weather trends, but should be considered alongside temperature, humidity, wind, and actual weather. A single reading cannot guarantee an accurate prediction.
+
+## FAQ
+
+### What Should I Do If Air-Pressure Values Differ by About a Factor of 100?
+
+Check that the program, platform field, and graph use the same unit. One hPa equals 100 Pa; confirm the unit first and then apply the same conversion everywhere.
+
+### What Should I Do If Records Are Missing or the Time Is Discontinuous?
+
+Check whether the device has stayed powered and whether the network or storage was interrupted. Mark failed readings or offline periods as missing data rather than replacing them with zero; continue recording after recovery.

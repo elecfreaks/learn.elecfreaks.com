@@ -91,10 +91,6 @@ Onboard functions require no external wiring. For external modules, confirm comp
 
 Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
-:::note
-This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
-:::
-
 ### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
@@ -216,3 +212,13 @@ A conditional decision selects an action based on input. For example, start the 
 ### What Is Hysteresis Control?
 
 Using different on and off thresholds reduces repeated switching near a boundary. For example, start at a higher temperature and stop at a lower one; verify the specific thresholds in the classroom environment.
+
+## FAQ
+
+### What Should I Do If the Fan Does Not Turn?
+
+Disconnect power first, then check that the fan module, wires, and output connection are secure. Confirm that the output connection in the program matches the physical connection. Reconnect power and test the fan separately with a simple start-and-stop program.
+
+### What Should I Do If the Fan Switches On and Off Repeatedly Near the Threshold?
+
+Set different temperatures for starting and stopping the fan, such as a higher temperature for starting and a lower one for stopping. You can also increase the sampling interval to reduce repeated triggering from short-term variations.

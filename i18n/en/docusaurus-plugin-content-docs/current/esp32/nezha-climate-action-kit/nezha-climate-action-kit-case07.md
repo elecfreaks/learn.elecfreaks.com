@@ -90,10 +90,6 @@ Onboard functions require no external wiring. For external modules, confirm comp
 
 Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
-:::note
-This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
-:::
-
 ### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
@@ -225,3 +221,13 @@ A looping program repeatedly reads card status. If a card stays in place, each r
 ### Does the Count Equal Carbon Reduction?
 
 Check-in counts are classroom activity records only. Calculating actual emissions reductions also requires travel distance, transport mode, and reasonable emissions factors; each scan cannot be treated as a fixed reduction.
+
+## FAQ
+
+### What Should I Do If a Card Does Not Respond?
+
+Confirm that the RFID module is connected and powered correctly. Hold a compatible card close to the reader area briefly. If it is still not recognized, use an example program to read the card separately and verify that its type is supported.
+
+### What Should I Do If One Card Is Counted More Than Once?
+
+Count only when card detection changes from absent to present. After counting, wait for the card to be removed before allowing another count. Do not leave the card on the reader.

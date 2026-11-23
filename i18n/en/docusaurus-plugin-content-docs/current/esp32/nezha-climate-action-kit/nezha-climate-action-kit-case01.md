@@ -29,7 +29,7 @@ Students build, program, and test a model, then use their observations and recor
 
 ## Learning Objectives
 
-**Relative reading:** a number used to compare brighter and darker conditions with the same device. It is not automatically a measurement in lux.
+**Estimated illuminance:** a value in lx, estimated from the component datasheet. It is useful for comparing brightness and setting classroom thresholds; light-source type, distance, angle, and sensor placement affect the estimate.
 
 After completing this project, students will be able to:
 
@@ -89,10 +89,6 @@ Onboard functions require no external wiring. For external modules, confirm comp
 
 Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
-:::note
-This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
-:::
-
 ### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
@@ -109,7 +105,7 @@ Suggested controller screen layout:
 | Screen row | Display content |
 | ---: | --- |
 | Row 1 | Light reading |
-| Row 2 | Relative light value |
+| Row 2 | Estimated illuminance (lx) |
 | Row 3 | Operating status |
 | Row 4 | Brightness level |
 
@@ -136,7 +132,7 @@ Repeat the following tasks in the `forever` loop:
 | Number of measurements | To be verified on the device | Keep height and orientation consistent | At least 3 measurements per location |
 
 :::note
-The light sensor converts changes in ambient brightness into readable data. The program repeatedly reads the value, stores it in a variable, and updates the screen for continuous observation. Treat these light readings as relative values. Unless the module documentation and calibration confirm otherwise, do not label them as lux or use them to assess compliance with classroom lighting standards.
+The light sensor converts changes in ambient brightness into readable data. The program repeatedly reads the value, stores it in a variable, and updates the screen for continuous observation. Illuminance is estimated from the component datasheet and displayed in lx. It is suitable for comparing brightness changes and setting classroom thresholds; light-source type, distance, angle, and sensor placement affect the estimate.
 :::
 
 ## Test and Troubleshoot
@@ -202,10 +198,20 @@ Choose several locations around the school and record their positions, times, an
 
 Light source position, obstructions, and sensor orientation all affect readings. When comparing locations, keep measurement height, orientation, and time as consistent as possible.
 
-### How Do Relative Readings Differ from Illuminance?
+### How Does Estimated Illuminance Differ from Standard Illuminance?
 
-Relative readings compare the brightness sensed by the current device; illuminance is usually expressed in lx. Without calibration and unit confirmation, relative readings should not be labeled as standard illuminance.
+The illuminance value in this project is a rough estimate based on the component datasheet and is displayed in lx, making it useful for comparing brightness and setting thresholds. Standard illuminance measurement normally uses a specially calibrated lux meter, so the two are intended for different accuracy requirements.
 
 ### Why Repeat Measurements?
 
 A single measurement may be affected by people moving around or temporary obstructions. Repeating measurements and recording the range of variation provides a stronger basis for comparison.
+
+## FAQ
+
+### What Should I Do If the Light Reading Does Not Change?
+
+Check that the controller is powered correctly. Test by covering the sensor with your hand or placing it near a steady light source. If the reading still does not change, confirm that the program reads the light-sensor data and download the program again.
+
+### Why Do Readings Vary So Much Between Locations?
+
+Sensor orientation, distance from the light source, and surrounding obstructions all affect readings. Keep measurement height, orientation, and time as consistent as possible when comparing locations.

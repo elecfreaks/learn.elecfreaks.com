@@ -36,7 +36,7 @@ Students build, program, and test a model, then use their observations and recor
 After completing this project, students will be able to:
 
 1. Move the vehicle safely and stop at designated sampling locations.
-2. Record temperature, humidity, and relative light values and compare multiple locations.
+2. Record temperature, humidity, and illuminance values roughly estimated from the component datasheet, then compare multiple locations.
 3. Distinguish local environmental differences from conclusions about urban-scale heat islands.
 4. Use test results to improve the design through a cycle of designing, programming, testing, and improving.
 
@@ -78,7 +78,7 @@ Turn off the power, then connect the modules as shown below:
 | Module | Connection | Function |
 | --- | --- | --- |
 | Temperature and humidity sensor | Compatible connection to be confirmed | Collect ambient temperature and humidity |
-| Onboard light sensor | Onboard | Collect relative light readings |
+| Onboard light sensor | Onboard | Collect estimated illuminance (lx) |
 | Vehicle drive motors | Connections, quantity, and directions depend on the actual chassis | Move and stop the vehicle |
 
 :::tip
@@ -91,10 +91,6 @@ Onboard functions require no external wiring. For external modules, confirm comp
 ## Program Design
 
 Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
-
-:::note
-This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
-:::
 
 ### 1. Set Up at Startup
 
@@ -114,7 +110,7 @@ Suggested controller screen layout:
 | Screen row | Display content |
 | ---: | --- |
 | Row 1 | Environmental data |
-| Row 2 | Temperature, humidity, and relative light values |
+| Row 2 | Temperature, humidity, and estimated illuminance (lx) |
 | Row 3 | Operating status |
 | Row 4 | Location ID / Sampling status |
 
@@ -135,7 +131,7 @@ Repeat the following tasks in the `forever` loop:
 
 #### Record and Display
 
-- Record location ID, time, temperature, humidity, and light; optionally upload to the platform.
+- Record location ID, time, temperature, humidity, and estimated illuminance; optionally upload to the platform.
 
 #### Next Location
 
@@ -150,7 +146,7 @@ Repeat the following tasks in the `forever` loop:
 | Sampling strategy | To be verified on the device | Minimize the time difference between measurements at different locations | Repeat measurements at the same position and height |
 
 :::note
-The vehicle provides movement while the sensors collect data. The temperature and humidity probe needs time to adjust to its surroundings, so stop and wait for readings to stabilize before recording. Heat sources on the vehicle, sunlight, and sampling time affect comparisons. Measurements describe the air near the sensor, not the ground surface temperature.
+The vehicle provides movement while the sensors collect data. The temperature and humidity probe needs time to adjust to its surroundings, so stop and wait for readings to stabilize before recording. Illuminance is roughly estimated from the component datasheet; heat sources on the vehicle, sunlight, and sampling time affect comparisons. Temperature and humidity measurements describe the air near the sensor, not the ground surface temperature.
 :::
 
 :::caution
@@ -227,3 +223,13 @@ Temperature and humidity sensors need time to adjust to their surroundings. Samp
 ### Is Air Temperature the Same as Ground Temperature?
 
 A temperature and humidity sensor usually measures the air near its probe, not the road surface temperature directly. Keep the probe ventilated and record sunlight conditions.
+
+## FAQ
+
+### What Should I Do If Temperature Readings Change Greatly While the Vehicle Is Moving?
+
+Stop at each sampling location and wait for readings to stabilize before recording. Keep probe height and orientation consistent, and avoid effects from motor heat, hand contact, or direct sunlight.
+
+### What Should I Do If the Vehicle Cannot Travel Straight or Turn Reliably?
+
+Check that the motors and wheel assembly are secure and that neither wheel is obstructed. Test at low speed first. Confirm the left and right motor directions before adjusting speed and turning duration.

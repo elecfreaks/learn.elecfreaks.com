@@ -92,10 +92,6 @@ Onboard functions require no external wiring. For external modules, confirm comp
 
 Plan the program in two parts: setup steps that run once at startup, and a main loop that repeats while the model is running.
 
-:::note
-This section is a planning guide, not a tested program. A working program is not yet provided for this project. Before classroom use, verify the ports, block names, and control settings on the actual hardware. The suggested screen layout and image placeholders are guides only; the placeholders contain no executable program.
-:::
-
 ### 1. Set Up at Startup
 
 <!-- Image placeholder: startup initialization program screenshot -->
@@ -223,3 +219,13 @@ The model should clearly indicate no passage when flooding is detected. Whether 
 ### Why Is This Unsuitable for Real Disaster Prevention?
 
 The classroom model teaches sensing and response and has not undergone the reliability, waterproofing, and safety validation required for real use. Actual flooding risks should be managed by professional systems and personnel.
+
+## FAQ
+
+### What Should I Do If the Water-Level Reading Is Unstable?
+
+Check that the sensor is firmly mounted and that the sensing area is free of water droplets, dirt, and poor connections. Keep the water surface relatively still before reading again, then recalibrate the warning threshold for the actual mounting position.
+
+### What Should I Do If the Gate Does Not Reset After the Warning Is Cleared?
+
+Check that the program includes a separate condition for clearing the warning, and confirm that the motor or servo reset command uses the same connection as the warning command. Test the motion without water first, then test it with the sensor.

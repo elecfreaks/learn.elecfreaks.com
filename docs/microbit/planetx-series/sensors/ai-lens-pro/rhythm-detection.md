@@ -5,7 +5,10 @@ sidebar_label: 节奏检测
 
 # 案例：AI 节奏闪光器
 
+![节奏识别示例图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-rhythmdetection-02.jpg)
+
 分析一段录音的节奏，用 LED 闪烁表现快慢
+
 
 ## 案例简介
 

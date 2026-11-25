@@ -11,9 +11,8 @@ sidebar_label: 产品介绍
   alt="产品主图"
   style={{ width: '100%', maxWidth: '800px', height: 'auto' }}
 />
+
 > **让机器人拥有一双真正能用的“眼睛”。**
->
->
 
 ## **产品简介**
 

@@ -69,3 +69,9 @@ The pH sensor can detect the pH value (acidity and alkalinity) of liquids.
 
 ## Technical Documents
 ---
+
+
+## FQA
+
+**Q： I see white crystals near my pH probe. Is it broken?**
+**A：**No! The cap holds a special liquid called storage solution (3.3 mol/L KCl). A tiny bit can leak out around the cap edge and dry into white crystals. As long as some liquid is still inside the cap, your probe still works accurately and will last just as long. Just pour the crystals back into the liquid in the cap — no need to worry.

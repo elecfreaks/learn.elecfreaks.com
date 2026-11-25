@@ -50,6 +50,21 @@ sidebar_label: 人脸检测
 | 双轴云台积木结构与底座 | 1 套 | <!-- 图片占位：双轴云台 --> |
 | IIC 连接线及电机连接线 | 按需 | <!-- 图片占位：连接线 --> |
 
+
+## 结构搭建
+
+请按照以下搭建指南完成双轴云台的结构组装。
+
+<iframe
+  src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/files/ai-lens-pro-case-facedetection.pdf"
+  title="人脸追踪云台搭建指南"
+  width="100%"
+  height="700"
+  style={{ border: '1px solid #ddd' }}
+/>
+
+[打开或下载人脸追踪云台搭建指南](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/files/ai-lens-pro-case-facedetection.pdf)
+
 ## 硬件连接
 
 1. 关闭电源，将 micro:bit 安装到哪吒 Pro 多功能扩展盒上。
@@ -61,6 +76,9 @@ sidebar_label: 人脸检测
 <!-- 图片占位：云台 IIC、M1、M2 接线及水平与俯仰方向 -->
 
 **注意：** 在确认可用的限位方案、紧急断电方式及电机停止逻辑之前，不要运行自动追踪。教师应固定底座、整理线材并看护测试区域，先低速单轴测试；手指和障碍物远离运动结构。
+
+
+
 
 ## 软件准备
 

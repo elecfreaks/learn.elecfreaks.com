@@ -6,8 +6,11 @@ sidebar_label: 产品介绍
 # **AI 摄像头 Pro**
 
 
-![产品主图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-01.png)
-
+<img
+  src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-01.png"
+  alt="产品主图"
+  style={{ width: '100%', maxWidth: '800px', height: 'auto' }}
+/>
 > **让机器人拥有一双真正能用的“眼睛”。**
 >
 >
@@ -26,8 +29,8 @@ AI 摄像头 Pro 将 **180° 可翻转镜头、内置电池、内置 Wi\-Fi 与�
 ## **为什么 AI 摄像头 Pro 更适合机器人项目？**
 
 
-### **调整视角，不必重**新设计机器人结构
-
+### **调整视角，不必重新设计机器人结构**
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-07.jpg)
 
 
 机器人项目经常需要在不同观察方向之间切换。
@@ -94,7 +97,7 @@ AI 摄像头 Pro 内置电池与 Wi\-Fi。在支持的场景中，可以通过 W
 
 ### **巡线时，更专注于真正需要跟随的路线**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-05.png)
 
 视觉巡线看似简单，但真实赛道中往往同时存在相邻轨迹、十字路口、边框、阴影或其他深色区域。
 
@@ -122,7 +125,7 @@ AI 摄像头 Pro 针对这一场景提供 **单线实时追踪能力**，让系�
 
 ### **同一个物体，可以从更多角度学习**
 
-
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-selflearningclassification-02.jpg)
 
 现实中的物体不会始终以同一个角度、距离和背景出现在摄像头前。
 
@@ -203,6 +206,7 @@ AI 摄像头 Pro 的颜色识别支持两种使用方式：
 
 
 AI 摄像头 Pro 不只是“功能很多”，而是可以覆盖从 **AI 入门、模型学习，到机器人控制和互动项目** 的完整学习过程。
+![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-06.png)
 
 
 

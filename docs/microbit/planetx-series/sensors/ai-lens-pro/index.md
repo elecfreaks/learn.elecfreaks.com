@@ -5,13 +5,14 @@ sidebar_label: AI摄像头Pro
 
 # AI摄像头Pro
 
-![产品主图](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-01.png)
+<img
+  src="https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/docs/microbit/sensor/planet-x-sensors/ai-lens-pro/ai-lens-pro-01.png"
+  alt="产品主图"
+  style={{ width: '100%', maxWidth: '800px', height: 'auto' }}
+/>
 
 
 ## 教学路线
-
-先按“产品介绍—产品清单—技术规格—快速入门—软件库说明”完成准备，再沿下表由易到难开展案例。侧栏六个导读页使用 `sidebar_position: 0～5`，案例从 `6` 开始，表中的课次从 1 计数。
-
 低龄学生可由教师带领完成观察与识别反馈；具备变量、条件和循环基础后，再进入数据与状态、运动控制。综合任务适合有机器人搭建经验的学生分组完成，可按学情拆成多课时。
 
 | 课次 | 学习阶段 | 案例 | 核心能力 |

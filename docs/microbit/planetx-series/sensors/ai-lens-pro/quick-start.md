@@ -14,7 +14,7 @@ sidebar_label: 快速入门
 | --- | --- |
 | AI Lens Pro | 观察图像和使用设备功能 |
 | 光线充足的桌面和一个积木模型 | 作为观察对象 |
-| micro:bit 与 Nezha 拓展板或 Nezha2 拓展板，或 Nezha ESP32 主控盒；连接线和电脑 | 后续编程时按案例选择使用 |
+| micro:bit 与带 IIC 接口的兼容扩展板，或者 Nezha ESP32 主控盒；连接线和电脑 | 后续编程时按案例选择使用 |
 
 <!-- 待补充：电源键、功能键、镜头、屏幕及接口的实物标注图，以及充电和供电方式的实测说明。 -->
 
@@ -32,7 +32,7 @@ sidebar_label: 快速入门
 
 ## 连接主控并准备编程
 
-1. 按案例选择主控。使用 Nezha 拓展板或 Nezha2 拓展板时，关闭电源并安装 micro:bit；使用 Nezha ESP32 主控盒时，无需安装 micro:bit。
+1. 按案例选择主控。使用带 IIC 接口的兼容扩展板时，关闭电源并安装 micro:bit；使用 Nezha ESP32 主控盒时，无需安装 micro:bit。
 2. 将 AI Lens Pro 接到所选设备的 IIC 接口；检查连接后，先开启摄像头，再启动主控。
 3. 使用 micro:bit 时，打开 [MakeCode](https://makecode.microbit.org/)，新建项目，在“扩展”中搜索 `planetX-AI` 并添加。
 4. 在左侧积木分类中查找 AI 摄像头相关积木。选择适用于所选主控的案例，按接线和步骤搭建程序。Nezha ESP32 的编程环境与 micro:bit 不同，摄像头库的使用方式需待验证。
